@@ -1,0 +1,1876 @@
+University of Chicago Law School 
+University of Chicago Law School 
+Chicago Unbound 
+Chicago Unbound 
+
+Journal Articles 
+
+1991 
+
+Cass R. Sunstein 
+
+Democratizing America through Law 
+Democratizing America through Law 
+
+Faculty Scholarship 
+
+Follow this and additional works at: https://chicagounbound.uchicago.edu/journal_articles 
+
+ Part of the Law Commons 
+
+Recommended Citation 
+Recommended Citation 
+Cass R. Sunstein, "Democratizing America through Law," 25 Suffolk University Law Review 949 (1991). 
+
+This Article is brought to you for free and open access by the Faculty Scholarship at Chicago Unbound. It has been 
+accepted for inclusion in Journal Articles by an authorized administrator of Chicago Unbound. For more 
+information, please contact unbound@law.uchicago.edu. 
+
+DEMOCRATIZING  AMERICA  THROUGH  LAW*
+
+Cass  R.  Sunsteint
+
+Our system of government  is  ineffective,  inefficient,  and  undemocratic.
+Current  institutions are  the source  of these  problems.  Without great  dif-
+ficulty,  legal  reforms  could  dramatically  improve  these  institutions.
+
+I  propose  three  such  reforms.  First,  government  should  rely  much
+more  than  it  does  now  on  the  provision  of  information,  on  disclosure,
+and  on  education.  Second,  economic  incentives  should  replace  the  com-
+mand-and-control  regulation  that  has  become  so  characteristic  of  our
+governmental  institutions.  Third,  the  law  should  promote  more  decen-
+tralization  in  the  private  and  public  spheres,  allowing  greater  flexibility
+for states  and  localities,  for  employers,  and  for  workers.
+
+In  recent  decades,  prescriptions  of this  general  sort  have  been  set out
+by  economists  with considerable  care and  clarity.  There can  be no  doubt
+that  legal  initiatives  in  these  directions  would  increase  the  efficiency  of
+contemporary  government;  they  would  also  help  guarantee  that  regula-
+tion  is actually  effective in  accomplishing  its goals.  These  would be  large
+improvements,  especially  in a  period  in which  American  industries  must
+compete  in  increasingly  international  markets.  I  will  therefore  devote
+considerable  attention  to  explaining  how  efficiency  and  efficacy  might be
+brought  about  by  legal  reforms.
+
+It  is  important  to  emphasize,  however,  that  we  are  in  the  midst  of a
+period  in  which  much  of the  world  has  been  embarking  on  the  task  of
+democratization.  In such  a  period, it would  be especially  odd to  concen-
+trate  our  regulatory  efforts  on  efficiency  and  efficacy  alone.  This  is  so
+particularly  in  light  of  the  fact  that  from  the  standpoint  of democratic
+theory,  the  contemporary  American  system  of  public  law  is  nothing  to
+celebrate.  Democratic  deliberation  on the  central issues is discouragingly
+rare.  Sensationalistic  anecdotes  often  dominate  public  debate.  Powerful
+interest  groups-on the  left,  right,  and  center-exert  excessive  influence
+over  regulatory  policy.  Real  participation  in  the  public  and  private
+
+*  This  essay  is  derived  from  a lecture  Professor  Sunstein  delivered  December  5,  1991,  as
+
+part  of the  Donahue  Lecture  Series.  The  Donahue  Lecture  Series  is  a  program  instituted  by
+the  Suffolk  University Law  Review  to  commemorate  the  Honorable  Frank  J. Donahue,  former
+faculty  member,  trustee,  and  treasurer  of  Suffolk  University.  The  Lecture  Series  serves  as  a
+tribute  to  Judge  Donahue's  accomplishments  in  encouraging  academic  excellence  at  Suffolk
+University  Law  School.  Each  lecture  in  the  series  is  designed  to  address  contemporary  legal
+issues  and  expose the Suffolk  University community  to outstanding  authorities  in various  fields
+of law.
+
+t  The  author is  the Karl  N.  Llewellyn  Professor  of Jurisprudence,  University  of Chicago
+Law  School  and  Department  of  Political  Science,  University  of Chicago.  He  gratefully  ac-
+knowledges  the  helpful comments  of Lucian  Bebchuk,  John  Donohue,  and  Richard  Posner on
+an  earlier  draft  of this  essay.
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 949 1991
+
+SUFFOLK  UNIVERSITY  LAW REVIEW
+
+[Vol.  XXV:949
+
+spheres  is at best episodic.  In this light, few matters  deserve higher prior-
+ity than institutional  changes  designed to increase the democratic charac-
+ter  of the  modem  state.
+
+I  claim  here  that  the  three  general  reforms  would  promote  not  only
+efficiency  and  efficacy,  but  democracy  as  well.  Strategies  of disclosure
+and  education  are  the  precondition  for  a  well-functioning  democratic
+process.  Without information,  people  cannot carry out their roles as citi-
+zens.  Economic  incentives  have  the  fortunate  consequence  of requiring
+participants in  the democratic process  to focus on the  key question:  How
+much reduction  in (say)  risk do we  want, and at what  price?  By contrast,
+existing  approaches  tend  to  distract  attention  from  that  question,  and to
+direct it toward  other  issues  that are at once  less  relevant  and less  intelli-
+gible.  Decentralization  is,  under  current  conditions,  an  indispensable
+part  of  any  strategy  for  democratization.  The  national  government  is
+simply  too  remote  for  general  citizen  control.
+
+The  reforms  for  economic  efficiency  therefore  go  hand-in-hand  with
+reforms  for  democratization.  To  be  sure,  we  will  at  some  stage  have  to
+make  some  difficult  choices  between  efficiency  and  democracy.'  But for
+the next generation,  the  three fundamental  changes  will bring about pow-
+erful  movements  in both  directions.
+
+In  this  essay  I  will  be  painting  with  an  extremely  broad  brush.2  My
+aim  is  to  set out the  very general  contours  of reform  strategies.  In  order
+to do  this,  the  discussion  of particular  questions  will  have  to  be  greatly
+compressed.  In  the  near  future,  of course,  the  particulars  will  deserve
+much  greater  detail.  I  sacrifice  attention  to  specifics  with  the  under-
+standing  that in thinking  about reform  of American  public  law,  the gen-
+eral defects  of the  system  have  been  lost too  often,  in  favor of discussion
+of unnecessarily  incremental  changes.
+
+This  essay  has  four  parts.  In  Part  I,  I  discuss  the  rise  of the  modem
+regulatory  state,  with particular  reference  to  the New  Deal period.  Here
+I  explore  how  the  New  Deal  attempted  simultaneously  to  increase  eco-
+nomic  efficiency  and to  promote  democratization-and  how  it  failed,  in
+important  respects,  on  both  counts.  In  Part  II,  I  explore  the  current
+state of regulatory  government.  I attempt  to  show  its multiple inefficien-
+cies  and  to  say something  about  the  consequences  of those  inefficiencies
+for  the  economy.  I  also  explain  why  the  current  system  of  public  law
+fails  from  the  democratic  point  of view.  In  Part  III,  I  outline  remedies
+for the  current  situation,  arguing  that  across  a broad  range,  the  goals  of
+
+1.  See  infra  section  IV-D.
+2.  See  also  Sunstein, Administrative  Substance,  1991  DUKE  L.J.  607,  on which  I draw for
+
+some  sections  of this  essay.
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 950 1991
+
+1991]
+
+DEMOCRATIZING  AMERICA
+
+economic  efficiency  and  democratization  are  entirely  compatible.  Part
+IV  offers  some  significant  qualifications  to  this  general  claim.
+
+I.  THE  NEW  DEAL
+
+President  Franklin  Roosevelt's  New  Deal,  undertaken  in  the  1930s,
+represented  a  fundamental  restructuring  of  the  American  legal  system.
+Some  people  think  that  it amounted  to  a  kind  of constitutional  amend-
+ment.'  We  need  not go  so  far  in  order  to  recognize  its foundational  sta-
+tus  in  modem  American  government.
+
+The  New  Deal  operated  against  a  well-defined  constitutional  back-
+drop.4  That backdrop included  the three basic cornerstones  of the Amer-
+ican  legal  system:  checks  and balances;  federalism;  and  individual  rights.
+The  New  Dealers  viewed  all  of these  in  the context  of the  Great Depres-
+sion,  which  left  huge  numbers  of Americans  out  of work.  In  that  con-
+text, the  New  Dealers  thought  that  the pre-existing  system of individual
+rights  protected  both  too  little  and  too  much.  That  system  consisted
+largely of the common-law  catalogue  of rights  "against"  government,  in-
+cluding  most  notably  private  property  and  freedom  of contract.
+
+For  the  New  Dealers,  this catalogue  protected  too  much,  since  it  im-
+munized  existing  holdings  of  property  from  democratic  control.  Not
+everything  that  people  had,  under  the  common  law,  was  genuinely  enti-
+tled  to  legal  protection.  The  pre-existing  system  of rights  also  protected
+too  little, since  it furnished  no  safeguards  against  the  various  hazards  of
+the market  economy,  including  unemployment,  homelessness,  disability,
+and  disease.
+
+The emerging  conception  of rights  called  for  redistribution  of  various
+kinds and  also for  recognition  of a novel  category  of protected  interests.
+The  ultimate  result  was  President  Roosevelt's  second  Bill  of Rights,  in-
+cluding  "the  right  to  a  useful  and  remunerative  job,"  "the  right  to  earn
+enough to provide  adequate food and clothing and recreation,"  "the  right
+of  every  family  to  a  decent  home,"  "the  right  to  adequate  medical  care
+and  the  opportunity  to  achieve  and  enjoy  good  health,"  "the  right  to
+adequate  protection  from  the  economic  fears  of  old  age,  sickness,  acci-
+dent,  and  unemployment,"  and  "the  right  to  a  good  education." 5
+
+Institutional  changes followed  from these  ideas.  Against  the backdrop
+
+3.  See  B.  ACKERMAN,  WE  THE  PEOPLE  (1991)  (discussing  the  New  Deal  as  a  constitu-
+
+tional  amendment).
+
+4.  See  C.  SUNSTEIN,  AFTER  THE  RIGHTS  REVOLUTION  (1990)  (describing  original
+framework  of Constitution);  Sunstein,  Constitutionalism After  the  New  Deal,  101  HARV.  L.
+REV.  421  (1987)  (same).
+
+5.  Roosevelt, Message to  the Congress on  the State of the  Union, in  13  THE  PUnLIC  PA-
+PERS  AND  ADDRESSES  OF  FRANKLIN  D.  ROOSEVELT  41  (1969)  (speech  delivered  Jan.  11,
+1944).
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 951 1991
+
+SUFFOLK  UNIVERSITY  LAW  REVIEW
+
+[Vol.  XXV:949
+
+of the  new  conception  of rights,  the  original  system  of checks  and  bal-
+ances  seemed  anachronistic.6  Far  from  a  precious  safeguard  of  liberty
+from  government,  that  system  appeared  an  unnecessary  constraint  on
+democratic  action  designed  to  promote  economic  productivity  and  to
+protect  the  disadvantaged.  The most  radical  attacks  on  checks  and  bal-
+ances-including  The Coming American Fascism,' a publication  intended
+not  as  a  warning  but  rather as  an optimistic  statement  of the  wonderful
+things  to  come-were  rejected.  But  the  attack  on  the  system  of checks
+and  balances  did  have  two  enduring  legacies.  It helped  produce  a  con-
+centration  of judicial  and lawmaking  power  in  the presidency,  which was
+no  longer  restricted  to  execution  of  the  laws,  narrowly  understood.' 
+It
+also  contributed  to  the New  Deal  enthusiasm  for  "independent"  agen-
+cies.  These  novel entities  combined  traditionally  separated  functions and
+were  immunized  from direct  control by any  of the constitutionally  speci-
+fied  branches.
+
+Under  the  New  Deal  reformation,  the system  of federalism  fared  little
+better.  Those who  produced  the original framework  envisioned  states  as
+an  obstacle  to  national  action,9  and  also as  an  arena  for  democratic  self-
+determination.  For  the New  Dealers,  the  states  were  not  a guarantor  of
+freedom,  but  on  the  contrary  a  barrier  to  necessary  social  change.  A
+redirection  of authority  from  the  states  to  the  national  government  was
+indispensable  if public  officials  were to carry out  their new  tasks.  Greatly
+expanded  national  power,  mostly  under  the  commerce  clause,  was  the
+result.
+
+Once authority  was  thus redirected,  there  was  no  doubt  that the presi-
+dency  would  be  the  principal  beneficiary. 
+In  a  single  bold  stroke,
+Roosevelt  united  the  Hamiltonian  belief  in  an  energetic  executive  with
+the  Jeffersonian  belief  in  collective  self-determination.  The  presidency
+became  the  focal  point  for  democratic  self-governance.
+
+In  the  New  Deal  period,  the  belief in  economic  productivity  and  the
+belief in democracy  were thoroughly  merged.  New institutions  were nec-
+essary  above  all  to  improve  the  operation  of  the  economy-increasing
+business  confidence,  providing  the  preconditions  for  stock  markets,  en-
+suring people  of the stability  of banks,  managing  the  business  cycle,  and
+protecting  farmers  against  undue  economic  fluctuations.  Eventually
+spurred  by  Keynesian  economics,  the  New  Deal  understanding  of  the
+role  of  the  state  was  centered  on  the  goal  of  economic  prosperity.
+Roosevelt's  program  is  often  associated  with  protection  of the  disadvan-
+
+6.  See  R. TUGWELL,  THE  BATTLE  FOR  DEMOCRACY  (1935).
+7.  See  L.  DENNIS,  THE  COMING  AMERICAN  FASCISM  (1939)  (arguing  for  fascism  in
+
+America).
+
+8.  See T.  Lowi,  THE  PERSONAL  PRESIDENT  (1985)  (describing  changes  in  presidency).
+9.  See  THE  FEDERALIST  No.  38,  at  239  (J.  Madison)  (R.  Fairfield  2d  ed.  1966).
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 952 1991
+
+1991]
+
+DEMOCRATIZING  AMERICA
+
+taged,  and  this idea was  indeed  central  to him.'°  But  government  assur-
+ance of the successful  performance  of the economy  was  the principal  goal
+of the  New  Deal  reforms.
+
+This  idea did not  conflict  with  democratic  ideals.  On the contrary,  the
+market system that preceded  the New Deal  was subject to  sustained chal-
+lenges  in this period,  precisely on  democratic  grounds.  Before the rise of
+modern  regulatory  institutions,  common-law  courts,  which  were  hardly
+accountable  to  the  people,  created  much  of the basic  system  of govern-
+ance.  Thus  the  law  of property,  tort,  and  contract  was  a  crucial  regula-
+tory  system.  It  had  been  created  by  the  unelected judiciary.
+
+In  the  early  part of the century,  courts  went  so  far  as to  interpret  the
+Constitution  as  embodying  common-law  principles." 
+In  this  way  they
+immunized  the  common  law  from  democratic  control.  By  contrast,  the
+new  entities  created  by  the New  Deal  were  intended  to  be popularly  ac-
+countable.  Indeed,  those  entities  would  be  supervised  by  the  people  in
+ways  that would  lead to  large  gains  in democratic  self-governance.  Thus
+it was that  the belief in economic  prosperity  and democratic  government
+marched  hand-in-hand.
+
+Contemporary  governmental  structures  are best  understood  as an out-
+growth  of  the  New  Deal  reformation.  Our  current  system  is  not,  of
+course,  by  any  means  identical  with  what  emerged  from  the New  Deal
+period.  There  have  been  occasional  bursts  of governmental  activity  and
+retrenchment,  and  these  have  been  quite  important.  Above  all,  the
+"rights  revolution"  of  the  late  1960s  and  early  1970s  witnessed  an  ex-
+traordinary  growth  of  new  regulatory  entities,  rivalling  the  New  Deal
+itself in  scope  and  importance.' 2  Of particular  interest  was  the creation
+of institutions  designed  to  reduce  risks  in  consumer  products,  the  work-
+place,  and  the natural  environment.
+
+Here  the  rhetoric  of  "rights"  and  "redistribution"  accompanied  the
+claims  of democracy  and  efficiency.  The  new  entities  were  supposed  to
+protect  the  "right"  to  a  safe  workplace,  an  unpolluted  atmosphere,  and
+in  clean  water-and  also to  shift resources  from (among  others)  employ-
+ers  to  employees.  Both economic  and  democratic  goals  were  important
+here  as well.  The new  institutions were  supposed  to  remove  a substantial
+drain  on  the  economy,  and  also  to  reflect  democratic  judgments  about
+risk  reduction.
+
+Much  the same  can  be said  about the new  attack,  prominent  since  the
+
+10.  See  K.  DAVIS,  FDR:  THE  NEW  DEAL  YEARS,  1933-1937  (1986) 
+
+(discussing
+Roosevelt's  reaction  to invalidation  of National  Industrial  Recovery  Act and  support  for  child
+labor, minimum  wage,  maximum  hours,  and  collective  bargaining  measures).
+
+11.  See  Lochner  v.  New  York,  198  U.S.  45  (1905)  (invalidating  law  addressing  maximum
+
+hours  of work).
+
+12.  See  C.  SUNSTEIN,  AFTER  THE  RIGHTS  REVOLUTION  (1990).
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 953 1991
+
+SUFFOLK  UNIVERSITY  LAW  REVIEW
+
+(Vol.  XXV:949
+
+1960s,  on  discrimination  on  the  basis  of  race,  sex,  and  disability.  Dis-
+crimination  has  been  challenged  as  a  barrier  to  economic  productivity
+and  to  the  political  equality  so  crucial  to  democratic  principles.  In  the
+area of civil  rights, economic  and democratic  aspirations  played  a central
+and  complementary  role.
+
+At  least  since  the  election  of President  Reagan  in  1980,  we  have  been
+in a period  of retrenchment, in which  New  Deal reforms have  often  been
+rethought  in  favor of renewed  attention  to the capacities  of private  mar-
+kets.  The  enforcement  practices  of  federal  agencies  have  been  signifi-
+cantly  changed  as  a  result.  But  there  has  been  no  fundamental
+rethinking  of  current  institutions.  The  changes  have  been  largely
+incremental.
+
+II.  THE  STATUS  Quo
+
+How  has  our  system  of  public  law  actually  performed?  Has  it  pro-
+moted  economic  prosperity  and  democratic  governance?  We  now  have
+considerable  evidence  on  both  scores.  And  while  there  have  been  some
+significant  successes,"l  much  of the  overall  story  is  dismaying.
+
+A. 
+
+Inefficiency
+
+The  current  system  of  public  law  has  been  extraordinarily  inefficient.
+The annual  net  cost  of regulation  has  been  estimated  at between  $44 and
+$200 billion. 4  There  is  no  question  that  we  need  not spend  this  amount
+for the  benefits  we  actually  receive.
+
+So-called  economic  regulation-calling  for  price  and entry  controls  in
+various  sectors  of  the  economy-produced  unnecessary  and  exorbitant
+costs for American  consumers.  Thus it  is estimated  that  airline deregula-
+tion  yielded  gains  to  airlines  and  travellers  of  about  $15  billion  annu-
+ally.'5  The  corresponding  numbers  for  trucking  deregulation  and
+railroad  deregulation  were  $30  billion  and  $15  billion. 6  The  Natural
+Gas  Act, which  allowed  government  control  of gasoline  prices,  certainly
+contributed  to  the  dangerous  gas  shortages  of the  1970s.' 7  The  resulting
+inefficiencies  led to  decreases  in  industrial production,  losses  of hundreds
+
+13.  See  Sunstein, Administrative  Substance,  supra  note  2.
+14.  See  Hahn  &  Hird,  The  Costs  and Benefits of Regulation,  8 YALE J.  ON  REG.  233,  247
+(1991)  (net  cost  of regulation  estimated  at  $44 billion).  For  references  to  other  studies, and  a
+suggestion  that this  is  far  too low,  see  The  Total Cost  of Regulation?, REGULATION,  Summer
+1991,  at 22-25.  The  Office  of Management  and Budget  makes  an estimate  of between  $50  and
+$150  billion.  See  OFFICE OF  MANAGEMENT  AND  BUDGET,  REGULATORY  PROGRAM  OF THE
+UNITED  STATES-APRIL  1,  1987-MARCH  31,  1988,  at  xii  (1987).
+
+15.  OFFICE OF  MANAGEMENT  AND  BUDGET,  REGULATORY  PROGRAM  OF  THE  UNITED
+
+STATES-APRIL  1,  1989-MARCH  31,  1990,  at  6  & citations  therein  (1989).
+
+16.  Id.
+17.  See  S. BREYER,  REGULATION  AND  ITS  REFORM  (1982).
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 954 1991
+
+1991]
+
+DEMOCRATIZING  AMERICA
+
+of thousands  of jobs,  and  reductions  in  the supply  of gas  for  millions of
+Americans. 1 8
+
+Nor are  inefficiencies  limited to  the  area  of economic  regulation.  The
+Food  and  Drug  Administration  (FDA)  has  delayed  the entry  of benefi-
+cial  foods  and  drugs  into  the  market,  significantly  increasing  risks  to
+safety  and health.' 9  The  Environmental  Protection  Agency's  (EPA) fuel
+economy  standards  appear  to  have  produced  uncertain  gains  in  light  of
+the fact  that manufacturers  were in any case moving  to smaller and  more
+efficient  cars;  but  they did  lead  to  significant  losses  in  lives  as  a  result of
+producing  more  dangerous,  lighter  vehicles.2 °  The  United  States  spent
+no  less  than  $632  billion  for  pollution  control  between  1972  and  1985.21
+Some  studies  suggest  that  alternative  strategies  could  have  achieved  the
+same  gains  at  less  than  one-quarter  of the cost. 22
+
+So  much  for the  facts.  What  is  the  cause  of the current  situation?  A
+pervasive  source  of regulatory  inefficiency  in  the United  States  is the  use
+of  rigid,  highly  bureaucratized  "command  and  control"  regulation,
+which  dictates,  at  the  national  level,  control  strategies  for  hundreds,
+thousands,  or  millions  of companies  and  individuals  in  an  exceptionally
+diverse  nation.  Command  and  control  regulation  is  a  dominant  part  of
+American  government in such  areas as  environmental  protection and  oc-
+cupational  safety  and  health.
+
+In  the  environmental  context,  command  and  control  approaches  usu-
+ally  take the  form of regulatory  requirements  of the  "best  available  tech-
+nology"  (BAT), which  are almost always  imposed  only  on new  pollution
+sources.  BAT  strategies  are  pervasive  in  federal  law.  Indeed,  they  are  a
+defining  characteristic  of regulation  of the air,  the water,  and  conditions
+in  the  workplace.23
+
+One of the many  problems  with  BAT strategies  is  that they  ignore  the
+enormous  differences  among  plants and industries  and among geographi-
+cal  areas.  In  view  of these  differences,  it  is  wildly  inefficient  to  impose
+nationally  uniform  technological  requirements.  It does not seem  sensible
+to impose  the same  technology  on industries  in  diverse  areas-regardless
+of whether  they  are  polluted  or clean,  populated  or  empty,  or  expensive
+or cheap  to  clean  up.
+
+There  are  other sources  of inefficiency  as well.  BAT  strategies  require
+
+18.  Id.
+19.  See,  e.g.,  H.  GRABOWSKI  &  J.  VERNON,  THE  REGULATION  OF  PHARMACEUTICALS
+
+(1983)  (discussing  harmful  effects  of FDA  screening).
+
+20.  See  R.  CRANDALL,  REGULATING  THE  AUTOMOBILE  (1986).
+21.  See  T. TIETENBERG,  EMISSIONS  TRADING  41-45  (1985).
+22.  Id.
+23.  See,  e.g.,  42  U.S.C.  §  7411(a)(1)(C)  (1988)  (Clean  Air Act);  33  U.S.C.  §  1316(a)(1)
+
+(1988)  (Clean  Water  Act).
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 955 1991
+
+SUFFOLK  UNIVERSITY  LAW  REVIEW
+
+[Vol.  XXV:949
+
+all  new  industries  to  adopt  costly  technology,  and  allow  imposition  of
+more  lenient  standards  on  existing  plants  and  industries.  Through  this
+route  BAT  strategies  actually  penalize  new  products,  thus discouraging
+investment  and  perpetuating  old,  dirty  technology.  The  result  is  ineffi-
+ciency  in investment strategies,  in innovation,  and even  in  environmental
+protection.
+
+Such strategies  also fail  to encourage the development  of new pollution
+control  technology,  and  indeed,  serve  to  discourage  it  by  requiring  its
+adoption  for  no  financial  gain.  Under  the  BAT  approach,  a  company
+that  innovates  will  simply  have  to  invest  more  in  pollution  control.  It
+will be  punished  rather  than  rewarded  for the  development  of new  con-
+trol technology.  BAT  strategies  are  also extremely  expensive  to  enforce,
+imposing  on  the EPA  and the Occupational  Safety  and Health  Adminis-
+tration  (OSHA)  an  extraordinary  monitoring  burden.
+
+Additional  inefficiency  stems  from the fact  that BAT approaches  focus
+on the  technology  at the  end of the pipe.  This is merely  a way  of aiming
+at  symptoms  rather  than  underlying  causes  of pollution.  For  example,
+sulfur dioxide  emissions  (the major  source  of acid  rain) are controlled  by
+forcing coal-fired  power  plants to adopt costly  "scrubbing"  strategies.  A
+much  cheaper  method  of control  is to  encourage  companies  to  switch  to
+cleaner  coal.24
+
+In  general,  governmental  specification  of  the  means  of achieving  de-
+sired  ends is a  good  way  of producing  inefficiency.  Instead of permitting
+industry  and  consumers  to  choose  the  "means"-and  thus  to  impose  a
+form of market  discipline  on that question-we  often select  the  means  in
+advance.  The  governmentally-prescribed  means  is  often  the  inefficient
+one.
+
+Other  inefficiencies  in  existing  law  stem  from  inadequate  attention  to
+the  problem  of incentives.  Consider,  for example,  the  Superfund statute,
+which  was  created  to  deal  with  the  problem  of abandoned  toxic  waste
+dumps.  Congress'  basic  strategy  was  to impose joint and several  liability
+on  everyone  connected  with  the dump  in  question-managers  or  owners
+of  the  site,  generators  of  the waste,  and  transporters. 25  At  first  glance,
+the strategy  seems both fair and efficient:  fair, because  it imposes cleanup
+duties  on  everyone;  efficient,  because  it is  likely  to  deter  everyone  from
+contributing  to  the problem  of abandoned  waste  sites.
+
+A  predictable  consequence  of this strategy  is to produce  incentives, not
+to clean  up,  but instead  to have  protracted  litigation  on  the liability ques-
+tion.  If everyone  is liable,  it  is almost  as bad as  if no  one is.  The liability
+
+24.  See  B.  ACKERMAN  &  W. HASSLER,  CLEAN  COAL/DIRTY  AIR  (1981)  (discussing  in-
+
+terest  group  pressures  behind  Clean  Air Act).
+
+25.  42  U.S.C.  §§  9601-9675  (1988).
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 956 1991
+
+1991]
+
+DEMOCRATIZING  AMERICA
+
+of each  person  is effectively  "decreased"  by  virtue  of the sheer  numbers
+of people  who  are liable as well.  For each person, contemplating  possible
+courses  of action,  liability  must  be  understood  in the  context  of a situa-
+tion  in  which many other people  will be liable too.  If hundreds of people
+are  subject  to suit, one can  be  sure  that there  will be endless  litigation on
+the  liability  question.  Thus it is  that on  average,  seven  years  and at least
+$4 million  in  transactions  costs  are  necessary  before  final  clean-up  even
+begins.26
+
+More  generally,  studies  of  the  costs  and  benefits  of  regulatory  pro-
+grams  show a  crazy-quilt  pattern,  including both  too much and  too little
+regulation.  Consider,  for  example,  expenditures  per  life  saved. 2 '  There
+is  now  considerable  data  on  the  amount  of money  spent  to  save  lives  in
+various  government  programs.  Some  programs  pay  for  themselves  in
+terms  of health  and related  savings.  The lives  saved  are  purely  a bonus,
+in  the  sense  that  they  come  for  free.  Other  programs  cost  between
+$100,000  and  $300,000  per  life  saved-surely  an  amount  well  worth
+spending.  But  still  other  programs  cost  $89  million  per  life  saved,  $92
+million  per life  saved,  even  $132  million  per life  saved.  To be sure, some
+disparities,  even  significant  ones,  might  well  be  expected  in  a  democ-
+racy.2 8  But it is  difficult  to  believe  that these  differences  reflect  anything
+but  interest-group  power and  irrationality  of various  sorts.  In  any  case,
+they  are  highly  inefficient.
+
+This brief summary  should  be sufficient to suggest  that from the stand-
+point  of  efficiency,  much  of  modern  government  is  ill-directed.  Some
+programs  are  not  beneficial  at  all.  Others  have  unnecessary  and  costly
+side-effects.  We  could  obtain  the same  benefits  much  more  cheaply.
+
+Sometimes  inefficiency  in government,  particularly  when  described  by
+economists,  seems  a  dry  and  technical  matter.  But the  consequences  of
+the status  quo  are  anything  but  technical.  They  include  a  range  of ad-
+verse  effects  on  human  beings:  excessively  high  prices,  greater  unem-
+ployment, lower benefits  in  terms of safety  and health,  more poverty,  and
+increased  difficulty  for  American  companies  and  workers  attempting  to
+compete  in  an  increasingly  international  market.
+
+B.  Democracy
+
+The  New  Deal  aspired  not  only  to  greater  efficiency  but  also  to  more
+democracy.  The  New  Dealers  hoped  for a  system  in  which  citizens  and
+representatives,  operating  through  responsive  but  expert  organs,  would
+
+26.  See  Elliott,  Superfund:  EPA  Success  National Debacle?,  NAT.  RESOURCES  AND
+
+ENV'T  (forthcoming  1992).
+
+27.  See  Morrall, A  Review  of the Record,  REGULATION,  Nov.-Dec.  1986,  at  25.
+28.  See  Pildes  &  Anderson,  Slinging Arrows  at  Democracy:  Social Choice Theory,  Value
+
+Pluralism and Democratic Politics, 90  COLUM.  L.  REv.  2121  (1990).
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 957 1991
+
+SUFFOLK  UNIVERSITY  LAW  REVIEW
+
+[Vol.  XXV:949
+
+make deliberate  decisions  about the  basic  system  of public law.  In place
+of the undemocratic;  ad hoc systems  of common-law  ordering  and judge-
+made  constitutionalism,  new  regulatory  institutions  would  be  subject  to
+political  will  and  carry  out  public  instructions.  The  new  regime  was  to
+combine  a  high  degree  of  accountability  with  a  high  degree  of
+deliberation.
+
+In  practice,  this democratic  aspiration  has often  been  defeated.  People
+rarely  have  enough  information  to  participate  at all,  or at all  well, in  the
+processes  of government.  The extraordinary  concentration  of regulation
+in  Washington  has  hampered  democratic  deliberation  both  in  localities
+and  in  the  private  sphere.  The  use  of  complex  technological  mecha-
+nisms,  and  their  centrality  to  actual  outcomes,  have  contributed  to  the
+power  of  well-organized  interest  groups  over  the  regulatory  process.
+Thus  it  is  that the  New  Deal  has  helped  bring  about  a  kind  of Madis-
+onian  nightmare  of government  by  faction.2 9
+
+Democratic  failures  have  often  been  documented.3 °  The  BAT  ap-
+proach,  for  example,  is  severely  deficient  from  the standpoint  of a  well-
+functioning  political  process.  That  approach  ensures  that  citizens  and
+representatives  will be  focussing  their attention  not  on what  levels  of re-
+duction  are  appropriate,  but  instead  on  the  largely  incidental  and  nearly
+impenetrable  question  of what  technologies  are now  available.3'  Because
+of its sheer  complexity,  this issue is not  easily  subject to  democratic  reso-
+lution.  Moreover,  the  issue  is  not  the  relevant  one  for  democratic  poli-
+tics,  which  is  the  appropriate  degree  and  nature  of  environmental
+protection-an  issue  to  which  the  BAT  question  is  only  indirectly
+related.
+
+The  focus  on  the question  of "means"  also tends to increase  the power
+of well-organized  private groups, by  allowing  them  to  press  environmen-
+tal  and regulatory  law in  the  service  of their own  parochial  ends.  These
+ends include,  for  example,  the  promotion  of ethanol,  which  is helpful  to
+corn  farmers  though  not  necessarily  to  environmental  protection;  other
+fuels  might  well  be  preferable  on  environmental  grounds.  Ends  favored
+by  parochial  interests also  include  governmentally-compelled  use  of coal
+"scrubbers,"  which  are  helpful  to  eastern  coal,  although  not necessarily
+to  air  quality.  The  use of already-clean  coal  might  well  be  better.32
+
+In  this  respect,  the  BAT  strategy  is  emblematic  of a  far  more  general
+
+29.  See  Stewart, Madison's  Nightmare,  57  U.  CHIi.  L.  REV.  335  (1990)  (describing  faction-
+
+alizing  of regulatory  policy).
+
+AND  THE  COURTS  (1983).
+
+30.  See  B.  ACKERMAN  & W.  HASSLER,  supra  note  24;  R.  SHEP  MELNICK,  REGULATION
+
+31.  See  Ackerman  &  Stewart,  Reforming  Environmental  Law:  The  Democratic  Case for
+
+Market Incentives,  13  COLUM.  J.  ENVTL.  L.  171  (1988).
+
+32.  See  B.  ACKERMAN  &  W.  HASSLER,  supra  note  24.
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 958 1991
+
+1991]
+
+DEMOCRATIZING  AMERICA
+
+problem  in current  regulation.  Centralization  at the national  level dimin-
+ishes opportunities  for  citizen  participation.  It  promotes intense  and  un-
+productive  struggles  among  well-organized  factions.  Education  of
+citizens  about the key issues-risk  levels and risk comparisons-is  at best
+episodic.  In  their  capacity  as  consumers,  citizens,  workers,  or  users  of
+the  air and water,  people are  inadequately  informed of the  risks that they
+face.  Public  attention tends to be focussed  on particular  incidents, which
+are  gripping  and  sensationalistic,  but  often  misleading.
+
+In these  circumstances,  it is  difficult  to  ensure  that  citizens  and  repre-
+sentatives  will  be  involved  in  deliberating  about  different  strategies  for
+achieving  social  goals,  or  for  deciding  what  those  goals  are  in  the  first
+place.  By  directing  attention  to  means,  the  system  also  creates  powerful
+incentives for  interest groups  to ensure  that they  are favored  in the  legis-
+lature  or  the  bureaucracy.  Thus  it  is  that  current  institutions  cannot
+carry out  Roosevelt's  goal  of linking  the  Hamiltonian  commitment  to an
+energetic  executive  with  the  Jeffersonian  belief  in  self-government.  The
+democratic  aspirations  of the  New  Deal have  largely  been  defeated.
+
+III.  REMEDIES
+
+It  would  be  most  fortunate  if the  inefficiencies  in  current  regulation
+could  be  remedied  through  reform  strategies  that  simultaneously  pro-
+moted  democratic  government.  In  this  section,  I  argue  that  the  same
+reforms that would  increase efficiency  would  indeed  promote democracy.
+I  deal  with  three  such  reforms:  disclosure  and  education;  economic  in-
+centives;  and  decentralization.
+
+A.  Disclosure and Education
+
+Many  Americans  are unaware  of the  risks  that they  face  in  day-to-day
+life.  Often  workers  do not know about toxic substances in  workplaces,  or
+about  the  risks  that they  cause.  Consumers  of ordinary  foods  are unable
+to evaluate  the  dangers  posed by  fats, calcium,  sugar, and  salt.  People in
+small communities  do  not  know  that  toxic waste  dumping  has  occurred;
+and  if they  know  the facts,  they  do  not  know  the  risks.
+
+Scenarios  of this sort  are especially  likely  in light  of the  fact that  ordi-
+nary  people  have  a  difficult  time  obtaining  information  about  risk.  Cau-
+sation  is  extremely  complex  here,  and  accurate  inferences  are  extremely
+difficult  to draw.  Often  risks  take many  years  to  materialize.  Individual
+susceptibility  varies.  Changing  technology  makes  learning  from  the  past
+a  hazardous  enterprise. 3
+
+It would  be  reasonable  to  say  that  in  cases  of this  sort,  the  interest  in
+
+33.  See  Rose-Ackerman,  Progressive Law  and Economics-And  the  New  Administrative
+
+State, 98  YALE  L.J.  341,  356  (1988).
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 959 1991
+
+SUFFOLK  UNIVERSITY  LAW  REVIEW
+
+[Vol.  XXV:949
+
+freedom  or  autonomy-quite  apart  from  efficiency  and  democracy-re-
+quires  a  governmental  remedy.  Knowing  choices  are  a  precondition  for
+liberty.  Claims  from  efficiency  and  democracy  argue  in  the  same  direc-
+tion.3 4  Disclosure  by  the government  itself, or  by  others  at  the  govern-
+ment's  behest,  will  often  promote  both  efficiency  and  democracy.
+
+1.  Efficiency
+
+When  information  is lacking, there  may  well  be  a conventional  case  of
+market  failure  under  economic  criteria.3 5  To  be  sure,  information-like
+other  goods-is a  scarce  commodity.  Perhaps  the  market  has  produced
+the optimal  level of information.  The optimal level  is  not complete  infor-
+mation.  If so,  there  is no  market failure-even  if there  might  be  a  prob-
+lem  under  noneconomic  criteria.  But  there  are  several  reasons  why  the
+market  for  information  may  indeed  fail.
+
+First,  information  is  sometimes  a  public  good.  Once  it is  available  at
+all,  or  to  anyone,  it  is  available  to  everyone  or  to  many  people.  People
+can  thus capture the benefits  of information  without having to  pay for  its
+production.  Once created, a  report discussing the risks posed by carcino-
+gens  in  the  workforce  may  well  benefit  employees  a  great  deal-but  no
+individual  employee  has  the  right incentive  to pay  his proportional  share
+for  the  report.  Each  employee  has  the  incentive  to  "free  ride"  on  the
+efforts  of  others.  The  result  is  that  too  little  information  will  be
+forthcoming.
+
+The  point  applies  to  materials  about  shared  risks  in  general.  Indeed,
+the point  applies to materials  about all information  of shared importance.
+It  suggests  that there  is  a strong  prima  facie  case,  on  economic  grounds,
+for  governmental  interference  in  the  information  market.
+
+Second,  manufacturers  may  have  poor  incentives  to  provide  informa-
+tion  about  hazardous  products.  Competition  over  the  extent  of danger
+may decrease  total  purchases  of the  product  rather than  help  any  partic-
+ular manufacturer  obtain  greater  sales.  The  phenomenon  has  sometimes
+played  a role in discouraging  competition  over safety  among manufactur-
+ers  of tobacco  products.  At  least  in  principle,  the  phenomenon  may  oc-
+cur  frequently.36
+
+Information  asymmetries may  produce  a  "lemons"  problem,  in  which
+
+34.  A  qualification  is  necessary  here.  By  offering  more  information  than  is  efficient,  the
+government may  create  inefficiency.  By  providing  information,  however,  the  government  pro-
+motes  a  certain  conception  of liberty.
+
+35.  See  P.  ASCH,  CONSUMER  SAFETY  REGULATION  (1988);  Rose-Ackerman,  supra note
+
+33,  at  356.
+
+36.  There  are,  however,  many cases  in  which  companies  compete  over  safety,  and  in  this
+
+sense  the  market  often  works  as  an  effective  check  on  dangerous  products.
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 960 1991
+
+1991]
+
+DEMOCRATIZING  AMERICA
+
+dangerous  products  drive  safe  ones  out  of  the  market.37  Imagine,  for
+example,  that producers  know which products  are safe, but that consum-
+ers  cannot  tell.  Safe  products  may  not be  able  to compete  if they  sell for
+no higher price than  dangerous  ones, if safe  products are  more expensive
+to  produce,  and  if consumers  are  unable  to  tell  the  difference.  In  that
+case,  the  fact  that sellers  have information,  while buyers  do  not, will  en-
+sure  that  "lemons"-here  dangerous  products-will  dominate  the  mar-
+ket.  Regulation  designed  to  provide  information  is  the  proper  remedy.
+All  this suggests  that  there  is frequently  a market  failure  in  the provi-
+sion  of information.  At least  as a presumptive  matter,  government  reme-
+dies are  an appropriate  response.  These  remedies might  take  the form  of
+governmentally-provided  information,  education  campaigns,  or  disclo-
+sure  requirements.  Strictly  on  economic  grounds,  there  is  much  to  be
+said  in  favor  of  these  remedies.  They  may  fortify  the  operation  of  the
+marketplace.  They  may  be  a  precondition  for  free  choice,  the  back-
+ground  goal  of free  markets.
+
+We  now  have  a good  deal of empirical  information  about disclosure  of
+risks.  In general,  the  information  suggests  that disclosure  can be a  help-
+ful  and  cost-effective  strategy.3 8  Workers  do  indeed  respond  to  new  in-
+formation  about risks, quitting or demanding higher salaries.  Consumers
+often  react well  to the disclosure  about danger  levels.  In  general,  there  is
+every  reason  to  think that governmentally-mandated  disclosure,  if suita-
+bly  designed, 
+is  an  effective  mechanism  for  promoting  economic
+efficiency.
+
+2.  Democracy
+
+Suppose  that we  wanted  to  increase  the  democratic  character  of con-
+temporary  government,  by  promoting  citizen  participation  in,  and  con-
+trol  over,  governmental  processes.  A  good  initial  step  would  be  for
+government  to  provide  enough  information  so  that  people  can  make
+knowledgeable  judgments.
+
+Government  might  itself supply  information,  or  require  disclosure  by
+private  citizens  and  companies.  Return,  for  example,  to  the  matter  of
+expenditures  per  life  saved.39  There  is  now  considerable  data  on  the
+amount  of  money  spent  to  save  lives  in  various  government  programs.
+
+37.  See  Akerlof,  The  Market for  "Lemons"  Quality  Uncertainty and the  Market  Mecha-
+
+nism,  84 Q.J.  ECON.  488  (1970).
+
+38.  See  Viscusi,  Magat  & Huber, Informational Regulation of Consumer  Health Risks:  An
+Empirical Evaluation  of Health  Warnings,  17  RAND J. EON.  351  (1986);  Viscusi  & O'Connor,
+Adaptive  Responses  to  Chemical  Labelling:  Are  Workers  Bayesian  Decision  Makers?,  74  AM.
+ECON.  REV.  942 (1984);  see also  W.  KiP  Viscusi,  W.  MAGAT  &  J. HUBER,  LEARNING  ABOUT
+RISK  (1987).
+
+39.  See  Morrall,  supra  note  27  (cataloging  expenditures  per  life  saved).
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 961 1991
+
+SUFFOLK  UNIVERSITY  LAW REVIEW
+
+[Vol.  XXV:949
+
+As  we have  seen,  what  emerges  is a  crazy-quilt.  Some  programs  pay  for
+themselves  in  terms  of health  and  related  savings;  others  are  extremely
+hard  to  defend.  At  the  very  least,  the  American  public  should  be  in-
+formed  of  these  disparities  so  that  it  can  evaluate  them.  Provision  of
+information  about  the  content  and  expense  of  regulatory  programs
+should  be  high  on  the  governmental  agenda.
+
+Or  consider  the  question  of risk  regulation  in  general.  On  that  ques-
+tion,  people  are  poorly  informed.'  For  example,  they  appear  not  to
+know  that  the  risks  of nuclear  power  are  substantially  smaller  than  the
+risks  posed  by  other  energy  sources.  They  appear  not  to  have  a  clear
+sense  of  the  relationships  among  different  risks  that  are  confronted  in
+everyday  life.  Smoking,  for example,  produces  345,000  deaths  per year,
+an  annual  risk of 3.0  in  103;  all  occupations  produce  between  11,000  and
+200,000  annual  deaths,  an  annual  risk  of  1.1  to  20  in  10';  and  boxing
+produces  only  three  deaths  a  year,  an  annual  risk  of 5.4  in  10".
+
+Information  of this  sort  ought to  be  widely  available.  The  fact  that it
+is  not  creates  a  significant  failure  in  government  regulation.  At  least
+equally  important,  it  presents  a  large  obstacle  to  citizenship.  The  prob-
+lem  appears  in  the  private  sector,  in  local  government,  and  at  the  state
+and  national  levels.  Workers  uninformed  of risks  are  unable  to  partici-
+pate usefully  in  the  process  of deciding  among  different  possible  levels  of
+workplace  safety.  Local  communities,  deciding  whether  to  allow  toxic
+waste  sites  or plants  that produce  sulfur  dioxide, need  to be  in  a  position
+to  make  informed  choices.
+
+A  large  virtue  of a  federal  system  is  that  it  permits  different  states,
+having  different  values,  to  make  different  choices  about  social  arrange-
+ments.  In the context  at hand,  many decisions about  the relations among
+industrial  development,  employment,  pollution,  and risk must  be made  at
+the state  or local  level.  An  absence of information  is a  severe  obstacle  to
+this  process.  The  same  is  true  at  the  national  level,  where  sensational
+anecdotes  displace  reasoned  analysis  of the  alternatives.
+
+The most  general  way  to  put the  point  is to  note  that  on  the  framers'
+view,  America  was  to  be  a  deliberative  democracy,  in  which  representa-
+tives,  accountable  to the  people,  would  make  decisions  through  a  process
+of  deliberation  uncontrolled  by  private  factions.4  Without  better  infor-
+mation,  neither  deliberation  nor  democracy  is  possible.  Legal  reforms
+designed  to  remedy  the  situation  are  a  precondition  for  democratic
+politics.
+
+40.  Some  of this  is  undoubtedly  a  product  of heuristics  of various  sorts.  But  more  infor-
+
+mation  could  help  overcome  some  of the  relevant  biases.
+
+41.  See  Bessette, Deliberative Democracy:  The Majority Principle in American  Government
+in  How  DEMOCRATIC  IS  THE  CONSTITUTION?  102  (1980);  see  also THE FEDERALIST  No.  10,
+at  16  (J.  Madison)  (R.  Fairfield  2d  ed.  1966).
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 962 1991
+
+1991]
+
+DEMOCRATIZING  AMERICA
+
+3.  Current Steps
+
+The national government  has started  a series of steps  in the  right direc-
+tion.  Mandatory  messages  about  risks  from  cigarette  smoking,  first  set
+out  in  1965  and modified  in  1969  and  1984,  are  the most  familiar exam-
+ple.42  The FDA  has  long  maintained  a  policy of requiring  risk  labels for
+pharmaceutical  products. 43  The  EPA  has  done  the  same  for  pesticides
+and  asbestos."  There  are  numerous  other  illustrations.  Indeed,  the  ef-
+fort  to  provide  information  counts  as  one  of the most  striking,  if incipi-
+ent, developments  in modern  regulatory  law.  Three  recent  initiatives  are
+especially  notable.
+
+In  1983, 
+
+the  OSHA  issued  a  Hazard  Communication  Standard
+(HCS), 45  applicable  to  the  manufacturing  sector.  In  1986,  the  HCS  was
+made  generally  applicable.  Under  the  HCS, chemical  producers  and im-
+porters  must  evaluate  the  hazards  of the chemicals  they  produce  or im-
+port;  develop  technical  hazard  information  for  materials  safety  data
+sheets,  and  labels  for  hazardous  substances;  and,  most important,  trans-
+mit  this  information  to  users  of  the  relevant  substances.  All  employers
+must  adopt  a  hazard  communication  program-including  individual
+training-and  inform  workers  of  the  relevant  risks.
+
+In  1986,  Congress  enacted  an  ambitious  new  statute,  the  Emergency
+Planning and Community  Right to Know  Act (EPCRKA).4 6  Under  this
+statute,  firms and individuals  must report,  to state  and local government,
+the  quantities  of  potentially  hazardous  chemicals  that have  been  stored
+or released into  the environment.  Users  of such chemicals must  report  to
+their  local  fire  departments  about  the  location,  types,  and  quantities  of
+stored  chemicals.  They  must  also  give  information  about  potential  ad-
+verse  health  effects.  A  detailed  report  suggests  that  EPCRKA  has  had
+important  beneficial  effects,  spurring  innovative,  cost-effective  programs
+from  the EPA  and  from  state  and  local  government.4 7
+
+The  FDA  has  also adopted  informational  strategies.  In its most  ambi-
+tious  set of proposals,  the FDA  seeks:  (a)  to  compel  nutritional  labelling
+on  nearly  all  processed  foods,  including  information  relating  to  choles-
+terol,  saturated  fat, calories from fat,  and fiber;  (b) to  require  compliance
+with government  specified  serving  sizes;  (c)  to  compel  companies  to  con-
+form  to  government  definitions  of  standardized  terms,  including,  "re-
+duced,"  "fresh,"  "free,"  and "low;"  and (d)  to allow  health claims  only if
+
+42.  15  U.S.C.  §  1331  (1988).
+43.  21  U.S.C.  §§  351-360  (1988).
+44.  15  U.S.C.  §§  2601-2655  (1988).
+45.  29  C.F.R.  1910.1200(g)  (1990).
+46.  42  U.S.C.  §  11,044  (1988),
+47.  See  GENERAL  ACCOUNTING  OFFICE,  Toxic  CHEMICALS,  REPORT TO  THE  CONGRESS
+
+(1991).
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 963 1991
+
+SUFFOLK  UNIVERSITY  LAW  REVIEW
+
+[Vol.  XXV:949
+
+they  (1)  are  supported  by  scientific  evidence  and  (2)  communicate  clear
+and complete  information  about such matters  as fat and heart  disease,  fat
+and  cancer,  sodium  and  high  blood  pressure,  and  calcium  and
+osteoporosis.48
+
+These  initiatives  are  simply  a beginning.  Broader  and  more  ambitious
+programs,  coordinating  the  general  communication  of  social  risks,  are
+very  much in  order.  It has  been  suggested  that  government  might  even-
+tually  develop  a  "national  warnings  system"  containing  a  systematized
+terminology  for  warnings.4 9  Such  a  system  could  apply  to  all  contexts
+and  risks,  and  give  a  uniform  sense  of risk  levels.  The  existence  of  a
+uniform  language  would  make  it  possible  to  assess  risks  across  a  wide
+range  of social  spheres.
+
+Most  important  of all,  such a  system  would  perform  a  vital  educative
+function,  one that could  complement  the  functioning of markets and pro-
+vide  a  necessary  precondition  for  democratic  choice.  We  should  ulti-
+mately  aspire 
+to  go  far  beyond  risk  regulation,  to  promote  the
+dissemination  of information  bearing  on  democratic  affairs  in  general.
+
+B.  Economic Incentives
+
+By  economic  incentives,  I  mean  financial  penalties  imposed  on  harm-
+producing  behavior  or  benefits  conferred  on  harm-reducing  behavior.
+Such  penalties  should supplement  and  even  displace command-and-con-
+trol  regulation.
+
+1.  Efficiency
+
+It  is  inefficient  for  government  to  prescribe  the  means  for  achieving
+social  objectives.  Ordinarily it would  be far better,  on economic  grounds,
+for  government  to  create  incentives  to  engage  in  socially  desirable  con-
+duct,  and  to  permit  the  market  to  decide  how  companies  respond  to
+those  incentives.
+
+It is  especially  inefficient  for  government  to  dictate  technology.  A far
+better approach  is to  impose a tax  on  harmful behavior, 0  and to let  mar-
+ket  forces  determine  the  response  to  the  increased  cost.  Government
+should generally impose  fees on  those who put  pollutants  into the atmos-
+phere-instead  of, for  example,  mandating  costly  "scrubbing"  technol-
+
+48.  See  56  Fed.  Reg.  60,302  (1991)  (to  be  codified  at  9  C.F.R.  pts.  317,  320 &  381)  (pro-
+
+posed  Nov.  27,  1991).
+
+49.  See  W.  KiP  Viscusi,  W.  MAGAT  & J.  HUBER,  supra note  38,  at  155.
+50.  A  Coasian  qualification  is  necessary  here:  Sometimes  the apparent  victim  of the  harm-
+ful conduct  is  in the best  position  to  avoid  the harm,  and  in such  cases  it is  possible to  say  that
+the  apparent  victim  should be charged  with  taking preventive  or remedial  measures.  An  exam-
+ple would  be  a  case  in  which  workers  could  cheaply  prevent  the  costs  of a  chemical  in  the
+workplace,  by wearing  masks  or clothing  that  prevent  the  harm  from  occurring.
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 964 1991
+
+1991]
+
+DEMOCRATIZING  AMERICA
+
+ogy  for  sulfur  dioxide.  Consumption  of the  harm-producing  good  will
+decline.  Producers  will  shift  to  less  harmful  methods  of  production.
+They  may,  for  example,  substitute  clean  for dirty  coal.
+
+More  generally,  government  might  adopt  a  simple,  two-step  reform
+policy  in  the  area  of  social  risks  and  social  harms."'  First,  those  who
+impose  harm  must  pay  for  it-by  purchasing  permission  to  do  so,  per-
+haps  through a licensing procedure.  Second,  those who  obtain the result-
+ing permission should  be  able  to trade their "licenses"  with other people.
+In  the pollution  context,  this  would  mean  that  people  who reduce  their
+pollution below  a  specified  level  could  trade  their  "pollution  rights"  for
+cash.
+
+In one  bold stroke, such  a system  would create  market-based  disincen-
+tives to pollute and market-based  incentives  for pollution control.  Such  a
+system  would  also reward  rather than punish  technological innovation  in
+pollution control,  and do so  with  the aid of private markets.  Very  gener-
+ally,  and  quite  outside  the  environmental  area,  it makes  sense  to  think
+about  programs  of this  sort  for  regulation  of harmful  behavior. 2
+
+An  idea  of  this  kind  might  be  made  part  and  parcel  of  a  system  of
+"green  taxes."  With  such  a  system,  we  might  levy  taxes  on  people  who
+impose  externalities  on  others-users  of dirty  automobiles,  farmers  who
+employ pesticides,  coal-fired  power  plants, gasoline that produces  air pol-
+lution,  products  that  contribute  to  destruction  of the ozone  layer  or  the
+greenhouse  effect.  Tax  levies  of various  sorts  are  used  by  many  nations
+already,  though  they  have  been  slow  in coming  to  the United  States. 53
+These levies have had,  or are  projected  to have, excellent  results.  Thus
+a  higher  tax  on  leaded  gasoline  in  Great  Britain  increased  the  market
+share of unleaded  gas from  four to  thirty percent  in  less than  a  year.54  It
+is estimated  that a  doubling of pesticide prices  would cut pesticide  use in
+It  is  also  estimated  that  a  fee  of  $110  per  ton  on  carbon  would
+half." 
+decrease  carbon  dioxide  emissions  by  twenty percent  by  the  year  2005.56
+An  important  advantage  of such strategies  is that  they would  dramati-
+cally  increase  government  revenues.  This  is  an  especially  worthwhile
+goal  in a  period of large  deficits.  The  suggested  carbon  tax  would  gener-
+
+51.  Here  I  generalize  from  the  helpful  discussion  in  Ackerman  &  Stewart,  supra note  31
+
+(defending  incentive  systems).
+
+52.  The  most  controversial  application  would  be  civil  rights,  but  even  here  the  proposal
+seems  plausible.  See  Mashaw,  Implementing Quotas, 79  GEo.  L.J.  1769  (1991)  (discussing
+transferable  quota  requirements).
+
+53.  A  study by the Organisation  for  Economic  Co-operation  and  Development  found over
+50  environmental  charges  among  14  of  its  members.  See  L.  BROWN,  SAVING  THE  PLANET
+143  (1991).
+54.  Id.
+55.  Id.  at  146.
+56.  Id.  at  148.
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 965 1991
+
+SUFFOLK  UNIVERSITY  LAW  REVIEW
+
+[Vol.  XXV:949
+
+ate  over $130  billion.57  Other such taxes  on  polluting activity  could pro-
+duce  billions  of additional  dollars  in  revenue. 58
+
+Economic  incentives  could  be applied  in other areas  as well.  Workers'
+compensation  plans,  for  example,  operate  as  a  reasonably  effective  guar-
+antee  of  workplace  safety.  According  to  a  recent  study,  "If the  safety
+incentives  of workers'  compensation  were  removed,  fatality  rates  in  the
+United  States economy  would  increase  by  almost  30  percent.  Over  1200
+more workers would  die from job injuries every  year in the absence  of the
+safety  incentives  provided  by  workers'  compensation." 9  This  contrasts
+with  a  mere  two  to  four  percent  reduction  in  injuries  from  OSHA,  an
+amount  that  links  up  well  with  the  fact  that annual  workers'  compensa-
+tion  premiums  are  more  than  1000  times  as  large  as  total  annual  OSHA
+penalties.'  The  tax  system  could be  used  to  punish employers  who  pro-
+vide  dangerous  workplaces.
+
+The  Consumer  Product  Safety  Commission  could  experiment  with  a
+system  in  which  producers  of harm-producing  products  would  pay  a  fee
+into  the  federal  treasury.  Ultimately,  we  might  hope  for  a  coordinated
+system  of risk  regulation,  one  that  imposed  uniform  fees  for  harm-pro-
+ducing  activities.
+
+2. Democracy
+
+Thus  far  we  have  seen  that  a  shift  to  economic  incentives  would  be
+efficient  and  effective.  What  consequences  would  such  a  shift  have  for
+democratic  government?
+
+The  answer  is  that  it  would  have  significant  consequences,  and  that
+these  would  be  extremely  beneficial. 61  The  current  system  puts  public
+attention  in  the  wrong  places.  Imagine,  for example,  that  Congress  and
+the  citizenry-following  the  contemporary  model-are  asking  the  ques-
+tion  whether  ethanol,  or  some  other  gasoline  substitute,  should  be  re-
+quired  in  new  cars.  It  is  perfectly  predictable  that  in  answering  this
+question,  well-organized  groups  with  a  significant  stake  in  the  outcome
+will bring  their  influence  to bear.  It  is  also  predictable  that ethanol pro-
+ducers  may seek  and actually  obtain  regulatory  benefits,  and  for  reasons
+bearing  little  or  no  relationship  to  environmental  protection.
+
+At  the same time,  the  underlying  substantive  question-whether  etha-
+nol  is  actually  an  environmentally  superior  product-will  have  to  be  re-
+solved  on the  basis  of technological  complexities  not  easily  addressed  by
+
+57.  Id.  at  145.
+58.  See  L.  BROWN,  supra note  53,  at  145.
+59.  W.  Kip Viscusi,  REFORMING  PRODUCTS  LIABILITY  178  (1991).
+60.  Id.  at  178-79.
+61.  The  point  is  treated  nicely  in Ackerman  & Stewart,  supra note  31,  and  I draw  on their
+
+discussion  here.
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 966 1991
+
+1991]
+
+DEMOCRATIZING  AMERICA
+
+the public  or its representatives.  If this is the issue  on which  the  political
+process  focusses,  we  are therefore  likely  to have  a  series of laws  that  rep-
+resent,  not public-spirited deliberation  with a measure of broad  accounta-
+bility, but  instead  trade-offs  among  well-organized  private  groups,  or,  in
+Madisonian  terms,  government  by  faction.  By  directing  attention  to
+means,  this system creates  strong incentives  for interest  groups  to ensure
+that  they  are  favored  in  the  legislature  or  the  bureaucracy.
+
+Compare  a system of economic  incentives.  Here  the issue  is not  one of
+means,  but  the  amount  of  sulfur  dioxide  that  will  be  allowed  into  the
+atmosphere-an  issue to  be resolved in the process  of deciding  how many
+licenses  should  be  given  out,  and  for  how  much  pollution.  This  shift
+would  ensure  that  citizens  and  representatives  would  be  focussing  on
+how  much  pollution  reduction  there  should  be,  and  at what  cost.  The
+right  question  would  be  put  squarely  before  the  electorate.  No  longer
+would  it be possible to  pretend  that  environmental  protection  is costless.
+No  longer  would  the  central  issue be  displaced  by  the  largely  incidental
+question  of means.
+
+Moreover,  a system of financial  penalties  allows  far less  room  for inter-
+est-group  maneuvering.  The  large  question-how  much  environmental
+protection  at  what  cost--does  not  readily  permit  legislators  to  favor  a
+well-organized,  narrow  group,  such as  the  agricultural  lobby, or the  coal
+lobby.  Special  favors  cannot easily  be  provided  through  a system  of eco-
+nomic  incentives.  The  very  generality  of the  question  will  work  against
+narrow favoritism.  To  be  sure,  the  ultimate question  of pollution  reduc-
+tion  may  be  answered  in  a  way  that  reflects  sustained  political  pressure
+rather  than  democratic  deliberation.  But  the  risks  are  minimized,  cer-
+tainly  as  compared  with the  existing  system.
+
+There  are  other  democratic  advantages  as  well.  Economic  incentives
+should  simultaneously  promote  coordination  and  rationality  in  regula-
+tion, by giving government  an  incentive to attend  closely,  and for the first
+time,  to  how  other  risks  are  treated.  This  should  bring  a  salutary  mea-
+sure  of structure and sense  to  risk regulation  in general.  As an important
+by-product,  the  new  system  should  create  a powerful  incentive  to  obtain
+information  about the actual  effects of pollution  and pollution  control.  If
+members  of Congress  are deciding  on the level of risk reduction, they will
+not  want  to  do  so in a  vacuum,  especially  in  light of the  significant  costs
+of large  reductions.  Affected  groups  will  therefore  be encouraged  to en-
+gage  in  research  about  real-world  consequences.
+
+Information  about consequences  frequently  remains  in  its most  prelim-
+inary  stages.  The  new  premium  placed  on  information  should  be  a  par-
+ticularly  important  gain.  There  is  every  reason  to  design  regulatory
+strategies  that  put  a  premium  on  greater  research,  so that  when  we  act,
+we  know  what  we  are  getting,  and  at  what  price.
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 967 1991
+
+SUFFOLK  UNIVERSITY  LAW  REVIEW
+
+[Vol.  XXV:949
+
+All  these  considerations  suggest  that  economic  incentives-favored  so
+firmly  on  economic  grounds-have  as  one of their principal justifications
+a  series  of democracy-reinforcing,  faction-limiting  characteristics.
+
+3.  Recent Initiatives
+
+The  movement  toward  economic  incentives  is  preliminary  but  real.
+Thus  far,  it  has  occurred  mostly  in  the  environmental  area.  An  impor-
+tant  series  of  administrative  initiatives  have  brought  about  "emissions
+trading,"  especially  under the Clean Air Act.62  Under the  EPA's policy,
+a  firm  that  reduces  its  emissions  below  legal  requirements  may  obtain
+"credits"  that  can  be  used  against  higher  emissions  elsewhere.
+
+Through  the  "offset"  policy,  which  is  formally  codified  in  the  Clean
+Air  Act,  a  company  may  locate  in  an  area  not  in  compliance  with  na-
+tional  air quality standards,  if and  only  if it  can  offset  the new  emissions
+by  reducing existing  emissions,  either  from its own  sources  or from  other
+firms.  Through  the "banking"  policy,  firms are  permitted  to  store  emis-
+sion  credits  for  their  own  future  use.  Companies  may  also  engage  in
+"netting,"  by  which  a  firm  modifies  a  source,  but  avoids  the most  strin-
+gent  emissions  limits that  would otherwise  be applied  to  the modification
+by  reducing  emissions  from  another  source  within  the  same  plant.
+Through  the  use of "bubbles,"  existing  sources  may  place  an  imaginary
+bubble  over  their  plants,  allowing  each  emitting  device  within  the  plant
+to  discharge different  emission  levels  so  long as  the total  emission  level  is
+in compliance  with aggregate  requirements.  We  now have  a good  deal of
+evidence  about  the  emissions  trading  program.
+
+For  various  reasons,  the use  of the program  has  been  quite  limited.6 3
+A  study  in  1986  showed  42  federal  bubbles;  90  state  bubbles;  2,000 fed-
+eral  offsets;  between  5,000  and  12,000  acts  of netting;  and  100  acts  of
+banking. 61  Despite  this  limited  activity,  there  is  considerable  evidence
+that  this  policy  has  been  successful.  Overall,  the program  has  produced
+savings  of between  $525  million  and  $12  billion.6 5  By  any  measure,  this
+is  an  enormous  gain.
+
+On balance,  the  environmental consequences  have been beneficial.  Off-
+sets  must,  by  definition,  produce  environmental  gains.  The  preliminary
+evidence  shows  favorable  effects  from  bubbles  as  well.66  There  may  be
+
+62.  See  Emissions  Trading  Policy  Statement:  General  Principles  for  Creation,  Banking,
+
+and  Use  of  Emission  Reduction  Credits,  51  Fed.  Reg.  43,814  (1986).
+
+63.  See  Dudek  &  Palmisano, Emissions  Trading.-  Why  is  This  Thoroughbred Hobbled?,  13
+
+64.  See  Hahn & Hester, Marketable Permits: Lessons for Theory and Practice, 16  ECOLOGY
+
+COLUM.  J.  ENVTL.  L.  217  (1988).
+
+L.Q.  361,  374  table  2  (1989).
+
+65.  See  id.
+66.  Id.  at  375.
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 968 1991
+
+1991]
+
+DEMOCRA TIZING  AMERICA
+
+modest  beneficial  effects  from  banking  and  modest  adverse  effects  from
+netting.67  The  overall  environmental  effect  is  therefore  good,  with  cost
+entirely  to  one  side.
+
+The  EPA  has  also  permitted  emissions  trading  for  lead.  Under  this
+policy,  a  refinery  that  produced  gasoline  with  lower  than  required  lead
+levels  could  earn  credits.  These  could  be  traded  with  other  refineries  or
+banked  for  future  use.68  Until  the  termination  of the  program  in  1987,
+when  the  phaseout  of lead  ended,  emissions  credits  for  lead were  widely
+traded.  EPA concluded  that there  had been  cost savings of about twenty
+percent  over  alternative  systems,  marking  total  savings  in  the  hundreds
+of million  of dollars. 69  There  have  been  initial  administrative  efforts  as
+well  with respect  to  water  pollution  and  ozone  depletion.7 °
+
+The  most  dramatic  program  of economic  incentives  can  be  found  in
+the  1990  amendments  to the Clean  Air Act.  The  Act now explicitly  cre-
+ates  an  emissions  trading  system  for  the  control  of acid  deposition.  In
+these  amendments,  Congress  has  made  an  explicit  decision  about  aggre-
+gate emissions  level for a  pollutant.7'  Whether  the  particular decision  is
+correct  may  be  disputed.  But surely  there  are  large  democratic  benefits
+from  ensuring  that  public  attention  is  focussed  on  that  issue.
+
+There  are  other  beneficial  features  to  the  acid  deposition  provisions.
+Congress  has  said  that  polluters  may  obtain  allowances  for  emissions
+avoided  through  energy  conservation  and  the  use  of  renewable  energy
+sources.  In this way,  avoidance  of this kind  is turned  into dollars, in  the
+form  of increased  permission  to  pollute. 72  This provision  creates  an  in-
+centive  to shift to conservation  and renewable  sources,  without providing
+further  environmental  degradation.
+
+Moreover,  polluters  are  explicitly  permitted  to  trade  their allowances;
+this  is a first in  national legislative  regulation.7 3  In this  way,  people  who
+are  able  to  reduce  their  pollution  below  the  specified  level  receive  eco-
+nomic  benefits.  Again  incentives  are  created  for  environmentally  benefi-
+cial behavior.  An especially  intriguing provision  allows  spot and advance
+sales  of  sulfur  dioxide  allowances,  purchasable  at  $1,500  per  ton.74
+
+67.  Id.  at  374.
+68.  See  40  C.F.R.  §  80.20(d),  (e) (1990).
+69.  ENVIRONMENTAL  PROTECTION  AGENCY,  COSTS  AND  BENEFITS  OF  REDUCING  LEAD
+IN  GASOLINE,  FINAL  REGULATORY  IMPACT  ANALYSIS  VIII-31  (Feb.  1985); see also Hahn  &
+Hester, supra note  64,  at  387.
+
+70.  On ozone  depletion,  see  53 Fed.  Reg.  30,566  (1988)  (to be codified  at 40 C.F.R. pt.  82)
+(final  rule  promulgated  Aug.  12,  1988);  on  water  pollution,  see  Hahn  &  Stavins,  Incentive-
+Based Environmental Regulation: A  New  Era From an Old Idea,  18  ECOLOGY  L.Q.  1,  18-19
+(1991).
+
+71.  42  U.S.C.  §§  7651c,  7651d,  7651o  (Supp.  1991).
+72.  Id.  §  7651c(f)(2).
+73.  Id.  §  765 lb(b).
+74.  Id.  §  7651o(c).
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 969 1991
+
+SUFFOLK  UNIVERSITY  LAW REVIEW
+
+[Vol.  XXV:949
+
+Through this route,  polluters must-for the first time-pay  a fee for their
+pollution.  Even  more intriguing is  a provision  calling for  auction sales  of
+specified  numbers of sulfur  dioxide  allowances. 7 5  Here  the market is per-
+mitted  to  set the  price  for  polluting  activity.
+
+For  the  most  part,  however,  the Clean  Air Act  does  not  require  pol-
+luters  to  pay for their  "licenses." 
+Instead,  government  continues  to  per-
+mit them  to pollute  for  free.  This is a large  obstacle  to a  sensible  system
+of regulation.  In  the future,  Congress should  build on the acid deposition
+model,  requiring  payments  by  polluters  and  others  who  inflict  social
+harm.
+
+C.  Decentralization
+
+1.  Efficiency
+
+Under  current  law,  national  standards  are  set  both  for  the  environ-
+ment  and  for  workplace  safety  and  health. 76  But  as  we  have  seen,  the
+costs  and  benefits  of regulatory  activity  are  widely  variable  across  both
+time and space.  Consider, for example,  the issue of clean air.  To  require
+the same level of ambient  air quality in Los Angeles  and Wyoming makes
+little  sense  in  light of  the  fact  that  the  costs  (and  benefits)  of achieving
+that  level  vary  so  dramatically.  Uniform  controls  seem  implausible  if
+Wyoming  has already  attained  a level  of X, and if Los Angeles  could  not
+do  so  without  suffering  profound  economic  dislocations-including,  for
+example,  ceasing  use  of the  automobile.  Such  controls  would  be  grotes-
+quely  inefficient.
+
+Return  to the  area of workplace  safety.  It has  been proposed  that  the
+current  system of collective  bargaining  should  be  replaced  by  nationally-
+mandated  minimum  standards.77  In fact,  the OSHA  now imposes  a wide
+range  of  national  requirements  for  both  safety  and  health.  But  surely
+American  workers  do  not  agree  about  the  appropriate  tradeoffs  among
+health,  wages,  medical  benefits,  and jobs.  Some employees  are  willing  to
+subject themselves  to greater  risks in return  for greater benefits.7"  Others
+seek  low  level  risks,  and  are  willing  to  take  lower  salaries  in  return. 79
+
+75.  Id.  §  7651o(d).
+76.  In the  absence  of federal  preemption,  however,  states  and  private  actors  may  increase
+
+protection  above  the national  level.
+
+77.  See  Fried, Individual and Collective Rights in  Work Relations: Reflections on  the Cur-
+
+rent State  of Labor Law  and Its Prospects, 51  U.  CHI.  L.  REV.  1012  (1984).
+
+78.  See  W.  Kip Viscusi,  RISK  BY  CHOICE  (1983).
+79.  It  is  common  at  this  point  to  express  concern  with  the  decision  to  trade safety  for  a
+lower  salary.  To  some  extent,  the  concern  is  misplaced,  since  safety  is  not  an  absolute,  and
+since  tradeoffs  among  important  social  goods,  including  safety,  are  a  part  of  any  imaginable
+human  life.  To  some  extent  the  concern  may  point  to  a  good  argument  for  redistribution  of
+resources,  so that people  are not faced  with such  hard choices.  But a bar to  the preferred  (even
+if hard)  choice  is  not  the  same  as  redistribution.
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 970 1991
+
+1991)
+
+DEMOCRATIZING  AMERICA
+
+Just  as  consumers  make  safety-related  tradeoffs  in  the  purchase  of  con-
+sumer  goods,  such  as  cars,  so workers  differ in  the employment  market.
+In  these  circumstances,  nationally  mandated  standards  are  inefficient.
+They are  ill-matched  to  the  extraordinary  diversity  of worker  values  and
+preferences.  It would be  far better  to  allow  a degree  of workplace  differ-
+ences,  matching  that  diversity.  Decentralization  would  accomplish  this
+goal.
+
+2.  Democracy
+
+If our goal  is increased  democratization,  it is indispensable  to promote
+more  decentralization. 
+In  the  area  of  workplace  safety,  for  example,
+democratic  solutions  cannot be  achieved  at  the national  level.  The  mar-
+ket  mechanism  of  "exit"-permitting  dissatisfied  workers  to  leave-
+might  well  be  accompanied  by  the  political  mechanism  of  "voice,"  by
+which  workers  participate  in  workplace  governance.80  In  order  for  that
+latter  mechanism  to  operate,  it  is  crucial  that  workplace  conditions  be
+decided  at the local  level.  Opportunities  for  greater  decentralization  are
+thus  part  and  parcel  of  the  process  of  democratizing  the  employment
+market.
+
+In  the  area  of  environmental  protection, 
+
+it  is  also  possible  to
+strengthen  state  and local  options,  and precisely in the interest of democ-
+ratization.  We  might,  for  example,  permit  dramatic  variations  with  re-
+spect  to air and water quality, accompanied  by national  "floors"  designed
+to  take  account  of  interstate  effects.  Federal  laws  should  be  written  to
+minimize  preemption  of different  state  solutions.  Judge-made  preemp-
+tion  doctrines  should be  designed  to  require  a  clear  congressional  state-
+ment  before  allowing  such  preemption.
+
+Moreover,  the  national  government  might  encourage  the  provision  of
+information  to  states  and  localities  to  allow  them  to  decide  how  to  deal
+with such  problems  as  release  of toxic  wastes.  Through  all  these  routes,
+the democratic  process  at the local level might be strengthened,  thus pro-
+moting  what  is,  as  a  practical  matter,  the  only  way  to  promote  more
+citizen  engagement  with  governmental  affairs.
+
+3.  Current Initiatives
+Here  too  a  number  of initial  steps  have  been  taken  in  the right  direc-
+tion.  The  "New  Federalism"  of the  1970s  and  1980s  has  modestly  con-
+tributed  to a reinvigoration  of state  authority. 1  We have  seen  a dramatic
+
+80.  See  A.  HIRSCHMAN,  EXIT,  VOICE,  AND  LOYALTY  (1970)  (discussing  "exit"  and
+
+"voice"  remedies).
+
+81.  See  generally  ADVISORY  COMMITTEE  ON 
+
+INTERGOVERNMENTAL  RELATIONS
+(ACIR),  REGULATORY  FEDERALISM:  POLICY,  PROCESS,  IMPACT,  AND  REFORM  19-21
+(1984)  (Washington,  D.C.).
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 971 1991
+
+SUFFOLK  UNIVERSITY  LAW REVIEW
+
+[Vol.  XXV:949
+
+growth  in  regulatory  activity  at the  state level.  Recycling  programs  are
+now  common.  Sometimes  fees  are  required  for  disposal  of solid  waste-
+an  application of the basic  principle  that "polluters  pay."  Six states  now
+maintain  programs  for  the reduction  of sources of solid  waste.  California
+has  been  especially  inventive,  adopting  programs  for  reduction  of  toxic
+substances"  and,  perhaps  most  dramatically,  for  reducing  air  pollution
+in  the badly  polluted  Los  Angeles  area.  The  latter  program  will  require
+conversion  of  all  cars  to  electric  power  or  other  "clean"  fuels  by  2007;
+other  provisions will encourage  public transportation  and limit the use of
+automobiles.8
+
+North  Carolina  has  adopted  a  "pollution  prevention  program"
+designed  to  prevent  pollution  before  it  occurs,  rather  than  to  impose
+technology  at  the end  of the  pipe.  These  are  simply  a  few  of the  many
+respects  in  which  recent  initiatives  have  begun  to  implement  Justice
+Brandeis'  aspiration  that the states  might serve  as  "laboratories"  experi-
+menting  with  different  systems  for attaining  social  goals. 4
+
+Nor  has  the  national  government  been  inactive  in  this  area. 5  Under
+EPCRKA,  discussed  above,  information  about  the  toxic  chemical  emis-
+sions must be  provided  to  the states.  The resulting  information  has  been
+used  as  the foundation  for a wide  range  of laws  at the state level.86  Ore-
+gon  now  requires  pollution  reduction  goals,  as  does  Massachusetts.
+States have  used the  inventory  as  a basis for enforcement  activity.  Other
+national  initiatives  might  similarly  act  as  a  spur  for  state  and  local
+decisions.
+
+IV.  QUALIFICATIONS
+
+There  are some  important  qualifications  to the arguments  I have  made
+thus far.  Informational  strategies,  economic incentives,  and decentraliza-
+tion have  genuine  limitations.  In some cases, these approaches  are  inade-
+quate.  I  outline  some  of the  relevant  considerations.
+
+A.  The  Limits of Information
+
+There are  two problems  with informational  strategies.  First, the  provi-
+sion  of information  is  expensive.  Second,  the provision  of information  is
+sometimes  ineffectual  or  even  counterproductive.
+
+82.  See  Viscusi,  Predicting the Effects  of Food Cancer Warnings on  Consumers, 43  FOOD
+
+DRUG  COSM.  L.J.  283  (1988).
+
+83.  See  Lester, A  New Federalism? Environmental Policy in  the  States,  in  ENVIRONMEN-
+TAL  POLICY  IN  THE  1990s:  TOWARD  A  NEW AGENDA  59,  62  (N. Vig  & M. Kraft eds.  1991).
+84.  See  New  State Ice Co.  v.  Liebmann, 285  U.S.  262,  311  (1932)  (Brandeis, J.,  dissenting).
+85.  See OFFICE  OF  MANAGEMENT  AND  BUDGET,  supra  note  14,  at  xxviii-xxix.
+86.  See  GENERAL  ACCOUNTING  OFFICE,  REPORT  TO  CONGRESS,  TOXIC  CHEMICALS
+
+(1991).
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 972 1991
+
+1991]
+
+DEMOCRATIZING  AMERICA
+
+Consider,  for example,  the fact  that  the government  estimates  the cost
+of  the  new  FDA  rules  at  no  less  $1.7  billion  over  twenty  years.  The
+president  of  the  National  Food  Processors  Association  claims  that  the
+first  year  costs  alone  will exceed  $2  billion.87  In  either  case,  the  cost  is
+high.  OSHA's  hazard  communication  policy  is  estimated  to  save  200
+lives  per  year-a  lot-but  at  an annual  cost  of  $360  million."8  The  ex-
+penditure  per life saved is therefore  $1.8  million.  This is  far better  than a
+large  number  of regulations,  and  an  amount  well  worth  spending;  but it
+is  more  than many  agencies  spend for life-saving  regulations.  It is there-
+fore  not  the  case  that  the  OSHA  rule  stands  out  as  a  means  of saving
+lives  especially  cheaply.
+
+When  informational  strategies  are  costly,  there  are  two  possible  re-
+sponses.  The  first  is  to  do  nothing.  If the  savings-in  terms  of  health,
+life,  informed  choice-are  relatively  low,  costly  strategies,  even  informa-
+tional  ones,  make  little  sense.  There  will  therefore  be  circumstances  in
+which  a  government 
+is
+unwarranted.
+
+for  an  absence  of  information 
+
+remedy 
+
+The second  possibility is  to impose a regulatory  strategy rather  than to
+require  disclosure.  By  a  regulatory  strategy,  I  mean  a  mandatory  out-
+come,  such  as  a  flat  ban  on  the  materials  in  question,  or  governmental
+specification  of a particular outcome, as in a mandated  maximum  level of
+carcinogens  in  the  workplace.  Sometimes  the  regulatory  strategy  will  be
+cheaper,  because  the  price  of disclosing  information-changing  packag-
+ing and so forth-is so  high.  This is  likely to  be the  right response  when
+most or all  people would  respond  to the information  in the same way.  In
+that  case,  it is  unnecessary  to  provide  information,  and  better  simply  to
+dictate  an  outcome  that,  by  hypothesis,  is  generally  preferred.  For  an
+especially  dangerous  substance,  one  that  reasonable  people  would  not
+choose  to  encounter,  a  flat  ban  is  appropriate.
+
+Even  when  informational  strategies  are  not  prohibitively  expensive,
+they  may  be  ineffectual,  and  thus have  low  benefits.  People  have  limited
+ability to  process information.8"  They have  a notoriously  difficult time  in
+thinking  about  low-probability  events.  Sometimes  they  discount  such
+events  to  zero;  sometimes  they  treat them  as much more  dangerous  than
+they  actually  are.  If people  are  told,  for  example,  that  a  certain  sub-
+stance  causes cancer,  they  may  think that it is far more dangerous  than it
+is  in  fact.  But  some  carcinogenic  substances  pose  little  risk.
+
+For example,  California's  Proposition  65,  an initiative designed  to pro-
+mote  citizen  awareness  of risk  levels,  requires  warnings  for  exposure  to
+
+87.  Chicago  Tribune,  Nov.  7,  1991,  at  2.
+88.  See  Morrall,  supra note  27.
+89.  See generally JUDGMENT  AND  DECISION  MAKING:  AN  INTERDISCIPLINARY  READER
+
+(H.  Arkes  &  K.  Hammond  eds.  1986).
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 973 1991
+
+SUFFOLK  UNIVERSITY  LAW  REVIEW
+
+[Vol.  XXV:949
+
+carcinogens.  At  first  glance  the  requirement  seems  unexceptionable,  in-
+deed  an  important  advance.  But  it  has  in  some  cases  been  counter-
+productive.  Consumers  appear to think that  twelve  of every  100  users of
+a product  with the  required  warning  will die from  cancer.  This estimate
+exceeds  reality  by  a  factor  of  1000  or  more.'  With  respect  to  informa-
+tion,  less  may  be  more.  If information  is  not  provided  in  a  clear  and
+usable  form,  it  may  actually  make  people  less  knowledgeable  than  they
+were  before.  The  Truth-in-Lending  Act  has  suffered 
+this
+problem.9
+
+from 
+
+The problem  is aggravated by  the fact  that  people  tend to use heuristic
+devices  that  produce  systemic  errors.  A  particular  problem  here  is  the
+"availability  heuristic,"  in  accordance  with  which  people  tend  to  think
+an  event  is  probable  if  they  can  readily  bring  to  mind  memories  of its
+occurrence.  Thus, for  example,  an  airplane disaster  will be  thought rela-
+tively  probable,  whereas  a  death  from  diabetes  will  not  be.  There  is  a
+good  deal  of evidence  that people  overestimate  risks  from  highly  visible
+or  sensational  causes,  but  underestimate  risks  from  less  dramatic  ones.92
+There  is  evidence  as  well  of another  problem  for informational  strate-
+gies:  people  often  believe  themselves  to  be  immune  from  risks  that  they
+acknowledge  are  significant  and  real  with  respect  to  others. 93 
+In  one
+study,  for example,  ninety-seven  percent of those  surveyed  ranked  them-
+selves  as  average  or  above  average  in  their  ability  to  avoid  both  bicycle
+and  power  mower  accidents.94  Disclosure of information  may  be  an  un-
+helpful  tool  when  people  do  not  internalize  the  new  data.
+
+There  is  also  evidence  that  people  feel  frustrated  and  frightened  by
+probabilistic  information,  and  greatly prefer a certain  answer.  The desire
+to reduce  cognitive dissonance  may  prevent  people  from  recognizing  that
+risks  are real  even  when  information  is provided.9"  The  same desire  may
+undermine  efforts  to  provide  risk information  when  the truth  is that  peo-
+ple  must  inevitably  operate  under conditions  of uncertainty.  This desire
+may  also prevent  people  from  recognizing  that conditions  are dangerous
+even  in  the face  of solid information  to  this  effect.
+
+90.  See  Viscusi,  Predicting  the  Effects  of Food  Cancer  Risk  Warnings on  Consumers,  in
+JUDGMENT  AND  DECISION  MAKING:  AN  INTERDISCIPLINARY  READER,  supra note  89,  at
+283.
+
+91.  See  Rubin,  Legislative Methodology:  Some Lessons from  the  Truth-in-Lending Act,  80
+GEO.  L.J. 233,  235-36  (1991)  (consumers have difficulty  processing  information  from  required
+publications  of annual  percentage  rates).
+
+92.  See  Slovic,  Fischhoff & Lichtenstein, Informing  the Public About  the Risks from  Ioniz-
+ing Radiation, in  JUDGMENT  AND  DECISION  MAKING:  AN  INTERDISCIPLINARY  READER  (H.
+Arkes  & K. Hammond  eds.  1986).
+
+93.  Id. at  116.
+94.  Id.
+95.  See  Akerlof &  Dickens,  The  Economic  Consequences  of Cognitive Dissonance,  72  AM.
+
+ECON.  REV.  307 (1982).
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 974 1991
+
+1991]
+
+DEMOCRATIZING  AMERICA
+
+There  is  a  pervasive  risk  of  information  overload,  causing  consumers
+to  treat a  large  amount of information  as equivalent  to no  information  at
+all.96  Finally,  initially held  beliefs are not easy  to modify,  even  when new
+information,  undermining  those  beliefs,  has  been  presented. 97
+
+Yet  another  problem  is  that  disclosure  requirements  may  have  unan-
+ticipated  adverse  effects.  For example,  companies  may  respond to disclo-
+sure  requirements  by  refusing  to  provide  information  at all  (if this  is  an
+available  option).  The  result  will  be  the removal  from the  market  of in-
+formation  that  is useful  overall.  If industry  responds  to a requirement  of
+evidentiary  support  for  scientific  claims  with  mere  "puffing,"  consumers
+may  have  less  information  than  they  did  to  begin  with.  If advertisers
+must  conduct  extensive  tests  before  they  are  permitted  to  make  claims,
+they  will  be  given  a  strong  incentive  to  avoid  making  claims  at  all.98
+
+Finally,  information  may  be  an  inadequate  strategy  where  greater
+safety  is  a  public  good.99  Imagine,  for  example,  that  the  replacement  of
+carcinogen  X  with  safe  product  Y  would  benefit  all  workers  simultane-
+ously.  Imagine,  too,  that  each  worker  is  bargaining  separately  with the
+employer.  In  that case,  no  individual  employee  would  have  a  sufficient
+incentive  to  decrease  his  demand  for  wages  and  other  benefits  to  obtain
+increased  safety.  Because the benefits  of the new substance  would be pro-
+vided  to everyone,  no individual  employee would  "pay"  enough to obtain
+them, preferring  instead  to  take  a  free ride  on  the  efforts  of others.  The
+result  will  be  too  little safety  on  conventional  economic  criteria.  Here a
+regulatory  response  is  appropriate.
+
+All  this suggests  that there  are  real limitations  to  informational  strate-
+gies.  These  limitations  should,  however,  be  taken  merely  as  qualifica-
+tions  of  the  broader  point,  or  as  providing  helpful  guidance  to  those
+seeking  to  design  effective  information  requirements.  They  do  not  bear
+fundamentally  on  reform  efforts.
+
+The  first  and  most  important  point  is  that  some  of these  very  limita-
+tions  can  be  overcome  through  more  and better information.  An  aware-
+ness  of  the  distorting  effects  of  current  heuristics  can  help  overcome
+those  effects;  general  publicity  about  those effects  might  therefore  supply
+a corrective.  In addition,  well-tailored  programs  would minimize  the rel-
+evant  risks  by  putting  the  information  in  its  most  understandable  form.
+
+96.  See  Jacoby,  Nelson  &  Hoyer,  Corrective  Advertising  and Affirmative  Disclosure  State-
+ments  Their Potential for Confusing  and Misleading  the  Consumer,  J.  MARKETING,  Winter
+1982,  at  61,  70.
+
+97.  Id.  at  118.
+98.  See  Craswell,  Interpreting Deceptive Advertising,  65  B.U.L.  REv.  657  (1985).
+99.  See  Rose-Ackerman,  supra  note  33,  at  356. This  argument  depends  for  its  plausibility
+on  transactions  cost  barriers  to  free  mobility  of labor.  If labor  were  completely  mobile,  the
+problem  should  disappear.
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 975 1991
+
+SUFFOLK  UNIVERSITY  LAW  REVIEW
+
+[Vol.  XXV:949
+
+Instead  of labelling a  substance a  "carcinogen,"  a  uniform  system of risk
+regulation  could give  better awareness  of risk levels.  While  informational
+strategies  are  no  panacea,  they  would  accomplish  considerable  good,  at
+least  if the possible  obstacles  are  kept  firmly  in  mind.
+
+B.  When  Economic Incentives Fail
+
+There  are  several  possible  problems  with  the  use  of economic  incen-
+tives.  The clearest  cases  arise when  the  appropriate  response  to  a harm-
+producing  activity  is  a  flat ban.  With  an  especially  dangerous  pollutant,
+an  increased  price  is  inadequate.  The  pollutant  should  be  eliminated
+from the market,  at least if its social  benefits do  not outweigh the relevant
+danger  and  less  dangerous  substitutes  are  available.  But  if a  flat  ban  is
+not desirable,  there  should  be  a strong presumption  in favor of economic
+incentives.
+
+Another  problem  is  that economic  incentives  might  be  thought  to op-
+erate as a regressive  tax, in the sense  that they  raise prices in  general,  and
+the rise  will  come  down  especially  hard  on  the poor.  An increase  in the
+price  of  gasoline,  or  in  the  cost  of  high-polluting  vehicles,  will  make
+things more  difficult  for  poor  people  in  particular.  Indeed,  any  effort  to
+require  manufacturers  and  sellers  to  "internalize"  the costs  of their pro-
+duction  might  seem  objectionable  insofar  as  it increases  prices  in  a  way
+especially  hard  on  the  indigent.
+
+In  general,  I  do  not  believe  that  this  objection  is  persuasive.'0 0  Any
+regulatory  solution  will increase  prices;  economic  incentives  are  not dis-
+tinctive  in  this regard.  And  if the  solution  is  otherwise  sensible,  it ought
+not  to  be  treated  as a "regressive  tax,"  any more than the  pricing  system
+itself  is  a  regressive  tax.  Moreover,  a  refusal  to  require  enterprises  to
+bear  the social  costs of their  activities  is hardly  an  effective  way  of bene-
+fiting  the  poor.  The  class  of  people  burdened  by  this  refusal  includes
+many  people  not  poor  at all;  and  the  refusal  burdens  many  poor  people.
+It  is  certainly  correct,  however,  to  worry  about  the  consequences  of
+price  increases,  produced  by  market  forces  or  by  government,  for  poor
+people.  The point  suggests  that  the taxes  or fines  produced  by  economic
+incentives  might  be  accompanied  by  subsidies  or  transfer  payments  to
+people  who  are  needy.  Some  of these  subsidies  might  be  funded  out  of
+the  very  revenues  produced  by  the  program  itself.
+
+It  is  also  possible  to  argue,  as  against  economic  incentives,  that  they
+improperly  "commodify"  certain  interests.  Perhaps  some  such  inter-
+ests-the right  to bodily  integrity, the  right  to freedom  from  pollution-
+ought  not  to  be traded  on  markets  at all.  Perhaps  such  trading  debases
+and  diminishes  the  interests  in  question,  with harmful  consequences  for
+
+100.  See  Sunstein, Administrative Substance, supra note  2.
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 976 1991
+
+19911
+
+DEMOCRATIZING  AMERICA
+
+social  attitudes.' 0 1
+
+In  some settings  the objection  seems  plausible.  Thus  there  is reason to
+question  a decision  to  allow  trading  of body  parts,  or  of gestational  ca-
+pacities.  But  in  the general  context  of regulatory  law,  it is  doubtful  that
+the  argument  takes  one  very  far.  It  seems  implausible  to  suggest  that
+social  attitudes  would  be  materially  changed  by  a  system  in  which  pol-
+luters and  others  who  cause  harm  must  pay.  Indeed,  a  shift of the enti-
+tlement  from  the  polluter  to  the  pollutee  might  have  desirable  effects  on
+social  attitudes, by establishing  the correct  starting point. 10 2  In any  case,
+it seems  far  better  to require  people  who  cause  harm  to  pay,  rather than
+to  allow  them  to  do  so  for  free.
+
+Any  incentive-based  system  must  confront  a  range  of  practical
+problems.  In the environmental  context, for example,  there is a  risk that
+polluters  will  cluster in  a  particular  area,  thus  subjecting  people  in  that
+area  to unacceptably  high danger.'o 3  Determining  the amount of any  tax
+or fine is not a simple scientific exercise.  It entails a democratic judgment
+about appropriate  risk  levels, and that decision will pose  great difficulties.
+But  these sorts of questions  should  be  treated  as  matters  of detail.  They
+do  not bear  fundamentally  on  the  shift  to  economic  incentives.
+
+C.  National Commitments
+
+Decentralization  is not a preferred  approach  in at least three categories
+of cases.  The  first involves  national  moral  commitments  that  cut across
+local boundaries.  The  most  obvious  candidates  here  are  the  prohibition
+on  discrimination  on  the basis  of race  and  sex.  Here  decentralized  solu-
+tions  are inadequate.  The  whole  point  of the national  commitment  is  to
+ensure  adherence  to  a  principle  that  transcends  state  boundaries.  The
+Civil  War,  establishing  a  prohibition  on  slavery  and  a  requirement  of
+racial  equality,  is  the  core  example.
+
+The  second  category  involves  interstate  spillovers,  of which  air  pollu-
+tion  is the  most conspicuous example.  Because  air pollution  in  California
+will  affect  Nevada,  we  cannot  rely  entirely  on  intrastate  controls.  There
+are  inadequate  political  safeguards  in  one  state  against  the imposition  of
+harms  on  another.  In  such  cases,  national  intervention  is  necessary.
+
+101.  In  the environmental  context,  see S.  KELMAN,  WHAT  PRICE  INCENTIVES?  (1981);  on
+in  general,  see  Radin,  Market-Inalienability, 100  HARV.  L.  REV.  1849
+
+commodification 
+(1987).
+
+102.  On  the  relationships  between  preferences  and  initial  allocations  of entitlements,  see,
+e.g.,  Kahneman,  Knetsch  &  Thaler,  Experimental Tests  of the  Endowment Effect  and the
+Coase Theorem,  98  J.  POL.  ECON.  1325  (1990);  see also  Knetsch,  The  Endowment Effect  and
+Evidence of Nonreversible Indifference Curves,  79  Am.  ECON.  REV.  1277  (1989);  Knetsch  &
+Sinden,  Willingness to Pay and Compensation Demanded: Experimental Evidence of an Unex-
+pected Disparity in Measures of Value,  99  Q.J.  ECON.  507  (1984).
+
+103.  See  S.  BREYER,  supra note  17.
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 977 1991
+
+SUFFOLK  UNIVERSITY  LAW  REVIEW
+
+[Vol.  XXV:949
+
+Even  here, however,  such intervention should  take the form  of "floors"-
+minimum  standards-rather  than  nationally  dictated  outcomes.
+
+The  third  category  is  the  most  interesting.  In  a  federal  system,  states
+compete  with  each  other  for  revenue-attracting  business  and  industry.
+This competition  creates  an important  "race  to the  bottom"  with respect
+to  regulatory  controls.  In  many  respects  this  is  entirely  healthy.  The
+right  of exit is  a critical  check  against  oppressive  law.  Indeed,  the right
+of exit  is probably  a  more  important  constraint  on  oppressive  legislation
+than the Supreme Court's  decisions under the dormant  commerce  clause,
+even  if all  these  are  taken  together.
+
+But  the  "race"  can  have  unfortunate  consequences  as  well.  Suppose,
+for example,  that state A wishes  to impose occupational  safety  and health
+controls--or  even  disclosure  requirements-on  industries  within  its bor-
+ders.  Suppose  that  such industries  are free  to  leave.  It may  well  be  that
+in  such  circumstances,  no  state  will  impose  the  relevant  controls,  even
+though  all  states,  if agreement  were  possible,  would  choose  to  do  so.
+President  Roosevelt  made  precisely this  argument  in  supporting child  la-
+bor  legislation  at the  national  level.
+
+In  some cases,  then,  the  race  to  the bottom  will  put  states in a  prison-
+ers'  dilemma,  requiring  a  cooperative  solution  in  the  form  of a  binding
+agreement  through  the  national  government.  Through  legislation  at  the
+national  level, states  can prevent  the mutually  destructive competition  to
+attract  business  and  industry.
+
+This  argument  does  not  prove  as  much  as  might  appear.  Sometimes
+national  legislation  will  not be  in the  interests  of the  states'  own  people,
+since  it will  drive  down  profits  in  a way  that  will have  adverse  effects on
+(among  other things)  poverty,  employment,  and  the general  availability
+of goods  and services.  But national  legislation  will sometimes be justified
+on  this  ground.
+
+D.  Democracy and Markets:  Potential for Conflict
+
+In  most  of  this  essay,  I  have  argued  that  economic  and  democratic
+goals  can  march  hand-in-hand.  Across  a  wide  range,  we  can  attempt
+precisely  the same  reforms  to  bring  about  both  of these  goals.  For  this
+reason,  there  is  no  need  to  choose  between  efficiency  and  democracy,  at
+least  for most  of our  efforts  in  the  next  generation.
+
+It  would  be  a  mistake,  however,  to  pretend  that  there  is  no  potential
+for  conflict.  An  exploration  of that  potential  of course  raises  extremely
+large  and  complex  issues.  I  make  only  a  few  brief observations.
+
+The  most  important  point  is that  efficiency  is a  function  of aggregated
+private  willingness  to pay,  a criterion  that is,  to say the least, problematic
+from  the  democratic  point  of view.  A  system  is  efficient  if entitlements
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 978 1991
+
+19911
+
+DEMOCRATIZING  AMERICA
+
+have  been  allocated  so  as  to  "maximize  value,"  with  reference  to  private
+willingness  to  pay.  For believers  in a  democratic  system,  however,  this
+criterion  is  distorted, and  in two  ways.  First, a democratic  system  oper-
+ates  on  the principle  of one person,  one vote.  By  contrast,  a market  allo-
+cates  "votes"  in  accordance  with  how  much  people  are willing  to pay  for
+things.  Since  willingness to pay is a function  of ability  to pay,  rich people
+will  be  willing  to  pay  far  more  than  poor  people.  Indeed,  the  indigent
+can  pay  nothing  at  all.  The  principle  of political  equality,  so  central  to
+democratic  theory,  is violated  by  the efficiency  criterion.
+
+Second,  a  democratic  system,  at  least  in  America,  is  not  supposed  to
+represent  an  effort  to  aggregate  private  preferences."° 
+Instead  the  pro-
+cess is  a deliberative  one, in  which  different  information  and perspectives
+are  brought  to  bear.  In  that  deliberative  process,  preferences  are  sup-
+posed  to  be  transformed  into  values. °5  Markets  do  not  have  this
+function.
+
+The  notion  of  aggregating  private  willingness  to  pay  accurately  cap-
+tures  the  economic  ideal  of  "consumer  sovereignty."  But  whatever  its
+value in  some contexts,  this is a caricature  of the American  conception  of
+sovereignty.  That  conception  aspires  not  to  aggregated  consumption
+choices,  but  instead  to  a  transfer  of the  power  of governance  from  the
+King  to "We  the  People."  Insofar  as markets  accurately  capture  private
+willingness  to  pay,  they  are  a  powerful  tool  of prosperity,  and  on  a  cer-
+tain,  not  wholly  implausible  view,  of liberty  as  well.  But  this  salutary
+function  is not  the  same  as  democratic  self-governance.  The  considered
+judgments  of the citizenry  may  well  diverge  from  aggregated  consump-
+tion  choices."°
+c  And  when  there is  such  a divergence,  the  former  should
+generally  prevail.
+
+These  objections  to  the  willingness  to  pay  criterion,  invoking  demo-
+cratic  principles,  are  hardly  irrelevant  to the  reform  of American  public
+law.  They  suggest that  exclusive use  of the principle  of cost-benefit  anal-
+ysis  is  highly  objectionable.  They  suggest  that  there  will  indeed  be  con-
+flicts  between  democratic  aspirations  and the  goal of economic  efficiency.
+But  if what  I  have  said  is  persuasive,  a  great  deal  can  be  done  before
+reaching  those conflicts.
+
+104.  As  social  choice  theorists  have  shown,  it  could  not  do  so  even  if we  wanted  it  to,
+because  of the  paradoxes  created  by  multimember  bodies.  See  K.  ARROW,  SOCIAL  CHOICE
+AND  INDIVIDUAL  VALUES  (1955)  (discussing  these  paradoxes).
+
+105.  See  Pitkin,  Justice:  Relating Public to  Private, in  9  POLITICAL  THEORY  327  (1981)
+
+(discussing  transformation  of preferencing  in  politics).
+
+106.  See  Anderson,  Values,  Risks,  and Market Norms,  17  PHIL.  &  PUB.  AFF.  54  (1987)
+
+(discussing  divergence  between  democratic  outcomes  and  market  choices).
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 979 1991
+
+SUFFOLK  UNIVERSITY  LAW  REVIEW
+
+[Vol.  XXV:949
+
+V.  CONCLUSION
+
+Throughout  its  history,  American  government  has  benefited  from  its
+democratic  features  and  from  structural  characteristics  that  promote  ef-
+fectiveness  and  efficiency.  The  benefits  are  especially  conspicuous  when
+viewed  in  comparison  to  other governmental  systems.  But in  its current
+incarnation,  it  suffers  from  significant  failures.  The  modern  regulatory
+state  is often  ineffective.  It has not  been efficient.  It is  hardly a model  of
+democratic  self-governance.  In  a  period  in  which  nations  all  over  the
+world are  seeking to  promote  both efficiency  and  democracy,  it  would be
+unfortunate  indeed  if we  did  not subject our  own institutions  to skeptical
+scrutiny.
+
+In  this  essay,  I  have  suggested  three  reforms  in  contemporary  public
+law.  Information-based  strategies,  increasing  disclosure  and  education,
+should  supplement  or  even  displace  regulatory  systems.  Economic  in-
+centives,  including  taxes  and  fines,  should  substantially  displace  com-
+mand-and-control  regulation.  Decentralization,  allowing bargaining  and
+participation  in  the private  and  public  spheres,  should  in  many  contexts
+be  substituted  for  centralized  dictates  from  Washington.  All  of  these
+proposals  would  respond  simultaneously  to inefficiencies  in  modern  gov-
+ernment  and  to  severe  problems  from  the  democratic  point  of  view-
+most  notably  factional  influence  and  absence  of opportunities for  the  ex-
+ercise  of political  influence.
+
+I do  not contend  that reforms  of this sort  would  accomplish  all  that is
+now  required,  from  the  standpoint  of  either  efficiency  or  democracy.
+There are genuine limits to  all three strategies.  At some point, moreover,
+it will be  necessary  to  reconcile  some  serious  conflicts  between  efficiency
+and democracy.  But we now  have  both the information  and  the tools  by
+which  to  accomplish  an  enormous  amount  of reform.  We  need  not  rest
+content  with  the  paradoxes  and  failures  of existing  institutions.
+
+HeinOnline  -- 25 Suffolk U. L. Rev. 980 1991
+
+

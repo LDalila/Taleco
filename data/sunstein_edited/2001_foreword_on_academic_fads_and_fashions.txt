@@ -1,0 +1,813 @@
+Foreword: On Academic Fads and Fashions
+Author(s): Cass R. Sunstein
+Source: Michigan Law Review, Vol. 99, No. 6, 2001 Survey of Books Relating to the Law (May,
+2001), pp. 1251-1264
+Published by: The Michigan Law Review Association
+Stable URL: http://www.jstor.org/stable/1290382 .
+Accessed: 20/06/2014 00:21
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at .
+http://www.jstor.org/page/info/about/policies/terms.jsp
+
+ .
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of
+content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms
+of scholarship. For more information about JSTOR, please contact support@jstor.org.
+
+ .
+
+The Michigan Law Review Association is collaborating with JSTOR to digitize, preserve and extend access to
+Michigan Law Review.
+
+http://www.jstor.org 
+
+This content downloaded from 62.122.73.17 on Fri, 20 Jun 2014 00:21:00 AM
+All use subject to JSTOR Terms and Conditions
+
+FOREWORD: 
+ON ACADEMIC FADS AND FASHIONS 
+
+Cass R. Sunstein* 
+
+I. 
+
+INTRODUCTION 
+
+Why did  critical legal  studies  disappear? Will  it  reappear? Why 
+does the Federalist Society prosper? Why, and when, do people write 
+books on constitutional law, rather than tort law or antitrust? Why did 
+people  laugh at the  notion  of  "animal rights," and why do  they now 
+laugh  less?  Why  do  law  professors seem  increasingly respectful  of 
+"textualism" and "originalism," ideas that produced ridicule and con- 
+tempt just  two  decades  ago?  How  do  book  reviewers choose  what 
+books to review? Why has law and economics had such staying power? 
+Academics are generally committed to  truth, and they are drawn 
+to  ideas that can be  shown to be good  ones. The most optimistic an- 
+swer to these questions is that ideas survive because and to the extent 
+that they are true or good.  On this view, law and economics has out- 
+lasted critical legal studies because it has much more to  offer. Textu- 
+alism and originalism have had a resurgence because much can be said 
+on  their  behalf.  Book  reviewers, in  the  academic  domain,  tend  to 
+choose to review the best books. 
+
+In my view, these claims contain some truth, but they are far too 
+optimistic. Academics,  like  everyone  else,  are subject to  cascade ef- 
+fects. They start, join, and accelerate bandwagons. More particularly, 
+they  are  subject to  the  informational signals  sent  by  the  acts  and 
+statements of  others. They participate in creating the very signals to 
+which they respond. Academics, like everyone else, are also suscepti- 
+ble to the reputational pressures imposed by the (perceived) beliefs of 
+others. They respond to these pressures, and by so doing, they help to 
+amplify them.  It  is  for  these  reasons that fads,  fashions, and band- 
+wagon effects can be found in academia, including the academic study 
+of law. Fortunately, the underlying forces can spark creativity and give 
+new ideas a chance to prosper. Unfortunately, these  same forces can 
+also produce error and confusion. 
+
+*  Karl  N.  Llewellyn  Distinguished  Service  Professor  of  Jurisprudence,  University  of 
+Chicago,  Law  School  and  Department  of  Political  Science.  -  Ed.  I  am  grateful  to  Jack 
+Goldsmith,  Tracey  Meares,  Eric  Posner,  and  Richard  Posner  for  helpful  comments  on  an 
+earlier draft. 
+
+1251 
+
+This content downloaded from 62.122.73.17 on Fri, 20 Jun 2014 00:21:00 AM
+All use subject to JSTOR Terms and Conditions
+
+1252 
+
+Michigan Law Review 
+
+[Vol.99:1251 
+
+Sometimes  cascades  have  enduring  effects.  But  in  many  fields  aca- 
+demic  cascades  are  fragile,  with  numerous  people  focusing  on  issues 
+and  adopting  methods  that  disappear  in  short  order.  Some  cascades 
+produce  unpredictable  and  seemingly  random  movements,  as external 
+shocks  lead  in  dramatic  directions.  In  social  life,  small  sparks  cause 
+wildfires;  it is for  this  reason,  among  others,  that  we  cannot  easily  pre- 
+dict  future  academic  trends,  or  foresee  new  movements 
+in  the  aca- 
+demic  study  of  law.  (In  1985,  would  it  have  been  possible  to  predict 
+the  resurgence,  in  the  1990s,  of  interest  in  the  study  of  social  norms?1 
+Or  the  rise  of  interest  in  cyberspace?  In  the  Second  Amendment?) 
+There  is  even  a  tipping  point  phenomenon  here,  in  which  a  certain 
+pressure,  from  the  perceived  views  of  others,  can  produce  a  sudden 
+"rush" toward  a particular methodology  or point  of  view.2 
+
+In  this  Essay,  I  attempt  to  cast  light  on  the  general  topic  of  aca- 
+demic  bandwagons  and  cascades,  with  particular  reference  to  law. 
+Several  caveats  are  in  order.  First,  my  focus  here  is  on  trends  in  aca- 
+demic  law,  but  informational  and  reputational  signals  are  ubiquitous. 
+The  same  forces  discussed  here  help  explain  many  social  movements, 
+including  reactions  to  environmental  risks,  the  rise  and fall  of  commu- 
+nism,  the  success  or failure  of students  and job  candidates,  the  creation 
+of  ethnic  identifications,  and  the  rise  and  partial  fall  of  affirmative  ac- 
+tion.3 Second,  I  do  not  mean  to  present  any  criticism  of  legal  scholar- 
+ship  in  general,  or  to  depict  those  who  produce  it  as  especially  prone 
+to  informational  and reputational  influences.  A  general  attack  on  legal 
+scholarship  would  be  senseless,  if  only  because  so  much  of  it  is  obvi- 
+ously  excellent.  Third,  I  aim  only  to  establish  the  existence  of  cascade 
+effects,  not  to  give  a clear test  for distinguishing  cascades  from  cases  in 
+which  approaches  and  arguments  have  spread  because  of  their  merits 
+(though  some  of  my  remarks  will  bear  on  that  issue).  Fourth,  my 
+treatment  will be  informal  and anecdotal,  offering  examples  that will,  I 
+hope,  be  intuitive  and  familiar.  With  respect  to  the  underlying  phe- 
+nomena,  I  draw  on  some  more  systematic  and  formal  treatments,4 
+
+1.  Fueled by ROBERT ELLICKSON, ORDER WITHOUT LAW (1991). 
+2.  For a popular treatment, see  MALCOLM GLADWELL, THE TIPPING POINT (2000). 
+3.  See, e.g., David  Hirschleifer,  The Blind Leading the Blind: Social Influence, Fads, and 
+Informational Cascades, in THE NEW ECONOMICS OF HUMAN BEHAVIOR 188, 189 (Mariano 
+Tommasi  &  Kathryn Ierulli  eds.,  1995); TIMUR KURAN, PUBLIC LIES, PRIVATE TRUTHS 
+(1997). 
+
+4.  See supra note  3. A  helpful  overview  is Sushil Bikchandani et  al., Learning From the 
+Behavior  of  Others: Conformity, Fads, and Informational  Cascades, 12 J. ECON. PERSP. 151 
+(1998).  In  the  social  sciences,  the  analytical  literature  on  cascades  begins  with  Magoroh 
+Maruyama, The Second  Cybernetics: Deviation-Amplifying  Mutual Causal Processes, 51 AM. 
+SCIENTIST 164  (1963);  THOMAS C.  SCHELLING, MICROMOTIVES AND MACROBEHAVIOR 
+(1978);  and  Mark Granovetter,  Threshold Models  of  Collective  Behavior,  83  AMER. J.  OF 
+SOC. 1420  (1978).  For  analysis  of  purely  informational  cascades,  see  Sushil  Bikchandani, 
+David  Hirshleifer, & Ivo Welch, A  Theory of Fads, Fashion,  Custom, and Cultural Change as 
+Informational  Cascades, 100 J. OF POL. ECON. 992 (1992); David  Hirschleifer, supra note  3; 
+
+This content downloaded from 62.122.73.17 on Fri, 20 Jun 2014 00:21:00 AM
+All use subject to JSTOR Terms and Conditions
+
+May 2001] 
+
+Foreword 
+
+1253 
+
+both  general  and  particular,  and  try  to  apply  the  central  ideas  to  the 
+academic  context.  Obviously  a  great  deal  might  be  said  about  this 
+topic; my  brief  treatment  here  is intended  only  to be  a start. 
+
+II.  A  NOTE  ON ACADEMIC  UTILITY FUNCTIONS AND  THE MARKET 
+
+FOR IDEAS 
+
+To  make  progress  on  this  topic,  it  is  necessary  to  have  some  sense 
+of  what  academics  care  about,  and  also  to  know  something  about  the 
+nature  of  the  market  for  academic  ideas.  On  these  subjects,  I hope  not 
+to  say  anything  controversial.  But  because  some  account  is  implicit  in 
+any  description  of  cascades,  I offer  some  brief notations.5 
+
+Most  academics  care  about  what  most  people  care  about.  They 
+seek  to  retain  their  jobs  and  to  have  the  good  opinion  of  (relevant) 
+others.  Few  of  them  are  indifferent  to  status.  But  they  also  care,  more 
+than  most,  about  ideas,  and  they  are willing  to  forego  various  benefits 
+in  order  to  be  able  to  think  and  talk  about  issues  suitable  for  teaching 
+in  pursuing 
+and  academic  research.  Many  academics  are  interested 
+truth  as  such.  Those  who  do  or  use  empirical  work  often  fall  in  this 
+category,  and  the  same  is  true  for  those  whose  basic  goal  is  to  help 
+produce  clarity  and  coherence  in  the  law.  In  the  context  of  law,  there 
+is an additional  point:  Many  academics  would  like  to  contribute  to  im- 
+provements  in  law  and  society  by  helping  to  make  law  better  in  the 
+domains  of,  for  example,  antitrust  law,  race  or  sex  equality,  and  free- 
+dom  of  speech.  Of  course  academics  are  a diverse  lot  on  these  counts. 
+For  some,  reputation  matters  a  great  deal;  for  others,  the  pursuit  of 
+truth or justice  is especially  important. 
+
+There  is  also  a  market  for  academic  ideas,  and  this  market  will 
+have  significant  effects  on  what  academics  do.  In  this  market,  aca- 
+demics  are  the  producers,  while  consumers  include  other  academics, 
+students,  government  officials,  judges,  and  law  clerks.  The  extent  of 
+interest  from  these  groups  will  of  course  vary with  the  material;  some 
+academic  work,  for  instance,  is  of  direct  interest  only  to  other  aca- 
+demics.  The  market  here  is  unusual  in  many  ways,  above  all  because 
+no  one  pays  directly  for what  academics  produce.  Law  reviews  usually 
+do  not  compensate  contributors  for  articles  and essays,  and the  same  is 
+true  for  other  journals  (in  economics  and  philosophy,  for  example)  in 
+
+Lisa  Anderrson  &  Charles  Holt,  Information  Cascades in  the  Laboratory,  87  AM.  ECON. 
+REV. 847 (1997); Abhiijit  Banerjee, A  Simple Model  of Herd Behavior,  107 Q. J. ECON. 797 
+(1992).  See  also  B.  Douglas  Berheim,  A  Theory  of  Conformity,  102  J.  POL. ECON. 841 
+(1994)  (discussing similar mechanisms). 
+
+5.  This  section  was  not  included  in  the  initial  drafts of  the  paper.  It  was  suggested  by 
+several commentators  on an earlier draft, who urged an elaboration  of the utility function of 
+law professors  and of  the market for academic  ideas.  Obviously  I think that the commenta- 
+tors are right, but  the  fact that these  topics  are discussed  here  is itself  an illustration of  the 
+forces I discuss in this Essay. 
+
+This content downloaded from 62.122.73.17 on Fri, 20 Jun 2014 00:21:00 AM
+All use subject to JSTOR Terms and Conditions
+
+1254 
+
+Michigan Law Review 
+
+[Vol.99:1251 
+
+which law professors might publish. Publishers will pay for the right to 
+publish books,  and  professors receive  royalties, but  little  money  is 
+usually involved, and hence the motivation for writing books is rarely 
+material for academics. On the other hand, indirect compensation 
+monetary and nonmonetary - 
+is omnipresent. Job opportunities are a 
+direct function of what academics produce, and at many schools, sal- 
+ary is partly a reflection of quality and quantity of publications. Invita- 
+tions to  conferences and the  like -  dreaded by some, welcomed by 
+many -  are also affected by the perceived quality of academic work. 
+It is here, above all, that the market disciplines academic activity. 
+
+In a well-functioning market, only or mostly valuable ideas will be 
+produced -  although of  course some  ideas will be  valuable even  if 
+they are misleading or incorrect. But it is not at all clear that an ordi- 
+nary economic market, based on the willingness-to-pay criterion, is a 
+good way to produce valuable ideas in law or elsewhere. Such a mar- 
+ket  might well  cater unduly to  existing tastes  or  to  the  interests of 
+those with a great deal of  money to pay; research funding by groups 
+with a large financial stake in outcomes is therefore a problem. The 
+complex  system of  indirect compensation, alongside the  tenure  sys- 
+tem, is commonly defended as a way of  insulating the production of 
+ideas from ordinary markets. If this complex system works extremely 
+well (by the appropriate criteria), it will lack "bad cascades" -  that is, 
+cascades in which valueless ideas travel not because they are valuable, 
+but because of the mechanisms that I will be discussing here. But I will 
+suggest that in many contexts, an absence of private information, to- 
+gether with a  concern for reputation and various features of  human 
+cognition, can produce academic cascades that are bad as well as good. 
+
+III.  INFORMATION-INDUCED  ACADEMIC  CASCADES 
+
+Academic  cascades  take  two  forms: informational  and  reputa- 
+
+tional. Let us begin with the role of information. 
+
+Most  people,  in  most  domains, lack  reliable  information about 
+what is true and what is right. For this reason, they are interested in 
+the signals of others. The point holds for the selection of movies and 
+restaurants and carpets; it holds for ideas as well.  If you  are unsure 
+whether textualism is  a  sensible  or pernicious approach to  constitu- 
+tional interpretation, you might care a great deal about other people's 
+views. Of course academics, especially older ones, are sometimes set- 
+tled in their views. Often they are confident that they know what to 
+think, and to that extent, they are not terribly susceptible to the views 
+of others. (Notice here that the precondition for immunity to informa- 
+tional influences is confidence about one's preexisting views, not ade- 
+quate or accurate information.) But among some groups, and in some 
+fields,  any  settlement  is  provisional and somewhat fragile. In  many 
+fields, including law, young people in particular can both influence and 
+
+This content downloaded from 62.122.73.17 on Fri, 20 Jun 2014 00:21:00 AM
+All use subject to JSTOR Terms and Conditions
+
+May 2001] 
+
+Foreword 
+
+1255 
+
+be influenced by informational signals. If many people are susceptible 
+to  influence, cascades can readily develop.  The  significant swings in 
+legal scholarship over the last decades suggest that academic lawyers 
+are indeed susceptible. 
+
+Suppose, for example, that John, a young academic, does not know 
+whether textualism is a sensible approach to constitutional interpreta- 
+tion, but that Mary, a slightly older academic, is in favor of it.6 If John 
+is otherwise in equipoise, but attaches value to what Mary thinks be- 
+cause she seems wise or has often been right in the past, it is easy to 
+see  how John might come  to  Mary's view. If John and Mary believe 
+that textualism makes sense, Sally, a contemporary of John, might be 
+moved  to  agree, at least if she lacks any reason to  be  confident that 
+they  are wrong. And  once  John, Mary, and Sally come  to  a  certain 
+view,  David,  a  recently hired faculty member, will likely  agree with 
+them unless he  has enough private knowledge -  or, more precisely, 
+confidence  -  about  his  antecedent  view  to  stand in  their way.  At 
+some point one or more of these people might even produce an article 
+or book in defense of textualism. 
+
+As stylized as this example seems, I believe that it captures a great 
+deal about academic movements, in law and elsewhere. Consider, for 
+example, the rise of feminism within the law schools, starting roughly 
+in the mid-1980s. In many places, feminism appears to have succeeded 
+through a kind of informational cascade, as people who would other- 
+wise be skeptical or unsure came to think that feminist approaches had 
+something to offer -  not (in many cases) because they carefully inves- 
+tigated the underlying claims and believed that they were illuminating 
+or right, but because the  beliefs  of  others seemed  hard to  resist for 
+those lacking a great deal of confidence in their own (skeptical) judg- 
+ments. If so many people  seemed to think feminist approaches to law 
+were valuable, mustn't they be right?7 
+
+Or consider the life and apparent death of the critical legal studies 
+movement,  which flourished (again speaking roughly) from  1977 to 
+1989. When I was a visiting professor at Harvard Law School in 1987, 
+critical legal studies powerfully influenced both students and younger 
+faculty. A  significant number of students appeared to sense what criti- 
+cal legal studies was about, and they seemed to agree with it. A signifi- 
+cant number of  assistant professors (some  of  them  now  professors, 
+with apparently little continuing interest in critical legal studies) were 
+in  the  same  category. Within both  groups, the  informational signals 
+sent  by  the  large number of  critical legal studies members were  ex- 
+tremely important. 
+
+6.  The example  adapts from the treatment in Bikchandani, supra note  4. 
+7.  In some  contexts,  a possible  answer is that they might be wrong, especially  if they are 
+
+participating in a cascade, rather than acting independently. 
+
+This content downloaded from 62.122.73.17 on Fri, 20 Jun 2014 00:21:00 AM
+All use subject to JSTOR Terms and Conditions
+
+1256 
+
+Michigan Law Review 
+
+[Vol.99:1251 
+
+At  the University of  Chicago Law School, much the same can be 
+said, then and now, about the economic analysis of law. Many faculty 
+members engage in  economic  analysis of  law, and a majority of  the 
+faculty shows considerable interest in the basic approach. As a general 
+rule, younger faculty members are especially interested in  the infor- 
+mational signals sent  by  their  colleagues,  and  at  Chicago, many of 
+them end up doing work that is influenced by economics. Cascade ef- 
+fects  are even  easier to  observe within the  student body,  as  certain 
+concepts (involving, for example, the value of  efficiency, the implica- 
+tions of  the  Coase theorem, and the  futility of  redistributive regula- 
+tion) spread as if by contagion. Of course it is true that many students, 
+and some faculty members, show no interest in the economic analysis 
+of law. But mere exposure to economic thinking, voiced in many set- 
+tings (including workshops, lunch discussions, and comments on  arti- 
+cles), leads in the expected directions. 
+
+As  informational cascades develop, people  end up amplifying the 
+very informational signals to which they have responded. Scholarship, 
+including the  production of  articles and books,  is  much affected by 
+processes of this kind. If this is so, it is possible to predict, with some 
+confidence,  that the  publication of  books  on  various topics  or  with 
+various methodologies  often  will  be  highly concentrated over  time, 
+showing that fads and fashions play a role  in the  academic world as 
+elsewhere. 
+
+In  making these  claims, I  do  not  mean  to  make  any  normative 
+claims about feminism, critical legal studies, or economic analysis of 
+law. Nor do I mean to suggest that those who are vulnerable to infor- 
+mational pressures are weak or irrational. People who know that they 
+have limited information certainly should pay attention to the signals 
+given by others. And whether pressures of this kind will lead in desir- 
+able directions cannot be decided in the abstract. All  that can be said 
+is that the underlying mechanisms give little reason for confidence that 
+academic  "movements" will  be  good  ones.  Ideas  can  spread, even 
+among people with some expertise, despite the fact that little is to be 
+said on their behalf. 
+
+From these examples, we  can also see  the possibility of purely or 
+mostly  local  informational cascades.  Outside  the  academic  world, 
+some  communities come  to  believe  that abandoned hazardous waste 
+dumps are extremely dangerous, whereas others think that they pose 
+no hazard at all. So, too, some law schools might come to embrace the 
+economic  analysis of  law, whereas others might see  enthusiasm for 
+traditional doctrinal analysis -  not because of  a large number of  in- 
+dependent judgments, but because  of  mutual interactions and influ- 
+ences. 
+
+This content downloaded from 62.122.73.17 on Fri, 20 Jun 2014 00:21:00 AM
+All use subject to JSTOR Terms and Conditions
+
+May 2001] 
+
+Foreword 
+
+1257 
+
+IV.  REPUTATION  AND  REPUTATIONAL  CASCADES 
+
+It should be clear that something important is missing from the pic- 
+ture: people's concerns about their reputations.8 Generally people care 
+about what  others  think  of  them,  and  most  academics are,  on  this 
+count, like most other people. 
+
+In many law schools and economics departments, an effort to show 
+that centralized planning really can work well, or to  vindicate social- 
+ism, or to show that people are irrational, would be very risky, no mat- 
+ter the quality of  the relevant work. People  might be  ridiculed. They 
+might well jeopardize their careers. At  many law schools,  the  same 
+would be  true for people  who attempted to  show that current differ- 
+ences between men and women are biological rather than social, and 
+to bring evidence to that effect to bear on legal issues. 
+
+Reputational considerations influence the public behavior of most 
+people,  not  excluding academics. This is not  because people  lack in- 
+tegrity, or are sycophantic, or are unwilling to follow their own paths. 
+It  is  simply because  most  people,  most  of  the  time,  want  others  to 
+think  well  -  or  at  least  not  ill  -  of  them.  Of  course,  people  have 
+varying susceptibility to reputational pressures. Some people can with- 
+stand  a  great  deal; others  will  be  inclined  to  take  the  safe  course, 
+showing reluctance to say, or especially to publish, anything that could 
+create trouble for them in the future. And of course sometimes those 
+who incur reputational sanctions in one place (the nonacademic world, 
+for example) will reap reputational benefits elsewhere (perhaps their 
+local academic community). Those who seem to  be  venturing out on 
+their own, and to be "brave," might in fact be motivated by the goal of 
+gaining status within a particular group. 
+
+Because most people  care about the views of others, and because 
+people  have  varying, rather than  uniform, susceptibility to  reputa- 
+tional pressures, it  is  easy  to  imagine reputational cascades with re- 
+spect to actions or stated beliefs.9 Suppose, for example, that A  and B 
+would think ill of  anyone who argues that the minimum wage should 
+be  significantly increased. C, who  is  not  sure what to  think about a 
+higher minimum wage, might be unmoved privately by the views of A 
+and B, but nonetheless might not want to incur the wrath of A  and B, 
+or to  seem  ignorant of basic economic principles, or to  appear indif- 
+ferent to  economic efficiency. If so,  C might show no  enthusiasm for 
+an increase in the minimum wage, or might even agree with A  and B 
+that an increase would be  a bad idea. If D  is otherwise in equipoise, 
+she might be most reluctant to oppose A, B, and C publicly. Mounting 
+reputational pressures might well lead E, F, G, and H, and many more, 
+
+8.  On reputation  and signaling in general, see  ERIC  POSNER,  LAW  AND  SOCIAL NORMS 
+
+(2000). 
+
+9.  See KURAN,  supra note 3. 
+
+This content downloaded from 62.122.73.17 on Fri, 20 Jun 2014 00:21:00 AM
+All use subject to JSTOR Terms and Conditions
+
+1258 
+
+Michigan Law Review 
+
+[Vol.99:1251 
+
+to join  the  bandwagon. Eventually a  large number of  people  might 
+speak  as  if  the  minimum wage  should not  be  increased. The  result 
+would be to affect academic discussion of government's role in the la- 
+bor market, including the treatment of this topic in articles and books. 
+Here,  too,  a  highly stylized  example  seems  to  help  account for 
+many shifts in the academic world. The rise of feminism within legal 
+academia undoubtedly has a great deal to do with reputational and in- 
+formational incentives. In the  early 1980s, those who  expressed con- 
+tempt for feminist scholarship were rarely punished for doing so, and 
+were sometimes rewarded. Currently those who express contempt for 
+feminist scholarship generally (of course not always) put their reputa- 
+tion in considerable danger. If a young academic chooses to write on 
+certain topics, or from certain points of  view, the  reputational sanc- 
+tions might be quite severe. At the University of Chicago Law School, 
+I cannot recall many faculty members expressing public support for a 
+substantial increase in the minimum wage, though I would not be sur- 
+prised if more than one faculty member actually believes that such an 
+increase would be  a good  idea. Five years ago, those  who borrowed 
+from behavioral economics were viewed with considerable suspicion 
+inside the world of law and economics; through a cascade effect, this is 
+decreasingly true. 
+
+It follows that "political correctness" is hardly a narrow phenome- 
+non involving the practices of left-leaning academics. Wherever repu- 
+tational pressures are in place, a  form of  "political correctness" will 
+discipline action and public statements. Reputational cascades are a 
+possible consequence. 
+
+V.  GROUP  POLARIZATION  AND  ACADEMIC  "SCHOOLS" 
+
+A  closely related phenomenon helps explain the initial growth of 
+academic fashions and gives some guidance on how to create, and how 
+not to create, an academic "school." The phenomenon is that of group 
+polarization.'? In brief, the idea behind group polarization is that when 
+a group of people  engages in deliberation, group members will move 
+toward a more extreme position in line with their predeliberation incli- 
+nations. This is  the  typical pattern among deliberating bodies. Thus, 
+for example, a group of Federalist Society members, inclined to  sup- 
+port  originalism, is  likely  to  be  extremely  enthusiastic about  origi- 
+nalism after discussing it with one  another. So, too,  a semiformal or- 
+ganization of law professors, meeting once a month, is likely to emerge 
+with a stronger commitment to critical race theory if its members are 
+inclined, before  discussion, to  be  favorably disposed  toward critical 
+race theory. It would be easy to multiply examples. 
+
+10.  See ROGER BROWN,  SOCIAL PSYCHOLOGY (2d  ed.  1986); Cass R.  Sunstein,  Delib- 
+
+erative Trouble: Why Groups Go to Extremes, 110 YALE L.J. 71 (2000). 
+
+This content downloaded from 62.122.73.17 on Fri, 20 Jun 2014 00:21:00 AM
+All use subject to JSTOR Terms and Conditions
+
+May 2001] 
+
+Foreword 
+
+1259 
+
+Massive evidence, from many different countries, supports the ba- 
+sic prediction. Why does group polarization occur? Though no cascade 
+need be involved,1l the two principal explanations are close to the ex- 
+planations for informational and reputational cascades. The  first in- 
+volves informational influences. In a deliberating group with an initial 
+tendency in favor of X  and against Y, there will be a disproportionate 
+number of  arguments in favor of X,  simply because most people  will 
+speak out on behalf of X.  Group members will have thought of some, 
+but not all, of the arguments in that direction. After deliberating, the 
+arguments for X will seem stronger to individual members, and the ar- 
+guments for Y will seem even weaker. It is to be expected that discus- 
+sion will move people to a more extreme form of their original enthu- 
+siasm for X. 
+
+The second explanation for group polarization points to social in- 
+fluences. Most people,  emphatically including professors of  law, care 
+about their reputations and their self-conception. Suppose, for exam- 
+ple, that you are inclined to think that affirmative action does not of- 
+fend the Constitution, but you are not entirely sure; suppose too  that 
+you find yourself in a group that also rejects the idea that affirmative 
+action offends the Constitution. If you think of yourself as the sort of 
+person who is, more than most, inclined to support the constitutional- 
+ity of  affirmative action programs, you  might move  a  bit, if  only  to 
+maintain your reputation within the group and your self-conception on 
+the issue at hand. The evidence strongly supports the proposition that 
+this happens.12 
+
+In  the  academic context,  the  lesson  is  simple.  A  group  of  like- 
+minded people,  thinking about some issue or topic, is highly likely to 
+move  toward a more extreme position, not merely fortifying but am- 
+plifying their predeliberation inclinations. Through this route, it is pos- 
+sible to make some progress in understanding the creation and effects 
+of academic "schools." In the early 1980s, for example, the critical le- 
+gal studies movement flourished at Harvard Law School in particular, 
+no  doubt in part because of  the  presence of  members who  talked a 
+great deal with one  another and fueled  their predeliberation inclina- 
+tions.  Several influential books  emerged from these  discussions.13 In 
+roughly the same period, the Federalist Society was created at Chicago 
+and  Yale,  and  the  existence  of  a  group of  like-minded people  un- 
+doubtedly helped to fuel certain commitments. In fact, it is reasonable 
+to speculate that the growth of conservative legal thought, within both 
+faculties and student groups, has had a great deal to do with the exis- 
+
+11.  This is because  group  polarization  can result from simultaneous  independent  influ- 
+
+ences  on group members. 
+
+12.  See BROWN,  supra note  10. 
+13.  See,  e.g.,  ROBERTO UNGER,  THE  CRITICAL LEGAL STUDIES MOVEMENT (1985). 
+
+This content downloaded from 62.122.73.17 on Fri, 20 Jun 2014 00:21:00 AM
+All use subject to JSTOR Terms and Conditions
+
+1260 
+
+Michigan Law Review 
+
+[Vol.99:1251 
+
+tence of a collection of people  who are relatively well-organized and 
+who are able to ensure that like-minded people can find some kind of 
+home. 
+
+VI.  QUALIFICATIONS,  EXTENSIONS,  IMPLICATIONS 
+
+Informational and reputational influences, as well as group polari- 
+zation, play a significant role in academic life. Cascade effects are pre- 
+sent here as elsewhere. For this reason, we should expect a large num- 
+ber of fads and fashions in the academic study of law. I would predict, 
+for example, that a citation analysis would show many academic "bub- 
+bles" -  rapid rises and declines  in  references to  certain ideas  and 
+people.14 But this basic sketch omits important parts of the overall pic- 
+ture. 
+
+A.  Leaders, Followers, Polarizers 
+
+With respect to  both informational signals and reputational pres- 
+sures, all people  are not created equal. Some carry more weight than 
+others. For example, the  signals sent by  well-known academics, and 
+academics at well-known schools, are likely to  be  especially loud.  If 
+faculty members at Yale  end up endorsing a new method for under- 
+standing law, there might seem to be particularly good reason to take 
+that method seriously. And  it is less likely that people  who embrace 
+the method will face the  kind of  reputational sanction that could be 
+imposed if the method were being used at a little-known school. Those 
+who are in a position to start cascades operate as leaders, above all be- 
+cause of the social amplification of their voices.15 Note  that this ampli- 
+fication can occur independently of the merits of the argument being 
+made. In listening carefully to well-known people, or to people at well- 
+known  schools,  followers  are  probably behaving rationally, because 
+such people are unusually likely to be interesting or correct, simply as 
+a statistical matter. But  there are no  guarantees here, and hence  ar- 
+guments can be  amplified even if they are meritless. (Perhaps the re- 
+sulting bubble will eventually pop, as discussed below.) 
+
+Some of the relevant leaders are simply saying what they think to 
+be  true; others  affirmatively want  followers,  perhaps because  they 
+seek  status, or perhaps because they want to  ensure that their ideas 
+are disseminated. Such people  take steps self-consciously to  promote 
+cascade effects, perhaps by organizing conferences, reading groups, or 
+even journals. More specifically, we can describe as "polarization en- 
+trepreneurs" those  people  who  foster  deliberative  groups  of  like- 
+
+14.  Some  support can be found in Robert  Ellickson,  Trends in Legal Scholarship: A  Sta- 
+
+tistical Study, 29 J. LEGAL STUD.  517, 527 (2000). 
+
+15.  Cf.  GARY  BECKER &  KEVIN MURPHY,  SOCIAL ECONOMICS 140-43  (2001). 
+
+This content downloaded from 62.122.73.17 on Fri, 20 Jun 2014 00:21:00 AM
+All use subject to JSTOR Terms and Conditions
+
+May 2001] 
+
+Foreword 
+
+1261 
+
+minded people  and ensure that participants share a common method- 
+ology or point of view. Exclusion of outsiders, and inclusion of a large 
+number of insiders, is an important component of this strategy. 
+
+An  obvious implication is that if the  goal is to  spread ideas, it is 
+probably best to begin by promoting discussion among groups of like- 
+minded people.  If members of  such groups speak mostly  or  only  to 
+one  another, views might become  entrenched, and the  entrenchment 
+among the views of increasingly large groups might initiate a cascade 
+effect.  A  much  worse  strategy  -  often  a doomed  strategy  - 
+is  to  en- 
+sure that people  with new ideas are placed in heterogeneous  groups, 
+where  their  ideas  are  unlikely to  travel, or  might be  squelched,  or 
+might even be subject to self-silencing. 
+
+In fact, the forces here are compounded by another: the availabil- 
+ity heuristic. It is well  known that certain facts and ideas  are cogni- 
+tively "available," or highly salient, and that this cognitive availability 
+can exert a large influence on beliefs and decisions.16 If a leader, or an 
+idea,  ends  up  widely  known,  through  independent  decisions  or 
+through cascade effects,  dramatic changes in  scholarly paths can be 
+expected. 
+
+B.  Starting and Stopping Cascades 
+
+Some  people  are  relatively  immune  to  the  influences  discussed 
+here. As I have suggested, people who are confident about their views 
+are especially likely to resist informational and reputational incentives. 
+The  point  suggests that in  some  arenas, cascades are likely  to  arise 
+quite infrequently. Academic areas are highly variable on this count, 
+and academics in some domains have a great deal of confidence, which 
+immunizes  themselves  from  cascade  effects.  In  fields  with  well- 
+established methods and goals, we  should expect  cascades to  be  un- 
+common. In the sciences, for example, large-scale shifts certainly oc- 
+cur, but the  existence  of  settled  methods  makes cascade effects  un- 
+likely7  - 
+far  less  probable  than  in,  for  example,  comparative 
+literature. Law, economics, and psychology are perhaps intermediate 
+cases. 
+
+This point  raises an important question: When  and why do  aca- 
+demic cascades start and stop? A crucial reason has to do with external 
+shocks.  Suppose, for example, that a group of  people  believes  some 
+fact. Suppose that evidence  shows that the  belief  is false. The  belief 
+will fade because it has been demonstrated to be wrong. 
+
+But  external  shocks  can  take  many  different forms.  Sometimes 
+academic trends, especially in  law, have  nothing to  do  with demon- 
+
+16.  See JONATHAN BARON, THINKING AND DECIDING (3d ed. 2000). 
+17.  This  is  a  possible  reading  of  THOMAS KUHN, THE STRUCTURE OF SCIENTIFIC 
+
+REVOLUTION (1970). 
+
+This content downloaded from 62.122.73.17 on Fri, 20 Jun 2014 00:21:00 AM
+All use subject to JSTOR Terms and Conditions
+
+1262 
+
+Michigan Law Review 
+
+[Vol.99:1251 
+
+strated fact, but are greatly affected by what happens outside of  the 
+academic domain. For example, the selection of Antonin Scalia to be a 
+member of  the  Supreme Court undoubtedly had a  great deal  to  do 
+with the legitimation of  originalism and textualism, methods favored 
+by Justice Scalia. This is partly because Justice Scalia's opinions pro- 
+vided a kind of focal point for academic debate; it is also because his 
+office  conferred a kind of  legitimacy on  arguments that might other- 
+wise be easy to dismiss. Nor is it irrelevant that some of Justice Scalia's 
+law clerks became academics. In fact, a significant source of informa- 
+tional  and reputational influences will  come,  directly and indirectly, 
+from  the  selection  of  Supreme Court clerks,  and  from  the  choice, 
+among clerks of particular justices, to become law professors. In a pre- 
+vious  generation, the  law  clerks of  Felix  Frankfurter, greatly influ- 
+enced by Frankfurter, became influential academics; the same appears 
+to be true of Scalia clerks today. 
+
+More  generally, the  1980 election  of  President Reagan  made  it 
+most  unlikely  that  the  Supreme Court would  continue  to  use  the 
+Equal Protection and Due  Process Clauses as bases for announcing a 
+series of  new rights for disadvantaged people.  Sensibly enough, aca- 
+demics interested in social reform showed decreasing interest in elabo- 
+rating legal doctrine for that purpose. Perhaps the  rise of  interest in 
+constitutional deliberation outside of the courtroom had something to 
+do with the  Court's lack of  receptivity to  the professors' arguments. 
+Perhaps diminished interest in judicial review  had  something to  do 
+with  the  changing composition of  the  Court.18 Highly visible  public 
+events with legal dimensions, such as the  1998 Clinton impeachment 
+and the 2000 postelection struggle between  George W. Bush and Al 
+Gore,  will  inevitably affect people's  choice  of  what  to  write  about. 
+(Perhaps Bush v. Gore will inaugurate a new era of neorealism, ques- 
+tioning the division between law and politics.) Academics may or may 
+not follow the election returns, but in law, the election returns can set 
+the academic agenda. 
+
+Other  external shocks can  come  from developments in  adjacent 
+fields. If, for example, economists show a great deal of interest in the 
+idea of spontaneous ordering, academic lawyers are likely to show an 
+interest in that topic, too. Part of the reason is informational: the fact 
+that a  certain topic interests economists is  likely to  be  important to 
+academic lawyers, many of whom care about what economists think. If 
+there  is  a  resurgence of  interest in  utilitarianism within philosophy, 
+law professors are likely to write about utilitarianism. The extraordi- 
+nary interest in the work of  John Rawls confirms this point. Critical 
+theory  provides another  case  in  point,  with  Jurgen Habermas  and 
+Michel Foucault, for example, exerting a significant influence on legal 
+
+18.  See  MARK TUSHNET,  TAKING THE CONSTITUTION AWAY  FROM THE COURT  (1999). 
+
+This content downloaded from 62.122.73.17 on Fri, 20 Jun 2014 00:21:00 AM
+All use subject to JSTOR Terms and Conditions
+
+May 2001] 
+
+Foreword 
+
+1263 
+
+scholarship by virtue of their prominence within closely related fields. 
+Of course, developments within adjacent fields might well be  a prod- 
+uct of the kinds of influences discussed here. 
+
+There is a final issue, perhaps in tension with the general argument 
+offered thus far. It is useful to distinguish between ideas and methods 
+on  which multiple people  can build for  a  long  time,  and ideas  and 
+methods that do  not  lead to  much in the way of  further work.19 The 
+notion that people are rational, self-interested profit maximizers is fer- 
+tile,  in  the  sense  that  it  has  applications to  many  domains of  law, 
+helping to produce predictions that can be tested and used. Though it 
+is too  early to  say, I believe  that the same is true for the notion that 
+people  are boundedly rational, and also for the claim that people  are 
+not  only  self-interested.20 The  idea  that law  is  pervasively based  on 
+male practices and understandings is also easily used as a basis for as- 
+sessing, or reassessing, many domains of law. But some claims tend to 
+"burn out," in the sense that once they have been voiced, there is little 
+that can be done with them, even if they are true. Perhaps this is the 
+case for the contention that law is "political," an important and illumi- 
+nating partial truth, but one with which it is not easy, in the aftermath 
+of legal realism, to do a great deal of illuminating further work. 
+
+CONCLUSION: THE MARKETPLACE OF IDEAS 
+
+Academics,  like  everyone  else,  are  susceptible  to  informational 
+and  reputational influences,  and  cascade  effects  are  as  likely  to  be 
+found in the academic domain as elsewhere. Notwithstanding the ex- 
+pertise and confidence of  many academics, academic life has its own 
+fads and fashions, and the factors discussed here play a role  in their 
+development. I believe  that these factors have played a role in many 
+trends in legal theory, including critical legal studies, economic analy- 
+sis of law, feminism, textualism and originalism in constitutional law, 
+critical  race  theory,  rights-based  accounts  associated  with  Ronald 
+Dworkin and others (many at New  York University), law and litera- 
+ture, and (more recently) behavioral law and economics. 
+
+By  way of  conclusion, it  is  worth emphasizing that  the  basic ac- 
+count  contains both  a  prescription and a  cautionary note.  The  pre- 
+scription is that those who seek  to promote ideas will do  best to  en- 
+sure,  above  all,  that  those  ideas  have  an  opportunity  to  develop 
+through frequent discussions among like-minded people. Most would- 
+
+19.  Cf. the discussion of progressive and degenerate  research programs in Imre Lakatos, 
+Falsification and the Methodology  of Scientific Research Programmes, in CRITICISM AND THE 
+GROWTH OF KNOWLEDGE (Imre Lakatos & Alan  Musgrave eds., 1970). 
+
+20.  See  RICHARD  THALER,  QUASI-RATIONAL  ECONOMICS (1991);  BEHAVIORAL  LAW 
+
+AND ECONOMICS (Cass R. Sunstein ed., 2000). 
+
+This content downloaded from 62.122.73.17 on Fri, 20 Jun 2014 00:21:00 AM
+All use subject to JSTOR Terms and Conditions
+
+1264 
+
+Michigan Law Review 
+
+[Vol.99:1251 
+
+be "schools" fail, but those that succeed often transform the field; and 
+when they do so, group polarization is part of the reason. 
+
+The cautionary note is that in law and many other academic fields, 
+ideas may spread and prosper, not because they are good, but because 
+dozens, hundreds, or even thousands of  imperfectly informed people 
+have  fortified the  very signals by  which they  have  been  influenced. 
+Whether bad ideas can prosper for a long time is another matter. Fre- 
+quently  good  arguments and  good  evidence  will  puncture them,  at 
+least when there is agreement about the underlying criteria. But if the 
+account here is correct, longevity, even for bad ideas, is hardly out of 
+the question. 
+
+This content downloaded from 62.122.73.17 on Fri, 20 Jun 2014 00:21:00 AM
+All use subject to JSTOR Terms and Conditions
+
+

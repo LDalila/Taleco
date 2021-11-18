@@ -1,0 +1,874 @@
+University of Chicago Law School 
+University of Chicago Law School 
+Chicago Unbound 
+Chicago Unbound 
+
+Journal Articles 
+
+1996 
+
+Cass R. Sunstein 
+
+Constitutional Caution The Law of Cyberspace 
+Constitutional Caution The Law of Cyberspace 
+
+Faculty Scholarship 
+
+Follow this and additional works at: https://chicagounbound.uchicago.edu/journal_articles 
+
+ Part of the Law Commons 
+
+Recommended Citation 
+Recommended Citation 
+Cass R. Sunstein, "Constitutional Caution The Law of Cyberspace," 1996 University of Chicago Legal 
+Forum 361 (1996). 
+
+This Article is brought to you for free and open access by the Faculty Scholarship at Chicago Unbound. It has been 
+accepted for inclusion in Journal Articles by an authorized administrator of Chicago Unbound. For more 
+information, please contact unbound@law.uchicago.edu. 
+
+Constitutional Caution
+
+Cass R.  Sunsteint
+
+I.  GOVERNMENT  FAILURE  AND  CONSTITUTIONAL  FALURE
+
+Begin  with  a  platitude:  When  government  attempts  to  regu-
+late  the  market,  many  things  may  go  wrong.  In  the  familiar
+litany,  regulation  may  be  counterproductive,  producing  outcomes
+that defeat  the aspirations  of well-meaning  reformers.  Or, regula-
+tion  may  be  futile,  as  the  market  adapts  to  the  relevant  initia-
+tives.  Or,  regulation  may  produce  unanticipated  harmful  conse-
+quences.  All  of  these  results  may  follow  from  the  regulators'
+incomplete  understanding  of the  system  into  which  they  are  at-
+tempting  to  intervene.  This  is  not an  argument  that government
+should  never  intervene  in  markets.  But  it  is  certainly  a  reason
+for  caution,  for  attempting to  acquire  a  good  deal  of information,
+and for  proceeding  in an  experimental,  nondogmatic  way.
+
+It  is  less  often  recognized  that  constitutional  law  can  have
+similar  problems.  Supreme  Court  decisions  may  be  counterpro-
+ductive.  If it  is understood  as  a case  about gender  equality,  Roe v
+Wade'  is  a  possible  example  since  the  Court's  decision  may  well
+have  damaged  the  effort  to  produce  gender  equality.2  Or  Su-
+preme  Court  decisions  may  be  futile.  Sometimes  Fourth Amend-
+ment  decisions  seem  to have  this feature;  it  is  far  from  clear that
+police  officers  comply  as  a  matter  of  course  with  Supreme  Court
+pronouncements  about  Fourth  Amendment  requirements.  Su-
+preme  Court  decisions  may  also  have  harmful  unanticipated
+consequences.  This  is  true,  for  example,  of  many  efforts  in  the
+area  of judge-led  social  reform.'
+
+t  Karl N.  Llewellyn  Distinguished  Service  Professor  of Jurisprudence,  University  of
+
+Chicago.
+
+410  US 113  (1973).
+
+2  See  Gerald  N.  Rosenberg,  The  Hollow  Hope:  Can  Courts  Bring  About  Social
+Change?  339-41  (University  of  Chicago  Press,  1993);  Ruth  Bader  Ginsburg,  Some
+Thoughts on Autonomy  and Equality in Relation to Roe  v.  Wade,  63 NC  L Rev 373,  381-83
+(1985).
+
+'  See  Donald  L.  Horowitz,  The  Courts and  Social  Policy  (Brookings  Institution,
+
+1977).
+
+HeinOnline  -- 1996 U. Chi. Legal F. 361 1996
+
+362 
+
+THE  UNIVERSITY  OF CHICAGO LEGAL FORUM 
+
+[1996:
+
+Justice  Holmes's  work on  constitutional  law  was  built largely
+on  seeing  the  political  process  as  a  kind  of  market,  subject,  like
+other markets,  to  forces  of supply  and  demand."  As  a regulator  of
+the political  market, the  Supreme  Court  may reach  decisions  that
+reflect  ignorance  of  relevant  factors.  Because  they  interfere  with
+the  political  market,  Supreme  Court  decisions  may  also  disturb
+some  kind  of  social  equilibrium.  It  is  ironic  but  true  that  many
+people  alert  to  the  problems  with  government  interference  with
+economic  markets are  quite sanguine  about  Supreme  Court  inter-
+ference  with political  markets.'  This  was  true  in  the  1920s  when
+constitutional  law  assumed  center  stage  in  debates  over  regula-
+tion  of new  and  old  markets.6  It  is  true  as  the  twenty-first  cen-
+tury  approaches,  as  constitutional  law  takes  center  stage  in  de-
+bates  over  new  communications  markets,  prominently  including
+the Internet.
+
+In  some  areas,  the  Supreme  Court,  firmly  aware  of its  own
+limitations  and  perhaps  aware  of the  marketlike  nature  of  poli-
+tics,  operates  casuistically. It  avoids  broad  rules.  It  is  aware  of
+underlying  complexities  of  both  fact  and  value.  In  the  area  of
+affirmative  action,  this  has  been  the  Court's  preferred  course
+The Court has  avoided  simple  rules.  Its decisions  have  been  high-
+ly  case  specific.  The  democratic  process  has  been  given  a  lot  of
+room  to maneuver.
+
+I  suggest  that  this  casuistical  model  makes  sense 
+for
+cyberspace.'  This  is  so  for  two  reasons.  First,  underlying  values
+are  in  flux  and  not  simple  to  sort  out.  There  is,  for  example,  a
+large  debate  over  the  regulation  of pornography,  especially  por-
+nography  about  and for  children,  on  the Internet.  There  is  also  a
+large  debate  about  the  relationships  among  the  Internet,  chil-
+dren,  and  parental  control.'  It  is  also  unclear  that  the  Court's
+
+See  Yosal Rogat,  The Judge as Spectator, 31  U  Chi  L Rev  213  (1964).
+See  Richard  A.  Epstein,  Takings:  Private Property and  the  Power  of  Eminent
+Domain (Harvard  University Press,  1985).  See also  Bernard  H. Siegan, Economic Liberties
+and the Constitution (University of Chicago  Press,  1980).
+
+6  See Geoffrey  R. Stone, et  al,  Constitutional Law  167  (Little  Brown,  2d ed  1991).
+
+See Cass  R.  Sunstein, Political Deliberation and the Supreme  Court, 84 Cal  L Rev
+(forthcoming, July  1996);  Cass  R.  Sunstein, Foreword: Leaving Things  Undecided, Harv  L
+Rev (forthcoming,  Nov  1996).
+
+'  As  the  Court  concluded  in Denver Area Educational Telecommunications Consor-
+tium, Inc. v  FCC, 116  S  Ct 2374  (1996),  a  decision  reached  after  this  essay  was  initially
+written.
+
+See  Robert  A.  Sirico, Don't  Censor The Internet, Forbes  48  (July  29,  1996);  James
+Coates,  Firms Can Clean Up By  Blocking  Web's  Smut; Parents First Target of Censoring
+Software, Chi  Tribune  1,  sec 4  (July 29,  1996);  Zoe  Lofgren,  Free For All: Parents Against
+Surfing, Wash  Post A17  (July 20,  1996)  (op/ed  piece).
+
+HeinOnline  -- 1996 U. Chi. Legal F. 362 1996
+
+361]
+
+CONSTITUTIONAL  CAUTION
+
+free  speech  doctrine-founded  on  the  categories  of  viewpoint-
+based,  content-based,  and  content-neutral  regulation-makes
+complete  sense.  If, for  example,  the  government  attempts  to  pro-
+mote  educational  and  public-affairs  programming,  it  is  acting  on
+a  content-discriminatory  basis, but are  its  actions for that reason
+illegitimate?
+
+The  problem  is  not  limited  to  values.  On  the  underlying
+facts,  things  are  changing very  rapidly,  and courts  know relative-
+ly little;  but  the  facts  are  crucial  to  the  analysis.  The  new  com-
+munications  technologies  in general  are  a  good  example.  If cable
+television  flourishes,  will  ordinary  broadcasters  be  at  risk  in  a
+way that  threatens  free  programming?"  Courts  are  not likely  to
+be  in  a  good  position  to  answer  this  question.  This  was  the  key
+problem  in the  Turner case,1  and  while  there  is  reason  to  think
+that interest-group  pressures  underlay  the relevant  statute,  pre-
+dictive  issues  are  not,  in  general,  well-suited  to  judicial  resolu-
+tion.  In  such  circumstances  the  Court  does  best  if  it  proceeds
+cautiously  and  with  humility,  allowing  some  room  for  political
+judgment  and  maneuvering  in  a setting  that is in such  flux. 2
+
+In the  area of cyberspace,  there  is a related  but more  general
+issue.  I  believe  that  the  First  Amendment  is  sometimes  playing
+substantially  the  same  role  with  respect  to  the  communications
+market  as  did  the  Fourteenth  Amendment  with  respect  to  the
+labor  market  in  the  period  from  1905  through  1936.13  In  that
+period,  questions  about minimum-wage  and maximum-hour  laws,
+or  efforts  to  protect  labor  unions,  were  answered  in  significant
+part  by  asking:  What  does  the  Due  Process  Clause  say  on  such
+questions? 4  In  retrospect  we  can  see  that this  was  a  bad  way  to
+proceed-that  it  would  have  been  much  better  to  dispense  with
+lawyers  and cases  and to focus  instead on  underlying  questions  of
+fact  and  value,  questions  for  which  purely  legal  tools  are  inade-
+quate.  The  problems  of  policy  should  be  solved  by  people  who
+understand  problems  of policy,  not by  lawyers  skilled  in reading
+Supreme  Court  opinions.
+
+See  Turner Broadcasting System,  Inc. v  FCC, 512  US  622  (1994),  reh'g  denied  115
+
+S Ct 30  (1994).
+
+"  Id  (holding that government  may regulate  cable  operators  with must-carry  obliga-
+tions  provided  such  regulations  do  not  suppress substantially  more  speech  than necessary
+to  make  television broadcast  viable).
+
+12  See  Lawrence  Lessig, The Path of Cyberlaw, 104  Yale  L  J  1743  (1995),  suggesting
+an  approach  quite similar  to  what  I am  suggesting here.  I am indebted  to Professor  Lessig
+for  valuable  discussion.
+
+"  Stone,  et  al,  Constitutional Law at  786 (cited  in note  6).
+14  Id.
+
+HeinOnline  -- 1996 U. Chi. Legal F. 363 1996
+
+364 
+
+THE UNIVERSITY  OF CHICAGO LEGAL  FORUM 
+
+[1996:
+
+To  some  extent,  the  same  is  true  for  cyberspace.  Too  often,
+hard  questions  are  answered  by  consulting  previous  cases,  as  if
+the  First Amendment, judicially  understood,  supplies  the founda-
+tions  for choosing  regulatory  policy  for  the emerging  speech  mar-
+ket.  Of course  the  First Amendment  has  a  good  deal to  say  about
+legitimate  regulatory  strategies.  Obviously,  some  such  strategies
+would  violate  the  First  Amendment.  But  the  relevant  questions
+are  first  and  foremost  ones  of  policy  rather  than  constitutional
+law;  courts  and judges  would  do  well  to remember  this point.
+
+II.  EXAMPLES  OF  POTENTIAL  AREAS  OF  REGULATION
+
+A.  Child  Pornography,  Obscenity,  Parental  Control
+
+Consider  a  few  examples.  With  the  touch  of a  button,  it  is
+now  possible  to  reach  millions  of  people,  whether  or  not  they
+want  to  be  reached.  Libelous  statements,  commercial  messages,
+hate  speech,  child  pornography,  threats-the  cost  of  sending  all
+of  these  to  millions  is  very  low.  This  simple  fact  may  make  it
+necessary  to  rethink  constitutional  categories.  There  has  been
+particular  concern  recently  about  the free  availability  of sexually
+explicit  materials  on  the  Internet,  especially  in  the  context  of
+materials  soliciting,  involving,  or  available  to  children."5  Per-
+haps  the government  should  be  allowed  to  regulate not only  child
+pornography,  and  not  only  obscenity,  but  a  somewhat  broader
+range  of materials  because  of the  distinctive  interest  in  protect-
+ing  children.16  At  least  the  Court's  obscenity  doctrine  bears  un-
+certainly  on  this  question,  and  mechanical  use  of  that  doctrine
+may  produce  error.  It is  important  to get  a  sense  of the  nature  of
+the underlying  problem  before  reaching  confident  conclusions. 7
+
+5  The  increasing  attention  being  given  to  pornography  on  the  Internet  is  evidenced
+by  the fact  that  from Spring  1991  to January  24,  1994,  Lexis-Nexis  listed  only 69  articles
+on  this subject,  as  contrasted  with  3,451  articles  on  this  subject entered  from January  24,
+1994  to January 24,  1996.
+
+'"  See  S  314,  104th  Cong,  1st  Sess  (Jan 30,  1995)  in  141  Cong  Rec  S  1953  (Feb  1,
+1995).  Popularly  known  as  the  Communications  Decency  Act  of 1995,  was  introduced  by
+Senator Jim  Exon  (D-Neb) in  the  United  States  Senate  and enacted  into law January  31,
+1996 as  the Communications  Decency Act  of 1996.  Pub L  No  104-104,  110  Stat  133  (1996),
+amending  47  USC  § 223.  Its  definition  of  "harm to  children,"  goes  beyond  obscenity  to
+include,  for  example,  materials  that contain  "indecency  or nudity."  Id,  amending 47  USC
+§ 223(a)(1)(A)(ii).  This  provision  extends  far beyond  current  law. Portions  of the  Commu-
+nications  Decency  Act  of  1996  were  declared  unconstitutional  in ACLU  v  Reno,  929  F
+Supp 824  (ED  Pa  1996)  and  in  Shea v Reno,  930  F  Supp  916  (SD  NY  1996).  In  my view
+these  decisions were  correct. See  notes  61-63  and  accompanying  text.
+
+17  A narrow,  and  in  my view  correct, decision  is Denver Area Educational Telecommu-
+nications Consortium, Inc.  v  FCC,  116  S  Ct  2374,  2390  (1996)  (upholding  a  grant  of
+
+HeinOnline  -- 1996 U. Chi. Legal F. 364 1996
+
+3611
+
+CONSTITUTIONAL  CAUTION
+
+365
+
+Related  issues  are  raised  by  the use  of the  Internet  to  circu-
+late  libelous,  threatening,  or  sexually  violent  material  about  an
+identifiable  person.  It may  well  be  that the  easy  transmission  of
+such  material  to  millions  of  people  will  justify  deference  to  rea-
+sonable  legislative judgments.18
+
+Suppose  that  the  government  intends  to  assist parental  con-
+trol  by  allowing  families  to  "block"  certain  material  and  to  pre-
+vent  it  from  entering  the  home. This  idea  would  bear  an obvious
+resemblance  to  the  controversial  "v-chip"  proposal  that  was  re-
+cently  enacted  by  Congress. 9  Through  this  enactment,  Congress
+is  requiring  new  televisions  to  be  equipped  with  technology  en-
+abling  parents  to  block  certain  programming.  The  requirement
+may  substantially  affect  programming  because  of  anticipated
+parental  blocking;  but  this  by  itself is  not  constitutionally  deci-
+sive.  The  existence  of  such  an  effect  resulting  from  anticipated
+viewer  behavior  is part of a  well-functioning  market.  Proposals  of
+this  sort  would  facilitate  parental  control,  but  would  not  involve
+federal  content  regulation;  they  would not  involve  direct  govern-
+mental  control  or  censorship  of  the  speech  market."0  Because
+they  are  noncensorial  and  facilitative,  courts  should  treat  them
+more  leniently.
+
+The only  serious  questions  include  selectivity  and bias:  Is the
+government  facilitating  the  exclusion  of  material  of  which  the
+government  disapproves?  If so,  the  fact that  no  direct  regulation
+is  involved  is  not  enough;  impermissible  selectivity  would  be
+objectionable  by  itself.  Certainly  it  would  be  troublesome  if the
+government  enabled  people  to  screen  out  material  of  a  certain,
+governmentally  disapproved  content;  imagine  a  governmentally
+mandated  "Democrat  chip"  or  "Gingrich  chip"  or  "liberal  chip."
+But  the  "v-chip"  is  best  seen  as  lacking  this  feature.  It  would
+discriminate  on  the  basis  of  content,  not  on  the  basis  of  view-
+
+permission  to exclude  "indecent" programming),
+
+"  But  see  United States v  Baker, 890  F  Supp  1375  (1995).  In  that  case,  the  defen-
+dants  sent sexually  explicit e-mail  to one  another which  contained the  graphic description
+of the  torture,  rape, and  murder  of a  classmate  of one  of the  defendants.  The  government
+charged  the  defendants  with  transmitting  threats  to injure  or kidnap  another.  The  court
+dismissed  the  charges,  finding  that  the  descriptions  contained  in the  e-mail  were  fiction
+and did not  constitute  a  "true threat" under the  statute.
+
+Pub  L  No  104-104,  110  Stat  at  141-42  amending  47  USC  §  223  (cited  in note  16).
+See Newton  N.  Minow  and  Craig  L.  Lamay, Abandoned in  the  Wasteland (Hill  and Wang,
+1994).
+
+0  See  Denver Area,  116  S  Ct  at  2390,  which  is  strong  support  for  the  validity  of the
+v-chip,  especially  insofar  as  it  upholds  §  10(a)  of  the Cable  Television  Consumer  Protec-
+tion and Competition Act of 1992,  §  10(a),  Pub  L No  102-385,  106  Stat 1486,  codified  at 47
+USC  §  532(h)  (1994).
+
+HeinOnline  -- 1996 U. Chi. Legal F. 365 1996
+
+366 
+
+THE UNIVERSITY  OF CHICAGO LEGAL  FORUM 
+
+[1996:
+
+point.  For  this  reason  it  should  probably  be  upheld,  at  least  on
+an appropriate  factual  record  demonstrating  that the government
+is  attempting  to  combat  harm  rather  than  content  or  view-
+point.2  What  I  am  emphasizing  here  is  that  preexisting  catego-
+ries  do  not give  clear guidance  and  that it  is best  for  the courts  to
+proceed  in  a  cautious  manner.
+
+B.  Violence  and  the  Internet
+
+Let me  turn now  to  a question  that has received  considerable
+public  attention  and  that  particularly  shows  the  need  for  a  de-
+gree  of judicial  caution  in  using  the  First Amendment:  the  ques-
+tion  of violent  speech  on  the  Internet."  Applying  ordinary  stan-
+dards,  constitutional  lawyers  may  well believe  that this is  a  sim-
+ple  issue,  settled  by  Brandenburg v  Ohio.2  But  things  are  more
+complex.
+
+The  controversy  arose  last  spring  when  talk-show  host  G.
+Gordon  Liddy,  speaking  on  the  radio  to  millions  of  people,  ex-
+plained  how  to  shoot  agents  of  the  Bureau  of  Alcohol,  Tobacco,
+and  Firearms:  "Head  shots,  head  shots ....  Kill  the  sons  of
+bitches."24  Later  he  said,  "[s]hoot  twice  to  the  belly  and  if that
+does  not  work,  shoot  to  the  groin  area."25  On  March  23,  the  full
+text  of  the  Terrorist's Handbook  was  posted  on  the  Internet,
+including  instructions  on  how  to  make  a  bomb  (the  same  bomb,
+as  it  happens,  that  was  used  in  Oklahoma  City)."  By  the  time
+of  the  Oklahoma  bombing  on  April  19,  three  more  people  had
+posted  bomb-making  instructions,  which  could  also  be  found  on
+the  Internet  in  the  Anarchist's Cookbook.2 7  On  the  National  Ri-
+fle  Association's  Internet  "Bullet  'N'  Board,"  someone  calling
+himself  "Warmaster" explained  how  to  make  bombs  using  baby-
+food  jars.28  Warmaster  wrote,  "These  simple,  powerful  bombs
+
+21  Denver Area, 116  S Ct  at 2385-87.
+22  See  Cass  R.  Sunstein,  Is  Violent Speech a  Right?, American  Prospect  34-35  (Sum-
+
+mer  1995).
+
+23  395  US  444,  449  (1969)  (holding  that the  First and  Fourteenth  Amendment  con-
+
+demn  a  statute  which  purports  to  punish  mere  advocacy  and  to  forbid  assembly  with
+others merely  to  advocate  the described  type  of action).
+
+24  See James  Coates  and  Mike  Doming,  On the Internet, Extremists Spread Hate with
+Every Keystroke, Chi  Tribune  1-14  (Apr 26,  1995);  Cass R.  Sunstein,  What To Do  With  G.
+Gordon Liddy: Is  Violent Speech a Right?, Current  21  (Nov  1995).
+
+25  Id.
+26  Sunstein,  Current  at  21  (cited  in  note  24);  Lawless,  The  Economist  S15  (July  1,
+
+1995).
+
+21  Sunstein,  Current at 21  (cited in  note  24).
+'  1d;  Guy  Gugliotta, NRA,  Backers Have Focused in on ATF;  Gun Group's Ad  Charg-
+
+HeinOnline  -- 1996 U. Chi. Legal F. 366 1996
+
+361]
+
+CONSTITUTIONAL  CAUTION
+
+are  not  very  well  known  even  though  all  the  materials  can  be
+easily  obtained  by  anyone  (including  minors)."29  After  the  Okla-
+homa  bombing,  an  anonymous  notice  was  posted  to  dozens  of
+Usenet  news  groups  listing  all  the  materials  in  the  Oklahoma
+City  bomb,  explaining  why  the  bomb  allegedly  did  not  fully  ex-
+plode  and exploring  how to  improve  future bombs.30
+
+Fifty  hate  groups  are  reported  to  be  communicating  on  the
+Internet,  sometimes  about  conspiracies  and  (by  now  this  will
+for  making  bombs.3   On
+come  as  no  surprise)  formulas 
+shortwave  radio,  people  talk  about  bizarre  United  Nations  plots
+and  urge  that  "the American  people  ought to  go  there  bodily,  rip
+down  the  United  Nations  building and  kick those  bastards  right
+off  our  soil.""2  In  fact,  last  year  Rush  Limbaugh,  who  does  not
+advocate  violence,  said  to  his  audience,  "The  second  violent
+American revolution  is just about,  I  got my fingers  about a  fourth
+of  an inch  apart,  is just  about  that far  away.  Because  these  peo-
+ple  are  sick  and  tired  of  a  bunch  of  bureaucrats  in  Washington
+driving  into  town  and  telling  them  what  they  can  and  can't
+do. 33
+
+In  the  wake  of  the  Oklahoma  City  bombing,  a  national  de-
+bate  has  erupted  about  speech  over  the  Internet  counseling  vio-
+lence  or  inciting  hatred  of  public  officials. 4  Of  course  it  is  un-
+clear  whether  such  speech  has  had  a  causal  role  in  any  act  of
+bombing.  But  new  technologies,  and  particularly  the  Internet,
+have  put the  problem  of incitement  into  sharp  relief. It  is likely,
+perhaps  inevitable,  that  hateful  and  violent  messages  carried
+over  the  airwaves  and  the  Internet  will  someday  be  responsible
+
+es  'Rogue Agency' With  Misconduct, Abuse and 'Con tempt for Civil Rights', Wash Post  A16
+(April  26,  1995).  See  also  Mark  Sauer  and  Jim Okerblom,  Patriotism or Paranoia?, San
+Diego  Union-Tribune  El, E4 (May  4,  1995).
+
+Sauer  & Okerblom,  San  Diego  Union-Tribune  at E4  (cited  in  note 28).
+
+30  Sunstein, Current  at 21  (cited in note 24);  See also Steve Marlowe,  Cops Get Copies
+of Napalm Recipe; Kids Had Formula on Computer Disk, The  Record  Al  (Apr  20,  1995);
+Matthew  Mosk, Bomb  Manual Ready,  Waiting, The  Record  NJ1  (May 5,  1995).
+
+"  Joseph  P.  Shapiro,  Extremism  in America: An  epidemic of fear and loathing, US
+News  &  World  Report  37,  39  (May  8,  1995).  See  also  Nathaniel  Sheppard,  Jr.,  Hate
+Groups Embrace Cyberspace as Weapon, Chi  Tribune  1-1  (Dec  12,  1995).
+
+'  All  Things  Considered: Hate Groups  Use Short  Wave  to  Rant, Rave  and Recruit,
+(National  Public Radio,  May  4,  1995)  (transcript  of show  1837,  segment  7,  on  file  at the
+Legal Forum office).
+
+Robert Wright,  Did Newt Do It?, The  New  Republic 4,  45  (May  15,  1995).
+See  Eric Lichtblau  & Jim Newton, Internet Blamed for Steep Rise  in Bomb Reports,
+LA  Times B1  (June  27,  1996);  Debra  Gersh  Hernandez,  Mayhem  Online, Editor  & Pub-
+lisher  34  (June 24,  1995);  Charles  V.  Zehren,  The Debate to Limit Cyberhate, Newsday  A7
+(May  12,  1995);  Kelly  Owen, Hate Speech on Internet Called Protected by  Constitution, LA
+Times A17  (May  12,  1995).
+
+HeinOnline  -- 1996 U. Chi. Legal F. 367 1996
+
+368 
+
+THE UNIVERSITY  OF CHICAGO LEGAL FORUM 
+
+[1996:
+
+for  acts of violence.  This  is  simply  a  statement  of probability.  The
+questions  raised  for  constitutional  lawyers  are  these:  Is  that
+probability  grounds  for  restricting  such  speech?  Would  restric-
+tions  on  speech  advocating  violence  or  showing  how  to engage  in
+violent  acts be  acceptable  under the  First  Amendment?  And  how
+do preexisting  categories  bear  on  the  current  issue?
+
+1.  The  clear and present danger doctrine and its evolution.
+It  should  go  without  saying that  recent  events  should not  be
+a pretext  for  allowing  the  government  to control  political  dissent,
+including  extremist  speech  and  legitimate  hyperbole  (a large  and
+important  category).  But  the  new  and  unanswered  question  has
+to  do  with  the  constitutionality  of  restrictions  on  speech  that
+expressly  advocates  illegal,  murderous  violence  in  messages  to
+mass  audiences.  For  most  of  American  history,  the  courts  held
+that  no  one  has  a  right  to  advocate  violations  of the  law."5  They
+ruled  that  advocacy  of  crime  is  wholly  outside  of  the  First
+Amendment-akin  to  a  criminal  attempt  and  punishable  as
+such. 6  Indeed,  many  of  the  judges  .revered  as  the  strongest
+champions  of free  speech  believed  that  express  advocacy  of crime
+was  punishable.  Judge  Learned  Hand,  in  his  great  1917  opinion
+in  Masses  Publishing Co.  v  Patten,37  established  himself  as  a
+true hero  of free  speech  when  he  said  that  even  dangerous  dissi-
+dent  speech  was  generally  protected  against  government  regula-
+tion.  But  Hand  himself  agreed  that  government  could  regulate
+any  speaker  who  would  "counsel  or  advise  a  man"  to  commit  an
+unlawful  act.3"
+
+In  the  same  period  the  Supreme  Court  concluded  that  gov-
+ernment  could  punish  all  speech,  including  advocacy  of illegality,
+that  had  a  "tendency"  to  produce  illegality.3 9  Justices  Holmes
+and  Brandeis,  the  dissenters  from  this  conclusion,  took  a  differ-
+ent approach,  saying that speech  could  be  subjected  to  regulation
+only if it  was  likely  to  produce  imminent  harm;"  thus  they  origi-
+
+"  See  Geoffrey  R.  Stone,  et  al,  Constitutional Law  1025  (Little Brown,  2d  ed  1991)
+(cited  in note  6).  See  also  Masses Publishing Co.  v  Patten, 244  F 535  (SD NY  1917),  rev'd,
+246 F  24 (2d  Cir  1917).
+
+36  Stone, et  al,  Constitutional Law at  1031  (cited  in note 6);  Masses Publishing, 244  F
+
+at 540.
+
+17  Masses Publishing, 244 F at  539.
+
+Id at 540.
+
+9  See Stone,  et  al, Constitutional Law  at  1031  (cited  in note  6).
+'0  See Abrams v  United States, 250  US  616  (1919)  (Holmes  and Brandeis  dissenting);
+Whitney  v  California, 274  US  357  (1927)  (Brandeis  and  Holmes  concurring).  But  see
+Brandenburg v  Ohio, 395  US 444  (1969)  (overruling  Whitney).
+
+HeinOnline  -- 1996 U. Chi. Legal F. 368 1996
+
+3611
+
+CONSTITUTIONAL  CAUTION
+
+369
+
+nated  the  famous  "clear  and  present  danger"  test.4'  But  even
+Holmes  and  Brandeis  suggested  that the  government  could  pun-
+ish  speakers  who  had  the  explicit  intention  of  encouraging
+crime.42
+
+For  many  years  thereafter,  the  Supreme  Court  tried  to  dis-
+tinguish  between  speech  that  was  meant  as  a  contribution  to
+democratic  deliberation  and speech  that was  designed  to  encour-
+age  illegality. 3  The  former  was  protected;  the  latter was  not.  In
+1951  the  Court  concluded  in  Dennis  v  United  States"  that  a
+danger  need  not  be  so  "clear  and  present"  if the  ultimate  harm
+was  very  grave.45  The  break  in  the  doctrine  did  not  come  until
+the  Court's  1969  decision  in  Brandenburg v  Ohio."  There  the
+Court  said the government  could  not take  action  against  a  mem-
+ber  of the  Ku  Klux  Klan, who  said,  among  other  things,  "[W]e're
+not  a  revengent  organization,  but if our  President,  our  Congress,
+our  Supreme  Court,  continues  to  suppress  the white,  Caucasian
+race,  it's  possible  that there  might  have  to  be  some  revengence
+taken."47  The  speaker  did  not  explicitly  advocate  illegal  acts  or
+illegal  violence.  But in its  decision,  the  Court  announced  a broad
+principle,  ruling  that  the  right  to  free  speech  does  "not permit  a
+State  to  forbid  or  proscribe  advocacy  of the use  of force  or  of law
+violation  except  where  such  advocacy  is  directed  to  inciting  or
+producing  imminent  lawless  action  and  is  likely  to  incite  or  pro-
+duce  such action."48
+
+Offering  extraordinarily  broad  protection  to  political  dissent,
+the  Court  required  the  government  to  meet  three  different  crite-
+ria  to  regulate  speech.49  First,  the  speaker  must  promote  not
+just  any  lawless  action  but  "imminent"  lawless  action.5 °  Second,
+the  imminent  lawless  action  must  be  "likely" to  occur.5  Third,
+the  speaker  must  intend  to  produce  imminent  lawless  action.52
+
+Abrams,  250  US  at  627  (Holmes  dissenting);  Whitney,  274  US  at  373  (Brandeis
+
+42  Abrams,  250  US  at  627  (Holmes  dissenting);  Whitney,  274  US  at  374  (Brandeis
+
+concurring).
+
+concurring).
+
+41 Stone, et  al,  Constitutional Law  at  1070  (cited  in  note 6).
+
+341  US  494  (1951).
+Id  at 510-11.
+46 395  US  at 444.
+47 Id  at 446.
+41 Id  at 447.
+49 Id.
+'  Brandenberg, 395  US  at 447.
+s' Id.
+52  Id  (stating  that  the  speech  must  be  "directed  to  inciting  or  producing  imminent
+
+lawless action").
+
+HeinOnline  -- 1996 U. Chi. Legal F. 369 1996
+
+370 
+
+THE  UNIVERSITY  OF CHICAGO LEGAL  FORUM 
+
+[1996:
+
+The  Brandenburg test  borrows  something  from  Hand  and  some-
+thing from  Holmes  and  produces  a standard even  more  protective
+of speech  than  either  of theirs.
+
+2.  Old standards, new  technology.
+Applied  straightforwardly,  the  Brandenburg test  seems  to
+protect  most  speech  that can  be  heard  on  the  airwaves  or  found
+on  the  Internet.  It  suggests  that  there  is  no  need  for  casuistry
+and  that  a  simple  rule  can  resolve  all  cases.  And  in  general,  the
+Brandenburg test  makes  a  great  deal  of  sense.  Remarks  like
+those  quoted  from  Rush  Limbaugh  unquestionably  qualify  for
+protection;  such  remarks  are  not  likely  to  incite  imminent  law-
+less  action,  and  in  any  case  they  are  not  "directed  to"  producing
+such  action.  They  should  also  qualify  as  legitimate  hyperbole,  a
+category  recognized  in  a  1969  decision  allowing  a  war  protester
+to say, "If they ever  make  me  carry  a  rifle  the  first man  I want  to
+get  in  my  sights  is  L.  B.  J."5 3  Even  Liddy's  irresponsible  state-
+ments  might  receive  protection  insofar  as they  could  be  viewed as
+unlikely  to  produce  imminent  illegality.  A  high  degree  of protec-
+tion  and  breathing  space  makes  a  great  deal  of  sense  whenever
+the  speech  at  issue  is  political  protest,  which  lies  at  the  core  of
+the First Amendment.
+
+But  there  is  some  ambiguity  in  the Brandenburg test,  espe-
+cially  in the  context  of modern  technologies,  and  it  is  here  that  a
+high  degree  of judicial  caution  is  appropriate.  Suppose  that  an
+incendiary  speech,  expressly  advocating  illegal  violence,  is  not
+likely to  produce  lawlessness in  any  particular  listener  or  viewer.
+But  suppose  too  that  it  is  believed  that  of the  millions  of listen-
+ers,  one  or  two,  or ten, may  well  be  provoked  to  act,  and perhaps
+to imminent,  illegal violence.  Might  the government  ban advocacy
+of  criminal  violence  in  mass  communications  when  it  is  reason-
+able  to  think  that  one  person,  or  a  few,  will  take  action?
+Brandenburg  offers  a  reasonable  approach  to  the  somewhat
+vague  speech  in  question  in  that case,  which  was  made  in  a  set-
+ting  where  relatively  few  people  were  in  earshot.  But  the  case
+offers  unclear  guidance  on  the  express  advocacy  of  criminal  vio-
+lence  via  the  airwaves  or  the  Internet.
+
+When  messages  advocating  murderous  violence  are  sent  to
+large  numbers  of  people, 
+to  think  that  the
+Brandenburg calculus  changes:  Government  may  well  have  the
+authority  to  stop  speakers  from  expressly  advocating  the  illegal
+
+is  possible 
+
+it 
+
+5-  Watts v  United States, 394  US  705,  706  (1969).
+
+HeinOnline  -- 1996 U. Chi. Legal F. 370 1996
+
+361]
+
+CONSTITUTIONAL  CAUTION
+
+use  of force,  at least  if it  is  designed  to  kill  people.  The  calculus
+changes  when  the  risk  of  harm  increases  because  of  the  sheer
+number  of  people  exposed.  Hence  the  requirement  of  causation
+might  be  loosened,  at least for  explicit  advocacy  of murder.  There
+is  little  democratic  value  in  protecting  simple  counsels  of  mur-
+der, 4  and  the  ordinary  Brandenburg requirements  might  be
+loosened  where  the  risks  are  great.  Consider,  for  example,  the
+fact that  Congress has  made  it  a crime  to threaten  to  assassinate
+the President,  and the  Court  has cast no  doubt on  that restriction
+of  speech.5 5  It  would  be  a  short  step,  not  threatening  legitimate
+public  dissent,  for  the  Federal  Communications  Commission  to
+impose  civil  sanctions  on  those  who  expressly  advocate  illegal
+acts  aimed  at killing  people.  Courts  might  well  conclude  that  the
+government  may  use  its  power  over  the  airwaves  to  ensure  that
+this  sort of advocacy  does  not occur.
+
+Of  course,  there  are  serious  problems  in  drawing  the  line
+between  counsels  of violence  that  should  be  subject  to regulation
+and  those  that  should  not.  We  might  begin  (and  perhaps  we
+should  end)  with  restrictions  on  express  advocacy  of  unlawful
+killing;  this  is  the  clearest  case.  I  am  not trying  to  draw  conclu-
+sions  so  much  as  I  am trying  to  suggest  reasons  for  courts  to  be
+cautious  in  invoking  the  Constitution.  In  any  case,  we  can  now
+see  that  existing  doctrine  does  not justify a  simple  conclusion.  It
+was  built  on  different  factual  circumstances;  it  was  designed  for
+what  was,  with  respect  to  communications,  a  quite  different
+world.  The  degree  of  danger  from  counsels  of  murder  has  in-
+creased  with  the  rise  of the  Internet.
+
+Authorizing  the  restriction  of  any  speech,  even  counsels  of
+violent  crime,  creates  serious  risks.  It  is  unnecessary  to  empha-
+size  that  government  often  overreacts  to  short-term  events,  and
+the  1995  Oklahoma  City  tragedy,  for  example,  should  not  be  the
+occasion  for  an  attack  on  extremist  political  dissent.  Vigorous,
+even  hateful, criticism  of government  is very  much  at the heart of
+the  right  to  free  speech.  Certainly  advocacy  of  law  violation  can
+
+'  The  case  might  be  different,  however,  if the  counsel  of violence  is  made  part of an
+actual  political  argument.  See  Cohen  v  California, 403  US  15  (1971)  (holding that  a  state
+could  not,  consistently  with  the  First  and  Fourteenth  Amendments,  make  wearing  a
+jacket with the  words  "Fuck the Draft"  a  criminal offense).
+
+5'  See  Watts, 394  US  at  707  (upholding  the  facial  validity  of a  statute  criminalizing
+threats  of violence  directed  against the  President  because  of the  "overwhelmin[g]  interest
+in  protecting  the safety  of [the]  Chief Executive  and  in allowing  him to  perform  his duties
+without  interference  from  threats  of physical  violence").  See  also  R.A. 
+v  St.  Paul, 505
+US  377  (1992)  (stating "the  Federal  Government  can  criminalize  only  those  threats  of
+violence  that are  directed  against  the President").
+
+HeinOnline  -- 1996 U. Chi. Legal F. 371 1996
+
+372 
+
+THE  UNIVERSITY  OF CHICAGO LEGAL  FORUM 
+
+[1996:
+
+be  an  appropriate  part  of  democratic  debate.  As  the  example  of
+Martin  Luther  King, Jr. testifies,  there  is  an honorable  tradition
+of  civil  disobedience.  We  should  sharply  distinguish,  however,
+King's  form  of nonviolent  civil  disobedience  from  counsels  or  acts
+of  murder.  The  principle  condemning  government  regulation  of
+political  opinions,  including  the  advocacy  of illegal  acts,  need  not
+be interpreted  to bar  the government  from  restricting advocacy  of
+unlawful  killing  on  the  mass  media.  These  are  hard  cases,  and
+courts  should  be  reluctant  to  conclude  that the  First Amendment
+forbids  well-designed  legislative  initiatives.
+
+3.  Bombs.
+Does  the  government  have the  power  to limit  speech  contain-
+ing  instructions  on  how  to  build  weapons  of  mass  destruction?
+The Brandenburg test  was  designed  mostly  to  protect  unpopular
+points  of view  from  government  controls;  it  need  not protect  the
+publication  of bomb  manuals,  at least if these  manuals  are  being
+transmitted  to millions  of people.  Instructions  for  building bombs
+are  not  a  point  of  view,  and  if government  wants  to  stop  the
+mass  dissemination  of  this  material,  it  should  probably  be  al-
+lowed to  do  so.  A  lower  court  so ruled  in  a  1979  case  involving  an
+article  in The  Progressive that described  how to make  a  hydrogen
+bomb.56  The  court's  argument  is  even  stronger  as  applied  to  the
+speech  on  the  Internet, where  so  many  people  can  be  reached  so
+easily.5 7  In  such  a  case,  the  potential  harm  from  the  relevant
+materials  is  significantly  increased.  And  bomb  manuals,  qua
+bomb  manuals,  do  not deserve  the  highest degree  of constitution-
+
+56  See  United States v  Progressive, Inc.,  467  F Supp  990  (WD Wis  1979),  dismissed  by
+
+610 F2d  819  (7th  Cir 1979)  (unpublished  order).
+
+17  It  is  worth  observing  here  that  the  nation's  leaders  can  do  a  good  deal  short  of
+regulation. The  President and other  public officials  should  exercise  their own rights  of free
+speech  to challenge  hateful,  incendiary speech.  Although  public  officials  could  abuse  these
+rights so  as to  chill legitimate  protest,  President  Clinton's  statements  condemning  hatred
+on  the  radio  and  on  the  Internet  were  entirely  on  the  mark.  Public  disapproval  may
+ultimately have  a salutary  effect  (as it recently  did in the case  of violent  television  shows),
+even without  the  force  of law.
+
+In  addition,  private  institutions,  such as  broadcasting  stations,  should  think  careful-
+ly about their own  civic responsibilities.  An  owner  of a  station or a  programming manager
+is  under  no  constitutional  obligation  to  air speakers  who  encourage  illegal  violence.  Sta-
+tions  that  deny  airtime  for  such  views  do  no  harm  to  the  First  Amendment  but  on  the
+contrary exercise  their own rights,  and in just the  right way. In  recent months,  public and
+private  concern  about hate-mongering  has  encouraged  some  stations  to  cancel  G.  Gordon
+Liddy's  show;  this is  not  a  threat  to  free  speech  but  an exercise  of civic  duties. Similarly,
+private  online  networks,  such  as  Prodigy  and America  Online,  have  not only  a  right  but  a
+moral  obligation  to discourage  speech  that expressly counsels  illegal killing.
+
+HeinOnline  -- 1996 U. Chi. Legal F. 372 1996
+
+361]
+
+CONSTITUTIONAL  CAUTION
+
+al  protection. Regulation  of instructions  on how  to commit  terror-
+ist acts  does  not place  the  government  in  a position  where  it  does
+not belong.5"
+
+III.  QUALIFICATIONS
+
+None  of this  suggests  that the  First  Amendment  has  no  role
+in cyberspace.  I  suggest that  the  Court should  proceed  confident-
+ly  in  three  kinds  of  cases.  The  first  involves  those  in  which  the
+government  is  discriminating  on  the  basis  of viewpoint.  The  pro-
+hibition  on  viewpoint  discrimination  is  a  natural  inference  from
+the  First  Amendment's  ban  on  governmental  favoritism.  If  the
+government  regulates  the  Internet  so  as  to  preclude  or  prefer
+viewpoints  of  the  government's  liking,  the  First  Amendment
+requires  invalidation.
+
+The  second  category  includes  cases  in  which  government  is
+regulating  political  speech.  The  heart  of  the  First  Amendment
+lies  in  democratic  self-governance,5 9  and  when  the  government
+regulates  political  speech,  there  is  special basis for  suspicion.  The
+only  qualification  is  that  courts  should  probably  uphold  view-
+point-neutral  efforts  to  promote  education  and  greater  attention
+to public  issues."0
+
+Finally,  courts  should  strike  down  palpably  vague  or
+overbroad  statutes."1  Nonpolitical  speech  may  certainly  be  regu-
+
+50  Progressive, 467  F  Supp  at  990,  however,  involved  a  distinctive  issue:  an effort  to
+
+show  how  easy it  is  to learn  how  to  make  a bomb.
+
+"9 See Alexander  Meiklejohn, Free Speech and its Relation to Self-Government (Harp-
+er  &  Row,  1948);  Cass  R.  Sunstein,  Democracy and  the  Problem of  Free Speech  (Free
+Press,  1993).
+
+o  See  Cass  R.  Sunstein,  The  First Amendment  in  Cyberspace, 104  Yale  L  J  1757
+
+(1995).
+
+",  For key  cases  on the  overbreadth  doctrine,  see  Gooding v  Wilson,  405  US  518,  519
+(1972)  (holding a  Georgia  statute to  be  on its  face  unconstitutionally  vague  and  overbroad
+in  providing  that  any  person  using  to  another  "opprobrious  words  or  abusive  language,
+tending  to cause  a breach  of the  peace..,  shall be  guilty of a  misdemeanor,"  when  Geor-
+gia  courts  had  held  that  the  statute  did  not  only  apply  to  "fighting words");  Broadrick v
+Oklahoma, 413  US  601  (1973)  (holding  that  an  Oklahoma  statute  which  prohibited  any
+employee  in the  classified  service  from receiving  or  soliciting  any  assessment  or  contribu-
+tion  for  any  political  organization  or candidacy,  did  not  set  out  sufficiently  explicit  stan-
+dards,  although  it  was  not unconstitutionally  vague  or overbroad  on its  face);  City Council
+of the  City of Los  Angeles  v  Taxpayers for  Vincent,  466  US  789  (1984)  (holding  that  an
+ordinance  prohibiting  posting  of  signs  on  public  property  was  not  unconstitutional  as
+applied  to  expressive  activities  of a  group  of supporters  of a  political  candidate);  Board of
+Airport Commissioners of the City of Los Angeles v  Jews for Jesus, Inc.,  482  US 569  (1987)
+(holding  that a  regulation  banning  all  'First  Amendment  activities"  within  the  airport's
+"Central  Terminal  Area" was  facially unconstitutional  under  the  overbreadth doctrine  be-
+cause  no  conceivable  governmental  interest  could  justify  this  absolute  prohibition  of
+
+HeinOnline  -- 1996 U. Chi. Legal F. 373 1996
+
+374 
+
+THE UNIVERSITY  OF CHICAGO LEGAL  FORUM 
+
+[1996:
+
+lated  in  a  constitutionally  unacceptable  manner.  Statutes  that
+produce  guessing  games  for  regulated  parties create  an unaccept-
+able  risk. Congress  should  be  expected  to  regulate  with  at least  a
+reasonable  degree  of  clarity.62  Thus  lower  courts  were  correct  to
+invalidate  a  vague  and  broad  statute  banning  "indecent"  speech
+on the  Internet. 3
+
+CONCLUSION
+
+When  values  and  institutions  are  in flux,  it is appropriate  for
+the Court  to proceed  casuistically  and to  avoid broad rulings.  The
+constitutional  issues  raised by  cyberspace  will  turn on issues  that
+cannot  be  fully  resolved  in  1995,  1996,  or  even  1999.  In  some
+ways,  the  First Amendment  is,  with respect  to modern  communi-
+cations  markets,  playing  the  same  pernicious  role  as  did  the  Due
+Process  Clause  in  the  early  part  of  the  twentieth  century  with
+respect to labor  markets.  Hard issues  of value  and fact-issues  of
+policy  in  which  policy  analysts  should  play  a  large  role-are
+displaced  by  reference  to  constitutional  categories,  some  of them
+quite  arcane,  and  some  of  them  likely  to  be  ill-suited  to  a  good
+understanding  of the  underlying phenomena.  In  a period  of rapid
+change  and  technological  uncertainty,  in  which  those  schooled  in
+law  are  likely  to  be  ignorant,  there  is  much  room  for  tentative,
+
+speech);  Brockett  v  Spokane  Arcades,  Inc.,  472  US  491  (1985)  (deferring  to  Court  of
+Appeal's  conclusion  that a  Washington  statute  which  included  "lust" within  its definition
+of "prurient" was  unconstitutionally  overbroad,  but reversing  the  decision  on  the ground
+that the lower court  should  have  partially invalidated  the  statute  as to  the portion  includ-
+ing "lust" rather  than entirely  invalidating  it).  But  see  New  York  v Ferber, 458  US  747
+(1982)  (holding  that a child pornography  statute  which  prohibited  "lewd  exhibition  of the
+genitals" was not  overbroad).
+
+For  key  cases  on  the  vagueness  doctrine,  see  Connally v  General Construction Co.,
+269  US  385,  391  (1926)  (holding  that  a  law  is  facially  void  if  it  is  vague  enough  that
+people  "of common  intelligence  must necessarily  guess  at its  meaning  and  differ  as to  its
+application");  Grayned v Rockford,  408  US  104  (1972)  (stating that it  is  a  basic  principle
+that  a  law  which  fails  to  clearly  define  the  conduct  it  proscribes  is  unconstitutional);
+Kolender v Lawson, 461  US  352,  361  (1983)  (holding that  an  antiloitering  statute  requir-
+ing  people  to  carry  identification" and  to  account  for  their  presence  if questioned  by  a
+police officer was  unconstitutionally  vague  because  the. law  reached  "a substantial  amount
+of [protected  First  Amendment]  conduct").
+
+6  An  example  of a  law  that  could  (and  should)  be  held  to  be  overbroad  is  the Com-
+munications  Decency  Act  of  1996.  Pub L  No  104-104,  110  Stat  133  (1996),  amending  47
+USC  § 223  (cited  in  note  16).  This  Act  makes  all  telecommunications  providers  doing
+business  in the United  States  potentially  liable  for  the content  of anything sent over  their
+networks  including  "indecent"  or "filthy"  speech.  Id,  amending  47  USC  § 223(a)(1)(A)(ii)
+(cited  in  note  16):
+
+'  Shea  v Reno,  930  F  Supp  916 (SD  NY  1996)  (holding  that portions  of the  Commu-
+nications  Decency  Act  of 1996  were  unconstitutionally  overbroad);  ACLU  v Reno,  929  F
+Supp  824 (ED  Pa  1996)  (holding the  same portions  of the Act  unconstitutional).
+
+HeinOnline  -- 1996 U. Chi. Legal F. 374 1996
+
+361] 
+
+CONSTITUTIONAL  CAUTION 
+
+375
+
+narrow  judgments.  In  cyberspace,  constitutional  lawyers  should
+be  (at least  relatively) cautious.
+
+HeinOnline  -- 1996 U. Chi. Legal F. 375 1996
+
+HeinOnline  -- 1996 U. Chi. Legal F. 376 1996
+
+

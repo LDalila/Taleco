@@ -1,0 +1,3395 @@
+University of Chicago Law School
+Chicago Unbound
+
+Coase-Sandor Working Paper Series in Law and
+Economics
+
+1999
+
+Coase-Sandor Institute for Law and Economics
+
+Private Broadcasters and the Public Interest: Notes
+Toward a 'Third Way'
+Cass R. Sunstein
+
+Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics
+
+Part of the Law Commons
+
+Recommended Citation
+Cass R. Sunstein, "Private Broadcasters and the Public Interest: Notes Toward a 'Third Way'" ( John M. Olin Program in Law and
+Economics Working Paper No. 65, 1999).
+
+This Working Paper is brought to you for free and open access by the Coase-Sandor Institute for Law and Economics at Chicago Unbound. It has been
+accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more
+information, please contact unbound@law.uchicago.edu.
+
+CHICAGO
+
+JOHN M. OLIN LAW & ECONOMICS WORKING PAPER NO. 65
+(2D SERIES)
+
+Private Broadcasters and the Public Interest:
+Notes  toward  a  “Third Way”
+
+(originally  published  01/99.  this  is  a  revision  dated  04/99.)
+
+Cass R. Sunstein
+
+THE  LAW  SCHOOL
+THE  UNIVERSITY  OF  CHICAGO
+
+This paper can be downloaded without charge at:
+
+The Chicago Working Paper Series Index:
+http://www.law.uchicago.edu/Publications/Working/index.html
+
+The Social Science Research Network Electronic Paper Collection:
+http://papers.ssrn.com/sol3/paper.taf?abstract_id=143174
+
+Private Broadcasters and the Public Interest:
+Notes toward a “Third Way”
+
+Cass R. Sunstein*
+
+I. Introduction
+
+The  so-called  communications  revolution  has  been  driven  by
+technological  change.  The  rise  of  cable  television,  the  Internet,
+satellite television, “direcTV,” and digital television has confounded
+ordinary  understandings  of  “television.”1  Before  long,  digital
+television  may  enable  viewers  to  choose  among  over  a  thousand
+programs.2  The  possible  combination  of  television  and  the
+Internet—a  combination  now  in  its  early  stages—may  prove  an
+equally dramatic development.3
+
+Law  has  responded  to  these  developments  in  fits  and  starts,
+largely by attempting to engraft legal requirements designed for the
+old  environment  onto  an  altogether  new  communications  market.
+The result is a high degree of anachronism, misfit, and drift, and in
+the  view  of  many  observers,  a  series  of  constitutional  violations.4
+                                                  
+*  Karl  N. Llewellyn Distinguished Service Professor, University of Chicago, Law
+School  and  Department  of  Political  Science.    From  1997  to  1998,  the  author
+served  on  the  Advisory  Committee  on  the  Public  Service  Obligations  of  Digital
+Television  Broadcasters,  which  produced  a  report  in  December  1998.  See  Final
+Report  of  the  Advisory  Committee  on  Public  Interest  Obligations  of  Digital
+Television  Broadcasters,  Charting  the  Digital  Broadcasting  Future  (1998).  The
+author is grateful to other members of the Advisory Committee for many helpful
+discussions  of  these  problems,  and  in  particular  to  the  two  co-chairs  of  the
+Committee,  Norman  Ornstein  and  Leslie  Moonves.  The  Committee’s  Final
+Report has influenced the treatment here, not least when there are disagreements.
+He  is  also  grateful  to  Douglas  Lichtman,  Eric  Posner,  and  Richard  Posner  for
+valuable comments.
+1  See  Bruce  Owen,  The  Internet  Challenge  to  Television  311-26  (1999)
+(discussing  this  possibility  with  some  skepticism  about  its  feasibility,  but  also
+dealing with other dramatic technological developments).
+2 See Lawrie Mifflin, As Band of Channels Grows, Niche Programs Will Boom,
+N. Y. Times, Dec. 28, 1998, at A1.
+3 See Owen, supra note 1, at 311-26.
+4  See  Thomas  Krattenmaker  and  L.A.  Powe,  Converging  First  Amendment
+Principles  for  Converging  Communications  Media,  104  Yale  L.J.  1719,  1725
+
+Chicago Law and Economics Working Paper 
+
+2
+
+Most of the modern debate involves a vigorous but increasingly tired
+contest between those defending the old regulatory order5 and those
+urging  rapid  movement  toward  “simple  rules”  for  government
+control  of  television,  above  all  well-defined  property  rights  and
+freedom of contract.6
+
+My aim in this Article is to discuss a small but important part of
+the intersection between the emerging communications market and
+law: public interest obligations imposed on television broadcasters.
+Since  the  initial  rise  of  broadcasting  in  the  United  States,
+government  has  treated  the  license  as  a  kind  of  “grant”  that  is
+legitimately accompanied by duties.7  Congress  and  the  FCC  have
+required broadcasters to follow a range of requirements—a form of
+old-style  “command-and-control”  regulation,  growing  out  of  an
+understanding  that  there  would  be  three,  and  only  three,  private
+broadcasting stations. Much, though far from all, of this regulation
+was eliminated in the 1980s.8 A large question is the extent to which
+public  interest  requirements  continue  to  make  sense,  or  even  to
+in  an  entirely  different
+survive  constitutional  scrutiny, 
+communications market.
+
+The  question  was  posed  starkly  with  the  enactment  of  the
+Telecommunications Act of 1996,9  one  of  whose  central  concerns
+involved the rise of digital television. The Act had to deal with two
+issues. First, who would have the right to broadcast digital television?
+                                                                                                                    
+(1995); Mark Fowler and Daniel Brenner, A Marketplace Approach to Broadcast
+Regulation,  60  Tex.  L.  Rev.  207,  210  (1982);  the  various  contributions  to
+Rationales and Rationalizations: Regulating the Electronic Media (Richard Corn-
+Revere ed. 1997).
+5  This  is  the  general  thrust  of  Lee  C.  Bollinger,  Images  of  a  Free  Press  (1991);
+Owen M. Fiss, The Irony of Free Speech (1996).
+6  See  Rationales  and  Rationalizations,  supra  (offering  a  number  of  essays
+challenging any role for governmnent aside from the definition and enforcement of
+property rights); Richard A. Epstein, Simple Rules for a Complex World 275-306
+(1996) (discussing environmental protection, and a general account of the role of
+government, in a way that is easily adapted to the area of communications).
+7 See below.
+8 See below.
+9  The  Telecommunications  Act  of  1996,  Pub.  L.  No.  104-104,  110  Stat.  56
+(codified  in  scattered  sections  of  47  U.S.C.  §§  151-613  and  amending  the
+Communications Act of 1934).
+
+3
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+Should  the  licenses  be  sold,  or  auctioned,  or  given  outright  to
+existing  broadcasters?  Second,  what  public  interest  obligations—if
+any—should attach to the ownership of a right to broadcast digital
+television?  The  Act  squarely  answered  the  first  question  but  was
+silent on the second.  10 In an extremely controversial step, Congress
+did not sell or auction the right to broadcast digital television, but
+basically gave the right to existing broadcasters for free.11  This  has
+sometimes been described as a “$70 billion giveaway.”12 At the same
+time, Congress refused to eliminate public interest obligations and
+delegated to the FCC the power to decide whether such obligations
+should  be  imposed  on  digital  television  broadcasters,  and  if  so  in
+what  form.13  The  FCC  has  not  yet  made  that  decision  or  even
+commenced formal proceedings.
+
+In this Article I offer two basic claims, one involving ends, the
+other involving means. The first is that at least in the near term, the
+nature of the emerging communications market does not provide a
+sufficient  reason  to  abandon  the  idea  that  broadcasters  should  be
+required to promote public interest goals. There is a large difference
+between  the  public  interest  and  what  interests  the  public.  This  is
+especially  so  in  light  of  the  still-distinctive  character  and
+consequences  of  the  communications  market.  One  of  the  central
+goals of the system of broadcasting, private as well as public, should
+be  to  promote  the  American  aspiration  to  deliberative
+democracy14—a system in which citizens are informed about public
+                                                  
+10 47 U.S.C. 336(a).
+11 Id.
+12 See, e.g., Editorial, What Price Digital Television?, N.Y. Times, Dec. 26, 1998
+at  A26  (editorial).    See  also  See  Federal  Management  of  the  Radio  Spectrum:
+Advanced Television Services: Hearing Before the Subcomm. on Telecomm. and
+Fin.  of  the  House  Comm.  on  Commerce,  104th  Cong.  82  (1996)  (statement  of
+Robert M. Pepper, Chief, Office of Plans and Policy, FCC, stating that an auction
+would  bring  between  $11  to  $70  billion  in  revenue).  For  general  criticism,  see
+Thomas Krattenmaker, The Telecommunications Act of 1996, 29 Conn. L. Rev.
+123, 163-64 (1996); Matthew Spitzer, Dean Krattenmacher’s Road Not Taken, 29
+Conn. L. Rev. 353 (1996).
+13 47 U.S.C. 336(d).
+14  See,  e.g.,  Amy  Gutmann  and  Dennis  Thompson,  Democracy  and
+Disagreement  52-94  (1996)  (discussing  reciprocity);  Joshua  Cohen,  Democracy
+and Liberty, in Deliberative Democracy 185-231(Jon Elster ed. 1998).
+
+Chicago Law and Economics Working Paper 
+
+4
+
+issues  and  able  to  make  judgments  on  the  basis  of  reasons.
+Educational  programming,  and  programming  that  deals  with  civic
+questions,  can promote that aspiration; reliance  on  an  unregulated
+market may not. There are also legitimate grounds for encouraging
+broadcasters  to  make  programming  accessible  to  people  with
+disabilities, above all the deaf. I emphasize in this connection some
+special characteristics of the broadcasting market, characteristics that
+make it hazardous to rely on the ideal of “consumer sovereignty” as
+the exclusive basis for regulatory policy.
+
+My second claim is that in order to promote the relevant goals,
+government  should  decreasingly  rely  on  command-and-control
+regulation,15 and should turn instead to three less intrusive and more
+flexible  instruments,  each  of  which  is  well-adapted  to  a  period  of
+rapid  technological  change.  The  instruments  are  (1)  mandatory
+public disclosure of information about public interest broadcasting,
+unaccompanied  by  content  regulation;  (2)  economic  incentives,
+above all “play or pay”; and (3) voluntary self-regulation, as through a
+“code”  of  appropriate  conduct,  to  be  created  and  operated  by  the
+industry itself. These instruments have played an increasing role in
+regulatory policy in general, especially in the environmental arena.16
+But  they  have  not  been  discussed  in  the  area  of  communications,
+where they have a natural place; and despite its growing importance,
+the  general  topic  of  self-regulation  by  industry  self-regulation  has
+received little academic attention.17
+
+                                                  
+15  A  question  not  addressed  here  is  the  content  of  any  minimal  requirements;  I
+emphasize  the  more  flexible  alternatives  as  the  instruments  of  choice,  without
+denying  the  need  for  some  minima  as  a  “backstop.”    In  the  current  system,  for
+example, it may well make sense to require a degree of children’s programming and
+also free air time for candidates. See Final Report, supra note *. The precise extent
+of mandatory programming is beyond the scope of the present discussion, though I
+do refer to mandates at several points below..
+16  See  generally  Neil  Cunningham  and  Peter  Grabosky,  Smart  Regulation:
+Designing Environmental Policy 422-48 (1999); Anthony Ogus, Regulation 121-
+149,  245-56  (1998);  National  Academy  of  Public  Administration,  The
+Environment Goes To Market 12-55 (1994).
+17 The principal exception can be found in an illuminating symposium issue in an
+Australian law review, see Symposium, Industry Self-Regulation, 19 Law & Policy
+363 (1997).
+
+5
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+Through  requiring  broadcasters  to  disclose  information  about
+their  public  interest  activities,  government  may  be  able  to  enlist
+public pressure and social norms so as to create a kind of competition
+to  do  more  and  better.  This  is  the  simplest  and  least  intrusive  of
+regulatory  instruments.  By  allowing  broadcasters  to  buy  their  way
+out of certain public interest obligations, government should be able
+to ensure that those with an incentive to produce good programming
+are  actually  doing  so,  and  also  to  produce  lowest-cost  means  of
+promoting public interest programming. And through encouraging
+(not  mandating)  voluntary  self-regulation,  government  can  help
+broadcasters  to  overcome  a  kind  of  prisoner’s  dilemma  faced  by
+participants  in  a  “winner-take-all”  market,18  a  prisoner’s  dilemma
+that contributes to a range of social problems, often stemming from
+a kind of “race to the bottom” with respect to programming quality.
+
+It  should  be  clear  that  this  basic  approach  combines  an
+insistence  on  the  serious  limits  of  unrestrained  communications
+markets in promoting social goals with a plea for rejecting traditional
+regulation  and  for  enlisting  more  flexible,  market-oriented
+instruments in the service of those goals. This approach is consistent
+with some incipient but quite general trends in regulatory law.19  If
+the  approach  is  sound,  it  is  ideally  suited  to  the  emerging
+communications  market;  but  it  is  easily  adapted  to  other  areas  as
+well, involving environmental degradation and other social problems.
+It is much too soon to say whether there is a “third way” between
+traditional  command-and-control  regulation  and  reliance  on  free
+trade and well-defined property rights. But if there is indeed a “third
+way,” it is likely to be found in proposals of this kind.
+
+Thus the most general theme of this Article is that disclosure,
+economic  incentives,  and  voluntary  self-regulation  might  displace
+government command-and-control in a variety of areas of regulatory
+law. More specific themes involve the value of requiring producers to
+
+                                                  
+18 See Robert H. Frank and Phillip J. Cook, The Winner-Take-All Society 189-
+209 (1995).
+19 See, e.g., Neil Gunningham and Peter Grabosky, Smart Regulation: Designing
+Environmental Policy 37-92 (1999); National Academy of Public Administration,
+The  Environment  Goes  To  Market  (1994);  Cass  R.  Sunstein,  Informational
+Regulation and Informational Standing,: Akins  and  Beyond,  147  U.  Pa.  L.  Rev.
+613, 618-33 (1999).
+
+Chicago Law and Economics Working Paper 
+
+6
+
+disclose  goods  and  bads,  independent  of  any  regulatory
+requirements;  of  relaxing  the  antitrust  laws  so  as  to  permit
+cooperation  designed  to  reduce  some  of  problems  associated  with
+both  “winner-take-all”  markets  and  “races  to  the  bottom”;  of
+distinguishing  between  market-suppressing  and  market-
+supplementing remedies; of building on emerging developments in
+environmental protection so as to allow far more imaginative “trades”
+among producers of social goods and bads; and of greatly expanding
+the  repertoire  of  regulatory  tools  to  be  used  by  officials  concerned
+with market failures (or market successes that disserve social goals).
+In short, it is time to move beyond the view that market ordering
+and content regulation are the two possibilities for communications
+law.  There  are  many  alternatives,  and  real  progress  can  come  only
+from exploring the choice among them.
+
+The Article comes in eight parts. Part II sets the stage, outlining
+the history of regulation and identifying some relevant puzzles. Part
+III evaluates, and rejects, the claim that in the emerging television
+market, there is no longer room for public interest regulation of any
+kind. I suggest that broadcasting is no ordinary commodity, partly
+because of the collective benefits of good programming, and partly
+because viewers are more like products, offered to advertisers, than
+consumers paying for entertainment on their own. I also trace likely
+stages  of  the  emerging  market,  with  broadcast  programming
+becoming more and more like general-interest magazines. Part IV
+deals with disclosure, exploring the possibility that relevant private
+groups,  invoking  widespread  social  norms,  can  interact  to  produce
+improvements  in  the  broadcasting  market  without  compulsory
+programming  of  any  kind.  Part  V  deals  with  economic  incentives,
+beginning  with  the  idea  of  “pay  or  play,”  and  then  adapting  some
+ideas in the law of tort to the law of broadcasting. Part VI examines
+whether a code of broadcasting might operate as kind of positional
+arms control agreement, helping to counteract a situation in which
+broadcasters compete to the detriment of collective goals. Part VII is
+a  brief  summary  of  regulatory  options.  Part  VIII  provides  a
+conclusion.
+
+7
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+II. History, Puzzles, Problems
+
+A. A Brief Historical Overview20
+
+Broadcast licenses have never been treated like ordinary property
+rights, open for sale on the free market. Since the initial enactment
+of the Communications Act of 1934, the government has awarded
+licenses  to  broadcasters  in  accordance  with  the  “public  interest,
+convenience, and necessity.”21 The Federal Radio Commission early
+described the system as one in which broadcasters “must be operated
+as if owned by the public. . . . It is as if a community should own a
+station and turn it over to the best man in sight with this injunction:
+‘Manage  this  station  in  our  interest  .  .  .  .”22  Under  this  “public
+trustee”  standard,  the  FCC  has  imposed  a  range  of  obligations  on
+broadcasters.
+
+In its initial set of guidelines, the FCC required stations to meet
+the  “tastes,  needs  and  desires  of  all  substantial  groups  among  the
+listening public.”23 This required “a well-rounded program, in which
+entertainment,  consisting  of  music  of  both  classical  and  lighter
+grades, religion, education and instruction, important public events,
+discussions of public questions, weather, market reports, and news,
+and matters of interest to all members of the family, find a place.”24
+
+Often  this  kind  of  guidance  operated  as  a  general  plea,  with
+little systematic enforcement. In 1960, however, the FCC went so
+far as to outline fourteen of the “major elements usually necessary to
+the  public  interest.”25  These  included  religious  programming;
+program  for  children;  political  broadcasts;  news  programs;  sports
+programs; weather and market services, and development and use of
+                                                  
+20 This section draws on the first section of the report referred to in note * supra.
+21 47 USC 303®.
+22  The  Federal  Radio  Commission  and  the  Public  Service  Responsibility  of
+Broadcast Licensees, 11 Fed. Comm. B.J. 5, 14 (1950) (quoting Schaeffer Radio
+Co., an unpublished 1930 FRC decision).
+23  Great  Lakes  Broadcasting  Co.  v.  FRC,  3  FRC  Ann.  Rep.  32,  34  (1929),
+modified  on  other  grounds,  37  F.2d  993  (D.C. Cir.), cert. dismissed, 281 U.S.
+706 (1930).
+24 Id.
+25  Report  and  Statement  of  Policy  Res:  Commission  en  banc  Programming
+Inquiry, 44 F.C.C. 2303, 2314-15 (1960).
+
+Chicago Law and Economics Working Paper 
+
+8
+
+local  talent.  The  FCC  eventually  specified  its  general  guidelines,
+which  were  intended  merely  as  “indicia  of  the  types  and  areas  of”
+appropriate service. The specifications included minimum amounts
+for news, public affairs, and other non-entertainment programming,
+including the controversial “fairness doctrine,” and also access rules
+for  prime-time.26  Broadcasters  were  required  to  limit  advertising
+time, maintain program logs, and ascertain local community needs.27
+Substantial  changes  occurred  in  the  1980s,  a  period  of
+significant  deregulation.  The  head  of  the  FCC,  Mark  Fowler,
+declared  that  television  is  “just  another  appliance,”  a  “toaster  with
+pictures.”28 The fairness doctrine was largely eliminated, and many
+of the more particular public interest requirements were removed.29
+Nonetheless, a number of such requirements remain. For example,
+the FCC continues to say that if a broadcaster sells airtime to one
+candidate, it must sell similar time to opposing candidates as well.
+Congress  itself  has  codified  a  right  of  this  kind.30  A longstanding
+statutory provision requires that if a broadcaster offers to sell time, it
+must do so at the “lowest unit rate of the station” during the 45 days
+before a primary election and during the 60 days before a general or
+special election.31
+
+Recent  years  have  seen  special  attention  to  children’s
+programming  and  to  deaf  people’s  access  to  television.  In  1990,
+
+                                                  
+26  See  In  re  Amendment  to  Section  0.281  of  the  Commission’s  Rules:
+Delegations of Authority to the Chief, Broadcast Bureau, 59 F.C.C.2d 491, 493
+(1976); See Amendment of Part 73 of the Commission’s Rules and Regulations
+with  Respect  to  Competition  and  Responsibility  in  Network  Television
+Broadcasting, Report and Order, 23 F.C.C.2d 382, 385-7 (1970).
+27 See id.
+28 See Bernard Nossiter, Licenses to Coin Money, 240 Nation 402 (1985).
+29  In  re  The  Revision  of  Programming  and  Commercialization  Policies,  98
+F.C.C.  2d  1076  (1984).  See  also  Revision  of  Applications  for  Renewals,  49
+R.R.2d  470  (1981)  (postcard  renewals);  In  re  Complaint  of  Syracuse  Peace
+Council, 2 F.C.C.R. 5043, 5054-55 (1987) (repealing most of fairness doctrine),
+aff'd, Syracuse Peace Council v. FCC, 867 F.2d 654 (D.C. Cir. 1989).
+30 47 U.S.C. § 315.
+31 47 U.S.C. § 315(b).
+
+9
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+Congress enacted the Children’s Programming Act of 1990,32 which
+requires  broadcasters  to  provide  three  hours  of  educational
+programming  per  week,  and  which  also  limits  the  advertising  on
+children’s programming (12 minutes per hour during weekdays and
+10/5 minutes per weekends).33  A  statute  enacted  in  1990  requires
+new television sets to have special decoder chips, allowing them to
+display  closed  captioned  television  transmissions.34  The
+Telecommunications  Act  of  1996  requires  use  of  “v-chip”
+technology, designed to facilitate parental control over what enters
+the home; it also contains ancillary requirements intended to ensure
+“ratings” of programming content.35
+
+B. Two Puzzles
+
+Turn now to the present, or at least to the recent past. From 1997
+to 1998, a presidential advisory committee met to discuss the public
+interest  obligation  of  television  broadcasters.36  Several  of  the
+broadcasters  on  the  Committee  were  quite  skeptical  about
+governmental mandates, but highly receptive to the idea of adopting
+some  kind  of  broadcasting  “code,”  akin  to  the  kind  approved  and
+administered by the National Association of Broadcasters between
+1928 and 1979. The Committee eventually moved toward endorsing
+the notion of a code, and the idea received considerable attention,
+mid-deliberations, in the trade press.
+
+In  its  annual  meeting,  however,  the  National  Association  of
+Broadcasters  signaled  its  skepticism  about  the  idea  and  came  very
+close  to  saying  “no”  and  “never.”  Very  oddly,  a  large  part  of  the
+broadcasters’  objection  was  that  any  “code”  would  violate  the
+antitrust  laws.  This  is  very  odd,  because  in  their  discussions,
+members of the NAB treated the possibility of an antitrust violation
+as  extremely  good  news.  It  is  not  often  that  high-level  corporate
+                                                  
+32  Children's  Television  Act  of  1990,  tits.  I,  II,  §§  103,  203,  47  U.S.C.  §§
+303(a)-(b), 394 (1994).
+33 Pub. L. No. 101-437, § 102(b).
+34 Television Decoder Circuitry Act of 1990, 47 U.S.C. § 303(u).
+35 See the general discussion in James Hamilton, supra note, at 302-11.
+36  I  draw  on  personal  recollections  here.  See  note  *  supra.  Transcripts  of  the
+relevant meetings can be found at the website of the Advisory Committee on the
+Public Interest Obligations of Digital Television Broadcasters.
+
+Chicago Law and Economics Working Paper 
+
+10
+
+officials  are  smiling  when  they  discuss  the  possibility  that  certain
+action would be found unlawful.
+
+Consider a second puzzle. During the committee’s deliberations,
+some  people  argued  on  behalf  of  a  “pay  or  play”  system,  in  which
+broadcasters  would  be  relieved  of  public  interest  obligations  (to
+“pay”)  if  they  agree  instead  to  pay  someone  else—another
+broadcaster—to  do  so.  But  many  of  the  broadcasters  on  the
+committee were quite skeptical of this approach, arguing that public
+interest obligations were part of the duty of every broadcaster, and
+that no one should be exempted for a price. This was also very odd.
+It  is  not  often  that  high-level  corporate  officials  prefer  rigid
+government  mandates  to  more  flexible  approaches.  What  explains
+these puzzles?
+
+C. Identifying the Problem
+
+To  evaluate  particular  proposals,  it  is  necessary  to  have  a
+concrete sense of why some people think that even well-functioning
+television  markets  are  inadequate.  Consider  the  following
+possibilities, each of which has produced public concern in the last
+decade37:
+
+1.  There  may  be  insufficient  educational  programming  for
+children. The existing fare may be insufficient because there is
+too little simply in terms of amount, or because children do not
+watch  the  stations  on  which  it  is  available,  or  because  the
+quality is too low.
+
+2. Some programming may be affirmatively bad for children if,
+for  example,  it  contains  excessive  violence,  or  otherwise
+encourages behavior that is dangerous to self and others. The
+result  of  such  programming  may  be  to  produce  violent  or
+otherwise dangerous behavior in the real world.38
+
+                                                  
+37 For different angles, see, e.g., Final Report, supra note; Hamilton, supra note,
+at 3-50 (discussing violence); Newton Minow and Craig LaMay, Abandoned in
+the  Wasteland:  Children,  Television,  and  the  First  Amendment  10-45  (1995)
+(discussing  children)  Danny  Schechter,  The  More  You  Watch,  The  Less  You
+Know (1997) (discussing content of news).
+38 See Hamilton, supra, at 20-30, for evidence.
+
+11
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+3.  Programming  may  not  be  sufficiently  accessible  to  people
+who  are  deaf  or  hard  of  hearing;  this  may  be  a  particular
+problem if citizens are unable to find out about emergencies.39
+
+4. There may be too little coverage of serious issues, especially
+during political campaigns. The relevant coverage may involve
+sensationalism and “sound bites,” or attention to who is ahead
+(“horserace issues”) rather than who thinks what and why. The
+result may be an insufficiently informed citizenry.40
+
+5.  There  may  be  too  much  violent  programming  in  general,
+with adverse consequences for adults, not only children.41 The
+adverse  consequences  may  include  an  increase  in  violence
+(because  of  changes  in  social  norms  or  “copycat”  effects42),
+general demoralization and fear, or a misperception of reality.
+
+6. News coverage may be a form of “infotainment,” dealing not
+with real issues, but with gossip about celebrities and charges of
+various kinds.43
+
+7. At least  on  the  major networks, programming may  be  too
+homogenous,  in  a  form  of  “blind  leading  the  blind”
+programming. Since a significant percentage of Americans do
+not  receive  cable  television,  and  depend  on  broadcasters,  the
+result may be insufficient variety in programming.44
+
+8.  There  may  be  too  little  substantive  diversity  of  view—too
+little  debate  among  people  with  genuinely  different
+
+                                                  
+39 See Final Report, supra note *, at 30-31.
+40 See Kiku Adatto, Sound-Bite Democracy (1995), for general discussion.
+41 See Hamilton, supra note, at 20-30, for detailed discussion.
+42 For evidence, see Elliott Aronson, The Social Animal 62-64, 266-69 (6th  ed.
+1995).
+43 See Schechter, supra note.
+44 See below.
+
+Chicago Law and Economics Working Paper 
+
+12
+
+perspectives about issues of policy and fact. Here too, the result
+may be an insufficiently informed citizenry.45
+
+9.  The  problem  may  be  not  homogeneity  but  heterogeneity,
+which  may  result  in  a  highly  balkanized  viewing  public,  in
+which many or most people lack shared viewing experiences, or
+in which people view programming that largely reinforces their
+own convictions and prejudices.
+
+10.  It  may  be  too  expensive  for  candidates  to  reach  the
+electorate  via  television.  The  result  may  be  excessive
+competition to accumulate funds simply in order to have access
+to television; this competition may have corrosive effects on the
+electoral process. Free air time would be a possible response,
+perhaps qualified by an obligation, on the part of the candidate,
+to speak for at least 50% of the time, or to refrain from negative
+campaigning.
+
+To be sure, some of these problems cannot be corrected through
+regulation that is either feasible or constitutional. Moreover, these
+various  conceptions  of  the  relevant  problem  point  toward  diverse
+solutions,  some  of  which  would  raise  serious  first  amendment
+problems, as discussed below.46 A particular challenge is to develop
+approaches that would allow a high degree of flexibility, minimize
+government involvement in programming content, and also do some
+good.
+
+III. Preferences and Audiences
+
+It  has  increasingly  been  urged  that  any  objections  to  existing
+television  are  elitist  or  outmoded.47  On  one  view,  public  interest
+obligations have no place in modern law, particularly in light of the
+
+                                                  
+45 See C. Edwin Baker, The Media That Citizens Need, 147 U Pa L Rev 317,
+383-407 (1999).
+46 See pp. below.
+47 See Fowler and Brennan, supra note; Corn-Revere, supra note.
+
+13
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+decline  of  the  “scarcity”  rationale  for  regulation;  it  has  even  been
+urged that the FCC no longer has any appropriate role.48
+
+A conceptual point first: Though many people claim to argue
+for “deregulation,” that route is not in fact an option, or at least not a
+reasonable one. What “deregulation” really means is a shift from the
+status quo to a system of different but emphatically legal regulation,
+more  specifically  one  of  property  and  contract  rights,  in  which
+government does not impose specific public interest obligations but
+instead sets up initial entitlements and then permits trades among
+owners  and  producers.  This  is  a  regulatory  system  as  much  as  any
+other.  If  it  seems  close  to  the  current  system  for  newspapers  and
+magazines, it is no less a regulatory system for that; a great deal of
+law  (inevitably)  governs  the  rights  and  duties  of  newspapers  and
+magazines. The only real form of deregulation is anarchy, and that is
+not  an  option.  The  issue  is  thus  not  whether  to  “deregulate,”  but
+whether one or another regulatory system is better than imaginable
+alternatives.
+
+I therefore turn to the general question whether there remains
+any  reason  for  government  to  regulate  broadcasting  in  the  “public
+interest.”  My  concern  here  is  both  theoretical  and  empirical.  The
+question is whether in the current market, broadcasters are likely to
+provide viewers what they would like to see, and if so whether that
+point is decisive on the question whether public interest obligations
+should  be  imposed.49  The  brief  answer  is  that  the  idea  that
+broadcasters  show  “what  viewers  want”  is  a  quite  inadequate
+response  to  the  argument  for  public  interest  obligations.50  The
+discussion deals with the technological present and the short-term
+future; below I introduce complications from emerging technological
+developments.
+
+                                                  
+48 See Yochai Benkler & Lawrence Lessig, The New Republic, Dec. 14, 1998 at
+15 (arguing that a growing body of research suggests the F.C.C. is unnecessary).
+49 An excellent discussion, on which I draw at several points here, is C. Edwin
+Baker, Giving the Audience What It Wants, 58 Ohio St. L.J. 311 (1997).
+
+50 The following points are directed to the television market at the close of the
+twentieth  century  and  the  opening  of  the  twenty-first;  later  I  discuss  how  they
+bear on the market that is likely to emerge thereafter.
+
+Chicago Law and Economics Working Paper 
+
+14
+
+A. Three Market Failures51
+
+A well-functioning television market would promote the ideal of
+consumer sovereignty. People would be able to choose from a range
+of  options,  and  suppliers  would  cater  to  their  tastes.  To  a
+considerable  extent,  of  course,  the  existing  system  approaches  this
+reality.  But  there  are  three  serious  problems,  each  suggesting  that
+consumer sovereignty is not served by free markets in programming.
+
+1. Eyeballs as the commodity
+The  first  point  is  the  most  fundamental.  Television  is  not  an
+ordinary  product,  for  broadcasters  do  not  sell  programming  to
+viewers in return for cash. A system of “pay-per-view” would indeed
+fit the usual commodity model; but “pay per view” continues to be a
+rare  practice.  The  difference  between  the  existing  broadcasting
+market and pay-per-view is quite important. The key problem here
+is that viewers do not pay a price, market or otherwise, for television.
+On  the  contrary,  it  is  more  accurate  to  say  that  viewers  are  a
+commodity, or a product, that broadcasters deliver to the people who
+actually pay them: advertisers.52
+
+This phenomenon introduces some serious distortions, at least if
+we understand an ideal broadcasting market as one in which viewers
+receive  want  they  want.  From  the  standpoint  of  consumer
+sovereignty, and taking viewers as consumers, the role of advertisers
+creates  market  failures.  Of  course  broadcasters  seek,  other  things
+being  equal,  to  deliver  more  rather  than  fewer  viewers,  because
+advertisers  seek,  other  things  being  equal,  more  rather  than  fewer
+viewers.  To  this  extent  the  broadcasting  market  may  well  provide
+many or most viewers with what they “want.” But advertisers have
+issues and agendas of their own, and the interests of advertisers can
+push  broadcasters  in,  or  away  from,  directions  that  viewers,  or
+substantial numbers of them, would actually like.
+
+This is a substantial difference from the ordinary marketplace.
+Thus advertisers like certain demographic groups and dislike others,
+even when the numbers are equal; they pay extra amounts in order to
+
+                                                  
+51 These are market failures if it is assumed that the purpose of a well-functioning
+television  market  is  to  ensure  that  programming  is  well-matched  to  viewer
+preferences.
+52 See C. Edwin Baker, Advertising and A Democratic Press 25-87 (1994).
+
+15
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+attract groups that are likely to purchase the relevant products, and
+this  affects  programming  content.53  Advertisers  do  not  want
+programming that draws product safety into question, at least not if
+it  is  their  own  products,  and  sometimes  more  generally.54  In
+addition,  advertisers  want  programming  that  will  put  viewers  in  a
+receptive  purchasing  mood,  and  hence  not  be  too  “depressing.”55
+Advertisers  also  tend  to  dislike  programming  that  is  highly
+controversial  or  that  is  too  serious,  and  hence  avoid  sponsoring
+shows that take stands on public issues.56 In these ways, the fact that
+broadcasters are delivering viewers to advertisers—this is largely their
+charge,  under  existing  arrangements—can  produce  offerings  that
+diverge considerably from what would emerge if viewers were paying
+directly  for  programming.  To  this  extent  the  notion  of  consumer
+sovereignty is seriously compromised.
+
+2. Informational cascades and broadcaster homogeneity
+A second problem is that it is not clear whether broadcasters are
+now  engaged,  in  anything  like  a  systematic  or  scientific  way,  in
+catering to public tastes. At first glance it would seem obvious that
+broadcasters  must  be  engaged  in  this  endeavor  (subject  to  the
+qualification  just  stated);  if  broadcasters  are  maximizing  anything,
+they must be maximizing viewers. Attracting viewers is their job.57
+But there is reason to question this judgment, at least in its simplest
+form. Sometimes rational people make decisions not on the basis of a
+full  inspection  of  the  alternatives,  but  on  the  basis  of  an
+understanding  of  what  other  people  are  doing.58  Because  people
+obtain  information  from  other  people’s  actions,  individual  actions
+carry  with  them  one  or  more  “informational  externalities,”  which
+potentially  affect  the  decisions  of  others. Thus  rational  and
+boundedly  rational  people,  in  business  as  elsewhere,  rely  on  the
+
+                                                  
+53 See id., at 30-35.
+54 See id.
+55 Id.
+56 Id.
+57 See Danny Schechter, The More You See, The Less You Know (1998).
+58 Sushil Bikchandani et al., Learning from the Behavior of Others, 12 J. Econ.
+Persp. 151, 164 (1998).
+
+Chicago Law and Economics Working Paper 
+
+16
+
+signals provided by the words and deeds of others.59 The result can
+be to produce cascade effects, as B follows A, and C follows A and
+B, and D, as a rational agent, follows the collected wisdom embodied
+in the actions of A, B, and C. Informational cascades can produce
+unfortunate  outcomes,  in  fact  outcomes  far  worse  than  those  that
+would  result  if  individuals  accumulated  information  on  their  own.
+Sometimes,  moreover,  people  use  the  “availability”  heuristic,  by
+which  an  event  is  measured  as  more  probable  if  an  instance  of  its
+occurrence can be brought to mind.60 Using the availability heuristic,
+broadcasters might reason that if one show or another has attracted
+substantial viewers in the past, they should copy it. The result would
+be “fads” and “fashions” in programming.61
+
+In  theory,  then,  broadcasters  might  be  building  on  the
+programming  judgments  of  other  broadcasters,  often,  perhaps,
+reacting  to  the  “availability”  of  salient  recent  instances  in  which  a
+particular  program  was  especially  popular  (dealing,  let  us  suppose,
+with the O.J. Simpson trial) or especially unpopular (dealing, let us
+suppose,  with  South  Africa).  If  this  is  true,  private  decisions  by
+b r o a d c a s t e r s   m a y  
+a n d
+homogeneity—mistakes  in  the  form  of  programming  unlike  what
+viewers want, and homogeneity in the form of the “blind leading the
+blind.”62
+
+b o t h   m i s t a k e s  
+
+p r o d u c e  
+
+Recent  evidence  suggests  that  the  theoretical  account  has
+considerable truth. A careful study shows that there is a good deal of
+simple imitation, as networks provide a certain kind of programming
+simply by imitating whatever other networks are doing.63 Recently
+
+                                                  
+59  In  a  related  vein,  see  Andrew  Caplin  and  John  Leahy,  Miracle  on  Seventh
+Avenue: Information Externalities and Search, 108 Econ. J. 60 (1998).
+60  See  Timur  Kuran  and  Cass  R.  Sunstein,  Availability  Cascades  and  Risk
+Regulation, 51 Stan. L. Rev. 163 (1999).
+61 See note supra.
+62  See  David  Hirshleifer, The Blind Leading the Blind: Social Influence, Fads,
+and  Informational  Cascades,  in  The  New  Economics  of  Human  Behavior  188
+(Mariano Tommasi & Kathryn Ierulli eds., 1995).
+63  See  Sushil  Bikchandani  et  al.,  Learning  from  the  Behavior  of  Others,  12  J.
+Econ.  Persp.  151.  164  (1998);  Robert  E.  Kennedy,  Strategy  Fads  and
+Competitive Convergence: An Empirical Test for Herd Behavior in Prime-Time
+Television Broadcasting (Harvard Business School, January 1998).
+
+17
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+popular shows tend to create cascade effects. This imitative behavior
+is not in the interest of viewers. On the contrary, it creates a kind of
+homogeneity  and  uniformity  in  the  broadcasting  market,  and  thus
+makes  for  problems  in  terms  of  providing  what  viewers  “want.”64
+This is not a conventional market failure, but it suggests that existing
+decisions are unlikely to promote consumer sovereignty.
+
+3. Externalities and collective action problems
+Even  if  broadcasters  did  provide  each  viewer  with  what  he  or
+she  wanted,  a  significant  problem  would  remain,  and  from  the
+economic  point  of  view,  this  is  probably  the  most  serious  of  all.
+Information is a public good, and once one person knows something
+(about,  for  example,  product  hazards,  asthma,  official  misconduct,
+welfare reform, or abuse of power), the benefits of that knowledge
+will probably accrue to others.65 Note in this regard Amartya Sen’s
+remarkable finding that no famine has ever occurred in a democratic
+party with a free press.66 This finding is complemented by a series of
+less  dramatic  ones,  showing  the  substantial  benefits  for  individual
+citizens  of  a  media  that  is  willing  and  able  to  devote  attention  to
+public  concerns,  including  the  plight  of  the  disadvantaged.67  But
+individual choices by individual viewers may well produce too little
+public interest programming in light of the fact that the benefits of
+viewing such programming are not fully “internalized” by individual
+viewers.  Thus  individually  rational  decisions  may  inflict  costs  on
+others at the same time that they fail to confer benefits on others. In
+this  respect,  the  problem  “is  not  that  people  choose  unwisely  as
+individuals,  but  that  the  collective  consequences  of  their  choices
+often  turn  out  to  be  very  different  from  what  they  desire  or
+anticipate.”68
+
+Most  generally,  there  are  multiple  external  effects  in  the
+broadcasting  area;  some  of  these  are  positive,  but  unlikely  to  be
+
+                                                  
+64 See id.
+65 An illuminating and detailed discussion is Baker, Giving the Audience What
+It Wants, supra note, at 350-85.
+66 See Amartya Sen and Jean Dreze, India 76 (1995).
+67 Id. at 75-76, 173, 191.
+68  Robert  H.  Frank  and  Phillip  J.  Cook,  The  Winner-Take-All  Society  191
+(1995).  See also Pierre Bourdieu, On Television 9-29 (1998).
+
+Chicago Law and Economics Working Paper 
+
+18
+
+generated  sufficiently  by  individual  choices,  while  others  are
+negative, and likely to be excessively produced by individual choices.
+Consider a decision to watch violent programming.69  In  short,  the
+effects  of  broadcasting  depend  on  social  interactions,  and
+broadcasting produces a range of collective goods and collective bads.
+Many  of  the  resulting  problems  are  connected  with  democratic
+ideals. Thus, for example, a culture in which each person sees a high
+degree  of  serious  programming  may  well  lead  to  better  political
+judgments; media portrayals of violence can produce harm to others;
+greater  knowledge  on  the  part  of  one  person  often  leads  to  more
+knowledge on the part of others with whom she interacts.70 Perhaps
+most  important,  a  degree  of  serious  attention  to  public  issues  can
+lead  to  improved  governance  through  deterring  abuses  and
+encouraging  governmental  response  to  serious  problems.  In  these
+various  ways,  public  interest  programming  can  produce  social
+benefits  that  will  not  be  adequately  captured  by  the  individual
+choices of individual citizens; the same is true for programming that
+produces social costs, including increased criminal activity.71
+
+B. Problems on Non-Market Criteria:
+Children, Deliberative Democracy, and Related Issues
+
+Many people object to purely market approaches to television.72
+Perhaps television is not best understood as an ordinary commodity,
+subject to the forces of supply and demand. There are several reasons
+why  this  might  be  so.  The  unifying  theme  is  that  the  American
+political  tradition  is  committed  to  the  ideal  of  deliberative
+democracy,73  an  ideal  that  has  animated  first  amendment  doctrine
+and media regulation in general.74  Even  if  the  media  market  were
+well-functioning from the economic point of view, there would be
+room for measures designed to promote a well-functioning system of
+
+                                                  
+69 See Hamilton, supra, at 3-49.
+70 Baker, supra, at 350-367.
+71  See  id.  at  355-56;  see  also  James  P.  Hamilton,  Channeling  Violence:  The
+Economic Market for Violent Television Programming 20-30, 285-322 (1998).
+72 See, eg., Baker, supra, at 355-65.
+73 See Joseph Bessette, The Mild Voice of Reason 6-39 (1995).
+74  See  Minow  and  LaMay,  supra  note,  at  15-65;  Cass  R.  Sunstein, Democracy
+and the Problem of Free Speech 53-92 (1993).
+
+19
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+democratic  deliberation,  especially  in  view  of  the  importance  of
+television to people’s judgments about what issues are important, and
+about what it is reasonable to think.75
+
+1. Children and the hearing-impaired
+A well-functioning market may fail to serve certain categories of
+viewers. Of these the most obvious is children, who may be poorly
+served  by  an  absence  of  educational  programming76  or  adversely
+affected by violent programming.77 It is possible to treat the resulting
+problems as “externalities,” but the more natural conclusion is that
+the television market is creating difficulties even in the absence of a
+market  failure.  Because  television  has  a  significant  role  as  an
+educational instrument, the failure to serve children is a significant
+problem.78 A well-functioning market may also disserve people who
+are hard of hearing, if they are deprived of access to television by the
+existing use of technology, a particular problem if they are unable to
+watch  the  news  or  to  understand  descriptions  of  emergency
+conditions.  Here  too  there  is  potential  room  for  a  regulatory
+response, partly in order to include deaf people in civic activities by
+informing them of electoral issues and news in general.
+
+2. Endogenous preferences
+The public’s “tastes,” with respect to television programming, do
+not come from nature or from the sky. They are partly a product of
+current and recent practices by broadcasters and other programmers.
+They  are  often  generated  by  the  market.79  What  people  want,  in
+short, is partly a product of what they are accustomed to seeing. It is
+also a product of existing social norms, which can change over time,
+and  which  are  themselves  responsive  to  existing  commercial  fare.
+Tastes are formed, not just served, by broadcasters.
+
+The point raises doubts about the idea that government policy
+should  simply  take  viewers’  tastes  as  given.  In  an  era  in  which
+
+                                                  
+75  See  Shanto Iyengar  and  Donald  Kindar, News That Matters (1987); Shanto
+Iyengar,  Is  Anyone  Responsible?  How  Television  Frames  Public  Issues  127-44
+(1991).
+76  See  Newton  Minow  and  Craig LaMay, Abandoned in the Wasteland 10-65
+(1995).
+77 See Hamilton, supra, at 76-128.
+78 See Minow and LaMay, supra, at 100-126.
+79 Baker, supra note, at 404-410.
+
+Chicago Law and Economics Working Paper 
+
+20
+
+broadcasters  are  providing  a  good  deal  of  public  interest
+programming,  dealing  with  serious  issues  in  a  serious  way,  many
+members  of  the  public  will  cultivate  a  taste  for  that  kind  of
+programming.  This  effect  would  promote  democratic  ideals  by
+fostering information and helping to increase deliberation.80  In  an
+era  in  which  broadcasters  are  carrying  sensationalistic  or  violent
+material, members of the public may well cultivate a taste for more of
+the same. “Free marketeers have little to cheer about if all they can
+claim is that the market is efficient at filling desires that the market
+itself  generates.  .  .  .  Just  as  culture  affects  preferences,  so  also  do
+markets  influence  culture.  ”81  If  this  is  so,  the  ideal  of  consumer
+sovereignty is placed under some pressure; market activities cannot
+easily be justified by reference to tastes that they themselves generate.
+This point should not be overstated. Undoubtedly broadcasters
+have limited power to push tastes very dramatically in one direction
+or  another.  At  a  minimum,  the  idea  that  viewers’  tastes  are
+endogenous  to  existing  fare  should  be  taken  as  a  cautionary  note
+about  treating  consumption  choices  as  decisive  for  purposes  of
+policy. Combined with the point to follow, it suggests that there is
+nothing  illegitimate  about  policies  that  depart  from  consumption
+choices in favor of widely held social aspirations. But there is reason
+for  broader  concern  about  the  adverse  effects  of  certain  kinds  of
+programming—including a failure to cover serious issues in a serious
+way—on democratic judgments.82
+
+3. Citizens, consumers, and precommitment strategies
+There is a difference between what people want in their capacity
+as viewers (or “consumers of broadcasting”) and what they want in
+their capacity as citizens.83 Both preferences and values are a function
+of the setting in which people find themselves; they are emphatically
+a product of social role. In these circumstances, it would be wrong to
+
+                                                  
+80 For evidence that the effects of television on this count are far from fanciful,
+see Iyengar, Is Anyone Responsible?, supra note, at 26-116.
+81  Robert  H.  Frank  and  Philip  J.  Cook,  The  Winner-Take-All  Society  201
+(1995).
+82 See Iyengar, Is Anyone Responsible?, supra note, at 46-68.
+83  A  good  discussion  is  Daphna  Lewinsohn-Zamir,  Consumer  Preferences,
+Citizen  Preferences,  and  the  Provision  of  Public  Goods,  108  Yale  L.J.  377
+(1998).
+
+21
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+think  that  the  choices  of  individual  viewers  are  definitive,  or
+definitional, with respect to the question of individual preference of
+value. On the contrary, a democratic public, engaged in deliberation
+about  the  world  of  telecommunications,  may  legitimately  seek
+regulations  embodying  aspirations  that  diverge  from  their
+consumption choices. Participants in politics may be attempting to
+promote their meta-preferences, or their preferences about their own
+preferences; they may be attempting to carry out a precommitment
+strategy of some kind; they may be more altruistic or other-regarding
+in  their  capacity  as  citizens,  perhaps  because  of  the  nature  of  the
+goods involved; they may be more optimistic about the prospects for
+change when acting collectively.84
+
+When participants in democracy attempt to make things better,
+and do not simply track their consumption choices, it is not helpful
+to  disparage  their  efforts  as  “paternalism”  or  as  “meddling.”
+Consumers should not be confused with citizens; this is a form of
+democracy in action.85 Thus it is entirely appropriate for government
+to respond to people’s aspirations and commitments as expressed in
+the  public  realm.  This  is  especially  so  when  a  democratic  polity  is
+itself  attempting  to  ensure  more  in  the  way  of  democratic
+deliberation.
+
+C. Principle and Policy
+
+These points suggest that there is good reason, in principle, for
+some kind of regulatory response to existing markets in television.
+But  nothing  said  thus  far  argues  for  any  particular  governmental
+initiative.  There  is  no  simple  “match”  between  the  identifiable
+market  and nonmarket failures and public interest requirements in
+general. For example, it is hard to imagine a legitimate governmental
+response  to  the  problem  of  excessive  homogeneity  on  the  major
+networks. Any such response is likely to correct only a piece of the
+problem, as through, for example, efforts to encourage more serious
+coverage  of  political  campaigns.  We  have  also  seen  that  existing
+public interest obligations are extremely varied; each of them must be
+                                                  
+84  The  latter  two  points  are  emphasized  in  id.  at  399-401;  in  the  particular
+context of broadcasting, see Baker, Giving the Audience What It Wants, supra,
+at 401-04..
+85 See Baker, Giving the Audience What It Wants, supra, at 401-11.
+
+Chicago Law and Economics Working Paper 
+
+22
+
+assessed on its own. At first glance, policies that attempt to promote
+better programming for children are most securely supported by the
+arguments  made  thus  far  (as  a  response  to  what  is  reasonably
+classified as a market failure, and also as a way of increasing positive
+externalities and of promoting social aspirations). Efforts to ensure
+that  deaf  people  are  able  to  enjoy  television,  through  closed
+captioning, are justifiable on similar grounds. There is room also for
+efforts  to  ensure  better  coverage  of  electoral  campaigns—perhaps
+through  a  requirement  of  free  air  time  for  candidates,  perhaps
+through  a  private  “code”  designed  to  ensure  more  substantive
+discussion.  Disclosure  requirements,  allowing  the  public  to  have  a
+general sense of broadcaster performance, seem to be justified as a
+non-intrusive method for allowing civic aspirations to help influence
+future programming. As a response to possibly unfortunate effects on
+advertiser  pressures,  and  also  as  a  way  of  ensuring  against  a
+destructive  “race  to  the  bottom”  with  respect  to  programming
+content, a general code of broadcaster behavior seems appealing (see
+Part VII below).
+
+There  are  pragmatic  questions  as  well.  To  say  that  a  form  of
+response may be justified in principle is not at all to say that it will
+succeed  in  practice.  Just  as  in  the  environmental  area,  where
+command-and-control regulation has produced unintended adverse
+consequences,86 many problems have emerged with command-and-
+control regulation of the kind that has typified FCC regulation for
+most  of  its  history.  Consider,  for  example,  the  fairness  doctrine,
+designed  to  ensure  exposure  to  public  issues  and  to  allow  diverse
+voices  to  have  access  to  the  airwaves.  A  serious  problem  with  the
+fairness doctrine is that it appears to have discouraged stations from
+covering  controversial  issues  at  all,  and  to  ensure  a  kind  of  bland
+uniformity,  thus  disserving  democratic  goals.87  A  uniform  set  of
+mandates  may  also  produce  waste  and  poor  programming;  if  a
+network is especially bad at generating good shows for children, and
+has a hard time attracting a children’s audience, is it so clear that that
+network should be faced with the same obligations as everyone else?
+                                                  
+86 See Cass R. Sunstein, Free Markets and Social Justice 245-383 (1997).
+87  See  Thomas  W.  Hazlett  &  David  W.  Sosa,  Was  the  Fairness  Doctrine  a
+“Chilling  Effect”  ?  Evidence  from  the  Postderegulation  Radio  Market,  26  J.
+Legal Stud. 279 (1997)
+
+23
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+In view of the great diversity of the broadcasting market, a “one size
+fits  all”  approach  may  be  far  more  costly,  and  less  effective,  than
+creative alternatives.
+
+It is useful to distinguish here between approaches that suppress
+markets  and  approaches  that  supplement  markets.88  In  regulatory
+policy, market-suppressing approaches include minimum wage and
+maximum  hour  laws,  or  price  and  wage  controls.  Market-
+supplementing  approaches  include  jobs  training  programs  and  the
+earned income tax credit. In telecommunications policy, the fairness
+doctrine  was  a  market-suppressing  remedy;  so  too  with  a
+requirement  that  broadcasters  provide  three  hours  of  educational
+programming per week, or a certain amount of time for candidates
+for  public  office.  By  contrast,  the  devotion  of  public  funds  to  the
+Public Broadcasting System is a market-supplementing approach; so
+too  with  a  subsidy  granted  to  each  of  the  networks,  designed  to
+ensure a certain amount of public interest programming. Of course
+the  line  between  the  two  can  be  thin  when  the  market-
+supplementing  approach  ends  up  displacing  material  that  would
+otherwise  be  supplied  in  accordance  with  forces  of  supply  and
+demand.
+
+D. Communications Past, Present, and Future:
+Planned Obsolescence and Beyond
+
+The arguments offered thus far have not specifically addressed
+the  new  market  in  communications.  An  especially  important
+question  is  whether  emerging  changes  in  television  technology
+strengthen the case for satisfaction with market outcomes.
+
+1. Predicting the future
+The  most  striking  feature  of  the  emerging  communications
+market is a dramatic increase in the number of available stations and
+programming options. The existing regulatory regime was designed
+for a system with three private broadcasting networks and the Public
+Broadcasting System (PBS). In 1999, about 32% of people who have
+television remain dependent on broadcasters, which means that they
+
+                                                  
+88  See  Amartya  Sen  and  Jean  Dreze,  India  21-24  (1997)  (discussing  market
+supplementing strategies).
+
+Chicago Law and Economics Working Paper 
+
+24
+
+have access to five or six stations.89 This means that about two-thirds
+of  viewers  have  access  to  between  fifty  and  one  hundred  stations.,
+including  the  all-news  stations  C-Span  and  CNN,  and  a  range  of
+“soft news” stations such as MSNBC. By itself this is an extremely
+significant change, and the shift from this situation to one in which
+most  people  have  access  to  (say)  500  stations  may  be  only  one  of
+degree.  More  dramatic  innovations  are  coming  in  the  future,  with
+the  possible  ultimate  “convergence”  of  various  television  sources,
+including  digital  television  and  the  Internet.90  If  a  “television  set”
+becomes akin to a computer monitor that provides access to the full
+range of American magazines, would not the case for public interest
+regulation  be  substantially  weakened?  The  foregoing  discussion
+offers an ambivalent answer. Some of the problems with the market
+status quo would dissipate, but others would remain. Let us explore
+these questions in more detail.
+
+For  purposes  of  analysis,  we  might  separate  the  market  for
+television  into  four  rough  stages.  The  first  is  that  of  the  period
+between  the  1940s  and  1960s—the  market  for  which  the  existing
+regulatory system was designed; call this the old regime. As noted, the
+old  regime  included  three  large  networks  and  also  PBS;  the  four
+stations  provided  all  of  what  Americans  knew  as  television.  The
+second market is one of the late 1990s; call this the transitional state.
+Here the most dramatic change in the number of available options.
+This is a system in which a substantial percentage (about 32%) of the
+viewing public relies on five broadcasters and PBS, but in which 68%
+of the public has access to cable television, and thus is able to choose
+among fifty or more options. Of that 68%, a growing segment is able
+to  see  well  over  100  stations.  But  in  the  transitional  state,
+broadcasters  continue  to  have  a  special  role,  both  because  a
+substantial number of people do not have access to cable at all, and
+because  even  cable  viewers  watch  the  major  networks
+disproportionately.
+
+The third stage, likely to begin shortly, is continuous with the
+transitional  state;  call  this  the  stage  of  multiple  options. This is a
+market  in  which  broadcasters  continue  to  be  seen  by  more  people
+                                                  
+89  See  Statistial Abstract of the United States, No. 888, Utilization of Selected
+Media: 1970 to 1998 (1998).
+90 See Owen, supra note 1.
+
+25
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+than  other  providers,  but  are  decreasingly  distinctive  in  terms  of
+either  the  size  or  nature  of  their  audience.  More  people  will  have
+access  to  cable  or  other  options,  and  many  of  those  who  rely  on
+broadcasting will be able to have more options too. But broadcasters
+will continue to be seen by a disproportionate number of people, if
+only because a shrinking but still substantial percentage of viewers
+will  continue  to  have  access  only  to  broadcasters;  this  significant
+subgroup  is  important  partly  because  of  its  sheer  size  (unlikely  to
+drop below 20% for at least a decade) and partly because it includes
+an especially high percentage of people, including children, who are
+poor  and  poorly  educated.  In  this  stage,  broadcasters  will  in  some
+ways be akin to Newsweek, Time, and US News and World Report,
+in the sense that they will have a relatively dominant role in terms of
+sheer  numbers.  But  they  will  have  to  compete  with  other
+programmers, some general, some specialized, with analogues (most
+of  them  now  in  place)  to  Sports  Illustrated,  The  Economist,  Dog
+Fancy, National Review, National Geographic, the New Republic,
+Consumer Reports, Playboy, and many more. This third stage will
+be  marked  by  the  rise  of  digital  television,  which  is  allowing
+broadcasters  to  “multiplex,”  that  is,  to  provide  two,  three,  four,  or
+even  five  programs  where  they  could  previously  provide  only  one.
+The  result  may  be  to  make  broadcasters  themselves  more
+specialized.91  It  is  hard  to  predict  the  future  here,  but  the  best
+prediction  is  that  a  situation  of  this  kind  will  prevail  for  the  next
+decade and more.
+
+The final stage—call it one of technological  convergence—is one
+of substantial or possibly even complete shrinkage in the distinctive
+role  of  broadcasters.92  This  is  a  stage  in  which  television
+programming can be provided via the Internet, over telephone lines,
+or  both;  a  television  may  itself  be  a  simple  computer  monitor,
+connected to various programming sources from which viewers may
+make  selections.  If  it  is  economically  feasible  for  broadcasters  to
+continue as such, they are likely to have little of a special role and
+will be among a large number of providers. At most, and extending
+                                                  
+91 See note supra.
+92  This  shrinkage  may  or  may  not  occur  as  a  result  of  convergence.  For
+discussion, see Owen, supra, at 312 (“Whether convergence is inevitable, or even
+likely, is still unclear”).
+
+Chicago Law and Economics Working Paper 
+
+26
+
+the  analogy  to  Time  or  Newsweek,  they  will  be  have  a  somewhat
+larger  and  more  general  audience  than  most  of  their  competitors.
+Perhaps they will not be distinctive at all. The most extreme version
+of  this  final  stage  would  be  akin  to  the  market  for  books,  where
+people  make  individual  choices,  not  filtered  by  some  intermediary
+offering packages.93
+
+2. Regulatory options and technological change
+Each of the arguments offered here makes sense for old regime
+and  the  transitional  state.  They  also  seem  to  make  sense  for  the
+emerging  third  stage  of  multiple  options;  recall  that  even  here,  a
+substantial segment of the public will depend on broadcasters only,
+and  people  with  access  to  cable  and  other  alternatives  continue,
+statistically  speaking,  to  watch  a  disproportionate  amount  of
+broadcast fare. But arguments for public interest obligations would
+be less sensible as applied to a market in which broadcasters occupy
+no special role, partly because some of the relevant problems would
+be diminished, partly because in such a market, it seems peculiar to
+impose  on  broadcasters,  and  no  one  else,  a  special  duty  to  protect
+public  interest  goals.  In  that  market,  perhaps  everyone  should  be
+faced with some of the requirements discussed below (in particular
+the disclosure requirement). But the case for others (such as uniform
+mandates,  a  broadcaster-only  code,  or  pay  or  play)  would  be
+weakened,  not  least  since  it  would  seem  arbitrary  to  single  out
+broadcasters for such requirements.
+
+Let  us  examine,  in  more  detail,  the  force  of  the  particular
+arguments as the market changes over time. Even if informational
+influences  produce  a  degree  of  homogeneity  among  broadcasters,
+and even if broadcasters tend to follow one another, the increasing
+number  of  channels  means  that  for  most  Americans,  there  is  far
+more  heterogeneity  now  than  there  was  a  decade  ago,  and  a  great
+deal  more  heterogeneity  is  likely  in  the  near  future,  perhaps
+dramatically increasing heterogeneity. At the same time, advertisers
+are  likely  to  have  an  increasingly  weak  role  in  determining  overall
+programming  content.  When  a  few  broadcasters  exhausted  the
+market,  advertiser preferences  could have  a  more substantial  effect
+                                                  
+93  I  put  to  one  side  the  complexities  introduced  by  Amazon.com  and  various
+book clubs.
+
+27
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+than  they  now  do.  Thus  two  of  the  arguments  made
+above—involving the market failures from advertiser pressures and
+from informational cascades—are significantly weakened. Of course
+these changes should not be overstated. Recall that 32% of American
+households with televisions do not have cable television, and that a
+substantial number of Americans are likely to depend on over-the-air
+programming  for  the  not-too-distant  future;  hence  the  increasing
+heterogeneity is not quite as dramatic as it might seem.
+
+But  some  of  the  arguments  offered  above—especially  those
+focussed  on  democratic  ideals—retain  considerable  force.  Even  in
+the  very  long  term,  there  will  continue  to  be  substantial  external
+benefits  from  public  interest  programming,  benefits  that  are  not
+adequately captured by individual viewer choices. And to the extent
+that  citizens  seek  to  push  communications  policy  toward  (for
+example) more and better programming for children, or free air time
+for candidates, or greater access for the deaf people, changes in the
+evolving market offers only partial answers. Heterogeneity may be an
+inadequate solution here. It is reasonable for citizens to believe that
+there  should  be  very  general  public  exposure  to  public  issues,  and
+hence that it is not sufficient to have one, or two, or three, or even
+more  stations  (CNN,  C-SPAN,  MSNBC)  that  take  such  issues
+seriously.  Indeed,  citizens  may  favor  a  kind  of  general
+precommitment  strategy—operating  against  their  own  particular
+viewing choices—through which broadcasters, at least, are required
+to devote some time to educational or civic programming. Thus the
+presence of news-only stations, especially on cable, is not a sufficient
+response to those who want broadcasters to do more and better. It is
+insufficient  partly  because  a  significant  segment  of  the  population
+will have no access to cable at all, and partly because in their capacity
+as  citizens,  people  may  favor  a  precommitment  strategy  that
+overcomes certain individual viewing choices.
+
+In the very long run, this argument too will be weakened. As we
+have seen, the strongest objection would come when broadcasters are
+not  genuinely  distinctive;  when  this  is  the  case,  it  would  seem
+arbitrary to encourage broadcasters, but not others, to provide certain
+kinds  of  programming.  In  the  face  of  such  changes,  it  will  indeed
+make sense to adapt the proposals discussed below to a dramatically
+changed  market.  But  it  is  hard  to  explore  this  question  in  the
+
+Chicago Law and Economics Working Paper 
+
+28
+
+abstract; everything turns on the particular regulatory proposal, and
+instrument, that is at issue. The question of adaptation will arise at
+several points below. For now let us observe only that in the extreme
+situation—when broadcasters are not in any sense distinctive—the
+case for regulation limited to broadcasting would be very weak, and
+alternative  strategies,  involving  funding  of  public  interest
+programming  ,  would  be  better.  Thus  my  emphasis  here—on
+disclosure,  economic  incentives,  and  voluntary  self-regulation—is
+designed  for  a  (likely  not  inconsiderable)  period  in  which
+broadcasters continue to occupy a special role. To simplify a complex
+story,  the  very  long-term  may  call  for  a  combination  of  public
+subsidies for high-quality programming and disclosure requirements
+for general-interest stations. But in the shorter term, there is a great
+deal more to consider.
+
+IV. Disclosure
+
+Consider  a  simple  proposal:  Broadcasters  should  be  required  to
+disclose, in some detail and on a quarterly basis, all of their public service
+and  public  interest  activities.  The  disclosure  might  include  an
+accounting of any free air time provided to candidates, educational
+programming,  charitable  activities,  programming  designed  for
+traditionally  under-served  communities,  closed  captioning  for  the
+hearing  impaired,  local  programming,  and  public  service
+announcements.94  The  hope,  vindicated  by  experience  with  similar
+approaches in environmental law,95 is that a disclosure requirement
+will  by  itself  trigger  improved  performance,  by  creating  a  kind  of
+competition to do better, and by enlisting various social pressures in
+the direction of improved performance. A requirement of this sort
+would  be  part  of  a  general  trend  in  federal  regulation,  one  with
+considerable promise.96
+                                                  
+94  Current  law  requires  disclosures  of  a  subset  of  this  material:  children’s
+programming  and  non-entertainment  programming  responsive  to  ascertained
+community needs. See 47 C.F.R. 3526(a)(8)(I), (iii) and 47 C.F.R. 3527(a)(7).
+95  Madhu  Khanna  et  al.,  Toxic  Release  Information:  A  Policy  Tool  for
+Environmental Protection, 36 J. Env. Economics and Management 243 (1998).
+96  See  Wesley  A.  Magat  and  W.  Kip  Viscusi,  Informational  Approaches  to
+Regulation  (1992);  Cass  R.  Sunstein,  Informational  Regulation  and
+Informational Standing: Akins and Beyond, 147 U Pa L Rev 613, 618-29 (1999).
+
+29
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+A. Precursors
+
+Many  statutes  and  regulations  now  require  the  disclosure  of
+information.  Some  of  these  are  designed  to  assist  consumers  in
+making  informed  choices;  such  statutes  are  meant  to  be  market-
+enhancing. By contrast, others are designed to trigger political rather
+than  market  safeguards;  such  statutes  are  meant  to  enhance
+democratic processes. The most famous of these is NEPA. Enacted
+in  1972,  the  principal  goal  of  NEPA  is  to  require  government  to
+compile  and  disclose  environmentally-related  information  before
+government goes forward with any projects having a major effect on
+the  environment.97  NEPA  does  not  require  government  to  give
+environmental  effects  any  particular  weight,  nor  is  there  judicial
+review  of  the  substance  of  agency  decisions.98  The  purpose  of
+disclosure is principally to trigger political safeguards, coming from
+the government’s own judgments or from external pressure.99 Hence
+any  governmental  indifference  to  adverse  environmental  effects  is
+perfectly acceptable under NEPA: the idea behind the statute is that
+if the public is not indifferent, the government will have to give some
+weight to environmental effects.
+
+Probably  the  most  successful  experiment  in  information
+disclosure  is  the  Emergency  Planning  and  Community  Right-to-
+Know  Act  (EPCRA).100  Under  this  statute,  firms  and  individuals
+must  report,  to  state  and  local  government,  the  quantities  of
+potentially  hazardous  chemicals  that  have  been  stored  or  released
+into the environment. Users of such chemicals must report to their
+local  fire  departments  about  the  location,  types,  and  quantities  of
+stored chemicals. They must also give information about potential
+adverse health effects. On the basis of the relevant results, the EPA
+publishes pollution data about the releases of over 300 chemical from
+
+                                                  
+97 See Calvert Cliffs’ Coordinating Comm., Inc. v. United States Atomic Energy
+Comm'n, 449 F.2d 1109 (D.C. Cir. 1971).
+98  See  Strycker’s  Bay  Neighborhood  Council,  Inc.  v.  Karlen,  444  U.S.  223
+(1980).
+99 See id.
+10042 U.S.C. §§ 11,001-11050 (1994)
+
+Chicago Law and Economics Working Paper 
+
+30
+
+over 20,000 facilities.101  This has been an exceptional success story,
+one that has well exceeded expectations at the time of enactment.102
+A detailed report suggests that EPCRA has had important beneficial
+effects, spurring innovative, cost-effective programs from the EPA
+and from state and local government.103
+
+Many  other  statutes  involving  health,  safety,  and  the
+environment fall in this general category. The Animal Welfare Act is
+designed partly to ensure publicity about the treatment of animals;
+thus  covered  laboratories  are  required  to  file  reports  with  the
+government about their conduct,104 with the apparent thought that
+the  reports  will  deter  noncompliance  and  also  allow  continuing
+monitoring.  In  addition  to  its  various  command-and-control
+provisions,  the  Clean  Air  Act  requires  companies  to  create  and
+disclose  “risk  management  plans”  involving  accidental  releases  of
+chemicals; the plans must include a worse case scenario.105 The Safe
+Drinking  Water  Act  was  amended  in  1996  to  require  annual
+“consumer confidence reports,” to be developed and disseminated by
+community water suppliers.106 Statutes governing discrimination and
+medical care also seem committed partly to the idea that “sunlight is
+the best of disinfectants”107; thus they require covered institutions to
+compile reports about their conduct and compliance with applicable
+law.  The  Federal  Election  Campaign  Act  requires  political
+committees  to  disclose  a  great  deal  of  information  about  their
+activities.
+
+                                                  
+101  See  James  P.  Hamilton,  Channeling  Violence:  The  Economic  Market  for
+Violent Television Programming 302 (1998).
+102  See  Madhu  Khanna  et  al.,  Toxic  Release  Information:  A  Policy  Tool  for
+Environmental  Protection,  36  J.  Env.  Economics  and  Management  243  (1998)
+(discussing success of toxic release inventory and stockholder responses to release
+of  relevant  information);  Robert  V.  Percival  et  al.,  Environmental  Regulation:
+Law,  Science,  and  Policy  612-16  (2d  ed.  1996)  (discussing  informational
+approaches).
+103See GAO, Toxic Chemicals, Report to the Congress (1991).
+104 Animal Welfare Act, 7 U.S.C. §§ 2131-2159 (1994).
+105 42 U.S.C. 7412(r).
+106 42 U.S.C. 300 g-3 (c)(4) (1996).
+107  The  phrase  comes  from  Louis  D.  Brandeis,  Other  People’s  Money  92
+(1914).
+
+31
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+Of course there is an overlap between informational regulation
+designed to assist consumers and informational regulation designed
+to trigger political checks. A statute that requires companies to place
+“eco-labels”  on  their  products  may  produce  little  in  the  way  of
+consumer  response,  but  shareholders  and  participants  in  the
+democratic process may attempt to sanction those whose labels reveal
+environmentally destructive behavior. Companies will know this in
+advance, with likely behavioral consequences. The risk of sanctions
+from  shareholders  and  state  legislatures  may  well  produce
+environmental improvement even without regulation.108
+
+A great deal of recent attention has been given to informational
+regulation in the particular context of the communications industry.
+As an alternative to direct regulation, which raises especially severe
+first  amendment  problems,  government  might  attempt  to  increase
+information  instead.  Thus  the  mandatory  “v-chip”  is  intended  to
+permit  parents  to  block  programming  that  people  want  to  exclude
+from their homes; the v-chip is supposed to work hand-in-hand with
+a  ratings  system.109  Similarly,  a  provision  of  the  1996
+Telecommunications  Act  requires  television  manufacturers  to
+include technology capable of reading a program rating mechanism;
+requires  the  FCC  to  create  a  ratings  methodology  if  the  industry
+does  not  produce  an  acceptable  ratings  plan  within  a  year;  and
+requires  that  broadcasters  include  a  rating  in  their  signals  if  the
+relevant  program  is  rated.110  Spurred  by  this  statute,  the  networks
+have  generated  a  system  for  television  ratings,  which  is  now  in
+place.111 The question is whether disclosure requirements might be
+enlisted more generally.
+
+B. Rationale
+
+Why  has  information  disclosure  become  such  a  popular
+regulatory  tool?  There  are  several  answers.  For  various  reasons,  a
+                                                  
+108  Consider  the  eco-label  required  by  the  European  Union.  see  Council
+Regulation  880/92  of  23  March  1992,  On  a  Community  Eco-Lavel  Award
+Scheme, 1992 O.J. (L 99).
+109  See  James  P.  Hamilton,  Channeling  Violence:  The  Economic  Market  for
+Violent Television Programming 289-92 (1998).
+110 See id. at 302 (1998).
+111 See id. at 304-11.
+
+Chicago Law and Economics Working Paper 
+
+32
+
+market  failure  may  come  in  the  form  of  an  inadequate  supply  of
+information.112  Because  information  is  generally113  a  public
+good—something that if provided to one is also provided to all or
+many—workers  and  consumers  may  attempt  to  free  ride  on  the
+efforts  of  others,  with  the  result  that  too  little  information  is
+provided. For this reason, compulsory disclosure of information can
+provide the simplest and most direct response to the relevant market
+failure.
+
+It is increasingly recognized that information is often a far less
+expensive  and  more  efficient  strategy  than  command-and-control,
+which  consists  of  rigid  mandates  about  regulatory  ends  (a  certain
+percentage  reduction  in  sulfur  dioxide,  for  example),  regulatory
+means (a technological mandate, for example, for cars), or both.114 A
+chief  advantage  of  informational  regulation  is  its  comparative
+flexibility. If consumers are informed of the salt and sugar content of
+foods,  they  can  proceed  as  they  wish,  trading  off  various  product
+characteristics however they see fit. If workers are given information
+about  the  risks  posed  by  their  workplace,  they  can  trade  safety
+against  other  possible  variables  (such  as  salary,  investments  for
+children or retirement, and leisure).115 If viewers know the content of
+television  programs  in  advance,  they  can  use  market  methods  (by
+failing to watch) or political methods (by complaining to stations) to
+induce  changes.  From  the  standpoint  of  efficiency,  information
+remedies can be better than either command-and-control regulation
+or than reliance on unregulated markets alone.
+
+                                                  
+112  See  Anthony  I.  Ogus, Regulation: Legal Form and Economic Theory 121-
+125 (1994).
+113  Of  course  it  is  possible  to  give  information  more  “private  good”
+characteristics,  and  innovative  approaches  can  be  expected  in  the  next  decade.
+Consider,  for  example,  fees  for  access  to  information  on  the  Internet,  or  the
+subscription-based  Consumer  Reports;  neither  of  these  approaches  converts
+information  into  a  private  good  but  both  reduce  the  range  of  people  who  may,
+without  high  cost,  have  access  to  it.  Thus  it  is  possible  to  imagine  a  range  of
+approaches  that  would  diminish  the  cost  of  access  for  some  or  money  while
+increasing it, or holding it constant, for others.
+114  See  Anthony  I.  Ogus, Regulation: Legal Form and Economic Theory 121-
+149 (1994); Stephen Breyer, Regulation and its Reform 271-83 (1982).
+115 See Cass R. Sunstein, Free Markets and Social Justice 329-30 (1997).
+
+33
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+From  the  democratic  point  of  view,  informational  regulation
+also  has  substantial  advantages.  A  well-functioning  system  of
+deliberative democracy requires a certain degree of information, so
+that citizens can engage in their monitoring and deliberative tasks.
+Subject as they are to parochial pressures, segments of government
+may have insufficient incentive to disclose information on their own;
+consider FOIA or FECA, where the self-interest of government or
+private  groups  may  press  in  the  direction  of  too  little  disclosure.
+Thus  a  good  way  to  enable  citizens  to  oversee  private  or  public
+action,  and  also  to  assess  the  need  for  less,  more,  or  different
+regulation, is to inform them of both private and public activity. The
+very  fact  that  the  public  will  be  in  a  position  to  engage  in  general
+monitoring may well be a spur to desirable outcomes.
+
+EPCRA  is  the  most  obvious  example  here.  Sharp,  cost-
+effective, and largely unanticipated reductions in toxic releases have
+come about without anything in the way of direct regulation.116 One
+of  the  causes  appears  to  be  adverse  effects  on  stock  prices  from
+repeated disclosure of high levels of toxic releases.117 In the area of
+broadcasting, it is possible to hope that disclosure of public interest
+programming, and the mere need to compile the information each
+year,  can  increase  educational  and  public  affairs  programming
+without involving government mandates at all. Thus a primary virtue
+of informational regulation is that it triggers political safeguards and
+allows  citizens  a  continuing  oversight  role,  one  that  is,  in  the  best
+cases, largely self-enforcing.
+
+None  of  this  is  to  say  that  informational  regulation  is  always
+effective or desirable. Under imaginable assumptions such regulation
+will be inferior to command-and-control regulation and to reliance
+on  markets  unaccompanied  by  disclosure  requirements.  And  there
+are potential problems with informational strategies, which may be
+expensive, sometimes costing more than they are worth, and which
+may  be  ineffectual  or  even  counterproductive.  Whether  these  are
+convincing objections depends on the incentives faced by those who
+disclose, which are likely to differ with context. To know whether
+                                                  
+116 See Robert V. Percival et al., Environmental Regulation: Law, Science, and
+Policy 611-16 (2d ed. 1996).
+117  See  Madhu  Khanna  et  al.,  Toxics  Release  Information:  A  Policy  Tool  for
+Environmental Protection, 36 J. Env. Ec. And Management 243 (1998).
+
+Chicago Law and Economics Working Paper 
+
+34
+
+disclosure is an effective alternative to other forms of regulation, it is
+necessary to have a concrete understanding of the circumstances in
+which disclosure will fulfill its intended goals. Undoubtedly the most
+successful  cases  involve  well-organized  groups  able  to  impose
+reputational  and  financial  harm  on  firms  engaged  in  harmful
+activity.118
+
+C. The Minimal Proposal
+
+We are now in a position to discuss a disclosure requirement for
+public  interest  programming  in  somewhat  more  detail.  On  a
+quarterly basis, every broadcaster should be required to make public
+the full range of public interest and public service activities in which
+it engages in every year. The relevant activities might involve free air
+time  for  candidates,  educational  programming,  public  service
+announcements,  access  for  disabled  viewers  (as  through  closed
+captioning  or  video  descriptions),  charitable  activities,  emergency
+warnings  and  services,  and  the  like.  The  FCC  should  require  a
+completion  of  a  relatively  simple  form  to  ensure  accurate  and
+uniform  accounting,  and  FCC  staff  should  take  steps  to  sanction
+those  stations  that  have  failed  to  disclose,  or  that  have  done  so
+inaccurately. A special advantage of disclosure requirements is that
+they  appear  to  fit  well  with  the  emerging  communications  market
+insofar  as  they  allow  maximum  flexibility  and  do  not  impose
+requirements that may be rapidly outrun by changing technologies.
+Even  in  a  period  in  which  broadcasters  are  akin  to  Time  and
+Newsweek, such requirements would make a good deal of sense as a
+means of creating some democratic pressure for improvement.119 Of
+
+                                                  
+118 See Gunningham and Grabosky, supra note, at 296-300.
+119 An obvious question is whether, if the case for disclosure has been made out,
+similar  requirements  ought  to  be  imposed  on  magazines  and  even  newspapers.
+Indeed,  the  same  question  might  be  asked  about  economic  incentives  and
+voluntary  self-regulation,  as  discussed  below.  I  do  not  discuss  those  questions
+here.  For  those  who  believe  that  there  is  increasingly  little  difference  between
+television and print media, it might seem that if requirements of this sort are not
+desirable for the latter, they are also undesirable for the former. The best response
+to this argument is in Bollinger, supra note, with the suggestion that the different
+regulatory  regimes  for  the  broadcast  and  print  media  are  well-suited  to  two
+different  images  of  press  freedom,  one  image  involving  democratic  self-
+government,  the  other  involving  a  form  of  economic  laissez-faire.  Bollinger
+
+35
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+course it is reasonable to think that as the market evolves, disclosure
+requirements should be placed on all programmers, and not limited
+to broadcasters. The hope would be that such requirements would
+produce a kind of “race,” at least in some markets, to do more and
+better.
+
+Is the hope realistic? People did not anticipate that the Toxic
+Release Inventory (TRI) would by itself spur behavioral changes; the
+question is whether the same forces might operate here. The answer
+depends on whether the mechanisms that have produced significant
+voluntary changes in the environmental arena will also be triggered
+in  this  setting.  In  order  for  voluntary  improvements  to  occur,  the
+disclosure  requirements  must  be  accompanied  by  political  activity
+and  existing  norms  that  might  be  enlisted  on  behalf  of  increased
+public  interest  programming.  With  respect  to  the  TRI,  well-
+organized groups have been able to threaten, or to use, publicity so as
+to  induce  companies  to  undertake  voluntary  reductions.  It  appears
+that environmental grounds have mobilized when disclosure shows
+high  levels  of  toxic  emissions;  anticipating  this,  companies  have
+reduced emissions voluntarily.120 Thus the effect of the TRI has been
+to  draw  private  and  perhaps  governmental  attention  to  the  most
+serious  polluters,  who  have  an  incentive  to  reduce  on  their  own.
+Once this process is underway, there has been a kind of competition
+to  produce  further  reductions,  as  each  polluter  seeks  to  be
+substantially below the group of most serious polluters.
+
+The  question  is  whether  the  same  might  happen  here.  The
+answer  depends  first  on  the  existence  of  external  monitoring  and
+second  on  the  power  of  the  monitors  to  impose  reputational  or
+financial harm on broadcasters whose record is poor.121 The external
+                                                                                                                    
+believes  that  the  existing  of  two  parallel  regulatory  regimes  makes  appropriate
+space  for  each  of  these  images,  and  that  if  one  regulatory  regime  goes  wrong
+(through, for example, excessive regulation of television, or an excessive “race to
+the bottom” in magazines), the other can serve as a corrective. This Article is in
+the general spirit of Bollinger’s approach, but it attempts to develop more flexible
+tools for implementing it, tools that are better adapted to the emerging television
+market.
+120 See note supra.
+121  See  Madhu  Khanna  et  al.,  Toxics  Release  Information:  A  Policy  Tool  for
+Environmental  Protection,  36  J.  Env.  Ec.  And  Management  243  (1998);
+Gunningham and Grabosky, supra, at 296-300.
+
+Chicago Law and Economics Working Paper 
+
+36
+
+monitors  may  include  public  interest  groups  seeking  to  “shame”
+badly performing broadcasters; they may include rivals, who seek to
+create a kind of “race to the top.” From the disclosures, it should be
+clear  which  broadcasters  are  doing  least  to  promote  the  public
+interest, and perhaps those broadcasters will be specially targeted by
+private  groups  and  competitors.  The  ultimate  effect  cannot  be
+known a priori. Much depends on the possibility of private monitors.
+If  public  interest  organizations,  and  viewers  who  favor  certain
+programming, are able to mobilize, perhaps in concert with certain
+members of the mass media, substantial behavioral effects might be
+expected. It is even possible that a disclosure requirement would help
+create its own monitors. On the other hand, it is possible that toxic
+releases are such a salient and easily quantified public “bad” that a
+political response is quite likely; perhaps a failure to provide public
+interest  programming  is  a  far  less  salient  “bad.”  It  is  even  possible
+that  diverse  conceptions  of  what  counts  as  a  “bad”  would  lead  to
+inappropriate (but successful) pressures,  if (for  example)  politically
+controversial programming, or programming that challenges popular
+convictions, receives public opprobrium.
+
+But  in  view  of  the  relative  unintrusiveness  of  a  disclosure
+requirement,  and  the  flexibility  of  any  private  responses,  this
+approach  is  certainly  worth  trying.  At  worst,  little  will  be  lost.  At
+most,  much  will  be  gained,  probably  in  the  form  of  better
+programming,  and  in  any  case  in  the  form  of  greater  information
+about the actual performance of the broadcasting industry—and also
+about  the  circumstances  in  which  disclosure  requirements  will  be
+effective on their own. In light of the aspirations of most viewers, the
+likely result of disclosure will be to improve the quality and quantity
+of both educational and civic programming, in a way that promotes
+the goals of a well-functioning deliberative democracy.
+
+V. Economic Incentives
+
+In this section I explore the possibility that broadcasters might
+meet  their  public  interest  responsibilities,  not  through  a  set  of
+uniform requirements, but through economic incentives. As we will
+see, the most creative and promising approach, modeled on recent
+environmental reforms, involves “play or pay,” in which broadcasters
+are  given  a  choice  between  complying  with  public  interest
+
+37
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+requirements  or  paying  someone  else  to  put  public  interest
+programming on the air. I begin with a discussion of “play or pay,”
+and  then  move  to  a  more  ambitious  discussion  of  the  alternatives,
+growing out of the law of tort and posing a debate between market-
+suppressing and market-supplementing approaches.
+
+A. Of Nature and Coase
+
+Ronald Coase’s work on efficiency, free trades, and transactions
+costs originated in the area of communications, and in particular in
+an  attack  on  the  FCC;  but  it  has  been  most  influential  in  the
+environmental arena.122 In that area, there has been a great deal of
+dissatisfaction  with  rigid  governmental  commands,  and  there  has
+also  been  an  unmistakable  movement  in  the  direction  of  more
+flexible  economic  instruments,  which  are  likely  to  be  far  more
+efficient.123 A command might say, for example, that every coal-fired
+power plant must reduce its sulfur dioxide emissions by 50%, or that
+it  must  use  technology  of  a  governmentally  specified  kind.  With
+respect to environmental protection, incentives typically come in two
+different  forms:  pollution  fees,  imposed  on  those  who  impose
+environmental  harm,  and  tradeable  pollution  rights  or  “licenses,”
+given  to  those  who  produce  pollution.  For  example,  government
+might  say  that  companies  must  pay  a  certain  amount  per  unit  of
+sulfur  dioxide  emission.  Alternatively,  government  might  say  that
+each  company  is  permitted  to  emit  a  certain  specified  amount  of
+sulfur dioxide, but that its permission, or right, can be bought and
+sold  on  the  free  market.  On  the  pollution  fee  model,  it  pays  to
+reduce pollution simply in order to reduce the level of the tax. On
+the tradeable pollution right model, it also pays to reduce pollution,
+because the reduction can be used to engage in more of the relevant
+activity or in order to obtain money from another who cannot reduce
+so  cheaply.  Fees  or  tradeable  licenses  should  create  good  dynamic
+
+                                                  
+122 See R.H.  Coase, The Market for Goods and the Market for Ideas, 64 Am.
+Econ.  Rev.  384  (1974),  reprinted  in  R.H.  Coase,  Articles  on  Economics  and
+Economists 64 (1994); R. H. Coase, The Federal Communications Commission,
+2 J. L. & Econ. 1(1959).
+123 See Gunningham and Grabosky, supra note, at 69, 391-421.
+
+Chicago Law and Economics Working Paper 
+
+38
+
+incentives  for  pollution  reduction,  and  also  move  environmental
+protection in the direction of greater cost-effectiveness.124
+
+There is a complex literature on the choice between pollution
+fees  and  tradeable emission rights.125  The  solution  depends  largely
+on an inquiry into what government knows and does not know.126 In
+general,  a  fee  is  better  if  the  government  is  able  to  calculate  the
+damage done per unit of pollution, but has difficulty in calculating
+the appropriate aggregate pollution level. In those circumstances, a
+fee is better because the government is unlikely to err by setting it,
+whereas  a  system  of  tradeable  permits  will  produce  mistakes.  By
+contrast,  a tradeable  permit  is  better  if  the  government  knows  the
+appropriate  aggregate  level,  but  is  unable  to  calculate  the  damage
+done  per  unit  of  pollution.  In  either  case,  government  can  take
+advantage of the informational advantage held by private businesses
+participating in pollution control, so as to allow them to decide on
+the  most  effective,  least-cost  method  of  achieving  any  particular
+pollution  reduction.  If  it  is  extremely  expensive  for  company  A  to
+reduce its current level, it may choose to pay a high tax. Or—if the
+system  is  one  of  tradeable  pollution  rights—it  may  simply  pay
+someone  else,  capable  of  reducing  pollution  more  cheaply,  to
+produce  the  relevant  reduction  instead.  For  any  desired  level  of
+reduction, a system of economic incentives should produce the right
+result  at  a  lower  cost,  by  allocating  burdens  to  those  most  able  to
+bear them.
+
+B. Taxes, Public Bads, Hot Potatoes, and Cold Spots
+
+Although  the  FCC  has  experimented  with  allocating
+communications rights via auction, little thought has been given to
+the  possibility  of  using  economic  incentives  to  promote  public
+interest goals in the communications market. In principle, however,
+both  the  “fees”  approach  and  the  license  approach  may  well  be
+preferable to government commands. At least this is so if we think of
+public interest programming as a “good,” which people should pay
+                                                  
+124 See William J. Baumol & Wallace E. Oates, The Theory of Environmental
+Policy (2d ed. 1988).
+125 For an overview, see Richard H. Pildes & Cass R. Sunstein, Reinventing the
+Regulatory State, 62 U. Chi. L. Rev. 1, 72-85 (1995).
+126 See Stephen Breyer, Regulation and its Reform 271-83 (1982).
+
+39
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+for  failing  to  produce,  just  as  pollution  is  a  “bad,”  which  people
+should  pay  for  producing.  Consider  educational  programming  and
+free time for presidential elections. Suppose, for example, that ABC
+is  in  an  especially  good  position  to  produce  high-quality
+programming  for  children,  whereas  CBS  is  in  an  especially  good
+position  to  promote  high-quality  programming  involving
+presidential elections. Rather than requiring both ABC and CBS to
+produce  educational  programming  and  programming  involving
+presidential elections, the government might allow each to pay a fee
+if  it  is  to  be  relieved  of  the  requirement  of  providing  one  or  the
+other.  This  is  the  “tax”  model  of  public  interest  programming.
+Alternatively, it might adapt the emission fee model, and allow CBS
+to sell ABC its obligation with respect to educational programming,
+while  permitting  ABC  to  sell  CBS  its  obligation  with  respect  to
+presidential elections.
+
+A large problem with a tax is that it is very hard to calculate it.
+Should government use market measures of some kind, or attempt to
+capture  the  public  loss,  or  lost  public  gain,  from  the  broadcasters’
+behavior?  Either  approach  would  be  quite  difficult.  In  these
+circumstances,  the  simplest  approach  would  be  for  government  to
+experiment  with  “pay  or  play”  approaches,  in  which  broadcasters
+have a presumptive obligation to provide public service programming
+but  can  buy  their  way  out  by  paying  someone  to  provide  that
+programming instead. Such approaches have also had considerable
+success  in  the  environmental  area,  despite  a  number  of  familiar
+reservations.127  People  have  objected,  for  example,  that  emissions
+trading will make an unfortunate “statement” about pollution, thus
+legitimizing it,128 or that trading will result in the concentration of
+pollution  in  dangerous  “hot  spots,”  or  that  the  administrative
+burdens  of  a  trading  of  system  are  overwhelming.  Practice  has
+generally shown these objections to be unconvincing.129 If there is an
+analogy  between  environmental  protection  and  broadcasting
+                                                  
+127 See Stavins, supra note.
+128  See  Steven  Kelman,  What  Price  Incentives?:    Economists  and  the
+Environment 110-165 (1981).
+129  See  Robert  Stavins,  What  Can  We  Learn  From  the  Grand  Policy
+Experiment?  Lessons  from  SO2  Allowance  Trading,  12  J.  Econ.  Persp.  69
+(1998).
+
+Chicago Law and Economics Working Paper 
+
+40
+
+regulation,130  a  system  in  which  those  who  do  not  provide  public
+interest  programming  must  pay  a  kind  of  “fee”  has  an  important
+advantage, because it is so much more flexible than one in which the
+government  imposes  uniform  obligations  on  everyone.  In  this
+respect, a system of “pay or play” seems to be the most cost-effective
+means of promoting public interest goals, just as emissions trading
+are the most cost-effective means of reducing pollution. For those
+who dislike it, a public interest obligation can be treated as a kind of
+“hot potato”; fortunately, from their point of view, it is one that they
+can transfer to others, as a gift accompanied by cash.
+
+It  is  possible  to  respond,  as  has  been  conventionally  thought,
+that  public  interest  responsibilities  are  a  general  part  of  the  public
+trust and not alienable, and hence that broadcasters should not be
+permitted  to  “buy  their  way”  out  of  those  obligations.  But  it  is
+unclear what content to give to this statement; the question is what
+concrete harm would be created by a right to “pay” rather than play.
+If the pay or play option had corrosive effects on the norms of the
+broadcasting industry, by making people take public responsibilities
+less  seriously,  that  would  indeed  be  a  problem;  but  there  is  little
+reason to believe that the option would have this effect. The simple
+question is this: What if a broadcaster was willing to give $10 million
+to PBS in return for every minute, or every thirty seconds, of relief
+from  a  public  interest  responsibility?  At  first  glance,  the  nation
+would be better off as a result. Any objection to a system of tradeable
+rights would have to be more subtle.
+
+A  conceivable  problem  with  an  economic  incentive  in  this
+context  is  that  it  may  undermine  the  general  purpose  of  public
+interest  programming,  by  producing  a  situation  in  which  that
+programming  is  confined  to  a  small  subset  of  stations—“cold
+spots”—in a kind of communications equivalent, or converse, of the
+“hot spot” problem that has received attention in the environmental
+area.131  The  “hot  spots”  problem  arises  when  trades  result  in  a
+concentration  of  pollution  in  a  single  area,  with  serious  adverse
+health  effects;  it  is  generally  agreed  that  steps  must  be  taken  to
+
+                                                  
+130  See  James  Hamilton,  Channeling  Violence,  supra,  at  285-322  for  an
+instructive discussion.
+131 See Stephen Breyer, Regulation and its Reform 175-78 (1982).
+
+41
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+ensure  that  this  does  not  happen.  In  the  communications  context,
+the problem will arise if all of the widely viewed broadcasters end up
+selling their obligations to a single station or set of stations. This is
+undesirable if it results in a kind of “ghettoization” of public interest
+programming and if it is believed—as seems quite sensible—that all
+or  most  viewers  ought  to  have  access  to  some  public  interest
+programming.
+
+A second problem is both conceptual and administrative. When
+a trade is made, what is being traded? Perhaps it seems simplest, and
+most  sensible,  to  trade  minutes  for  minutes.  But  all  broadcast
+minutes are not the same. An “internal” trade could be one in which
+ABC (for example) trades an hour of prime-time programming for
+an  hour  of  3  am  programming;  an  external  trade  could  involve  a
+transfer of one hour of ABC’s highly popular evening hours to (say)
+Fox’s far less popular shows in the same period. Steps must be taken
+to ensure that in any trade, there is an equal public interest benefit
+for public interest loss. Perhaps a test of audience shares—“viewer
+per viewer” trades—is the best way to start.
+
+An approach of this kind would have the fortunate consequence
+of  helping  to  handle  the  “cold  spots”  problem  as  well.  Part  of  the
+problem can be handled by monitoring the sales to make sure that a
+high-viewer broadcaster is trading to other high-viewer stations. If
+the “minute for minute” trades were adjusted to take account of the
+number  of  viewers,  a  trade  to  a  low-viewer  station  would  be
+especially expensive. Demographic considerations could play a role as
+well.  The  details  are  less  important  than  the  suggestion  that  a
+creative  administrative  could  reduce  the  relevant  problems,  just  as
+these have been handled in the environmental arena.
+
+C. Economic Incentives and the Constitution
+
+What is the relationship between economic incentives and the
+first amendment? A direct tax on undesirable programming, or on
+the  failure  to  provide  desirable  programming,  would  raise  very
+constitutional questions. This is because they would be a regulation
+of speech on the basis of content. Whether such a regulation would
+be unconstitutional should turn on many of the questions raised in
+debates  over  the  legitimacy  of  the  “fairness  doctrine,”  designed  to
+compel  coverage  of  serious  issues  and  an  opportunity  to  speak  for
+
+Chicago Law and Economics Working Paper 
+
+42
+
+opposing views.132  Many  people  have  argued  that  with  decreasing
+scarcity, the fairness doctrine is no longer legitimate if is ever was.133
+If this objection is correct, an economic incentive in the form of a tax
+would be questionable too. The advantage of a tax over the fairness
+doctrine is that the former is far more flexible; hence if the fairness
+doctrine would be constitutional under current conditions, the same
+should be true of the proposed tax.
+
+The  point  raises  the  question  why,  if  a  tax  would  be
+constitutionally  problematic,  a  system  of  “pay  or  play,”  which  has
+similar motivations and consequences, would not be constitutionally
+problematic  as  well.  The  intuition  might  be  that  a  tax  is  a  direct
+penalty  on  a  certain  programming  content,  whereas  “pay  or  play”
+simply provides an alternative (“pay”) to a legitimate mandate. But
+this seems to be a form of wordplay. If a tax is questionable, “pay or
+play” should be questionable as well. My suggestion here is that there
+should be no constitutional objection to the extent that government
+is  acting,  in  a  viewpoint-neutral  fashion,  to  promote  educational
+goals and attention to civic affairs. Current law gives no clear answer
+to  that  question.134  For  those  who  believe  that  government  is
+prohibited from favoring programming of a particular content, “pay
+or play” should be unacceptable. The problem with this view is that
+it  seems  to  convert  the  first  amendment  into  a  species  of  Herbert
+Spencer’s  Social  Statics,  in  a  way  that  loosens  the  connection
+between the free speech principle and underlying democratic goals. If
+the first amendment is associated with democratic self-government
+and  in  particular  with  deliberative  demoracy,  “pay  or  play,”  of  the
+sort  suggested  here,  would  be  perfectly  consistent  with  the  free
+speech guarantee.135
+
+                                                  
+132  See  Syracuse  Peace  Council  v.  FCC,  867  F.2d  543  (DC  Cir  1989)  for  an
+outline of the issues.
+133 This is the FCC’s current position. See id.
+134  See  Turner  Broadcasting  Systems,  Inc.  v.  FCC,  520  US  180,  191  (1997)
+(upholding  “must  carry”  rules  as  effort  to  promote  widespread  dissemination  of
+information  from  a  multiplicity  of  sources,  but  emphasizing  that  the  rules  are
+content-neutral.  For  general  discussion,  see Cass  R.  Sunstein,  One  Case  At  A
+Time 172-207 (1999).
+135 I discuss the relationship between democratic goals and regulation of speech
+in Cass R. Sunstein, Democracy and the Problem of Free Speech 17-51 (1993).
+
+43
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+D. Expanding the Viewscreen: A Glance at the Cathedral
+
+Thus  far  I  have  been  exploring  economic  incentives  by
+contrasting  taxes  and  tradeable  rights  with  command-and-control
+regulation.  But  if  we  wanted  a  more  complete  picture,  we  would
+widen the viewscreen a bit. In a classic Article, Guido Calabresi and
+A. Douglas Melamed proposed four “rules” that courts might adopt
+for  nuisance  suits.136  Two  of  the  rules  come  from  a  situation  in
+which  either  the  plaintiff  or  the  defendant  is  given  the  relevant
+entitlement, and it is protected via a “property rule,” in which case
+the entitlement could be reallocated only through a trade. The other
+two  rules  come  from  a  situation  in  which  either  is  given  an
+entitlement  protected  by  a  “liability  rule,”  in  which  case  the
+entitlement could be reallocated through a legally forced exchange, at
+a  price  determined  through  the  legal  system  (assumed  to  be  the
+market  price).  Calabresi  and  Melamed  also  discuss  “inalienability
+rules,”  in  which  no  exchanges  are  permitted,  either  voluntarily  or
+through the legal system.
+
+There is a great deal of room for exploring, through this lens,
+the  system  of  public  interest  regulation.  If  public  interest
+programming is desirable, and if certain programming is undesirable,
+it may make sense to think of ways of requiring broadcasters to pay
+“damages,”  or  instead  to  require  the  taxpaying  public  to  pay  for
+better programming. A serious problem is of course one of valuation.
+Suppose  that  certain  programming  (educational  or  civic,  for
+example) is a public good, producing positive externalities, and that
+certain programming (violent material, for example) is a public bad,
+producing  negative  externalities.  How  can  government  assign
+monetary  values  to  the  desirable  and  undesirable  effects?  Is  it
+constitutional  for  government  to  do  so?  These  questions  are  hard
+enough  in  the  area  of  torts;  they  are  far  harder  in  the  context  of
+broadcasting. I restrict myself here to a comparison of some leading
+alternatives.
+
+Rule  1.  Government  requires  all  broadcasters  to  provide  public
+
+interest programming; no bargaining is allowed.
+
+                                                  
+136  Guido Calabresi and A. Douglas Melamed, Property Rules, Liability Rules,
+and Inalienability: One View of the Cathedral, 85 Harv. L. Rev. 1089 (1972).
+
+Chicago Law and Economics Working Paper 
+
+44
+
+Comment: This is the traditional model, with the debate being
+about  its  scope;  thus  the  number  of  obligations  was  sharply
+introduced  in  the  1980s,  but  without  rethinking  the  basic  model.
+Under  this  system,  the  public’s  interest  in  the  relevant
+programming137  is  protected  by  an  inalienable  property  rule.  The
+entitlement  is  granted  to  the  government,  and  it  is  entitled  to
+mandate broadcaster performance. Thus broadcasters have a kind of
+“split” property right; they own the right to broadcast as they choose
+(in general), but the public has a kind of lien on the property, giving
+it ownership rights over certain areas. Those who like the traditional
+approach  appear  to  think  that  it  has  good  social  consequences,  by
+ensuring  that  public  interest  programming  is  not  relegated  to
+unpopular  times  and  channels,  and  also  that  it  has  desirable
+“expressive” effects, by affirming the status of broadcasters as public
+trustees. As we have seen, it also has several possible problems; its
+rigidity  is  likely  to  lead  to  inefficiency,  and  it  may  well  produce
+unintended  adverse  consequences,  as  in  the  case  of  the  fairness
+doctrine.
+
+Rule  2a.  Government  requires  broadcasters  who  do  not  provide
+public  interest  programming  to  pay  a  kind  of  “damage  award,”  to  be
+determined  by  government  and  then  used  to  fund  public  interest
+programming by others, such as PBS..
+
+Comment:  Under  this  approach,  the  public  continues  to  have
+the relevant entitlement, which is protected by an unusual liability
+rule. The broadcasters’ failure to provide educational programming
+for children, or free air time for candidates, would count as a kind of
+social  harm  for  which  broadcasters  would  have  to  pay.  (The  same
+might  be  said  of  the  provision  of  violent  or  sexually  explicit
+programming, though here the first amendment problems would be
+quite  serious.)  One  problem  with  this  approach  is  the  need  to
+calculate the level of the “damage award.” There are no clear market
+measures  for  this  amount,  which  will  therefore  have  a  level  of
+arbitrariness.
+
+Rule 2b. Government requires each broadcaster to provide a certain
+level public interest programming, but permits broadcasters to sell their
+
+                                                  
+137  I  am  so  describing  it  for  convenience,  without  making  any  normative
+judgment.
+
+45
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+obligations  (accompanied  by  money)  to  others,  at  a  market-determined
+rate.
+
+Comment: This is akin to 2a, in the sense that the public has
+the relevant entitlement, which protected by a kind of liability rule;
+but  here  the  market,  rather  than  the  legal  system,  determines  the
+value  of  not  playing  the  public  interest  programming.  Hence  one
+station might sell to another its obligation to provide, say, one hour
+of  educational  programming;  the  selling  station  would  pay  the
+market-determined  amount  to  ensure  that  the  buying  station  will
+find  it  worthwhile  to  take  on  the  new  duty.  This  kind  of  market
+determination  could  be  a  substantial  advantage  in  light  of  limited
+information on the government’s part; government is an extremely
+poor position to calculate any such “damage award.”
+
+As  compared  with  Rule  1,  a  potential  problem  with  this
+approach is that some people may avoid the stations that “play” and
+may not see the relevant programming at all. On the other hand, the
+empirical question remains whether under Rule 1, most members of
+the  viewing  audience  will  see  and  benefit  from  the  mandated
+programming.
+
+ Rule 2c: Government establishes a minimum total content of public
+
+interest  broadcasting  on  broadcast  networks  each  year  (for  example,  six
+hours  of  free  air  time  for  candidates,  150  hours  of  educational
+programming  for  children),  assigns  initial,  pro  rate  obligations  to  each
+broadcaster,  and  then  permits  broadcasters  to  trade  the  obligations  at
+market-determined prices.
+
+Comment: This is very close to 2b; the only difference is that it
+is a precise analogy to certain initiatives in environmental law, where
+government establishes a maximum level of pollution in the relevant
+area,  provides  pollution  permits,  and  then  allows  trades  among
+polluters.138 A disadvantage of this approach, as compared to 2a, is
+that  it  may  be  harder  to  calculate  the  total  level  of  appropriate
+program than to decide on the appropriate for tax for those who do
+not  play.  On  the  other  hand,  the  opposite  may  be  true.139  An
+                                                  
+138 This is the acid deposition program under the Clean Air Acr, 42 U.S.C.7651
+et seq.
+139  These  are  brief  notes  on  a  complex  issue.  For  details  in  the  environmental
+context,  see  Jonathan  Baert  Wiener,  Global  Environmental  Regulation:
+Instrument Choice in the Legal Context, 108 Yale LJ 677, 706-35 (1999).
+
+Chicago Law and Economics Working Paper 
+
+46
+
+additional difficulty, as discussed above, is that broadcasting hours
+are  not  fungible.  An  hour  of  children’s  programming  at  3  am  on
+Monday morning is a lot less valuable than at 9 am on Saturday.
+
+Rule  3a.  Government  pays  broadcasters  (at  reasonable  but
+
+government-determined rates) to provide public interest programming.
+
+Comment:  Under  this  approach,  the  broadcasters  have  the
+relevant  entitlement,  which  is  protected  by  a  liability  rule.  The
+broadcaster owns the entitlement, but the government is permitted
+to obtain a forced exchange, just as it is in the general law of eminent
+domain.  In  fact  it  is  possible  to  see  some  kind  of  payment  as  the
+constitutionally  compelled  solution,  at  least  if  the  right  to  provide
+such  programming  as  broadcasters  choose  is  taken  to  be,  by
+constitutional  decree,  an  entitlement  in  broadcasters.  Thus,  for
+example, government might be able to compel coverage of important
+issues,  or  attention  to  the  needs  of  children,  or  programming
+involving emergencies; but the public has to pay.
+
+Interestingly,  government  appears  not  to  have  tried  this
+approach  in  the  United  States,  at  least  not  as  a  general  rule.  An
+advantage  of  this  approach  is  that  it  should  not  be  difficult  to
+calculate  the  value  of  the  exchange;  the  market  will  answer  that
+question. This is an important advantage over Rule 2a. On the other
+hand, Rule 3a has probably been resisted, as compared with 1, 2a,
+and 2b, on the ground that because broadcasters are beneficiaries of
+public largesse, they should not be paid to promote public interest
+goals. This is of course a distributional concern, and the underlying
+judgment—that  “broadcasters,”  rather  than  “taxpayers,”  should
+pay—is not clearly correct in light of the complexity of the incidence
+of the burden imposed under 1 and 2a or 2b. The burden under the
+latter rules does not simply fall on “broadcasters” but more likely on
+advertisers and hence on consumers—perhaps to the benefit of those
+who  advertise  in  newspapers  and  on  cable.  Rule  3a  might  be
+preferable  if  it  is  amended  as  suggested  in  Rule  5a,  which  would
+require broadcasters to buy spectrum rights.
+
+A  serious  problem  with  this  kind  of  system  is  that  it  may
+provide broadcasters with an incentive to produce less public interest
+broadcasting on their own than they otherwise would, or at least to
+understate  the  amount  that  they  would  voluntarily  provide.  In  an
+unrestricted market, political and shareholder pressures, conscience,
+
+47
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+and advertiser and viewer demand will result in a nontrivial amount
+of  public  interest  programming.140  But  if  government  proposes  to
+pay  broadcasters  for  whatever  public  interest  programming  they
+provide,  voluntary  service  may  be  substantially  reduced.  This  is  a
+pervasive problem with paying people to do good, or not to do bad;
+the payment may induce less of the good or more of the bad.141 The
+question for rule 3 is whether it is possible to generate a “baseline
+production” level from which any subsidy could be calculated.
+
+ Rule  3b.  Government  must—and  does—buy  the  right  to  ensure
+
+public interest programming, at market-determined rates
+
+Comment:  This  is  a  variation  on  3a  in  the  sense  that  it
+transforms  the  broadcasters’  entitlement  into  one  protected  by  a
+property rule. It is akin to a system of markets in broadcasting, but
+with two qualifications: broadcasters are not required to pay for their
+entitlement  in  the  first  instance,  and  government  stands  ready  to
+compete  with  others  who  seek  to  obtain  access  to  viewers.  One
+advantage of 3b over 3a is that it operates on the basis of market-
+determined prices; no one has to calculate a special government rate.
+But  if  one  believes  that  existing  fare  is  unproblematic,  the
+government’s  purchases  will  be  wasteful.  And  those  committed  to
+public  interest  programming  may  object  that  government  will  not
+purchase enough (unless this is specified in some way in advance);
+they may also object that so long as licenses are being given for free,
+other rules, not given a “windfall” to broadcasters, are better.
+
+Rule 4. Broadcasters provide such public interest broadcasting as they
+
+choose, including none at all.
+
+Comment:  On  this  approach,  the  broadcasters’  interest  is
+protected  by  a  property  rule.  Broadcasters  own  the  relevant
+entitlement.  Just  as  occurs  in  an  ordinary  market,  people  can  pay
+broadcasters  to  provide  public  interest  programming,  at  market
+determined  prices.  The  problem  with  this  approach  is  that  the
+market price might be too high, for all of the reasons discussed in
+Part IB of this Article. This approach is similar to Rule 3b, except
+that  government  does  not  stand  ready  to  ensure  a  certain  level  of
+public interesting programming.
+
+                                                  
+140 See National Association of Broadcasters, supra note.
+141 See Saul Levmore, Carrots and Torts (unpublished manuscript 1999).
+
+Chicago Law and Economics Working Paper 
+
+48
+
+Rule 5a. Broadcasters must buy, via auction, the right to broadcast,
+and once they do that, they can provide such public interest broadcasting as
+they choose, including none at all.
+
+ Comment: This is a kind of ideal market solution. It does not
+involve a governmental “giveaway” of a scarce resource, and after the
+valuable commodity has been purchased, free trades are allowed. It
+seems  to  have  all  the  advantages  of  Rule  4,  with  the  further
+advantage that the valuable property right is purchased rather than
+simply conferred. The problems with this approach should be easy to
+identify from section IB of this Article.
+
+Rule 5b. Broadcasters must buy, via auction, the right to broadcast,
+but once they do that, they may be asked or (if for some reason necessary)
+compelled  to  provide  public  interest  broadcasting  at  market-determined
+prices.
+
+Comment:  This  is  quite  similar  to  5a.  The  difference  is  that
+government stands ready to pay for public interest programming on
+broadcast  stations,  at  market  prices;  and  if  broadcasters  for  some
+reason refuse, government can force an exchange. Under 5b, part of
+the entitlement is owned, but protected only by a liability rule. This
+approach is in one sense a cousin of 2b. The major difference is that
+here the taxpayers are paying for public interest programming (at the
+same time that they receive money from the sale of the spectrum),
+rather  than  “broadcasters.”  The  most  important  difference  is
+therefore  distributional.  As  noted  above,  that  difference  is  more
+complex  than  it  seems  in  light  of  the  fact  that  when  a  burden  is
+imposed on “broadcasters,” their advertisers are likely to be paying
+much of the bill, and the result will be complex effects on consumers,
+on other communications outlets, and on advertising choices. There
+is no simple redistribution, in 2b, from “broadcasters” to the “public.”
+Rule 5c: Broadcasters must buy, via auction, the right to broadcast;
+once they do that, they may be subject to public interest obligations, but
+they can pay a “damage award,” to be used by some other station to support
+public interest programming, if they fail to do so.
+
+Comment: This should also decrease the amount paid for the
+
+entitlement, as compared with Rule 5a. This is a pay or play version
+of Rules 5a and 5b. The problem here lies in determining the level of
+any such “damage award.” This approach is in one sense a cousin of
+Rule 2a, as pay or play systems.
+
+49
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+A full understanding of these possibilities would much facilitate
+both conceptual and empirical inquiry. Undoubtedly a choice among
+the  various  options  should  depend  partly  on  the  particular  public
+interest  obligation  involved;  a  requirement  of  emergency  warnings
+might  take  the  form  of  Rule  1,  whereas  a  requirement  of  free  air
+time for candidates might be some combination of Rules 1, 2b, and
+5b. The analysis thus far suggests that Rules 2b and 5b have special
+advantages  over  the  alternatives.  Rule  2b,  the  basic  pay  or  play
+system, seems well-suited to the current period, as a kind of interim
+improvement over the regulatory status quo. In some areas, Rule 5b
+may  well  be  better  in  the  longer  term,  as  broadcasters  come  to
+resemble general-interest magazines. Movement in the direction of
+selling  the  spectrum,  rather  than  giving  it  away  to  preselected
+owners, would also be highly desirable.
+
+VI. Voluntary Self-Regulation:
+Aspirations, Trustees, and “Winner-Take-Less” Codes
+In  this  section  I  discuss  the  possibility  of  promoting  public
+interest goals through voluntary self-regulation, as through a “code”
+of conduct to be issued and enforced by the National Association of
+Broadcasters (NAB). For many decades, in fact, the NAB did indeed
+impose a code, partly to promote its economic interests (by raising
+the  price of advertising),  partly  to fend off regulation (by showing
+that the industry was engaged in self-regulation), and partly to carry
+out the moral commitments of broadcasters themselves. A code has a
+great  deal  of  potential.  Above  all,  it  could  address  a  far  greater
+number  of  problems  than  an  economic  incentive  (for  first
+amendment reasons), and it appears to have far more potential for
+producing good, and reducing bad, than a disclosure requirement.
+
+For example, a code could address all public interest obligations
+thus far, but also attempt to protect against sexually violent material,
+against subliminal advertising, against sensationalistic treatment of
+politics, and against a wide range of other problems with television.
+The  question  is  whether  it  is  possible,  in  the  current  era,  for
+broadcasters  to  overcome  some  of  the  unfortunate  effects  of  the
+marketplace with voluntary measures. An underlying question, likely
+to be faced in many areas of regulatory policy both domestically and
+internationally,  is  whether  a  code  would  work  as  a  kind  of
+
+Chicago Law and Economics Working Paper 
+
+50
+
+undesirable  cartelization  or  instead  as  protection  against  an
+undesirable “race to the bottom.” I suggest that a code might do a
+great deal of good, partly because of the likely existence of external
+monitors, partly because of a code’s capacity to help develop a kind
+of internal morality likely to affect many of its signatories. A general
+lesson is that the antitrust laws ought not to be invoked too readily
+to  prevent  producers  from  undertaking  cooperative  action  in
+circumstances  in  which  competition  is  producing  palpable  social
+harms. In such contexts, a “code” can provide some of advantages of
+government  regulation,  but  do  so  in  a  more  flexible  and  better-
+informed fashion. Thus it is hazardous to invoke the antitrust laws to
+prevent an industry to provide the kinds  of  benefits  that  might  be
+provided, more crudely and expensively, by direct regulation.142
+
+A. The Problem and A Recently Emerging Strategy
+
+Notwithstanding the qualifications described above, competitive
+pressures often can do a great deal in providing programming that
+people  would  like  to  see.  In  an  era  of  cable  television,  and  an
+increasingly  large  range  of  options,  competitive  pressures  will  be
+especially in producing “niche” programming for people who have a
+particular  interest  in  serious  programming.  The  communications
+market increasingly resembles the market for magazines; recall the
+possibility,  in  a  digital  market,  of  over  one  thousand  stations.  But
+those competitive pressures also have a downside. They can lead to
+sensationalistic, prurient, or violent programming, and to a failure to
+provide sufficient attention to educational values, or to the kind of
+programming  that  is  indispensable  to  a  well-functioning
+democracy.143  This  is  so  especially  in  light  of  the  fact  that  a  small
+relative  advantage  can  led  to  huge  increases  in  viewers,  a  fact  that
+presses  television  in  tabloid-like  directions.  As  Robert  Frank  and
+Philip Cook have suggested, “[I]ncreasingly impoverished political
+debate is yet another cost of our current cultural trajectory. Complex
+modern  societies  generate  complex  economic  and  social  problems,
+and the task of choosing the best course is difficult under the best of
+                                                  
+142  See  Robert  Frank  and  Philip  Cook,  The  Winner-Take-All  Society  225-27
+(1995).
+143  See  James  P.  Hamilton,  Channeling  Violence:  The  Economic  Market  for
+Violent Television Programming, supra,  at 129-284 (discussing violence)..
+
+51
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+circumstances. And yet, as in-depth analysis and commentary give
+way  to  sound  bites  in  which  rival  journalists  and  politicians
+mercilessly  ravage  one  another,  we  become  an  increasingly  ill-
+informed and ill-tempered electorate.”144
+
+It  would  be  possible  to  respond  to  the  harmful  effects  of
+competitive pressures in various ways. Probably the simplest response
+would take the form of voluntary self-regulation, through some kind
+of  “code”  of  good  programming;  this  approach  is  specifically
+designed  to  respond  to  the  problems  that  can  be  introduced  by
+market  pressures.  In  various  nations,  including  the  United  States,
+cooperative action has played a constructive role in situations of this
+kind.145 Though it has yet to receive much academic commentary,146
+voluntary  self-regulation  via  industry  agreements  is  emerging  as  a
+regulatory  strategy  of  choice,  especially  in  the  environmental
+arena.147  The  EPA,  for  example,  has  encouraged  companies  that
+produce  pesticides  to  agree  on  pesticide  reduction  strategies,  and
+here  the  fact  of  broad  agreement  is  crucial.148  California  has
+attempted  to  deal  with  the  problem  of  workplace  accidents  via  a
+“cooperative  compliance  program”  involving  self-enforced  safety
+plans on large construction projects. The result has been to produce
+significant drops in accident rates.149 Self-regulating agreements are
+now  in  place  in  Canada’s  system  for  forest  management;  in  the
+Responsible Care program of the chemical industry, now operating
+in more than forty countries; in national regulation of nuclear power
+plants.150
+                                                  
+144 See Robert H. Frank and Philip J. Cook, The Winner-Take-All Society 203
+(1995).
+145  See  the  discussion  of  ethical  code  in  Israel  in  Moshe  Negbi,  The  Enemy
+Within  14  (Joan  Shorenstein  Center,  Harvard  University,  Discussion  paper  D-
+35, November 1998). Note also that many international bodies attempt to certify
+quality,  in  a  kind  of  cooperative  action  designed  to  reduce  adverse  effects  of
+market pressures.
+146  An  exception  is  Neil  Gunningham  and  Joseph  Rees,  Industry  Self-
+Regulation: An Institutional Perspective, 19 Law & Policy 363 (1997).
+147 See Gunningham and Graboski, supra, at 50-56, 300-07.
+148 Id. at 300.
+149 See Gunningham and Rees, supra, at 369.
+150 Id. at 51.
+
+Chicago Law and Economics Working Paper 
+
+52
+
+What  accounts  for  the  increasing  popularity  of  industry  self-
+regulation,  as  part  of  the  general  project  of  “reinventing
+government”151?  From  the  industry’s  standpoint,  self-regulation
+allows  far  more  flexibility  than  government  mandates.  From  the
+standpoint of government itself, a special advantage of codes is that
+they  avoid  the  kind  of  informational  overload  that  comes  from
+government prescriptions; it is partly for this reason that voluntary
+agreements among companies have had good effects in the area of
+occupational safety and health.152 In a point of special relevance to
+television,  codes  also  have  been  found  to  have  the  “ability  to
+influence community attitudes,” in a way that tends to contribute to
+the “development of a custodial ethic.”153 Thus codes have helped to
+develop “an effective institutional morality that brings the behavior
+of industry members within a normative framework.”154
+
+Such  cooperative  action  often  makes  people  concerned  about
+antitrust violations and self-interested profit-seeking under a public-
+spirited guise. This is of course a risk, but the antitrust law can go
+wrong  when  it  prevents  certain  cooperative  action  that  overcomes
+palpably  adverse  effects  of  market  pressures.  Indeed,  the
+International  Standards  Organization  is  designed  specifically  to
+ensure  a  form  of  cooperation  designed  to  overcome  those  adverse
+effects155;  the  question 
+is  whether  that  experience  has
+communications analogues.
+                                                  
+151 See symposium, Industry Self-Regulation, 19 Law and Policy 300 (1997).
+152  See  J.V.  Rees,  Reforming  the  Workplace:  A  Study  of  Self-Regulation  in
+Occupational  Safety  and  Health  (1988);  John  Mendenhall,  Regulating
+Occupational Safety and Health (1989).
+153 Id.
+154 See Gunningham and Rees, supra, at 371-72.
+155  See,  e.g.,  Profit  Bows  to  Ethics,  Independent  (London),  Oct.  26,  1997,
+Sunday,  at  3.(stating  “Some  of  the  world’s  biggest  companies  are  putting  their
+weight  behind  a  new,  verifiable  code  of  conduct  intended  to  answer  mounting
+consumer criticism of the exploitative conditions under which the goods they sell
+are  produced  in  poor  countries.  .  .  .  The  code,  called  SA8000  (Social
+Accountability 8000), is the brainchild of the Council on Economic Priorities, an
+American public interest group, which tries to improve corporate responsibility. It
+has been drawn up by companies, non-governmental organisations, trade unions,
+and  other  interested  groups,  and  is  due  to  start  operating  next  year.    The  code
+covers  the  basic  issues  of  child  labour,  forced  labour,  health  and  safety,  trade
+
+53
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+My emphasis here is on allowing programmers and journalists
+to do what, in an important sense, they would actually prefer to do.
+It is worth underlining this point. Many journalists in the world of
+broadcasting  would  very  much  like  to  do  better156;  competitive
+pressures  are  the  problem,  not  the  solution,  and  a  voluntary  code
+could help them and the public as well.
+
+B. History
+
+development over time:157
+
+The  idea  of  a  broadcasting  code  is  nothing  new.  Consider  its
+
+1. Origins and precursors: The spectrum and Roosevelt
+The idea of a broadcasting “code” has a long history. The NAB
+was founded in 1923, and it first attempted to produce a degree of
+self-regulation in 1926, as a response to the “chaos” widely perceived
+to have been produced by interference and piracy. Some progress was
+made,  but ultimately the agreement  broke  down; hence  legislation
+was necessary, in the form of the Radio Act of 1927.
+
+The initial NAB code was produced in 1928. It included some
+content  guidance,  but  it  was  quite  vague  and  also  lacked  an
+enforcement mechanism. Just one year later the NAB adopted a new
+code,  involving  ethics  and  standards  of  commercial  practice.  For
+example,  the  code  banned  “fraudulent,  deceptive  or  obscene”
+material, “false, deceptive, or grossly exaggerated advertising claims,
+and  “offensive”  material.  But  the  continuing  imprecision  of  this
+
+                                                                                                                    
+union rights, discrimination, discipline, working hours, and pay. . . . As the name
+SA8000  suggests,  it  is  the  first  to  be modelled on existing and widely accepted
+commercial standards such as IS09000, drawn up by the International Standards
+Organization in Geneva, which is used to determine whether companies have the
+management systems to meet required product quality.    But the real strength of
+the  new  approach  is  commercial  sanctions.  A  company  which  adopts  the  code
+also  agrees  to  be  independently  inspected  to  see  whether  it  is  abiding  by  the
+conditions laid down. It will be able to attract customers and gain a competitive
+advantage  by  advertising  the  fact  that  its  factories  and  suppliers  meet  the
+standard.”
+156 See Schechter, supra note.
+157 I draw here on Mark M. MacCarthy, Broadcast Self-Regulation: The NAB
+Codes, Family Viewing Hour, and Television Violence, 13 Cardozo Arts & Ent.
+L.J. 667 (1995).
+
+Chicago Law and Economics Working Paper 
+
+54
+
+code, together with the lack of an effective enforcement mechanism,
+made it something of limited usefulness.
+
+The  next  major  step  resulted  from  President  Roosevelt’s
+National  Recovery  Administrative  Codes  in  1933.  The  NAB
+submitted a code of fair practices to the NRA, and on November 27,
+1933, President Roosevelt signed it and gave it the force of law. The
+result  included  a  seven-person  Broadcaster  Code  Authority,
+designed  to  supervise  compliance.  But  the  National  Recovery  Act
+was  struck  down  in  1935  by  the  Supreme  Court,  and  the  Code
+Authority  was  eliminated  along  with  the  “law”  that  President
+Roosevelt had signed.
+
+2. After the New Deal, and increased content control
+Soon thereafter the NAB produced a new voluntary code, which
+was largely ignored. But in 1938 the NAB produced another, more
+specific code and also an explicit enforcement authority, the NAB
+Code Committee. Part of the reason for the new development was
+the increasing willingness of the FCC to regulate both structure and
+content—and a specific warning, by the Chairman of the FCC (after
+the  broadcast  of  War  of  the  Worlds)  that  without  industry  self-
+policing, government involvement was likely.
+
+The  1938  code  included  a  number  of  important  provisions.
+Among other things, it (a) required broadcasters to allot time fairly
+for discussion of controversial views; (b) banned the sale of time for
+the airing of controversial views; (c) asked broadcasters to cooperate
+with educational groups for the airing of educational programming;
+(d)  required  fair  and  accurate  news  programs;  and  (e)  regulated
+commercials  by  limiting  the  time  and  length  of  advertisements.
+There  were  also  prohibitions  on  hard  liquor  advertising.  A  code
+committee would enforce the Code by determining whether a station
+was in compliance. Notably, the head of the FCC publicly approved
+the code, and the American Civil Liberties Union described it as “a
+great step forward in formulating a policy in the public interest.”
+
+3. Television.
+All  of  these  steps  involved  radio,  but  the  1938  code  was  the
+unmistakable  precursor  of  the  eventual  television  code.  In  its  first
+period, television witnessed a pattern that generally characterized the
+past  debates  over  radio  and  late  twentieth  century  debates  over
+
+55
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+television: legislative concern, proposed legislation, steps toward self-
+regulation, and little or no legislation or regulation.
+
+In  1951,  members  of  Congress  proposed  a  National  Citizens
+Advisory Board for Radio and Television, to oversee programming
+content.  At  about  the  same  time  the  NAB  began  to  draft  its  first
+television  code  in  1952,  apparently  in  direct  response  to  a
+congressional  threat  of  legislation.158  The  new  code  had  a  broad
+reach,  emphasizing  in  particular  educational  and  cultural
+programming.  It  also  contained  content  restrictions  on  display  of
+violent action and sexual material.
+
+Compliance  with  the  Code  was  voluntary.  (Note  also  that
+station operators who were not members of the NAB were eligible to
+subscribe.) Its enforcement provisions were quite modest. The basic
+mechanism came in the form of a clearinghouse for complaints. In
+addition,  subscribers  could  display  a  code  seal  (the  NAB  “Seal  of
+Good  Practice”),  and  permission  to  display  the  seal  would  be
+withdrawn  for  “continuing,  willful,  or  gross”  violations.  Thus  the
+only formal sanction was that the noncomplying station owner could
+not display the seal. But there were informal pressures too. Stations
+who  sought  license  renewal  were  likely  to  have  prompt  FCC
+processing  if  they  adhered  to  the  code.  Moreover,  some  people
+believe  that  subscription  to  the  Code  was  appealing  to  those  who
+bought advertising time, because the Code contained limits on the
+length  and  frequency  of  commercials,  which  would  enhance  the
+prominence  of  the  announcement.  Some  stations  in  the  United
+States did not adhere to the Code, but the vast majority chose to do
+so.
+
+4. Family viewing
+In  1962,  the  FCC  proposed  to  make  parts  of  the  code  into  a
+legal mandate. The industry successfully resisted this step. But there
+was a continuing pattern of interaction among regulatory proposals,
+legislative reaction, public concern, and self-regulation. Of these the
+most  important  involved  1970s  concerns  about  violence  on
+television.  The  industry  responded  through  the  “family  viewing
+policy,” saying that inappropriate entertainment programming would
+                                                  
+158  See Daniel L. Brenner, The Limits of Broadcast Self-Regulation Under the
+First Amendment, 27 Stan. L. Rev. 1527, 1529 (1975).
+
+Chicago Law and Economics Working Paper 
+
+56
+
+not be shown between 7 pm and 9 pm eastern standard time. This
+was a distinctive form of self-regulation. But the Writers Guild of
+America  challenged  the  policy  on  first  amendment  grounds  (see
+below), arguing that the policy was not voluntary self-regulation but
+was in fact a produce of government coercion.
+
+In  a  controversial  decision,  the  trial  court  accepted  the
+challenge,  and  barred  the  NAB  from  enforcing  the  policy.159  The
+court  of  appeals  overturned  the  decision  on  the  ground  that  the
+district court was not the right forum to resolve these issues in the
+first instance.160 The court of appeals said that the issue should first
+be  resolved  by  the  FCC.  Although  the  decision  of  the  court  of
+appeals  was  jurisdictional,  that  court  suggested  considerable  doubt
+about  the  district  court’s  judgment:  “It  simply  is  not  true  that  the
+First Amendment bars all limitations of the power of the individual
+licensee  to  determine  what  he  will  transmit  to  the  listening  and
+viewing public.” 161
+
+The  FCC  ruled  in  1983  that  there  had  been  no  government
+coercion and that the NAB had adopted the family viewing policy
+voluntarily. In its key passage the FCC wrote, “[v]oluntary industry
+action is often preferable to governmental solutions, and an industry
+frequently addresses a problem in order to forestall regulation by the
+Government; conversely, it is not unusual for a regulatory body to
+forego enacting rules when the regulated industry voluntarily adopts
+standards  which  deal  with  a  perceived  problem.”162  In  June  1979,
+however, the Justice Department filed the antitrust suit described in
+detail below, resulting in the demise of the television code.
+
+In the 1980s, continuing congressional concern about televised
+violence led to a new law exempting from the antitrust law networks,
+broadcasters,  cable  operators  and  programmers,  and  trade
+association, in order to permit them to generate standards to reduce
+
+                                                  
+159  Writers Guild of Am. West v. FCC, 423 F. Supp. 1064 (C.D. Cal. 1976),
+vacated  sub  nom.  Writers  Guild  of  Am.,  West  v.  American  Broadcasting  Co.,
+609 F.2d 355 (9th Cir. 1979), cert. denied, 449 U.S. 824 (1980).
+160  Writers  Guild  of  Am.,  West  v.  American  Broadcasting  Co.,  609  F.2d  355
+(9th Cir. 1979), cert. denied, 449 U.S. 824 (1980).
+161 609 F.2d at 364.
+162 NAB Television Code, Report, 95 F.C.C.2d 700, 710 (1983).
+
+57
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+the amount of violence on television.163 But there was considerable
+doubt  about  whether  an  explicit  exemption  was  necessary;  a  1993
+opinion from the Department of Justice said that the industry could
+cooperate to reduce television violence without offense to the law of
+antitrust.164
+
+In  June  1990  the  NAB  issued  new,  quite  tepid  “voluntary
+programming principles” to cover violence, indecency and obscenity,
+drugs  and  substance  abuse,  and  violence.  The  new  standards  were
+reaffirmed in June 1991, and in 1992, ABC, NBC, and CBS issued
+and agreed to adhere to a set of new standards, although without an
+enforcement mechanism. Thus in the 1990s self-regulation can be
+found in various places: the advance parental advisory system, joint
+advisory guidelines issued by the four networks, NAB principles, and
+an  annual  public  assessment,  by  the  four  networks,  of  television
+violence.
+
+C. A Code: Sample Provisions
+
+The  question  is  whether  it  might  be  possible  to  adopt  a  new
+code  for  broadcasting,  specifically  designed  for  the  new
+communications  market.  Such  a  code  might  update  the  old  NAB
+code,  and  help  overcome  current  problems,  without  having  the
+degree of tepidness of the existing “standards.” A code might even
+promote some of the goals associated with deliberative democracy.
+
+What  provisions  might  a  new  code  include?  An  important
+question  involves  appropriate  specificity;  quite  clear  provisions
+(“three hours of educational programming per week”) risk excessive
+rigidity,  whereas  vague  provisions  (“reasonable  efforts  to  provide
+educational  programming  per  children”)  risk  meaninglessness.
+Discussions  of  code-making  in  general  have  stressed  the  need  for
+“the  public  announcement  of  the  principles  and  practices  that  the
+industry presumptively accepts as a guide to appropriate conduct and
+also  as  a  basis  fo  evaluating  and  criticizing  performance.”165  This
+point argues in favor of a degree of specificity.
+
+                                                  
+163 See 47 U.S.C. § 303(c).
+164 See Letter from Sheila Anthony, Assistant Attorney General for Legislative
+Affairs, U.S. Department of Justice, to Sen. Paul Simon (D-Ill.) (Nov. 29, 1993).
+165 See Gunningham and Rees, supra, at 383.
+
+Chicago Law and Economics Working Paper 
+
+58
+
+Consider  the  following  possible  code  provisions,166  simply  for
+
+the sake of illustration:
+
+1. Each broadcaster shall provide three hours of free air time
+for  candidates  during  the  two  month  period  preceding  the
+election.  In  return  for  free  air  time,  candidates  shall  discuss
+substantive  issues  in  a  substantive  way,  and  must  provide
+something other than short “soundbites.”
+
+2.  Each  broadcaster  shall  provide  one  hour  of  educational
+programming for children each day. Broadcasters shall attempt
+to  ensure  that  children  are  not  exposed  to  excessively  violent
+programming or programming that is otherwise harmful to or
+inappropriate  for  children.  Broadcasters  shall  avoid
+programming  that  encourages  criminal  or  self-destructive
+behavior;  they  should  also  be  sensitive  in  presenting  sexual
+material that children might encounter.
+
+3.  News  coverage  shall  be  substantive  and  issue-oriented.  It
+should  not  emphasize  the  sensational  and  the  prurient.  It
+should concern itself with claims and disagreements on matters
+of substance. Consistent with the exercise of legitimate station
+discretion, stations should not give excessive or undue attention
+to sensational accusations or to issues of “who is ahead,” at the
+expense of other issues.
+
+4. Morbid, sensationalistic or alarming details not essential to a
+factual report, especially in connection with stories of crime or
+sex,  should  be  avoided.  News  should  be  broadcast  in  such  a
+manner  as  to  avoid  panic  and  unnecessary  alarm.  News
+programming  should  attempt 
+to  avoid  prurience,
+sensationalism, and gossip. Stations should make an effort to
+
+                                                  
+166 These provisions are adapted but substantially revised from the more detailed
+Code suggested by the Report of the Advisory Committee, supra note. I believe
+that  the  provisions  described  there  are  too  vague  and  tepid  to  be  useful;  for
+reasons discussed in the text, vague and tepid provisons create a high probability
+of futility and ineffectiveness.
+
+59
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+devote  enough  time  to  public  issues  to  permit  genuine
+understanding of problems and disagreements.
+
+5.  Violence,  psychological  but  especially  physical,  should  be
+portrayed  responsibly,  and  not  exploitatively.  Presentation  of
+violence  should  avoid  the  excessive,  the  gratuitous,  the
+humiliating, and the instructional. The use of violence for its
+own sake and the detailed dwelling upon brutality or physical
+agony,  by  sight  or  sound,  should  be  avoided.  Programs
+involving violence should venture to present the consequences
+to  its  victims  and  perpetrators.  Particular  care  should  be
+exercised  where  children  may  see,  or  are  involved  in,  the
+depiction  of  violent  behavior..  Programs  should  not  present
+rape,  sexual  assault,  or  sexual  violence  in  an  attractive  or
+exploitative light.
+
+6.  Broadcasters  shall  ensure  that  their  programming  is
+responsive  to  the  needs  of  citizens  with  disabilities.  To  this
+end, broadcasters shall ensure that programming is accessible,
+through the provision of closed captioning and other means, to
+the extent that doing so does not impose an undue burden on
+the  broadcaster.  Particular  efforts  should  be  made  to  provide
+full  access  to  news  and  public  affairs  programming.  Citizens
+who  are  deaf  and  hard  of  hearing  are  sometimes  at  risk  of  a
+form of disenfranchisement., or even physical danger, because
+steps  are  not  taken  to  ensure  that  television  broadcasting  is
+available to them. Stations should take special steps to ensure
+that  information  about  disasters  and  emergencies  are  fully
+accessible to those who are deaf and hard of hearing, including
+in “real time.”
+
+D. A Code: Problems and Prospects
+
+Such  a  code  would  of  course  raise  many  questions.  The  first
+would involve the problem of enforcement. Without an enforcement
+mechanism, a code might have no effect at all, indeed it might be a
+form of public deception.167
+                                                  
+167  See  John  Braithwaite,  Responsive  Business  Regulatory  Institutions,  in
+Business, Ethics, and Law 91 (C. Cody and C. Sampford eds. 1993).
+
+Chicago Law and Economics Working Paper 
+
+60
+
+There are several obvious possibilities. The simplest would be
+for  the  NAB  to  undertake  enforcement  on  its  own,  just  as  it  did
+under the old code. It might, for example, give a seal of approval to
+those who are shown to comply with its provisions, and deny a seal
+of  approval  to  those  who  have  been  shown  not  to  have  complied.
+The NAB might also give special public recognition to those stations
+that have compiled an excellent public service record in the past year.
+Such recognition may be awarded for, among other things, meeting
+the  needs  of  children  in  a  sustained  and  creative  way,  offering
+substantive and extended coverage of elections, including interviews,
+free air time, and debates, offering substantive and extended coverage
+of  public  issues,  and  providing  opportunities  for  discussion  of
+problems facing the local community. At the time of license renewal,
+a  notation  might  be  given  to  the  FCC  that  there  has  been
+compliance or continuing or egregious noncompliance with the code.
+If  the  NAB  is  unwilling  to  enforce  a  code  of  this  kind,  perhaps  a
+private group could take the initiative, both promulgating the code
+and publicizing and in that (modest) sense sanctioning violations.168
+A  special  problem  here  is  that  in  light  of  increasing  competition
+from non-broadcast programming sources, a code would not be in
+the economic interest of broadcasters even if generally adopted, and
+this  is  an  unpromising  fact  for  a  code’s  effectiveness.169  Perhaps
+supplemental enforcement will come from rivals of those who defect
+from  the  agreement  and  violate  the  code;  this  is  a  reasonable
+prediction  in  theory,  and  something  similar  has  been  found  in
+analogous areas.170
+
+Any  enforcement  by  the  NAB  or  even  a  private  monitoring
+group  would  be  most  likely  to  succeed  if  accompanied  by  external
+pressures  of  one  sort  or  another.  As  in  the  case  of  disclosure
+requirements, the most promising possibilities include public interest
+groups  able  to  mobilize  relevant  social  norms  and  to  focus  media
+
+                                                  
+168  This  approach  would  have  special  advantages  in  light  of  the  fact  that  some
+stations are not members of the NAB. For NAB stations that must compete with
+non-member stations, a code creates an obvious competitive risk, and there is a
+continuing question whether it is possible to design strategies, public or private,
+to combat this risk.
+169 See Gunningham and Grabosky, supra note, at 53-54.
+170 See Gunningham and Rees, supra note, at 403.
+
+61
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+attention  on  derelict  actors.171  Perhaps  such  activity  would  be
+accompanied  by  market  pressures  of  various  sorts,  as  consumer
+action  has  had  significant  effects  on  code  enforcement  in  related
+areas.172 A degree of FCC interest in the existence of code violations
+would also help.
+
+These  points  raise  a  related  question:  the  scope  of  any  such
+code.  Undoubtedly  such  a  code  was  less  painful,  and  easier  to
+operate,  when  three  broadcasters  exhausted  the  universe  of
+television.  Of  course  broadcasters  now  find  themselves  in
+competition with many other entertainment sources, including cable
+and the Internet. In these circumstances, broadcasters are not likely
+to  constrain  themselves  if  their  competitors  are  not  similarly
+constrained.  The  competition  for  an  audience  for  news  is  much
+affected  by  the  existence  of  “tabloid  television,”  and  a  broadcaster
+who ties himself to the mast may find himself with a significantly
+reduced audience. The point suggests that in the development of a
+code,  broadcasters  should  perhaps  be  joined  by  the  National
+Association of Cable Television. By itself, however, a code limited to
+broadcasters should do considerable good, even if some broadcasters
+are reluctant to subscribe to it. When the market reaches the stage in
+which broadcasters are merely some of a large number of providers,
+with  no  distinctive  status,  it  might  make  sense  to  think  of  a  more
+general  code  (with  suitable  adjustments  for  particular  kinds  of
+programmers173).  It  is  worth  underlining  the  point  that  as  in  the
+context of disclosure, the likelihood of success will increase with the
+existence of third-party monitors, both public and private, and also
+with a threat of more intrusive action should it prove necessary.174
+
+E. Notes on Antitrust Law and the First Amendment
+
+A  code  for  television  broadcasters  might  be  thought  to  raise
+issues  of  both  constitutional  and  antitrust  law.  The  constitutional
+issues are relatively straightforward; the antitrust issues are a bit more
+complex. I offer a brief discussion here.
+                                                  
+171 See Gunningham and Rees, supra, at 390-92.
+172 See id. at 391 (discussing hostile consumer action).
+173  For  example,  it  is  not  clear  that  a  station  devoted  to  children  should  be
+required to provide free air time for political candidates.
+174 See Gunningham and Grabosky, supra note, at 55-56.
+
+Chicago Law and Economics Working Paper 
+
+62
+
+There is essentially no risk that a code of the sort suggested here
+would create serious first amendment problems. By itself, a code is a
+private set of guidelines, and private guidelines by themselves raise
+no  first  amendment  issue.  If  a  private  group  decides  to  impose
+restrictions  on  the  speech  of  its  members,  and  government  is  not
+involved, the first amendment is irrelevant Of course things would
+be different if government mandated any such code.175
+
+Nor  would  provisions  like  those  described  above  be  likely  to
+violate  the  antitrust  laws.  The  Department  of  Justice  has  so
+concluded,176 and in two important cases, aspects of previous codes
+were upheld against private antitrust attack. A district court refused
+to  issue  an  injunction  against  code  standards  forbidding  cigarette
+advertising,  despite  a  claim  that  these  standards  were  inconsistent
+with the antitrust laws.177 A lower court also upheld the provisions
+involving standards for advertising for children.178 In these cases, the
+                                                  
+175 See Flagg Bros., Inc. v. Brooks, 436 U.S. 149 (1978) (private contract raises
+no first amendment issue); San Francisco Arts & Athletics, Inc. v. United States
+Olympic  Comm.,  483  U.S.  522  (1987);  Rendell-Baker  v. Kohn,  457  U.S.  830
+(1982). If a code is a product of government threat, and is effectively required by
+government,  the  first  amendment  comes  into  play.  See  Writers  Guild  of
+America, supra.  There can be no question that a governmentally mandated code,
+not voluntary but taking the form that we have outlined, would raise legitimate
+constitutional problems. This does not necessarily mean that the first amendment
+would  be  violated;  but  it  does  mean  that  the  code  would  have  to  be  tested  for
+compliance  with  first  amendment  principles,  including  constitutional  limits  on
+content regulation.
+176 See note supra.
+177  See American Brands, Inc. v. National Ass'n of Broadcasters, 308 F. Supp.
+1166  (D.D.C.  1969).    The  court  concluded  that  the  plaintiff  was  not  likely  to
+prevail  on  the  merits.    The  court  referred  in  particular  to  the  dangers  posed  by
+cigarette smoking and claimed that the standards and guidelines in the code serve
+the “public interest.” Id. at 1169.
+178  See  American  Fed’n  of  Television  &  Radio  Artists  v.  National  Ass’n  of
+Broadcasters, 407 F. Supp. 900 (S.D.N.Y. 1976)  The rule at issue there said that
+children’s  program  hosts  or  primary  cartoon  characters  “shall  not  be  utilized  to
+deliver  commercial  messages  within  or  adjacent  to  the  programs  which  feature
+such  hosts  or  cartoon  characters.”  The  provision  applied  as  well  “to  lead-ins  to
+commercials  when  such  lead-ins  contain  sell  copy  or  imply  endorsement  of  the
+product by program host or primary cartoon character.” The plaintiff attacked the
+restrictions, claiming that it restricted the ability of hosts and actors to obtain free
+employment  for  delivery  of  commercials.  The  court  said,  “There  is  not  the
+
+63
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+court basically concluded that the restrictions were reasonable and in
+the public interest.
+
+As I have noted, the most recent code met its demise as a result
+of  an  antitrust  action  brought  by  the  Justice  Department  in  1979,
+based on an allegation that certain provisions of the Code violated
+the Sherman Act. But the Justice Department’s complaint was quite
+narrow. It involved not the code in general, but three specific kinds
+of cartel-like advertising restrictions: (1) time standards, limiting the
+amount of commercial material that could be broadcast in an hour;
+(2)  program  interruption  standards,  which  imposed  a  limit  on  the
+maximum  number  of  commercial  announcements  per  program  as
+well  as  on  the  number  of  consecutive  announcements  per
+interruption; and (3) multiple product standards, which prohibited
+the advertising of two or more products or services within a single
+commercial  if  the  commercial  was  less  than  60  seconds  in  length.
+Basically, the court held that the multiple product standards were per
+se unlawful, but that the time standards and program interruption
+standards could not be tested without an inquiry into the facts. 179
+                                                                                                                    
+slightest indication of any anti-competitive purpose in the creation of the rule,”
+especially  since  there  was  no  evidence  of  a  motive  ““to  benefit  one  class  of
+performers competitively over another class of performers.” Id. at 902. The court
+found it relevant that the rule “resulted from a bona fide concern on the part of
+various  groups,  and  the  FCC,  regarding  fair  and  ethical  methods  to  be  used  in
+television  advertising  directed  to  children.”  Id.  This  was  “a  reasonable  rule  of
+conduct regarding good practice by its members in the public interest and is not
+in violation of the antitrust laws.” Id. at 903.
+179The district court held that the time and product interruption standards were
+not  invalid  per  se.  In  the  court’s  view,  the  distinctive  characteristics  of  the
+broadcasting industry argued against a per se rule of invalidity. Because broadcast
+frequencies are scarce, because the whole area is subject to regulation, and because
+of  the  fact  that  there  are  only  sixty  minutes  in  an  hour  (!),  no  simple  solution
+would be sensible. On these two issues, the court also denied summary judgment
+for the government under the rule of reason, concluding that there were material
+issues of fact. By contrast, the court held that the multiproduct standard was per
+se  unlawful.  In  its  view,  this  rule  was  akin  to  a  standardization  agreement  by
+which food manufacturers set a standard for the ingredients that would be used in
+their  products.  This  form  of  standardization  was  per  se  illegitimate.  Thus  the
+court actually invalidated only one provision of the code, on the theory that it was
+analytically akin to a system for price-fixing. At the same time, the court denied
+summary judgment for the NAB. An important question was whether the time
+standards would have the effect of raising or stabilizing the price of commercial
+
+Chicago Law and Economics Working Paper 
+
+64
+
+the  district 
+
+After the court’s ruling, the NAB suspended enforcement of all
+code provisions.180 Doubtless the NAB did this partly for reasons of
+economic self-interest, and not only because it was fearful of a legal
+challenge.  Nonetheless, 
+court’s  narrow
+decision—untested  in  any  court  of  appeals—has  loomed  over  the
+debate about codes. But in its most recent analysis of the problem,
+the  Department  of  Justice  suggested  that  networks  could  agree  to
+guidelines  and  principles  to  reduce  unnecessary  violence  on
+television.181 Indeed, this is not an ordinary form of collusion. It is
+not as if broadcasters are saying that advertisers must pay a minimum
+of  $X  per  advertisement.  It  is  possible  that  the  restrictions  under
+discussion would have little or no adverse effect on competition; they
+may  even  have  good  effects  on  competition.182  Even  with  a  code,
+programmers would compete over a great many things, including the
+kinds  of  programming  regulated  by  a  code.  The  code  might  in  a
+sense be procompetitive, because it would ensure television coverage
+of materials in which there is a substantial public interest and which
+might otherwise not be provided. This is so especially in light of the
+
+                                                                                                                    
+time (this was the antitrust problem); it was possible, the court said, that any such
+effect would be trivial in light of the importance of other factors. If this was true,
+the code would not violate the Sherman Act. This is because there is no antitrust
+violation  without  a  significant  adverse  effect  on  competition.  See,  e.g.,  United
+States v. Arnold, Schwinn, & Co., 388 U.S. 365, 375 (1967), overruled on other
+grounds  by  Continental  T.V.,  Inc.  v.  GTE  Sylvania,  Inc.  433  U.S.  36  (1977);
+Neeld v. National Hockey League, 594 F.2d 1297 (9th Cir. 1979).
+180 In public it claimed that it would seek an appeal, but a consent judgment was
+issued,  in  which  the  NAB  agreed,  for  ten  years,  to  cease  monitoring  and
+enforcement of the three disputed code provisions.
+181  See  Letter  Of  Sheila  Anthony,  Assistant  Attorney  General,  supra.  The
+Department of Justice concluded that “the conduct that was at issue in the NAB
+case differs significantly from that covered by” an agreement on televised violence.
+Id.  at  3.  In  the  NAB  case,  the  problem  was  raising  “the  price  of  time,”  to  “the
+detriment  of  both  advertisers  and  the  ultimate  consumers  of  the  products
+promoted on the air.” Id. By contrast, an agreement covering violence should “be
+liked  to  traditional  industry  standard-setting  efforts  that  do  not  necessarily
+restrain competition and may have significant procompetitive benefits.” Id. In the
+view of the Department of Justice, “efforts to develop and disseminate voluntary
+guidelines  to  reduce  the  negative  impact  of  television  violence  should  fare  well
+under the appropriate rule-of-reason antitrist analysis.” Id. at 4.
+182 Compare Smith v. Pro Football, Inc., 593 F.2d 1173, 1183 (D.C. Cir. 1978).
+
+65
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+fact  that  stations  would  compete  for  viewers  with  respect  to  the
+kinds of programming covered by the code.183
+
+In light of the distinctive nature of the television market, a code
+of the sort under discussion would likely survive a “rule of reason”
+inquiry.  Any  restrictions,  such  as  they  are,  could  be  defended  as  a
+means  of  promoting  competition  and  also  various  public  interest
+goals, such as education of children, access for the handicapped, and
+democratic and civic functions.184
+
+F. Less Puzzling Puzzles
+
+We  are  now  in  a  position  to  disentangle  the  two  puzzles
+discussed in Part II. The broadcasters on the Committee favored a
+code  partly  because  they  thought  it  a  good  idea  in  principle  and
+partly  because  they  had  little  to  lose  from  it.  Though  generally
+“winners,”  they  were  selected  for  the  Committee  because  of  their
+commitment, through both words and deeds, to moderating some of
+the adverse effects of competition. They were vulnerable to “winner
+take  all”  effects  insofar  as  they  were  reluctant  to  engage  in  certain
+competitive practices. In this way, a code might even help them. But
+the NAB would not like a code at all. The broadcasting industry as a
+whole  would  be  hurt  by  such  a  code,  especially  because  cable
+television would not be bound by it. Why should broadcasters, in an
+intensely  competitive  market,  give  a  significant  edge  to  cable?
+Especially if the result would be that cable could take, if not all, a lot
+more of the viewing audience than it now does? It is not surprising if
+
+                                                  
+183  It is not entirely clear that any plaintiff would have an antitrust injury. The
+self-regulation  that  we  are  discussing  would  allow  a  wide  range  of  choices  and
+options for consumers and producers. Perhaps some producer of some marginal
+programming could claim that he was unable to sell his product because of (for
+example) free air time for candidates; but this would be an extremely speculative
+injury.  Perhaps  viewers  could  argue  that  they  were  deprived  of  certain
+programming  that  they  would  like;  but  in  view  of  the  wide  range  of  options
+available to viewers, this too is speculative. Perhaps some stations or programmers
+could contend that a code limited their freedom; but it is not clear that this would
+count  as  an  antitrust  injury,  especially  in  light  of  the  fact  that  the  code  is
+voluntary.
+184  This  idea  is  bolstered  by  the  line  of  cases  analyzing  restrictions  by  trade
+associations and similar entities. See, e.g., NCAA v. Board of Regents, 468 U.S.
+85 (1984); Allied Tube & Conduit Corp. v. Indian Head, 486 U.S. 492 (1988).
+
+Chicago Law and Economics Working Paper 
+
+66
+
+broadcasters  who  supply  a  large  degree  of  public  interest
+programming  believe  that  they  would  be  net  winners  with  a
+code—and  if  the  broadcasting  industry  as  a  whole  believes  that  it
+would be a net loser. Such an industry, cautious about invoking its
+own economic interest alone, is all too likely to invoke the antitrust
+laws (or the first amendment) for purely strategic and self-interested
+reasons.
+
+This  point  helps  explain  the  Committee  broadcasters’
+skepticism  about  “pay  or  play”  alternatives.  A  set  of  rigid  public
+interest requirements does not hurt them and may even help them,
+insofar  as  it  places  their  competitors  under  legal  duties  that  they
+would  themselves  meet  voluntarily  (because  of  their  aspirations  or
+because  of  the  particular  demands  of  their  audience  and  their
+advertisers).  A  system  of  “pay  or  play”  would  mean  that  these
+broadcasters  would  be  undercut  by  competitors  who,  unwilling  to
+play, would pay—and capture a large audience share, in a version of
+“winner-take-most.”  But  this  is  not  a  convincing  objection  to  a
+system of “pay or play.” It is true that some of those who “play” will
+be at a competitive disadvantage with respect to some of those who
+“pay”  others  to  play  instead.  But  by  itself  this  competitive
+disadvantage is not worthy of concern, any more than we should be
+concerned when, in the environmental context, some of those who
+reduce  pollution  are  at  a  competitive  disadvantage  with  respect  to
+those  who,  instead  of  reducing  pollution,  pay  a  substantial  fee  to
+third  parties  who  have  reduced  pollution,  or  to  the  treasury.  The
+question is what approach yields the best outcome for the public. If
+there is too little public interest broadcasting, or too much pollution,
+the solution is not the simple command to “play,” or “reduce,” but to
+increase the price for failing to play or for failing to reduce.185
+
+The best defense of a code of the sort I have discussed is that it
+would  produce  “winner-take-less”  outcomes,  in  a  way  that  would
+provide significant benefits for the public by diminishing some of the
+adverse  effects  of  market  competition,  and  by  strengthening
+broadcaster  norms  in  favor  of  obligations  to  children  and  to
+democratic values. And if this is so, it provides a general lesson about
+how  voluntary  private  action  might  sometimes  handle  problems
+
+                                                  
+185 With the qualification involving hot spots and cold spots, discussed above.
+
+67
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+usually  dealt  with  by  direct  regulation—and  a  lesson  about  the
+reflexive use of the antitrust laws to prevent producer cooperation.
+
+VII. A Summary
+
+The  discussion  has  ranged  over  a  number  of  regulatory  tools,
+and it may be helpful, by way of summary, to discuss them all briefly
+and at once. We have seen that both disclosure and codes have the
+advantage  of  ensuring  a  minimal  government  role,  in  a  way  that
+reduces  constitutional  concerns  and  also  allows  a  high  degree  of
+flexibility. The danger is that these remedies will have little effect;
+here the key question is whether there are good external monitors,
+able to impose reputational or other costs on those who do poorly.
+We have also seen that “taxes” on programming that does not serve
+public interest goals, and subsidies to programming that does serve
+such  goals,  can  have  similar  effects.  A  principal  problem  with
+subsidies  is  that  they  create  an  incentive  not  to  provide  such
+programming  voluntarily.  The  table  that  follows  seems  to  capture
+the basic territory.
+
+Of course some of these tools could serve as complements rather
+than  as  alternatives.  Disclosure  makes  sense  with  or  without
+additional strategies. It should be the least controversial item on the
+list;  the  only  real  question  is  what  else  should  accompany  it.
+Disclosure is likely to work especially well in tandem with voluntary
+self-regulation, indeed the two tools are natural allies. By contrast,
+mandates and economic incentives are genuine competitors, and in
+the current context, economic incentives generally seem best, with
+mandates operating as a “backstop,” probably to be eliminated in the
+long term.186
+
+As I have emphasized, these recommendations are designed for
+the  current  stage  of  telecommunications  technology;  they  are  also
+likely to make sense for the near term. For the next decade, the key
+question is whether initiatives designed  for broadcasters  should  be
+applied  to  cable  programmers  as  well  (especially  disclosure  and
+compliance with a code).
+
+                                                  
+186 For an overlapping discussion, emphasizing the value of “policy mixes” in the
+context of environmental law, see Gunningham and Grabosky, supra, at 422-448.
+
+Examples
+
+Potential virtues
+
+Potential problems
+
+1. Mandate
+
+Effectiveness;
+simplicity
+
+Fairness doctrine;
+mandatory three hours
+of childrens’
+educational
+programming; Clean
+Air Act and Clean
+Water Act
+“technology”
+approaches
+Toxic Release
+Inventory; warning
+labels for foods and
+drugs; television
+ratings system
+“green taxes”; polluters
+pay
+
+2. Disclosure
+
+3. Economic
+incentive—
+“tax”
+
+Rigidity; high expense;
+futility (if viewers fail to
+watch,), even counter-
+productive (if producers
+are able to circumvent
+the system and to do
+worse than they would
+have done)
+
+Futility (if disclosure
+does no good), a
+particular problem in the
+event of market failure
+
+Difficulty of calculating
+the relevant amount;
+putting good
+broadcasters at a
+competitive disadvantage
+
+Most appropriate context and
+overall evaluation
+Three or four broadcasters and
+no other television sources;
+generally ill-suited to current
+situation, except as “backstops”
+against egregious behavior
+
+Some external monitoring by
+private groups; well-suited to the
+likely future
+
+Ability to calculate the tax along
+with market failure or use of
+nonmarket criteria; well-suited
+to the short term at least
+
+Flexibility, low
+administrative
+costs
+
+Efficiency and
+hence a good
+programming
+“mix”; correction
+of any market
+failure and
+serving
+nonmarket goals
+
+68
+
+4. Economic
+incentive—
+subsidy
+
+5. Voluntary
+self-
+regulation
+
+6. Market
+ordering
+
+Public Broadcasting
+System; National
+Endowment for the
+Arts; “cash for
+clunkers” in
+environmental policy
+
+Old National
+Association of
+Broadcasters Code;
+Current” Responsible
+Care” program for
+chemical industry;
+International
+Standards
+Organization
+Ordinary commodities
+
+Same as 3
+
+Flexibility, use of
+industry
+knowledge, and
+effectiveness;
+creation of a kind
+of “trustee
+culture”
+
+Efficiency;
+consumer
+sovereignty
+
+Difficulty of calculating
+the subsidy; harmful
+secondary effects, as in a
+decrease in voluntay
+provision of public
+interest programming
+(why play when you can
+be paid?)
+Lack of enforcement; a
+charade designed to fend
+off regulation; an effort
+by some producers to
+prevent competition
+from others
+
+Ability to calculate the subsidy
+along with market failure or use
+of nonmarket criteria; also well-
+suited to the short term, in the
+form of subsidies to PBS
+
+External monitoring and/or
+industry bona fides and/or threat
+of mandates if this approach
+fails; sensible until the
+distinction crumbles between
+broadcasters and others
+
+Market failure, e.g.,
+externalities, public good
+problems; use of
+noneconomic criteria,
+e.g., democratic ideals
+
+Brave new world (where
+broadcasters have no special
+role); perhaps appropriate,
+probably alongside subsidies and
+perhaps disclosure, in the very
+long term
+
+69
+
+70
+
+Private Broadcasters and Public Interest (revised 04/99)
+
+In the very long term, when broadcasters occupy no special role, it
+may be best to impose disclosure requirements on general-interest
+stations, and also to subsidize high-quality programming of various
+sorts. It is too soon to know whether the very long-term will come in
+the next decade or long thereafter.187
+
+VIII. Conclusion
+
+Dramatic changes in the emerging communications market do
+not  provide  a  sufficient  reason  to  abandon  the  traditional  goal  of
+ensuring  a  certain  level  of  public  interest  programming.  To  some
+extent this conclusion depends on conventional market failures. Thus
+I  have  emphasized  the  external  benefits  that  come  from  public
+interest  programming  and  also  the  peculiar  characteristics  of  the
+broadcasting  market,  where  viewers,  or  eyeballs,  are  a  commodity
+provided to advertisers. To some extent this conclusion view turns on
+a  rejection  of  economic  principles  as  the  foundation  for
+interest
+communications  policy.  With  respect  to  public 
+programming, viewers’ tastes may be a product of an undesirable set
+of  communications  options,  and  in  their  capacity  as  citizens,  they
+may well want to make things better rather than worse. Especially in
+light of the role of the communications media in the production of
+culture—and  hence  both  preferences  and  values—it  is  entirely
+legitimate  for  a  democratic  government  to  refuse  to  make
+“consumption choices” the exclusive basis for policy design. Thus I
+have emphasized that a public committed to deliberative democracy
+might support initiatives designed to provide better programming for
+children and better coverage of public issues. This is so especially in
+light of the fact that a significant minority of Americans lack cable or
+other alternatives, and hence continue to depend on broadcasters for
+television.
+
+These  points  suggest  that  for  the  relevant  future,188  public
+interest  standards  deserve  to  play  a  large  role.  For  the  most  part,
+                                                  
+187  See  Owen,  supra,  at  311-26  (predicting  that  convergence  will  take  a  long
+time,  with  the  suggestion  that  the  Internet  may  never  become  an  important
+means of delivering television).
+188 In the long-term, when broadcasters have little or no distinctive role, it may
+be  best  to  rely  on  government  subsidies  for  high-quality  broadcasting  and  on
+disclosure requirements for general-interest programmers. See above.
+
+Chicago Law and Economics Working Paper
+
+71
+
+however, the policy instruments of choice should not involve rigid
+dictates  or  commands,  which  are  expensive  and  potentially
+counterproductive,  and  in  any  case  ill-suited  to  an  era  of  rapidly
+changing technology. Thus I have suggested a strong preference for
+the  less  intrusive  options  of  disclosure,  economic  incentives,  and
+voluntary  self-regulation.  Disclosure  has  been  a  surprisingly
+successful,  low-cost  strategy  in  other  areas  of  regulatory  law.  If
+certain broadcasting is seen as a public good, analogous to clean air,
+economic incentives may be able to accomplish a good deal, and to
+do  so  at  relatively  low  cost.  Because  competitive  pressures  are
+frequently  the  engine  behind  poor  broadcaster  performance,
+voluntary  self-regulation  may  turn  out  to  be  a  desirable  kind  of
+“cartel,”  helping  to  counteract  short-term  interests.  Through  this
+route  it  may  be  possible  to  develop  an  intermediate  system  of
+controls,  responding  to  the  market  and  non-market  failures  of
+current  markets,  but  without  introducing  the  rigidity  and
+inefficiencies of command-and-control regulation.
+
+If  measures  of  this  kind  have  promise  in  the  areas  of
+environmental protection and public interest programming, there is
+every reason to explore them in other, less familiar contexts as well.
+In many areas of law, command-and-control regulation has proved a
+partial or complete failure, and the natural alternative—a system of
+well-defined property rights and freedom of contract—may produce
+serious problems of its own. In such circumstances, any “third way,”
+if it is ultimately to develop for the modern regulatory state, is likely
+to  place  heavy  reliance  on  disclosure,  economic  incentives,  and
+voluntary self-regulation.
+
+
