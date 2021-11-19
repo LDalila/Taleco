@@ -1,0 +1,5 @@
+beautifulsoup
+pdfminer.six
+pyenchant
+selenium
+tqdm
