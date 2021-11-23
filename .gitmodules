@@ -1,0 +1,21 @@
+[submodule "data/scihub"]
+	path = data/scihub
+	url = https://github.com/zaytoun/scihub.py.git
+[submodule "data/jpedal-lgpl"]
+	path = data/jpedal-lgpl
+	url = https://github.com/Lonzak/JPedal.git
+[submodule "data/lapdftext"]
+	path = data/lapdftext
+	url = https://github.com/SciKnowEngine/lapdftext.git
+[submodule "data/ske-parent"]
+	path = data/ske-parent
+	url = https://github.com/SciKnowEngine/ske-parent.git
+[submodule "data/ske-utils"]
+	path = data/ske-utils
+	url = https://github.com/SciKnowEngine/ske-utils.git
+[submodule "data/pdf-reader"]
+	path = data/pdf-reader
+	url = https://github.com/yob/pdf-reader
+[submodule "data/pdfextract"]
+	path = data/pdfextract
+	url = https://github.com/CrossRef/pdfextract
