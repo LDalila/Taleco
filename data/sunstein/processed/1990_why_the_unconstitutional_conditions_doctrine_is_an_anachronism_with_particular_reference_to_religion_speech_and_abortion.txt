@@ -1,0 +1,1785 @@
+University of Chicago Law School 
+University of Chicago Law School 
+Chicago Unbound 
+Chicago Unbound 
+
+Journal Articles 
+
+1990 
+
+Cass R. Sunstein 
+
+Faculty Scholarship 
+
+Why the Unconstitutional Conditions Doctrine is an Anachronism 
+Why the Unconstitutional Conditions Doctrine is an Anachronism 
+
+(with Particular Reference to Religion, Speech, and Abortion) 
+(with Particular Reference to Religion, Speech, and Abortion) 
+
+Follow this and additional works at: https://chicagounbound.uchicago.edu/journal_articles 
+
+ Part of the Law Commons 
+
+Recommended Citation 
+Recommended Citation 
+Cass R. Sunstein, "Why the Unconstitutional Conditions Doctrine is an Anachronism (with Particular 
+Reference to Religion, Speech, and Abortion)," 70 Boston University Law Review 593 (1990). 
+
+This Article is brought to you for free and open access by the Faculty Scholarship at Chicago Unbound. It has been 
+accepted for inclusion in Journal Articles by an authorized administrator of Chicago Unbound. For more 
+information, please contact unbound@law.uchicago.edu. 
+
+VOLUME  70  NUMBER  4
+
+JULY  1990
+
+BOSTON  UNIVERSITY  LAW  REVIEW
+
+WHY  THE UNCONSTITUTIONAL  CONDITIONS
+DOCTRINE  IS  AN  ANACHRONISM  (WITH
+PARTICULAR  REFERENCE  TO  RELIGION,
+SPEECH,  AND  ABORTION)
+
+CASS  R.  SUNSTEIN*
+
+Many  of the  most  vexing  questions  in  constitutional  law  result  from  the
+rise  of the modem  regulatory  state, which  has  allowed  government  to affect
+constitutional  rights,  not  through  criminal  sanctions,  but  instead  through
+spending,  licensing,  and  employment.1  It  may  well  be  in  these  areas  that
+constitutional  doctrine  is  least  well  developed.  It is  here  that  constitutional
+law  promises  to  receive  its  most  serious  tests  in  the  next  generation.
+
+Under  current  law,  the  unconstitutional  conditions  doctrine  serves  to
+mediate the  boundary  between  constitutional  rights and government  prerog-
+atives  in  the  areas  of spending,  licensing,  and  employment.2  The  doctrine
+operates  as a shorthand response  to  the view  that  those who voluntarily  par-
+
+*  Karl  N.  Llewellyn  Professor  of  Jurisprudence,  Law  School  and  Department  of
+Political Science,  University  of Chicago.  This essay  is a revised  version of a speech in  the
+Boston  University  School  of  Law  Distinguished  Lecturer  Series,  delivered  at  Boston
+University on December  1, 1989.  I am most grateful  to my hosts at Boston University for
+their  hospitality  and  help  during  that  occasion.
+
+I  would  like  to  give  special  thanks  to  Richard  Epstein,  Michael  McConnell,  and
+Kathleen  Sullivan  for their conversation  (and writings) on this subject.  I am  also grateful
+to  Bruce  Ackerman,  Mary  Becker,  Frank  Easterbrook,  Larry  Kramer,  Frederick
+Schauer,  Joseph  Singer,  and  David  Strauss  for helpful  comments.
+
+I  Many  years  ago, Justice  Jackson  made  the  basic  point:
+[T]he  task  of  translating  the  majestic  generalities  of  the  Bill  of  Rights  . . . into
+concrete  restraints  on officials  dealing with  the problems  of the twentieth  century,  is
+one  to  disturb self-confidence.  These  principles  grew  in  soil which  also  produced  a
+philosophy  that the  individual['s]  ...  liberty  was attainable  through  mere  absence  of
+governmental  restraints  ....  We  must transplant  these rights  to a soil in  which  the
+laissez-faire concept  or  principle  of  non-interference  has  withered  at  least  as  to
+economic  affairs,  and  social  advancements  are  increasingly  sought  through  closer
+integration  of  society  and  through  expanded  and  strengthened  governmental
+controls.
+
+West  Virginia  State  Bd.  of Educ.  v.  Barnette,  319  U.S.  624,  639-40  (1943).
+
+2  In  brief,  the  doctrine  holds  that  although  government  may  choose  not  to  provide
+certain  benefits  altogether,  it may not  condition  the conferral  of a  benefit,  once  provided,
+
+HeinOnline  -- 70 B.U. L. Rev. 593 1990
+
+BOSTON UNIVERSITY  LAW  REVIEW
+
+[Vol.  70:593
+
+ticipate  in  government  programs  have  "waived"  their  constitutional  objec-
+tions,  and  also  to  the  claim  that  the  government's  power  not  to  create  a
+regulatory  program  necessarily  includes  the  power  to  impose  on  that  pro-
+gram  whatever  conditions  it chooses.  The various  puzzles  produced  by the
+doctrine  have created  considerable  doctrinal  confusion  and  provoked  a wide
+range of commentary.'  It is notable  that for  all their differences,  participants
+in  the  debate,  both  on and  off the  bench,  treat  the  unconstitutional  condi-
+tions  doctrine  as  the  appropriate  device  for  approaching  disputed questions.
+The differences  can be found not on that  point, but only  in the  description  of
+the  scope  and  nature of the  doctrine.'
+
+This  Article  comes  in  two  parts.  In  Part I,  I  argue  that  the  unconstitu-
+tional  conditions  doctrine  should  be abandoned.  The  doctrine,  I  suggest,  is
+an  anachronism;  it cannot  do th  work expected  of it.  During  the  transition
+from  the  common  law system  to  the modern  regulatory  state,'  the  unconsti-
+tutional  conditions  doctrine  represented  an  awkward  and  never  fully  expli-
+cated  effort  to  protect  constitutional  rights  in  a  dramatically  different
+institutional  environment.  The peculiar  legacy  of this transition and  its out-
+moded  foundations  continue  to  pervade  current  approaches  to  the  problem
+of unconstitutional conditions.  The idea that the  system of common  law and
+criminal prohibition  provides  the basic, even  natural  state of affairs,  and that
+
+on  a  beneficiary's  waiver  of  a  constitutional  right.  See,  e.g.,  L.  TRIBE,  AMERICAN
+CONSTITUTIONAL  LAW  §  10-8,  at  681  & n.29  (2d  ed.  1988).
+
+a See, e.g.,  L. TRIBE, supra note  2,  § 10-8,  at  681-85,  § 10-9,  at 685-87  (discussing  the
+subsidy-penalty  distinction);  Epstein, Foreword:  Unconstitutional Conditions, State Power
+and the Limits of Consent, 102  HARV.  L.  REV.  4 (1988)  (arguing  that the doctrine  serves
+as  a  second-best  means  of prohibiting  illegitimate  redistributions  of  wealth);  Kreimer,
+Allocational Sanctions:  The Problem of Negative Rights in a Positive State, 132 U.  PA.  L.
+REV.  1293,  1359  (1984)  (proposing  three  baselines  from  which  to assess  the  validity  of
+allocational  sanctions);  Sullivan,  Unconstitutional Conditions, 102  HARV.  L.  REV.  1413,
+1419  (1989)  (arguing  that  the doctrine  serves  an  important  function  by  "identify[ing]  a
+characteristic  technique by  which  government  appears not to, but in  fact does burden...
+liberties");  Van  Alstyne,  The  Demise of the Right-Privilege Distinction in  Constitutional
+Law, 81  HARV.  L.  REV.  1439,  1448  (1968)  (noting  that "government-connected  activity
+...  may  make  otherwise  unreasonable  conditions  quite  reasonable").
+
+I  The analysis in Sullivan, supra note  3, is closest to that  suggested  here,  particularly  in
+her  rejection  of  the  subsidy-penalty  distinction.  Id.  at  1433-38.  My  claim  is  that
+arguments  of the sort that  she offers,  properly understood,  would  lead  in  the direction  of
+abandonment  of the  doctrine  altogether.
+
+5  I  use the  term  "regulatory  state"  because  it is the usual one, but the  term  should  not
+be taken  to suggest  that the common law  system  that preceded  it was not  "regulatory"  or
+"governmental"  in  largely  the same  sense.  Indeed,  the idea  that  the common  law  was  a
+regulatory  system,  and  not  merely  facilitative  of private  desires,  played  a  role  in  the
+creation  of the  modern  state.  See  Sunstein,  Constitutionalism After  the New  Deal,  101
+HARV.  L.  REV.  421,  437  (1987)  (noting  that  many  New  Deal  reformers  regarded  the
+common  law  itself as  a  regulatory  scheme).
+
+HeinOnline  -- 70 B.U. L. Rev. 594 1990
+
+1990] 
+
+UNCONSTITUTIONAL  CONDITIONS DOCTRINE 
+
+595
+
+regulatory  and  spending  programs  are  occasional  and  somewhat  jarring
+additions,  affects  all  sides  of the  debate.
+
+regulatory 
+
+"intervention"-the 
+
+Indeed, the  very  idea  of a unitary unconstitutional  conditions  doctrine  is  a
+product  of the  view  that  the  common  law  is  the  ordinary  course  and  that
+state-is  exceptional.6
+governmental 
+Despite  its  pervasiveness,7  this view  is  misconceived.  It is  inconsistent  with
+both  the  realities  of contemporary  government  and  the  principles  that  gave
+rise  to  it.  Instead  of a  general  unconstitutional  conditions  doctrine  asking
+whether  there  has  been  "coercion"  or  "penalty,"  what  is  necessary  is  a
+highly  particular,  constitutionally-centered  model  of reasons:  an  approach
+that asks whether,  under the  provision at issue, the  government  has constitu-
+tionally  sufficient  justifications  for  affecting  constitutionally  protected
+interests.
+
+In the  second  part of this Article, I  explore  the  constitutional  issues raised
+in  several  areas of selective  funding.  My  goal  is  to  show the  sort  of analysis
+that would  be used  in a  legal system that has abandoned  the unconstitutional
+conditions  doctrine.  I  conclude  that  government  may  constitutionally  fund
+public  but  not  private  schools;  that  government  has  broad  discretion  to  be
+selective  in  funding  art  and  other  projects  involving  speech;  and,  perhaps
+most  controversially,  that government  is  under a constitutional  duty  to fund
+abortion  in  cases  of rape  and incest,  at least  if it  is funding  childbirth  in  such
+cases.  Whether  or not  these  conclusions  are  correct,  the  relevant  outcomes
+should  depend  on reasons  entirely  independent  of a general  unconstitutional
+conditions  doctrine.  It  is  on  that  broader  point,  rather  than  the  particular
+conclusions,  that  I  will  be  insisting  here.
+
+I.  CURRENT  DOCTRINE  AND  ITS  LIMITS
+
+To  make  the  analysis  as  concrete  as  possible,  I  will  focus  throughout  on
+three  cases  involving  selective  funding.  In the  first,  government  decides  to
+fund public  schools  but not private schools,  and it does  so even  though there
+is  a  constitutional  right  to  send  one's  children  to  private  schools.8  In  the
+second  case,  government funds  some artistic  projects  but not  others,  exclud-
+ing,  for  example,  projects  containing  sex  or nudity,  criticizing  the  govern-
+ment,  or  proclaiming  the  virtues  of Nazism  or Communism.  In  the  third,
+government  funds  childbirth  but not  abortion  in  cases  in  which  pregnancy
+results  from  rape  or incest.  In this  section,  I  explore  what  sort of directions
+the current  understandings of the  unconstitutional  conditions  doctrine  might
+provide  in  these cases.
+
+6  For an elaboration of this point, see  Sunstein, Lochner's Legacy, 87  COLUM.  L.  REV.
+
+873  (1987).
+
+7 Id.  at  875.
+8  Pierce  v.  Society  of Sisters,  268  U.S.  510  (1925).
+
+HeinOnline  -- 70 B.U. L. Rev. 595 1990
+
+BOSTON  UNIVERSITY  LAW  REVIEW
+
+[Vol.  70:593
+
+A.  The  Rise of the  Regulatory State and the  Unconstitutional Conditions
+
+Doctrine
+
+I  have  said  that  the  unconstitutional  conditions  doctrine  is  an  artifact  of
+the collision  of the regulatory-welfare  state with  the preexisting common  law
+framework.  To  understand  that  claim,  it will  be useful  briefly  to  review  the
+collision.  Most  of the  story  will  be familiar.
+
+In the  early  days  of the  regulatory  state,  legislation that  is  now  generally
+taken  as  constitutionally  uncontroversial-for  example,  minimum  wage  and
+maximum  hour  legislation-was  subject  to  attack  under  the  due  process
+clause,  usually  as  a  form  of an  impermissible  "taking"  from  one  person  for
+the benefit  of another.9  On this account, the distribution  of wealth and  enti-
+tlements  pursuant  to  the  common  law and  market  ordering was  treated as a
+part of nature,  or at least  as  the baseline  from which  to assess  whether  gov-
+ernment had violated  its obligation of neutrality.  It was on this premise  that
+the  idea  of impermissible  redistribution  was  made  plausible.' °  The Lochner
+decision, invalidating  maximum  hour laws, has come  to be the symbol of this
+approach  to  constitutional  law.
+
+Before  and  during  the  New  Deal  period,  this  framework  came  under
+assault.  The common  law system began  to be seen not as  a natural  or impar-
+tial  order, but as  a set  of collective  choices.  Because  market  outcomes  were
+at  least  in  large  part  a  function  of the  law  itself, employers  were  no  longer
+seen  to  have an antecedent  entitlement  to market  wages  and market hours."
+Thus  Franklin Roosevelt  contended,  "We  must  lay hold  of the  fact that  the
+laws  of  economics  are  not  made  by  nature.  They  are  made  by  human
+beings."' 2  The  rise of the  regulatory  state represented  a general  understand-
+
+'  See  Lochner  v. New  York,  198  U.S.  45  (1905)  (overturning  state  legislation  setting
+maximum  hours  for  bakers);  Adkins  v.  Childrens  Hosp.,  261  U.S.  525,  557-58  (1923)
+(striking down  a  minimum wage statute  as "a  compulsory exaction  from the employer  for
+the  support  of a  partially  indigent  person").
+
+10  Of course not  all  redistribution  was  out  of bounds;  welfare  statutes were permitted.
+But  redistribution  through  regulation  was  quite  frequently  invalidated.  Note,  however,
+that  such  efforts  do  in  fact  have  perverse  effects  in  many  cases.  For  a  catalogue,  see
+Sunstein,  Paradoxes of the Regulatory State, 57  U.  CHI. L.  REV.  407  (1990).
+
+"1  See  West  Coast  Hotel  v.  Parrish,  300  U.S.  379,  399  (1937)  (rejecting  Lochner's
+freedom  of contract  premise  and  stating  that  "[t]he  community  is  not  bound  to  provide
+what is  in  effect  a  subsidy  for  unconscionable  employers").
+
+12  F.D.  Roosevelt,  Annual  Message  to  Congress  (Jan.  3,  1936),  in  5  THE  PUnLIC
+PAPERS  AND  ADDRESSES  OF  FRANKLIN  D.  ROOSEVELT,  THE  PEOPLE  APPROVE  13
+(1938).  This  was  also  a  prominent  theme  in  the  legal  realist  movement.  See, e.g.,  Hale,
+Coercion and Distribution in a Supposedly Non-Coercive State, 38  POL.  Scl.  Q.  470,  478
+(1923) 
+(arguing  that  the  distribution  of  income  "depends  on  the  relative  power  of
+coercion  which  the different  members of  the community can  exert  against  one  another").
+A  large  failure  of the realists  was  that  they  thought  that  this insight  did  more  work  than
+in  fact  it  does.  To  say  that  existing  distributions  are  a  product  of law  or  a  "social
+construct"  is  not  to supply an  argument against  them.  Some  such argument,  sounding  in
+
+HeinOnline  -- 70 B.U. L. Rev. 596 1990
+
+1990] 
+
+UNCONSTITUTIONAL  CONDITIONS DOCTRINE 
+
+597
+
+ing  that  the  common  law  and private  markets  were  regulatory  systems  and
+that  those systems  sometimes  produced  both inefficiency  and injustice.
+
+At its inception,  the unconstitutional  conditions  doctrine  was a product of
+Lochner-like, pre-New  Deal  understandings.  Its  overriding  purpose  was  to
+protect  common  law  rights  in  the  face  of  threats to  those  rights created  by
+the  rise  of  the  regulatory  state.13  The  doctrine  arose  when  it  became  clear
+that  regulatory  and  spending  activities  might  produce  an  impermissible
+"redistribution"  of  the  Lochner  variety, 4  and  that  doctrines  could  be
+designed  to  control  these  novel  intrusions  into  what  had  previously  been
+regarded  as  a  private  sphere.  The  Court  might,  for  example,  invalidate  a
+statute conditioning  the  receipt of funds on compliance with  minimum wage
+laws.  From  its  inception,  then,  the  unconstitutional  conditions  doctrine
+grew  out  of a system  that sought to  protect  common  law  interests and  mar-
+ket ordering  from  the novel  threats  created  by  the  regulatory  state.  Each of
+the  three  principal  positions  about  the  scope  and  nature  of  the  unconstitu-
+tional conditions  doctrine continue  to  reflect  the  roots  of the  doctrine  in  the
+uneasy  encounter  of constitutional  courts  with  the  regulatory  state.
+
+1.  Holmesianism
+The  first  position,  traceable  to  Justice  Holmes 15  but  with  several  modem
+incarnations,' 6  suggests  that courts should  never, or  almost never, invalidate
+arguably  unconstitutional  conditions.  On  this  view,  the  supposedly  greater
+power  not  to  create  the  program  includes  the  supposedly  lesser  power  to
+impose  the condition.  The Holmesian  view begins  by acknowledging  that  an
+
+efficiency  or  distributive  justice,  is  necessary  to  support  displacement  of  freedom  of
+contract  or indeed  of any  system.
+
+11  See  Epstein,  supra  note  3,  at  10  (stating  that  the  doctrine,  with  roots  in  the
+nineteenth  century,  is  "no  new judicial  concoction  in  the post-New  Deal  welfare  state");
+Sullivan,  supra  note  3, at  1416  (noting  that  "the  Lochner  Court  first  fashioned  the
+doctrine").
+
+14  See  infra text accompanying  notes 21-31  for a  discussion  of how  this theme survives
+
+in  current  doctrine.
+
+15  See,  e.g.,  Myers  v.  United  States,  272  U.S.  52  (1926)  (Holmes,  J.,  dissenting)
+(arguing  that  if Congress  may  create  an  office  at  will,  it may  also  condition  termination
+from  that  office);  Western  Union  Tel. Co.  v. Kansas,  216  U.S.  1, 53  (1910)  (Holmes,  J.,
+dissenting)  ("Even  in  the  law  the  whole  generally  includes  its  parts.  If  the  State  may
+prohibit, it may  prohibit with the privilege of avoiding the prohibition  in a certain  way.");
+McAuliffe  v.  Mayor  of  New  Bedford,  155  Mass.  216,  220,  29  N.E.  517,  518  (1892)
+("There  are few  employments  for hire in  which  the servant does  not agree to suspend  his
+constitutional  right  of free  speech  ...  by  the  terms  of his contract.").
+
+16  See, e.g.,  Easterbrook, Insider Trading, Secret Agents, Evidentiary Privileges, and the
+Production of Information, 1981  Sup.  CT. REV.  309,  344-52 (discussing  with approval the
+unconstitutional  conditions  doctrine  as  applied  to Snepp v. United States, 444  U.S.  507
+(1980),  in  which  the  Court  enforced  the  CIA's  contractual  right  to  censor books  by  its
+former  agents);  Lyng v.  International  Union,  485  U.S.  360  (1988)  (upholding  legislation
+denying  distribution  of food  stamps  to  striking  workers).
+
+HeinOnline  -- 70 B.U. L. Rev. 597 1990
+
+BOSTON  UNIVERSITY  LAW  REVIEW
+
+[Vol.  70:593
+
+important  lesson of the Lochner period was  that constitutional  courts should
+not  treat  the  existing  distribution  of entitlements  pursuant  to  the  common
+law  as  sacrosanct.  Justice  Holmes  treated  the  rejection  of  the  Lochner
+framework-the  basic  ordering principle  for  the  unconstitutional  conditions
+doctrine-as  entailing  the  abandonment  of the  doctrine  as  well.
+
+On this view,  the only logical  replacement  for the doctrine  is  untrammeled
+governmental  discretion  in the  areas  of employment,  licensing,  and funding.
+That is:  when  a  citizen  participates  in  a program  to  which  there is no  ante-
+cedent  entitlement,  the  Constitution  imposes  no constraints  on  the  govern-
+ment's  decision  to  impose conditions.  It would  follow  that, for  example,  the
+government  might  award  grants  to artists  as it  chooses.  Indeed,  under  the
+Holmesian  view,  all  three  of the  cases  with  which  I  started  become  simple
+ones.  The  government  wins.
+
+This  position  represents  a  distinctive  reaction  to  the rise of the  regulatory
+state.  It takes the  New  Deal  repudiation  of common  law baselines  as  a  rea-
+son  to  abandon  baselines,  and to  this  (significant)  extent  constitutionalism,
+altogether.  But for  familiar  reasons,  the  rise of the regulatory  state  need not
+compel  the  complete  elimination  of constraints  on  governmental  activities
+that  pressure  what  would  otherwise  qualify  as  constitutional  rights.'  The
+Constitution  constrains  not  simply criminal  law,  but  all  governmental  con-
+duct.  If government  could,  for  example,  limit  spending  programs  to  those
+who  speak  favorably  of the  party  in  power,  there would  be a serious  distor-
+tion  of deliberative  processes--one  that  creates  precisely  the  same  dangers,
+in terms of both purposes and effects,  against which  the first amendment was
+originally  supposed  to  guard.  Governmental  conditions  on  the  receipt  of
+licenses  or funds may  have powerful  distorting effects  on (for example)  free-
+dom of expression'"  or racial  equality.' 9  All  this suggests that  in its broadest
+forms,  the  Holmesian  position  is  unacceptable.  It eliminates  constitutional
+protections  from  spending,  licensing,  and  employment  decisions,  without
+providing  a  plausible  explanation  for  so  doing.
+
+More  fundamentally,  and  perhaps  surprisingly,  the  Holmesian  position  is
+a  legacy  of precisely  the  pre-New  Deal  understandings  that  it  purports  to
+repudiate.  On  the  Holmesian  View,  coercive  governmental  entry  into  the
+
+17  There  has been  broad  agreement  on  the  importance  of inquiring  into  the  burdens
+that  governmental  activities  place  on  rights.  See,  e.g.,  Epstein,  supra note  3,  at  7-8;
+Sullivan,  supra note  3,  at  1500;  Van  Alstyne,  supra note  3,  at  1442.  See  also infra text
+accompanying  notes  46-53.
+
+18  See, e.g.,  FCC  v.  League  of Woman  Voters,  468  U.S.  364  (1984)  (holding  that  a
+federal  regulation conditioning  the award  of grants  upon public  broadcasters'  willingness
+to  refrain  from  editorializing  violates  the  first  amendment).
+
+19  See,  e.g.,  Yick  Wo  v.  Hopkins,  118  U.S.  356  (1886)  (striking  down  a  municipal
+ordinance  prohibiting  the  construction  of wooden  laundries  without  a  license,  where  the
+effect  of  the  condition  was 
+to  discriminate  against  Chinese  applicants).  On  the
+inadequacy  of  "the  greater  includes  the  lesser"  position,  see  infra  note  48  and  text
+accompanying  notes  47-54.
+
+HeinOnline  -- 70 B.U. L. Rev. 598 1990
+
+1990] 
+
+UNCONSTITUTIONAL  CONDITIONS DOCTRINE 
+
+599
+
+realm  of private autonomy  may  raise constitutional  objections;  spending  and
+benefit  programs  do  not.  This  view  thus  implements  constitutional  princi-
+ples  by  reference  to the  discredited distinction  between  a pre-political  sphere
+of  common  law  autonomy  and  a  post-political  sphere  of  governmental
+action. 20  After  the  New  Deal,  however,  governmental  benefit  and  spending
+programs  cannot  plausibly  be  viewed  as  a  regulatory  system  superimposed
+upon  a  set  of spontaneous  or natural  arrangements-a  central  lesson  of the
+demise  of Lochner.  If this is  so,  the  sharp  line  that  the  Holmesian  position
+draws  between  the  common  law  and  the  regulatory  sphere  depends  on
+assumptions  and  values  that  are  inconsistent  with  those  of  modem
+government.
+
+2.  Anti-redistribution
+
+The second  position was  prominent in the  early twentieth  century;  though
+it  has  echoes  in  many  places,"  it  has  perhaps  only  one  full-fledged  defender
+today.2'  Here  the  connection  between  the  unconstitutional  conditions  doc-
+trine  and  its  earliest  pre-New  Deal  manifestations  is  perhaps  clearest.
+
+This view  conceives  the  basic goal of the  doctrine as  preservation  and pro-
+tection  of Lochner-like  rights,  such  as  contractual  liberty  and  private  prop-
+erty,  under  new  circumstances.  As  elaborated  at  length  by  Richard
+Epstein,2"  the  unconstitutional  conditions  doctrine  operates  as  a second-best
+surrogate  for  outright  prohibition,  on  constitutional  grounds,  of  spending
+and taxing  programs.24  Sometimes,  for example,  the  doctrine  applies for the
+same  reason  that the  underlying  program  is  unconstitutional  as  "redistribu-
+tion";' 
+sometimes  it  applies  because  even  if  courts  were  to  uphold  such  a
+redistributive  program,  they  can  minimize  the  redistributive  consequences
+through  control of the "indirect"  constraints  imposed  by  the conditions.  In
+its  early  twentieth-century  incarnation,  and  in  Epstein's  own  version,  this
+idea  grows  out  of the  same  framework  that  accounted  for  Lochner v. New
+York  and  various  other  decisions  invalidating  modern  legislation.2 6
+
+20  See  Sunstein,  Lochner's Legacy, supra note  6,  at  882.
+21  For  a  recent  example,  see  Nollan  v.  California  Coastal  Comm'n,  438  U.S.  825
+(1987)  (holding  the  Commission's  conditioning  the  right  to  develop  private  beachfront
+property  on  landowner's  providing  public  easement  to  be an  invalid  taking  of property).
+
+22  See  Epstein,  supra note  3, for  the basic  statement  and  defense.
+23  Id.
+24  Epstein  writes  that  the doctrine  functions  to "  'take  back'  some  of the power  which
+
+had  been  conferred  upon  government  officials  in  the  first  instance."  Id. at  28.
+
+25  For example, Epstein  argues that  "government  regulation  and taxation  are means  to
+effect  implicit transfers  of wealth between  individuals."  Id. at  103.  As one  commentator
+has  noted,  for  Epstein  "as  a  matter  of principle,  the  whole  social  security  and  welfare
+safety  net  is  unconstitutional."  Grey,  The  Malthusian Constitution, 41  U.  MIAMI  L.
+REV.  21,  23  (1986).
+
+26  See,  e.g.,  Adkins,  261  U.S.  at  557-58  (minimum  wage  statute  is  a  "compulsory
+exaction  from  the  employer  for  the support  of a  partially  indigent  person").  Of course
+Epstein  would  accord  constitutional  protection,  under  the  unconstitutional  conditions
+
+HeinOnline  -- 70 B.U. L. Rev. 599 1990
+
+BOSTON  UNIVERSITY  LAW  REVIEW
+
+[Vol.  70:593
+
+This understanding  of the doctrine  would  suggest-to  take one example-
+that  a government  that  funds public  schools  must also  fund private  schools.
+On this account,  some version  of a voucher  system, in which the  government
+would  also finance  students  who  chose to  attend  religious schools,  would  be
+constitutionally  compelled.' 
+If government  funds  only  public  schools,  it
+works  an  impermissible  redistribution  from  one  group  of  taxpayers  to
+another;  and  it  is  redistribution  against  which  the  doctrine  must  guard.
+
+It should not  be difficult  to  see  why  this approach  is  unacceptable.  First,
+no  constitutional  provision  forbids  "redistribution., 28  After  the  demise  of
+the  Lochner period,' 
+the  Constitution  has  been  interpreted  to  authorize  a
+wide  range  of transfers  from  some  groups  to  others,  largely  on  the  under-
+standing  that  existing  distributions  of  wealth  and  property  are  not  sacro-
+sanct.  When a  "redistribution"  is  unconstitutional,  it  is  not  because  of any
+general  constitutional  disability,  but because  particular constitutional  provi-
+sions  rule  particular  government  acts,  some  of them  of course  "redistribu-
+tive,"  off-limits.  For example,  a welfare  program  limited  to  members  of the
+Republican  party is  impermissible  because  of the  specific  constraints  of the
+first  amendment.  An unconstitutional  conditions  doctrine  rooted in  an anti-
+redistributive  norm  is  simply  too  general  a  framework  for  approaching  a
+constitutional  system  that  offers  quite  concrete  prohibitions.
+
+doctrine,  to  rights  of  free  speech  and  free  exercise  as  well  as  to  rights  of  property
+ownership and contractual  freedom.  In all cases,  however, the basic reason  for protection
+is  his  fear  of governmental  "redistribution"-an  impermissible  goal  that,  in  Epstein's
+framework,  cuts  across  a  wide  range  of  constitutional  protections.  Because  Epstein
+would  grant  protection  to  modern  rights  of this  sort,  his  approach  is  not  limited  to
+Lochner-like rights of property  and  contract;  but  the reasons  for  the protection  of other
+rights  stem precisely  from  the  Lochner framework.  That  framework  accounts  for  some
+other oddities  in  his  analysis  as well,  such  as the  suggestion that  taxpayers  with religious
+objections  have a constitutional  right  to prevent their funds from  being used  for abortion.
+Epstein,  supra note  3, at  97.
+
+27  See  L.  TRIBE,  supra note  2,  at  1275.
+28  The  takings clause  is of course  anti-redistributive,  but  it has never  been  and  should
+not  be  taken  as  a  wholesale  assault  on  all  governmental  action  with  redistributive
+consequences.  For  a  contrary  view,  see  R.  EPSTEIN,  TAKINGS:  PRIVATE  PROPERTY
+AND  THE  POWER  OF  EMINENT  DOMAIN  (1985)  (arguing  that  the  concept  of private
+property  is  inconsistent  with  a  welfare  state  and  that  the  takings  clause  itself prohibits
+public  transfers  and  welfare  programs).
+
+The notion of "redistribution"  itself depends on a  theory  of antecedent  entitlements.  If
+existing  distributions  are  themselves  without  prepolitical  status,  and  if  they  are
+questionable  from  the  standpoint  of justice,  efforts  to  change  them  will  not appear  to  be
+"redistribution"  at  all.  See  T.  POGGE,  REALIZING  RAWLS  (1989) 
+(arguing  that
+institutional  orders  themselves  establish  inequities  that  result  from  collective  actions  in
+creating  and  perpetuating  these  orders).
+
+29Notably,  there  was no  general barrier  to redistribution  in the  founding period.  See
+Grey, supra note  25,  at  41-42 (arguing that  the "duty  of public support for  the destitute"
+is a  consistent  theme in  Western  thought and  that the  framers left  this "familiar  system"
+undisturbed).
+
+HeinOnline  -- 70 B.U. L. Rev. 600 1990
+
+1990] 
+
+UNCONSTITUTIONAL  CONDITIONS DOCTRINE 
+
+601
+
+More  fundamentally,  the  second  position,  rooted  as  it  is  in  Lochner,
+depends on  conceptions  of the  purpose  of the  state  and  the  correlative  judi-
+cial  role30  that  have been  roundly  repudiated  in  the  twentieth  century,  and
+for good  reasons."1  It is  here  that  one  can find a  surprising but firm  alliance
+between  Holmesianism,  minimally intrusive  on governmental power,  and the
+anti-redistributive  position, maximally  intrusive on such  power.  For all  their
+differences,  both  positions  draw  a  sharp  distinction  between  the  realm  of
+common  law  autonomy  and  the  realm  of public  law.  Both  positions  under-
+stand the  unconstitutional conditions  doctrine  by  reference  to  precisely  that
+distinction.  But barring  a return to Lochner, redistributive  and  paternalistic
+programs  are  no longer constitutionally  out-of-bounds.  An  unconstitutional
+conditions  doctrine  built on  pre-New  Deal  foundations  is  poorly  adapted  to
+the  regulatory  state.
+
+3.  Subsidy  vs.  Penalty
+
+The  third  position,  represented  by  the  current  constitutional  main-
+stream,32  sees  the  unconstitutional  conditions  doctrine  as  an  effort  to  pre-
+serve  legal  requirements  of governmental  neutrality  under  different  social
+and economic  conditions.  It is  in  this requirement  of government  neutrality
+that  one  finds  the  staples  of the  unconstitutional  conditions  doctrine:  the
+government  may  not  do  indirectly  what  it may  not  do directly;  government
+may  not  "penalize"  the  exercise  of constitutional  rights;  and  government
+may  not coerce  people  into relinquishing  constitutional  rights  through regu-
+lation,  spending, and licensing,  any more  than it may do so through criminal
+sanctions.
+
+These  are  the  conventional  arguments  in  the  cases.' 
+
+In  some  respects,
+
+30  For  Epstein,  that  role  is  to  preserve  economic  liberties  and  private  property.
+
+Epstein,  supra note  3, at  103.
+
+31  J.  RAwLs,  A  THEORY  OF  JUSTICE  (1971)  and  B.  ACKERMAN,  SOCIAL  JUSTICE  IN
+THE  LIBERAL  STATE (1980)  provide  philosophical treatments  within  the liberal  tradition.
+For  an  analysis  along  similar  lines  with  particular  focus  on  the  appropriate  scope  of
+regulation,  see  C.  SUNSTEIN,  AFTER  THE  RIGHTS  REVOLUTION  (1990).
+
+32  Every  Supreme Court justice  has set forth a  position  of this  sort within the  last  two
+decades.  For a careful  elaboration  of the basic  principles  here, see  Kreimer, supra note  3.
+3  See, e.g.,  Arkansas  Writers'  Project  v.  Ragland,  481  U.S.  221,  229  (1987)  (holding
+invalid  a  tax  benefitting  "fledgling"  publisher  because  it  burdens  the  first  amendment
+rights  of  other  publishers);  FCC  v.  League  of  Women  Voters,  468  U.S.  364  (1983)
+(invalidating  a  section  of  the  Public  Broadcasting  Act  of  1967  which  banned
+noncommercial  television  stations  who  receive  grants  from  the  Corporation  for  Public
+Broadcasting  from  "editorializing");  Harris v.  McRae,  448  U.S.  297  (1980)  (holding that
+due  process  does  not  require  states  to  pay  for  medically  necessary  abortions  for
+indigents);  Sherbert  v.  Verner,  374  U.S.  398  (1963)  (holding that  conditioning  receipt  of
+unemployment  benefits  on  recipient's  willingness  to  work  on  the  Sabbath  contrary  to
+religious  beliefs  violates  the first  amendment);  Shapiro  v.  Thompson, 394  U.S.  618  (1969)
+(holding 
+residency
+requirements  violates  the equal  protection  clause).
+
+receipt  of  welfare  benefits  on  durational 
+
+that  conditioning 
+
+HeinOnline  -- 70 B.U. L. Rev. 601 1990
+
+BOSTON  UNIVERSITY LAW  REVIEW
+
+[Vol.  70:59i
+
+they  are  highly  salutary,  especially  insofar  as  they  recognize  the  possibility
+that  non-criminal  sanctions  often  affect  constitutional  rights  in  ways  that
+government  is  unable  to justify.  Above  all,  these  ideas  operate  as  a correc-
+tive  both  to  approaches  that  see  common  law  rights  as  the  general  baseline
+against  which  an  unconstitutional  conditions  doctrine  must  operate,  and
+those who,  following Holmes,  suggest that  courts should  not  limit the  intru-
+sions  on constitutional  rights that  occur  through  spending  and employment
+decisions.
+
+In  many  respects,  however,  this  third  approach  is  vulnerable,  not  least
+because  in finding the  regulatory  state a  strange  and intermittent  intruder,  it
+has  far more in common  with Lochner-like ideas  than  appears at first glance.
+The  approach  thus  poses  several  problems.  The  first is  that  generating  the
+appropriate  baselines  from  which  to  distinguish  subsidies  from  penalties  is
+exceptionally  difficult. 4   Harris v.  McRae,' 
+in  which  the  Supreme  Court
+upheld  a  government  decision  to  fund  childbirth  but  not  to  fund  medically
+necessary  abortions,  illustrates the  problem.  There  the  Court  said  that  Con-
+gress'  decision  not  to  fund  abortions  through  the  Medicaid  program  was
+permissible  because  it  amounted  to  a  mere  refusal  to  subsidize.  The  Court
+acknowledged  that  a  "penalty"  would  be unconstitutional  because  it  would
+impermissibly  burden  a woman's  constitutionally  protected  right to an abor-
+tion.  For  example,  a  decision  to  withdraw  welfare  benefits  from  everyone
+who has  had an abortion  would, the  Court  noted, raise "a  substantial  consti-
+tutional  question."'
+
+But  how  does  one  decide  whether  the  refusal  to  pay  for  medically  neces-
+sary  abortions  is  a "subsidy"  or a  "penalty"  in  the  face  of government  fund-
+ing  of  childbirth  and  almost  all  other  medically  necessary  expenditures?
+Perhaps  government  action  should  be  deemed  a  penalty  rather  than  a  sub-
+sidy  when  the  government  prevents  someone  from  obtaining  something  to
+which she would  "otherwise"  be entitled.  This formulation,  however,  makes
+the distinction  between  "subsidy"  and  "penalty,"  like  the  very  category  of
+''coercion,"  rely  on  a  baseline  defining  the  ordinary  or  desirable  state  of
+affairs."  The  courts  must  rely  on  some  status  quo  to  decide  what  people
+would  "otherwise"  receive.  In  a  post-Medicaid  world, is  not  a  poor woman
+seeking  an abortion  "otherwise"  entitled  to payment  for  medically  necessary
+expenditures,  including  abortions?  The Harris dissenters  made precisely  this
+
+34 See  Sullivan,  supra note  3, at  1416-17.
+35 448  U.S.  297  (1980).
+36  Id. at  317  n.19.
+11  See, e.g.,  Kreimer, supra note  3, at  1358-59  ("Our  problem  ... 
+
+lies in  the challenge
+to  specify  an  appropriate  normal  course  of events  from  which  to judge  deviations.");
+Nozick,  Coercion, in PHILOSOPHY,  SCIENCE,  AND  METHOD  440, 447  (S. Morgenbesser,
+P. Suppes  & M.  White  eds.  1969)  (suggesting  that  "threats"  involve  a departure  from  a
+baseline  of the  "normal  course  of events,"  that  detriment  the  recipient);  Sullivan, supra
+note  3, at  1439-40  (arguing  that  outcomes  change  depending  on  how  baselines  are
+defined).
+
+HeinOnline  -- 70 B.U. L. Rev. 602 1990
+
+1990] 
+
+UNCONSTITUTIONAL  CONDITIONS DOCTRINE 
+
+603
+
+argument.3a  The majority replied  that there had never been a general  entitle-
+ment  to  funding  of  all  medically  necessary  treatments. 9  The  dissenters
+might have  answered  that  the  existence  of a  Medicaid  program  altered  the
+baseline  to  one  containing  such  a  general  entitlement.  But  the  majority
+might  have  responded:  Why?
+
+All  this  suggests  that  the  development  of the  relevant  baseline  is  enor-
+mously  difficult.  In  Harris, the  Court  appeared  quite  reflexively  to  use  a
+common  law  baseline  that  assumed  government  funding  to  be  exceptional
+rather  than ordinary,'  but the common  law  may simply  no longer be appro-
+priate  in these  cases.  Once  the  common  law  touchstone  is abandoned,  how-
+ever,  it  is  not  at  all  clear  what  standard  is  to  replace  it.  If  the  subsidy-
+penalty  line is  crucial, development  of proper baselines is the  key issue;  but it
+is  also  an  issue  on  which  the  unconstitutional  conditions  doctrine  and  the
+subsidy-penalty  distinction,  standing by  themselves,  have  absolutely  nothing
+to  say.41
+
+The  problem  goes  deeper.  Sometimes,  as  I  argue  below,  the  government
+the  exercise  of  constitutional  rights  through
+can  legitimately  "penalize" 
+selective  funding.'  Some  constitutional  provisions  do indeed permit  regula-
+tion  through  funding  but not  through  criminalization.  It is  hardly  self-evi-
+dent, in  any  case,  that  all  penalties  must  be  unconstitutional.
+
+This point leads to  the  broader conclusion  that  the development  of a base-
+line  to  distinguish  between  penalties  and  subsidies  is  neither  necessary  nor
+sufficient.4'  The  Constitution  offers  no  general  protection  against  the  impo-
+sition of penalties  on the exercise  of rights.  Instead, the question  the  Consti-
+tution  ordinarily  makes  it  necessary  to  ask  is  whether  government  has
+intruded  on  a right  in  a way  that  is  constitutionally  troublesome  and,  if so,
+whether  government  can justify  its intrusion  under the  appropriate  standard
+of  review.  The  view  that  there  is  a  unitary  category  of intrusions  called
+"unconstitutional  conditions"  is  the  product  of a belief that  in  a  certain  set
+of  cases,  another  question-"subsidy/penalty"--displaces 
+the  ordinary
+inquiry  altogether.  But  it  is  not  at  all  clear  why  this  displacement  should
+occur.
+
+Even more fundamentally,  the very  notion that one should approach  these
+cases  with  a  distinction  between  penalties  and  subsidies  has  much  in  com-
+
+38  Harris, 448  U.S.  at 330-32  (Brennan,  J.,  dissenting);  see also Kreimer, supra note  3,
+at  1375-76  (noting that  "[a]s  a matter of history,"  abortions were funded prior  to Harris).
+
+39  Harris, 448  U.S.  at  317-18.
+40  Thus  the  Harris majority  writes  that  "[t]he  Hyde  Amendment  leaves  an  indigent
+woman  with  at  least  the  same  range  of choice  in deciding  whether  to obtain  a medically
+necessary  abortion as she  would  have had  if Congress  had  chosen to  subsidize no  health
+care  costs at  all."  Id. at 316.
+
+41  See Sullivan, supra note 3, at  1420.
+41  The  clearest example  is government's decision  not to fund private  schools.  See infra
+
+text  accompanying  notes  54-59.
+
+43  See  Sullivan,  supra note  3, at  1450.
+
+HeinOnline  -- 70 B.U. L. Rev. 603 1990
+
+BOSTON  UNIVERSITY  LAW  REVIEW
+
+[Vol.  70:593
+
+mon  with  the  two  positions  that  appear  to be  its  adversaries.  As  with  the
+Holmesian  and  anti-redistributive  approaches,  the  subsidy-penalty  distinc-
+tion appears  to  depend  on the notion  that  the regulatory  state is  an  artificial
+supplement  to  an  otherwise  well-defined  status quo.  The  distinction  simply
+cannot be  administered  without  some such  notion."  Moreover,  the  distinc-
+tion cannot  be  sustained in  light of the  omnipresence  of government  spend-
+ing  and  funding.  A  set  of doctrines  that  assumes  that  spending  programs
+are  an  artificial  supplement  to  a  system  of common  law  ordering-in  short,
+an inquiry  into subsidy or  penalty-is inconsistent  with the  values  and oper-
+ation of modem  government.
+
+All  three  of the  prominant  approaches  to  the  subject are  too general  to be
+helpful  in  dealing  with  cases  involving  particular  prohibitions  on  govern-
+ment  activity.  Moreover,  they  are  anachronisms.  And  they  are  anachro-
+nisms  in  precisely  the  same  sense:  they  treat  common  law  ordering  as  the
+usual state of affairs and  see governmental  funding as a questionable  interfer-
+ence  with  an  otherwise  stable  status  quo.  To  be  sure,  such  interference
+might  well  raise serious  constitutional  problems.  But nothing  in  the  uncon-
+stitutional  conditions  doctrine  is  likely  to  be  helpful  in  resolving  those
+problems.
+
+B.  Plausible Functions of Current Doctrine, and Why  They  Can Be
+
+Served in  Other  Ways
+
+The discussion  thus  far suggests  that the  unconstitutional  conditions  doc-
+trine  has  taken  the  shape  that  it  has  and  produced  the  debates  that  it  has
+only  in  reaction  to  a  set  of particular,  quite  distinctive  historical  conditions.
+In short,  the doctrine  filled  a  particular  gap in  post-New  Deal  constitutional
+theory by  offering  a means of placing limits on novel governmental  activities.
+We  might  make  this  point by  imagining  a  different  society  in  which  collec-
+tive  constraints  were,  from  time  immemorial,  carried  out  through licensing,
+funding,  and  employment  decisions.  In  such  a  society,  the  criminal  law
+would  be  absent,  and  constitutional  safeguards  would  be  applied  to  the
+familiar  kinds of sanctions.  Suppose  that after many generations,  the society
+created  a new  set  of sanctions--call  them criminal  fines  and confinement-
+as a  supplement  to  its  basic  regulatory  system.
+
+Such  a  society  might at  that  point  find  it  necessary  to  create  a  set  of doc-
+trines  to  control  this  novel  kind  of intrusion,  one  that  sometimes  adversely
+
+44  Although  this  is  usually  so,  it  is not  necessarily  so  as a  logical  matter.  At  least  in
+theory,  one  could define  the status  quo  not by  reference  to current  practice  or  to  history,
+but  instead  by  reference  to  some  baseline  justified  as  a matter  of  principle.  But  there
+would  be enormous  difficulties  in  establishing  the foundations  for  any  such justification.
+Cf  Kreimer,  supra note  3,  at  1359-74  (developing  a  baseline  analysis  grounded  in
+considerations  of  history,  equality,  and  prediction);  Simons,  Offers,  Threats,  and
+Unconstitutional Conditions, 26 SAN  DIEGO  L.  REv.  289  (1989)  (arguing that  the  proper
+baseline  for  measuring threats  and offers  is what  the government  would  have  provided  if
+it could  not  impose  conditions).
+
+HeinOnline  -- 70 B.U. L. Rev. 604 1990
+
+1990] 
+
+UNCONSTITUTIONAL  CONDITIONS DOCTRINE 
+
+605
+
+affected  constitutional  rights.  Once  the  society  matured, however,  the  cate-
+gory  of criminalization  would  no  longer  be administered  as  a  unitary  doc-
+trine.  It  would 
+the  more  familiar
+constitutional  safeguards  that  inquire  into  the  nature  of  the  burden  on  the
+relevant  rights  and the  available  government justifications  for imposing  that
+burden.
+
+its  place  alongside 
+
+instead 
+
+take 
+
+For  modern  observers,  then,  the  question  has  to  do  with  what  genuine,
+nonobfuscating  work the unconstitutional  conditions  doctrine  is necessary  to
+perform.  I  suggest  here  that  it  is  possible  to  identify  three  such  functions.
+But because  the  unconstitutional  conditions  doctrine  is  not necessary  to  dis-
+charge  these  tasks,  and  because  the  tasks  can be  carried  out  through  other,
+more  particular,  approaches,  I  argue  that  the  unconstitutional  conditions
+doctrine  should  be  abandoned.45
+
+1.  Identifying  a  Technique  of Burdening
+
+The  first  function  the  unconstitutional  conditions  doctrine  performs  is  to
+identify  a  technique  by  which  government  affects  or  burdens  constitutional
+rights.6  The  doctrine  serves  to  alert  courts  to  the  fact  that  a  government
+spending  decision-for  example,  a  decision  to  condition  the  receipt  of wel-
+fare  benefits  on  a  waiver  of first  or  fourth  amendment  rights-often  affects
+constitutional  rights  in ways  that  call  for  persuasive justification  or  perhaps
+invalidation.
+
+The  doctrine  thus  reminds  courts  that  it  would  be  quite  wrong  to  disre-
+gard  the  effects  that  spending  decisions  may  have  on  constitutional  rights,
+even  if there  is  an  apparent  or  real  individual  waiver.  But  the  fact  that
+spending  decisions  do  affect  constitutional  rights  should  hardly  be  thought
+surprising  or  unusual.  A  reminder  of the  possibility  that  constitutionally
+troublesome  burdens  can be imposed  through spending,  licensing,  or regula-
+tion is  necessary  only  to those  who  hold  an outmoded  view  of what  modern
+government  does.
+
+2.  Responding  to  Persistent  Arguments
+
+The  second  function  of the  unconstitutional  conditions  doctrine  is  to pro-
+vide  a  shorthand  and  sometimes  persuasive  response  to  two  familiar  argu-
+ments.  The first  is  that if government  has no duty to create  a  program at  all,
+it  may  create  the  program  with  certain  conditions.  The  greater  power,  in
+short, necessarily  includes  the  lesser.  The  second argument  invokes  the  lan-
+guage of voluntariness.  If, for  example,  a person  has  freely  chosen  to forego
+
+45  It would follow  that  the  approaches  in Kreimer, supra note  3, and  L.  TRIBE, supra
+note  2, are  misguided,  and  for the same  reason.  It remains  true, however,  that  there  will
+be  some  commonalities  in  judicial  treatment  of  constitutional  attacks  on  funding  and
+licensing  decisions,  once  those  attacks  are seen  as raising  not unconstitutional  conditions
+questions,  but  instead,  for  example,  first,  fifth,  and  fourteenth  amendment  questions.
+
+46  Emphasized  in  Sullivan,  supra note  3, at  1419.
+
+HeinOnline  -- 70 B.U. L. Rev. 605 1990
+
+BOSTON  UNIVERSITY  LAW  REVIEW
+
+[Vol.  70:593
+
+rights  of  free  speech  in  order  to  work  for  the  government,  it  might  be
+thought  that  the  courts  have  no  reason  to  intervene.
+
+Unpacking  what  is  right  and  what  is  wrong  in  these  two  arguments
+requires  substantial work.47  The  unconstitutional  conditions  doctrine  serves
+as a  brief response  to these  arguments  in their  crudest  forms.  It responds  to
+the  implausible  idea  that the  government's  power  not  to create  the program
+necessarily  includes the  power  to  impose  whatever  condition  it chooses,  and
+to  the equally implausible  idea that  there can never be a constitutional  obsta-
+cle to  an arguably  or actually  voluntary  individual  choice.  But the  implausi-
+bility  of these  arguments,  in  their  broadest  forms,  should  be  self-evident
+under  modern  conditions.  The  short  response  is  that  it  is  often  irrelevant
+that  the  government  need  not  fund  at  all  or  that  the  recipient  accepted  the
+condition.  The  Constitution  limits  the  reasons  for  which  government  may
+act and the  effects of its actions.  A welfare  program limited  to  Democrats  is
+unconstitutional  because  of the first  amendment;  points about  voluntary  par-
+ticipation  and  the  "greater  power"  are  simply  a diversion.4  Courts  do  not
+need an  unconstitutional  conditions  doctrine  in  order  to make  the  necessary
+response.  Whether  the  greater  power  includes  the  lesser,  and whether  there
+is  a  legal  obstacle  to  an  apparently  free  choice,  depend  on  a  reading  of the
+constitutional  provision  at  issue,  not  on  shorthand  phrases.
+
+3.  The  Character  of Substantive  Rights  and  the  Nature  of
+Government  Justifications
+
+The  third  function of the  unconstitutional conditions  doctrine  is  to  reveal
+something  true,  important,  and  perhaps  surprising  about  the  character  of
+some  substantive  rights  and  the  nature  of  government  justifications. 
+In
+short,  the  doctrine  reveals  that  some  constitutional  rights  are  not  rights  to
+government  neutrality  at all.  In  some contexts,  government has  available  to
+it certain  justifications  that  allow  it  to  be selective  in  decisions  with  respect
+to  funding,  licensing,  or employment.
+
+47  See  Epstein,  supra note  3,  at 60-64;  Sullivan,  supra note  3,  at  1420.
+48  To say  this is  not to deny  the  need  to  develop  quite  concrete  responses,  which  will
+vary with  context.  For example,  a  citizen  might  voluntarily  agree  to  waive  her right  to
+free  speech  in return  for welfare  benefits,  and be better off as a  result.  The constitutional
+question,  however,  is  not whether  she  is better off in  the abstract, but instead  whether  she
+is  better off, or  equally well  off, with  respect to the right in question.  The fact  that an  offer
+to purchase  the right  to free speech  in return  for welfare benefits  might make the  recipient
+better  off under  Paretian  criteria  hardly  disposes  of the  constitutional  question-at least
+not  if the  right  is  to government  neutrality.
+
+To take another example:  Waivers  of constitutional  rights may be individually  rational
+but  have  large  adverse  structural  or  systemic  consequences.  That  is,  governmental
+purchase  of  the  right  to  vote,  or  the  right  to  free  speech,  undermines  the  first
+amendment's  broad protection  not only  of individual autonomy,  but also of certain forms
+of government.  See  Sunstein,  Government  Control of Information, 74  CALIF.  L.  REV.
+889,  915  (1986).
+
+HeinOnline  -- 70 B.U. L. Rev. 606 1990
+
+1990] 
+
+UNCONSTITUTIONAL  CONDITIONS DOCTRINE 
+
+607
+
+The  point  is  a  bit  obscure  in  the  abstract,  but  it  emerges  quite  naturally
+from  the  cases.  Consider,  for  example,  a statute  through which  the govern-
+ment provides  medical  benefits only  to  those who  agree  to speak for  a Demo-
+cratic  presidential  candidate,  and to speak  against the  Republican candidate.
+Such  a  statute  would  be  unconstitutional.  The  right  to  free  expression  is  a
+right  to government  neutrality  as among  competing  ideas.  It does  not  mat-
+ter  whether  government  violates  the  neutrality  requirement  by  imposing
+criminal  prohibitions  or by  providing  cash  payments.
+
+By  contrast,  imagine-a  case  in  which  the government  pays  for  secondary
+education,  but only  for  those who  send  their  children  to  the  public  schools.
+The  Supreme  Court  has  interpreted  the  Constitution  to  include  a  right  to
+send  one's  children  to  private schools;4 9 but that  right  operates only  against
+criminal  sanctions,  and  not  against  the  incentive  effects  to  which  parents
+are  subject  when  government  funds  public  but  not  private  education.  This
+understanding  of the  relevant  right is  controversial,  but it is  perfectly  intelli-
+gible.  In some  cases,  the  government  has legitimate  and distinctive  interests
+that  permit  it  to  engage  in  conduct  on  the  spending  side  that  would  be
+impermissible  on the criminal  side.  In the  spending context,  the  government
+may  be  able  to  invoke  justifications  that  are  tightly  connected  to,  and
+become legitimate  because  of, the very  fact that  it is engaging  in those activi-
+ties.  In  the  public  school  setting,  for  example,  government  can  plausibly
+justify its  selectivity by  the need to  ensure that public funds  are not spent on
+religious  activities.
+
+There  are  other  examples  as  well.  In  Snepp  v.  United  States,5x  the
+Supreme  Court  upheld  the  use  of secrecy  agreements  to  regulate  speech  by
+employees  of the  Central  Intelligence  Agency.  The  best  argument  for  this
+result  is that in its capacity  as  manager of an  intelligence  agency,  the govern-
+ment has  legitimate  interests, not related  to censorship  in the ordinary  sense,
+that  justify  restrictions  on  the speech  of those who  have  access  to  sensitive
+information.  Similarly,  a  possible  argument,  taken  up  below,  for  the  out-
+come in Harris would  be  that  the government  can  properly consider  taxpay-
+ers'  religious  and  moral  objections  to  the  practice  of abortion  in  deciding
+what  sorts of medically  necessary  operations  it  will  fund. 2
+Lyng  v.  International  Union5 3  offers  a  final  example. 
+
+In  Lyng,  the
+Supreme  Court  upheld  an  amendment  to  the  Food  Stamp  Act  prohibiting
+strikers  from  receiving  food  stamp  benefits.  A  plausible  argument  for  this
+outcome  would  rely  on the  proposition  that  even  if the  government  cannot
+
+49  Pierce  v.  Society  of Sisters, 268  U.S.  510  (1925).
+10 In Pierce, the sanction  involved  a state  statute making  it a  misdemeanor for  parents
+not  to send  their  children  to  public  schools.  See  also Wisconsin  v.  Yoder,  406 U.S.  205
+(1972)  (holding  that  the state  may  not  enforce  a  criminal  statute  against  Amish  families
+refusing  to send  children  to  public  school  beyond  the  eighth  grade).
+
+51  444  U.S.  507  (1980).
+52  See  infra text  accompanying  notes  69-77.
+M 485  U.S.  360  (1988).
+
+HeinOnline  -- 70 B.U. L. Rev. 607 1990
+
+BOSTON  UNIVERSITY  LAW  REVIEW
+
+[Vol.  70:593
+
+forbid strikes through  criminal  punishment,  it  may  allocate scarce  resources
+to  those  who  are  genuinely  in  need.  The  government,  on  this  view,  may
+legitimately  conclude  that  strikers  are  not  in  need  in  the  same  sense  as  are
+most  unemployed  people.
+
+To  say  all  this  is  not  to  supply  a  decisive  argument  in  favor  of Snepp,
+Harris, or  Lyng.  It  is,  however,  to  suggest  that  whether  the  issue  is  one  of
+funding,  licensing,  or employment,  the  government  may have distinctive  and
+unusual  justifications  to  support  what  are  by  hypothesis  constitutionally
+troubling  burdens  on  protected  rights.  It  is  on this  point  that  current  doc-
+trine  contains  a  core  and  unavoidable  insight:  Funding,  regulating,  and
+from  criminal
+licensing  decisions  are 
+punishment.
+
+sometimes  different 
+
+indeed 
+
+But  is  an  unconstitutional  conditions  doctrine  necessary  to  accomplish
+this task?  It would  be far  more  straightforward  to  ask whether  the  govern-
+ment  has  available  to  it  distinctive  justifications  because  of  the  context  in
+which  the  relevant burden  is imposed.  Nothing  in the  unconstitutional  con-
+ditions  doctrine  is  helpful  in  answering  that  question,  or  even  in  suggesting
+the  need  to  ask  it.  The  doctrine  should be  abandoned.
+
+II.  BEYOND  THE  UNCONSTITUTIONAL  CONDITIONS  DOCTRINE
+
+Thus far my discussion  has  been  quite general.  I  have argued  in favor  of a
+shift  from  an  emphasis  on whether  there  has  been  "coercion"  or  "penalty"
+to an  inquiry  into  the  nature  of the  interest  affected  by  government  and the
+reasons  offered by  government  for its  intrusion.  The  inquiry into both inter-
+is  not  unconstrained.  The  Constitution  identifies  a
+ests  and  reasons 
+restricted  category  of  protected  rights  and  limits  the  category  of justifica-
+tions  that  government  may  offer.
+
+In  this  Part,  I  attempt  to  give  more  particular  content  to  these  general
+suggestions.  The discussion  will be  tentative  and exploratory,  attempting  to
+structure  inquiries  rather  than  to  offer  final  answers.  One  might  of course
+accept  my  general  claims  about  the anachronistic  and unhelpful  character  of
+the  unconstitutional  conditions  doctrine,  and  about  the  need  to  shift  from
+coercion  to  reasons,  without  at  the  same  time  accepting  my  particular
+conclusions.
+
+There  will  be  two  cross-cutting  themes.  The  first  and  most  important  is
+the  need  for  attention  to  the  constitutional  provision  at  issue.  In  all  of the
+cases,  the  question is  whether the  measure  at issue  interferes  with a constitu-
+tional  right, properly  characterized,  and,  if so, whether  the  government  has
+sufficient  justification  for  its  interference.  These  questions  cannot  be
+answered  in  the  abstract.  Different  conclusions  will  be  appropriate  under
+different  provisions.  A  major  problem  with  the  unconstitutional  conditions
+doctrine  is that it diverts attention  from this fact, and indeed  from the partic-
+ular  provision  in  question.
+
+The  second  theme  concerns  the  relevance  for  constitutional  purposes  of
+moral  or  conscientious  objections  to  spending  decisions  by  segments  of the
+
+HeinOnline  -- 70 B.U. L. Rev. 608 1990
+
+1990] 
+
+UNCONSTITUTIONAL  CONDITIONS DOCTRINE 
+
+609
+
+taxpaying  public.  In general,  such objections  often  provide  a  legitimate  rea-
+son for funding  decisions.  What  is  the  status  of those  objections  in  funding
+that  involves  constitutionally  troublesome  areas?  Perhaps  surprisingly,  I
+argue that  for  the most  part, moral  objections  ought not  to play  a significant
+role.
+
+A.  Public Schools, Private Schools
+
+We  have  seen  that  under  current  law,  government  is  constitutionally
+obliged  to  permit  people  to  send  their  children  to  private  schools;  but it  is
+under  no obligation  to  fund private schools  even  if it pays for public  schools.
+Neutrality  as  between  public  and  private  schools  is  not  a  constitutional
+imperative.'  Financial  pressures  that  induce  people  to  send  their  children
+to  public  school  raise  no  constitutional  problem.
+
+The  fact  that  the  Constitution  permits  nonneutrality  here  is  something  of
+a puzzle.  But for two reasons,  the  conventional  wisdom  is  probably  correct.
+First, the  right to  send  one's children  to  private  schools-rooted  in  the  free
+exercise clauseS---is  an  unusual one in  light of the  functions of the establish-
+ment  clause.  By  prohibiting  the  government  from  establishing  religion,  the
+first  amendment  imposes  a  special  disability  on religion.  In  that  sense,  the
+Constitution  is  not  neutral  as  between  religion  and  nonreligion.  Under  the
+establishment  clause,  an  exaction  from the  taxpayers  for  the  support  of reli-
+gious  organizations  is  a distinctive  harm,  one  that is  peculiarly  likely  to lead
+to  religious divisions  and  factional  strife.
+
+If this is  so, it  follows that  governmental  neutrality  as between  public  and
+private  schools  is  not  a  constitutional  imperative.  Many  taxpayers  would
+have  severe  objections  to  the  public  funding  of religious  schools.  Indeed,
+those objections  are an inextricable  part of the rationale behind  the  establish-
+ment  clause.  An  interpretation  of the  right  to  educate  one's  children  that
+would  compel  governmental  neutrality  would  be  inconsistent  with  the  logic
+of  the  religious  guarantees  themselves.  Governmental  neutrality  would
+probably  not  violate  the  establishment  clause,  but  it  would  raise  problems
+sufficient  to  provide  a justification  for  selective  funding. 56
+
+The  second  reason  for  this general  conclusion  is  that  any  government  has
+strong  and  legitimate  reasons  to  favor  public  over  private  education,  in
+order,  for  example,  to  foster  the  development  of an  integrated  national  or
+state  polity,  to  promote  citizenship, 7  and  to  break  down  barriers  of race,
+
+4 See  L.TRIBE,  supra note  2,  at  1275  & n.138.
+5 Pierce, 268  U.S.  at  510.
+o A  possible  response  to  this  argument  is  that  private  schools  are  not  necessarily
+religious  schools,  and  that  as a  result,  a decision  not  to fund  private  schools  cannot  be
+supported  by  the  desire  to  prevent  taxpayer  funding  of  religion.  But  it  is  probably
+sufficient  for  these  purposes  that  the  vast  majority  of  private  schools  are  religious.  It
+would  of course  follow  that  there  would  be  no  constitutional  problem  if the  government
+decided  to  fund  only  secular  schools,  whether  public  or  private.
+
+51  Meyer  v.  Nebraska,  262  U.S.  390,  401  ("That  the state  may do  much,  go  very far,
+
+HeinOnline  -- 70 B.U. L. Rev. 609 1990
+
+BOSTON UNIVERSITY  LAW  REVIEW
+
+[Vol.  70:593
+
+religion,  and  class.'  These  reasons  are  of course  insufficient  to  permit  an
+outright  governmental  prohibition  of private  schools.  But  they  are  signifi-
+cant  enough  to  permit  the  government  to  fund  public  but  not  private
+schools,  and through  that  route  to  encourage  attendance  at public  schools. 9
+Government  is  thus  constitutionally  authorized  to be  neutral  toward  pri-
+vate and  public  schools,  but it  is  under no  obligation  to  do  so.  A system  in
+which  government  may  fund  public  schools  but  not  private  schools,  and
+allows its  citizenry to opt out  of the  public  school system at  its own  expense,
+seems  to  be  the  best  reconciliation  of the  competing  interests-understood
+through  the  lens  of  the  constitutional  structure  generally  and  the  first
+amendment  in  particular.  In  this context,  then,  governmental  selectivity  is
+permitted,  not because  of the  absence  of "penalty,"  but because  of the  pres-
+ence  of legitimate  justifications.
+
+B.  Governmentally Funded Speech  and Art
+
+The question  of governmentally  funded speech  and  art  has  become  espe-
+cially  controversial  in  recent  years,  because  of  troublesome  selectivity  in
+funding  decisions  in  the  first  instance  and  because  of several  highly  visible
+efforts  to  withdraw  federal  or  state  money  from  publicly  disapproved
+projects."°  The  general  issue  is  likely  to  become  even  more  heated  in  the
+future.  Government  is  quite  frequently  implicated  in  the  funding  and  pro-
+motion of the  arts, and there are  both legitimate  and  illegitimate  reasons for
+refusing  to fund  or withdrawing  funds from certain programs.  Some of these
+cases  are  exceptionally  difficult,  and  my  conclusions  should  be  regarded  as
+especially  tentative.
+
+It will  be  useful  to  begin  by  illustrating  some  permissible  funding  deci-
+sions.  The  central  point  here  is  that government  has  limited  resources  with
+
+indeed,  in order  to improve the  quality of its citizens,  physically,  mentally and  morally  is
+clear  .... ).
+
+58  These  ideas  have  a  long  legacy;  they  are  ultimately  traceable  to  Thomas  Jefferson,
+among  others.  See Notes on  Virginia in  THE  PORTABLE  THOMAS  JEFFERSON  196-97  (M.
+Peterson  ed.  1975).
+
+In fact,  however,  the history  of the actual  practice  suggests  that  the public schools  were
+generic  protestant  institutions  created  because  of antipathy  to Catholics,  most  of whom
+were  immigrants.  All this  raises  some  doubts  about  the conclusion  ventured in  the text.
+If the  public  schools  are  an  effort  to  create  an  orthodoxy  rather  than  to  break  down
+factionalism,  the legitimacy  of the  underlying justification  is drawn  into  question.  There
+is,  moreover,  a conceptual  difficulty  in  distinguishing  between  the  two.
+
+59  Considerations  of  the  sort  suggested  in  this  paragraph  explain  the  basis  of  my
+uneasiness  with  Professor  McConnell's  approach  to  this  problem.  See  McConnell,
+Unconstitutional Conditions:  Unrecognized Implications for the Establishment Clause, 26
+SAN  DIEGO  L. REV.  255,  275  (1989)  (arguing that  the government's  decision  not to  fund
+parochial  schools  constitutes  a  "flagrant  burden"  on  constitutional  rights).
+
+60 These  include depictions of Mayor  Harold Washington  dressed  in  a bra and panties,
+Jesus  Christ  in  urine,  the  American  flag  on  the  floor  to  be  stepped  on,  art  involving
+AIDS,  and  sexually  explicit  art,  including  depictions  of  homosexuality.
+
+HeinOnline  -- 70 B.U. L. Rev. 610 1990
+
+1990] 
+
+UNCONSTITUTIONAL  CONDITIONS DOCTRINE 
+
+611
+
+which  to  fund  the  arts  and  its  allocations  are  necessarily  selective.  In  this
+area, generality  on the  part of government  is inconceivable.  From  this point
+at  least  three  conclusions  seem  straightforward.
+
+First, it is  surely permissible  for  government  to refuse  to fund speech  that
+can  be  banned  through  the  criminal  law.  A  refusal  to  fund  obscenity,
+libelous  speech,  or incitement  to crime  is  therefore  unobjectionable. 1
+
+Second,  funding  decisions  that  are  based  on  qualitative  or  aesthetic
+grounds  should  be  entirely  legitimate,  at  least  presumptively  and  in  most
+cases.  The government  might properly decide to  fund projects  that it consid-
+ers  to  be of high  caliber.  Indeed,  such  judgments  are  inescapable  for  those
+who  allocate  limited  resources.
+
+Third,  decisions  to  fund  projects  on  the  basis  of subject  matter  should
+generally  be  uncontroversial.  For  example,  there  should  be  no  basis  for
+complaint  if the  government  chooses  to  fund  projects  related  to  American
+history,  Chaucer,  World  War  II,  the  civil  rights  movement,  Egypt,  or  the
+film industry.  To say  that  government  may be in  the business  of funding  art
+is  almost by  itself to say that  government  may select  subjects  or topics  that it
+considers  worthy of approval.  Here  too the  existence of limited  funds makes
+any  alternative  approach  implausible.
+
+Taken  together,  these  conclusions  should  be  sufficient  to  authorize  the
+bulk  of current practice  with  respect  to funding  of the arts.  In  all  of these
+cases,  government  has  legitimate  reasons for  selectivity.  If government  may
+properly  make  decisions  by  reference  to  subject  matter  or to  aesthetic  qual-
+ity,  existing  policies  will  generally  be  upheld.
+
+Under  what  circumstances,  then,  might  serious  first  amendment  objec-
+tions arise?  The  most obvious  involve straightforward  discrimination  on the
+basis  of viewpoint.  Suppose,  for  example,  that  government  decides  to  fund
+projects  by  Democrats  but  not  Republicans,  or  only  by  those  who  have
+voted in favor  of the current  President.  The case is  an  easy one  for invalida-
+tion.  The  prohibition  on  discrimination  based  on  point  of view  lies  at  the
+heart  of the  first amendment.62  In this case,  both the purpose  and the  effects
+of governmental  action  are objectionable.  Moreover,  no distinctive,  funding-
+related  justification  is  available  to  authorize  the  government's  action.  Here
+the  problem  lies  in  the  absence  not  of "coercion,"  but of legitimate  reasons
+for  selectivity.
+
+The only  possible justification  for  viewpoint  discrimination  in  this setting
+would  be  the  taxpayers'  unwillingness  to  subsidize  art  by  people  they  find
+disagreeable.  But a  decision  to  admit this justification  would  allow  funding
+
+6  Of course  there  must  be  procedural  guarantees  to ensure  that  the  speech  at  issue
+
+actually  falls  in  the  unprotected  class.
+
+62  See  Stone,  Content Regulation and the First Amendment, 25  WM.  & MARY  L.  REV.
+189,  192-93  (1983)  (a  "central  first  amendment  concern"  is  the  free  communication  of
+individual  points  of  view).  See  also  Police  Dep't  v.  Mosley,  408  U.S.  92,  95  (1972)
+("[A]bove  all else,  the First  Amendment  means  that  government  has no power  to restrict
+expression  because  of its  message,  its  ideas,  its  subject  matter,  or  its content.").
+
+HeinOnline  -- 70 B.U. L. Rev. 611 1990
+
+BOSTON  UNIVERSITY  LAW  REVIEW
+
+[Vol.  70:593
+
+decisions  to  skew  artistic  creation  in  accordance  with  prevailing  political
+convictions,  especially  those  of governmental  actors.  At  least  in  a  world  in
+which  the  government  engages  in  a  wide  range  of  funding,  that  skewing
+effect  could  not  plausibly  be  tolerated.  Even  more  fundamentally,  the  core
+of  the  first  amendment 
+is  offended  by  governmental  efforts  to  skew
+expression.
+
+Slightly  harder  but  also  reasonably  clear  are  cases  in  which  government
+decides  to  fund  only  projects  that  contain  a  particular,  approved  viewpoint.
+Imagine,  for  example,  a  law  stating  that  the  National  Endowment  for  the
+Arts  (NEA)  will fund  only  those  projects  that  deal  favorably  with  the  cur-
+rent  performance  of the  American  government,  or  only  projects  involving
+the  Vietnam  War  that  portray  the  government  in  a  favorable  light.  An
+across-the-board  ban  on  the  funding  of projects  critical  of government  or
+embodying  governmentally-disapproved  views  would  at  least  usually  be
+impermissible.  Here  too the  government  cannot justify selectivity  in  consti-
+tutionally  acceptable  terms.63
+
+If these claims  are  broadly correct,  it is possible  to  develop  some  tentative
+conclusions.  The clearest  constitutional  violation  consists  of discrimination
+on the  basis of point  of view."  Most  other decisions will  be permissible,  for
+they  will involve  subject  matter  or aesthetics.  The  hardest  cases  arise  when
+the  relevant  discrimination  seems  to  involve judgments about  subject  matter
+or aesthetics  but  is  in  fact an  effort  to  control  a  particular  point  of view.
+
+The  problem  is  that  the  line  between  these  two  categories  is  an  elusive
+one-not only  in  the  uninteresting  sense that there  will be  hard intermediate
+cases,  but in  the  far  more  troubling  sense  that  the  distinction  is  difficult  to
+draw  even  as  a  conceptual  matter.  Judgments  about  aesthetics  or  quality
+
+63  It  follows  that  the  action  of  the  Chicago  City  Council  in  removing  the  offensive
+
+painting  of  Harold  Washington  was  unconstitutional  because  it  was  based  on  official
+disapproval  of a  private  decision  to  ridicule  the  former  Mayor.
+
+I  say  "at  least  usually"  because  even here  there may  be counterexamples.  Suppose, for
+example,  that  government  says  that  funded  portrayals  of the  Civil  War cannot  say  that
+slavery  was  a good  thing, or  that such  portrayals  will  count  against  funding.  Or suppose
+that  funding  of  a show  about  the  American  Revolution  is  limited  to  people  who  do not
+portray  the  founders  as  murderers  and  thugs.  Here  even  viewpoint  discrimination  may
+be acceptable  as part of qualitative judgments.  See infra  text  accompanying  notes 66-67.
+64  There  are  lurking  questions  here  about  the  government's  own  speech.  Since
+government  seems  to  have plenary  authority  over  what  it will say,  it is by  no means  clear
+that  government  may  not  have  similar  authority  over people  whom  it  pays.  Part  of the
+difference  may lie in  the fact that when  government  is speaking,  the people  know  who  the
+speaker  is; the same cannot  be said when the government  is paying  a private person  to say
+what  it wants.  Part  of the problem  also  lies  in  the  fear  of government  cooptation  of the
+private  sphere,  a  fear  that  retains  authority  even  in  a  post-New  Deal  era-although  it
+introduces  some  of the difficulties  criticized  in  Part  I  of this essay.  It would  in  any  case
+be  intolerable  to  say  that  grant  recipients  are  government  employees  and  thus  without
+constitutional  protection  against  viewpoint  discrimination;  such  a conclusion  would  lead
+to  unacceptable  skewing  of artistic  decisions.
+
+HeinOnline  -- 70 B.U. L. Rev. 612 1990
+
+1990] 
+
+UNCONSTITUTIONAL  CONDITIONS DOCTRINE 
+
+613
+
+always  depend,  at  root,  on  the  standpoint  of the  decisionmaker.1  This  is
+most  obvious  for  people  who  think  that  art  celebrating  Nazism,  Commu-
+nism,  or  white  supremacy,  at  least  ordinarily,  cannot  qualify  as  good  art.
+But the point extends  quite generally.  Distinctions between  representational
+and  nonrepresentational  art, or  embroidery  and painting,  involve issues that
+are  at  bottom  political.  The  idea  that  yellow  marks  smeared  on  a  page,  a
+sentimental  drawing  of a  cat,  or American  flags  marked  with  swastikas  do
+not qualify  for funding  is necessarily  rooted in views, broadly  speaking polit-
+ical  in  nature, about  the  appropriate  character  and  aims  of the  arts.
+
+The  available  approaches  to  these  difficulties  are  few-indeed,  there  are
+only three  realistic  options,  and none of them is  entirely  appealing.  The first
+posits  a  constitutional  principle  forbidding  even  aesthetic  or subject-matter
+judgments  on the  ground that  they too  are rooted in  moral  or political judg-
+ments and,  in that  sense, in point  of view.  But this principle  would be  intol-
+erable,  for  it  would  forbid  selective  funding  of  any  sort  and  so  also  bar
+government  funding  entirely.  Such  a solution  would  hardly  be desirable in a
+system  in  which  public  funding  is  an  important  individual  and  collective
+good, especially  because  public  funding  removes  some  of the  distortions  cre-
+ated  by  private  funding  of the  artistic  process.
+
+The  second  route  would  be  to  permit  even  the  most  conspicuously  parti-
+san  funding  decisions  on  the  ground  that  sensible  lines  cannot  be  drawn
+between  impermissibly  partisan  and  permissibly  neutral  decisions.  This
+approach  would  also  be  intolerable,  because  it  would  authorize  egregious
+governmental  interference  with  expression  for  the  state's own  self-interested
+or  otherwise  objectionable  purposes.
+
+The third  and probably  the  only  sensible  solution  is  to  apply the  constitu-
+tional  prohibition  only  in  straightforward  cases  of  viewpoint  discrimina-
+tion,"  and  to  permit  aesthetic  or  qualitative  judgments  as long  as  they  are
+not  conspicuously  based  on partisan  aims.  Of course this  approach  must be
+accompanied  by  a  recognition  that  it  rests  on  some  conceptually  uncertain
+ground.
+
+Under this framework,  there are  two final  hard  cases.  The first involves  a
+restriction  that  does  not  on  its  face  discriminate  on  the  basis  of viewpoint,
+but that  amounts  to  an  attempt  to  impose  conventional  morality  on artistic
+processes.  The  second  involves  hate  literature  or  art  that  offends  a  signifi-
+cant portion  of the  community  because  it  is  degrading.
+
+For  an  example  of the first  problem,  suppose  that government  says  that it
+will  refuse  to  fund  projects  containing  profanity  or  sexually  explicit  scenes.
+The  concern  here  is  that  in  such  cases,  government  will  distort  artistic
+processes  by  imposing  financial  pressures  that  incline  people  toward  offi-
+
+61  And  that  standpoint  is  rarely  without  political  content.  For  an  especially. good
+
+discussion  of this  issue,  see  W.  BOOTH,  THE  COMPANY  OF  FRIENDS  (1989).
+
+"  Whether  it is  straightforward  is,  unfortunately,  itself in  part  a function  of point of
+view.  See  Sunstein,  Pornography and  the  First Amendment,  1986  DUKE  L.J.  589
+(discussing  justifications  for  anti-pornography  legislation).
+
+HeinOnline  -- 70 B.U. L. Rev. 613 1990
+
+BOSTON  UNIVERSITY  LAW  REVIEW
+
+[Vol.  70:593
+
+cially  sanctioned  views  about  what  is  fitting  in  art.  In  a  system  containing
+some public  funding,  this problem  cannot  be altogether  avoided.  But it  can
+be  minimized  rather  than  increased.  The appropriate  strategy  here is  proba-
+bly  to  view  with  some  suspicion  across-the-board  measures  that  deny fund-
+ing  to  art  that  offends  conventional  morality-a  conclusion  that  will  of
+course  produce  formidable  line-drawing  problems.  The  more  narrow  and
+selective  the exclusionary  term, the  more  it will be  properly  characterized  as
+viewpoint-based:  a ban  on depictions  of homosexuality  is  in  this sense  even
+more  troublesome  than  a  ban  on  depictions  of sexuality  in  general.
+
+The  argument  for  constitutionality  in  these  cases  is  strengthened,  how-
+ever,  if  the  regulation  has  a  limited  spatial  and  temporal  reach.  Cases
+involving  general  regulations-those  imposing  a  nationwide  statutory  ban
+on,  for  example,  profanity  in  funded  projects-should,  if  borderline,  be
+resolved  unfavorably  to  the  government.  A decision  by  the  NEA  to  forbid
+the  funding  of all  art  with  nudity  would  be  far  more  objectionable  than  a
+decision  not to  allow  nudity  in  one  or two  governmentally-funded  projects.
+The latter would  have some of the  familiar  characteristics  of time, place,  and
+manner  restrictions.  Indeed,  some  viewpoint-based  restrictions  will  be  per-
+missible if they are  narrow in terms of space and time.  A local exhibit  on the
+civil  rights  movement  could  surely exclude  art  celebrating  slavery  or  advo-
+cating  its  reinstatement.
+
+The  second category,  involving  hate literature  or art, is  also  troublesome.
+What  if  the  government  decides,  for  example,  not  to  fund  Nazi  art,  pro-
+slavery art, art  of the  Ku Klux Klan, art  glorifying  rape  and sexual  violence,
+or Rushdie's  The Satanic Verses,  on the  ground  that  the  relevant  causes  are
+filled  with  hatred,  are  harmful  and  abhorrent,  or  are  perceived  as  harmful
+and  abhorrent  by  a  large  segment  of the  community?  The  basic  problem
+here,  noted  above,  is  that  conventional  morality is  not the  proper  arbiter  of
+governmental  funding  decisions  that  bear on expression.  A system  in which
+conventional  morality  played that  role would  be inconsistent  with the core  of
+the  first  amendment  guarantee, which  is  designed  precisely  to  protect  views
+that  do  not  accord  with  conventional  morality.  What  is  required,  in  these
+cases,  is a  principle of sufficient  generality  to  encompass  any  legitimate  con-
+cerns about  the  use  of taxpayer  money without  at the  same  time impermissi-
+bly  dictating  a particular  point  of view.
+
+It is  not  easy to  devise  any  such  principle.  Surely  government  should not
+be  permitted to  decline  to  fund  any  project  to  which  a  significant  number of
+taxpayers have a conscientious  objection.  Such a  proposition would  enshrine
+conventional  morality as  the  basis  for  funding  decisions.  Perhaps,  however,
+government  should be  permitted  to  decline  to  fund  projects  that  fuel  hatred
+of disadvantaged  social  groups,  at  least  if the  category  of regulated  speech
+can  be  narrowly  defined.  To  be  sure,  such  an  approach  would  embody  a
+form  of  viewpoint  discrimination.  There  is,  however,  at  least  a  plausible
+argument for  such  an exception  in this context.  Speech  of the  sort at  issue is
+not  merely  offensive,  but  also  helps  produce  a  distinctive  set  of  harms,
+including a  perpetuation  of second-class  citizenship  for certain  groups.  Gov-
+
+HeinOnline  -- 70 B.U. L. Rev. 614 1990
+
+1990] 
+
+UNCONSTITUTIONAL  CONDITIONS DOCTRINE 
+
+615
+
+ernment  might have  sufficient  reason to refuse  to  fund such  speech  even  if it
+may  not  criminalize  it.
+
+It follows  from  these  considerations  that government  has  broad  power  to
+allocate  funds  to  artistic  projects,  even  if  it  does  so  on  a  highly  selective
+basis.  The  only  clear  prohibition  is  on  allocations  based  on  a  straightfor-
+wardly  partisan  basis,  as  in  the  case  of discrimination  against  a  particular
+point  of  view;  and  even  here  there  are  exceptions.  A  similar  prohibition
+might be triggered  when a subject-matter  restriction  also embodies a form of
+viewpoint  discrimination,  as in  the exclusion  of art containing  profanity;  and
+here  much  will  depend  on the  particular  context.  Hard cases  will  of course
+remain.  But such an  approach would  resolve the  vast majority  of cases,  and
+at  least  suggest  an  orientation  for the  rest.
+
+C.  Funding Abortions In  Cases of Rape or Incest
+
+The  Supreme  Court  has  held  that  the  existence  of a right  to  an  abortion
+does  not  imply  a  correlative  right  to  public  funding  of abortion,  even  if the
+government  is  also funding  childbirth. 7  In this respect,  the right to have an
+abortion  stands  on  the  same  footing  as  the  right  to  send  one's  children  to
+public  schools.  In neither  case  is  neutrality  required.
+
+I  want  to  explore  here  the  question  whether  the  government  might  be
+obliged to fund abortions  in cases of rape or incest,  at least when government
+is funding  childbirth  in  such cases.  I  do  not  speak  to  the  question  whether
+these  considerations  suggest  that  funding  for  abortions  is  required  even  in
+cases  not  involving  rape  or  incest.  That  broader  question  raises  distinctive
+and  more  difficult  problems.
+
+Under  current  law,  government  is  almost  certainly"  under  no obligation
+to pay  for  abortion  in cases  of rape  or  incest.  No matter  what  produced  the
+pregnancy,  taxpayers  are  not  required  to  foot  the  bill  for  abortions.  In  the
+relevant  cases,  the  Court  has  not  been  clear  about  its  rationale.  It  has
+insisted  that  government  need  not  remain  neutral  as  between  abortion  and
+childbirth;  the  legitimate  interest  in  protecting  fetal  life  is  the  reason  that
+neutrality  is  not  compelled.6 9  In  this  quite  particular  respect,  the  abortion
+right is  similar to that  in  Pierce v. Society of Sisters:  the  government  has  an
+interest  in  nonneutrality  that  does  not  have  sufficient  force  to  justify
+criminalization,  but that  does  allow  selectivity  in  funding.
+
+In the  setting of private  schools, we  have seen  that this line  of argument  is
+correct, largely  because of the authority of the establishment  clause,  which is
+best taken  as  a self-conscious  protection  against  the use  of taxpayer  funds to
+
+67  Harris  v.  McRae,  448  U.S.  297,  316-17  (1980)  (stating  that  a  woman's  right  to
+choose  an  abortion  does  not  carry  with  it  a  constitutional  entitlement  to  the  financial
+resources  necessary  to  exercise  that  right).
+
+8  The  Supreme  Court  has  not,  however,  decided  the  precise  issue,  which  has  never
+
+been  presented  to  it.
+
+69  Harris, 448  U.S.  at  324-26.
+
+HeinOnline  -- 70 B.U. L. Rev. 615 1990
+
+BOSTON  UNIVERSITY  LAW  REVIEW
+
+[Vol.  70:593
+
+pay  for  religious  schools.7 °  But this rationale  seems  unavailable in  the  abor-
+tion  context.  There  would  be  no  tension  with  the  establishment  clause  if
+those having  religious  or  other objections  to  abortion  were  forced  to pay for
+that  procedure.  Indeed,  taxpayers  are  quite  generally  forced  to  pay  for
+things-for  example,  national  defense,  welfare,  certain  forms  of  art-to
+which  they  have  powerful  moral  objections.  If government  is  to be  relieved
+of its  obligation  to be  neutral  as between  abortion  and  childbirth  in  cases  of
+rape  and  incest,  the  argument  must  take  a  somewhat  different  form.
+
+Perhaps  one  could  generalize  from  the  establishment  clause,  or  from  the
+structure of liberal democracy  generally,  a  principle allowing substantial  seg-
+ments of the  public  not to  pay  for practices  that  it considers  to  be abhorrent
+for reasons  of conscience.7 1  In  most  democratic  countries,  governments  are
+permitted  and  indeed  encouraged  to  take  account  of  conscientious  objec-
+tions.  This  permission  may  not  be  an  enforceable  entitlement,  but  it  does
+provide  a  generally  legitimate  reason  for  selective  funding.  Of course,  this
+permission  could  not be  invoked  to  allow  government  to  violate obligations
+of neutrality  that seem a  straightforward  inference  from  the relevant  right-
+such  as the  first  amendment  right to neutrality  among points  of view,  or the
+equal  protection  right to  neutrality between  blacks  and whites.  But perhaps
+some  rights are  best conceived  as  nonneutrality  rights  in the  sense  that they
+allow  selectivity  in  funding  decisions  if taxpayers  have  an  objection  of con-
+science.  And  since  many  taxpayers  consider  abortion  to  be  murder  of
+defenseless  human beings,  perhaps  they can refuse  to pay  for it, even  in cases
+of rape  and  incest.
+
+At  least  as  a general  rule,  it seems  not  merely  correct  but obvious  to  say
+that  funding  decisions may  and often do  take into  account the  desires  of the
+citizenry,  including  conscientious  objections.72  It is  unclear,  however,  what
+weight  such  objections  should have  in  hard constitutional  cases.  If the  rele-
+vant  constitutional  provision  requires  neutrality,  consideration  of conscien-
+tious  objections  is  probably  illegitimate  and,  in  any  case,  insufficiently
+weighty  to justify  selective  decisionmaking.  A decision to fund Christian but
+not  Jewish  art,  or  paintings  favorable  to  Republicans,  would  be  plainly
+unconstitutional.  In  cases  in  which  the  right  does  not  call  for  neutrality,
+conscientious  objections  are  easily  translatable  into  sufficient  governmental
+justifications  to  survive  review.
+
+To evaluate  the arguments  for and  against neutrality  in the  abortion  fund-
+
+70  See  supra text  accompanying  notes  54-59.
+71  See  McConnell,  The  Selective  Funding  Problem:  Abortions and  Religious  Schools
+(unpublished  manuscript)  [hereinafter  McConnell  manuscript];  McConnell,  supra note
+59,  at 265-71.
+
+72  Some  such  desires are of course  constitutionally  unacceptable.  See,  e.g.,  Cleburne  v.
+Cleburne  Living  Center,  473  U.S.  432,  447-50  (1985) 
+(holding  that  an  ordinance
+requiring  a special  use  permit for  a proposed  home for mentally  retarded  persons  lacks  a
+rational  basis  and  deprives  respondent  of equal  protection).  But  here  the question  to  be
+decided  is  whether  the objection  to abortion  is unacceptable  in  that  sense.
+
+HeinOnline  -- 70 B.U. L. Rev. 616 1990
+
+1990] 
+
+UNCONSTITUTIONAL  CONDITIONS DOCTRINE 
+
+617
+
+ing  context,  it is necessary  to understand  the nature of and basis for the right
+at  issue.  If the  abortion  right  is  seen  as  one  of "privacy,"  there  are  good
+reasons  to say  that governmental  neutrality is  not  required,  and that govern-
+ment  may  fund childbirth  but not  abortion  regardless  of whether  the  preg-
+nancy  is  consensual  or  coercive.7 3  Indeed,  if the  right is  one  to  privacy,  it  is
+plausible  to  say  that  the  conscientious  objections  of a  significant  segment  of
+the  population  provide  a  sufficient  justification  for  refusing 
+to  fund
+abortions.7 4
+
+There  are,  however,  notorious  difficulties  in  treating  the  abortion  right  as
+one  of privacy,  not least  because the  Constitution does not  refer to "privacy"
+and  because  the abortion  decision  does  not  involve  conventional  privacy  at
+all.75  Certainly,  in  the  case  of abortions  involving  rape  or incest,  the  best
+argument  on behalf of the  relevant  right  is based  on principles  of equal pro-
+tection  rather  than  on  due  process.76  This  argument  stresses  issues  of sex
+discrimination and views  a  prohibition  on abortion  as an involuntary  coopta-
+tion  of women's  bodies  in  the  service  of third  parties.77
+
+13 See  McConnell  manuscript,  supra note  71.
+74  Id.
+75 Perhaps  the  right  is  one  to  liberty  or  autonomy.  Liberty  is  of course  protected  by
+the  due  process  clause,  and  the  notion  that  that  clause  has  a  substantive  component,
+though textually and  historically controversial,  is well-engrained  in  American law.  But if
+the argument that  follows in  the text  is correct, that  understanding  inadequately  captures
+the  dynamics of  the  abortion  question.
+
+76  There  appears  to  be  a  mounting  consensus  to  this  effect  with  respect  to  abortion
+generally.  See  C.  MAcKINNON,  FEMINISM  UNMODIFIED  93-102  (1987)  (criticizing  the
+doctrinal  choice  to  pursue  the  abortion  right  under  the  law  of privacy);  L.TRIBE,  supra
+note 2,  at  1353  (stating  that "the  failure of both plaintiffs  and courts to frame  the abortion
+controversy  in  terms  of  sexual  equality  has  profoundly  affected  the  law  in  this  area");
+Ginsburg,  Some  Thoughts  on  Autonomy  and Equality in Relation  to  Roe  v.  Wade,  63
+N.C.L. REv.  375 (1985)  (invoking  sexual equality and  suggesting  that Roe may have been
+less vulnerable  to  attack  had  the Court  limited  its  ruling  to the  specific  statute  at issue);
+Karst, Foreword: Equal Citizenship under the Fourteenth Amendment, 91  HARV.  L.  REV.
+1, 43  (1977)  ("The  equal  protection  clause  has  not  only  taken  on substantive  content  of
+the  type  envisioned  by  its  framers,  but  shows  every  sign  of being  able  to  bear  the  full
+meaning  of the equal  citizenship  principle.");  Law,  Rethinking Sex  and the Constitution,
+132  U.  PA.  L.  REV.  955,  987-1002  (1984)  (noting  that  the  "failure  to  develop  a  sex
+equality  doctrine  that is  more  responsive  to biological  difference  has  affected  the  Court's
+analysis  in  cases  challenging  explicit  sex-based  classifications");  Schauer,  Easy Cases, 58
+S.  CAL.  L.  REV.  399,  431  n.83  (1985)  (stating  that  if  Roe  had  been  decided  as  a  sex-
+discrimination  case,  "the  decision  would  have  become  a  legitimate  interpretation  . ..
+within  the  textual  mandate  of  the  equal  protection  clause");  Strauss,  Discriminatory
+Intent and the  Taming of Brown,  56 U.  CHI.  L.  REv.  935,  990-98  (1989)  (examining Roe
+as  a sex  discrimination/equal  protection  case).
+
+17 An  argument  of  this  general  sort  is  made  in  Regan,  Rewriting  Roe  v.  Wade,  77
+MICH.  L.  REV.  1569 (1979)  (suggesting,  under equal  protection  principles,  that requiring
+women  to  carry  a fetus  to term  compels  women  to be  Good  Samaritans);  Thompson,  A
+Defense of Abortion,  1 PHIL.  & PUB.  AFF.  47,  52  (1971)  ("The  question  asked  is  what  a
+
+HeinOnline  -- 70 B.U. L. Rev. 617 1990
+
+BOSTON  UNIVERSITY  LAW  REVIEW
+
+[Vol.  70:593
+
+The  first  point  here  is  that  restrictions  on  abortion  uniquely  burden
+women.  A statute  that  is  addressed  at  women  by  plain  terms  is  of course  a
+form of sex  discrimination.  A  statute  that  involves  a biological  correlate  of
+being  female  should be  treated  in  the  same  way.7"  The  fact  that  what  is  to
+many  another  life-that  of  the  fetus-is  involved  is  of  course  extremely
+important.  The practice  of abortion  plausibly  involves  the  death of another
+human being,  one who  is especially  defenseless;  and conscientious  objections
+that  invoke  fetal  protection  deserve  a  response.  But  that  fact  goes  to  the
+issue  of justification,  not  to  the  question  whether  there  is  discrimination  in
+the  first instance.
+
+It is  important to  recall  here  that  the  biological capacity  to  bear children,
+frequently  taken  as  the  basis  for  women's  "natural"  role,  in  fact  has  the
+social  consequence  of involuntary  childbearing  only  as a  result  of collective
+decisions,  conspicuous  among  them  the  legal  prohibition  of abortion.  The
+question  at  hand  is  whether  government  has  the  power  through law  to  turn
+that  capacity,  limited  to  one  gender,  into  a  source  of social  disadvantage.
+The  recognition  of the Roe79  right  sees  the  biological  capacity  as having  no
+necessary  social  consequences,  and  treating  the  role  of  motherhood  for
+women  as  chosen  rather  than  given,8"  to  be  selected  by women  rather  than
+by  the state.  At the very  least  this seems  to be the best argument  in  cases  of
+rape  or  incest.  In those cases,  the  question  is  whether  the  state's interest  in
+protecting  the  fetus  allows  the  state  to  compel  women  to  bring  the  fetus  to
+term.
+
+Is  the  state's justification  sufficient?  The argument  to  the  contrary  would
+be  that  in  cases  in  which  women  are  not  responsible  for  their  pregnancies,
+the  state may  not  conscript women  in order  to protect  another life,  whether
+fetal  or  not.  This  is  so  partly  because  the  notion  that  women  should  be
+coopted  in this way  is  in fact  a product of sex  discrimination,  in  the  form of
+
+third  party  may  do,  and  what  a  mother  may  do,  if mentioned  at  all,  is  reduced  to  an
+afterthought  ...."). Issues  of sexual  inequality are not, however,  sufficiently emphasized
+in  those  treatments.
+
+78  This  argument  is  developed  in  Brief  for  National  Coalition  Against  Domestic
+Violence,  Webster  v.  Reproductive  Health Services,  109  S.Ct.  3040  (1989)  (No.  88-605)
+[hereinafter  Webster Briefi  and  I am  grateful  to my co-author, David  Strauss, with  whom
+most  of the  ideas  in  this  and  succeeding  paragraphs  were developed.
+
+An  argument to the contrary  might stress  that  statutes directed  at biological correlates
+of  sex  are  less  likely  to  reflect  prejudice  and  stereotyping.  There  is,  after  all,  a  real
+difference  here,  and the  legislation  might  be  responding  sensibly  to it.  But  it is  doubtful
+whether  an  approach  to  sex  discrimination  should  be  based  on  an  inquiry  into  whether
+there  are real  differences.  See  C.  MACKINNON,  supra note  76,  at  40 ("Gender  might  not
+even  code  as difference  ... were  it not  for its consequences  for social  power.").  Even  if it
+should  be, pregnancy  is  a particular  kind of real difference,  one  whose  exclusive  targeting
+is  in  fact  likely  to  reflect  prejudice  or  subordination.
+
+79  Roe  v.  Wade,  410 U.S.  113  (1973).
+80  See  Held, Birth and Death, in  FEMINISM  AND  POLITICAL  THEORY  (C.  Sunstein ed.
+
+1990).
+
+HeinOnline  -- 70 B.U. L. Rev. 618 1990
+
+1990] 
+
+UNCONSTITUTIONAL  CONDITIONS DOCTRINE 
+
+619
+
+impermissible  stereotypes  about  the  role  of women  in  society.  The  history
+unambiguously  supports  the  claim that  restrictions  on  abortion  are  closely
+tied up  with  traditional  and  now-impermissible  ideas  about  women's  proper
+role."'
+
+Two  additional factors  support this line  of argument.  First, outside of the
+abortion  context,  the  government  never  imposes  similar  obligations  on  its
+citizens,  even  when  human  life  is  uncontroversially  at stake.82  In the  abor-
+tion context,  the striking inequality  of imposing  the burden of bodily coopta-
+tion on women  alone suggests  that the interest in  protection of human life-
+if invoked as the basis for  selective  impositions  and when  pregnancy  is invol-
+untary-is  inadequate,  or can  be found  adequate  only  as  a  result  of imper-
+missible  sex  role  stereotypes.
+
+The  second  factor  is  that  in  the  real world,  the  consequence  of a  restric-
+tion  on  abortion  is  not  materially  to  save  fetal  lives,  but  instead  to  lead
+women to  procure  dangerous abortions  with increased  risks to  women them-
+selves.  The  abortion  rate has  not  increased  dramatically  as  a  result  of the
+decision  in Roe. 3  Indeed,  some estimates  suggest  that  before  Roe,  5,000  to
+10,000  women  died  per  year  as a  result  of incompetently  performed,  illegal
+abortions,  and  that nearly  as  many abortions  were  performed  before  Roe  as
+now."  Even if these  statistics are  overstated,  the  principal  effect  of Roe was
+not to increase  fetal  deaths, but instead  to produce a shift from dangerous  to
+safe  abortions.8"  If  this  is  so,  restrictions  on  abortion  do  not  materially
+advance  the  end  of protecting  fetal  life.
+
+These  arguments  have  the  advantage  of making  it  unnecessary  to  decide
+on  the  moral  status  of the  fetus.  Even  if the  fetus  has  all  of  the  status  of
+human  life,  involuntarily  pregnant  women cannot  be conscripted  in  order to
+protect  it.  To  put it  bluntly:  the  question  is  not  whether  women  may  kill
+fetuses  but instead  whether  the  state  may  enlist  women's  bodies  in  the  pro-
+tection  of third  parties,  however  defenseless.  In view  of the  inequality  in the
+imposition  of such  burdens,  the connection  between  restrictions  on abortion
+and  impermissible  stereotypes,  and  the  unlikelihood  that  such  burdens  will
+promote  their  own  purposes,  the  answer  seems  to  be  negative.
+
+If arguments  of this sort are  accepted,  might  government  fund childbirth
+
+81  K.  LUKER,  ABORTION  AND  THE  POLITICS  OF  MOTHERHOOD  162  (1984)  (stating
+
+that  for those  seeking  to restrict abortions,  "abortion  is wrong  because  by  giving women
+control  over  their fertility  ...  it fosters  and  supports a  world view  that  deemphasizes...
+the  traditional  roles  of men  and  women").  The  connection  is  an  historical  one,  rather
+than  a  logical  or  necessary  one.
+
+82  There  are  no  compulsory  kidney  transplants,  for  example,  even  for  fathers  or
+mothers.  See  L.  TRIBE,  supra note  2,  at  1354-55.  Of course,  no  analogy  to  pregnancy
+will  be precise.
+
+83  See  sources  cited  infra note  85;  See  also  Webster Brief, supra note  78,  at  17-18.
+4  Webster  Brief, supra note  78,  at  19.
+85  See  J. BONAR,  H. RODMAN,  B.  SARVIs,  THE  ABORTION  QUESTION  191  (1987);  G.
+
+ROSENBERG,  THE  HOLLOW  HOPE  (forthcoming  1991).
+
+HeinOnline  -- 70 B.U. L. Rev. 619 1990
+
+BOSTON  UNIVERSITY  LAW  REVIEW
+
+[Vol.  70:593
+
+but  not  abortion  in  cases  of rape  or  incest?  If Roe  is  treated  as  a  case  in
+which  government  is  not  permitted  to  turn  biological  capacities  into  social
+disadvantages,  it  is  hard  to  see  why  the  abortion  right,  at  least  limited  to
+such  cases,  should  not be  a  right  to  governmental  neutrality.  The  reason  is
+that  the  very  deneutralizing  that  underlies  Roe  itself  seems  to  forbid  a  dis-
+tinction  between  funding  and  criminalization.  A  refusal  to  fund  is  merely
+another  form  of government cooptation.  To be sure, the protection  of poten-
+tial  life  is  a  legitimate  state  interest,  but if the  interest is  insufficient  to  out-
+weigh  the  right  in  the  criminal  context,  it  is  not  clear  why  it suffices  in  the
+setting of funding.  For cases  of rape  and  incest,  a  selective  funding  decision
+has  precisely  the consequence  of turning women  into involuntary incubators.
+The  relevant  right is  best  characterized  as akin to the  first  amendment  right
+to neutrality  with  respect  to  point of view.86  If the  right is  to  equal  protec-
+tion,  the  conscientious  objections  of the  taxpayers  should  count  no  more
+here  than  in  the  first  amendment  context,  or  in  the  setting  of race  or  sex
+discrimination  in  allocating  funds for  social  security.
+
+At  least  this perspective  will  seem  persuasive  if funding  decisions  are  not
+
+treated as an  artificial supplement  to  a  natural or spontaneous  social order-
+the central  instinct behind Harris v. McRae 8 7-and  if the ideas  that gave rise
+to  the  regulatory  state  are  taken  seriously.  Viewed  through  the  lens  of the
+New  Deal  period,  the  failure  to  fund  is  not  inaction  at  all.  It  represents  a
+conscious  social  choice,  one  that  conscripts  women  in  the  cause  of incuba-
+tion,  rather  than  simply  letting  "nature"  take its  course.' 
+If poverty is  seen
+not as part  of nature, but instead  as a predictable  consequence  of a system of
+collective  choices,  governmental  decisions that turn poverty  and biology into
+a  basis for  the  creation  of the  status  of involuntary  incubators  seem  to  run
+afoul  of the  equal  protection  clause.
+
+III.  CONCLUSION
+The  unconstitutional  conditions  doctrine,  nominally  designed  as an  effort
+to  adapt  constitutional  doctrines  to  the  regulatory  state,  is  rooted  in  intu-
+itions that  are deeply  incompatible  with  the  understandings  that  gave  rise to
+modern  government.  The  doctrine  is  therefore  an  anachronism.  It  is  also
+too  crude  and  too  general  to  provide  help  in  dealing  with  contested  cases.
+There  is  no  need  to  ask  whether  government  has  subsidized  rather  than
+penalized,  or  threatened  rather  than  offered.  We  might  substitute for  those
+unhelpful  and  probably  unanswerable  questions  a  more  direct  and constitu-
+tionally-grounded  inquiry  into, first,  the  nature  of the  incursion  on the  rele-
+
+81  Indeed,  a  refusal  to  fund  abortion  at  all,  in  cases  of rape  and  incest,  might  raise
+
+serious  constitutional  questions.
+
+87  448  U.S.  297  (1980).  See  L. TRIBE,  CONSTITUTIONAL  CHOICES  (1986)  (arguing
+that "those  who would  outlaw abortion  (or who  would refuse  to fund  it) would rely upon
+economic  and  physiological  circumstances-the  supposed  dictates  of  the  natural-to
+conscript women  (at  least  poor women)  as incubators").
+
+88  See  T. POGGE,  supra note  28,  at  11;  L.  TRIBE,  supra note  2,  at  1354.
+
+HeinOnline  -- 70 B.U. L. Rev. 620 1990
+
+1990] 
+
+UNCONSTITUTIONAL  CONDITIONS DOCTRINE 
+
+621
+
+vant  right,  and  second,  the  legitimacy  and  strength  of  the  government's
+justifications  for  any  such  incursion. 9  On  this  view,  there  will  not  be one
+unconstitutional  conditions  problem,  but  a variable  set  of  results depending
+on the  nature  of the  particular  constitutional  prohibition  at  issue.
+
+This  reformulation  of  the  problem  raised  by  licensing,  employment,  and
+spending  programs  departs  from  a  model  of coercion  in favor  of a  model  of
+reasons.  But the  reformulation  does not  by  itself resolve  concrete  cases.  In
+order  to  accomplish  that  task,  it  will  be  necessary  to  rely  on  views  about
+what sorts  of rights the  Constitution protects,  and about what sorts  of justifi-
+cations  are legitimate  and  sufficiently  weighty.  But an unconstitutional  con-
+ditions  doctrine  could  never  be  helpful  on  those  issues.  The  doctrine  is
+neither  necessary  nor sufficient  for  their  resolution.
+
+Moreover,  the reformulation  suggested here  need  not imply  more  or fewer
+occasions  for judicial  invalidation  of legislation.  Whether  the  reformulation
+leads  to more  or less invalidation  depends on the substantive  understandings
+that  are  brought  to  bear  in  the  cases.  It  would  be  odd  to  take the  existence
+of the  regulatory  state as  a  reason  to  apply  rational  basis review  to all  meas-
+ures that  burden  what  might  otherwise be seen  as  constitutional  rights.  The
+regulatory  state  merely  provides  new  and  different  occasions  for  constitu-
+tional  scrutiny.  To  say  that  the  unconstitutional  conditions  doctrine  is  an
+anachronism  is  emphatically  not  to say  that  all spending,  licensing,  employ-
+ment,  and  regulatory  measures  will  be  subject  to  deferential  or  no judicial
+review.
+
+I have  also  argued  that  properly  interpreted,  the  relevant  provisions  per-
+mit government  to  pay  for  public  but not  private schools;  allow  government
+to be  highly  selective  in funding  art  and other expression,  subject to  a  prohi-
+bition  on viewpoint  discrimination;  but  forbid  government  from  refusing  to
+pay  the  expenses  of abortion  in  cases  of rape  and  incest,  at  least  if govern-
+ment pays for  childbirth  in such  cases.  Whether  or not these  conclusions  are
+persuasive,  the  broader  point  remains.  In  a  mature  legal  system,  one  that
+has  adapted  to  the  functions  and  goals  of the  modern  regulatory  state,  we
+will not need,  and therefore  we  will  not have,  an unconstitutional  conditions
+doctrine.
+
+89  A  characteristic  feature  of  the  unconstitutional  conditions  doctrine-the  inquiry
+into the germaneness  of the condition to the program,  see generally Sullivan, supra note  3,
+at  1458-68-should  be  understood  as a  means  of flushing out  impermissible  reasons,  and
+of  ensuring  that  legitimate  reasons  are  in  fact  at  work.  This  task  can  readily  be
+performed  under  the  reformation  suggested  here.
+
+HeinOnline  -- 70 B.U. L. Rev. 621 1990
+
+HeinOnline  -- 70 B.U. L. Rev. 622 1990
+
+

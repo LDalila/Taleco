@@ -1,0 +1,3789 @@
+University of Chicago Law School 
+University of Chicago Law School 
+Chicago Unbound 
+Chicago Unbound 
+
+Journal Articles 
+
+2004 
+
+Cass R. Sunstein 
+
+Valuing Life: A Plea for Disaggregation 
+Valuing Life: A Plea for Disaggregation 
+
+Faculty Scholarship 
+
+Follow this and additional works at: https://chicagounbound.uchicago.edu/journal_articles 
+
+ Part of the Law Commons 
+
+Recommended Citation 
+Recommended Citation 
+Cass R. Sunstein, "Valuing Life: A Plea for Disaggregation," 54 Duke Law Journal 385 (2004). 
+
+This Article is brought to you for free and open access by the Faculty Scholarship at Chicago Unbound. It has been 
+accepted for inclusion in Journal Articles by an authorized administrator of Chicago Unbound. For more 
+information, please contact unbound@law.uchicago.edu. 
+
+VALUING  LIFE: A PLEA FOR
+DISAGGREGATION
+
+CASS  R. SUNSTEINt
+
+ABSTRACT
+
+Each government  agency  uses  a  uniform figure  to  measure the
+value  of a statistical life  (VSL).  This  is  a  serious mistake.  The  very
+theory that underlies current practice calls for far more individuation
+of  the  relevant values.  According to  that theory,  VSL  should  vary
+should  vary  across
+across  risks.  More  controversially,  VSL 
+individuals-even or especially if  the  result would  be  to  produce a
+lower  number  for  some  people  than  for  others.  One  practical
+implication is  that a higher value  should be  given  to  programs that
+reduce cancer risks. Another is that government should use  a  higher
+VSL for programs that disproportionately benefit the wealthy-and a
+lower VSL  for programs that disproportionately benefit the poor. But
+there  are two  serious complications here. First, bounded rationality
+raises problems  for  the  use  of private  willingness  to  pay,  which
+underlies current calculations of  VSL.  Second,  the  beneficiaries of
+regulation sometimes  pay  only  a  fraction or even  none  of its  cost;
+when this is so, the appropriate VSL for poor people might be higher,
+on  distributional grounds,  than  market  evidence  suggests.  An
+understanding of this point has implications for foundational issues
+about government regulation, including valuation of persons in poor
+and wealthy nations.
+
+Copyright  © 2004 by Cass  R. Sunstein.
+
+t  Karl  N.  Llewellyn  Distinguished  Service  Professor,  University  of Chicago,  Law  School
+and  Department of Political  Science.  A version  of this Article  was  presented  as  one of the 2004
+Seeley  Lectures  at  the  University  of Cambridge,  and  I  thank  the  audience  at  that  occasion  for
+many  illuminating  comments  and questions;  a version  of  the lectures,  and  hence  of this Article,
+will  appear  in CASS  R.  SUNSTEIN,  LAWS  OF  FEAR: BEYOND  THE  PRECAUTIONARY  PRINCIPLE
+(forthcoming  2005).  I  am grateful  to participants in a  workshop at the  University  of London and
+at  a  work-in-progress  lunch  at  the  University  of Chicago  Law  School  and  to  Matthew  Adler,
+Robert  Hahn,  Eric  Posner,  Richard  A.  Posner,  Robert  Stavins,  David  Strauss,  Adrian
+Vermeule,  and  W.  Kip  Viscusi  for  valuable  comments  on  a  previous  draft.  Special  thanks  to
+Ronald  Dworkin for  particularly illuminating  comments.  Sarah Sulkowski provided  outstanding
+research  assistance.
+
+HeinOnline  -- 54 Duke L.J. 385 2004-2005
+
+386 
+
+DUKE LAW  JOURNAL 
+
+[Vol.  54:385
+
+TABLE OF CONTENTS
+
+Introduction  ............................................................................................. 
+I.  WTP:  Theory and Practice ................................................................ 
+A . A gency Practice .......................................................................... 
+B.  Of Welfare and  Autonomy  ....................................................... 
+C.  Questions and Doubts ............................................................... 
+D.  The Value  of Statistical Risks, Not the Value  of
+
+386
+396
+396
+400
+401
+
+404
+Statistical L ives ........................................................................... 
+404
+II. Individuation ....................................................................................... 
+405
+A . R isk s ............................................................................................. 
+405
+1.  D ata .......................................................................................... 
+409
+2.  P ractice ..................................................................................... 
+3.  Q ualifications ........................................................................... 
+410
+B . P erson s ......................................................................................... 
+412
+416
+C.  Theory  and Practice ................................................................... 
+1.  A  Thought Experiment .......................................................... 
+417
+2.  Optimal  Individuation:  An Intermediate  Approach ..........  419
+419
+3.  Administrative  Law ................................................................ 
+421
+III. Why  WTP?  Easy Cases, Hard  Cases .............................................. 
+A . E asy  C ases ................................................................................... 
+422
+422
+425
+B.  Harder  Cases: Autonomy,  Kaldor-Hicks,  and Welfare .........  434
+C.  Harder  Cases  as Easy  Ones, and VSL Again ..........................  437
+IV. Global Risk  Regulation  and Cross-National  Valuations .............  439
+A.  Are Indian  Lives Worth Less  Than American  Lives? ...........  439
+B.  Policy and Practice ..................................................................... 
+442
+444
+
+1.  Welfare  and Autonomy .......................................................... 
+2.  O bjections ................................................................................ 
+
+C onclusion ................................................................................................ 
+
+INTRODUCTION
+
+For over  two decades,  executive  orders  have  required  regulatory
+agencies  to  engage  in  cost-benefit  analysis  of  major  regulations,'  and
+Congress  has  imposed  similar  requirements  in  several  statutes.2  To
+
+1.  See  STEPHEN  BREYER  ET  AL.,  ADMINISTRATIVE  LAW  AND  REGULATORY  POLICY
+120-35  (5th  ed. 2002)  (examining  executive  orders  that  require federal  agencies  to  balance  the
+benefits  of their decisions  against the cost).
+
+2.  See,  e.g.,  Federal  Insecticide,  Fungicide,  and  Rodenticide  Act,  7  U.S.C.  §  136(bb)
+(2000)  (defining  "unreasonable  adverse  effects  on the  environment"  as  "any  unreasonable  risk
+to  man  or the  environment,  taking  into  account  the  economic,  social,  and  environmental  costs
+and benefits  of the  use  of any  pesticides"); Toxic Substances  Control Act,  15 U.S.C.  § 2605(c)(1)
+
+HeinOnline  -- 54 Duke L.J. 386 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+conduct  cost-benefit  analysis,  agencies  must  assign  monetary  values
+to  human  lives  that  are  potentially  saved  by  a  proposed  regulation.
+How  do  they  come  up  with  the  numbers  that  they  use?  Do  some
+deaths  count for more than others?
+
+The  Environmental  Protection  Agency  (EPA)  uses  a  uniform
+value  for  a  statistical  life  (VSL):  $6.1  million?  Other  agencies  use
+numbers  that  are both  higher  and  lower  than the EPA's  VSL,  with  a
+range,  in  recent  years,  between  $1.5  million  (the  Federal  Aviation
+Administration 
+the  Food  and  Drug
+in  1990')  and 
+Administration's  (FDA's)  current  figure  of  $6.5  million.  Although
+substantial  differences can  be found across  agencies,6 uniformity  is the
+intended  practice  within  each  agency.7  No  agency  treats  cancer  risks,
+
+(FAA) 
+
+(2000)  (mandating  that  the  administrator  consider  and  publish  a  statement  documenting  the
+effects,  benefits,  and economic  impacts  of proposed  toxic  substance  regulations);  Safe  Drinking
+Water  Act, 42  U.S.C. § 300g-l(b)(3)(c)  (2000)  (requiring  the documentation  of quantifiable  and
+nonquantifiable  costs and  benefits in  the establishment  of maximum  contaminant  levels).
+
+3.  National  Primary  Drinking  Water  Regulations;  Arsenic  and  Clarifications 
+to
+Compliance  and  New Source  Contaminants  Monitoring,  66 Fed. Reg.  6976,  7012  (Jan. 22,  2001)
+(codified  at 40 C.F.R. pts.  9, 141,  and 142).  I refer  throughout to  uniform  numbers, but this is  of
+course  a  simplification.  There are  differences  across  agencies,  and  within  agencies  practices  are
+variable  over  time  and  across  regulations.  By  referring  to  a  uniform  number,  I  mean  that
+regulatory  agencies  do not distinguish  among risks  or among  protected classes,  so as  to  produce
+the  variations  that  I  emphasize  here.  Within  regulations,  uniform  numbers  are  used,  and when
+disparate  numbers  are used  across  regulations,  it  is  not because  of  a judgment  about  different
+risks  or different protected  classes.
+
+In its  July  2003  regulation  governing  food  labeling  of  trans-fatty  acids,  the  Food  and
+Drug  Administration  used a VSL of  $6.5  million.  Food  Labeling:  Trans Fatty  Acids in Nutrition
+Labeling,  Nutrient  Content  Claims,  and  Health  Claims,  68  Fed.  Reg.  41,434,  41,489  (July  11,
+2003)  (codified  at 21  C.F.R.  pt. 101).  In  its March  2003  proposed  rule  on dietary ingredients  and
+dietary  supplements,  the  same  agency  suggested  a  VSL  of  $5  million.  See  Current  Good
+Manufacturing  Practice  in  Manufacturing,  Packing,  or Holding  Dietary  Ingredients  and Dietary
+Supplements,  68 Fed.  Reg.  12,158,12,229  (proposed  Mar.  13,  2003)  (to  be  codified  at 21  C.F.R.
+pts.  111,  112)  (using this value  to calculate the  "value  of a  statistical life day").
+
+4.  The  Department of Transportation  now uses a  higher  figure, but  one  that is  still lower
+than the  VSL  used  by most  agencies.  See Brake System  Safety Standards  for  Freight and  Other
+Non-Passenger  Trains  and Equipment;  End-of-Train  Devices, 67  Fed. Reg.  17,556,  17,560  (Apr.
+10,  2002)  (codified  at 49  C.F.R. pt. 232)  (recording  the  Department  of Transportation's  VSL  as
+$2.7  million).
+5. 
+
+Infra Table  1;  see  Matthew  D.  Adler  &  Eric  A.  Posner,  Implementing  Cost-Benefit
+Analysis When Preferences Are Distorted, 29  J. LEGAL  STUD.  1105,  1146  (2000)  (comparing  the
+"valuations  of life"  advanced by  multiple  agencies).
+6.  These differences  seem  inexplicable.
+7.  See  Adler  &  Posner,  supra note  5,  at  1122-23  (explaining  that  an  agency's  use  of  "a
+constant  figure  for the  monetized value  of life"  is one  means of correcting  for  wealth  distortions
+in  individual  preferences).  There  are  some  differences  within  agencies  across  contexts  and
+across  time,  but  those  differences  do  not seem  deliberate.  See  supra note  3  (comparing  VSLs
+both within  and  across agencies).  The  most explicit discussions  of varying  VSLs  have  come  from
+
+HeinOnline  -- 54 Duke L.J. 387 2004-2005
+
+DUKE LAW JOURNAL
+
+[Vol.  54:385
+
+or  other  mortality  risks  that  produce  unusual  fear  or  involve  special
+suffering,  as  worthy  of more  concern  (and  a  higher  valuation)  than
+other  risks.  No  agency  contends  that  distinctive  values  should  be
+assigned  to  the  risks  associated  with  airplane  deaths,  motor  vehicle
+deaths,  or  deaths  from  defective  children's  toys.  No  agency  treats
+young  people  as  worth  more  than  old  people.8  No  agency  values  the
+lives  of  poor  people  less  than  the  lives  of  rich  people.  No  agency
+distinguishes  between  whites and  African  Americans  or between  men
+and women. For statistical  lives,  the  governing  idea is that  each  life  is
+
+the  EPA. In  its  2003  discussion  of hazardous  air  pollutants,  National  Emission  Standards  for
+Hazardous  Air  Pollutants  for  Industrial/Commercial/Institutional  Boilers  and  Process  Heaters,
+68 Fed.  Reg. 1660  (proposed Jan. 13,  2003)  (to be  codified at 40 C.F.R. pt. 63), the EPA noted:
+There  is general  agreement  that the value  to  an  individual  of a  reduction  in mortality
+risk can  vary  based on  several  factors,  including  the  age of the individual,  the  type of
+risk,  the  level  of control  the  individual  has  over  the  risk,  the  individual's  attitude
+toward  risk, and the health  status of the  individual.
+
+Id.  at  1695.  Nonetheless,  the  agency  announced,  without  explanation,  that  it  "prefers  not  to
+draw  distinctions  in  the  monetary  value  assigned  to  the  lives  saved  even  if they  differ  in  age,
+health  status, socioeconomic  status,  gender or other characteristic  of the adult  population."  Id.
+
+An  extended  discussion  of related  issues  can  be  found  in  the  EPA's  arsenic  proposal,
+National  Primary  Drinking Water  Regulations;  Arsenic  and  Clarifications  to Compliance  and
+New  Source  Contaminants  Monitoring,  65  Fed.  Reg.  38,888  (proposed  June  22,  2000)  (to  be
+codified  at  40 C.F.R. pts. 141,  142).  In this proposal, the EPA  noted that  the
+
+factors  which  may  influence  the  estimate  of  economic  benefits  associated  with
+avoided  cancer  fatalities  include  (1)  a  possible  'cancer  premium'  (i.e.,  the  additional
+value  or  sum  that  people  may  be  willing  to  pay  to  avoid  the  experiences  of dread,
+pain and suffering,  and diminished quality  of life associated  with cancer-related  illness
+and  ultimate  fatality);  (2)  the  willingness  of people  to  pay  more  over  time  to  avoid
+mortality  risk as  their income  rises;  (3)  a  possible  premium  for  accepting  involuntary
+risks as  opposed  to  voluntary  [sic] assumed  risks;  (4) the  greater  risk  aversion  of the
+general  population  as  compared  to  workers  in  the  wage-risk  valuation  studies;  (5)
+'altruism'  or the  willingness  of people  to  pay  more  to  reduce  risk  in  other sectors  of
+the population;  and  (6)  a  consideration  of health status and  life years remaining  at  the
+time  of premature mortality.
+
+Id. at  38,945.  The  EPA  acknowledged  that  these  factors  "may  significantly  increase  the present
+value  estimate,"  but  said  that  "there  is  currently  neither  a  clear  consensus  among  economists
+about how  to  simultaneously  analyze  each  of these  adjustments nor  is there  adequate  empirical
+data  to  support  definitive  quantitative  estimates  for  all  potentially  significant  adjustment
+factors."  Id. Hence  the  EPA solicited  comments  on  these  issues  and said  that  it  would  ask  its
+Scientific  Advisory  Board  (SAB)  to  conduct  a  review.  Id. As  noted  below,  the  comments
+produced  a  sensitivity  analysis  that  contains  several  upward  adjustments  from  the  $6.1  million
+figure,  see  infra note  100  and  accompanying  text,  but the  SAB's review  suggested  that  at  the
+present  time, upward  adjustments  were  not justified  by existing  evidence,  see infra note  141  and
+accompanying  text.
+
+8.  With  the  interest  in  focusing  on  "life-years,"  however,  this  might  change.  See  Cass  R.
+Sunstein,  Lives,  Life-Years,  and  Willingness  to  Pay, 104  COLUM.  L.  REV.  205,  206  (2004)
+("[G]overnment  should  consider not simply.  ..  the  VSL; it should  concern  itself also or instead
+with  the  number  of life-years  at  stake,  or the  value  of statistical  life-years  (VSLY).  At  the  very
+least, the number of statistical  life-years  is a more precise  measure  of what is involved.").
+
+HeinOnline  -- 54 Duke L.J. 388 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+worth exactly  the  same.  With  respect  to cost-benefit  analysis, much  is
+disputed.9 But on  the idea  of a uniform value  per life  saved, there  is a
+solid consensus,  at least  in terms of regulatory practice.'0
+
+The  stakes  are  exceedingly  high.  If  cost-benefit  analysis  is  the
+basis  for  the  ultimate  decision  to  approve  or  reject  a  proposed
+regulation,  everything  turns  on  the  selected  VSL.  If  an  agency  uses  a
+VSL  of, say, $15  million,  many more  regulations will  be justified  than
+if  it  uses  a  VSL  of,  say,  $2  million.  And  if  a  uniform  number  is
+rejected,  the  pattern  of  justified  regulations  will  shift  dramatically.
+Some  existing  regulations  will  be  revealed  as  too  weak,  and  more
+stringency  will  be  required;  others  will  seem  too  aggressive  and  will
+have  to  be  weakened  or  even  eliminated.  If agencies  shifted  to  using
+VSLs  that  varied  along  one  or  more  variables,  the  regulatory  system
+would look very different  from how it does  today.
+
+In  this  Article,  I  intend  to  question  the  consensus  in  favor  of  a
+uniform  VSL,  and  to  do  so  in  a  way  that  raises  foundational  issues
+about the  economic  valuation of human  lives. I  suggest that a uniform
+value  is obtuse. Under the very  approach  that  agencies use to  produce
+the  current  numbers,  VSL  should  vary  along  two  dimensions.  VSL  is
+calculated  based  on  people's  willingness  to  pay  (WTP)  to  avoid
+particular  risks,  and  if  WTP is  particularly  high, VSL  will  be  high  as
+well.  For  two  reasons, VSL  should  be  expected  to  be  highly  variable,
+in  a way that makes  a uniform number senseless.
+
+9.  See  generally FRANK  ACKERMAN  &  LISA  HEINZERLING,  PRICELESS:  ON  KNOWING
+THE  PRICE  OF EVERYTHING  AND  THE  VALUE  OF  NOTHING  (2004)  (attacking  the  very  practice
+of assigning  dollar  values  to lives  and health  as  part  of cost-benefit  analysis);  W. KIP  VISCUSI,
+FATAL TRADEOFFS:  PUBLIC  AND  PRIVATE  RESPONSIBILITIES  FOR RISK  (1992)  (suggesting that
+the  government  should  "respect  citizens'  preferences"  in  assigning  valuation  and  thus  should
+consider  subjective  valuation  in  cost-benefit  analysis,  even  when  such  valuation  is  irrational);
+Adler  &  Posner, supra note  5,  at  1106  ("The  problem  with  the  traditional  definition  of  [cost-
+benefit  analysis]  in  terms  of  actual  preferences  is  that  satisfaction  of  actual  preference  and
+maximization  of well-being  are  not  equivalent....  Cost-benefit  analysis can  be redefined  as the
+sum  of welfare equivalents....").
+
+10.  An  arguable exception,  noted  above,  involves the  debate  over  whether agencies  should
+focus  on  lives  or instead  life-years;  the latter  approach  might well  value  older  people  less  than
+younger  ones.  For  discussion,  see  Sunstein,  supra note  8,  at  205.  Professor  W.  Kip  Viscusi
+implicitly  challenges  the  consensus,  stating:  "The  current  approach  of  ignoring  length-of-life
+issues  creates  inequities  by valuing  the  life  of a  person  with  . . . a 6-month  life  expectancy  the
+same  as  a  ...  person  with  a 40-year  life  expectancy."  W.  Kip  Viscusi, Risk  Equity, 29 J. LEGAL
+STUD.  843,  870  (2000).  W.  Kip  Viscusi  and  Joseph  E. Aldy  note  the  existence  of heterogeneity
+by  income,  union  status,  and  age,  and they  explain  that  the  "existence  of such  heterogeneity
+provides  a  cautionary  note  for  policy."  W.  Kip  Viscusi  &  Joseph  E.  Aldy,  The  Value  of a
+Statistical Life:  A  Critical Review  of Market  Estimates  Throughout the  World,  27  J.  RISK  &
+UNCERTAINTY  5,7  (2003).
+
+HeinOnline  -- 54 Duke L.J. 389 2004-2005
+
+DUKE  LAW  JOURNAL
+
+[Vol.  54:385
+
+First,  VSL  should  vary  across  risks.  For  example,  people  are
+willing  to pay  high  amounts  to  avoid  cancer  risks, and  hence  there  is
+reason to think  that people's VSL  is higher  for cancer  deaths than for
+sudden,  unanticipated  deaths."  Cancer  risks  are involved  in the  work
+of  many  regulatory  agencies,  and  people  seem  to  be  particularly
+concerned  about  such  risks,  in  a  way  that  should  produce  a  high
+VSL-almost  unquestionably  higher  than  the  values  that  agencies
+now  use.  More  generally,  deaths  that  produce  unusual  fear,'2  or  that
+are  accompanied  by  high  levels  of  pain  and  suffering,  should  be
+expected  to  produce  a  higher  VSL.  Human  beings  face  countless
+mortality  risks,  and it  would  be  truly  bizarre  to maintain  that  people
+value  avoiding  each of those risks identically.
+
+Second,  VSL  should  vary  across  individuals,  simply  because
+different  people  are  willing  to  pay  different  amounts  to avoid  risks.
+People  who  are  risk  averse  will  be  willing  to  pay  more,  and  will
+therefore  show  a  higher  VSL,  than  people  who  are  risk-seeking.'"
+Those  who  are  rich will  show a  higher  VSL  than  those  who  are  poor.
+People  who are  thirty might well  show a higher VSL  than people who
+are  sixty."  It  follows  that  different  demographic  groups  will  show
+diversity in  their  VSLs as well.'6
+
+11.  See James K.  Hammitt  & Jin-Tan Liu, Effects of Disease Type and Latency on the Value
+of Mortality Risk, 28  J.  RISK & UNCERTAINTY  73,  80  (2004)  ("The  value  of preventing  a  fatal
+cancer  is  often  considered  to  be  greater  than  the  value  of  preventing  a  fatal  trauma  in  a
+workplace  or transportation  accident.").
+
+12.  For  evidence  of  a  higher  VSL  for  airline  risks  than  for  automotive  risks,  see  Fredrik
+Carlsson  et  al.,  Is Transport Safety  More Valuable in the  Air?, 28 J. RISK & UNCERTAINTY  147,
+148  (2004)  ("There  are  several  reasons  why  individuals  would  be  willing  to  pay  more  for  the
+same risk  reduction when  traveling by air compared to  by other  transport  modes, such as  car or
+train.").
+
+13.  See  Viscusi  &  Aldy, supra note  10, at  18  ("[T]ransferring  the  estimates  of a  value  of a
+statistical  life  to  non-labor  market  contexts,  as  is  the  case  in  benefit-cost  analyses  of
+environmental  health  policies  for  example,  should  recognize  that  different  populations  have
+different  preferences over risks and different  values on  life-saving.").
+
+14.  See Carlsson  et al.,  supra note  12,  at  158  (finding  that  people  who  are scared  of flying
+
+are willing  to pay especially high  amounts to reduce  the  risks associated  with  flying).
+
+15.  See  JOSEPH  E. ALDY  & W. KIP  VISCUSI,  AGE  VARIATIONS  IN  WORKERS'  VALUE  OF
+STATISTICAL  LIFE  I  (Nat'l Bureau of Econ. Research, Working  Paper  No. 10199,2003)  ("[Olne
+might  expect  that older individuals may value  reducing risks  to their  lives  less because  they have
+shorter remaining  life expectancy.").
+
+16.  Such  differences  are  found  in  W.  Kip  Viscusi,  Racial Differences in  Labor Market
+Values of a Statistical Life, 27  J. RISK  & UNCERTAINTY  239,  252 tbl.5  (2003).  To get a  bit ahead
+of the story:  I  am not  arguing that government  should  assign  a higher VSL to  white  lives  than  to
+African-American  lives.  I  am  speaking  here  of  demographic  differences  that  would  emerge
+from  a  fully  individuated  approach  to  VSL,  in  which  each  person's  WTP was  calculated  on  an
+individual  basis.  Once  these  values  are  aggregated,  the  white  VSL  would  likely  be  higher  than
+
+HeinOnline  -- 54 Duke L.J. 390 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+If  these 
+
+two  forms  of  variability-across  risks  and  across
+persons-are  put together, it will be clear  that the unitary $6.1  million
+figure  used  by  the  EPA  is  far  too  crude."  Each  person  in  society  is
+willing  to  pay  a  distinctive  amount  to  avoid  each  risk.  It follows  that
+in  theory,  each  person  should  have  a  particular  VSL  for  each  and
+every  risk,  resulting  in  a  fully  individuated  VSL. s  Such  a  fully
+individuated  VSL  would  mean,  for  example,  that  agencies  would
+value  avoidance  of  cancer  risks  more  highly  than  many  other
+mortality  risks-and  that  the VSL  of  some racial  groups  would  likely
+be  lower than  that of  others.19  But  the latter  differences  would  not be
+the result of a governmental  decision  to take racial  characteristics  into
+account;  in  fact  it  would  not  be  a  product  of  any kind  of group-level
+discrimination  on  the  government's  part.0  The  differences  would  be
+the  result  of  aggregating  the  VSLs  calculated  for  each  individual.
+
+the  African-American  VSL,  simply  because  of disparities  in wealth  and  income.  Richer  people
+pay  more  for  safe  cars  and  smoke  alarms  than  poor  people  do.  See  infra text  accompanying
+notes  17-21.
+17. 
+
+I  use  the  EPA's  $6.1  million  VSL  throughout  as  a  convenient  example  of  a  unitary
+figure,  but the  analysis  applies  equally  to  any  agency's  unitary figure,  and to  uniformity  across
+agencies.
+18. 
+
+I  am putting  to one side the  complication  that values sometimes  are constructed,  rather
+than  elicited,  by  social  situations-an  especially  serious  complication  for  contingent  valuation
+studies.  See John  W.  Payne et  al., Measuring Constructed Preferences: Toward a Building Code,
+19  J.  RISK  &  UNCERTAINTY  243,  244  (1999)  (addressing  the  "alternate  viewpoint  .. . that
+preferences  are  generally  constructed-not  revealed-at  the  time  a  valuation  question  is
+asked");  Cass  R. Sunstein  & Richard  H.  Thaler,  Libertarian Paternalism Is Not an  Oxymoron,
+70  U.  CHI.  L.  REV.  1159,  1177-78  (2003)  ("[I]n  the  contexts  in  which  [contingent  valuation]
+studies are  used,...  it  is  unclear  that people  have  straightforward  'values'  that  can actually  be
+found. Hence  some  form  of paternalism  verges  on  the  inevitable:  Stated  values  will  often  be
+affected..,  by  how the questions  are set up."  (footnote  omitted)).
+
+19.  See  John  D.  Leeth  &  John  Ruser,  Compensating Wage  Differentials for  Fatal and
+Nonfatal Injury Risk by  Gender and Race, 27  J. RISK  & UNCERTAINTY  257,  270  (2003)  (finding
+that  the implied  VSL  for  Hispanic males  is  $5.0  million  overall  and  $4.2 million  for  blue-collar
+workers,  whereas  the  implied  VSL  for  white  males  is  $3.4 million  overall  and  $4.2  million  for
+blue-collar  workers);  Viscusi, supra note  16,  at  252  (finding  VSLs  of  $15  million  for  whites  and
+$7.2  million  for  African  Americans,  $18.8  million  for  white  males  and  $9.4  million  for  white
+females, and  $6.9  million  for  African-American  females and  $5.9  million  for  African-American
+males).
+
+20.  Discrimination  might  well  lay in  the background,  of course;  it almost certainly  accounts
+for  the  unequal  opportunities  that produce  lower  VSLs  for  African  Americans  than  for  whites.
+See Viscusi,  supra note  16,  at  255.  Professor  Viscusi  goes  on  to  suggest  that "it  is inappropriate
+to  attribute  the observed  differences  to  a greater  willingness  by  black  workers  to bear  risk."  Id.
+In  a  sense  Professor  Viscusi  is  correct;  there  is  no  reason  to  think  that  African-American
+workers  have  an  intrinsically  greater  predisposition  to  take  risks.  But  in  the  market,  one's
+willingness  to  bear  risks  is  a  product  of  "market  opportunities,"  and  hence  those  with  fewer
+opportunities  will  show  a greater willingness  to bear  risk.
+
+HeinOnline  -- 54 Duke L.J. 391 2004-2005
+
+DUKE LAW JOURNAL
+
+[Vol.  54:385
+
+Such  aggregation  occurs  today  in,  for  example,  ordinary  consumer
+markets  that  price  reduction  of  the  statistical  risks  associated  with
+smoke  alarms, unusually safe  cars, and  much more.2
+
+In  practice, of course,  a fully individuated  VSL is not feasible,  for
+two  different  reasons.  First,  government  lacks  the  information  that
+would  permit  the  calculation.  Regulators  do  not  know  how  much
+each  person  would  be  willing  to  pay  to  reduce  each  statistical  risk;
+generalizations  through  the use  of categories  are  therefore  inevitable.
+Second,  many  regulatory  programs  involve  collective  goods  and
+protect  many  people  at  once.  A  clean  air  program,  for  example,
+cannot  easily  ensure  that  some  people  in  a  geographical  region  are
+exposed  to no  more than  10 parts  per billion  (ppb)  of some pollutant,
+while  others  in  the  same  region  are  subjected  to  50  ppb.  Because
+collective  goods  are  typically  involved  in  regulation,  the  problem  is
+pervasive.  When  government  is  providing  a  regulatory  good  to  many
+people  at  once,  feasibility  requires  that  it  use  a  single  VSL,  not  a
+range  of VSLs.
+
+Notwithstanding  issues  of  feasibility,  an  understanding  of  the
+reasons  for  individuating  VSL is  important  for two  reasons.  The  first
+involves  conceptual  clarity.  The  theory  behind  the  use  of  VSL  and
+WTP  remains  poorly  understood.  In  brief,  VSL,  as  currently
+understood,  is  a product  of agency  judgments  about  people's WTP  to
+reduce  or eliminate  certain  risks. When a  particular VSL  is used  (say,
+$6 million),  it  is  because  the  agency  estimates  that  people  are  willing
+to  pay  a  certain  amount  to  reduce  statistical  risks  of  a  specified
+magnitude.  This  point  should  be  enough  to  show  that  whatever
+terminology  agencies use,  there is no  "value  of a statistical  life";  there
+are  only  values  for the  reduction  of statistical  risks."  Once  regulators
+identify  the  real  question  as  the  identification  of  those  values,  they
+will  find  it  difficult  to  defend  a  unitary  VSL,  simply  because  there  is
+no  such  thing.  An  appreciation  of  the  case  for  individuation  will
+clarify the  theory-both  its rationale  and  its limitations, empirical  and
+ethical.  I  emphasize  that  the  theory  is  undergirded  by  considerations
+
+21.  See  VISCUSI,  supra note  9,  at  31-32  (discussing  the  value  of  life  issue  in  economic
+
+terms).
+
+22.  See, 
+
+e.g.,  National  Emission  Standards 
+
+for
+Industrial/Commercial/Institutional  Boilers  and  Process  Heaters,  68  Fed.  Reg.  1660,  1695
+(proposed  Jan.  13,  2003)  (to  be codified  at 40  C.F.R. pt. 63)  (noting that the value  of a  statistical
+life  is "the  value  to an  individual  of a reduction  in mortality  risk").
+
+for  Hazardous  Air  Pollutants 
+
+HeinOnline  -- 54 Duke L.J. 392 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+of  both  autonomy  and  welfare-and  that  those  considerations  also
+show when  the use  of WTP  to calculate  VSL is misguided.
+
+The  second  reason  involves  the  possibility  of  moving  a  long  way
+toward  greater  individuation,  even  if full individuation  is  not feasible.
+With  respect  to  the  reduction  of  cancer  risks,  for  example,  there  is
+reason  to  believe  that  people  are  willing  to  pay  an  extra  amount;
+hence VSL, based  on WTP, is  significantly  higher than  studies of risks
+not  involving  cancer  suggest."  For  this  reason,  the  government's
+current  valuation  of  cancer  risks  is  probably  too  low,  resulting  in
+widespread  underprotection  of the public. Similarly,  there is reason  to
+think  that  VSL  should  be  higher  for  mortality  risks  from  airplanes
+than  for statistically  identical  risks  on the  highways. 2'  More  generally,
+different  agencies,  dealing  with  qualitatively  different  risks,  might
+well  use  different  VSLs,  simply  because  market  evidence  is  likely  to
+show  just  those  differences.25  Full  individuation  is  not  feasible,  but
+greater  individuation  would  be  quite  easy.  The  result  would  be
+different  judgments  from  agencies,  simply  because  new  VSLs-some
+higher,  others  lower-would  produce  different  conclusions  about
+when regulation  is justified.
+
+A  far  more 
+
+troublesome  problem,  to  which  I  will  devote
+considerable  attention,  involves  disparities  along  demographic  lines.
+For  now,  notice  a  simple  factual  point:  WTP  is  dependent  on  ability
+to pay, and  those  with little income  and  wealth  will show little  WTP. 26
+It  follows  that  the  VSL  of  poor  people,  when  calculated  based  on
+WTP, will  be lower  than  the VSL of  rich people, simply  because  poor
+people  are  poorer.  Suppose  that  the  $6.1  million  figure  used  by  the
+EPA  represents  the  average  WTP  of  a  population-wide  sample.
+When  risks  are  faced  disproportionately  by  wealthy  people,  VSL,
+
+23.  See supra note  11  and accompanying  text.
+24.  See Carlsson,  supra note  12,  at  148  (finding  that individuals'  VTP to  reduce  the  risk of
+
+airline deaths  is more  than double their  WTP to  reduce  the risk of taxi deaths).
+
+25.  As  I  explain  in  Part  I.A,  different  agencies  now  use  different  numbers  for  VSL,  but
+these  differences  seem  random  and do  not stem from  a careful  inquiry  into the  questions  that  I
+am emphasizing here.
+
+26. 
+
+If  the tax  laws  ensured the  right  level  of redistribution,  there  would  be  little  reason  to
+use  regulatory  policy  to  promote redistributive  goals.  Regulation  would  be  based  on WTP, and
+tax  laws  would  ensure  such  redistribution.  Hence  the  analysis  of  VSL  and  WTP  would  be
+different  with  an  optimal  tax  policy  from  what  it  must  be  without  such  a  policy.  If  tax  policy
+were optimal,  a highly  variable WTP  would  be  appropriate  and  there would  be  no  need  to take
+account  of distributional  concerns.  The  discussion  below  is  based  on the  assumption  that  more
+redistribution  is desirable  and  that  regulatory  policy  can  sometimes  help  to  promote  that  goal,
+though  less effectively  than an optimal tax.
+
+HeinOnline  -- 54 Duke L.J. 393 2004-2005
+
+DUKE LA W JOURNAL
+
+[Vol. 54:385
+
+based  on  actual  WTP,  should  be  higher  than  $6.1  million-just  as  it
+should  be lower when  the regulated  risks  are faced  disproportionately
+by  poor people."  It is  inevitable  that  people  in  poor nations  will  have
+a lower  VSL than people  in rich  nations,  a point  with implications  for
+valuation  of  the  harms  from  global  warming."  Similarly,  people  in
+poor  areas  will have  a  lower VSL than  those  in wealthy  areas,  a point
+with  implications  for  valuation  of  a  variety  of  risks  in  the  domestic
+setting.  If  variations  across  risks  and  persons  are  significant,  the
+question  of  individuation  should  be  a  central  part  of  the  second
+generation  of  cost-benefit  analysis-a  step  beyond 
+first-
+generation  debate  about whether to  do such  analysis  at all,  and  a  step
+toward  doing  such  analysis  in  a  way  that  is  more  refined  and  more
+closely  attuned  to  the consequences  of regulations  in  terms of  choice,
+welfare,  and distributional equity.
+
+the 
+
+Of  course  it  is  offensive  and  wrong  to  suggest  that  in  principle,
+poor  people  are  "worth  less"  than  rich  people.  If  poor  people  are
+subject  to  a risk  of 1/10,000,  they do  not have  less of  a claim  to  public
+attention  than wealthy people  who are  subject to the same risk; in fact
+they may  have a  greater  claim, if only  because  they  lack  the resources
+to  reduce  that  risk  on  their  own.  But  the  topic  here  is  regulation
+rather  than  subsidy,  and  the  two  ought  not  to  be  confused.  In
+principle,  government  should  not  force  people  to  buy  protection
+against  statistical  risks  at  a  price  that  seems  excessive  to  them.29  At
+least  as  a  general  rule,  people  should  not  be  required  to  pay  $70  to
+reduce  a risk of 1/100,000  if they  are  willing to pay no  more than  $50.
+
+If  a  uniform  VSL  would  benefit  the  poor,  there  is  a  strong
+argument for a  uniform VSL. But regulation  based  on  a uniform VSL
+may  or  may  not  produce  a  more  equitable  distribution  of  income;  in
+fact  any  redistribution  may  be  perverse,  and  a  single  VSL  might not
+promote  equality  at  all.' °  And  if  poor  people  are  forced  to  pay  an
+their  WTP,  desirable
+amount  for  risk  reduction 
+redistribution  will  hardly  result;  forced  exchanges,  on  terms  that
+people  would voluntarily  reject,  are  not  a  good  way  of  redistributing
+
+that  exceeds 
+
+27.  With  this  qualification:  If  poor  people  would  be  disproportionately  benefited  by
+assigning  them  a higher  VSL, then  there  is  a good  argument  for  assigning  them  a  higher  VSL. I
+explore  this issue  in  Part III.B.
+28.  See infra Part IV.
+29. 
+30. 
+
+I offer  a number  of qualifications  below. See  infra Part III.B.
+If wealthy  people  are  the principal  beneficiaries  of a  particular  regulation  chosen on the
+basis  of  a  uniform  VSL,  and  if  the  public  as  a  whole  pays  for  it,  then  any  redistribution  will
+benefit  the wealthy,  not the poor.
+
+HeinOnline  -- 54 Duke L.J. 394 2004-2005
+
+20041
+
+VALUING LIFE
+
+wealth to  the disadvantaged.  (Requiring poor people  to buy  Volvos is
+not  the most  sensible  means  of assisting  them.)  On  the  other hand,  it
+is  possible  that  some  regulatory  programs,  based  on  a  uniform  VSL,
+will  help those in  need, if their  beneficiaries  receive  risk  reduction  for
+which  they  pay  little  or  nothing-an  issue  to  which  I  will  devote
+considerable  attention.
+
+A  larger  lesson  follows  from  this discussion.  For purposes  of  law
+and  politics, there  is  no sensible  answer  to the abstract  question  about
+the  correct  monetary  value  of  human  life.  Any  judgment  about  the
+individuation,  must  be  heavily
+appropriate  VSL,  and  about 
+pragmatic;  it must  rest on  the consequences  of one  or  another  choice.
+Whether  government  should  use  a  higher  or  lower  VSL  across
+important
+demographic 
+implication  involves  the  assessment  of  VSL  across  nations.  A  poor
+nation would  do well  to  adopt  a lower  VSL than a  wealthy nation;  for
+China  or  India, it would be  disastrous  to use  a VSL equivalent  to  that
+of the  United  States  or  Canada.  But this point should  not  be  taken  to
+support  the  ludicrous  proposition  that  donor  institutions,  both  public
+and  private,  should  value  risk  reduction  in  a  wealthy  nation  above
+equivalent risk reduction  in a poor nation.
+
+lines  cannot  be  answered  simply.  An 
+
+the  heart  of  the  Article,  explores 
+
+This  Article  is  organized  as  follows.  Part  I  clarifies  the  theory
+behind  the  valuation  of  statistical  lives.  The  major  point  is  that
+regulators  do  not really  use  a  VSL;  instead  they  use  a  mean  WTP to
+eliminate  a  statistical  risk.  For  example,  agencies  might say  that  they
+are using a VSL of $6 million, but when they  do so,  they are relying on
+evidence  more  or  less  establishing  that  the  average  person  is  paid
+$600  to  face  a  risk  of  1/10,000.  The  case  for  using  this  evidence
+depends  on  considerations  of both  autonomy  and  welfare.  Part  II,  in
+the  need  for
+some  ways 
+individuation  across  both  risks  and  persons.  Part  III  offers  a  more
+ambitious  discussion  of  the  uses  and  limits  of  WTP  in  regulatory
+policy.  It distinguishes  between easy  and hard  cases for  using WTP to
+calculate  VSL.  The  central  claim  in  Part  III  is  that  the  argument  for
+using  WTP  is strongest  when  the  beneficiaries  of regulation  must pay
+all  of its  cost-though  even  in  that  event,  the  argument  is  subject  to
+important  qualifications,  above  all  involving  bounded  rationality.  The
+is  weaker  when  the  beneficiaries  of
+argument  for  using  WTP 
+regulation  pay  only  a  fraction  of  that  cost.  When  this  is  so,  some
+people  will benefit  from  regulation even  if it is inefficient  in  economic
+terms.  I  discuss  the  implications  of  this  point  for  a  uniform  or fully
+individuated  VSL. Part IV turns  to global regulation  and  the  question
+
+HeinOnline  -- 54 Duke L.J. 395 2004-2005
+
+DUKE LAW JOURNAL
+
+[Vol.  54:385
+
+of cross-national  differences  in VSL. My conclusion  is  that while  third-
+party  donors  should  help  those  people  who  need  help  most,  without
+reference  to  lower  VSLs  in  poor  countries,  governments  in  wealthy
+nations should  use a higher VSL than governments  in poor ones.
+
+I.  WTP:  THEORY AND  PRACTICE
+
+in
+I  begin  with  an  explanation  of  existing  agency  practice 
+calculating  VSL  and  of  the  theory  that  underlies  it.  As  discussed
+below,  agencies  calculate  VSL  on  the  basis  of  market  evidence  of
+WTP.  Agencies  are  not really  able  to identify  a  "value  of  a statistical
+life";  instead  they  take  advantage  of  information  about  how  much
+people  are  willing  to  pay  for  facing  statistical  risks.  I  suggest  that
+considerations  of  both  welfare  and  autonomy make  it  reasonable  for
+agencies  to  consult  WTP.  Unfortunately,  many  questions  might  be
+raised  about the  numbers that agencies  now use.
+
+A.  Agency Practice
+
+It  has  now  become  standard  for  regulatory  agencies  to  assign
+monetary  values  to  human  lives.  Consider  the  following  table,  which
+captures  several examples  of agency practices  from 1996 through  2003:
+
+TABLE  1: AGENCY  VALUES OF  LIFE,  1996-2003
+
+Regulation and Date 
+
+Agency 
+Department of 
+
+Safety Requirements  for Operators of 
+Transportation/Federal  Small  Passenger-Carrying  Commercial
+
+Motor  Carrier Safety  Motor  Vehicles  Used  in  Interstate
+
+Administration 
+
+Commerce  (Aug. 12,  2003)31
+
+VSL  (in US$)
+3  million
+
+Department  of Health  Food Labeling:  Trans Fatty Acids in 
+& Human  Services/FDA  Nutrition  Labeling,  Nutrient  Content
+
+6.5  million
+
+Department  of 
+
+Claims,  and  Health Claims (July 11,  2003)32
+Control  of Listeria  Monocytogenes  in 
+
+4.8 million
+
+Agriculture/Food  Safety  Ready-to-Eat  Meat  and Poultry  Products
+(June 6, 2003)33
+and  Inspection  Service 
+Department of Health  Labeling  Requirements  for Systemic 
+
+& Human  Services/FDA  Antibacterial  Drug Products  Intended for
+
+5  million
+
+Human  Use  (Feb. 6, 2003) 34  
+
+_7 
+
+:_
+
+31.  68 Fed. Reg.  47,860, 47,869  (Aug. 12,  2003)  (codified  at 49 C.F.R. pts. 390,  398).
+32.  68 Fed. Reg.  41,434,  41,490 (July  11,  2003)  (codified  at 21 C.F.R. pt.  101).
+33.  68 Fed. Reg.  34,208,  34,222  (June 6, 2003)  (codified  at 9 C.F.R.  pt. 430).
+34.  68 Fed. Reg.  6062, 6076  (Feb.  6, 2003)  (codified  at 21  C.F.R. pt. 201).
+
+HeinOnline  -- 54 Duke L.J. 396 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+Office  of Management  Draft 2003  Report to  Congress  on the 
+
+5  million
+
+and Budget 
+
+EPA 
+
+EPA 
+
+EPA 
+
+EPA 
+
+EPA 
+
+EPA 
+
+EPA 
+
+3
+
+1
+
+Costs  and Benefits  of Federal  Regulations
+(Feb.  3, 2003)
+Control  of Emissions  from Nonroad Large 
+Spark-Ignition  Engines,  and  Recreational
+Engines  (Marine  and  Land-Based)  (Nov. 8,
+2002)"
+National  Primary  Drinking  Water 
+Regulations;  Arsenic and  Clarifications  to
+Compliance  and  New Source  Contaminants
+Monitoring  (Jan. 22,  2001)"
+Control  of Air Pollution from New  Motor 
+Vehicles:  Heavy-Duty  Engine and Vehicle
+
+Standards  and Highway Diesel  Fuel Sulfur
+Control  Requirements  (Jan. 18,  2001)38
+Control of Air Pollution from New  Motor 
+Vehicles: Tier 2 Motor Vehicle  Emissions
+Standards and Gasoline Sulfur  Control
+Requirements  (Feb. 10,  2000)"
+Findings  of Significant  Contribution  and 
+Rulemaking  on  Section 126  Petitions for
+Purposes of Reducing  Interstate  Ozone
+Transport  (Jan. 18, 2000) 40
+Final Standards  for Hazardous  Air 
+Pollutants for Hazardous  Waste
+Combustors  (Sept. 30,  1999) 4
+National  Primary Drinking  Water 
+Regulations: Disinfectants  and Disinfection
+Byproducts  (Dec.  16,  1998)'
+
+6 million
+
+6.1 million
+
+6  million
+
+5.9  million
+
+5.9 million
+
+5.6  million
+
+5.6 million
+
+35.  68 Fed. Reg. 5492,  5500 (proposed  Feb. 3,  2003).
+36.  67  Fed.  Reg.  68,242,  68,327  (Nov.  8,  2002)  (codified  at  40  C.F.R.  pts.  89-91,  94,  1048,
+
+1051, 1065,  and 1068).
+
+37.  66 Fed. Reg. 6976,  7012 (Jan. 22, 2001)  (codified  at 40  C.F.R. pts. 9,  141,  and  142).
+38.  66  Fed. Reg. 5002,  5103 (Jan.  18, 2001)  (codified  at 40  C.F.R. pts. 69  and 80).
+39.  65  Fed. Reg. 6698,  6784 (Feb.  10,  2000) (codified  at 40 C.F.R. pts. 80, 85, and  86).
+40.  65 Fed. Reg. 2674,  2721  (Jan.  18, 2000)  (codified  at 40 C.F.R. pts. 52, 97).
+41. 
+64 Fed. Reg.  52,828, 53,020 (Sept.  30,  1999) (codified  at 40  C.F.R. pts. 60,  et al.).
+42.  63 Fed. Reg.  69,390, 69,440-41  (Dec.  16,  1998)  (codified  at 40  C.F.R. pts.  141  and 142).
+
+HeinOnline  -- 54 Duke L.J. 397 2004-2005
+
+DUKE LAW JOURNAL
+
+[Vol. 54:385
+
+Department  of 
+Transportation/FAA 
+
+Financial  Responsibility  Requirements  for 
+Licensed  Launch  Activities  (Aug. 26,
+1998) 0"
+
+3  million
+
+Department of Health  Quality Mammography  Standards  (Oct.  28, 
+& Human  Services/FDA  1997) 44
+Department of Health  Regulations Restricting  the Sale  and 
+
+5  million
+
+2.5  million
+
+& Human  Services/FDA  Distribution  of Cigarettes and Smokeless
+
+Department  of 
+
+Tobacco to  Protect Children  and
+Adolescents  (Aug. 28, 1996)
+Pathogen  Reduction;  Hazard  Analysis and 
+
+41
+
+Agriculture/Food  Safety  Critical  Control Point  (HACCP)  Systems
+(July  25,  1996) 46
+Aircraft Flight  Simulator Use  in  Pilot 
+Transportation/FAA  Training, Testing  and  Checking  and  at
+
+and  Inspection  Service 
+Department of 
+
+Consumer Product 
+Safety Commission 
+Consumer Product 
+
+Safety Commission 
+
+47
+
+Training Centers  (July 2,  1996)
+Requirements  for Labeling of Retail 
+Containers  of Charcoal  (May  3, 1996) 48
+Large  Multiple-Tube  Fireworks  Devices 
+(May 3,  1996) 49
+
+1.6 million
+
+2.7  million
+
+5  million
+
+4.5-8  million
+
+These  numbers  show  substantial  variations,  though  less  so  than
+even  ten  years  ago.'  The  variations  appear  not  to  have  any  rationale
+behind  them;  agencies  with  higher  or  lower  numbers  have  not
+explained  their  choices  (and  this  is  a  significant  problem).  But  the
+most  fundamental  question  is  how  agencies  generate  monetary
+amounts  of  this  kind.  Agencies  rely  on  two  kinds  of  evidence.  The
+first  and  most  important  involves  real-world  markets,  producing
+
+43.  63 Fed.  Reg. 45,592, 45,604 (Aug. 26,  1998)  (codified  at 14 C.F.R. pt. 440).
+44.  62 Fed. Reg. 55,852, 55,964 (Oct.  28, 1997)  (codified  at 21  C.F.R. pts. 16, 900).
+45.  61  Fed.  Reg.  44,396,  44,576  (Aug.  28,  1996)  (codified  at  21  C.F.R.  pts.  803,  807,
+
+46.  61  Fed.  Reg. 38,806,  38,958  (July  25,  1996)  (codified  at  9  C.F.R. pts.  310,  327, 381,  416,
+
+and 820).
+
+and 417).
+
+47.  61  Fed.  Reg.  34,508, 34,546  (July 2,  1996)  (codified  at  14  C.F.R. pt. 1).
+48.  61  Fed. Reg. 19,818, 19,825  (May 3,  1996)  (codified  at  16  C.F.R. pt.  1500).
+49.  61  Fed.  Reg.  13,084, 13,094  (Mar. 26, 1996)  (codified  at 16 C.F.R. pts.  1500,  1507).
+50.  See  Adler  &  Posner,  supra note  5,  at  1146  (showing  an  ever  larger  disparity  in  VSL
+
+numbers  used by agencies  between  1988  and 1997).
+
+HeinOnline  -- 54 Duke L.J. 398 2004-2005
+
+2004]
+
+VALUING LIFE
+
+evidence  of  compensation  levels  for  actual  risks.5  In  the  workplace
+and  in  the  market  for  consumer  goods,  additional  safety  has  a  price;
+market  evidence  is  investigated  to  identify  that  price. 2  The  second
+kind of  evidence  comes  from  contingent  valuation  studies,  which  ask
+people  how  much  they  are  willing  to  pay  to  reduce  statistical  risks.3
+The  EPA's  $6.1  million  figure,  for example,  is  a  product  of studies  of
+actual  workplace  risks;  such  studies  attempt  to  determine  how  much
+workers  are  paid  to  assume  mortality  hazards. 4  The  relevant  risks
+usually  are  in  the  general  range  of  1/10,000  to  1/100,000."5  The
+calculation  of  VSL  is  a  product  of  simple  arithmetic.  Suppose  that
+workers must  be paid  $600,  on  average,  to assume  a  risk  of  1/10,000.
+If so, the VSL  would be  said to be  $6  million.
+
+For  some  of  the  two  dozen  labor  market  studies  on  which
+
+agencies currently  rely,56  consider the following  table:57
+
+TABLE 2:  LABOR MARKET  STUDIES  ON THE VALUE OF  LIFE
+
+Study 
+
+Kniesner and Leith  (1991) 
+
+Smith  and  Gilbert  (1984) 
+
+Dillingham  (1985) 
+Marin  and Psacharopoulos  (1982) 
+
+V.K. Smith  (1976) 
+
+Viscusi  (1981) 
+Leigh and  Folsom  (1984) 
+
+Leigh (1987) 
+
+Garen  (1988) 
+
+VSL  (in US$)
+.7 million
+
+.8  million
+
+1.1  million
+3.4  million
+
+5.7 million
+
+7.9 million
+11.7  million
+
+12.6 million
+
+16.3  million
+
+51.  See ViSCUSI,  supra note  9,  at  35  (explaining how labor  markets  compensate  workers  for
+
+taking on risk).
+
+52.  See generally Viscusi  & Aldy,  supra note  10  (providing  a  valuable  and  comprehensive
+
+overview  of how market evidence  is used to set prices).
+
+53.  See, e.g.,  Hammitt  & Liu, supra note  11,  at  74 (using  contingent  valuation  in a study  of
+
+WTP in the context  of cancer  and other degenerative  diseases).
+
+54.  Cass  R.  Sunstein,  The Arithmetic of Arsenic, 90  GEO.  L.J.  2255,  2274  (2002);  VISCUSI,
+
+supra note  9 (discussing  WTP  studies and how  agencies  use  them  to calculate  VSL).
+
+55.  See,  e.g.,  W.  Kip  Viscusi,  The  Value  of Life:  Estimates with  Risks  by  Occupation and
+Industry, 42  ECON.  INQUIRY  29,  33  (2004)  (showing  fatality risks  ranging  from  about  1/100,000
+to 45/100,000).
+
+56.  See  Richard  W.  Parker,  Grading the  Government, 70  U.  CHI.  L.  REv.  1345,  1485-86
+
+(2003)  (providing  an  accessible outline  of labor market  studies).
+
+57.  ENVTL.  PROT.  AGENCY,  GUIDELINES  FOR  PREPARING  ECONOMIC  ANALYSES  89
+
+(2000).
+
+HeinOnline  -- 54 Duke L.J. 399 2004-2005
+
+DUKE LAW JOURNAL
+
+[Vol.  54:385
+
+to  accept"  (WTA)  in  regulatory  policy. 58 
+
+A  large  advantage  of  labor  market  studies  of  this  kind  is  that
+they  avoid  the  lively  disputes  over  the  use  of  "willingness  to  pay"  or
+"willingness 
+In  many
+contexts,  in  both  experiments  and  the  real  world,  people  demand
+more  to give  up  a  good than  they are  willing to  pay to  obtain  it in  the
+first  instance-a  disparity  that  significantly  complicates  efforts  to
+assign  monetary  values  to  regulatory  benefits,  including mortality  and
+morbidity. 9  If people  are  willing  to  pay  $25  to  eliminate  an  existing
+risk  of  1/100,000,  but  demand  $100  to  incur  a  new  risk  of  1/100,000,
+then  it  is  difficult  to know  how  to  proceed  for purposes  of monetary
+valuation  of  risks.  Should  agencies  use  $25,  $100,  or  some
+in  the
+intermediate  figure?  Fortunately,  this  problem  dissipates 
+context  of labor market  studies. If workers  who face  a risk of 1/10,000
+are  paid  $600  more  for  doing  so,  and  if  workers  who  refuse  to  face
+such  a  risk  are  paid  $600  less,  then  it  is  irrelevant  whether  agencies
+speak  in terms of WTP  or WTA.
+
+B.  Of Welfare and Autonomy
+
+Why  do  regulators  care  about  market  valuations  of  statistical
+two  possible  answers.  The  first  and  more
+involves  welfare.  The  second  and  perhaps  more
+
+risks?  There  are 
+conventional 
+interesting  involves  autonomy.
+
+In  economic terms,  these valuations provide  a  clue  to the  welfare
+consequences,  for  individuals,  of  one  or  another  outcome.  If  people
+are  willing  to  pay  $60,  but  no  more,  to  eliminate  a risk  of  1/100,000,
+then  it  can  be  reasonably  assumed  that  their  welfare  is  increased  by
+asking  them  to pay  that  amount-and  that  their  welfare  is  decreased
+by  asking  them  to  pay  more.  There  are  many  demands  on  people's
+budgets,  and  if they  prefer  not  to spend  more  than $60  to  eliminate  a
+risk  of  1/100,000,  it  may  be  because  they  would  like  to  use  their
+money  for  food,  shelter,  recreation,  education,  or  any  number  of
+other  goods.  With  respect  to  mortality  risks, it is  possible  that people
+
+58.  See generally Russell  Korobkin,  The Endowment Effect and Legal Analysis, 97  Nw. U.
+L.  REv.  1227  (2003)  (explaining  the  so-called  "endowment  effect,"  by  which  individuals  often
+than  they  would  pay  to  obtain  that  same  item
+demand  more  to  relinquish  an  item  (WITA) 
+(WTP)).
+
+59.  See  id. at  1228  ("[P]eople  will  often  demand  a  higher  price  to  sell  a  good  that  they
+possess  than  they would  pay  for  the  same  good if  they  did not  possess it  at  present."  (footnote
+omitted));  Cass  R. Sunstein,  Endogenous Preferences, Environmental Law, 22 J.  LEGAL STUD.
+217,  226-27 (1993)  ("The  range  of the  disparity appears  to vary from slight  amounts  to a ratio  of
+more  than  four to  one,  with WTA  usually doubling  WTP.").
+
+HeinOnline  -- 54 Duke L.J. 400 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+are  sometimes  inadequately  informed,  and  there  might  be  reason  to
+override  their  judgments.  But  so  long  as information  is  available,  the
+welfare  argument is straightforward. 6°
+
+Perhaps  regulatory  policy  should  not  be  based  on  welfare;
+perhaps  it is  unclear what  "welfare"  really  means,  and  WTP  might  be
+defended instead  on the ground  of personal autonomy.6  On  this view,
+people  should  be  sovereign  over  their  own  lives,  and  government
+should  respect  personal  choices  about  how  to  use  limited  resources
+(again  so  long as those choices  are  informed). When  people  decline  to
+devote  more  than  $60  to  the  elimination  of  a  1/100,000  risk,  it  is
+because they would  prefer  to  spend the money  in  a way  that seems to
+them  more  desirable.  If  regulators  do  not  use  people's  actual
+judgments,  then  they  are  insulting  their  dignity.  The  use  of  WTP
+therefore  can  claim  a  simultaneous  defense  from  both  utilitarian  and
+deontological  accounts.
+
+C.  Questions and Doubts
+
+Nonetheless,  some questions might  be raised  about the  use  of the
+relevant  studies by  the EPA  and  other  agencies. 62 Most obviously,  the
+studies  show  significant  variety  in  the  crucial  numbers,  ranging  from
+$16.3  million  in  1988  to  $.7  million  in  1991.  The  EPA has  adopted  the
+$6.1  million  figure  on  the ground  that  it represents  the  median  in  the
+relevant  studies. 63  But there  is  a  risk  of  arbitrariness  in  fastening  on
+that  median  figure,  particularly  if there  is  no  reason  to  believe  that
+the  relevant study  is  the most  accurate.  In  fact a  more general  look  at
+the  VSL  data  produces  further  puzzles  and  wider  ranges.  Some
+studies  find  no  compensating  differentials  at  all,  indicating  a  VSL  of
+low,  to  say  the  least,  for  purposes  of  policy.
+zero 64-implausibly 
+Others find  that nonunionized  workers  receive negative compensating
+differentials  for risk-that  is, they  appear  to be  paid  less because  they
+
+I deal with some complexities  in  Part III.
+
+60. 
+61.  See  RONALD  DWORKIN,  SOVEREIGN  VIRTUE:  THE  THEORY  AND  PRACTICE  OF
+EQUALITY  122  (2000)  (arguing  that  liberty  "is  essential  to  any  process  in  which  equality  is
+defined  and secured").
+
+62.  For  several  such  questions,  see  Robert  H.  Frank  &  Cass  R.  Sunstein,  Cost-Benefit
+Analysis and Relative Position, 68  U.  CHI.  L.  REV.  323,  323-28  (2001),  and  Parker, supra note
+56, at  1348-57.
+
+63.  See supra note 54 and accompanying  text.
+64.  See  Peter  Dorman  &  Paul  Hagstrom,  Wage  Compensation for  Dangerous  Work
+Revisited, 52  INDUS. & LAB. REL. REV.  116,  133  (1998)  (finding  "statistically  significant  positive
+compensation"  for  only a  few categories  of workers).
+
+HeinOnline  -- 54 Duke L.J. 401 2004-2005
+
+DUKE LAW JOURNAL
+
+[Vol.  54:385
+
+face  mortality  risks.65  Another  study  finds  that  African  Americans
+receive  no  significant  compensating  wage  differential  and  hence  that
+their  particular  VSL  is  zero.6  On  the  other  hand,  some  studies  find
+VSLs  actually  above  the  VSLs  presented  in  Table  1;  consider  the
+finding  that for  people  who  choose jobs  with  low  level  risks, the VSL
+is as much  as  $22 million. 7
+
+The  most  recent  metastudy,  far  more  comprehensive  than  the
+EPA's  own  analysis,  finds  that  most  studies  produce  VSLs  ranging
+from  $3.8  million  to  $9  million.'  The  range  is  fairly  compressed,  in  a
+way  that  disciplines  agency  decisions;  for  many  regulations,  the
+"bottom  line"  of the  cost-benefit  assessment  will  not be  affected  by a
+choice  of  $3.8  million  or  $9  million.  But  that  range  still  leaves
+significant  room  for  discretion,  in  a  way  that  would  have  significant
+implications  for  policy and  law.  Consider  the  fact  that the  monetized
+value  of  a  program  that  saves  two  hundred  lives  would  range  from
+$760 million to $1.8 billion;  note  also that the EPA's highly publicized
+arsenic  regulation  would  easily  fail  cost-benefit  analysis  with  a  $3.8
+million VSL but  easily pass  with a  $9 million VSL.69 The  simple  point
+is  that  the  variety  of  the  outcomes  raises  questions  about  the
+reliability of any particular  figure.
+
+In  addition,  most  of  the  studies  on  which  the  EPA  relies  are
+based  on  data  from  the  1970s. 70  Since  that  time,  there  has  been
+significant growth  in  national income."  This  change  suggests  that  any
+VSL derived  from  1970s  data  is  too  low.  Of course  people  with more
+money  are  expected  to  be  willing  to  pay  more,  other  things  being
+equal, to  reduce  statistical  risks. One  study finds that  at the beginning
+of the twentieth  century, VSL  was  about $150,000  in current  dollars-
+less  than  one-twentieth  of the corresponding  amount  a century later."
+the  EPA's  use  of  1970s  data  has
+On  reasonable  assumptions, 
+
+Id. at 18.
+
+65.  Viscusi & Aldy, supra note  10, at 44.
+66.  Leeth & Ruser, supra note  19, at  270.
+67.  Viscusi & Aldy, supra note  10, at 23.
+68. 
+69.  See Sunstein,  supra note  54, at 2274-76  (discussing  the EPA's  use  of a  $6.1  million VSL
+in  evaluating  the  arsenic  regulation).  The  regulation  was  projected  to cost  about  $200  million,
+and  its  monetized  benefits,  with  a  $6.1  million  VSL, were  around  $190  million.  Id. at 2275.  It
+should  be  easy  to see that  a  $3.8 million  VSL would  make  the regulation  impossible  to defend-
+and  a $9  million VSL  would make it impossible  to challenge.
+
+Id. at 2274.
+Id. at 2284-85.
+
+70. 
+71. 
+72.  Viscusi & Aldy, supra note  10, at 22.
+
+HeinOnline  -- 54 Duke L.J. 402 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+produced  a  significant  undervaluation  of  the  monetary  value  of  the
+lives  at stake; the $6.1  million figure  reflects  no  adjustment  to account
+for  changes  in  national  real  income  growth.73  In  principle,  the  failure
+to  undertake  an  adjustment  is  a  serious  mistake.  The  actual  mean
+WTP might be  substantially higher.74
+
+Even  more fundamentally,  the  relevant  numbers  deserve respect
+only  if they  do  not  result  from  bounded  rationality  or  an  absence  of
+information  on  the  part of  the  people  whose  choices  generate  them.
+Suppose,  for  example,  that  workers  do  not  know  the  risks  that  they
+face  or that their decisions  are products  of the availability  heuristic  or
+optimistic  bias.7"  In  either  case,  regulators  should  not  use,  for
+purposes of policy,  a  finding that workers  are paid $60 to run a  risk of
+1/100,000;  by  hypothesis,  that  number  does  not  reflect  a  rational
+tradeoff  by  informed  workers.  I  return  to  these  points  below.76
+Current  practice  is  based  on  an assumption,  not  that all  or even  most
+workers make  informed  choices,  but that market processes ensure  the
+right  "price"  for various degrees  of safety.77 Compare pricing for soap,
+cereals,  and  telephones:  most consumers  do  not have  full information
+and  use  heuristics  that  lead  them  astray,  but  market  competition
+produces a sensible  structure  of prices,  at least most of the time.
+
+73.  The  EPA has updated  the relevant  numbers  for  inflation, but it has  not otherwise  made
+
+adjustments.  Sunstein, supra note  54, at 2284.
+
+74.  See Dora L. Costa & Matthew  E. Kahn,  The Rising Price of Nonmarket Goods, 93  AM.
+ECON.  REV.  PAPERS  &  PROC.  227,  229  tbl.1  (2003)  (suggesting  a  likely  current  value  of  $12
+million);  Viscusi,  supra note  16,  at  252  tbl.5  (finding  values  as  high  as  $15.1  million  for  white
+males).  In the  context  of arsenic  regulation,  the  EPA  also  noted  in its  sensitivity  analysis  that
+the appropriate  adjustment  would  increase  the  VSL  from  $6.1  million  to $6.7  million.  National
+Primary  Drinking  Water  Regulations;  Arsenic  and  Clarifications  to  Compliance  and  New
+Source  Contaminants  Monitoring,  66 Fed. Reg.  6976, 7012  (Jan. 22, 2001)  (codified  at 40  C.F.R.
+pts. 9,  141,  and 142).  Recent evidence  suggests that the current  VSL is  $4.7 million  for  the entire
+population,  $7  million  for  blue-collar  males,  and  $8.5  million  for  blue-collar  females.  Viscusi,
+supra note 55,  at 39.
+
+75.  The  availability  heuristic  suggests  that  people  will  overestimate  risks  when  an  event  is
+readily  "available"  to people's  minds,  and  underestimate  risks  when  no such  event  is  available.
+Timur  Kuran &  Cass R.  Sunstein, Availability Cascades and Risk Regulation, 51  STAN.  L.  REV.
+683,  685  (1999).  Optimistic  bias  suggests  that  people  will  be  excessively  optimistic  about  risks
+that  they  themselves  face.  Cass  R. Sunstein,  Hazardous Heuristics, 70  U.  CHI. L.  REV.  751,  772
+(2003).
+
+76.  See infra Part III.A.2.
+77.  See VISCUSI, supra note  9.
+
+HeinOnline  -- 54 Duke L.J. 403 2004-2005
+
+DUKE LAW  JOURNAL
+
+[Vol. 54:385
+
+D.  The Value of Statistical Risks, Not the Value of Statistical Lives
+
+Suppose  that  the  relevant  problems  can  be  solved  and  that
+regulators  can  identify  a  number,  call  it  $6  million,  that  really
+represents  people's  valuations.  It  should  be  clear  that  even  if  this
+were  so,  it  would  be  grossly  misleading  to  offer  the  following
+suggestion:  The  value  of a  statistical life  is  $6  million.  It  would  be
+much  more  accurate  to say that for risks  of 1/10,000,  the median  WTP
+in  the  relevant  population  is  $600-or that  for  risks  of  1/100,000,  the
+median  WTP  is  $60.  If  true,  these  statements  would,  on  assumptions
+later  explored,  be  extremely  helpful  for  purposes  of  policy. But  even
+at  first  glance,  it  is  clear  that  these  numbers  need  not  be  taken  to
+support  a  VSL  that  is  independent  of  probability."8  Suppose  that
+people  would be  willing to  pay $60  to reduce  a risk  of 1/100,000. From
+this  it  does  not  automatically  follow  that  people  would  be  willing  to
+pay  $6  to  eliminate  a risk  of 1/1,000,000,  or  $6,000  to  reduce  a  risk  of
+1/1,000,  or  $60,000  to  reduce  a  risk  of  1/100.  It  is  plausible  to  think
+that  people's  WTP  to  reduce  statistical  risks  is  nonlinear. 9  As  the
+probability  approaches  100  percent,  people  become  willing  to  pay  an
+amount  for  risk  reduction  that  rises  nonlinearly  to  100  percent  of
+their  wealth;  as 
+risk  approaches  zero,  WTP  nonlinearly
+approaches  nothing.  For  a  risk  of  1/1,000,000,  for  example,  many
+reasonable  people  would  be  unwilling  to  pay  anything,  treating  that
+risk as  inconsequential.
+
+the 
+
+Hence  the claim that VSL is  $6  million is merely  a shorthand  way
+of saying  that people  are  willing  to pay  from  $600  to  $60 to eliminate
+risks  of  1/10,000  to  1/100,000.  Because  this  is  the  range  for  risks  with
+which  most  agencies  deal,  the  relevant  data  are  highly  informative.
+For current  purposes, this  point is the crucial  one.
+
+II.  INDIVIDUATION
+
+My  basic  claim is  that  VSL will  inevitably  vary  across  both  risks
+and  persons. If people's  WTP is higher  to  avoid cancer  risks than  risks
+of unanticipated,  sudden  deaths,  then  the  use  of  a  VSL,  drawn  from
+studies  of  the  latter  risks,  will  provide  insufficient  protection  of  the
+exposed  population.  If  people  in  different  occupations  are  paid
+
+78.  See  RICHARD  POSNER,  CATASTROPHE:  RISK  AND  RESPONSE  166  (2004)  ("I[T]here  is
+no  reason  to  think  that the  relation  between  the  risk of death  and the  perceived  cost of the  risk
+is  linear.").
+79. 
+Id.
+
+HeinOnline  -- 54 Duke L.J. 404 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+different  amounts  to  incur  a  risk,  then  use  of  a  uniform  VSL  will  not
+track  actual  behavior,  which  is  what  it is  supposed  to  do.80  If wealthy
+people  show  a  higher  WTP  than  poor  people,  then  a  uniform  WTP
+based  on a  population-wide  median  will ensure  insufficient  protection
+of  wealthy  people  and  excessive  protection  of  poor  people  in  a  way
+that might well  prove  harmful to  both groups."  And  if the use  of WTP
+then  a  more
+is  justified  on  grounds  of  welfare  and  autonomy, 
+individuated  approach  is justified  on those same  grounds.
+
+This  Part begins  by  considering  differences  among  risks and  then
+explores  differences  among  persons.  It  explains  and  endorses  the
+claim  that  in  theory,  full  individuation,  giving  all  people  the  risk
+reduction  for  which  they  are  willing  to  pay,  is  required  by  the
+prevailing  theory. From this  point, it emphasizes  the problem  with full
+individuation,  which  is  that  it  is  not  feasible.  But  an  intermediate
+approach, moving  in that direction,  would make a  great  deal of  sense.
+The  Part  concludes  with  a  discussion  of  the  implications  for
+administrative  law.
+
+A.  Risks
+
+I  have  emphasized  that  the  data  that  underlie  the  $6.1  million
+VSL  used  by  the  EPA  come  from  risks  of  accidents  in 
+the
+workplace-and  that  even  if  these  data  could  be  generalized,  they
+would  not justify  a  probability-independent  VSL. But there  is  a  point
+of  greater  practical  importance.  A  1/100,000  risk  of  dying  in  a
+workplace  accident  might  well  produce  a  different  WTP  from  a
+1/100,000  risk  of  dying  of  cancer  from  air  pollution,  which  might  in
+turn  be  different  from  a  1/100,000  risk  of  dying  in  an  airplane  as  a
+result of  a  terrorist  attack  or  a  1/100,000  risk  of dying  as  a  result of  a
+the
+defective  snowmobile.  The  very 
+government's  current  use  of  VSL  justifies  a  simple  conclusion:  VSL
+should  be  risk-specific; it should  not be  the  same  across statistically
+equivalent risks. The  use  of a single  number almost  certainly  produces
+significant  blunders  and  incorrect  decisions  about  the  appropriate
+amount of regulatory  protection.
+
+lies  behind 
+
+theory 
+
+that 
+
+1.  Data. To  test  these  issues  in  a  highly  preliminary  way,  I
+conducted  a  small  contingent  valuation  study. Eighty-four  University
+
+80.  Viscusi,  supra note 55,  at 33,  39-41.
+81.  On the  "might  well,"  see  infra Part III.B.
+
+HeinOnline  -- 54 Duke L.J. 405 2004-2005
+
+DUKE LAW  JOURNAL
+
+[Vol.  54:385
+
+of  Chicago  law  students  were  asked  about  their  WTP  to  eliminate
+each  of  five  risks  of  1/100,000.  The  simplest  of  these  risks  involved
+dying  from  an  automobile  accident  as  a  result  of  a  defective  brake.
+The  four  other  risks  might  be  expected  to  occasion  greater  concern;
+they  involved  deaths  from  lung  cancer,  AIDS,  Alzheimer's  disease,
+and  airplane  crashes  resulting  from  terrorist  attacks.  The  1/100,000
+risk  of  dying  in  an  automobile  accident  produced  a  mean  WTP  of
+$156,  whereas  the  four  other  accidents  produced  significantly  higher
+values  (ranging  from  $184  for  the  AIDS  risk  to $193  for Alzheimer's
+disease).  In  addition,  there  was  substantial  heterogeneity  across
+individuals.  For  each  of  the  questions,  about  ten  respondents  were
+willing  to  pay  nothing  to  eliminate  the  1/100,000  risk,  producing  a
+VSL  of  zero.  At  the  opposite  end  of  the  spectrum,  about  fifteen
+people  were  willing  to  pay  at  least  $500  to  eliminate  each  of  the
+1/100,000  risks,  producing  a  VSL of  $50  million. This  informal  study
+suggests  that  even  within  a  relatively  homogenous  group 
+(law
+students),  people  do  not  treat  statistically  identical  risks  in  the  same
+way, and indeed  there  are  differences  across  persons  as well  as  across
+risks.
+
+With  respect  to  the data  on which  agencies  generally  rely, notice
+initially that  the very  category  of  "workplace  risks"  conceals  relevant
+differences.  The  American  economy  contains  a  wide  range  of
+occupations  and  industries,  and  a  uniform  VSL  should  not  be
+expected  to  emerge  from  each  of  them.  Indeed,  a  recent  study  finds
+significant  differences  across  both  occupations  and  industries,"  with
+blue-collar  workers  showing  a  higher  VSL  than  others. 3  It  is
+inevitable  that  a  wide  range  of  values  would  emerge  from  studies
+looking  separately  at machine  operators,  executives,  sales  associates,
+dental 
+security  guards,  and
+secretaries'-and  diverse  values  undoubtedly  could  be  found  within
+each  category.
+
+technicians,  equipment  cleaners, 
+
+In  addition,  many  risks  controlled  by  the  EPA  are  qualitatively
+different  from  the workplace  risks  that the EPA  has  used  to generate
+its  VSL.  Two  differences  are  particularly  important.  First,  the
+workplace  studies  do  not  involve  cancer,  and  cancer  risks  are  often
+involved  in  environmental  decisions.  There  is  considerable  evidence
+
+82.  Viscusi,  supra note  55,  at 39-41.
+83. 
+84.  See  id.  at  33  (containing  data  clearly  indicating  that  separate  numbers  for  different
+
+Id.
+
+occupation  groups would emerge).
+
+HeinOnline  -- 54 Duke L.J. 406 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+that  the  risks  associated  with  cancer  produce  a  higher  WTP  than
+other  kinds  of risk.s5  For example,  Professors  Hammitt  and  Liu  find
+that  in  Taiwan,  WTP  to  eliminate  a  cancer  risk  is  about  one-third
+higher  than  WTP  to  avoid  a  risk  of  a  similar,  chronic  degenerative
+disease.86  Some  contingent  valuation  studies  suggest  that  people  are
+willing  to  pay  twice  as  much  to  prevent  a  cancer  death  as  an
+instantaneous  death.'  People  seem  to  have  a  special  fear  of  cancer,
+and  they  seem  to  be  willing  to  pay  more  to  prevent  a  cancer  death
+than  a  sudden,  unanticipated  death,  or  a  death  from  heart  disease.8
+The  "cancer  premium"  might  be  produced  by  the  "dread"  nature  of
+cancer;  it  seems  well  established  that  dreaded  risks  produce  special
+social concern, holding  the statistical risk constant s9
+
+that  study  assumes 
+
+To  be sure,  existing  evidence  on  this  count  is  not  unambiguous.
+One  study  of  occupational  exposures  does  not  find  a  significantly
+that
+higher  VSL  for  cancer  risks.'  But 
+occupational  cancers  account  for  10  to  20  percent  of  all  cancer
+deaths-an  amount  that  is  almost  certainly  too  high.  If  occupational
+exposures  account  for  5 percent  of  all  cancers-a  far  more  realistic
+number-then  the VSL for  cancer risks may be  as high as  $12  million,
+about  double  the  amount  that  the  EPA  now  uses.  The  current
+findings  conflict;9"  but  in  principle,  the  VSL  figures  should  be  risk-
+specific,  and existing  evidence  generally  supports the  view that  cancer
+risks produce  an unusually high VSL.
+
+85.  Richard  L.  Revesz,  Environmental  Regulation,  Cost-Benefit  Analysis,  and  the
+Discounting of Human Lives, 99  COLUM.  L.  REV.  941,  972-74  (1999);  Hammitt  &  Liu,  supra
+note  11,  at 74.
+
+Id. at 84.
+Id. at 81.
+
+86. 
+87. 
+88.  See  George  Tolley  et  al.,  State-of-the-Art  Health Values,  in  VALUING  HEALTH  FOR
+POLICY  323,  339-40  (George  Tolley  et  al.  eds.,  1994)  (arguing  that  the  value  of  avoiding  a
+mortality  risk preceded  by  morbidity includes  the value  of avoiding  an instantaneous  death plus
+the value  of avoiding  the preceding  years afflicted  with the particular  condition).
+
+89.  See  Revesz,  supra  note  85,  at  972-74  (discussing  "the  dread  aspects  of  carcinogenic
+deaths"  and  their  impact  on  WTP  studies).  See  generally PAUL  SLOVIC,  THE PERCEPTION  OF
+RISK  (2000)  (exploring how  risk  perception  affects individual  behavior).
+
+90.  See  Viscusi  &  Aldy,  supra note  10,  at  57  (finding  that  estimates  of values  for  cancer
+mortality  and  accidental  death  were  similar);  see  also  Wesley  A.  Magat  et  al.,  A  Reference
+Lottery  Metric for  Valuing  Health, 42  MGMT.  SCI.  1118,  1129  (1996)  (finding  no  difference
+between  valuations of cancer  deaths  and auto  accident  deaths).
+
+91.  See  Viscusi  & Aldy,  supra note  10,  at 57  (contrasting  the  United  Kingdom  Health  and
+Safety  Executive's  use  of  a  higher  VSL  for  cancer  deaths  with  the  recommendation  of the
+EPA's SAB not  to make any  "dread"  modification  to VSL  for certain risks).
+
+HeinOnline  -- 54 Duke L.J. 407 2004-2005
+
+DUKE  LAW  JOURNAL
+
+[Vol.  54:385
+
+1 3
+
+in 
+
+return 
+
+risks  are  not  assumed  voluntarily 
+
+The second  difference  between  workplace  risks  and the  risks that
+concern  the  EPA  is  that  the  latter  risks  seem  peculiarly  involuntary
+and  uncontrollable. 92  Unlike 
+the  risks  of  'workplace  accidents,
+pollution 
+for
+compensation.  A  great  deal  of  literature  suggests  that  involuntary,
+dread,  uncontrollable,  and  potentially  catastrophic  risks  produce
+unusually  high  levels  of  public  concern." 
+If  so,  the  numbers  that
+derive  from  workplace  accidents  will  substantially  understate  WTP
+for  regulatory  benefits  provided  by  the  EPA  and  many  other
+agencies.95
+The 
+
+implications  of  risk-specific  VSL  go  well  beyond  the
+distinction between  workplace  accidents  and  environmental  risks. For
+example,  people  appear  to  be  willing  to  pay  far  more  to  produce
+safety in  the  air than  on the  highways; 
+it follows  that VSL  should be
+higher  for  the  FAA  than  for  the  National  Highway  Traffic  Safety
+Administration.  Oddly,  the  former  agency  has  an  unusually  low
+rather  than  an  unusually  high  VSL.97 Some  diseases  would  produce  a
+higher  VSL  than  others.  A  1/100,000  risk  of death  from  Alzheimer's
+disease,  for  example,  would  almost  certainly  produce  a  higher  VSL
+
+92.  See,  e.g.,  ACKERMAN  &  HEINZERLING,  supra  note  9,  at  147  (arguing 
+
+that
+environmental  risks  are  involuntary  because  they  are  "not  allocated,  even  in  theory,  according
+to  market  transactions");  Sunstein,  supra note  54,  at 2285  ("The  risk  of cancer  from  drinking
+water  is  qualitatively  different  from  the  workplace  risks  that the  EPA used  to generate  its VSL.
+The  risks  from drinking  water  seem  peculiarly  involuntary  and  uncontrollable,  and a great  deal
+of literature  suggests that  involuntary and  uncontrollable  risks produce  individual concern.").
+
+93.  Of  course  it  is  possible  to  question  the  idea  that  workplace  risks  are  assumed
+voluntarily  and  in  return  for  compensation.  For example,  many  workers probably  do  not know
+the risks  that they face.  The  distinction that  I am drawing here  is one  of kind rather  than degree.
+See  Cass R.  Sunstein,  Bad Deaths, 14  J. RISK  & UNCERTAINTY  259,  272 (1997)  (proposing  that
+low-wage  workers involuntarily  assume  risks because  they lack information).
+
+94.  See, e.g.,  Paul  Slovic,  Perception of Risk, 236  SCIENCE 280, 282-83  (1987).
+95.  See,  e.g.,  Sunstein,  supra note  54,  at 2285  ("As compared  to  workplace  risks, there  can
+be  little  doubt  that  the  risk  of  arsenic  from  drinking  water  is  worse  along  the  relevant
+dimensions.  For  this  reason,  it  makes  sense  to  think  that  people  would  be  willing  to  pay  a
+premium 
+the  risks  associated  with  arsenic.").  See  generally  ACKERMAN  &
+HEINZERLING,  supra note 9.
+
+to  avoid 
+
+96.  See  Carlsson  et al.,  supra note  12, at 159  (finding that people's  WTP  to reduce  the risk
+of flying  is  double  their  WTP  to  reduce  the  risk of traveling  by  taxi,  because  the  fear  of flying
+produces  particular  mental  suffering).
+
+97.  See supra Table  1 (listing  the  VSL  for the  FAA  as  $2.7  to  $3  million  depending  on the
+regulation);  OFFICE  OF  REGULATORY  ANALYSIS  AND  EVALUATION,  NAT'L  HIGHWAY
+TRAFFIC  SAFETY  ADMIN.,  NPRM  ON  TIRE  PRESSURE  MONITORING  SYSTEM  FMVSS
+NO. 
+138,  available  at  http://www.nhtsa.dot.gov/cars/rules/rulings/TPMS_FMVSSNo138/
+index.htnl#Contents  (Sept. 2004)  (documenting  the cost-benefit  analysis  of a  safety  regulation
+using a VSL  range from  $3.5  to  $5.5  million).
+
+HeinOnline  -- 54 Duke L.J. 408 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+409
+
+than  a  1/100,000 risk of death  from a  heart attack; a  1/50,000  risk of an
+AIDS  death  would  not  produce  the  same  VSL  as  a  1/50,000  risk  of
+death  from  a  defective  brake  system  on  an  automobile;  most  people
+would  pay  more  to  reduce  a  risk  of  dying  from  slow-acting  strokes
+than  from  strokes  that  kill  outright.  There  should  be  a  distinctive,
+population-wide  median VSL for mortality risks  of airplane  accidents,
+of  cancer  from  air  pollution,  of  motor  vehicle  accidents,  of defective
+toys,  of cancer  from water pollution.
+
+In  fact  studies  that  have  been  done  for  seatbelt  use,  automobile
+safety,  home  fire  detectors,  and  more  find a  wide variety  of numbers,
+producing  a  VSL  ranging  from  $770,000  (smoke  detectors,  based  on
+data  from  the  1970s)  to  $9.9  million  (fatality  risks  associated  with
+safety  belts  and  motorcycle  helmets).9"  And  within  each  of  these
+categories  of risk, further distinctions  would undoubtedly emerge.  All
+cancer  fatalities  are  not  the  same;  informed  people  would  surely
+make  distinctions  between those  that involve long periods  of suffering
+and those  that  do  not. If  agencies  are  really interested  in  basing  VSL
+on  WTP,  then  a  uniform  number,  treating  all  statistically  identical
+mortality  risks as  the same,  is fatally obtuse.
+
+2.  Practice. The  claim  that  VSL  should  vary  by  the  type  of  risk
+is  not  entirely  foreign  to  current  regulatory  policy.  In  the  context  of
+arsenic  regulation,  for  example,  the  EPA  was  alert  to  some  such
+variations."  Hence  its  own  sensitivity  analysis  for  arsenic  suggested
+the  need  for  an  upward  revision  of  7  percent  because  of  the
+involuntariness  and  uncontrollability  of  the risk. 1°°  With  this  revision,
+along  with the  revision  for income  growth,  VSL  would rise  from  $6.1
+million  to  $7.2 million.101  In  fact  there  are  reasons  to  suggest  that  this
+amount might be  far too low. Dean  Revesz suggests  that "the  value of
+avoiding  a  death  from  an  involuntary,  carcinogenic  risk  should  be
+
+98.  Viscusi  & Aldy, supra note  10, at 25.
+to
+99.  See  National  Primary  Drinking  Water  Regulations;  Arsenic  and  Clarifications 
+Compliance  and New  Source  Contaminants  Monitoring,  66 Fed. Reg.  6976, 7014  (Jan.  22, 2001)
+(codified  at 40  C.F.R.  pts.  9,  141,  and  142)  (demonstrating  "the  effects  of incorporating  a  7%
+increase  for voluntariness  and controllability,"  based  on a  study indicating  that  "individuals  may
+place  a slightly  higher  [WTP]  on risks  where  exposure  is  neither  voluntary  nor controllable  by
+the  individual");  see  also  Sunstein,  supra  note  54,  at  2285  (arguing  that  the  EPA's  "own
+sensitivity  analysis  suggests  the  need  for  an  upwards  revision  of  seven  percent  because  of  the
+involuntariness  and uncontrollability  of the risk").
+
+100.  National  Primary  Drinking  Water  Regulations;  Arsenic  and  Clarifications 
+
+to
+
+Compliance  and  New Source  Contaminants  Monitoring,  66 Fed. Reg.  at 7014.
+
+101. 
+
+Id.
+
+HeinOnline  -- 54 Duke L.J. 409 2004-2005
+
+DUKE LAW JOURNAL
+
+[Vol.  54:385
+
+times  as 
+
+large  as  the  value  of  avoiding  an
+estimated  as  four 
+instantaneous  workplace  fatality."' °2  Under  this approach,  the VSL, in
+the  context  of arsenic, jumps  from  $6.1  million  to $24.3  million.  I  am
+not  arguing  that  $24.3  million  is the  correct  number;  I  am  suggesting
+only that VSL, based on WTP, is almost certainly  risk-specific.
+
+3.  Qualifications. Three  qualifications  are  important.  First,
+psychological  studies  showing  heightened  public  concern 3  about
+particular  risks  may  not translate  into  higher  WTP.  Social  scientists
+might  be  able  to  show  that  certain  qualitative  factors  make  people
+especially  concerned  about  certain  risks,  but  it  is  an  independent
+question  whether  and  how  much  their  WTP  increases  as  a  result.
+Fortunately,  a  number  of studies  of WTP  at  least  suggest  answers  to
+that  VSL  should  vary  significantly
+that  question,  demonstrating 
+across  risk types."°4
+
+Second,  there  is  no  simple  or  rigid  distinction  between  the
+involuntary/uncontrollable  and  the  voluntary/controllable. 5  It  is  a
+mistake  to  believe  that  risks  can  be  neatly  separated  into  the  two
+in  Los  Angeles
+categories.  Are  the  risks  from  air  pollution 
+involuntarily  incurred?  The  answer might  seem  to be  affirmative,  but
+people  can  choose  whether  to  live  in  Los  Angeles.  Are  the  risks  of
+travel  uncontrollable?  Many  people  think  so,  but  the
+airplane 
+decision  to  fly  is itself  under  human  control.  Death from  an  asteroid
+seems  to be  a  model case  of involuntariness,  at an  opposite  pole  from
+hang  gliding.  But  why?  In  deciding  whether  a  risk 
+is  faced
+involuntarily  or  whether  it  is  within  personal  control,  the  underlying
+issues  seem  to  be  whether  those  exposed  to  the  risk  are  exposed
+knowingly  and  whether it is  costly or  otherwise  difficult  for people to
+avoid the  risk.'O  When risks  are  approached  in  these  terms,  it is  clear
+that some  risks  are worse  than others,  even  if the probability  of harm
+
+102.  Revesz,  supra note 85, at  982.
+103. 
+
+See  SLOVIC,  supra  note  89,  at  232-35  (discussing  public  concern  about  extremely
+
+minimal  but highly publicized  risks such  as  nuclear mishaps  or genetic engineering).
+
+104.  For  VSL  calculations  based  on  types  of  diseases  and  disease  latency  periods,  see
+Hammitt  &  Liu,  supra note  11,  at  88.  For a  metanalysis,  see  generally  Viscusi  &  Aldy,  supra
+note  10.
+
+105.  Sunstein,  supra note  54,  at  2285;  see  Sunstein,  supra note  93,  at  272  ("[T]he  question
+whether  a  risk  is  run  voluntarily  or not  is  often  not a  categorical  one  but instead  a  matter  of
+degree,  associated  with  information  cost,  risk-reduction  cost,  and  the  existence  or  not  of
+accompanying  benefits.").
+
+106.  Sunstein,  supra note 93, at  272.
+
+HeinOnline  -- 54 Duke L.J. 410 2004-2005
+
+20041
+
+VALUING  LIFE
+
+is  identical.  This  point  is  enough  to  suggest  that  VSL  cannot  be
+uniform  across risks.
+
+Third, it is  possible  that extreme  aversion  to certain  risks  reflects
+a  form  of  bounded  rationality 1 -and 
+it  is  doubtful  whether  that
+extreme  aversion  should  be  allowed  to  play  a  role  in  regulatory
+policy.  Suppose,  for  example,  that  people  really  are  willing  to  pay
+to  avoid  a  cancer  risk  as  to  avoid  a  sudden,
+twice  as  much 
+unanticipated  death.  Must  these  numbers  be decisive  for purposes  of
+policy, assuming  that  the  contingent  valuation  study  is  reliable?  They
+might not be  if there is  reason to believe that  the WTP figures  are not
+accurately  measuring  welfare.  And  is  it  even  plausible  to  think  that
+the  "cancer  premium"  is  so  high  that  it  actually  doubles  the  cost  of
+death?  Is  it  reasonable  to  think  that  a  death  from  cancer  is  actually
+twice as bad  as  a  death  that is  sudden  and  unanticipated?  To be sure,
+a  degree  of pain and  suffering  typically  accompanies  cancer,  and that
+fact  illustrates  the  obtuseness  of  using  the  same  number  for  cancer
+risks  as for  risks of sudden, unanticipated  deaths.  But it  is not  easy to
+defend  the  set  of  (exotic)  values  that  would  lead  to  the  conclusion
+that  the  relevant  pain  and suffering  is  as  bad  as  death  itself. If  WTP
+does  not  accurately  measure  welfare  in  the  case  of  cancer,  and  if the
+inflated  numbers  for cancer deaths  are  a product of an intuitive recoil
+or  terror  at  the  idea  of  cancer,  then  regulators  should  not  use  the
+unrealistically  high monetary values.
+
+For those  who emphasize  autonomy  rather  than welfare, perhaps
+this  point does  not amount  to an  objection  to  the  use  of WTP.  If the
+goal  is to  respect people's  autonomy,  regulators  should  defer  to their
+judgments  even if  those  judgments  are mistaken.  But  if  people  show
+an  especially  high  WTP  because  of a  visceral  reaction  to  cancer,  or
+because  of insufficiently  thoughtful  assessments  of  the  stakes,  then  it
+is not clear  that autonomy  calls  for following WTP. Government  does
+not  respect  people's autonomy  if  it follows  their uninformed  choices;
+this  proposition  raises  doubts  about government's  use  of uninformed
+WTP.  To  be  least  controversial,  WTP  numbers  would  reflect
+informed  rather  than  reflexive  judgments  about  the  nature  of  the
+harms  involved.
+
+107.  See  Sunstein,  supra  note  8,  at  248  ("WTP  will  be  a  poor  proxy for  welfare  in cases  in
+which  we  have  good  reason  to  suppose  that  underestimation  or  overestimation  is  likely.  Of
+course  government officials  should  be  reluctant  to  second-guess  citizens,  but  in some  cases,  the
+second-guessing  is well justified.").
+
+HeinOnline  -- 54 Duke L.J. 411 2004-2005
+
+DUKE LAW JOURNAL
+
+[Vol.  54:385
+
+B.  Persons
+
+Even  when  risks  are  identical,  people  are  heterogeneous  in  their
+values  and  their  preferences.  The  $6.1  million  itself  is  the  median
+figure-it  is the  median  of a  set of means.  But  everyone  agrees that in
+workplaces  and  elsewhere,  individual  WTP  is  highly  variable.  Some
+of  the variability  stems from  different  degrees of  aversion to different
+risks.  Some  people  are  especially  concerned  to  avoid  the  dangers
+associated  with  pesticides,  whereas  others  focus  on  the  risks  of  air
+travel.  Some  of  these  differences  are  a  product  of  beliefs  about
+existing risk  levels  and others  of tastes  and values.  So too, people  with
+high levels of background  risk  should be expected to be willing  to pay
+less to  avoid an  additional  risk of  1/100,000  than those with  low levels
+of background  risk.  If, for example,  a relevant  population faces  thirty
+annual  mortality  risks  of 1/10,000  or  higher, it  should  be  expected  to
+show  a  lower  VSL  with  respect  to  a  new  risk  of  1/100,000  than  a
+population  whose  background  risks  are  less  serious."°  The  difference
+between  the  VSL of  people  in  wealthy  nations  and  that  of people  in
+poor  nations, taken  up  in Part IV, is  partly  a  product  of  the  fact that
+the latter group generally  faces far higher background  risks.
+
+It  is  likely  that  WTP  varies  with  respect  to  age  as  well.  It  is
+reasonable  to  predict  that  other  things being  equal,  older  people will
+show  a  lower WTP and hence  a  lower VSL,  simply because  they have
+fewer  years  left.  One  study,  for  example,  finds  that  the  VSL  of  a
+forty-eight-year-old  is  10 percent  lower  than  that of  a  thirty-six-year-
+old;  another  finds  that  people  under  forty-five  have  a  VSL  twenty
+times  higher  than  people  over  sixty-five.' 9 The  most  careful  analysis
+suggests  that VSL  peaks  around  age  thirty,  stays constant  for  about  a
+decade,  but  declines  from  that  point,  so  much  so  that  the  VSL  for  a
+sixty-year-old  is  approximately  half of that of  a person  between  thirty
+and  forty."1  These  findings raise  particular  conundrums  in the  case  of
+people  under  eighteen;  how  should  government  proceed  if  the  VSL
+
+108.  See  Louis R.  Eeckhoudt  & James  K.  Hammitt,  Background  Risks  and  the  Value of a
+Statistical Life,  23  J.  RISK  & UNCERTAINTY  261,  264-65  (2001)  (illustrating  that VSL  decreases
+as  the aggregate  risk  of a population increases).
+
+109.  See  Viscusi  &  Aldy, supra  note  10,  at  50-51.  But see  Sunstein,  supra note  8,  at  227
+(hypothesizing  that older  people  may  be  willing  to pay  more  than younger  people  to  eliminate
+risk,  giving  older people  a higher  VSL).
+
+110.  See  ALDY  &  VISCUSI,  supra  note  15,  at  42  (calculating  a  VSL  of  $5.76  million  for
+people  between  twenty-eight  and  thirty-two  years  of  age,  $4.83  million  for  people  between
+thirty-eight  and  forty-two  years  of  age,  and  $2.51  million  for  people  between  fifty-eight  and
+sixty-two  years  of age).
+
+HeinOnline  -- 54 Duke L.J. 412 2004-2005
+
+20041
+
+VALUING  LIFE
+
+for  those  between  infancy  and  fifteen  years  of  age  is  low,  simply
+because  they  have  little  or  no  money?  It  is  implausible  to  use  a  tiny
+VSL  for  them,  but  what  number  should  be  used,  and  why?  Little
+progress  has been made  on this  question,'11  with the government  using
+its  ordinary, uniform  number  for  children  as for  everyone  else."2  But
+if  the  vexing  case  of  valuing  children  is  put  to  one  side,  then  the
+prevailing  theory  suggests  a  lower VSL  for  those  in  the  last  stages  of
+this
+life  than  for  those  who  have  many  decades 
+difference  ought to be  reflected  in regulatory  policy."'
+
+to  live-and 
+
+Along  the  same  lines,  many  analysts  suggest  that  regulatory
+policy  should  focus  not  on  the  value  of  statistical  lives  but  on  the
+value  of statistical  life-years  (VSLY)."4  Suppose  that they are  right. If
+so,  then  the  statistical  lives  of  young  people  are  likely  to  be  worth
+more  than  the  statistical  lives  of  older  people.  The  government's
+interest  in  focusing  on  VSLY  led  to  widespread  public  objections  to
+what,  under  one  proposal,  would  seem  to  be  a  "senior  death
+discount."  That discount  would have  valued  someone  over  seventy  as
+"worth"  $.62  on  the  dollar."'  But  assuming  that people  over  seventy
+are  willing  to  pay  about  62  percent,  on  average,  of  what  younger
+people  are  willing  to  pay,  the  theory  that  underlies  current  practice
+justifies  exactly  this  disparity.  If  the  theory  is  right  (a  question  to
+which  I  will  turn"'),  then  a  disparity  between  older  people  and
+younger  people  makes  perfect  sense  to  the  extent  that  the  WTP
+figures  justify  it.  Note  in  particular  that  if  each  person  has  a
+presumptive  right  to a  life  of  decent  length,  then  the  use  of  the  life-
+
+111.  For  an  overview  that  turns  out to  be highly  tentative  and  indeterminate,  see  generally
+ENVTL.  PROT. AGENCY,  CHILDREN'S HEALTH  VALUATION HANDBOOK  (2003).  For discussion,
+see  Eric A. Posner & Cass  R.  Sunstein, Dollars and Death, 72  U. CHI. L.  REv. 537  (2005).
+
+112.  See  ENvTL. PROT.  AGENCY,  supra note  111,  at  3-12  ("[Tjhere  is  not sufficient  support
+in  the  economics  literature  for  making  adjustments  to  the  existing  estimates  to  account  for  the
+"  (citing  ENVTL.  PROT.  AGENCY,  GUIDELINES  FOR
+impact  of  age  (including  children) .. 
+PREPARING  ECONOMIC  ANALYSES  (2000))).
+
+113.  See  Sunstein,  supra note  8,  at 206-08  (arguing  that  agencies  should  use  VSLY  when
+analyzing  the costs  and benefits of a proposed  regulation,  to take  into account that older people
+have fewer  life-years remaining).
+
+114. 
+
+Id.  at  206;  see,  e.g.,  Richard  Zeckhauser  & Donald  Shepard,  Where  Now  for  Saving
+Lives?,  40  LAW  &  CONTEMP.  PROBS.  5,  11-15  (Autumn  1976)  (measuring  utility  in  terms  of
+"quality-adjusted  life years").
+
+115.  See Sunstein, supra note  8,  at 206-08  (discussing the EPA's proposal  to vary VSL  based
+on age  by setting  the VSL for  those under seventy  at $3.7 million  and the  VSL  for  those  seventy
+and older at  $2.3 million).
+116.  See infra Part  III.
+
+HeinOnline  -- 54 Duke L.J. 413 2004-2005
+
+DUKE LA W JOURNAL
+
+[Vol. 54:385
+
+years approach  has  a  great  deal  of appeal,  because  it  is  likely  to lead
+to special efforts to ensure  that everyone  enjoys that right.
+
+Even  more  fundamentally,  those  with  little  to  spare  will  show  a
+far lower  VSL than  those  who  have  plenty.  WTP  depends  on  ability
+to  pay,  and  when  ability  to  pay  is  low,  WTP  will  be  low  as  well,
+holding preferences  constant. For this  reason the  VSL of people  with
+an annual income  of $50,000  will  be lower  than that  of people with  an
+annual  income  of  $150,000.  People  in  the  former  category  might  be
+willing  to pay  no more  than  $25  to reduce  a risk of 1/100,000,  whereas
+people in the  latter  group  might  be  willing  to pay  as much  as $100.  If
+so,  government  should  not require  everyone  to pay  $100;  its  decision
+to do so would harm those  unwilling  to pay that  amount.' 7  A uniform
+VSL,  of 
+to
+"overprotect"  the poor, in  a way  that  might well  be  harmful  to them.
+At  the  same  time,  the  uniform  VSL  threatens  to  underprotect  the
+wealthy, in a way that is highly likely  to be harmful to them."'
+
+that  government  now  uses, 
+
+the  sort 
+
+threatens 
+
+As  a  simple  matter  of  fact,  it  would  be  expected  that  unionized
+workers  would  receive  more  compensation  for  incurring  risks-and
+studies almost always  show  a higher  VSL for unionized  workers,  with
+amounts  as  high  as  $12.3  million,  $18.1  million,  and  even  $44.2
+million."'  Large  differences  across  nations  would  also  be  expected,
+with  VSL  being  higher  in  rich  countries  than  in  poor  ones.  And  in
+fact,  studies  find  a  VSL  as  low  as  $200,000  for  Taiwan,  $500,000  for
+South  Korea,  and  $1.2  million  for  India-but  $21.7  million  for
+Canada  and  $19  million  for  Australia. °  Consider,  for  purposes  of
+illustration, the  following  table: 2'
+
+117. 
+
+I  am  assuming  adequate 
+
+information  and  unbounded  rationality.  See  infra  text
+
+accompanying  note  158.
+
+118.  Compare  this  with  the  EPA's  explicit  and  unexplained  refusal  to  consider  differences
+"in  age,  health  status,  socioeconomic  status,  gender  or  other  characteristic  of  the  adult
+population."  National  Emission 
+for
+Industrial/Commercial/Institutional  Boilers  and  Process  Heaters,  68  Fed.  Reg.  1660,  1695
+(proposed Jan.  13,  2003)  (to be  codified  at 40  C.F.R. pt. 63).
+
+for  Hazardous  Air  Pollutants 
+
+Standards 
+
+119.  Viscusi  & Aldy, supra note 10,  at 45.
+120. 
+121. 
+
+Id. at 27-28.
+See id.
+
+HeinOnline  -- 54 Duke L.J. 414 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+TABLE 3:  VSL ACROSS NATIONS
+
+Nation and Year of Study 
+
+VSL  (in 2000  US$)
+
+Taiwan  (1997) 
+
+South  Korea (1993) 
+India (1996/97) 
+
+Hong  Kong (1998) 
+Canada  (1989) 
+Switzerland  (2001) 
+
+Japan  (1991) 
+
+Australia  (1997) 
+United  Kingdom  (2000) 
+
+.2-.9 million
+
+.8  million
+1.2-1.5  million
+
+1.7 million
+3.9-4.7  million
+6.3-8.6 million
+9.7 million
+
+11.3-19.1  million
+19.9 million
+
+that  within 
+
+It  would  follow 
+
+the  United  States,  wealthy
+populations  would  show a  higher  VSL  than  poorer  populations.  If a
+program  is  designed  to  combat  health  risks  in  wealthy  suburbs,  the
+VSL  should  be  above  the  population-wide  median;  if  the  protected
+population  is  mostly  in  poor  areas,  the  VSL  should  be  below  this
+median.  Currently  agencies  pay  no  attention  to  this  possibility  in
+undertaking  cost-benefit  analysis."
+
+What  about  the  more  controversial  categories  of  race  and
+gender?  Recent  studies  show  significant differences.  Using  workplace
+data  from  1996  to  1998,  Professors  Leeth  and  Ruser  find  that
+women's  VSL  ranges  from  $8.1  million  to  $10.2  million,  whereas
+men's VSL  is  less than  half that amount,  ranging from  $2.6  million to
+$4.7  million.123  Leeth  and  Ruser  find  that  Hispanic  males  show  a
+slightly  higher  VSL  than  white  males  ($5  million  compared  to  $3.4
+million) .12
+no
+compensation  for  workplace  risks,  producing  a  VSL  of  zero. 25  Using
+workplace  data from  1992  through 1997,  Professor Viscusi also  finds a
+significant  disparity  across  racial  lines,  though  his  numbers  are  quite
+
+strikingly,  African  Americans 
+
+1  Most 
+
+receive 
+
+122.  See  Adler  &  Posner,  supra note  5,  at  1136-39  (arguing  that  the  failure  to  take  into
+account  the  differences  in  marginal  utility  between  wealthy  and  poor  people  distorts  cost-
+benefit analysis).
+
+123.  Leeth  & Ruser, supra note  19,  at 266.
+124. 
+125.  See id. at 275 (concluding  that fatal  injury risk compensation  for black  males is  negative
+
+Id. at 270.
+
+but insignificant).
+
+HeinOnline  -- 54 Duke L.J. 415 2004-2005
+
+DUKE LAW  JOURNAL
+
+[Vol. 54:385
+
+different  from  those  found  by  Leeth  and  Ruser" 6  In  Viscusi's  study,
+the  VSL  is  highest  for  white  males  and  lowest  for  African-American
+males,  with  white  and  African-American  females  falling  between  the
+poles.  More  particularly,  Viscusi  finds  that  the  overall  white  VSL  is
+$15  million,  whereas  the  overall  African-American  VSL  is  $7.2
+million.1
+is  $9.4  million,
+compared  to  $18.8  million  for  white  males;  for  African-American
+females,  the  overall  VSL  is  $6.9  million,  compared  to  $5.9  million for
+African-American  males.128  Another  study  by  Viscusi  finds  a  VSL  of
+$7  million  for  blue-collar  males  and  $8.5  million  for  blue-collar
+females. 9
+
+7  For  white  females, 
+
+the  overall  VSL 
+
+1
+
+What  accounts  for  these  differences?  It  should  be  expected  that
+whites as  a  class  will show a  higher WTP  and hence  VSL  than  African
+Americans  as a  class.  Simply  because whites  are wealthier,  their  WTP
+will be  higher  too. Might the same  be  expected  within job categories?
+Perhaps  the  answer  is  yes,  if  past  or  present  discrimination,  or
+different  starting  points,  produce  racial  disparities  in  compensation
+for  risk  within  similar  jobs.  The  precise  causes  and  levels  of  the
+disparities  are unclear,  and  the  differences  between  Professors  Leeth
+and  Ruser on  the one  hand  and Professor Viscusi  on the  other remain
+a  puzzle.  There  is  no  a priori reason  to  think  that  men  or  women
+would  show  a  higher  VSL.  If  the  relevant  group  of  women  is
+wealthier,  then  its WTP should be  higher too. And  if women  are more
+averse  to  mortality  risks than  men,  they  will show a  higher  WTP, just
+because  they  will  demand  a  higher  premium.  For  my  purposes,  the
+central  point  is  that  demographic  differences  in  VSL  are  entirely  to
+be  expected,  and  they  are found  in both studies.
+
+C.  Theory and Practice
+
+If the  foregoing  points  are  put together,  it is  apparent  that there
+is  not  one  VSL,  but  an  exceptionally  large  number  of  VSLs.  In  fact
+each  of  us  has  not one  VSL  but  a  number  of  them,  targeted  to each
+risk that  each of  us faces.  A policy  that  truly  tracked  WTP,  and based
+VSL  on  WTP,  would  seek  to  provide  all  people  with  the  level  of
+protection  for  which  they  are  willing  to  pay  to  reduce  each  risk.
+
+126.  See  Viscusi, supra note  16,  at 252 (calculating  fatality  risk estimates  and implicit VSL by
+
+race,  sex, and income  category).
+
+Id.
+Id.
+
+127. 
+128. 
+129.  Viscusi,  supra note  55, at 39.
+
+HeinOnline  -- 54 Duke L.J. 416 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+Tracking  WTP  is  the  goal  that  underlies  current  practice;  and  apart
+from  questions  of  administrability,  it  calls  for  a  maximum  level  of
+individuation.
+
+1.  A  Thought Experiment.  As  a  thought  experiment,  suppose
+that  an  all-knowing  regulator  could  costlessly  determine  each
+person's  WTP  for  each  statistical  risk  that  he  faces-and  perfectly
+match  the  level  of  regulatory  protection  to  that  WTP.  In  these
+circumstances,  the  regulator  should  give  all  people  no  more  and  no
+less  than  their  WTP  for  each  risk  that  they  face.  (In  cases  in  which
+people's  WTP  was  low because  of poverty,  they  might  be  subsidized;
+but  they  would  not  be  forced  to  purchase  goods  for  an  amount  in
+excess  of their  WTP.  I will  return to  this  point,13°  but subsidies  are  not
+my  topic  here.)  Under  this  approach,  regulatory  benefits  would  be
+treated  the  same  as  every other  commodity  that is  traded  on  markets,
+including  safety  itself.  Of  course  most  people  face  extremely  serious
+problems  in  dealing  with  risk,  stemming  both  from  an  absence  of
+rationality.13  The  all-knowing
+information  and 
+regulator  would  overcome  these  problems  and  provide  people  with
+what they would want  if they did not suffer from them.
+
+from  bounded 
+
+If  agencies  could  do  this,  then  the  current  theory  would  be
+perfectly  implemented.  It  would  follow  that  with  full  individuation,
+overall  WTP would be  lower for poor  people than  for wealthy  people,
+for  African  Americans  than  for  whites,  and  (possibly)  for  men  than
+for  women.  But,  under  this  thought  experiment,  government  would
+not  discriminate  against  groups;  for example,  it  would  neither  decide
+on  high  VSLs  for  programs  predominantly  benefiting  whites  nor
+decide  on  low  VSLs  for  programs  predominantly  benefiting  African
+Americans.  The  difference  would  be a  product of aggregation  of fully
+individual  VSLs-aggregation  of  the  kind  that  most  conventional
+markets,  including  those  for  automobiles  and  consumer  goods,  now
+provide.  Recall  that  the  use  of  WTP  is  justified  because  of  its
+connection  with  welfare  and  individual  autonomy.  If  so,  then  fully
+individual  VSLs are justified on  those same grounds.
+
+130.  See infra text accompanying  notes 148-49.
+131. 
+
+See David  A. Strauss,  Why  Was Lochner  Wrong?, 70  U. CHI.  L. REV.  373,  384  (2003).
+See generally Christine  Jolls et  al.,  A  Behavioral Approach to  Law and Economics, 50  STAN  L
+REv.  1471,  1518-20  (1998)  (arguing  that despite  adequate  information  consumers  sometimes  do
+not make  well-informed  choices because  of their  inability to process  the information).
+
+HeinOnline  -- 54 Duke L.J. 417 2004-2005
+
+DUKE LA WJOURNAL
+
+[Vol.  54:385
+
+Of  course  there  are 
+
+two  practical  problems  with  taking  the
+thought  experiment  seriously.  The  first is  that  agencies  do  not  know
+the  WTP  of  every  individual,  and  as  a  practical  matter,  it  is  not
+possible  to  find  out.  The  second  problem  is  that  regulatory  benefits
+are  often  collective  goods-goods  that  cannot feasibly  be provided  to
+one  without  also  being  provided  to  many.  In  the  context  of  air
+pollution,  for  example,  it  is  not  possible  to  provide  cleaner  air  for
+some  without  providing  cleaner  air  for  many  or  all.  In  regulating  air
+pollution  and water pollution,  individuation is simply not  an option.
+
+These  problems  are  fatal  objections  to  full  individuation.  But
+they  are  not  fatal  objections  to  more individuation.  At  a  minimum,
+agencies  should be  encouraged  to  take  account  of existing  research  in
+in
+their  sensitivity  analyses,  which  would  result  (for  example) 
+increased  "upper  bound"  estimates  for  cancer  risks.'32  In  addition,
+disparities  in  VSL  findings  might  be  mapped  onto  different  agency
+estimates,  producing  reasonable  rather  than  arbitrary  differences  in
+VSL  across  agencies.  If,  for  example,  the  risks  of  death  from
+workplace  accidents  produce  a  lower  number  than  the  risks  of  death
+from  consumer  products,  then  the  Occupational  Safety  and  Health
+Administration  should  use a  lower  VSL  than the  Consumer Products
+Safety  Commission.  It is  easy to imagine  a research  program  in which
+the  Office  of  Information  and  Regulatory  Affairs  would  attempt  to
+information  on  VSL  across  different  risks.  A
+elicit  far  more 
+movement  in this direction  need not raise  troubling  ethical  questions.
+It  would  be  far  more  controversial  to  suggest  that  agencies
+should  adopt  different  VSLs  depending  on  whether  the  affected
+population  is  especially  wealthy  or  especially  poor.  But  at  the  very
+least,  agencies  should  adjust VSL  to  changes  in  national  wealth  over
+time,  producing  a  higher  amount  than  would  result  from  inflation
+adjustments  alone.133  Or  suppose,  for  example,  that  a  regulation  is
+designed  to  protect  migrant  farmworkers,  expected  to  show  a  low
+VSL.  Current  studies  in  fact  estimate  the  relationship  between
+income  and  WTP,' 3'  allowing  agencies  to  make  suitable  adjustments
+to  their  VSLs.  And  when  the  population  is  relatively  wealthy,  the
+agency  might  adopt  a  higher  VSL.  For  present  purposes,  I  am
+
+132.  See supra note 74  (discussing the  sensitivity analysis  for cancer  risks from arsenic).
+133.  Cf  Sunstein, supra note  54,  at 2284-85  (discussing  the  rationale  behind  adjusting  VSL
+
+for increases  in national wealth).
+
+134.  See  Viscusi  &  Aldy,  supra  note  10,  at  36-43  (using  a  metanalysis  of  U.S.  and
+
+international  VSLs  to determine  the relationship between  income  and WTP).
+
+HeinOnline  -- 54 Duke L.J. 418 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+suggesting  only  that  an  approach  of  this  kind  is  indicated  by  the
+theory  that  government  now  uses.  I  turn  in  Part  III  to  the  larger
+questions that such  an approach  would  make  it necessary  to answer.
+
+to  law  reviews-a
+
+2.  Optimal  Individuation:  An  Intermediate  Approach.  The
+larger  question  is  simple:  What  is  the  optimal  level  of  individuation
+with respect to  the value  of life?  The  answer  depends  in part  on how
+much  is  known.  Even in markets, individuals  are  not usually asked,  or
+charged,  their  particular  WTP.  In  real  estate  markets,  negotiation
+between  individuals  is  the  usual  practice.  But for  ordinary  consumer
+goods--cereal,  soap,  casebooks,  subscriptions 
+standard  price  emerges  from  the  forces  of  supply  and  demand.  It
+seems  clear  that  a  uniform  VSL,  cutting  across  domains  in  which
+those  forces  almost  certainly  establish  disparate  amounts,  fits  poorly
+with  the theory  that currently underlies  government  practice.  It is  also
+clear  that full  individuation  is  not feasible.  The appropriate  approach
+depends  on two  familiar  variables: the  costs  of decisions  and  the  costs
+of errors. In the  early years of cost-benefit  analysis, a  uniform number
+was  probably  the  best  that  agencies  could  do.  As  better  information
+emerges  about  different  VSLs  across  risks  and  persons,  the  use  of a
+uniform  number  will  be  increasingly  difficult  to  support.  If  those
+differences  are  substantial,  the  argument  for  further  differentiation
+will  be  strengthened.  A uniform  number  might  be  seen  as  a  plausible
+"first-generation"  response  to  the  problems  posed  by  cost-benefit
+analysis.  The  second  generation  is  now  well  underway,  and  hence
+finer distinctions  will be increasingly  hard to resist.
+
+3.  Administrative  Law.  How  would 
+
+the  use  of  more
+individuated  VSLs bear  on  the legality  of agency  action?  Courts have
+started  to  develop  principles  by  which  to  review  agency  decisions
+about  how  to  assess  the  costs  and  benefits  of  regulation."'  Some
+statutes  explicitly  require  agencies  to  balance  costs  against  benefits,
+and  under  such  statutes  an  agency's  choices  about valuation might  be
+
+135.  The  leading  case  is  Corrosion Proof Fittings v.  EPA,  947  F.2d  1201  (5th  Cir.  1991).
+is  to  consider  each  regulatory
+There,  the  Fifth  Circuit  explained:  "[T]he  proper  course  ... 
+option,  beginning  with  the  least  burdensome,  and  the  costs  and  benefits  of  regulation  under
+each  option ....  Without  doing  this  it  is impossible  . . . to know  that none  of these  alternatives
+was less  burdensome  than  the ban  ...  chosen by  the  agency."  Id. at 1217  (citation  omitted);  see
+also Am. Dental  Ass'n  v. Martin,  984 F.2d  823,  831  (7th  Cir. 1993)  (holding  that the court's  role
+is  not to  evaluate  the  quality,  necessity,  or cost-benefit  rationale  of  an  agency  regulation,  but
+"merely  to patrol the boundary  of reasonableness").
+
+HeinOnline  -- 54 Duke L.J. 419 2004-2005
+
+420
+
+DUKE LAW  JOURNAL
+
+[Vol.  54:385
+
+challenged  as  unreasonable  or  arbitrary. 13 6 If an agency  used  a VSL of
+$200,000,  it  would  almost  certainly  be  assigning  an  arbitrarily  and
+hence  unlawfully  low  monetary  value;  if it  used a  VSL of  $40 million,
+its  selection  would  be  arbitrarily  high.137  In  all  cases  agencies  are
+required  to  produce  a  reasonable  explanation  for  why  they  have
+proceeded one  way rather  than another.
+
+In view of the arguments  made thus far, it is easy  to imagine  legal
+challenges  to  agency  decisions.  Suppose  that  the  EPA  continues  to
+use  the  $6.1  million  VSL  based  on  workplace  studies.  The  agency's
+decision  would  be  vulnerable  on  several  grounds.  First,  it  might  be
+too low in light  of the  growth  in national  income. Second, it would fail
+to  account  for  evidence  that  pollution  risks,  especially  if  cancer  is
+involved,  produce  a  higher VSL than workplace  risks. Third, it would
+not,  on  the  facts  stated,  come  to  terms  with  the  possibility  that  the
+protected group might be wealthier  or poorer than the group involved
+in  the  workplace  studies.  All  of  these  challenges  are  plausible  under
+existing  law.  As  new  and  better  data  emerge,  they  become  stronger
+still.  It  is  certainly  possible  that  a  decade  from  now,  the  use  of  a
+uniform figure will  seem obtuse,  even indefensible.
+
+Is  there anything  that agencies  might  say in  defense  of a  uniform
+VSL?  They  might  urge  that  the  existing  evidence  is  too  ambiguous
+and  contestable  to justify  a  change  in  current  practice.  Most  studies
+based  on  more  recent  data  find  a  VSL in  the  range  of  $6.1  million.139
+With  respect  to  cancer,  the  EPA's  Science  Advisory  Board  (SAB)
+rejected  an  upward  revision for especially  dread  illnesses, finding  that
+the  existing  literature  did  not  justify  any  such  revision;1'  and  some
+
+136.  See,  e.g.,  15  U.S.C.  §  2605(c)  (2000)  (requiring  cost-benefit  analysis  of  regulations  of
+
+chemical  substances  or mixtures under the Toxic Substances  Control Act).
+
+137.  This  is  an  implication  of Corrosion Proof Fittings, 947 F.2d  at  1223,  in  which  the  Fifth
+life
+
+Circuit  found  an  EPA  regulation  costing  $23.7  million  and  saving  one-third  of  a 
+unreasonable.
+
+138.  See  id. at  1220-22  (holding  that  the  EPA  must  provide  a  "reasonable  basis"  for  a
+
+proffered  regulation).
+
+139.  See,  e.g.,  Leeth  &  Ruser,  supra note  19, at  265-67  (finding  a  VSL  slightly  lower  than
+
+previous studies'  findings of $4.1  million  to $9.6 million).
+
+140.  See ENVTL. PROT.  AGENCY,  AN  SAB  REPORT  ON  EPA'S  WHITE  PAPER VALUING  THE
+BENEFITS  OF  FATAL  CANCER  RISK  REDUCrION  5-6  (2000)  (finding  that  "existing  studies
+provide  little  reliable  information  as  to  the  magnitude  of [the  dread  premium  associated  with
+cancer]"  and  that,  "until  better  information  becomes  available,  it  is  best  not  to  assign  such  a
+premium"),  available at http://www.epa.gov/sciencel/pdf/eeacfO13.pdf.
+
+HeinOnline  -- 54 Duke L.J. 420 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+evidence  directly  supports  the  view  of  the  SAB.'4 '  To  be  sure,  it  is
+more  than  plausible  to  think  that  VSL  is  wealth-dependent;  but  the
+EPA  might  urge  that  a  uniform  number  is  preferable  on  moral  and
+distributive  grounds  and  is  not  greatly  out  of  line  with  existing
+evidence.  In  any  case,  a  single  number  might  have  the  advantage  of
+easy  administrability-and  produce  results  that  in  general  would  be
+the  same  as  those  produced  by  imaginable  variations.  Most  of  the
+time,  the  agency's  choice will not be  affected  if it selects  a  VSL of $3.5
+million  or  $10  million;  in  such  situations,  a  uniform  number  seems
+acceptable.
+
+In  many  cases,  I believe  that these responses  are  unconvincing  as
+a matter  of policy.  But in  light of the properly  limited  role of courts in
+the  oversight  of  agency  action,  they  are  convincing  as  a  matter  of
+law.142  Courts  should  allow  agencies  considerable  room  to  maneuver
+here,  at  least  until  the  evidence  against  a  uniform  VSL  becomes
+overwhelming.  Permission  to  adopt  such  a  number  has  an  important
+corollary:  an  agency  would  be  on  firm legal  ground  if it  attempted  to
+make  adjustments  of  the  sort  that  I  have  suggested,  even  if  current
+evidence  does not unambiguously  support  those adjustments.
+
+III.  WHY WTP? EASY  CASES, HARD  CASES
+
+Thus  far  I  have  assumed  that  the  theory  behind  current  practice
+is  straightforward-that  it  depends  on  an  empirical  elicitation  of
+people's  WTP as the foundation  for VSL.  If the assumption  is correct,
+then  a  high  degree  of  individuation  is  justified.  But  perhaps  the
+assumption  is  false.  Perhaps  the  prevailing  theory  does  rely  on
+elicited  WTP  but  also  adopts  a  norm  in  favor  of  the  equality  of
+persons  (and  possibly  mortality  risks  as  well).  Might  that  more
+complex  theory  be  correct?  In  any  case,  what  is  the  argument  for
+embodying  people's  actual  WTP  in  regulatory  policy?  Why  should
+anyone  care  about  actual  WTP  at  all?  Why  should  government
+conduct  cost-benefit  analysis with close  reference  to VSL?' 4"
+
+141.  See  Viscusi  & Aldy, supra note  10,  at  57 (noting  that the  SAB's rejection  of the  "dread
+effect"  of  cancer  is  supported  by  the  finding  that  contingent  valuation  estimates  of  cancer
+mortality  risks are similar  to estimates  for accidental  deaths).
+
+142.  See  Sunstein, supra note  54, at 2292-93,  for a more  extended discussion.
+143.  Some  support  for  this  position  can  be  found  in  the  remarks  of  the  EPA.  See  supra
+
+note  7.
+
+144.  These questions are pressed  in ACKERMAN  &  HEINZERLING,  supra note  9.
+
+HeinOnline  -- 54 Duke L.J. 421 2004-2005
+
+DUKE LAW JOURNAL
+
+[Vol.  54:385
+
+in  which 
+
+It is now  time  to attend  to those  issues  in  more detail.  This Part
+begins  by  discussing  what  I  call  "easy  cases," 
+the
+beneficiaries  of regulation must pay for  it. I suggest  that in such cases,
+WTP is  the appropriate  foundation  for VSL,  because beneficiaries  are
+hardly  helped  by  being  forced  to  pay  for  regulatory  programs  that
+they believe  not  to be in  their  interests.  The  major qualification  here
+involves  lack  of  information  and  bounded  rationality.  I then  attempt
+to  defend  the  claim  that  the  analysis  must  be  different  in  "hard
+cases,"  in which  beneficiaries  pay  for little  or none  of the  cost of what
+they receive. But even in such  cases,  an optimal income  tax,  providing
+the right level  of redistribution, would  go  a long way  toward justifying
+a  variable  VSL.  If  a  nation  lacks  an  optimal  income  tax,  and  seeks
+greater  redistribution,  the use  of a  VSL  that exceeds  the  WTP  of the
+beneficiaries  might produce  desirable  redistribution  or be justified  on
+welfare grounds.  I  outline  the circumstances  in which this might be  so.
+
+A.  Easy Cases
+
+For the  sake  of simplicity,  assume  a  society in  which  people  face
+multiple  risks  of  1/100,000,  and  in  which  every  person  is  both
+adequately  informed  and  willing  to  pay no more  and  no  less than  $60
+to  eliminate  each  of  those  risks.  Assume  too  that  the  cost  of
+eliminating  these  1/100,000 risks is widely  variable,  ranging from close
+to  zero  to  many  billions  of  dollars.  Assume  finally  that  the  cost  of
+eliminating  any  risk  is  borne  entirely  by  those  who  benefit  from risk
+elimination.  Under 
+the
+equivalent  of a  user  fee; for  example,  people's  water bills will entirely
+reflect  the  costs  of  a  policy  that eliminates  a  1/100,000  risk  of getting
+cancer  from  arsenic  in drinking  water.  If the per-person  cost is $100,
+each water  bill will be  increased  by exactly that amount.
+
+that  assumption, 
+
+regulation 
+
+imposes 
+
+these  assumptions, 
+
+1.  Welfare  and  Autonomy.  With 
+
+the
+argument  for  using  WTP  to  calculate  VSL  is  straightforward.
+Regulation  amounts  to  a  forced  exchange;  it  tells  people  that  they
+must  purchase  certain  benefits  for  a  certain  amount.  Why  should
+government  force  people  to  pay  for  things  that  they  do  not  want?
+Begin  with  welfare.  By  hypothesis,  a  forced  exchange  on  terms  that
+people  dislike  will  make  them  worse  off.  The  case  for  using  WTP
+depends  on  the  simple  idea  that  government  should  make  Pareto
+superior moves  (those  making  at  least  one  person  better  off  without
+making  anyone  worse  off)  and  that  it  should  avoid  making  Pareto
+inferior  moves  (those  making  at  least  one  person  worse  off  without
+
+HeinOnline  -- 54 Duke L.J. 422 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+making  anyone  better  off).  At  first  glance,  use  of  WTP,  on  the
+assumptions  that I am making, seems hard  to contest.14
+
+1
+
+For  purposes  of  evaluating  regulation,  it  does  not  matter  if  the
+existing  distribution  of  income  is  unjust  or  if  poor  people  are,  in  an
+intelligible  sense,  coerced  to run  certain  risks.  The  remedy  for unjust
+distributions, and for that form  of coercion,  is not to  require people  to
+buy regulatory benefits on terms that they find unacceptable.  Suppose
+that  people  are  willing  to pay  only  $60  to  eliminate  a  1/100,000  risk
+because  they  are  not  rich,  and  that  if  they  had  double  their  current
+wealth,  they  would  be willing  to  pay  $120.  Government  does  people
+no  favors  by forcing  them  to  pay  the  amount  that  they would  pay  if
+they had more money.
+
+I  have  suggested 
+
+that  for  those  who  do  not  believe  that
+regulatory  decisions  should  be  based  on  welfare,  considerations  of
+autonomy  point  in  the  same  direction.' 6 Those  who  refuse  to  pay  a
+certain amount  to eliminate  a risk of  1/100,000 might  want to use their
+resources  for  other  things-medical  care,  children,  food,  recreation,
+entertainment, savings.  If people  are  entitled to  a kind  of sovereignty
+over  the conduct  of their  own  lives,  then they should  be  permitted  to
+make such allocations  as they choose. It is  most standard  to justify use
+of  VTP  on welfare  grounds,  but the same  approach is  at least  equally
+defensible  as a means of respecting the autonomy  of persons.'17
+
+Consider  how  this  argument  works  with  respect  to  risks  and
+persons.  Suppose  that  people  are  willing  to  pay  no  more than  $50  to
+avoid  a 1/100,000  risk of dying in a  car crash,  but that they are  willing
+to  pay  up  to  $100  to  avoid  a  1/100,000  risk  of  dying  of  cancer.  If
+government  uses  a  WTP  for  both  risks  of  $75,  it will  force  people  to
+
+145. 
+
+I am putting  to  one  side  the  possibility  that  WTP  and hence  VSL  reflect  competition
+for  better relative  position;  if so,  the VSL  numbers,  based on market  evidence,  are  too  low.  See
+Frank & Sunstein,  supra note  62, at  363  (finding that the  failure  to take  into account  concerns of
+relative  position  tends  to  underestimate  risk-reduction  benefits).  A brief example:  Suppose  that
+workers  are  willing  to  pay  only  $250  annually  to  eliminate  a  1/10,000  risk;  suppose  too  that
+worker well-being  depends, in  large  part, on relative  income,  not absolute  income;  and suppose
+finally  that  workers  would  be  willing  to pay  more  than  $250  if all  workers were  simultaneously
+making  the same  payment,  because  in  that event,  relative  position would  not be  compromised.
+Under these  assumptions,  the WTP  numbers, based  on market  evidence  or contingent  valuation
+studies,  underestimate  VSL by  a  significant  amount. See  id. (estimating  that  the  failure  to  take
+relative  position  into account  could lead  to undervaluing  VSL by  roughly  75  percent).
+
+146.  See supra text accompanying  note  61.
+147.  See DWORKIN,  supra note 61,  at 449  ("[Olne  person-the  person  whose  life it is-has  a
+special  responsibility  for  each life,  and  [by]  virtue of that  special  responsibility  he  or she  has  a
+right to make  the  fundamental  decisions  that define,  for  him, what a  successful  life would  be.").
+
+HeinOnline  -- 54 Duke L.J. 423 2004-2005
+
+DUKE LAW  JOURNAL
+
+[Vol.  54:385
+
+pay  more  than  they  want  to  avoid  the  risks  associated  with  car
+crashes,  and less  than  they want  to  avoid  risks of  cancer. Why  should
+government  do  that?  And  if  the  argument  is  convincing  in  this
+example,  it should apply  in  numerous  cases  in  which  WTP  and  hence
+VSL vary  across risks.
+
+With  respect  to  persons,  the  argument  is  more  controversial,
+above  all because  it treats  poor people  as  less valuable  (literally)  than
+rich  people.  But  at  least  at  first  glance,  differences  are  appropriate
+here as  well. The reason  is not that poor people  are  less valuable  than
+rich  people.  It  is  that  no  one,  rich  or  poor,  should  be  forced  to  pay
+more  than  he  is  willing  to  pay  for  the  reduction  of  risks.  This  idea
+embodies a  norm of equality. And  if poor people  are unwilling to pay
+much  for  the  reduction  of  serious  risks,  the  appropriate  response  is
+not  a  compelled  purchase,  but  a  subsidy.  Suppose,  for  example,  that
+each  member  of  a  group  of  relatively  poor  people,  earning  less  than
+$30,000  annually,  is  willing  to  pay  only  $25  to  eliminate  a  risk  of
+1/100,000-about  one-half,  suppose,  of  the  nation's  population-wide
+median  of  $50.  Should  regulators  require  every  citizen,  including
+those  in  the  relatively  poor  group,  to  pay  $50?  Government  should
+not  force  poor  people  to  pay  more  than  their  WTP  to  eliminate
+statistical risks;  forced  exchanges  of this kind  do  poor  people  no good
+and some  harm.
+
+It  is  tempting  to  justify  a  uniform  VSL,  one  that  does  not
+distinguish  between  rich  and  poor,  on  the ground  that  it  embodies  a
+form  of  risk  equity,  treating  every  person  as  equal  to  every  other
+person 1"  and redistributing  resources  in  the  direction  of poor  people.
+But  this  is  an  error. A  uniform  VSL,  taken  from  a  population-wide
+median,  does  not  produce  redistribution  toward  the  poor,  any  more
+than  any  other  kind  of  forced  exchange.  Government  does  not
+require  people  to  buy  Volvos,  even  though  Volvos  would  reduce
+statistical  risks.  If  government  required  everyone  to  buy  Volvos,  it
+would  not  be  producing  desirable  redistribution. 9  A  uniform  VSL
+
+148.  See ACKERMAN  & HEINZERLING, supra note  9,  at 72  (arguing  that varying  VSL  based
+on  potential  earnings  is  "difficult  to  reconcile  with  ideals  of democracy  and  equal  treatment
+under the  law, let alone the  sacredness  of every human  being").
+
+149.  Of  course  it  is  sometimes  desirable  for  government  to  create  "safety  floors,"  for
+automobiles  and  other  consumer  goods,  in  part  as  a  response  to  an  absence  of  adequate
+information  in  the  market.  But  such  floors  should not  be  seen  as  a  redistributive  tool, because
+they  are  not  likely  to  produce  good  redistribution.  Cf  Susan  Rose-Ackerman,  Comment,
+Progressive Law  and Economics-And the  New  Administrative Law,  98  YALE  L.J.  341,  354
+
+HeinOnline  -- 54 Duke L.J. 424 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+has  some  of the  same  characteristics  as  a  policy  that  requires  people
+to  buy  Volvos.  In  principle,  the  government  should  force  exchanges
+only  on  terms  that  people  find  acceptable,  at  least  if  it  is  genuinely
+concerned with their  welfare.
+
+Note,  once  again,  that  the  argument  for  using  WTP  does  not
+imply  satisfaction  with  the  existing  distribution  of  wealth.  The
+is  that  they  do  nothing  to  alter
+problem  with  forced  exchanges 
+existing  distributions.  In  fact  they  make  poor  people  worse  off,
+requiring  them  to use  their  limited  resources  for  something  that  they
+do not want to buy.
+
+the 
+
+enactment 
+
+Does  the  easy  case  seem  implausibly  unrealistic?  In  many
+contexts,  it  certainly  is.  The  costs  of  air  pollution  regulation,  for
+example,  are  not  fully  borne  by  its  beneficiaries."'  But  for  workers'
+compensation  regulation,  for  example,  the  situation  is  very  different:
+programs,
+of  workers' 
+with 
+nonunionized  workers  faced  a  dollar-for-dollar  wage  reduction,
+corresponding  almost  perfectly  to  the  expected  value  of  the  benefits
+that they received.'  For drinking  water  regulation,  something  similar
+is  involved.  The  cost  of  regulation  is  passed  onto  consumers  in  the
+form  of  higher  water  bills. "2  Hence  the  easy  case  finds  a  number  of
+real-world  analogues.
+
+compensation 
+
+2.  Objections. There  are  several  possible  objections  to  the  use
+important
+of  WTP 
+qualifications,  but  none  of  them  is  a  convincing  refutation  of  the
+straightforward  argument.
+
+to  calculate  VSL.  They  point 
+
+to  some 
+
+a.  Adaptive  Preferences and  "Miswanting."  The  first  objection
+emphasizes  the  possibility  that  people's  preferences  have  adapted  to
+existing opportunities, including  deprivation.'53  Perhaps people  show a
+
+(1988)  (arguing  that  occupational  health  and  safety  regulations  are  not an  effective  method  of
+redistribution).
+
+150.  Matthew  E. Kahn,  The Beneficiaries of Clean Air Act Regulation, REGULATION,  Spring
+
+2001,  at 34, 35-38.
+
+STATE  69, app. D  at 231-38  (2000).
+
+151.  PRICE  V.  FISHBACK  &  SHAWN  EVERETT  KANTOR,  A  PRELUDE  TO  THE  WELFARE
+
+152.  See  Sunstein,  supra  note  54,  at  2271  (noting  that  a  particular  proposal  to  increase
+drinking  water  quality  would  have  resulted  in  an  annual  increase  of $30  in  the  water  bills  for
+most households).
+
+153.  See  JON  ELSTER,  SOUR  GRAPES  109-10  (1983)  (defining  "adaptive  preferences"  as
+what  happens  when  "people  tend  to  adjust  their  aspirations  to  their  possibilities");  Adler  &
+
+HeinOnline  -- 54 Duke L.J. 425 2004-2005
+
+DUKE  LAW  JOURNAL
+
+[Vol.  54:385
+
+low  WTP  for  environmental  goods,  including  health  improvements,
+simply  because  they  have  adjusted  to  environmental  bads,  including
+health  risks.  Perhaps  people's  WTP  reflects  an  effort  to  reduce
+cognitive  dissonance  through the  conclusion  that  risks  are  lower than
+they  actually  are.5  To  generalize,  perhaps  people  suffer  from  a
+problem  of  "miswanting";...  they want things  that  do  not  promote
+their  welfare,  and  they  do not  want  things  that would  promote  their
+welfare.  If  this  is  so,  then  WTP  loses  much  of  its  underlying
+justification;  people's  decisions  do  not  actually  promote 
+their
+welfare," 6  and  their  autonomy, properly  understood,  may not  require
+for  their  decisions,  which  may  be  nonautonomous.  If
+respect 
+government  can  be  confident  that  people  are  not  willing  to  pay  for
+goods  from  which  they  would  greatly  benefit,  perhaps  government
+should abandon  WIP.
+
+In  some  contexts,  this  objection  raises  serious  problems  for
+neoclassical  economics  and  for  unambivalent  enthusiasm for freedom
+of  choice.'57  Autonomy  is  implicated  in  addition  to  welfare.  Suppose
+that people do  not want risk  reduction  because they believe  risk  to be
+inevitable,  or  because  their  preferences  have  adapted  to  dangerous
+and  unfair  conditions.  If so,  people's  preferences  do  not  reflect  their
+autonomy.  In  other words,  the  idea of autonomy  requires  not merely
+
+Posner, supra note 5,  at 1128-30  (hypothesizing,  for example,  that "people  are not willing  to pay
+for parks because they  have adapted  to a world  without  parks").
+
+154.  See  generally  GEORGE  A.  AKERLOF  &  WILLIAM  T.  DICKENS,  The  Economic
+Consequences of Cognitive Dissonance, in  AN  ECONOMIC  THEORIST'S  BOOK  OF  TALES  123
+(1984)  (analyzing  the  incorporation  of the  psychological  theory  of  cognitive  dissonance  into
+economic  models).
+
+155.  For  an analysis  and  explanation  of the  idea  of "miswanting,"  see  Daniel  T.  Gilbert  &
+Timothy D.  Wilson, Miswanting, in FEELING  AND THINKING:  THE  ROLE  OF AFFECr IN  SOCIAL
+COGNITION  178,  179 (Joseph  P. Forgas ed.,  2000), who  explain  that:
+
+Although  we  tend  to  think  of unhappiness  as  something  that happens  to  us  when  we
+do  not get  what  we  want,  much  unhappiness...  has  less  to  do  with  not getting  what
+we want,  and more  to  do with not wanting  what  we  like. When  wanting  and liking are
+uncoordinated  in  this way we may say  that person has miswanted.
+
+Id.  See  generally  Timothy  D.  Wilson  &  Daniel  T.  Gilbert,  Affective  Forecasting, in  35
+ADVANCES  IN EXPERIMENTAL  SOCIAL  PSYCHOLOGY  345 (Mark  P. Zanna  ed., 2003)  (analyzing
+people's ability  to accurately  predict their  own  feelings).
+
+156.  For a  discussion  on  how preferences  influence  judgments,  see Daniel  Kahneman  et  al.,
+Back  to  Bentham?  Explorations of  Experienced  Utility,  112  Q.J.  ECON.  375,  379-88  (1997)
+(arguing  that utility's impact on human  behavior can be understood  better and  researched more
+effectively  by  analyzing  the  normative  idea  of  "total  utility"  as  the  discrete  concepts  of
+"experienced  utility"  and "decisional  utility").
+
+157.  See  supra note  156;  George  Lowenstein  &  David  Schkade,  Wouldn't  It  Be  Nice?:
+Predicting Future Feelings, in  WELL-BEING:  THE  FOUNDATIONS  OF HEDONIC  PSYCHOLOGY  85
+(Daniel Kahneman  et al. eds.,  1999).
+
+HeinOnline  -- 54 Duke L.J. 426 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+respect  for  whatever  preferences  people  happen  to  have,  but  also
+social  conditions  that  allow  preferences  to be  developed  in  a way  that
+does  not  reflect  coercion  or  injustice.  With  respect  to  some  risks, the
+relevant  preferences  are nonautonomous;  consider  the  fact  that many
+women face  a  risk of male  violence under circumstances  in which they
+believe  that little can  be done  and hence adapt.
+
+In  the  context  of  ordinary  regulatory  policy,  however,  this
+objection  has  more 
+theoretical  than  practical  interest.  Typically
+regulation  involves  the  reduction  of  low-level  mortality  risks  (say,
+1/50,000).  Much  of the  time, there  is no  reason  to  believe  that  the use
+of  informed  WTP  (say,  $100)  is  a  product  of  adaptive  preferences.
+When people's  WTP does  appear  to result from adaptive  preferences,
+however,  the judgment  about the easy cases must be  revised.
+
+b.  Inadequate Information and Bounded Rationality. A  closely
+related  objection  would  point  to  an  absence  of  information  and  to
+bounded  rationality.  As  I  have  stressed  throughout,  people  have
+difficulty  dealing  with  low-probability  events.5 
+If  people  are  not
+aware  of what  they might  be  gaining  by regulation,  their  WTP can  be
+too 
+to
+low.  Perhaps  the  availability  heuristic  will  lead  people 
+underestimate  the  risk.  If  people  cannot  recall  a  case  in  which  some
+activity  produced  illness  or  death,  they may  conclude  that  the  risk  is
+trivial  even  if  it is  not. Or perhaps  the same  heuristic,  and probability
+neglect,  will  lead  people  to  exaggerate  risks, producing  a  WTP that is
+wildly  inflated  in  light  of  reality.  And  if  people  are  unable  to
+understand  the  meaning  of ideas  like  "one  in  fifty  thousand,"  or  to
+respond  rationally to  such ideas, then  there  are  serious  problems  with
+relying  on WTP.
+
+It 
+
+is  also  possible 
+
+that  people's  WTP  reflects  excessive
+discounting  of  future  health  benefits.  If  workers  are  ignoring  the
+future,  or  applying  an  implausibly  high  discount  rate,  then  there  is  a
+good  argument  for  setting  aside  their  WTP. In  the  context  of  global
+warming,  for  example,  the  temporally  distant  nature  of  the  harm
+might  well  lead  to  insufficient  concern  for  a  potentially  catastrophic
+risk.  The same  is  true  for  less dramatic  risks  that people  face  in  their
+daily  lives.  Young  smokers,  for  example,  probably  give  too  little
+attention to the  health harms caused by  smoking. Those who  choose  a
+
+158.  See, e.g.,  Jolls  et aL.,  supra note  131,  at 1519  ("People  sometimes...  underestimate  the
+likelihood  of low-probability  or low-salience  events  because  these  threats  simply  do not  make it
+onto  people's  'radar  screens."').
+
+HeinOnline  -- 54 Duke L.J. 427 2004-2005
+
+428
+
+DUKE LAW JOURNAL
+
+[Vol.  54:385
+
+poor diet  and  little exercise  almost  certainly  fail  to consider  the  long-
+term  effects of their  behavior. Self-control  problems  are an  important
+part  of  bounded  rationality.  If  a  low  WTP  shows  a  failure  to  give
+adequate  attention  to the  future, then there  is reason not to use WTP.
+In  many  cases, however, WTP is  a result  of adequate  information
+to  err.  If  so,
+and  bounded  rationality 
+appropriate  adjustments  should  be  made  to  WTP,  and  the  VSL  that
+emerges  from WTP  should be  corrected.
+
+leading  people 
+
+is  not 
+
+c.  Rights. A  quite  different  objection  would  point  to  people's
+rights.  Perhaps  people  have  a  right  not  to  be  subjected  to risks  of  a
+certain magnitude,  and the  use of WTP will violate this right. It seems
+fully  reasonable  to  say  that  whatever  their  WTP,  human  beings
+should  have  a  right not  to  be  subject  to  risks  above  a particular  level.
+Imagine,  for  example,  that poor people  live in a place  where  they face
+a  1/20  annual risk  of dying from  water pollution;  it makes  sense to say
+that the government  should  reduce  that risk  even if people  are willing
+to  pay only $1 to  eliminate it and  the per-person  cost is  $100.'59
+
+As  an  abstract  claim  about  people's  rights,  the  objection  is
+entirely  correct.  Something  has  gone  badly  wrong  if  people  are
+exposed  to serious risks  and  their WTP prevents  them, and  is invoked
+to  prevent  their  government,  from  doing  anything  in  response.  It
+would  be  foolish  to  suggest  that  WTP  is  determinative  of  the
+appropriate  use  of government  subsidies;  a redistributive  policy  does
+track  people's  WTP.  (Would  it  make  sense  to  say  that
+not 
+government  would  give  poor  people  a  check  for  $100  only  if  they
+were  willing  to  pay  $100  for  the  check?)  And  in  many  cases  people
+are  subject  to  risks  whose  magnitude  is  indeed  a  violation  of  rights.
+But  this  point  has  little  force  against  the  particular  argument  that  I
+am making.
+
+The  initial  problem  with  this objection  is  that  in  the  cases  under
+discussion,  rights  of this  kind  are  usually  not involved;  I  am  speaking
+here  of  statistically  small  risks.  Suppose  that  this  initial  response  is
+unconvincing  and  that rights  are  indeed  involved.  If so,  there  is  a  still
+more  fundamental  response.  When  rights  are  involved,  the  proper
+response  is  not  to  force  people  to  buy  protection  that  they  do  not
+want, but  to provide  a  subsidy  that will  give  them the  benefit for  free
+or  enable  them  to  receive  the  benefit  at  what  is,  for  them,  an
+
+159. 
+
+I bracket  the  possibility  that  rights  are  resource-dependent,  and  I simply  assume  here
+
+that risks above  a  certain level  should  count as  violative of rights.
+
+HeinOnline  -- 54 Duke L.J. 428 2004-2005
+
+2004]
+
+VALUING LIFE
+
+acceptable  price. 6° Nothing  here  is meant  to  deny  the  possibility  that
+government  should  provide  certain  goods  via  subsidy,  or  indeed  that
+subjection  to  risks  above  a  certain  level  is a  violation  of rights."' The
+question  instead is one  of regulation under the  stated assumptions.  So
+long  as  that  is  the  question,  use  of  WTP  does  not  violate  anyone's
+rights.
+
+d.  Democracy versus Markets. An  independent  objection  would
+stress  that  people  are  citizens,  not  merely  consumers;  it  would  urge
+that  regulatory  choices  be  made  after  citizens  have  deliberated  with
+one  another  about  their  preferences  and  values.162  The  argument
+against  forced  exchanges  treats  people  as  consumers;  it  sees  their
+decisions  about  safety  as  the  same  as  their  decisions  about  all  other
+commodities.'63   For 
+is  badly
+a  deliberative
+misconceived."  Our 
+social
+democracy,"' 
+in  deliberative
+judgments  should  be  made  by  citizens  engaged 
+discussion  with one  another  rather  than  by  aggregating  the individual
+choices of consumers. 166
+
+not  a  maximization  machine,  and  many 
+
+some  decisions, 
+constitutional 
+
+this  approach 
+is 
+
+system 
+
+Consider  some examples:
+0 
+
+In  the  context  of  race  and  sex  discrimination,  sensible
+societies  do  not  aggregate  people's  WTP.  The  level  of
+
+160. 
+
+I put  to  one  side  the  question  of whether  people  should  be  given  in-kind  benefits  or
+
+instead lump sums.
+
+161.  There  is  a separate  question, not  addressed  here,  whether  and when  subjection to  risks
+of harm  (as  opposed  to  actual  harm)  is  itself a  harm.  See Matthew  D.  Adler,  Risk,  Death and
+Harm: The Normative Foundations of Risk  Regulation, 87  MINN.  L. REV.  1293,  1340-88  (2003)
+(reviewing  arguments  supporting  and  refuting  the  proposition  that  the  risk of  death  is  itself  a
+harm that affects  welfare).
+
+162.  See  AMARTYA  SEN,  RATIONALITY  AND  FREEDOM  287  (2002)  (noting that "discussions
+and  exchange,  and  even  political  arguments,  contribute  to  the  formulation  and  revision  of
+values").
+
+163.  See  Richard  H. Pildes  & Elizabeth  S.  Anderson,  Slinging Arrows at Democracy: Social
+Choice Theory,  Value Pluralism, and Democratic Politics, 90 COLUM.  L. REV, 2121,  2176  (1990)
+("In  the  highly  differentiated  world  of  the  modem  liberal  state,  the  same  person  may  have  distinct
+interests  in  her  role  as  consumer  from  those  in her  role  as  worker,  or as  citizen,  or  as a  parent,  or as
+member  of  a  religious  community.");  see  generally ELIZABETH  ANDERSON,  VALUE  IN ETHICS
+AND  ECONOMICS  (1993).
+
+164.  Pildes  &  Anderson,  supra  note  163,  at  2176  ("Individuals  are  better  understood  as
+approaching  many  choices not  from a  unitary,  fixed perspective,  but  from several  different perspectives
+that pull them  in different  directions.").
+
+165.  See  generally JOSEPH  M.  BESSETTE,  THE  MILD  VOICE  OF  REASON:  DELIBERATIVE
+
+DEMOCRACY  AND AMERICAN  NATIONAL  GOVERNMENT  (1994).
+
+166.  See the  discussion of "government  by discussion"  in SEN,  supra note  162,  at  287-89.
+
+HeinOnline  -- 54 Duke L.J. 429 2004-2005
+
+DUKE LAW JOURNAL
+
+[Vol.  54:385
+
+permissible  discrimination 
+is  not  set  by  using  market
+evidence  or  contingent  valuation  studies  to  see  how  much
+people would  be  willing  to  pay  to discriminate  (or to  be  free
+from  discrimination).  Even  if discriminators  would  be  willing
+to pay  a  lot  to  avoid  associating  with members  of unpopular
+is  banned.  Through  political
+groups,  such  discrimination 
+that  certain  forms  of
+processes,  citizens  have  decided 
+discrimination  are illicit, whatever  people's WTP.
+
+*  The  prohibition  against  sexual  harassment  does  not  emerge
+from  a  governmental  WTP.  Many  harassers  would  be  willing
+to  pay  something,  perhaps  a  great  deal,  for  the  privilege  of
+harassing;  in  imaginable  circumstances,  the  harassers'  WTP
+might  exceed  their  victims'  WTP  to  prevent  harassment.
+Nonetheless,  harassment is forbidden,  and WTP is irrelevant.
+*  The  protection  of  endangered  species  is  not  chosen  on  the
+basis  of  aggregated  WTP.  Whether  and  when  to  protect
+members  of  endangered  species  is  a  moral  question  to  be
+through
+through  democratic  discussion,  not 
+resolved 
+exercises  in  consumer  sovereignty.  Some  people  may  be
+willing  to  pay  a  significant  amount  to  harm  endangered
+species,  at  least  if  that  harm  is  necessary  to  undertake
+development  activities.  Their  WTP  is  not taken  to be  part of
+the legal  assessment  of what they are permitted  to do.
+to  animals,  and  that 
+
+•  Laws  that  forbid  cruelty 
+
+impose
+affirmative  duties  of  protection  on  human  beings,  stem  not
+from WTP, but from  a belief  that moral commitments  call for
+such  laws.  When  laws  require  that  animals  be  protected
+against  suffering,  it  does  not  matter  that  those  who  are
+regulated  (university  laboratories,  for  example)  may  be
+willing to pay a significant  amount to avoid the regulation.  Of
+course  the  cost  of the  regulatory  burden  might play  a  role  in
+deciding  whether  to  impose  it.  But  the  underlying  moral
+judgment  is  rooted  in  a  belief  in  the  avoidance  of  suffering
+that does not essentially  turn  on WTP.
+
+Emphasizing  the  limits  of  any  approach  that takes  "preferences"
+to  be  the  foundation  of  regulatory  policy,  Professor  Amartya  Sen
+stresses that  "discussions  and exchange,  and even political  arguments,
+contribute  to the formation  and revision  of values."'67 He urges  that in
+
+167. 
+
+Id. at 287.
+
+HeinOnline  -- 54 Duke L.J. 430 2004-2005
+
+20041
+
+VALUING  LIFE
+
+the  particular  context  of  environmental  protection,  solutions  require
+regulators  "to  go  beyond  looking only  for  the best  reflection  of  given
+individual  preferences,  or  the most  acceptable  procedures  for choices
+based  on  those preferences. ' '6
+
+Professor  Sen's  claims  are  both  fundamental  and  correct.  They
+point  to  some  serious  limitations  on  the  use  of  WTP.  But  it  is
+important  not  to read  such  objections  for  more  than  they  are  worth.
+In  trading  off  safety  and  health  in  their  private  lives,  people  do  not
+have  static  values  and  preferences.  Much  of the  time,  human  choices
+are  a  product  of  reflection,  even  if  choosers  are  simply  acting  as
+including  reflection  and
+consumers.  Reflection  and  deliberation, 
+deliberation  with  other  people,  are  hardly  absent  from  the  market
+domain.  To  be  sure,  moral  questions  should  not  be  resolved  by
+aggregating  private  WTP.  Sometimes  people's  preferences,  even
+though backed  by  WTP,  are  morally  off-limits,  and  policy  should  not
+take  account  of them.  In  addition,  people  are  sometimes  unwilling  to
+pay  a  great  deal  for  goods  that  have  strong  moral  justifications;
+animal  welfare  is  an  example.  In  these  circumstances,  the  market
+model  is inapplicable  and  WTP reveals  very  little.
+
+But what  about the  easy  case?  Do  these  arguments  suggest  that
+government  should  override  individual  choices  about  how  much  to
+spend  to  eliminate  low-level  risks,  even  when  those  choices  are
+adequately  informed?  For  environmental  protection  generally,  it  is
+indeed  important  to go  beyond  "the  best reflection  of given individual
+preferences.' ' 169 But  this  point  does  not  mean  that  people  should  be
+required  to  pay  $100  to  eliminate  mortality  risks  of  1/100,000  when
+they are  willing  to  pay  only  $75.  If  people's  WTP reflects  an  absence
+of  information  or  insufficient  deliberation,  then  it  is  important  for
+other  people, in  government  and  elsewhere,  to  draw  attention  to  that
+fact.  And  in  some  cases,  a  low  WTP  might  be  overridden  on  the
+ground  that  it  is  rooted  in  errors,  factual  or  otherwise.  But  these
+points  should  not  be  taken  as  a  general  objection  to  my  conclusion
+about  the  easy  case,  or  to  suggest  that  government  should  force
+people  to  reduce  statistical  risks  at  an  expense  that  they  deem
+excessive.
+
+Here  is  one  way  to  understand  the  argument  that  I  am  making:
+The  American  system  is  a  deliberative  democracy,  to be  sure,  but  in
+
+168. 
+169. 
+
+Id. at 289 (emphasis  omitted).
+Id. (emphasis  omitted).
+
+HeinOnline  -- 54 Duke L.J. 431 2004-2005
+
+DUKE LAW JOURNAL
+
+[Vol.  54:385
+
+this  democracy,  it  is  valuable  for  regulators  to  consider  more  fully
+individuated  VSLs  in  deciding  how  to  proceed,  at  least  under  the
+stated  assumptions.
+
+e.  Very  Low  Probabilities and Catastrophic Risks.  Suppose  that
+in  the  United  States  faces  an  annual  death  risk  of
+everyone 
+1/10,000,000-and that  this  risk, if it  comes  to  fruition,  will  kill  every
+person  in  the  country.  The  expected  number  of  annual  deaths  is
+twenty-six, '  which would  produce  expected  annual  costs  in excess  of
+$158  million, assuming  a  VSL  of  $6.1  million.  But  if  the  government
+attempted  to  elicit  each  individual's  WTP  to  avoid  a  risk  of
+1/10,000,000,  it might  well  produce  a  number very close  to  zero.  How
+much would  you  be willing  to spend to  avoid  a  risk  of 1/10,000,000?  If
+you  say  "nothing,"  you  might  well  be  like  most people.  And  if most
+people  really  are  like  that,  the  supposed  risk  of  1/10,000,000,
+applicable  to  everyone  in  the  United  States,  yields  both  twenty-six
+expected  annual  fatalities  and  expected  annual  costs  very  close  to
+zero-an  especially  odd  result  in  light  of  the  fact  that  there  is  a
+1/10,000,000  risk  not  simply  that  each  American  will  die,  but  that
+every American  will die.'71
+
+This  result  does  seem  anomalous.  For  one  thing,  is  it  really
+sensible to conclude  that the  prevention  of twenty-six  deaths  is worth
+nothing,  or  close  to  it?  An  affirmative  answer  is  suggested  by  a
+perspective  that  is  fully  based  on  people's  WTP  to  avoid  very  low
+probability  risks.  But  assigning  a  value  near  zero,  for  the  prevention
+of  dozens  of  deaths,  seems  quite  implausible.  In  cases  of  this  kind,
+there  is  a serious  problem  with using  WTP  to  calculate  the benefit  of
+avoiding that risk.
+
+This  conclusion  actually  understates  the  problem.  In  the  case  at
+hand,  the  risk  is  potentially  catastrophic.  As  I  have  said,  if  the
+1/10,000,000  chance  is  realized,  every  American  will  be  dead. Even  if
+people  show  a WTP  near  zero  to  avoid  a  risk  of  that size,  it does  not
+seem  right  to  think  that  the  nation  should  spend  almost  nothing  to
+prevent  it." 2  The  point  has  a  general  bearing  on  precautions  against
+low  probability  risks  of  catastrophe:  some  degree  of  prevention
+
+170.  Assuming  a U.S.  population  of 260 million.
+171.  For  a  valuable  discussion,  see  generally  POSNER,  supra note  78.  See  also  Cass  R.
+
+Sunstein, Irreversible and Catastrophic, CORNELL  L. REV.  (forthcoming  2006).
+
+172.  See  id. at  168-69  ("[If  the  minute  risk  is  of  a  'dreadful'  catastrophe,  [people]  may
+demand  a  very  high price  to  bear  it,  however slight  it is,  in  which event  the value  of life  implied
+by  their behavior may  be  astronomical.").
+
+HeinOnline  -- 54 Duke L.J. 432 2004-2005
+
+2004]
+
+VALUING LIFE
+
+should  be undertaken  even  if WTP  numbers  do  not justify  it.  Part  of
+the  problem  with  those  numbers  is  that  individual  behavior  will  not
+reflect  the  "catastrophe  premium"  or  "extermination  premium"  that
+would almost certainly  emerge if it  were possible  to  test for it. People
+may  be  unwilling  to pay  anything  to avoid  a risk  of  1/100,000,000  that
+they  themselves  face;  but  if  they  were  told  that  every  person  in  the
+nation  faced  this  risk, they  might  come  up  with  a significantly  higher
+figure.  It  would  take  the  right  question  to  produce  the  higher
+numbers.  Another  the  problem  is  that  WTP  is  not  an  adequate
+measure  of  social  responses  to  catastrophes-in  part because  people
+are  not familiar  with making choices  about risks of that  sort.
+
+In my  view,  this  is  a sound  objection  to the  use of  a low  or  near-
+zero  VSL  in  the  context  of  catastrophic  risks,  even  if  the  WTP
+calculation  would  produce  that  VSL.  As  Judge  Richard  Posner
+shows,173  this  is  an  important  point  when  government  is  considering
+how  to  respond  to  small  risks  of  catastrophic  harm.  But  notice  that
+the  objection  has  built-in  limitations.  It  does  not  apply  to  the
+overwhelming  number  of cases  in  which  VSL  is  used.  In  those  cases,
+the  risks  in  question  are  1/10,000  to  1/100,000,  and  no  large-scale
+catastrophe  is  at  issue. Here,  then,  is  a limitation  on  the  use  of WTP,
+but the domain  of the objection  is restricted.
+
+f  Third-Party Effects.  A  final  objection  would  point  to  effects
+on  third  parties.  If  outsiders  would  be  adversely  affected  by  the
+undervaluing  of  a  particular  risk,  and  if  their  welfare  is  not  being
+considered,  then  the  WTP calculus  is seriously  incomplete.  This point
+demonstrates  a  general  and badly neglected  problem  for WTP  as  it is
+currently  used:  agencies  consider  people's  WTP 
+to  eliminate
+statistical  risks,  without  taking  account  of  the  fact  that  others-
+especially  family  members and close  friends-would  also be  willing to
+pay  something  to eliminate  those  risks.  John  might  be  willing  to pay
+$25  to eliminate his own risk  of 1/100,000, but his  wife, Jane, might  be
+willing  to pay  $25  to  eliminate  John's  risk  also.  If regulators  add  the
+WTP, on  John's behalf, of John's friends  and  relatives,  the total WTP
+might  soon  exceed  $100.  This  is  a  real  problem  for  existing  uses  of
+WTP.
+
+But  thus  far  the  discussion  has  been  assuming  that there  are  no
+third-party  effects.  The  argument  for  using  WTP,  on  the  stated
+assumptions, is  that government should not force people  to buy goods
+
+173.  See id. at 196-98.
+
+HeinOnline  -- 54 Duke L.J. 433 2004-2005
+
+DUKE  LAW  JOURNAL
+
+[Vol.  54:385
+
+that  are  not  worthwhile  for  them.  At  least  at  first  glance,  this
+argument  seems  sound  with respect  to  statistical  risks  of  the  kind  on
+which  I am focusing.
+
+B.  Harder Cases: Autonomy, Kaldor-Hicks, and Welfare
+
+regulation,  for  example, 
+
+There  is  an  obvious  artificiality  in  the assumptions  thus  far. Most
+important,  people  do  not  always  bear  the  full  social  costs  of  the
+regulatory  benefits  that  they  receive.  Sometimes  they  pay  only  a
+fraction  of those  costs-or possibly nothing at  all. When  this is so, the
+normative  analysis  is  much  more  complicated.  In  the  context  of  air
+is  a  complex  set  of
+pollution 
+distributional  effects,  and  on  balance,  poor  people,  and  members  of
+minority  communities,  appear  to  be  net  gainers.'75  An  efficiency
+analysis,  based  on  WTP,  might  not produce  an  adequate  account  of
+the  welfare  effects  of  air  pollution  regulation.  And  even  if it  did,  an
+account  of welfare  effects  might  not  resolve  the normative  question,
+because  the  distributional  gains  are  important  to  consider.'  The
+difficulty  is that  a high VSL,  one  that  exceeds what WTP studies  show
+for  poor  people,  may  produce  outcomes  that  are  in  the best  interest
+of  poor  people, in  the  sense  that  the result  is a  welfare  improvement
+for  them.'7"  And  if  poor  people  do  not  bear  all  of  the  costs  of
+
+there 
+
+174.  Note  that  the  argument  would  not apply  to risks  faced  by  nonhuman  animals;  in  that
+
+event,  people's  WTP could  not tell  the whole  story.
+
+175.  See  Kahn,  supra note  150,  at  37-38  (analyzing  pollution  and  demographic  data  from
+California  and  finding  that, under  the  Clean  Air Act,  "poorer,  less educated  populations  have
+experienced a  greater overall improvement  in  air quality  between  1980  and  1998").
+
+176.  The  Office  of Management  and  Budget  has  expressly  recognized  this  point  in its  most
+recent  guidelines  governing  regulatory  impact  analysis.  See  Office  of Mgmt.  &  Budget,  Draft
+2003  Report to Congress  on  the  Costs and  Benefits  of Federal  Regulations,  68  Fed. Reg. 5492,
+5517  (Feb. 3,  2003):
+
+Those  who  bear  the costs  of a  regulation  and those  who  enjoy  its  benefits  often  are
+. . Your  regulatory  analysis  should  provide  a  separate
+not  the  same  people.  .
+description  of distributional  effects  (i.e.,  how both  benefits  and  costs  are  distributed
+among  sub-populations  of  particular  concern)  so  that  decisionmakers  can  properly
+consider  them along with  the effects  on economic efficiency.
+
+177.  For  relevant  discussion,  see  Christine  Jolls,  Accommodation  Mandates, 53  STAN.  L.
+REv.  223,  227-28,  255-61  (2000).  Professor  Jolls  argues  that accommodation  mandates  might
+produce  desired  redistributive  gains  whether  or  not  they  are  efficient,  and  she  supplies  a
+detailed  analysis  of when  those gains  are  most likely  to occur.  See id. at 250  ("Even if  the value
+of the accommodation  is  less  than its cost, the  mandate may make  disadvantaged  workers better
+off  because  nondisadvantaged  workers  will  bear  some  of  the  associated  cost.").  At  present,
+there is  no parallel discussion  for  regulation  of the sort  that I  am discussing here. My  suggestion
+is  that  under  imaginable  assumptions,  some  regulation  will  be  defensible  on  distributive
+grounds.
+
+HeinOnline  -- 54 Duke L.J. 434 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+programs  that  benefit  them,  the  autonomy  argument  for  WTP  is
+greatly  reduced;  they  are  enjoying  a  benefit  (partly)  for  free,  and  it
+does not insult anyone's  autonomy  to  give  them  a good  on  terms that
+they  find  acceptable.  Note  that  these  points  do  not  bear  directly  on
+the  question  of  whether  VSL  should  vary  across  risks.  But  they  do
+bear  on  the  issue  of  varying  VSL  across  persons,  and  in  particular
+across disparities in  income  and wealth.
+
+Suppose,  for  example,  that  beneficiaries  of  a  proposed  drinking
+water  regulation  are  willing  to  pay  only  $80  to  eliminate  a  risk  of
+1/50,000.  Assume,  in  addition,  that the  per-person  cost  of eliminating
+a  1/50,000  risk  is  $100-but  that  for  every  dollar  of  that  cost,  the
+beneficiaries  pay  only  $.80.  The  remaining  $.20  might  be  paid  by
+water  companies  themselves,  in  the  form  of  reduced  profits,  or  by
+employees  of the water  companies,  in  the  form of reduced  wages  and
+fewer  jobs.  In  this  example,  the  costs  of the  regulation  exceed  the
+benefits:  it  is  inefficient.  But  by  hypothesis,  the  regulation  makes  its
+beneficiaries  better  off. If the  WTP  criterion is  used,  the  fact that  the
+monetized  costs  exceed  the  monetized  benefits  is  decisive.  But  as  a
+normative  matter,  the  analysis  here  is  far  harder  than  in  the  easy
+cases. On what  assumption  should  the WTP numbers be  decisive?
+
+The  assumption  must be  that  economic  efficiency  is  the  goal  of
+government,  at  least  in  the  context  of regulation-that  to  know  what
+to  do,  government  should  aggregate 
+the  benefits  and  costs  of
+regulation,  and  act  if and  only if  the  benefits  exceed  the  costs.  When
+using  the  WTP  numbers,  government  is  acting  as  a  maximization
+machine,  aggregating  all  benefits  and  costs  as  measured  by  the  WTP
+criterion.  But  this  is  a  highly  contestable  understanding  of  what
+government  should  be  doing.  In  fact  it  represents  a  shift  from  the
+relatively  uncontroversial  Pareto  criterion,  exemplified  above,  to  a
+version  of the  far  more  controversial  Kaldor-Hicks  criterion,' s  which
+assesses  policy  by  asking  this question:  Are  the  gainers  winning  more
+than  the  losers  are  losing?  The  Kaldor-Hicks  criterion  is  sometimes
+described  as  potential  Pareto superiority,'79  because  it asks  whether  in
+principle,  the  winners  could  compensate  the  losers,  and  a  surplus
+
+178. 
+
+It  is  only  a  version  of  that  criterion,  because  it  is  measuring  welfare  in  monetary
+equivalents.  A  direct  assessment  of  welfare,  if it  were  possible,  might  justify  the  regulation  in
+question  on  Kaldor-Hicks  grounds.
+
+179.  See,  e.g.,  RICHARD  A. POSNER,  ECONOMIC  ANALYSIS  OF  LAW  13  (6th  ed. 2003)  ("The
+Kaldor-Hicks  concept  is  also  and suggestively  called  potential  Pareto  superiority:  The  winners
+could  compensate  the losers,  whether or not they  actually do.").
+
+HeinOnline  -- 54 Duke L.J. 435 2004-2005
+
+DUKE LAW  JOURNAL
+
+[Vol. 54:385
+
+could  be  left over. The difficulty  of course  is  that  Pareto  superiority  is
+merely  potential.  Some  people  really  are  losing  and  others  are
+gaining.
+
+In  these  harder  cases,  the  gainers  are  gaining  less  (in  monetary
+terms)  than  the  losers  are  losing-and  hence  the  regulation  is  said  to
+that  I  have  given,  the
+be  unjustified.  Under  the  assumptions 
+regulation  is  indeed  inefficient:  its  social  cost  is  higher  than  its  social
+benefit.  But  is the  regulation  undesirable?  This  is not at  all  clear. The
+first  problem  is  that  WTP  is  measuring  gains  and  losses  in  monetary
+terms,  rather  than  in  welfare  terms.8'  It  is  possible  that  those  who
+gain,  in the harder  cases,  gain more  welfare  than  the losers  lose;  WTP
+is  not  dispositive  on 
+is
+distributional.  Suppose  that  in terms  of overall welfare,  the  regulation
+is  not  desirable;  it  makes  aggregate  welfare  lower rather  than  higher.
+But  suppose  too  that  those  who  benefit  are  less  advantaged  than
+those  who  lose.  If, for  example,  those  who  are  willing  to  pay  $80  are
+those  who  pay  the  remainder  are
+disproportionately  poor,  and 
+disproportionately  wealthy,  the  regulation might  plausibly  be justified
+despite  the welfare  loss.
+
+that  question.  The  second  problem 
+
+It  is  natural  to  respond  here  that,  if  redistribution  is  the  goal,
+then  it should be  produced not through  regulation  but through  the tax
+system,  which  is  a  more  efficient  way  of  transferring  resources  to
+people  who  need  help.18
+1  I  agree.  But  suppose  that  redistribution  is
+not  possible  through  the  tax  system.  If  so,  then  regulation  in  the
+harder  cases  cannot  be  ruled  off-limits  despite  its  inefficiency.  The
+fact  that  a  regulation  is  helpful  to  the  most  disadvantaged  is  not
+decisive  in its  favor. If it is trivially  helpful,  and  if it inflicts  huge  costs
+on  everyone  else,  little  can be  said for  it. But  everything  depends  on
+the  magnitude  of the  relevant  effects.  A program  that  produced  large
+gains  for  the  least  well-off  would  seem  to  be  justified  even  if  it
+imposed,  in  terms  of  WTP,  slightly  higher  costs  than  benefits  on
+balance.
+
+180.  On  the  direct measurement  of welfare,  see  generally  Kahneman  et  al.,  supra note  156
+
+(exploring  various  methods of measuring  the utility of temporally  extended  outcomes).
+
+181.  See,  e.g.,  Louis  Kaplow  & Steven  Shavell,  Why  the Legal System  Is Less  Efficient  Than
+the Income Tax in  Redistributing Income, 23  J. LEGAL  STUD.  667,  667  (1994)  ("[R]edistribution
+through  legal  rules  offers  no  advantage  over  redistribution  through  the  income  tax  system  and
+typically  is  less  efficient.");  Steven  Shavell,  A  Note on  Efficiency  vs.  Distributional Equity  in
+Legal  Rulemaking: Should  Distributional Equity Matter Given  Optimal Income  Taxation?, 71
+(describing  how  an  income  tax  can
+AM.  ECON.  REV.  PAPERS  &  PROC.  414,  414  (1981) 
+compensate  for  inefficient  liability  rules  and  redistribute  income);  David  A. Weisbach,  Should
+
+HeinOnline  -- 54 Duke L.J. 436 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+C.  Harder Cases as Easy Ones, and VSL Again
+
+1
+
+agency  attention 
+
+recent  guidelines,  encouraging 
+
+Is  there  a reason  to treat the  harder cases  as  identical  to the  easy
+2  Agencies  do  not  distinguish  between  them,
+ones?  Is  this  absurd? 1
+although 
+to
+distributional  issues,  might  eventually  persuade  them  to  do  so.1"3  A
+possible  reason  for treating  the harder  cases  the same as the easy  ones
+is  the  existence  of  an  optimal  income  tax.  If the  tax system  produced
+the  right  level  of  redistribution,  there  would  be  good  reason  for
+agencies  to  rely on  individualized  VSL  and not  to  concern themselves
+with whether the  beneficiaries  of regulation  were  paying for any or  all
+of  the  costs.  The  hard  cases  would  be  treated  as  the  easy  ones.  For
+people  who  believe  that  the  hard  cases  must  be  treated  differently,  it
+is  because further redistribution  is desirable.
+
+Another  reason  for  treating  the  harder  cases  as  the  easy  ones
+would  be  optimism:  perhaps  everything  will  balance  out  in  the  end.
+Perhaps  no  group  will  be  systematically  helped  or  hurt,  and  the  tax
+system  will  produce  appropriate  redistribution.  In  the  real-world
+cases,  regulators  might  also  think  that  a  direct  inquiry  into  welfare,
+bypassing  WTP,  would  be  extremely  difficult  or  perhaps  even
+impossible 
+to  operationalize.  If  distributional  considerations  are
+relevant, interest-group  warfare  may  be  the consequence,  rather  than
+distribution  to those  who  particularly  need  and  deserve  help.1"  More
+modestly, it  might be  concluded  that  agencies  should generally  pursue
+efficiency,  using  WTP  as  the  foundation  for  decisions,  but  should
+allow  distributional  findings  to  cut  the  other  way  in  cases  in  which
+there  is compelling  reason  to do so. In fact this  approach  is  a plausible
+
+Legal Rules  Be  Used  to  Redistribute Income?,  70  U.  CHI.  L.  REV.  439,  439  (2003)  ("[Tjhe  tax
+system  is a  better tool  for redistribution  of income than legal  rules.").
+
+182.  See John  Broome,  Cost-Benefit Analysis and Population, 29  J. LEGAL  STUD.  953,  958
+(2000)  (urging  that  "there  are  separate  reasons why  preferences  are  an  unsatisfactory  basis  for
+valuing  lives,"  including  that,  "in  contexts  involving  risks,  people's  preferences  are  generally
+muddled  and  incoherent"  rather  than  rational).  If  preferences  are  in  fact  muddled  and
+incoherent,  current practice  is  of course  on thin ground.
+
+183.  See  OFFICE  OF  MGMT.  &  BUDGET,  CIRCULAR  A-4,  REGULATORY  ANALYSIS,  at  4
+removing
+
+(Sept.  17,  2003)  (noting  that  "possible  justifications  [for  regulation]  include.., 
+distributional  unfairness"),  available at http://www.whitehouse.gov/omb/circulars/aOO4/a-4.pdf.
+
+184.  See, e.g.,  Viscusi,  supra note  10,  at  844-45  (describing,  as  an  example  of interest-group
+warfare,  how  an  affluent  suburban  neighborhood  successfully  thwarted  the  development  of a
+nearby  landfill,  resulting  in the  landfill's  being  moved  to  a  "pristine  research  forest and  nature
+preserve"  belonging  to  Duke  University  because  the  university  was  located  in  a  neighboring
+county and thus possessed  less  political clout  than the  suburban neighborhood).
+
+HeinOnline  -- 54 Duke L.J. 437 2004-2005
+
+DUKE LAW JOURNAL
+
+[Vol.  54:385
+
+way  of  reading  the  Office  of  Management  and  Budget's  current
+guidelines on  regulatory  impact  analysis."'
+
+In  the  easy  cases,  the  resulting  redistribution  is  almost  certainly
+perverse,  because  forced  exchanges,  under  the  stated  assumptions,
+are  highly likely to harm the  people who  are  being coerced.  But in  the
+harder cases,  it cannot be  said  that the beneficiaries  of regulation  will
+be  harmed  if  government  uses  a  number  that  exceeds  their  actual
+VSLs.  Everything  depends  on 
+the  distributional  effects  of  the
+regulation.  If the beneficiaries  are well-off, a high VSL  might produce
+perverse  redistribution  if those  who lose  are toward  the bottom  of the
+economic  ladder.  It  is  possible  to  envision  this  result,  for  example,
+with  a  pollution  program  that  protects  those  who  visit  expensive
+recreational  areas.  In  contrast,  if the  beneficiaries  are poor,  and if the
+costs  are  borne  by  the  wealthy  or  by  the  general  population,  a  high
+VSL  might  be  in  the  interest  of  those  who  need  help.  Air  pollution
+programs,  providing  special  protection  for people  in  cities,  appear  to
+be  an  example. 186  It  is  therefore  reasonable  to  reject  the  confident
+view  of  economically  inclined  analysts  who  believe  that  accurate
+VSLs,  based  on  actual  WTP  (and  hence  individuated),  should  always
+be  the  basis  of  regulatory  policy.  But  it  is  similarly  reasonable  to
+reject  the confident  view of skeptics  who  believe  that a  uniform VSL,
+refusing  to  make  distinctions  among  persons,  is  best  on  distributive
+grounds.
+
+What  are  the  implications  for  individuation  of VSL?  It  remains
+true  that  according  to  the  theory  that  underlies  agency  valuations,  a
+higher  degree  of  individuation  would  be  desirable.  It  also  remains
+true  that  with  respect  to  risks, individuation  is  appropriate  insofar  as
+valuations  differ  depending  on  the  nature  of  the  risk  at  stake.  The
+principal  qualification 
+that  gives
+disadvantaged  people  regulatory  protection  in  excess  of  their  WTP,
+might  turn  out  to  have  fortunate  distributional  consequences  in  the
+harder cases.  Regulators  should be  careful  about this point. It will not
+
+that  a  uniform  VSL,  one 
+
+is 
+
+185.  See OFFICE OF MGMT.  & BUDGET, supra note  183, at  5:
+
+There  are  justifications  for  regulations  in  addition  to  correcting  market  failures.  A
+regulation  may  be  appropriate  when  you  have  a  clearly  identified  measure  that  can
+make  government  operate  more  efficiently.  In  addition,  Congress  establishes  some
+regulatory  programs  to  redistribute  resources  to  select  groups.  Such  regulations
+should  be  examined to ensure  that they are  both effective  and cost-effective.
+
+186.  See  Kahn,  supra note  150,  at  38  &  tbl.3  (finding  that  "residents  of  the  Los  Angeles
+is  especially  stringent,  experienced  a  larger  pollution  exposure
+
+regulation 
+
+basin,  where 
+reduction than  [other]  California  residents").
+
+HeinOnline  -- 54 Duke L.J. 438 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+always  hold,  and  if the  goal  is  to provide  more  assistance  to those  in
+need,  a  uniform  VSL  is  hardly  the  best  way  to  achieve  that  goal.
+Consider the case of poor  areas  of the country:  a  national VSL of $6.1
+million  would  almost  certainly  be  harmful,  simply  because 
+the
+resulting levels of regulation  would  have adverse  effects  on wages  and
+employment  levels.  My  only point  is  that in  some  cases, individuation
+across persons  will produce worse  outcomes  on distributional  grounds
+and possibly on grounds  of welfare  as well.
+
+IV.  GLOBAL RISK  REGULATION  AND CROSS-NATIONAL
+VALUATIONS
+
+The  analysis  thus  far  has  significant  implications  for  global  risk
+regulation  and cross-cultural  variations  in WTP  and VSL. In  this Part,
+I  turn  to  those  implications.  My  conclusion  is  that  poor  countries
+should  use  a  lower  VSL  than  wealthy  countries,  and  that  people  in
+poor countries  are  not helped  if the United  States, or an  international
+body,  insists  on  a  high one.  But  the  analysis  must  be  different  if  the
+question  is the  behavior  of donors or  donor  nations. Nations  who  are
+most in need  deserve  help,  even  if their WTP  is  low. For purposes  of
+regulation,  however,  insistence  on  a  high  VSL  will  not  provide  that
+help.  I  begin  with  the  distinction  between  donor  practices  and
+government  regulation  and  then  turn  to  the  practical  question  of
+cross-national valuations.
+
+A.  Are Indian Lives Worth Less  Than American Lives?
+
+I  have  suggested  that people  in  poor nations  show a  lower  WTP
+and  hence  VSL  than  people  in  wealthy  nations. ' 8  Because  poor
+people  have less  money than rich  people, this finding  should not be  at
+all  surprising.  Building  on evidence  of  this  kind, some  assessments  of
+the  effects  of  global  warming  find  far  higher  monetized  costs  from
+deaths  of people  in rich  countries  than  from  deaths  of people in poor
+countries."8  These  assessments  have  been  highly  controversial;
+
+187.  See supra Table 3.
+188.  See  Kirsten Halsnaes  et al.,  Case Studies for Zimbabwe, Botswana, Mauritius and Thailand, in
+CLIMATE  CHANGE  AND  SUSTAINABLE  DEVELOPMENT:  PROSPECTS  FOR  DEVELOPING  COUNTRIES  202,
+206-07  (Anil  Markandya. & Kirsten Halsnaes,  eds.,  2002)  (calculating  a  VSL  for  the European  Union
+of  $3.9  million  in  1995  prices,  compared  to  VSLs of  $315,000  to  $1.2  million  for  the  four developing
+countries 
+the  case  study);  cf  INTERGOVERNMENTAL  PANEL  ON  CLIMATE  CHANGE,  THIRD
+ASSESSMENT  REPORT:  CLIMATE  CHANGE  2001: MITIGATION  483  (finding  that  "[t]he  VSL  is  generally
+lower in  poor countries  than in  rich countries"), available at http://grida.no/climate/ipcc-tar/wg3.
+
+in 
+
+HeinOnline  -- 54 Duke L.J. 439 2004-2005
+
+440
+
+DUKE  LAW  JOURNAL
+
+[Vol.  54:385
+
+Professor  John  Broome, for example,  notes  that under  one  approach,
+an  American  life  is worth  ten or twenty  Indian  lives,  a judgment  that
+he  deems  "absurd., 189  As  a  result,  some  analysts,  including  the
+Intergovernmental  Panel  on  Climate  Change,  have  opted  for  a
+worldwide  VSL  of $1 million, a  choice  that  seems  quite  arbitrary  and
+potentially  harmful to people in rich  and poor nations  alike.
+
+The 
+
+issue  raises 
+
+important  dilemmas.  How  should  global
+institutions  assess  the  monetary  value  of human  lives?  What  are  the
+monetized  costs  of  ten  thousand  worldwide  deaths  from  global
+warming,  deaths  that  include  eight  thousand  people  from  poor
+countries  and  two  thousand  from  wealthy  ones?  The  discussion  thus
+far  suggests  that  there  is  no  sensible  abstract  answer  to  these
+questions;  it  is  important  to  know  what,  in  particular,  the  answer  is
+for. If  a  general  question  is  asked,  outside  of any  particular  context,
+about  the  monetary  value  of  a  stated  number  of deaths  in  2020,  it  is
+best left unanswered  (except  perhaps  with laughter).  The  appropriate
+assessments  of VSL,  and  variations  across  countries,  depend  on  their
+intended  use.  If  disparate  numbers  are  meant  to  identify  the  actual
+monetary values  of human  lives,  and  to suggest  that people  in Canada
+are  "worth"  much more  than people  in Argentina  or that poor people
+are  "worth"  less  than  rich  ones,  the  numbers  are  ludicrous  as  well  as
+offensive.
+
+It is possible  to go further. If the  disparate  numbers  are meant  to
+suggest  the  appropriate  amount  that  donor  institutions  should  spend
+to  reduce  mortality  risks,  they make  little  sense. The  fact that  a  poor
+person  in  a  poor  nation would  be  willing  to pay  $1  to eliminate  a risk
+of  1/10,000,  whereas  a  wealthy  person  in  a  wealthy  nation  would  be
+willing  to pay  $100,  cannot plausibly  be  used  to  defend  the  view  that
+
+189.  See  Broome,  supra note  182,  at  957  (noting  that  this  conclusion  is  a  product  of  "a
+money-metric  utility  function  to  represent  a  person's  preferences,"  an  approach  that  Professor
+Broome  rejects).  In the  easy  cases, I  suggest  that a  money-metric  utility  function  is  not  absurd,
+and  it  is  not  quite  absurd  in  the  hard  cases  either.  See  INTERGOVERNMENTAL  PANEL  ON
+CLIMATE  CHANGE,  supra note  188,  at 483:
+
+The  VSL  is  generally  lower  in  poor  countries  than  in  rich  countries,  but  it  is
+considered  unacceptable  by many  analysts to  impose  different values  for  a policy that
+has  to be  international  in scope  and  decided  by  the  international  community.  In these
+circumstances,  analysts  use  average  VSL and apply  it to all  countries.  Of course,  such
+a value  is not  what individuals  would  pay for  the reduction  in  risk, but it is  an  "equity
+adjusted"  value,  in which  greater weight is  given to  the  WTP of  lower income  groups.
+On  the basis of EU  and US  VSLs  and a  weighting system  that has  some broad  appeal
+in  terms  of  government  policies  towards  income  distribution,  Eyre  et  al.  (1998)
+estimate  the  average  world  VSL  at  around  1  million  Euros  (approximately  US$1
+million  at 1999 exchange  rates).
+
+HeinOnline  -- 54 Duke L.J. 440 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+an  international  agency  should  devote  its  resources  to  the  latter
+rather  than  the  former.  To  illustrate  this  point,  imagine  choosing
+between  two programs:
+
+(A)  Program  A  would  eliminate  (at  a  stated  cost  of  $500)  a
+1/10,000  risk  faced  by  fifty poor people  in  Costa  Rica,  each
+willing to pay $2  to eliminate that risk.
+
+(B)  Program B  would eliminate  (also  at  a stated  cost  of $500)  a
+1/10,000  risk  faced  by  fifty  wealthy  people  in  Germany,
+each  willing to pay  $350 to eliminate  that same risk.
+In  principle,  there  is  no  reason  to  think  that  a  donor  should
+prefer  to save the  Germans,  even though their  WTP  is far  higher than
+that of the Costa  Ricans. In fact,  Program A  has much higher priority,
+because  it  would  help  people  who  were  facing  extreme  deprivation.
+What is true at the individual level  is true across  nations as well.
+
+But  now  consider  a  different  issue.  The  government  in  a  poor
+nation  is  deciding  on  appropriate  policy  to  reduce  workplace  risks;
+what  VSL  should  it  use?  At  least  under the  assumptions  that  I have
+given thus far,  such a government  would do well  to begin by using the
+admittedly  low WTP of its own citizens.  If citizens in  that nation show
+a  WTP  of  $2  to  eliminate  risks  of  1/10,000,  then  their  government
+does  them  no  favors  by  requiring  them  to  pay  $50  or  $10  for  that
+protection.  This  is  the  sense  in  which  VSL  properly  varies  across
+nations,  and  in  which  citizens  of  poor  nations  have  lower  VSLs  than
+citizens  of wealthy  ones.
+
+for 
+
+international 
+
+The  point  has  strong  implications 
+
+labor
+standards. It is tempting to suggest  that workers  in poor countries,  for
+example  China and India, should  receive the  same protection  as  those
+in  the  United  States;  why  should  a  worker  in  Beijing  be  subject  to
+significantly  higher death risks  than a worker in Los  Angeles?  So long
+as the  distribution of global income  has the form that it does, a system
+that  gives  Chinese  workers  the  same protection  as  American  workers
+is  not  in the  interest  of  Chinese  workers-assuming,  as I  am,  that the
+cost  of  that  protection  is  borne  by  workers  themselves.  Requiring
+Chinese  workers  to have  the  same  protection  as  Americans  amounts
+to a forced  exchange  on  terms that Chinese  workers  reject.
+
+In  these  circumstances  it is  unsurprising  that  workers  in  wealthy
+nations,  not  in  poor  ones,  often  clamor  the  loudest  for  greater
+protection  of workers  in  poor  nations;  workers  in  wealthier  nations
+would  be  the principal  beneficiaries  of such  regulation,  which  would
+protect  them  against  competition  from  those  in  poorer  nations.  The
+
+HeinOnline  -- 54 Duke L.J. 441 2004-2005
+
+442
+
+DUKE LAW JOURNAL
+
+[Vol.  54:385
+
+idea  that workers  in poor  nations should  have  the  "same"  protection
+as  workers  in  wealthy  nations  is  an  error,  rooted  in  a  "moral
+heuristic"  involving  the  equal  worth  of  all  human  lives-a  heuristic
+that  sometimes  works  well  but  that  also  misfires.' 90 The  real  question
+is  the effect  of different  numbers.
+
+to  help.  In  the  hard  cases, 
+
+If  the  Chinese  government  uses  a  VSL  of  $6  million,  on  the
+theory  that its citizens  should not be valued  less  than those  of wealthy
+nations,  social  harm  will  almost  inevitably  result.  In  the  easy  cases,
+the  forced  exchanges  will  be  ludicrously  harmful  to  the  people  whom
+the
+they  are  supposed 
+beneficiaries  pay  only a fraction  of the  cost  (which is  mostly  borne  by
+others  in  the  same  nation),  the  nation will  be  spending  far too  much
+of  its  money  on  risk  reduction  (or  more  precisely,  on  reducing  the
+risks  that happen  to  get  onto  the regulatory  agenda).  The inefficiency
+of  an  extremely  high  VSL  will  be  felt  acutely  and  in  many  forms,
+including  decreased  employment.  But  if  the  costs  of  risk  reduction
+will  be  paid  by  third  parties-for  example,  wealthy  nations-then
+people  in  the  poor  country  will  be  helped  even  if  risk  reduction  is
+based  on  an excessive  VSL.
+
+in  which 
+
+Of course  the citizens  of poor  nations  would  almost  certainly  be
+helped  more  if they  were  given  cash  (supposing  that  it would  not  be
+squandered)  rather  than in-kind  benefits.  But  if cash  redistribution  is
+not  possible,  regulatory  benefits,  provided  for  free  or  for  a fraction  of
+their  cost,  remain  a  blessing.  If, for  example,  a  global  institution uses
+a  worldwide  VSL  of  $1  million,  and  if  that  amount  exceeds  the
+domestic  VSL  of  people  in  poor  nations,  it  is  possible  that  poor
+people  will  gain  a  great  deal  if  the  resources  for  risk  reduction  are
+provided  by wealthy  nations.  In  the  harder  cases,  the  simple  point  is
+that  many  of  the  intended  beneficiaries  of  regulation  are  in  fact  net
+gainers.
+
+B.  Policy and Practice
+
+then, 
+
+How, 
+
+global 
+
+should 
+
+the
+Intergovernmental  Panel  on  Climate  Change,  assess  the  monetary
+costs  of risks faced  by  people  all over  the world?  As  I have  suggested,
+the  answer  turns  on the purpose  of the assessment-on  what  issue the
+answer  is  supposed  to  address.  There  is  no  good  acontextual  way  of
+
+institutions, 
+
+such 
+
+as 
+
+190.  On  moral  heuristics,  see  generally  Cass  R.  Sunstein,  Moral  Heuristics and  Moral
+
+Framing, 88 MINN.  L. REV.  1556  (2004).
+
+HeinOnline  -- 54 Duke L.J. 442 2004-2005
+
+20041
+
+VALUING  LIFE
+
+asking  some  question  about  the  aggregate  costs  of  global  climate
+change  by  2050,  unless  it  has  some  particular  point.  A  far  more
+sensible  question  is  whether  it  would  make  sense  for  any  particular
+nation  to  accept  a  particular  way  of  responding  to  the  problem  of
+climate  change,  such  as  the  Kyoto  Protocol. t  At  the  national  level,
+an  assessment  of  the  costs  and  benefits  of  the  Kyoto  Protocol  is  not
+much  different  from  an  assessment  of  the  costs  and  benefits  of  any
+other  regulation.
+
+For  the  United  States,  the  likely  costs  of  the  Kyoto  Protocol
+greatly  exceed  its  likely  benefits.  The  anticipated  costs  are  $325
+billion,192  an  amount  that  might  be  worthwhile  if  the  anticipated
+benefits  for  the  United  States  were  in  the  ballpark  of  that  number.
+But  the  overall  benefits  of  the  Kyoto  Protocol  are  small  because  the
+mandatory  emissions  reduction  would  make  only  a  slight  dent  in
+global  warming.9  In  the  United  States,  the  benefits  could  not
+possibly  justify  the  costs."9  The  picture  for  the  world  as  a  whole  is
+more  mixed,  with  Europe  anticipated  to  be  a  net  gainer.19 '  But  even
+for the  world, the Kyoto  Protocol  appears  to impose  costs in  excess of
+benefits-and  this  is  so  even  if  improbable  catastrophic  risks  are
+taken  into  account.  The  only  qualification  here  is  that  the  science  of
+global  warming  is  disputed;  if  this  is  a  realm  of  uncertainty  rather
+than  risk, and  if worst-case  scenarios  are emphasized,  then  the  Kyoto
+Protocol  might  provide  a  sensible  impetus  toward  technological
+innovation  and  far more  dramatic reductions.
+
+For  wealthy  nations,  of  course, the  argument  for  contributing  to
+the  reduction  of  global  warming  is  strengthened  by  the  fact  that  the
+harms  of  global  warming  will  be  felt  disproportionately  in  poor
+nations-and  also  by  the  fact  that  wealthy  nations  have  done  by  far
+the  most  to  produce  the  situation  that  makes  global  warming  a
+serious  problem.  Hence  it is  reasonable  to say  that  the  United  States
+should join  international  agreements  to combat  global  warming  even
+if it loses  more  than  it gains.  The  problem  with the  Kyoto Protocol  is
+
+191.  See  WILLIAM  D.  NORDHAUS  &  JOSEPH BOYER,  WARMING  THE  WORLD:  ECONOMIC
+MODELS  OF  GLOBAL  WARMING  168  (2000)  ("Finally,  the  Kyoto  Protocol  has  significant
+distributional  consequences  ....  The  lion's  share  of the[]  costs are borne  by the  United  States.
+Indeed,  the  United  States is  a net loser  while  the  rest of the world  on balance  benefits from  the
+Kyoto Protocol.").
+Id. at 161.
+Id. at 152.
+Id. at 130-31  & tbl.7.4.
+Id. at 162.
+
+192. 
+193. 
+194. 
+195. 
+
+HeinOnline  -- 54 Duke L.J. 443 2004-2005
+
+DUKE LA W JOURNAL
+
+[Vol. 54:385
+
+that  it combines  extremely  high  global  costs with relatively  low global
+benefits,  even  if  the  problem  of  global  warming  is  taken  quite
+seriously.  A sensible  approach  would control  emissions  in  developing
+countries,  so  as  to  increase  the  overall  benefits,  and  also  would  use
+emissions  trading  and  other  strategies  to  reduce  the  overall  costs.
+These  routes  could  certainly  produce  sensible  agreements  to  address
+climate  change.196  To  the  extent  that emissions  control in  developing
+countries  would  impose  a  significant  burden,  wealthy  nations  should
+help  to foot the  bill.
+
+But  I  am  not  attempting  here 
+
+to  resolve  any  particular
+controversy.  My  major  suggestions  are  that  within  nations,  diverse
+VSLs  are  perfectly  sensible,  and  that  answers  to  questions  about
+valuation  must  be  closely  attuned  to  the  purposes  for  which  those
+questions  are  being  asked.
+
+CONCLUSION
+
+The  theory  that  animates  current  valuations  of  mortality  risks
+argues  in  favor  of  far  more  individuation.  Does  the  risk  involve
+cancer?  What  kind  of cancer?  Does it involve  air  pollution  or driving
+on  the  highways?  If welfare  and  autonomy  are the  guides,  it is  obtuse
+to  adopt  an  approach  that  values  all  statistically  equivalent  mortality
+risks  in  the  same  way.  In  addition, individuals  display  a  great  deal  of
+heterogeneity  in  their  VSLs-not  simply  because  of  different  tastes
+and  values,  but also  because  of different  levels  of income  and  wealth.
+WTP  depends  on  ability  to  pay.  Nothing  that  I  have  said  here  is
+meant  to  suggest  approval  of  existing  distributions  of  resources.
+Certainly  poor  people  are  not  "worth  less"  than  wealthy  ones,  and  it
+is  often  appropriate  for  government  to  provide  resources  directly  to
+poor  people  or  subsidize  the  provision  of  regulatory  benefits.  But
+forced  exchanges  are  not  a  good  way  to  assist  poor  people,  and  a
+uniform  VSL  is  often  a  perverse  response  to  inequality.  In  theory,
+risk-reduction  policies  should  be  more  fully  individuated,  giving  all
+people  regulatory  protection  that  corresponds  to  their  WTP  for  the
+particular risk in question.
+
+Of course  this is  not practicable.  Government  lacks  the  necessary
+information  about  individual  risk  preferences;  categorical  judgments
+are  inevitable.  In  any  case  many  of  the  benefits  provided  by
+
+196.  RICHARD  B.  STEWART  &  JONATHAN  B.  WIENER,  RECONSTRUCTING  CLIMATE
+
+POLICY  38-40,  102-09  (2003).
+
+HeinOnline  -- 54 Duke L.J. 444 2004-2005
+
+2004]
+
+VALUING  LIFE
+
+445
+
+regulation  are  collective  in  character.  Regulators  cannot  feasibly
+provide  protection  to  one  person  without  simultaneously  providing
+protection  to  many.  But  it  is  nonetheless  important  to  see  what  the
+current  theory  counsels  in  principle,  and  to  understand  that  the
+limitations  are  practical  ones,  some  of  which  may  be  overcome  as
+knowledge  progresses.  Even  with  the  practical limitations,  a  uniform
+VSL is  increasingly  difficult to justify.
+
+It  is  clear  that  some  risks  produce  a  higher  VSL  than  others,
+resulting in  significantly different analyses  in many cases,  above  all  by
+producing  a  higher  VSL  for  cancer  risks.  A  program  that  protects
+elderly  people  should  produce  a  lower  VSL  than  one  that  protects
+younger people,  and there  is no  ethical  objection  to  variations  on  the
+basis  of  age.1 7 If  a  program  affects  mostly  wealthy  people,  a  VSL
+based on  the population-wide  median  will be  too low.  It would  follow
+that the FAA  should have  a relatively  high VSL, because people  who
+fly  are  wealthier  than the  population  median-and  when  the  EPA is
+engaging  in  cost-benefit  analysis for  programs  protecting  poor  people
+from  risks  associated  with  hazardous  waste  sites,  it  should  have  a
+relatively  low VSL.
+
+The  principal  qualification 
+
+is  that  when  the  beneficiaries  of
+regulation  do  not pay  all  of  its  cost,  a  high  VSL  may  actually  be  in
+their interests. The  easy  cases, in which the beneficiaries  are forced  to
+pay  for  regulatory  benefits,  are  not  the  same  as  those  in  which
+beneficiaries  pay  only  a  fraction  of  the  cost.  Nonetheless,  current
+practice  treats  such  cases  as  identical,  perhaps  because  of  the  great
+difficulty in untangling  the  incidence  of regulatory  benefits  and costs.
+My goal has  not been  to resolve  that difficulty,  but to suggest  that the
+theory behind  current practice justifies  far more individuation  of VSL
+than  regulators  currently  provide.  However  regulators  deal  with
+distributional  problems  and  the  hardest  cases,  the  use  of  a  uniform
+VSL is unacceptably  obtuse.
+
+in their  early  60s have  a  VSL
+197.  See Aldy & Viscusi,  supra note  15,  at 24  ("[W]orkers  ... 
+. about 30-40  percent  lower than  the market  average  and between  one-third and one-half  the
+size  of the  VSLs  for  prime-aged  workers.");  Sunstein, supra note  8,  at 210  ("If thirty-year-olds
+are  willing  to  pay  more  (or  less)  to  eliminate  a  statistical  risk  than  sixty-year-olds,  then  the
+difference  should  be  reflected 
+[P]olicymakers  should  use different  values  for  old  people  and young  people if and  only if WTP
+studies  show  such  a  disparity.").  I  am  putting  to  one  side  the difficult  questions  raised  by  the
+need to produce  a VSL for  children.
+
+in  cost-benefit  analyses  of  regulatory  proposals. 
+
+...
+
+HeinOnline  -- 54 Duke L.J. 445 2004-2005
+
+HeinOnline  -- 54 Duke L.J. 446 2004-2005
+
+

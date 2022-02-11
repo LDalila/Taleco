@@ -1,0 +1,972 @@
+University of Chicago Law School 
+University of Chicago Law School 
+Chicago Unbound 
+Chicago Unbound 
+
+Journal Articles 
+
+2000 
+
+Cass R. Sunstein 
+
+On Philosophy and Economics 
+On Philosophy and Economics 
+
+Faculty Scholarship 
+
+Follow this and additional works at: https://chicagounbound.uchicago.edu/journal_articles 
+
+ Part of the Law Commons 
+
+Recommended Citation 
+Recommended Citation 
+Cass R. Sunstein, "On Philosophy and Economics," 19 Quinnipiac Law Review 333 (2000). 
+
+This Article is brought to you for free and open access by the Faculty Scholarship at Chicago Unbound. It has been 
+accepted for inclusion in Journal Articles by an authorized administrator of Chicago Unbound. For more 
+information, please contact unbound@law.uchicago.edu. 
+
+ON PHILOSOPHY  AND  ECONOMICS
+
+By  Cass R. Sunstein*
+
+I.  INTRODUCTION
+
+the  distinguished 
+
+A  few  years  ago,  I  attended  an  interdisciplinary  conference  on the
+subject  of incommensurability.  The  economists  and  the  philosophers
+seemed  quite  hostile  to  one  another,  and to  be disagreeing  very  sharply;
+but it was  unclear what  they  were  disagreeing  about.  The high-point,  or
+low-point,  came  when  the distinguished  game  theorist  Kenneth  Binmore
+asked 
+legal  philosopher  Joseph  Raz,  with  utter
+exasperation,  what  Raz  meant  by  the  term  "the  will."  Was  Raz-
+Binmore  wanted  to  know-referring  to  a physical  entity?  If not,  what in
+the  world (literally)  did  Raz  mean?  Raz  responded,  quietly, that  he  was
+building  on  ordinary  usage.  Binmore  made  it  clear  that  he  did  not
+consider  this  an  answer.  It  should  not be  surprising that  no economist  is
+represented  in the  volume  that grew out of the conference.'
+
+Many  philosophers  are  critical  of  economics,  on  the  theory  that
+"efficiency"  is  not  an  appropriate  social  ideal  and  that  the  economic
+conception  of  human  motivation  is  extremely  crude.  And  much  of
+Martha  Nussbaum's  recent  work  has  consisted  of  a  philosophical
+critique  of  economics,  or,  more  precisely,  that  form  of economics  that
+has  been  especially 
+in  the  economic  analysis  of  law
+(hereinafter  EAL) . Nussbaum  thinks,  as  do  many  philosophers,  that
+economists  work  with  hopelessly  crude 
+rooted 
+in
+assumptions  that  philosophers  have  long  shown  to  be  misguided. 
+I
+believe  that Nussbaum  has  made  a number of convincing  arguments,  but
+
+foundations, 
+
+influential 
+
+Karl  N.  Llewellyn  Distinguished  Service  Professor,  University  of  Chicago,
+Law  School  and  Department  of  Political  Science.  I  am  grateful  to  Martha  Nussbaum,
+Richard  Posner,  and  David Strauss  for helpful comments  on a previous  draft.
+
+1.  See  INCOMMENSURABILITY,  INCOMPARABILITY,  AND  PRACTICAL  REASON  (Ruth
+
+Chang  ed.,  1998).
+
+2. 
+
+See  Martha C.  Nussbaum,  Flawed Foundations: The Philosophical Critique of
+(a Particular Type  of) Economics, 64  U.  CHI.  L.  REv  1197  (1997)  [hereinafter  Flawed
+Foundations]; see also MARTHA  NUSSBAUM,  POETIC  JUSTICE  (1996);  Martha  Nussbaum,
+"Only  Grey  Matter?"  Richard Posner's Cost-Benefit Analysis  of Sex,  59  U.  CHI.  L.
+REv.  1689 (1992).
+
+HeinOnline  -- 19 QLR 333 2000
+
+QLR
+
+[Vol.  19:333
+
+that  that  these  arguments  are  not  nearly  as  damaging  as  she  thinks  to
+conventional  EAL,  most  charitably  read.  Part  of the  problem,  it  seems
+to  me,  is  that she  reads  EAL  as if  it were,  or  aspired  to  be,  a branch  of
+political  philosophy,  where in  fact EAL is  mostly an  effort to predict  the
+consequences  of law  and  to  understand  the  forces  that bring  law  about.
+EAL  is  concerned  with  testable hypotheses,  a  topic  of little  concern  to
+philosophers.  One way  to put  the  point is  that while  philosophers  often
+complicate  ordinary  understandings,  by introducing  further  distinctions
+and  refinements,  economists  often  simplify  ordinary  understandings  in
+interest  of  parsimony.  Nussbaum  makes  a  number  of  good
+the 
+criticisms  of EAL insofar  as  it  is  normative  or  insofar  as  it  attempts  to
+set  forth  an  accurate  descriptive  account  of practical  reason;  but only  a
+small  amount  of EAL  is  normative  in the  sense  that  she  is  complaining
+about,  and  economists  need  not  be  read  to  claim  to  have  a  good
+descriptive  account  of practical  reason.
+
+There  is  a  broader  lesson,  involving  the  relationship  between
+philosophy  and  economics,  and  about  the  possibility  of  productive
+collaboration  between  philosophers  and  economists.  To  the extent  that
+they  are  speaking  about  law,  economists  are  especially  good  at
+exploring  the  consequences,  many  of  them  apparently  unintended,  of
+legal  rules.  Within  the  social  sciences,  they  are  especially  good  at
+developing  testable  hypotheses  and  then  testing  them.  Economists  are
+also  helpful  in  giving  accounts  of  how  law  comes  into  being  and  in
+showing  the best way to  achieve  specified  ends.  At the  more  normative
+level,  they  are most  helpful  in  showing  that if some  X  is  the goal,  some
+instrument  Y  will  or  will  not  achieve  it.  It  follows  that  philosophical
+critiques  of the "foundations"  of EAL-including  Nussbaum's-do  not,
+by  and  large,  undermine  the  most  common  and  important  uses  of
+economics  in  law.  Economists  and  philosophers  are  generally  engaged
+to  productive  collaborations,
+respect 
+in  different 
+philosophers  can,  among  other  things,  clarify  concepts  that  economists
+leave  murky;  posit  ingredients 
+that
+economic  analysts  of  law  might  otherwise  overlook;  raise  questions
+in  full-
+about  how  to  conceive  "rationality";  and  show  difficulties 
+fledged  normative  work  in  EAL.  I  suggest that  an especially  promising
+domain  for productive  collaborations  is behavioral  law  and economics.
+
+in  individual  utility  functions 
+
+tasks.  With 
+
+HeinOnline  -- 19 QLR 334 2000
+
+20001
+
+ON  PHILOSOPHY AND  ECONOMICS
+
+II. ECONOMICS,  EXTENDED  UTILITY  FUNCTIONS,  BEHAVIORAL
+ECONOMICS
+
+A.  Normative, Positive, Prescriptive
+
+Let  us  begin  with  some  distinctions.  Economic  analysts  usually
+distinguish  between  positive  and  normative  work.  Positive  work  is
+concerned  with  explaining  why  law  is  as  it  is  and  with  predicting  the
+consequences  of  law.  Why  do  we  have  maximum  hour  laws?  What
+will  happen  when  the  minimum  wage  is  increased?  What  will  be  the
+effects  of  a  law  forbidding  discrimination  on  the  basis  of  sex?  If the
+Federal  Aviation  Administration  requires  children  to  have  their  own
+seats  on  airplanes,  how  many  lives  will be  saved  as a  result?  What  will
+minimum  prices  accomplish?  Positive  work  might  say,  for  example,
+that  a  law  nominally  designed  to  protect  against  air  pollution  was
+actually  an  effort  to help  eastern  coal;  or that  maximum  hour  legislation
+owes  its  existence  to  the  lobbying  efforts  of labor  unions;  or  that  the
+consequence  of  an  environmental  statute,  or  of  maximum  hour
+legislation,  will be to  help  certain  industries  at the  expense  of others;  or
+that  mandatory  seats  for  children  will  actually  cost  lives,  by  leading
+people  to  drive  rather  than  fly,  even  though  driving  is  more  dangerous.
+I  believe that most EAL  is positive  rather than  normative.
+
+Normative  work  is  concerned  not  with  "is"  but  with  "should,"  or
+more  particularly  with  what  the law  should do.  This  variety  of work  in
+turn  should  be  divided  into  two  quite  different  subcategories:  full-
+fledged  normative  work  and  work  that  might  be  called  "prescriptive."
+Sometimes  economic  analysts  assume  that  some  specified  goal  is
+desired-less  pollution,  higher employment  of women,  fewer workplace
+(more
+injuries, 
+controversially)  greater aggregate  social  wealth (or "efficiency").  Some
+normative  work  does  not  evaluate  the  specified  goal,  but  simply  says
+how  to get there; it is purely  instrumental.  If the goal  is less pollution,  a
+gas  tax  may  be  better  than  technological  requirements  imposed  on  new
+This  important  kind  of  work  is  what  I  am  describing  as
+cars. 
+prescriptive.
+
+the  working  poor,  or 
+
+increased 
+
+income 
+
+for 
+
+Much  more  ambitiously,  some  (actually  only  a  little)  normative
+work  in  EAL  argues  on  behalf  of a  contested  social  maximand,  such  as
+utility  maximization  or  wealth  maximization,  or  urges  that  the  law
+should  take  a  certain  course  because  it  will  promote  that  contested
+maximand.  Thus  it might be said  that the  law  should do  X because X is
+
+HeinOnline  -- 19 QLR 335 2000
+
+QLR
+
+[Vol.  19:333
+
+efficient  in  the  sense  that  it  will  maximize  wealth.  To  take  a  vivid
+example,  consider a recent  and  somewhat hilarious  article  in the Journal
+of Legal Studies, defending  a  ban  on  flag-burning  on  the  ground  that
+people  may  well  be  willing  to  pay  a  good  deal  to  prevent  flag-burning;
+the  upshot of  the  article  is  that  a  ban  on flag-burning  may  be  justified
+because  such a  ban might  be efficient.3
+
+The  idea  that  "wealth  maximization"  is  the  appropriate  goal  of a
+social  order  is  not  very  plausible,  and  its  leading  defender,  Judge
+Posner,  no  longer defends  it.  To  be  sure,  some  work in  EAL,  and  even
+more  casual  talk  within  EAL,  urges,  or  even  takes  it  for  granted,  that
+"efficiency,"  or "wealth  maximization,"  is  what the  legal  system should
+pursue.  But  this  work  is  best  taken  more  modestly  as  prescriptive-as
+suggesting  that  to  the  extent  that  efficiency  is  sought,  some  strategy  X
+or  Y  will  or  will  not  achieve  it.  There  is  no  good  defense  of the  idea
+that  efficiency  is  the only  thing  that  should  concern  a  good  social  order,
+and  most people  in  EAL are  aware  of this  fact.  Very  little  of economic
+analysis  of  law  amounts  to  full-fledged  normative  work.  EAL  is
+dominated  by positive and prescriptive  analysis.
+
+B. Parsimony, Testable Hypotheses, and Puzzles About Preferences
+
+Prescriptive  and  positive  work  in  EAL  often  attempts  to  propose
+hypotheses  and  then  to  test  them.  The  minimum  wage  will  increase
+unemployment; 
+the  implied  warranty  of  habitability  will  result  in
+increased  rents or  a  diminished housing  stock for poor people;  a right  to
+be  protected  against  arbitrary  discharge  will  make  employers  more
+reluctant  to  hire  people  in  the  first  instance.  To  have  a  testable
+hypothesis,  the  analyst  must  make  parsimonious  assumptions.  With  a
+"full"  or  "rich"  account,  we  might  be  able  to  capture  the  nature  of
+practical  reason;  but  it is  unlikely  that  we  will  be  able  to  generate  and
+then  to  test  hypotheses. 
+I  will  simply  assert,  without  defending  the
+point,  that  with  respect  to  positive  and  prescriptive  work,  EAL  has
+produced  extremely  important  advances,  and  it  is  the  best  (indeed  the
+only)  game  in  town.  At  the  same  time,  the  predictions  are  often  quite
+crude,  involving  the  direction  of  effects  rather  than  their  magnitudes,
+
+3. 
+
+See  Eric  Rasmusen,  The Economics of Desecration: Flag Burning and Related
+
+Activities, 27  J.  LEGAL  STUD.  245  (1998).
+
+HeinOnline  -- 19 QLR 336 2000
+
+20001
+
+ON PHILOSOPHY  AND  ECONOMICS
+
+and  the  bare  notion  of  "rationality"  is  often  too  thin  and  formal  to
+produce  robust  predictions.4
+
+Whether  positive  or  normative,  economics  tend  to  work  from  a
+simple  foundation,  involving  the  idea  of  "preferences."  People-it  is
+assumed-"have"  preferences,  and  they  seek to  satisfy  them.  This  idea
+plays  a  central  role  in  EAL.  The  best  defense  of  the  assumption
+involves  the  goal  of  parsimony.  But  there  is  ambiguity  in  the  very
+notion  of  a  "preference."  Sometimes  the  term  preference  refers  to
+"choices";  sometimes  it  refers  to  the  motivations  that  lie  behind  and
+help  explain  choices.  Thus,  it might  be  said,  John  prefers  chocolate  to
+vanilla,  because  (and  to  the  extent  that)  John  chose  a  chocolate  cone
+over a  vanilla  cone; or  it might  be  said that  the  reason for this  choice  is
+that John likes chocolate  best.5
+
+All this raises  an  obvious question:  What  are people's  preferences?
+To  get either  prescriptive  or positive  work  (or  for that  matter  normative
+work) off the ground,  this  question  has  to be  answered.  Some economic
+analysts  of  law  seem  to  say  or  to  assume  that  people  are  rational,  self-
+interested  profit  maximizers-or  simply  to  say  or  assume  that  people
+want more  money  rather  than  less.  For  many  purposes,  an  assumption
+of  this  sort  is  sufficient  to  produce  progress;  consider  the  question
+whether  compulsory  seats  for children  on  airplanes  will  increase  safety,
+or  whether  doubling  the  minimum  wage  will  increase  unemployment.
+But  three  issues  arise  at  this  stage,  and  in at  least  some  contexts,  these
+issues  appear  important.  First,  the  term  "rational"  has  to  be  specified,
+and  it  might  be understood  in  many  different  ways.  Sometimes  people
+do  not seem  rational  in  the  sense  assumed.  They  rely  on heuristics,  or
+rules  of  thumb,  that  lead  to  errors;  they  show  biases  and confusions  of
+multiple  sorts.7  Second,  sometimes  people  seem  concerned  with  things
+other  than  self-interest,  narrowly  construed;  they  are  sometimes  willing
+to  sacrifice  material  self-interest  for  the  sake  of  other  goals,  including
+reputation,  status,  and  fairness.' 
+Third,  sometimes  people  show
+bounded  willpower;  they  can  be  myopic  or  impulsive,  and  they  may
+even take  steps to counteract  these  tendencies.
+
+4.  See  Christine  Jolls  et  al.,  A  Behavioral Approach  to  Law and Economics, 50
+
+5.  The distinction  is  discussed  in CASS  R.  SUNSTEIN,  FREE  MARKETS  AND  SOCIAL
+
+STAN.  L. REv.  1471,  1485-89 (1998).
+
+JUSTICE  ch.  2  (1997).
+
+6.  See Jolls  et  al.,  supra note 4.
+7. 
+8.  See  Matthew  Rabin, 
+
+See  id.
+
+Economics, 83  AM.  ECON.  REv.  1281,  1282 (1993).
+
+Incorporating  Fairness  into  Game  Theory  and
+
+HeinOnline  -- 19 QLR 337 2000
+
+QLR
+
+[Vol.  19:333
+
+These  various 
+
+issues-relating 
+
+to  questions  of  rationality,
+willpower,  and  utility  function-have 
+received  considerable  and
+growing  attention  within  economics  and  EAL.  For  example,  Gary
+Becker-a  founder  of and  an  inspiration for EAL-has  worked  with  the
+idea  of an  "extended  utility function"  that includes  people's  concern  for
+things  other  than  self-interest,  narrowly  defined.9   Becker  and  his
+followers  are  well-aware  that  people  are  not  solely  concerned  with
+material  goods.
+
+In  addition,  those  interested  in  behavioral  law  and  economics  have
+argued  that  bounded  rationality  and  bounded  self-interest  raise  serious
+problems  for  some  aspects  of conventional  law  and  economics.'  Thus
+it can be  shown  that people often  care  about being  perceived  as  fair, and
+they  will  sacrifice  their  material  self-interest,  in  some  circumstances,  to
+achieve  this goal.  Work  on prospect  theory  and on heuristics  and  biases
+has raised  questions  about conventional  assumptions  about rationality."
+It is  generally  agreed  that the  future  task is  to go back  and forth  between
+hypothesis  and  data,  to  see what  understanding  is falsified  or  confirmed
+by evidence.  At this  stage  it should  be clear that philosophical  questions
+about what  people really care  about are receiving  considerable  attention;
+the  problem  is  understood  as  an  empirical  one  to  be  resolved  by
+exploring  actual  behavior.  Behavioral  economists,  like  conventional
+economists,  are  interested  in producing  testable  hypotheses.  Sometimes
+the  simple  assumptions  of  conventional  EAL  may  be  enough  for
+positive  and  prescriptive  work;  sometimes  behavioral  work  provides  a
+necessary  corrective.  A  great  deal  of  additional  thinking  and  research
+would  be helpful in  sorting out the resulting questions.
+
+III.  NUSSBAUM'S  PHILOSOPHICAL  CRITIQUE
+
+With  this  as background,  let us  examine some  philosophical  issues.
+Nussbaum  offers  a  number  of challenges  to  what  she  sees  as  economic
+analysis  of law.  The  challenges  can  be  organized  into  three  categories,
+involving  human motivation;  incommensurability  and  plural  utility; and
+deliberation  about  ends  and  agency.  Obviously  these  criticisms  raise
+important  issues  about  how  to  achieve  an  adequate  descriptive  account
+of  practical  reason,  and  they  are  also  significant  from  the  normative
+point of view.  But the  question  is how much  they touch the  positive  and
+
+9.  See GARY  S.  BECKER,  ACCOUNTING  FOR  TASTES  ch.  1 (1996).
+10. 
+11. 
+
+See Jolls et al.,  supra note 4,  at  1485-89.
+See id.
+
+HeinOnline  -- 19 QLR 338 2000
+
+2000]
+
+ON  PHILOSOPHY AND  ECONOMICS
+
+tasks  of  economic  analysis  of  law,  and-since  most
+prescriptive 
+economic  analysis  is  both  positive  and  prescriptive-to  what  extent
+they work  as convincing  criticisms  of most of economic  analysis  of law
+in  its  current  form.  How  do  these  points  work  as  objections  to
+conventional  economic  analysis?  How  might  they be  made  into  a basis
+for  better  prescriptive  and  positive  work?  To what  extent  can  they  help
+in  the creation  of testable hypotheses?
+
+A.  Human Motivation
+
+Nussbaum  complains  of  the  "reduced  number  of  explanatory
+Indeed,  the  capacious  category  of
+entities  behind  human  action. 
+'preference'  seems  to  cover  all  of the  psychological  underpinnings  of
+action, both  cognitive  and  conative."' 2  By  contrast,  philosophers  "have
+agreed that  the explanation  of human  action requires  quite  a few distinct
+concepts,"  including  "belief, desire, perception,  appetite,  and  emotion-
+at the  very  least."'' 3  Similarly, Nussbaum  objects  that homo economicus
+"is  a  self-interested  maximizer  of  his  own  satisfactions";  that  under
+EAL,  altruism  is  "reduced  to  a  type  of egoism,  in  which  people  get
+reputational  or  psychic  goods  for themselves";  and  that  it  is  necessary
+at  a  minimum  to  recognize  "sympathy  and commitment  as  independent
+sources  of motivation."
+
+It  should  be  granted  that  in  order  to  have  a  good  descriptive
+the  various  ingredients  of
+account  of  people's  self-understandings, 
+motivation  must be  disentangled  from one  another.  But  the  degree  of
+refinement  depends  on  the  author's  particular  task;  a  novelist  (Henry
+James  is  an  obvious  example)  may  be  concerned  to  offer  an  especially
+fine-grained  account,  while  a  philosopher  may  reject  the  coarsest
+accounts  while  offering  a  manageable  number  of  distinctions.  An
+economically  oriented  analyst  of the law has  a different  task, and  should
+not be  taken as  a philosopher  manqu6.
+
+that  economists  set  for 
+
+The  question  is  what  account  of  motivation  is  helpful  for  the
+Perhaps  a
+particular  tasks 
+parsimonious  account  will  do  and  be  especially  useful  by  virtue  of its
+simplicity.  For example,  how much  must be posited about motivation  in
+order  to  know  the  effects  of  a  law  increasing  the  minimum  wage,  or
+imposing a  warranty  of habitability,  or allowing  workers  to  cartelize,  or
+If  economists  offer  a  simple  account  of
+increasing  cigarette  taxes? 
+
+themselves. 
+
+12.  Flawed Foundations, supra note  2,  at  1208.
+13. 
+
+Id. at  1209.
+
+HeinOnline  -- 19 QLR 339 2000
+
+QLR
+
+[Vol.  19:333
+
+motivation-that  people  want,  in  these  contexts, 
+their
+profits-why  and how  will they  go  wrong?  It  is  not clear  how  a  richer
+understanding  of  motivation  will 
+to  better  predictions  and
+prescriptions,  at  least  in  areas  of this  kind.  At  least  the  philosopher-
+critic  might  want  to  go  through  such  areas  to  see  what  account  of
+motivation  will lead to  better predictions.
+
+to  increase 
+
+lead 
+
+Nussbaum  can be  understood  to  be  making  several  different  points
+
+here;  they  should  be addressed  independently.
+
+1.  She  might  be  saying  that  economists  do  not  understand the
+complex  subdivisions  of people's  motivations.  This  may  or  may  not be
+true;  the  economist may  say,  plausibly  enough,  that  she is  working  with
+a  simple  account  to  see  where  it  leads  (in  terms  of  predictions  or
+prescriptions).  Whether  the  simple  account does  well  depends  on  what
+the  evidence  shows.  A  complex  account-involving  "belief,  desire,
+perception,  appetite,  and  emotion-at  the  very  least"-is  not  likely  to
+do  better  and  may  well  do  worse,  simply  by  virtue  of its  complexity.
+(Are  the  distinctions  among  desire,  appetite,  and  emotion,  for example,
+important for  the positive  and  prescriptive  work of economic  analysts of
+law?  Exactly  where  do  they  go  wrong  when  they  ignore  those
+distinctions?  Do these  distinctions  matter for purposes of understanding
+the  effects  of a  regulation  requiring  parents  to  purchase  seats  for  their
+children on  airplanes?)
+
+2.  Nussbaum  might  be  arguing  that  people  are  not  egoists,  that is,
+they care  about the  well-being  of others.  This  is  sometimes  true,  and as
+noted  it  is  a  chief inquiry  of  behavioral  economics  and  in  the  recent
+work  of  Gary  Becker.  Perhaps  some  economic  analysis  goes  wrong
+because  it disregards  the  existence  of altruism; 4 but  this  does  not seem
+to  be  a  challenge  to  economic  analysis  of  law  as  such.  It  is  instead  a
+point  about  the  actual  contents  of people's  utility  functions.  The  point
+may be important;  perhaps  people will not behave  in the predicted  ways
+precisely  because  they  care  about others.  But  then  the  natural  question
+arises:  Where,  concretely,  does  Nussbaum  think that  economic  analysts
+have  gone wrong  because  of their failure  to understand  altruism  or other
+motivational  forces?  To  answer  this  question,  undoubtedly  it  will  be
+necessary  to  be  highly  particular  and  concrete,  and  undoubtedly  to
+distinguish  among different  areas.  In family law,  there  is probably  more
+altruism  than  in  commercial  transactions.  A  casual  survey  of articles  in
+
+14. 
+
+See Jolls et al.,  supra note  4,  at  1485-89.
+
+HeinOnline  -- 19 QLR 340 2000
+
+20001
+
+ON  PHILOSOPHY  AND  ECONOMICS
+
+the  Journal of Legal  Studies and  the  Journal of Law  and Economics
+suggests  that very  few,  if any,  of the  articles  are  vulnerable  to  this  kind
+of critique.
+
+3.  Nussbaum  might  be  saying  more  specifically  (with  Amartya
+Sen 5)  that  sympathy  (a  regard  for  the  well-being  of  others)  and
+commitment  (a  belief in  certain  principles)  can  motivate  human  action.
+Sympathy  and  commitment  are  qualitatively  different  from  "tastes"  or
+"desires."  For  some  purposes  this  is  both  true  and  important.  But  for
+purposes  of  predicting  behavior,  when  is  it  necessary  to  emphasize  this
+point? 
+Is  this  important  to  understand  the  effects  of  a  change  in  the
+Clean  Air  Act  or  an  increase  in  the  minimum  wage  or  of a  rent  control
+law?  This  is  an  empirical  question,  and  perhaps  the  answer  is  not
+straightforward.  The  question,  for  those  pressing  this  challenge,  is
+whether  it  can  be  turned  into  testable  hypotheses  that  perform  better
+than conventional  economic  hypotheses.  This is  in a  sense exactly  what
+behavioral  economics,  and  those  interested  in  behavioral 
+law  and
+economics,  are trying  to do.
+
+Nussbaum  is  right  to  argue  that  people  sometimes  behave  in
+accordance  with  nonmaterial  incentives.  Perhaps  they  do  not  breach
+contracts,  even  though  it 
+is  efficient  to  do  so,  because  of  their
+commitment  to  certain  principles,  or because  of  reputational  incentives.
+If  this  is  a  philosophical  point,  it  is  also  a  way  of starting  to  frame  a
+hypothesis,  which  might actually  be  tested.  Someone  interested  in  EAL
+would  ask:  To  what  extent  is  this  true?  And  if  it  is  true,  how  is
+economic  analysis  impaired?
+
+Suppose,  for  example,  that we think  of an  extended  utility function,
+including  not  only  material  self-interest but  also  a  taste  for fairness.  As
+noted,  much  of  behavioral  economics  has  been  concerned  with  this
+issue.  How,  if at all, does  the extension  of the  utility function  adversely
+affect  EAL?  Nussbaum  gives  few  examples. 
+that
+Nussbaum's  discussion  of  human  motivation  makes  some  valuable
+points;  that  those  points  work  against  some  cruder  hypotheses  in  EAL;
+but  that  they  do  not  amount  to  a  general  or  fundamental  criticism  of
+EAL,  because  Nussbaum's  concerns  have been  taken  up both  by  Becker
+and  his  followers  and  by  those  interested  in  behavioral  economics.  A
+lurking  question  is  whether  a  fine-grained  philosophical  account  of
+motivation is  by  itself too fine-grained  to  be a  basis for predictive  social
+science.  The  question  for the  future  is  whether philosophical  challenges
+
+I  conclude 
+
+15. 
+
+See  Amartya  K.  Sen,  Rational  Fools:  A  Critique  of  the  Behavioral
+
+Foundations of Economic Theory, 6  PHIL.  & PUB.  AlT.  317,  317-44  (1977).
+
+HeinOnline  -- 19 QLR 341 2000
+
+QLR
+
+[Vol.  19:333
+
+of this kind  can  be  used  in  that  way.  What  can  philosophers  add  to  the
+economic  picture of motivation,  in  such a  way  as  to produce  hypotheses
+that might  be tested  and  shown to  be correct?
+
+B.  Commensurability and Plural Utility
+
+Nussbaum  believes  that a  "commitment  to the commensurability  of
+all  an  agent's ends  runs  very deep"  in  EAL.  She  links  this commitment
+with  the  project  shared  by  Plato  and  Sidgwick,  a  project  that  is,  in  her
+view,  "radically  revisionary,"  rather  than  merely  reportorial  of  how
+people  are. 16  It  follows  that  what  EAL  does  is  to  envision  a  "a  world
+remade,  not  the  world  we  live  in."  Thus  EAL  adopts  "a  perspective  of
+lofty  detachment"  that  "has  flattened  and  simplified  things  that  are
+usually  messy  and  real."' 7 
+In  support  of  her  challenge  to  EAL,  she
+claims  that  this  criticism  "is  by  now  a  common  point  in  mainstream
+economics,"  and  invokes  Amartya  Sen's work  on  "plural utility,"  which
+sees  utility  "primarily  as  a  vector  (with  several  distinct  components),
+and  only  secondarily  as  some homogenous  magnitude."' 8
+
+Here  too  we  need  to  make  some  distinctions.  There  need  be  no
+quarrel  with  Nussbaum's  claim that  an  adequate  view  of people's  self-
+understandings,  or of practical  reason,  will raise  doubts  about the  view
+that  all  human  goods  are  commensurable. 9   And  I  agree  with
+Nussbaum's  argument  that  a  world  of genuine  commensurability  would
+represent  a  revision  (for  the  worse)  of our  actual  experience,  a  revision
+that would  make  much  of that  experience  unrecognizable . 2  But it  is not
+clear  that EAL  is really  committed  to  denying  this  point;  recall  that it  is
+working  with  parsimonious  assumptions  in  order  to  make  predictions.
+Thus  the  question  is  this:  In  what  sense  and  to  what  extent  is  an
+emphasis  on  incommensurability  and  plural  utility  a  criticism  of EAL,
+
+16.  Flawed Foundations, supra note  2,  at  1199.
+17. 
+
+Id.; see also ELIZABETH  ANDERSON,  VALUE  IN  ETHICS  AND  ECONOMICS  (1993).
+I believe  that  Anderson's  influential  and  very  illuminating  book  also  misconceives  the
+project  of  much  economic  thinking,  which  is  to  generate  predictions.  Her  account  of
+rationality offers  many  insights into  practical  reason,  but it  is not  at all clear  that  it could
+generate  any predictions  at  all.
+
+See Amartya  Sen,  Plural Utility, 81  PROC.  ARISTOTELIAN  SOC'Y  193,  193-215
+
+See ELIZABETH  ANDERSON,  VALUE  IN  ETHICS  AND  ECONOMICS  (1993);  JOSEPH
+RAz,  THE  MORALITY  OF  FREEDOM 
+(1986);  see  also  Matthew  Adler,  Law  and
+Incommensurability:  Introduction,  146  U.  PA.  L.  REv.  1169  (1998) 
+(introducing
+Symposium  on  Law  and  Incommensurability);  Cass  R.  Sunstein,  Incommensurability
+and Valuation in Law, 92 MICH.  L.  REv.  779  (1994).
+
+20.  See RAz,  supra note  19  (discussing constitutive  incommensurability).
+
+18. 
+(1981)
+19. 
+
+HeinOnline  -- 19 QLR 342 2000
+
+2000]
+
+ON PHILOSOPHY  AND ECONOMICS
+
+is 
+
+less  clear.  Nussbaum  contends 
+
+especially  insofar  as  it  is  engaged  in  positive  and  prescriptive  tasks?
+This 
+that  an  assumption  of
+commensurability  is  "too  simple  to  lead  to  illuminating  and  pertinent
+prediction."  This  is  plausible  in  some  settings;  perhaps  a  claim  of the
+commensurability  of  all  outlets  for  sexual  gratification  will  make
+predictive  mistakes.2'  (It is not clear that  these  mistakes  are  a result  of a
+commitment  to  commensurability  or instead  a  misspecification  of what
+is  included  within  most  agents'  utility  functions.)  But  when?  And
+when  is  the  daily  work  of  EAL  undermined  by  its  assumption  of
+commensurability?
+
+Let us  assume,  for example,  that observers  are  trying  to  predict  the
+effects  of  the English  Rule  (requiring  losers  to  pay  attorney's  fees  and
+costs)  on  plaintiffs  who  have  a  low probability  of prevailing,  or that  we
+are  interested  in  knowing  the  consequences  of  final-offer  arbitration,  or
+that  we  want  to  know  what  will  happen  to  marriage  rates  when
+contraception  is readily  available,  or that we are  trying  to figure  out  why
+central  banks  are 
+to
+the  consequences  of  a  mandatory  paid-leave  program.
+understand 
+(These examples  are  chosen from  a random  sampling of recent  papers  in
+EAL.)  In these  contexts,  does  an  emphasis  on incommensurability  and
+plural utility  undermine  in  any  way  EAL?  Does such  an  emphasis  help
+to produce  testable hypotheses  that compete  with those  of EAL?
+
+the  government  seeks 
+
+independent,  or  that 
+
+I  do  not  mean  to  suggest  that  this  question  has  no  answer-only
+that  philosophers,  including  Nussbaum,  have  not  provided  one.  Her
+discussion  of  incommensurability  and  plural  utility  operate  at  a  high
+level  of  abstraction  and  seem  to  engage  mostly  descriptive  questions
+about  practical  reason,  and  also normative  issues.  But  here  is a  possible
+place  where  Nussbaum  might  look  for  support. 
+In  some  contexts,
+people  seem to  think  certain reasons  for action  are  entirely  inadmissible;
+they  are  blocked,  not outweighed.2  People  may think,  for  example,  that
+they will  not gossip  about  a friend's  misfortune  simply  because  it is  fun
+to  do  so,  or  that  they  will  steal  a  book  from  a  friend's  office  simply
+because  they  know  that  they  would  love  that  book  (while  the  friend
+doesn't  much  enjoy  owning  it).  Their  refusal  to  make  all  goods  and
+options  commensurable  is  accompanied  by,  or  helps  generate,  a  series
+of excluded reasons for action.23
+
+21.  Cf.  RICHARD  A.  POSNER,  SEX AND  REASON  (1992).
+22.  See  JOSEPH  RAZ,  PRACTICAL  REASON  AND  NORMs  34-48  (1975)  (discussing
+
+exclusionary  reasons).
+
+23. 
+
+See id.
+
+HeinOnline  -- 19 QLR 343 2000
+
+QLR
+
+[Vol.  19:333
+
+I  am  not  sure  that  whether  and  to  what  extent  this  phenomenon
+makes  trouble  for the conventional  uses  of EAL, but it is  possible that  it
+does  so  in  some  important  settings.  At  the  very  least,  it  raises  some
+difficulties  with  the  (normative)  claim  that  cost-benefit  analysis  should
+be  the  foundation  for policy.  Some  things  for  which  people are  willing
+to  pay ought  not to  count as  reasons  for action;  consider  a desire  not  to
+see  flag-burning,24  or  racial  intermarriage. 
+In  addition,  the  metric  of
+dollars  elides  important  qualitative  differences  among  social  goods,  and
+people  ought  to  see  those  good  for  themselves. 2
+'  These  points  do  raise
+questions  about  cost-benefit  analysis  as  a  normative  foundation  for
+policy.  But as  I have emphasized,  most  uses  of EAL do not involve  that
+normative  foundation;  they  involve  instead  positive  and  prescriptive
+issues.  It  remains  to  be  seen  how  economic  analysis  of these  issues  is
+adversely  affected  by  ignoring  problems  of incommensurability  and  the
+possibility  of "plural  utility."
+
+C. Ends: Of Deliberation and Agency
+
+Nussbaum  believes  that  economists  and  rational  choice  theorists
+share  a  "dogma"  to  the  effect  "that  we  can  deliberate  rationally  only
+about the instrumental  means  to ends,  and  not  about  the content of ends
+themselves."  She  says  that  the  dogma  "relies  on the  idea  that  our ends
+are  hard-wired  by  exogenously  given 
+that
+philosophers  like  David  Wiggins  and  Henry  Richardson  have  shown
+that people  "do  deliberate  in life, in  [a]  holistic manner  that  seeks  broad
+coherence  and  fit among  our ends  considered  as a  group. 26  In her view,
+EAL  "cannot  afford  to  proceed  as  though  all  these  arguments  do  not
+exist."  In a  similar vein  she thinks  that people  are  not merely  concerned
+with  end-states  but  also  with  their  own  agency,  which  they  "value  and
+pursue."  The  key  problem  here  is  that  EAL  focuses  "on  well-being  to
+the  exclusion  of  agency,"  something  that  Nussbaum  thinks  produces
+predictive,  explanatory,  and  normative  problems.
+
+tastes."  She  believes 
+
+From  these  points,  I  am  not  sure  exactly  what  Nussbaum  thinks
+that  economic  analysts  of  law  are  doing  wrong.  She  appears  to  think
+that  those  analysts  think  that  all  tastes  are  "hard-wired."  But  few
+economic  analysts  make  this  (utterly  implausible)  claim.  Some  tastes
+are  of course  hard-wired;  there  is much  room  to  debate  how  many,  and
+
+See  Rasmusen, supra note  3,  at 245.
+See  Sunstein, supra  note  5, ch. 4.
+
+24. 
+25. 
+26.  Flawed Foundations, supra note  2,  at  1208.
+
+HeinOnline  -- 19 QLR 344 2000
+
+20001
+
+ON  PHILOSOPHY AND  ECONOMICS
+
+which,  have biological roots.  But for  purposes of most  EAL, the answer
+to  that debate  does  not seem  to  matter  much  (except  to  the extent  that it
+is  being assumed  that tastes,  because  hard-wired,  cannot  be  changed;  of
+course  government  can  affect  choices  even  with  respect  to  hard-wired
+tastes,  by  raising  the  price  of some  choices  and  decreasing  the  price  of
+others).
+
+A  second  possibility  is  that  Nussbaum  is  urging  that  tastes  are  not
+"fixed."  This complaint  seems  right, in the  sense  that sometimes  neither
+choices  nor  motivations  are  unmalleable;  and 
+the  complaint  is  a
+reasonable criticism of some  conventional  EAL.  Consider,  for example,
+the  fact  that  the  initial  allocation  of  an  entitlement  may  affect  both
+choices  and  tastes,  and  the  possibility  that  laws  forbidding  employers
+from  firing  workers  without  cause,  or  requiring  recycling,  may  affect
+both  preferences  and  decisions.  Thus  prescriptive  and  positive  work
+may  go  wrong  if  it  disregards  the  preference-shifting  effects  of  law.
+The  efficiency  consequences  of  legal  rules-even  the  consequences
+themselves-may  be  hard  to  assess,  or  may  have  to  be  assessed
+differently,  if legal  rules  will  actually  change  tastes  and  values. 
+It  is
+possible  that  laws  against  discrimination  will  have  preference-shaping
+effects; 27  so  too  with  laws  forbidding  sexual  harassment;  so  too  with
+laws  regulating  the  content  of  television.  Behavioral  work  has  even
+questioned the  idea of stable, context-independent  preferences .2
+
+in  particular  with 
+
+But  here  we  have  an  empirical  question,  not  a  philosophical
+question:  Under  what  circumstances,  and  why,  do  tastes  change?  This
+question  might  well  be  turned  into  testable  hypotheses.  Both  ordinary
+and  behavioral  economists  have  been  grappling  with  aspects  of  that
+issue  and 
+the  preference-changing  effects  of
+entitlement  allocations. 
+In  any  case,  what  is  important  to  know  is
+when  preferences  are  not  fixed,  and  why,  and  what  changes  them,  and
+how  this  is  relevant  to  the  predictive  tasks  of EAL.  In  some  contexts,
+the  phenomenon  of shifting  tastes  may  not  matter  at  all  to  EAL.  The
+fact  that  preferences  are  malleable  does  not  seem  to  matter  much  to
+analysis  of farm  subsidies  or milk price supports,  for example.
+
+A  third  possibility-and  the one  most  consistent with  the  flavor of
+Nussbaum's  text-is  that  Nussbaum  is  objecting  most  of all  to  the  fact
+
+27. 
+
+See  Gary  S.  Becker,  Nobel  Lecture:  The  Economic  Way  of  Looking  at
+
+Behavior, 101  J. POL.  EcON.  385,  386  (1993).
+
+See  Paul  Slovic,  The  Construction of Preference, 50  AM.  PSYCHOLOGIST  364
+
+28. 
+(1995).
+
+29.  See  RICHARD H.  THALER,  QUASI  RATIONAL ECONOMICS  (1991).
+
+HeinOnline  -- 19 QLR 345 2000
+
+QLR
+
+[Vol.  19:333
+
+that EAL  ignores  the  human capacity  to  choose ends,  rather than  simply
+to  pursue  them. 
+It  is  true  that  people  are  sometimes  self-conscious
+about  their  ends;  but  we  need  to  know  exactly  what  kind  of  criticism
+this  is.  To  be  sure,  some  economists  appear  to  write  as  if  ends  are
+simply  "there"  and  are  not  products  of deliberation  and  choice.  Here
+too  a  descriptive  account  of practical  reason  will  fail  if it  does  not  see
+how this  process occurs.
+
+It 
+
+is 
+
+important 
+
+to  make  some  distinctions  here. 
+
+Consider
+Nussbaum's  claim  that  "this  is  how  we  really  do  deliberate  in  life,  in
+this holistic  manner  that  seeks  broad  coherence  and  fit among  out ends
+considered  as  a  group."  This  appears  to  be  an  empirical  claim;  is  it
+true?  What  evidence  is  there  on  its  behalf?  Undoubtedly  some  people,
+some  of  the  time,  do  deliberate  in  this  way;  but  the  picture  seems  to
+ignore  both  the  (qualitatively  diverse)  costs  of deliberation  and  simple
+self-interest,  which  can  make  people  unwilling  to  be  holistic.  Often
+people  do  not  attempt  to  seek  "holism."  For  present  purposes  the  more
+important question  is  this:  How, exactly,  is the  economic  analysis  of law
+undermined  by  the  fact  that  people  deliberate  about  ends?  The  basic
+method  of EAL  is  to  use  a  utility  function  of  some  kind;  it  does  not
+much  matter  whether the  ends  emerge  from  deliberation,  from  biology,
+from  government  propaganda,  or from Mars.  Most of the  positive  work
+of EAL  seems  unaffected  by  this  fact;  so  too  with  prescriptive  work.
+What remains  to  be seen  is whether  some  positive and  prescriptive  work
+would  look  different  if it  took  on  board  the  fact  that  people  deliberate
+about ends.
+
+Nussbaum  is  surely  right  to  say  that  agency  is  an  important  and
+separable  part  of  well-being.  People  care  not  merely  about  end-states
+but also about their  ability to choose.  But it is not clear how  and  to what
+extent this  is a  criticism of EAL.  The first point  is that the incorporation
+of agency  as  a  part  of  well-being  creates  no  special  problems  for  the
+vast bulk  of work  on  EAL.  The  second  point  is  that,  to  the  extent  that
+economic  analysts  refer  solely  to  end-states,  and  place  no  special
+premium on choice  as  such, there  is certainly  a  problem at  the normative
+level.  But  there  is no  reason  not  to include  agency  as  part  of the  set of
+things  that people  care  about,  as  certainly  they do.  (How much  do they?
+This  is  an  interesting  empirical  issue.)  The  typical  economic  approach
+would  be  to  value  agency,  like  everything  else,  in  terms  of  private
+willingness 
+this  idea  does  raise  serious  normative
+problems.  Not  all goods  should  be  valued from the  standpoint  of private
+willingness to  pay.  But  that is a very  different question.
+
+to  pay.  Now 
+
+HeinOnline  -- 19 QLR 346 2000
+
+20001
+
+ON  PHILOSOPHY  AND ECONOMICS
+
+A  question  for  the  future  is  how  EAL  might  incorporate  people's
+agency,  and  their  protectiveness  of their  own  agency,  into  positive  or
+prescriptive  analysis.  An  interesting  aspect  of  cost-benefit  analysis,
+especially  in the context of environmental  amenities,  attempts  to  do this.
+People  value  not  simply  beaches  and  parks  as  experiences,  but  also  the
+option  to  visit  beaches  and  parks.  Hence  "option  value"  is  a  distinct
+component  of value,  studied  by those  interested  in contingent  valuation
+studies.  Those  studies  raise  many  problems,  but here  at least is  an  area
+in  which  economists  have  been  studying  how  much  people  value
+options.  Perhaps  this  incipient  work  could  be  used  by  EAL  to  obtain
+valuation  of agency  as well as  end-states.
+
+IV.  CONCLUSION
+
+The  most  serious  problems  with  EAL  are  normative,  above  all  in
+the  suggestion  that  all  preferences  deserve  support,  regardless  of  their
+origins  or of the reasons  brought  forward  on  their behalf.  Some  reasons
+for  action  are  properly  blocked,  even  if  they  are  based  on  private
+willingness to  pay.  Sometimes  the  genesis of wants  can help "impeach"
+them.30  There  are positive  and  prescriptive  problems  with  EAL  as  well,
+with  its  conception  of rationality  and  its  understanding  of what  people
+seek to  maximize;  some  of these are  receiving  attention  with behavioral
+economics  and  with the idea of an extended  utility  function.  Sometimes
+the  idea of "preferences"  is  far  too  crude for  normative  or even  positive
+work,  as  where  it  is  not  disaggregated 
+into  intrinsic  value  and
+reputational  value. 
+Further  disaggregations  may  sometimes  prove
+useful.
+
+Nussbaum's  criticisms  of EAL  therefore  contain  some  important
+points,  especially  (not  only)  in  terms  of  capturing  people's  reflective
+self-understandings  and  from  the  normative  point  of  view.  But  the
+criticisms  seem  to  me  overstated,  above  all  because  they  operate  at  a
+high  level  of  abstraction,  do  not  engage  the  day-to-day  work  in  EAL,
+and  fail to  show  that the  criticisms  are well-taken  from the  standpoint of
+positive  analysis  and  predictions,  where parsimony  is  crucial.  To return
+to  my  basic  themes:  What  testable  hypotheses  are  suggested  by  the
+philosophical  critique?  How  does  a  more fine-grained  understanding  of
+human  motivation  falsify  concrete  work  in  economic  analysis?  Why  is
+it  a  problem,  for  predictions  about  the  effects  of  law,  if  values  are
+
+30.  See  JON  ELSTER,  SOUR  GRAPES:  STUDIES  IN THE  SUBVERSION  OF RATIONALITY
+
+(1983);  AMARTYA  SEN,  COMMODITIES AND  CAPABILITIES  (1985).
+
+HeinOnline  -- 19 QLR 347 2000
+
+QLR
+
+[Vol.  19:333
+
+incommensurable,  or  if  people  deliberate  about  ends,  or  if  people  do,
+and should,  care  about their  agency?  Nussbaum  tends  to  read  economic
+analysts  of law  as  if they  were  badly  educated  philosophers,  and  to  see
+EAL  as  if  it were  making  a  set  of philosophical  claims  and  arguments.
+But this is  not its point.
+
+For  the  future,  I  believe  that  a  suitably  advanced  version  of
+behavioral  economics  may  well  meet  most  of  Nussbaum's  complaints
+on  both  the  positive  and 
+the  prescriptive  sides.  Whether  those
+complaints  are correct,  on  those  sides,  depends  on  going back  and  forth
+between  hypotheses  and  evidence;  philosophical  abstractions  will  not by
+themselves  provide  much help.  With respect  to prescriptive  work,  EAL
+makes  important  advances  by  showing  that  certain  means  of achieving
+agreed-upon  ends  will  not accomplish  that goal.  Insofar  as  EAL attempt
+to  posit  a  single  goal  (economic  efficiency)  for  a  well-functioning
+society,  it is  not worth  taking  seriously,  for  reasons  that  Nussbaum  (and
+others)  have  shown;  but  very  little  work  in EAL  depends  on  accepting
+that goal, or even  urges  that it should  be accepted.
+
+tend 
+
+them. 
+
+Economists 
+
+There  are  some  lessons  here  for both  economists  and philosophers,
+and  for  the  appropriate  division  of  labor,  as  well  as  for  constructive
+engagements,  among 
+to  be  simplifiers;
+philosophers  tend  to  be  complicators.  EAL  should  be  taken  to  be
+arguing  about  the  effects  of  legal  rules;  if  simple  assumptions  lead  to
+false  assessments,  then  by  all  means  let  us  see  if  better  assumptions
+would  do  better.  Philosophers  are  in  a  good  position  to  produce  a
+clearer  understanding  of  the  concepts  at  work,  and  of  the  normative
+goals  that  the  legal  system  does,  or  might,  attempt  to  pursue.  What  I
+have  attempted  to  do  here  is  to  suggest  that  many  of  the  apparent
+disagreements 
+are  not
+disagreements  at  all,  but  misunderstandings  about  one  another's  tasks
+and  goals.  To  the  extent  that  there  are  disagreements,  they  might  be
+made  the  basis  for  a  research  program  in  which  alternative  hypotheses
+might be  generated  and  tested.  Productive  collaborations  between  EAL
+and philosophers-long  overdue-might involve  the generation  of those
+alternative  hypotheses  and  an  exploration  of how  they might  be tested.  I
+have  not  described  such  a  research  program  here,  but  I  hope  to  have
+indicated  a  few  places  where  those  interested  in  such  a  program  might
+start.
+
+and  philosophers 
+
+economists 
+
+between 
+
+HeinOnline  -- 19 QLR 348 2000
+
+
