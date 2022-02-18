@@ -1,0 +1,2075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta/>
+    <article-meta>
+      <title-group>
+        <article-title>The Cost-Benefit State</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Coase-Sandor Working Paper Series in Law</string-name>
+          <email>unbound@law.uchicago.edu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Economics</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Cass R. Sunstein, "The Cost-Benefit State", Coase-Sandor Institute for Law &amp; Economics Working Paper No.</institution>
+          <addr-line>39, 1996</addr-line>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Coase-Sandor Institute for Law and Economics</institution>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <fpage>7</fpage>
+      <lpage>48</lpage>
+      <abstract>
+        <p>Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics Part of the Law Commons Recommended Citation</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>Introduction</title>
+      <p>Gradually and in fits and starts, the American regulatory state
+is becoming a cost-benefit state. By this I mean that government
+regulation is increasingly assessed by asking whether the benefits
+of regulation justify the costs of regulation.</p>
+      <p>My goal in this essay is to argue, on both economic and
+democratic grounds, on behalf of this transformation. I attempt
+to bring those arguments to bear on concrete debates over the
+appropriate nature of the emerging cost-benefit state. I will also
+urge a point that is not easily contested: regulatory legislation has
+diverse legitimate purposes, not limited to economic efficiency
+alone. This point does not argue against cost-benefit analysis, but
+it has important implications for the uses and limits of that
+technique. I will also argue against efforts to drown the
+administrative state in paperwork through excessive procedural
+requirements.</p>
+      <sec id="sec-1-1">
+        <title>A. Transformative Developments</title>
+        <p>For many years, those attempting to assess the performance of
+the regulatory state have been interested in statistical measures.
+Gross Domestic Product helps capture economic performance;
+can something similar be used for regulatory initiatives? The use
+of cost-benefit analysis can be understood partly as an effort to
+overcome the interest-based and anecdote-driven nature of
+contemporary regulation in favor of an approach that examines,
+in a readily understandable way, the real-world consequences of
+regulatory initiatives.</p>
+        <p>Within the national government, the cost-benefit principle
+received its most prominent initial recognition via Executive
+Order 12291,1 issued by President Reagan in 1981. At least at the
+* Karl N. Llewellyn Distinguished Service Professor of Law, University
+of Chicago, Law School and Department of Political Science.</p>
+        <p>1 3 CFR 128 (1981).
+symbolic level, the movement in the direction of cost-benefit
+analysis was much accelerated in 1985 with the issuance of
+Executive Order 12498,2 requiring that cost-benefit analysis
+inform the annual regulatory plan to be issued by all executive
+agencies. These initiatives were quite controversial insofar as they
+threatened to delay regulatory requirements and perhaps to
+transfer authority from individual agencies to OMB. But
+Presidents Reagan and Bush, among many others, believed that
+they provided a crucial mechanism by which the White House
+might coordinate and centralize regulation, —and ensure against
+measures that would do more harm than good.</p>
+        <p>Many people doubted whether President Clinton would
+endorse the idea that regulatory judgments should be made with
+close reference to cost-benefit balancing. But despite pressure
+from some environmental organizations, President Clinton’s
+Executive Order 12866,3 issued in 1993, firmly embraces
+costbenefit analysis as a central ingredient in regulatory choice. The
+new Order does make some departures from the Reagan-Bush
+initiatives; but with respect to cost-benefit analysis, the change
+consists principally in references to “equity” and “distributional
+impacts” as relevant factors. These are modest changes. Thus the
+Executive Branch has endorsed cost-benefit balancing for over
+fifteen years, and it seems reasonable to suppose that insofar as
+the White House is overseeing the federal regulatory process,
+cost-benefit analysis will continue to play a central organizing
+role.</p>
+        <p>The executive branch has not acted alone. In reviewing
+regulatory decisions, courts have also enforced a form of
+costbenefit balancing, at least where Congress has authorized them to
+do so.4 Judges have invalidated regulatory action that imposes
+high costs without significant benefits,5 and they have policed
+2 3 CFR 323 (1985).
+3 3 CFR 638 (1993).</p>
+        <p>4 See, e.g., Corrosion Proof Fittings v. EPA, 947 F.2d 1201 (9th Cir. 1991);
+Competitive Enterprise Institute v. NHTSA, 984 F.2d 123 (1992).</p>
+        <p>5 American Petroleum Institute, 448 US 148 (1980); Corrosion Proof
+Fittings v. EPA, 947 F.2d 1201 (9th Cir. 1991); AFL-CIO v. OSHA, 965 F.2d
+962 (11th Cir. 1992).
+agency action to ensure at least a rough kind of proportionality
+between costs and benefits. Sometimes courts have been quite
+aggressive in requiring proportionality as part of their function in
+reviewing agency action to test whether it is “arbitrary, capricious,
+or an abuse of discretion.”6</p>
+        <p>These developments have not meant that the regulatory state
+is now routinely subject to scrutiny for conformity with
+costbenefit criteria (a vague notion, as we shall see). In fact it is not.
+Presidents and courts of course have sharply limited authority;
+they must act consistently with federal statutes, which often
+forbid cost-benefit balancing. Consider, for example, the Clear Air
+Act, the Clean Water Act, the Occupational Safety and Health
+Act, the Delaney Clause, and the Safe Water Drinking Act, many
+of whose provisions ban agencies from balancing costs against
+benefits. It is partly for this reason that the American regulatory
+state contains many regulations imposing costs not justified by
+benefits.7 From existing evidence8 it is possible, moreover, to
+conclude that in spite of the recent executive orders, efforts at
+cost-benefit balancing within the executive branch have been
+sporadic and episodic, and that the highly publicized executive
+orders have served a largely symbolic and aspirational function.
+Hence much of the contemporary interest in regulatory reform is
+directed toward Congress.</p>
+        <p>It is important to say that the national legislature has not
+uniformly rejected cost-benefit balancing. Some statutes enacted
+by Congress appear to contemplate a form of cost-benefit
+analysis.9 More recently, the Unfunded Mandates Act contains
+two potentially relevant “sleeper” provisions, both receiving almost
+no public attention even from specialists, and both growing out of
+the Contract With America. First, significant regulatory actions
+must be accompanied by a statement that includes “a qualitative
+and quantitative assessment of the anticipated costs and benefits
+of the Federal mandate.”10 Under the second provision, all
+agencies must “identify and consider a reasonable number of
+regulatory alternatives and from those alternatives select the least
+costly, most cost-effective, or least burdensome alternative that
+achieves the objectives of the rule.”11 There is an exception if these
+steps are inconsistent with law or if the agency explains why it has
+not chosen that least burdensome alternative; but this provision
+could have significant consequences.</p>
+        <p>In 1995, Congress nearly enacted a new statute that would
+amend all regulatory statutes to contain a cost-benefit
+“supermandate.” If this statute had been enacted, laws now
+calling for various forms of absolutism, or indifference to cost,
+would call for cost-benefit balancing.12 The failure to enact a new
+reform statute in 1995 has spurred fresh interest in solutions to
+modern regulatory problems.</p>
+      </sec>
+      <sec id="sec-1-2">
+        <title>B. Democracy, Efficiency, and Excessive Procedural Demands</title>
+        <p>Cost-benefit requirements are of course most easily justified
+on economic grounds, as a way of promoting economic efficiency
+and thus eliminating unnecessary and wasteful public and
+private expenditures. But cost-benefit requirements also have
+strong democratic justifications. Indeed, they can be understood
+as a way of diminishing interest-group pressures on regulation
+and also as a method for ensuring that the consequences of
+regulation are not shrouded in mystery but are instead made
+available for public inspection and review. Some of the strongest
+arguments for cost-benefit requirements are not so much
+economic as democratic in character.</p>
+        <p>
+          The economic and democratic arguments for the emerging
+cost-benefit state should be qualified by reference to three points,
+and I urge that these points should be kept in mind during the
+process of regulatory reform. First, cost-benefit analysis ought not
+to be taken to impose undue procedural requirements on agencies.
+Government inaction has costs of its own; it may allow severe
+10 2 USC 202(a)(
+          <xref ref-type="bibr" rid="ref36">2</xref>
+          ).
+11 2 USC 202 (a)(
+          <xref ref-type="bibr" rid="ref19 ref37">3</xref>
+          )-(
+          <xref ref-type="bibr" rid="ref38">4</xref>
+          ).
+        </p>
+        <p>12 See Cass R. Sunstein, Congress, Constitutional Moments, and the
+Cost-Benefit State, 48 Stan L Rev 247 (1995).
+problems to continue; and some forms of cost-benefit analysis
+actually fail cost-benefit analysis. They impose extensive
+informational demands on agencies. They create excessive delay.
+They obstruct desirable regulation. Thus efforts at regulatory
+reform should avoid the pervasive risk of excessive proceduralism.</p>
+        <p>The second point stems from the fact that some of the most
+promising strategies for regulatory reform require a shift from
+command-and-control regulation to economic incentives. In
+these circumstances, cost-benefit analysis should not be taken as
+a modest, procedural step designed to engraft new
+informationgathering requirements on top of existing regulatory tools. On the
+contrary, it should be part and parcel of a more ambitious and
+thorough-going effort to move toward new and better tools, often
+replacing federal command and control with disclosure remedies
+and with economic incentives. The shift from
+command-andcontrol to more flexible methods of obtaining regulatory goals
+should, in short, be a central part of the cost-benefit state.</p>
+        <p>Third, any transformation of the modern regulatory state
+should recognize that by itself, the bare idea of cost-benefit
+analysis lacks a theory of how, and how much, to value social
+goods. Balancing all relevant variables is of course sensible; but
+which variables are relevant, and how should they be valued?
+Economists have some instructive answers, and I will discuss
+some of those answers below. But in its most rigidly economistic
+forms, cost-benefit analysis raises serious problems, since it values
+all regulatory consequences under the rubric of private
+“willingness to pay.” The willingness to pay criterion has many
+uses, and sometimes it should indeed be the foundation for
+decision. But that criterion does not capture all of the values that
+underlay modern regulation, and sometimes it should be used
+only to provide information, and not as the foundation for
+decision. I attempt to explain below how this point bears on
+regulatory reform.</p>
+      </sec>
+    </sec>
+    <sec id="sec-2">
+      <title>I. The New Deal and Its Aftermath: A Very Brief Tour</title>
+      <p>Emerging national enthusiasm for cost-benefit balancing
+should be understood against the backdrop set by Franklin
+Delano Roosevelt’s New Deal, which was of course a substantial
+reformation of the original constitutional structure.13 The New
+Deal qualifies as a substantial reformation above all because it
+refashioned the three basic cornerstones of that structure:
+federalism; checks and balances; and individual rights.</p>
+      <p>To compress a long story: In the 1930s the powers of the
+national government were expanded in an extraordinary way, to
+the point where the nation exercised something close to general
+authority to control whatever problems it sought to address. The
+framers’ original understanding of a sharply constrained central
+government was therefore repudiated by the nation. There were
+simple grounds for this repudiation. State autonomy seemed an
+obstacle to democratic self-government, not a crucial part of it—
+especially in the midst of the Depression, when states were
+generally perceived as ineffectual entities buffeted about by private
+factions. (Of course we have come to see that the national
+government may suffer from the same problem.) As a result of the
+New Deal, state autonomy was very different in 1940 from what it
+had been in 1920.</p>
+      <p>During the New Deal, the system of checks and balances also
+came under sharp criticism. To many observers, especially during
+the Depression, that system seemed dysfunctional for modern
+society.14 Good businesses do not operate through checks and
+balances; why should good governments paralyze themselves in
+this way? Responding to such questions, Congress delegated
+enormous, often open-ended policymaking power to the President
+and also created a large number of powerful executive and
+independent agencies. Crucially, Congress attempted to design
+these agencies so as to limit the consequences of the system of
+checks and balances by allowing a high degree of administrative
+autonomy. Thus the new agencies had a large degree of
+discretionary authority under open-ended statutory standards.
+They also combined traditionally separated powers of
+13 See B. Ackerman, We the People vol. 1 (1993) (discussing New Deal as
+creation of third American constitutional regime). I borrow in this and the
+following section from Sunstein, Congress, Constitutional Moments, and the
+Cost-Benefit State, supra note.</p>
+      <p>14 See James Landis, The Administrative Process (1935), for the classic
+statement.
+adjudication, execution, and legislation. Certainly they were not
+limited by requirements of cost-benefit analysis.</p>
+      <p>These institutional shifts resulted from a central national
+judgment made during the Depression: that individual rights,
+properly conceived, included not merely the common law
+catalogue of private interests but also governmental protection
+against many of the harms and risks of a market economy. The
+common law was a regulatory system enjoying no special status. It
+should be evaluated pragmatically in terms of its consequences for
+the human beings subject to it. Here it often seemed to fail.</p>
+      <p>An astonishing feature of the New Deal was its relative
+rapidity. Many of the changes came in the brief period from 1932
+through 1936. Rapid change was possible partly because it is a
+relatively simple step for a legislature to create a range of new
+bureaucratic institutions, at least if the legislature does not specify
+their duties in advance. The New Deal entities in fact operated
+pursuant to little statutory guidance; Congress usually contented
+itself with open-ended delegations of authority.</p>
+      <p>The New Deal reformation was the foundation for the basic
+orientation of the national government until the election of
+President Ronald Reagan, and possibly since then. One
+development has been of special importance: the “rights revolution” of
+the 1 9 6 0 s and 1 9 7 0 s. During that period, many New Deal
+tendencies were largely reinforced through the creation of a
+remarkable array of new agencies. These agencies were designed
+mostly to protect against threats to life, health, and safety from
+consumer products, workplaces, and above all the environment in
+general.15 Hence this period saw the creation of the
+Environmental Protection Agency, the Occupational Safety and
+Health Administration, the Consumer Protect Safety
+Commission, the Council on Environmental Quality, and more.</p>
+      <p>It is notable that during both the New Deal and the rights
+revolution, no mechanism was created to evaluate regulatory
+performance. There was no system to assess whether agencies
+were making things better or worse. In the New Deal, any such
+system might have seemed peculiar in light of the widespread
+national enthusiasm for the President and for the possibilities of
+15 See Cass R. Sunstein, After the Rights Revolution (1990).
+benign administration. Of course cost-benefit thinking was quite
+foreign to political actors, and hence cost-benefit analysis—which
+in any case had not been “invented” in anything like its current
+form—played little or no role in the public debate.</p>
+      <p>An especially striking feature of the period since 1980 is that
+the New Deal reformation has been subject to sustained national
+criticism, often as a result of a form of “national performance
+review” in which cost-benefit analysis plays a prominent role. It is
+worthwhile to pause over the constitution-like character of recent
+challenges to the current regulatory arrangements. Often it is
+suggested that the national government has far exceeded the
+appropriate limits of its authority, and that a return to the
+original structure would make a great deal of sense.</p>
+      <p>In this way there is a wholesale attack on the existing
+allocation of authority between the national government and the
+states. But “horizontal” issues of government structure are
+receiving similar attention. Many people have expressed concern
+about the extent of policymaking discretion given to regulatory
+agencies.16 In their view, Congress should reassert its
+constitutional prerogatives by narrowing administrative
+discretion. Hence it is urged that the New Deal’s enthusiasm for
+independent bureaucracy, and for a large lawmaking role by
+executive agencies, should be revisited, and that Congress should
+make the fundamental choices of policy.</p>
+      <p>Finally, and perhaps most fundamentally, pre-New Deal
+principles of private right have enjoyed a rebirth with the
+suggestion that modern regulatory programs violate liberty, rightly
+conceived.17 Thus the movement for deregulation has called for
+far more sweeping changes than were urged in the Reagan period
+itself. Thus the takings clause has become a rallying cry for a new
+enthusiasm for the protection of private property—a rallying cry
+that has been brought by way of challenge to such
+wellestablished federal programs as the Endangered Species Act and
+the Federal Water Pollution Control Act’s protection of wetlands.
+16 David Schoenbrod, Power Without Responsibility (1994).</p>
+      <p>17 See Richard Epstein, Simple Rules for a Complex World (1995).</p>
+      <p>Some of the criticisms of regulatory performance have been far
+more pragmatic in character, and it is here that cost-benefit
+balancing, accompanied by risk analysis, has played a special role.
+As I have noted, the New Deal period was accompanied by no
+mechanism for monitoring regulatory performance. But it is now
+suggested that national government has failed adequately to
+perform the tasks assigned to it and that it has often made things
+worse. In this view, there is no suggestion that markets are ideal;
+but often markets work better than the regulatory programs
+designed as solutions. In sum, the question is whether the
+benefits justify the costs.</p>
+    </sec>
+    <sec id="sec-3">
+      <title>II. Post-New Deal Learning About Regulation</title>
+      <p>In the last decade, something very close to a consensus has
+emerged on some of the most important problems in existing
+government regulation. If government were to act on this
+consensus, it would introduce important changes. The consensus
+has the following features.</p>
+      <sec id="sec-3-1">
+        <title>1. Government should engage in better priority-setting.</title>
+        <p>There can be no doubt that resources for risk reduction are
+badly allocated.18 As much as $500 billion may be spent each year
+on regulation (putting benefits to one side),19 and of this amount,
+more than $130 billion is spent on environmental protection.20 A
+recent study suggests that better allocations of existing health
+expenditures could save an additional 6 0 ,0 0 0 lives at no
+increased cost—and that with better allocations, we could save
+the same number of lives we now save with $31 billion in annual
+savings.21</p>
+        <p>There are also serious and apparently unjustified asymmetries
+in life-saving expenditures. For transportation, there is a median
+per life year saved of $56,000; for occupational regulation, the
+number is $3 4 6 ,0 0 0 ; for environmental regulation, it is
+$4,207,000.22 There are enormous variations within each group as
+well. Annual lives saved are highly variable.2 3 Of course
+calculations of costs and benefits are somewhat speculative, and
+these numbers are of uncertain reliability. But with better
+allocations and more deliberative judgments, much could be done
+to make things better by providing more protection at identical
+cost.</p>
+        <p>It is well-known that cost per life saved tables show enormous
+and highly suggestive2 4 : disparities across programs. Some
+regulations cost $100,000 or less per life saved; a number cost less
+than $1 million; many cost between $1 million and $5 million; and
+many range between $5 million and over $1 billion per life saved. A
+single number would not make sense, for reasons that we will
+explore; but these differences suggest that priorities are not being
+set in a sensible fashion.</p>
+        <p>The goal of achieving good priority-setting is undermined by
+the fact that agencies have quite different standards for deciding
+when risks are large enough to require any regulation at all.25 The
+International Commission on Radiological Protection
+recommends that environmental factors should not be allowed to
+cause an incremental cancer risk, for those exposed over a lifetime,
+of about 3 in 1 0 0 0 . American agencies do not follow this
+recommendation, and their own practices are highly variable. The
+Nuclear Regulatory Commission sees 1 in 1000 as acceptable; the
+EPA’s acceptable range varies from 1 in 10,000 to 1 in 1,000,000.
+22 Id.
+23 W. Kip Viscusi, Fatal Tradeoffs, supra, at 264.</p>
+        <p>24 No more than that. To know whether there is cost-effectiveness, it is
+necessary to know more than cost per life saved. It is necessary to know as well
+(at a minimum) cost per unit of benefit; and benefits might include morbidity
+as well as mortality gains, improvements in recreation, mortality and
+morbidity gains for plants and animals, and improvements in aesthetics.</p>
+        <p>25 See Sadowitz and Graham, A Survey of Permitted Residual Cancer
+Risks, 6 RISK 17 (1995).
+The FDA has tried to use a standard of 1 in 1 million, but under
+the Delaney Clause, courts have required a standard of essentially
+0.26 OSHA’s understanding of the “significant risk” requirement
+found in its governing statute means a risk of 1 in 1000; labor
+groups have sought an increase to 1 in 1 million. In the face of
+these variations, sensible priority-setting is unlikely.</p>
+      </sec>
+      <sec id="sec-3-2">
+        <title>2. Government should have a presumption in favor of flexible,</title>
+        <p>market-based incentives rather than rigid commands.</p>
+        <p>Too often government has chosen to regulate through rigid
+commands that forbid more flexible and cost-effective means for
+achieving the same goal. In air and water pollution control,
+serious problems are caused by the “best available technology”
+approach, which mandates control technologies for hundreds or
+even thousands of firms in an exceptionally diverse nation.
+Compare market-based systems, which do not mandate
+particular results but instead impose costs on those who
+contribute to social harms. Consider, for example, a gasoline tax
+or an emissions trading system, by which people are allocated
+licenses that they can trade at a market price. Through such
+strategies, billions of dollars might be saved.27</p>
+        <p>Existing efforts at seeking better regulatory tools are hobbled
+by the statutory status quo, which sometimes forbids such tools,
+and which sometimes requires that they be engrafted on a
+bureaucratically complex system.28 Thus a 1989 study suggested
+that the EPA’s emissions trading program had saved between
+$ 5 2 5 million and $12 billion per year.2 9 Thus the Clinton
+Administration calculates that its market-oriented proposals for
+amending the Clean Water Act could save between $1 and $1 2
+billion over alternative approaches. Thus studies show that
+incentive-based mechanisms for controlling air pollution could
+have accomplished the same amount at one-quarter the cost.30</p>
+        <p>An especially valuable incentive-based approach consists of
+disclosure of information. Government might disclose risk-related
+information on its own, as it has in the case of cigarette smoking,
+or it might require companies to provide such information to
+workers and consumers. If, for example, companies offer
+information about risk, consumer and worker behavior will
+probably be affected. The national government has offered many
+initiatives in this direction. In particular, the Toxic Release
+Inventory of the Superfund Amendments appears to have been
+highly successful, spurring voluntary reductions at relatively low
+cost, and without requiring governmental mandates.31 A great
+deal of work remains to be done in conceiving and designing
+appropriate informational approaches to risk.</p>
+      </sec>
+      <sec id="sec-3-3">
+        <title>3. Government should be aware of, and attempt to counteract,</title>
+        <p>harmful unintended consequences.</p>
+        <p>Many regulatory initiatives have unintended harmful
+consequences, and under existing institutions, there is no systematic
+way to ensure that those consequences receive attention. Hence
+regulation tends to be based on partial perspectives emerging
+from close attention to mere pieces of complex problems. Selective
+attention is a hallmark of almost all current institutional
+arrangements.</p>
+        <p>A particular problem arises from “health-health” tradeoffs,
+which arise when regulation of one health risk increases another
+health risk.32 It is important to ensure that risk regulation does
+not actually increase risks on balance. Suppose, for example, that
+elimination of asbestos—a carcinogenic substance—makes cars
+less safe, because asbestos is the best substance to use in making
+brake linings. Or suppose that the ban on asbestos encourages
+companies to use even more dangerous substitutes. It is
+pervasively true that controls on one risk may increase another
+risk. Unfortunately, risk regulation is not designed with this
+problem in mind.</p>
+        <p>There is also an incipient literature suggesting that regulatory
+expenditures can actually cost lives, since regulatory expenditures
+can produce greater unemployment and hence poverty, and since
+poor people do not live as long as people who are not poor. A
+1990 study attempted to develop a model to quantify the common
+sense view that “richer is safer.”33 According to Keeney, a single
+fatality might result from an expenditure of from $3 million to $7.5
+million. In a concurring opinion in a 1 9 9 1 case involving
+occupational safety and health regulation, Judge Williams
+invoked this evidence to suggest that OSHA’s refusal to engage
+in cost-benefit analysis might not be
+beneficial for workers.34 Judge Williams reasoned that if a fatality
+results from an expenditure of $7.5 million, some regulations
+might produce more fatalities than they prevent. Many
+regulations of course cost more than $7.5 million per life saved (see
+Table 1). In Judge Williams’ view, an agency that fails to measure
+costs against benefits might be failing to measure mortality gains
+against losses.</p>
+        <p>The claimed relationship between wealth reductions and
+mortality is controversial.35 But a number of studies find such a
+relationship. Consider the summary in Table 1.36</p>
+        <p>These findings should be taken with many grains of salt;
+existing evidence is in its infancy. In particular, there is reason to
+believe that expenditures that reduce the income of poor people
+have far more serious mortality effects than expenditures that
+reduce the income of rich people.37 In any case it would certainly
+be good for government to know about unintended adverse
+consequences and to try to counteract them to the extent feasible.
+There is now no systematic mechanism by which government
+regulators can be made attentive to harmful unintended
+consequences.</p>
+      </sec>
+      <sec id="sec-3-4">
+        <title>4. Government needs more information, and it should create</title>
+        <p>better incentives to compile and provide accurate
+information.</p>
+        <p>Often government lacks information about the harms that
+regulation is designed to counteract. Often it must act, or fail to
+act, in a context of a considerable scientific uncertainty. It
+follows that</p>
+        <p>37 See Chapman &amp; Hariharan, Do Poor People Have a Stronger
+Relationship between Income and Mortality Than the Rich?, 12 J Risk &amp;
+Uncertainty 51 (1996).
+any exercise of quantification can be illusory, or at least give the
+impression of far more knowledge than people actually have.</p>
+        <p>In these circumstances government should put a high
+premium on acquiring as much accurate information as possible.
+Much of the relevant information can be found in the private
+sector, which is in the best position to know about the costs of
+controlling risks and about actual emissions levels. The current
+regulatory structure does not create good incentives for compiling
+accurate information on these counts; indeed, it creates incentives
+to distort the facts. Hence industry faces incentives to report that
+the costs will be far higher than they will actually be.38 It certainly
+does not encounter proper incentives to compile more information
+than is now available. Of course there is an omnipresent risk that
+governmental risk analysis will be skewed by well-organized
+private interests.</p>
+        <p>38 See, e.g., Cotton Dust: An OSHA Success Story?, in W. Kip Viscusi,
+Fatal Tradeoffs (discussing the extreme overstatement of compliance costs by
+industry).</p>
+      </sec>
+      <sec id="sec-3-5">
+        <title>5. Technocratic, economic, and democratic judgments all have</title>
+        <p>their appropriate place.</p>
+        <p>It seems clear that government should respond to reasonable
+judgments about risk; but whose judgments should be counted as
+reasonable? Countless studies have shown that there are
+systematic differences between expert and citizen judgments
+about risk.39 This is one of the most robust findings in an
+extensive literature. Consider Table 2.</p>
+        <p>What is the reason for these differences? Some of them are
+attributable to citizens’ ignorance of the facts. The ignorance has
+many sources, including sensationalistic media reports and
+heuristics that produce systematic biases.40 Thus people tend to
+think that an event is more likely when it is “available,” that is,
+when its occurrence can come readily to mind. It may be for this
+reason that people think that deaths from accidents occur much
+more often than deaths from disease, when in fact the numbers
+are about the same. The availability heuristic suggests that what
+people think will be partly an artifact of what the media
+emphasize. Notably, the media tend to emphasize unusual and
+provocative events rather than chronic risks.4 1 The result is
+substantial distortions in policy, reflected in the “pollutant of the
+month” syndrome that characterizes regulatory responses.
+6. Chemical leaks from underground storage tanks</p>
+        <p>Medium-to7. Pesticides
+8. Pollution from industrial accidents
+9. Water pollution from farm runoff
+10. Tap water contamination
+11. Industrial air pollution
+12. Ozone layer destruction
+13. Coastal water contamination
+14. Sewage-plant water pollution
+15. Vehicle exhaust
+16. Oil spills
+17. Acid rain
+18. Water pollution from urban runoff
+19. Damaged wetlands
+20. Genetic alteration
+21. Non-hazardous waste sites
+22. Greenhouse effect
+23. Indoor air pollution
+24. X-ray radiation
+25. Indoor radon
+26. Microwave oven radiation
+low
+High
+Medium-toMedium
+High
+High
+High
+Low
+Medium-toHigh
+Medium-toHigh
+Medium
+Low
+Low
+Medium-toLow
+High
+Not ranked
+High
+Not ranked
+low
+low
+low
+low</p>
+        <p>When citizens misperceive the facts, government should not
+respond to them. Citizen judgments that are based on mistaken
+beliefs should be corrected through education. And when they are
+mistaken, government should try to act on the basis of reality
+rather than fiction. For public judgments to govern, it is
+important to ensure that they are undergirded by sound science,
+as opposed to sensationalistic anecdotes or scare tactics. There is
+nothing undemocratic about a governmental refusal to respond to
+a demand for regulation that is based on factual ignorance. On
+the contrary, a system of representative democracy has as one of
+its central justifications the “filtering” of ignorant judgments.</p>
+        <p>But this is only part of the story. Some of the differences
+between citizens and experts have nothing to do with
+misunderstanding of the facts; they involve values instead.
+Experts focus principally on aggregate lives at stake. By contrast,
+ordinary citizens care about a range of other variables: whether
+risks are equitably distributed, faced by future generations,
+especially dreaded, well-understood, and voluntarily incurred.42
+The psychological research can be summarized in the following
+way:</p>
+        <p>Qualitative distinctions of this kind do not play a role in
+expert assessments. But citizen judgments on these points are
+entirely reasonable. They deserve respect, at least in a democracy.
+It is therefore important to ensure that any regulatory reform
+takes account of public judgments about which risks are most
+severe—so long as those judgments are both reflective and
+informed.</p>
+      </sec>
+      <sec id="sec-3-6">
+        <title>6 . Government should concentrate on basic ends rather than</title>
+        <p>on means.</p>
+        <p>A pervasive problem in federal regulation arises when
+regulatory policy becomes an arena for interest-group struggle.
+This happened most famously with efforts in 1977 to use the
+Clean Air Act to promote the interests of eastern coal43 and, in
+1990, with interest-group lobbying on behalf of ethanol and other
+parochial interests.4 4 Interest-group maneuvering is an
+omnipresent issue in federal regulation.</p>
+        <p>It is possible to limit interest-group power—and at the same
+time to reduce cost—through legislative attention to ends rather
+than to means of achieving those ends. When Congress focuses
+on ends, it makes it less likely that interest-group struggle over
+means will convert regulation into a struggle among groups with
+high stakes in particular means. And when Congress focuses on
+ends, it makes it more likely that the democratic process will be
+attending to the important questions. Thus “performance
+standards” are generally better than “design standards.” What
+matters is whether the level of emissions is low or high, not
+whether the relevant company has installed scrubbers. In general,
+Congress should let administrators decide on the appropriate
+means for reaching legislatively-decreed ends, and administrators
+should, to the extent feasible, be permitted to rely on market forces
+to choose those means. If an industry can comply with a sulfur
+dioxide emission standard with clean coal, or with energy
+conservation methods, government should be entirely satisfied.</p>
+        <p>These, then, are the principal lessons of the last generation of
+experience with regulation. If we keep them in mind, we might
+think that it is well past time to enact what might be described
+metaphorically as an Administrative Substance Act,
+complementing the Administrative Procedure Act, which now
+governs agency behavior. The point of such an act would be to
+capture new learning with respect to regulatory successes and
+failures.</p>
+      </sec>
+    </sec>
+    <sec id="sec-4">
+      <title>III. Cost-Benefit Analysis As A Corrective: Efficiency and Democracy</title>
+      <sec id="sec-4-1">
+        <title>A. Problems and Solutions</title>
+        <p>In light of these considerations, a new and general
+requirement of (some form of) cost-benefit balancing seems a
+natural corrective. Indeed, such a requirement might well
+ensuring close attention to real-world consequences as these can
+be understood through the most sophisticated regulatory tools.
+For committed technocrats, the idea is to discipline the
+administrative state by assessing actual effects. Where the costs
+of regulation are low and the benefits high, nothing is wrong with
+regulation.54 The second strand is reactionary: an effort to
+eliminate regulation whether or not it can be justified. Here
+costbenefit requirements are combined with detailed procedural and
+information-gathering burdens, and also (ironically) with limits
+on appropriations—limits that will make it harder for agencies to
+comply with their new duties. Here the goal is not to improve but
+to obstruct regulation. Thus recent reform proposals have
+included blanket moratoriums on new regulations (a truly crude
+and lazy strategy for “reform”) and costly “look back” provisions
+requiring agencies to do extended analyses of old regulations and
+to defend those analyses in court.</p>
+        <p>In the 1 9 9 0 s, enthusiasm for cost-benefit balancing has
+stemmed from both technocrats and reactionaries.55 Mutually
+beneficial alliances are certainly possible. Good technocrats knows
+that regulation often makes little sense, and good reactionaries
+know that cost-benefit analysis can slow down regulation. But for
+those interested in public-spirited regulatory reform, the task for
+the future is to ensure that technocratic goals predominate.
+Otherwise cost-benefit analysis will simply serve as an obstacle to
+regulation whether or not it is desirable. If this happens,
+costbenefit analysis, as a tool for decisionmakers, will ultimately breed
+public cynicism and distrust. This would be a disaster for those
+who seek to improve administrative performance.</p>
+        <p>For current reformers, a central problem is that cost-benefit
+analysis can result in excessive proceduralism—in the form of
+delay and paperwork requirements unaccompanied by
+corresponding gain. It should be unnecessary to emphasize that
+cost-benefit requirements can impose costly procedural duties on
+agencies, and sometimes it is not clear that those duties produce
+benefits that justify the costs. Cost-benefit analysis will, in some
+forms, fail cost-benefit analysis.</p>
+        <p>There are two more particular problems here. First: If agencies
+are required to compile and compare the costs and benefits of
+every possible variation on a proposal under review, they will
+spend all their time calculating costs and benefits, and there will
+be a large incentive to stick with the status quo whatever its
+content. Existing procedural requirements have sometimes had
+just this effect. If cost-benefit analysis is supposed to be an
+engine for reform, status quo bias would be ironic unintended
+consequence.56 Second: If agencies are required to defend all their
+rules, including existing rules, in complex administrative processes
+and eventually in court, they may spend all their resources in the
+defense of rules and hence in the employment of lawyers. Private
+cooptation of regulatory resources is a serious risk in proposals
+that subject agency decisions to excessive judicial control.</p>
+        <p>Take the first problem first. We can get some purchase on the
+problem by observing that in recent judicial decisions under
+statutes that call for balancing, there has been a tendency to
+require agencies to calculate the costs and benefits of a wide range
+of alternative proposals.57 Naturally agencies resist this step,
+sometimes with the plausible argument that the gain of
+additional information is not worth the costs of acquiring it
+(including the costs of maintaining the status quo in the
+reviewing period). To be sure, the agency might be acting
+arbitrarily if it makes this decision; perhaps it has failed to
+investigate an alternative that is much better and that can be
+investigated cheaply. But courts are in a poor position to know
+whether this is so, and in general their own institutional ignorance
+ought to lead them to accept an agency’s argument to this effect
+unless the argument can be shown to be unreasonable.</p>
+        <p>A broad lesson emerges from this conclusion. Agencies may
+well be reluctant to devote their resources to exploring the costs
+56 See the discussion of status quo bias in J. Mashaw and D. Harfst, The
+Struggle For Auto Safety (1990).</p>
+        <p>57 Corrosion Proof Fittings v. EPA, 947 F.2d 1201 (9th Cir. 1991). See also
+AFL-CIO, supra note.
+and benefits of, say, ten alternatives to the proposal under
+discussion, on the theory that the costs of the exploration would
+not justify the benefits. From this point we can conclude that any
+legislative requirement of cost-benefit balancing should give
+agencies some room to allocate resources as they wish—including
+the investigatory resources that are involved in cost-benefit
+analysis itself.</p>
+        <p>Now turn to the second problem. It is easy to understand the
+impetus toward proposals to require agencies to review existing
+rules. Many such rules no longer make sense; changed
+circumstances have made them obsolete or even
+counterproductive.58 Thus a presidential dictate to agencies to ensure
+against obsolescence would be highly desirable. It would be even
+better for agencies to adopt rules that are likely to make sense over
+time, as in consensus standards that draw on private practices or,
+even better, performance standards that do not make it necessary
+for agencies to change so rapidly over time. Good technocrats are
+well-disposed toward ideas of this sort.</p>
+        <p>But a special problem will be created if Congress requires
+agencies to “look back” and review the costs and benefits of
+existing rules and to defend their analyses in court. Hence the
+“look back” idea creates real risks; it may allow private parties to
+coopt public resources by requiring endless reviews of old rules.
+There is no assurance that any private right to require new
+assessments of such rules will make much sense. It is easy to
+imagine a system in private groups are allowed to challenge
+analyses not so as to ensure better policy analysis, but so as to
+fend off and delay sensible regulatory initiatives. Of course this
+happens all the time. In the last generation, expensive procedural
+requirements have produced a kind of “ossification” of
+rulemaking, in which agencies are deterred from proceeding at all,
+and ultimately pushed toward less effective alternatives.</p>
+        <p>Alert to these problems, Presidents Reagan, Bush, and
+Clinton did not allow their executive orders to be reviewable by
+courts. Hence the requirements of these executive orders play no
+role in court, and cost-benefit balancing has been a matter for
+agencies alone (except to the extent that governing statutes
+mandate cost-benefit balancing). For the future it probably makes
+sense to allow court review to ensure that agency judgments about
+costs and benefits are not arbitrary. It also seems reasonable for
+presidents to impose on agencies a duty to ensure against obsolete
+regulations. But it probably does not make sense to surround the
+process with “look back” requirements designed to enable courts
+to require agencies to do cost-benefit analyses of past rules. Of
+course this is an issue that cannot be settled through first
+principles; it has large empirical dimensions. A degree of
+experimentation would be desirable before Congress attempts a
+statutory solution.</p>
+      </sec>
+    </sec>
+    <sec id="sec-5">
+      <title>V. Cost-Benefit Balancing and Command-and-Control</title>
+      <p>Congress is now considering proposals to amend many
+existing statutes to call for cost-benefit analysis. As we have seen,
+some such shift is quite promising. A number of statutes forbid
+balancing and call for absolutism,59 and such approaches are not
+easy to justify. Moreover, it is important to offer some criteria by
+which to monitor regulatory performance, and cost-benefit
+analysis is probably the best available technique for embarking on
+a form of “national performance review” in the regulatory context.</p>
+      <p>Standing by itself, however, a shift in the direction of
+costbenefit analysis would be only a modest improvement over the
+status quo. Unless it is understood in a particular way—as a part
+of and a stimulus to a far larger change in direction—a decision
+to engraft a cost-benefit requirement onto current law would
+represent an insufficiently fundamental departure from the
+system of command and control regulation. In fact a skeptic
+might say that by itself, a requirement of cost-benefit analysis
+allows legislators to take credit for “getting the regulators under
+control” without forcing them to make hard choices, which would
+remain left to agencies and the President. This credit-claiming
+device can hardly substitute for fundamental reform.</p>
+      <p>
+        59 See, e.g., Clean Air Act, 42 USC 7401-7671q; Endangered Species Act,
+16 USC 1531-1544, the Delaney Clause, 21 USC 348(C)(
+        <xref ref-type="bibr" rid="ref19 ref37">3</xref>
+        )(A).
+      </p>
+      <p>Imagine—to take a rough analogy—if the Soviet Union had
+decided (in, say, 1986) to replace an “absolutist” five-year plan for
+producing wheat with another five-year plan, one that better
+recognized the need for balancing competing variables. This step
+might well have been an improvement; but a five-year plan based
+on governmental balancing is no less a five-year plan than one
+based on governmental absolutism. Governmental dictation of
+outcomes rooted in cost-benefit analysis is better than
+governmental dictation based on absolutism, but neither is ideal.</p>
+      <p>In fact it would be easy to imagine a generation of dreary
+cycles with respect to regulatory reform. In those cycles,
+conservatives might require more balancing, more procedures, and
+fewer deadlines for administrators; liberals then argue against
+cost-benefit analysis and for solely health-based or solely
+technology-based standards, fewer procedures, citizen suits for
+regulatory beneficiaries, and stricter deadlines; conservatives, a
+few years later, seek greater procedural requirements and more
+attention to costs; liberals respond with the familiar litany; and so
+on until, say, 2 0 5 0 . Something of this kind is not a bad
+description of regulatory debates since 1980. But its continuation
+would represent an enormous failure of imagination and
+creativity. It would fix American policy in outmoded debates of
+the early 1970s, before the outpouring of learning that makes the
+“more” or “less” debate seem to unhelpful.</p>
+      <p>A cost-benefit state ought not to content itself with
+governmental specification of outcomes after governmental
+costbenefit judgments. It ought instead t o e n c o u r a g e
+nongovernmental actors to generate information and to produce
+outcomes on the basis of incentives produced by democratic
+j u d g m e n t s . For example, a great advantage of economic
+incentives and disclosure remedies is that they reduce the
+informational burden on government and shift that burden to
+people who know relevant costs and benefits. Instead of requiring
+a certain technology for cars—a question that government is
+illequipped to answer—government might impose a fee or a tax on
+high-polluting vehicles. The latter strategy imposes a far less
+severe information-gathering burden on government, which no
+longer need choose among technologies. That choice would be
+made by the (legally constrained) market.</p>
+      <p>As I have suggested, cost-benefit analysis, properly
+understood, should help spur use of better regulatory tools. It
+should be understood as part of a general movement away from
+command-and-control regulation. I will return to this point
+below.</p>
+      <sec id="sec-5-1">
+        <title>VI. Problems of Valuation</title>
+        <p>Advocates of cost-benefit analysis have urged Congress to
+enact a “substantive supermandate” requiring all agencies to
+calculate costs and benefits and even to make cost-benefit
+analysis the “decisional criterion.” Enough has been said thus far
+to suggest why such proposals are attractive. But how, exactly, are
+costs and benefits to be valued? Should market failure, as defined
+by economists, be the basis for understanding all of government
+regulation? These points raise large questions about the
+foundations of the modern regulatory state. In this section I
+suggest reasons for caution about the traditional economic
+understanding of regulation, but nonetheless endorse a shift in
+the direction of a substantive supermandate.</p>
+        <sec id="sec-5-1-1">
+          <title>A. Valuing Life and Health</title>
+        </sec>
+        <sec id="sec-5-1-2">
+          <title>1. Some theoretical issues.</title>
+          <p>If a substantive supermandate is to be superimposed on the
+regulatory state, it makes sense to try to understand what
+costbenefit balancing actually entails. Much of the national debate in
+recent years has involved the value of cost-benefit analysis—with
+proponents seeing cost-benefit analysis as a method for
+disciplinary administrative power by calling for salutary balancing,
+and adversaries fearing that cost-benefit analysis is a
+coldhearted way of sacrificing human health and life for the sake of
+mere dollars. But this is at best a caricature. By itself, the notion
+of cost-benefit analysis is very close to empty; everything depends
+on how costs and benefits are characterized and on how
+underlying issues of valuation are resolved.</p>
+          <p>In fact there are two sorts of criticisms that might be made of
+a proposed framework (or supermandate) for evaluating
+governmental performance. One sort of criticism is that the
+framework is wrong—that it ignores certain important variables,
+or that it is founded on an indefensible theory of value. Another
+sort of criticism is that it is incompletely specified—that its
+meaning depends on further subsidiary judgments that have yet
+to be offered. Cost-benefit analysis is properly subject to the first
+kind of criticism to the extent that it purports to align all social
+values along the single metric of aggregated private willingness to
+pay, and to evaluate all social and economic regulation by
+reference to that criterion. Inventive economists have devised
+many intriguing methods for discerning the “shadow prices” of
+goods not normally traded on markets; such methods have their
+uses, but their value and limitation result from their foundations
+in the idea of private willingness to pay. Regulation may be rooted
+in redistributive rather than allocative goals, and for fully
+legitimate reasons; consider the anti-discrimination laws as
+examples. To the extent that cost-benefit analysis is rooted in the
+technical economists’ understanding, it has a great deal to offer,
+but it cannot capture all of the appropriate goals of regulation.60</p>
+          <p>As a political creed—as it operates within Congress and the
+executive branch—the principal problem with cost-benefit
+analysis is that it is incompletely specified. Its meaning depends
+on how costs and benefits are characterized and on how issues of
+valuation are resolved. Are equitable concerns a part of
+costbenefit analysis? Suppose, for example, that a certain
+environmental risk is concentrated among African-Americans.
+Can a good cost-benefit analysis take this into account? (We
+should hope so, whatever private willingness to pay may suggest.)
+Or suppose that some of the benefits of regulation are aesthetic.
+How will these benefits be valued? Of course there is an extensive
+literature on valuation of human life and environmental goods.61
+By itself cost-benefit analysis does not take a stand on the
+associated controversies; but regulators must take some such
+stand. My suggestion here is that it is always appropriate to
+identify costs and benefits so as to inform analysis, and even to
+require that benefits justify costs, but that regulators should not
+claim that benefits and costs must be grounded in traditional
+economic criteria involving private willingness to pay.</p>
+        </sec>
+        <sec id="sec-5-1-3">
+          <title>2. The range of regulatory enactments.</title>
+          <p>The modern state includes a diverse array of regulatory
+statutes, with diverse legitimate purposes, including but not at all
+limited to economic efficiency. Consider the following:
+Many important regulatory statutes are of course plausibly
+understood in terms of economic efficiency; they can be seen
+as efforts to counteract market failures. The Federal
+Insecticide, Fungicide, and Rodenticide Act and the Toxic
+Substances Control Act are examples. Such statutes may be
+designed to overcome an absence of sufficient information;
+harms to third parties; or collective action problems of various
+sorts.</p>
+          <p>Some statutes are designed to eliminate illegitimate
+discrimination. Though some people think that such statutes
+can be defended on efficiency grounds,6 2 their animating
+impulse has little to do with economic efficiency. They should
+be understood as an effort to eliminate second-class
+citizenship for members of certain social groups. Of course
+this does not mean that cost is no object. Such statutes
+should have cost-effectiveness as a goal, and effects on
+productivity are not irrelevant.</p>
+          <p>Some statutes are designed to protect cultural aspirations.63
+Examples include measures safeguarding the national parks,
+encouraging high-quality programming, and protecting
+endangered species.</p>
+          <p>Some statutes are designed to transform preferences, perhaps
+by altering existing social norms that press choices in a
+particular direction. When choices are a product of
+reputational incentives and hence social norms, and when
+those choices shorten lives, government might attempt to
+r e s p o n d . 6 4 Regulation involving smoking, recycling,
+educational programming, and sexual harassment can be
+understood in these terms.</p>
+          <p>Some statutes are designed to redistribute resources to the
+poor or to others understood as having a good claim to public
+help. To be sure, regulation is a poor tool for this purpose,
+and purportedly public-spirited redistribution may really be
+benefiting well-organized interest groups with little claim to
+public assistance. But redistribution plays a large role in
+modern administration. The Social Security Act is an obvious
+example of redistributive law; the Agricultural Adjustment
+Act can be understood in this way, with appropriate
+qualifications for its interest-group dimensions.</p>
+          <p>It would undoubtedly be possible to mention other
+possibilities. The point is that the highly diverse grounds for
+federal regulation raise questions about cost-benefit analysis as
+the sole basis for regulation—and even about identifying costs
+and benefits as such in a value-free way.</p>
+          <p>If it is intended as an amendment to the regulatory state, a
+cost-benefit supermandate could be understood in many different
+ways. In its most ambitious form, it would amount to an
+endorsement of the principle of economic efficiency as the
+exclusive basis—the “decisional criterion”—for interpretation and
+application of all statutes. This would be a fundamental change
+both because it would understand cost-benefit analysis in a
+particular way—as a term for the criterion of economic
+efficiency—and because it would amend statutes that, when
+enacted, seemed motivated by something other than the efficiency
+criterion. If this were the understanding of the supermandate, all
+of the statutes to which the supermandate applies would
+henceforth be understood in efficiency terms. To say the least, this
+would be a dramatic shift in national policies and practices.</p>
+          <p>Another, less ambitious possibility is that the cost-benefit
+criteria would be understood in efficiency terms, but only for those
+statutes that were originally designed to promote economic
+efficiency. Under this approach, a cost-benefit supermandate
+would not alter the basic understandings that underlie existing
+statutes. It would instead have a more modest but nonetheless
+important goal: imposing a particular understanding of
+rationality on statutes formerly understood and implemented in a
+less precise, more ad hoc, and more intuitive way.</p>
+          <p>A third and least ambitious possibility is that cost-benefit
+criteria would be understood in a less technical and more
+common-sensical way, as an invitation to balancing a range of
+variables under statutes that had formerly been thought to be
+absolutist and hence to forbid balancing. On this view, a
+supermandate would not be so ambitious as to call for use of
+purely economic criteria. Its more modest goal would be to ask
+administrators to look at costs, or adverse effects, as well as at
+benefits. This has probably been the goal of the majority of those
+members of Congress who have been in favor of a substantive
+supermandate. And if the supermandate is understood in these
+terms, it makes a great deal of sense. As we will see, the principal
+objection to such a supermandate is that it is too open-ended;
+Congress can and should take steps to make it clearer, though—I
+emphasize—without mandating the efficiency criterion outside of
+the context of “market failure” statutes.</p>
+        </sec>
+        <sec id="sec-5-1-4">
+          <title>3. Theory and practice.</title>
+          <p>In legislative proposals dealing with cost-benefit analysis,
+almost no guidance has been offered on the crucial issue of how
+to value relevant variables. For this reason the provisions look
+highly substantive but are in fact largely procedural. Without
+guidance to constrain valuation, a requirement of cost-benefit
+analysis is quite open-ended.</p>
+          <p>To be sure, it would be possible to conclude that Congress
+should restrict itself to a call for cost-benefit analysis and leave
+the details to agencies. Perhaps Congress lacks the detailed
+understanding that would enable it to answer the more specific
+questions. Moreover, an open-ended mandate would certainly not
+be meaningless. It would send agencies a signal about the need
+for balancing a range of considerations, and any such procedural
+requirement will affect outcomes. Courts may invalidate outcomes
+that, by general understandings, seem out of line with existing
+practice or too absolutist.65 Certainly there is a difference between
+agency behavior under balancing statutes and agency behavior
+under statutes that forbid balancing.66 But those concerned about
+administrative discretion would urge some greater guidance from
+the national legislature. I offer two suggestions here.</p>
+        </sec>
+        <sec id="sec-5-1-5">
+          <title>4. Qualitative factors.</title>
+          <p>
+            An important fact here has been encountered in Part I: People
+care not simply about aggregate amount of lives lived, but also
+about a range of factors involving the nature of the particular risk.
+For most people, among the most salient contextual features are:
+(
+            <xref ref-type="bibr" rid="ref35">1</xref>
+            ) the catastrophic nature of the risk; (
+            <xref ref-type="bibr" rid="ref36">2</xref>
+            ) whether the risk is
+uncontrollable; (
+            <xref ref-type="bibr" rid="ref19 ref37">3</xref>
+            ) whether the risk involves irretrievable or
+permanent losses; (
+            <xref ref-type="bibr" rid="ref38">4</xref>
+            ) whether the risk is voluntarily incurred; (
+            <xref ref-type="bibr" rid="ref39">5</xref>
+            )
+how equitably distributed the danger is or how concentrated on
+identifiable, innocent, or traditionally disadvantaged victims; (
+            <xref ref-type="bibr" rid="ref1 ref40">6</xref>
+            )
+how well understood the risk in question is; (
+            <xref ref-type="bibr" rid="ref2 ref41">7</xref>
+            ) whether the risk
+would be faced by future generations; and (
+            <xref ref-type="bibr" rid="ref3 ref42">8</xref>
+            ) how familiar the risk
+is. Many of these factors are reflected in the willingness to pay
+criterion.67
+          </p>
+          <p>Any required cost-benefit analysis for diverse regulatory
+agencies should reflect these points. Any cost-benefit analysis
+should, moreover, be accompanied by a more disaggregated and
+more qualitative description of the consequences of government
+action, so that Congress and the public can obtain a fuller picture
+than the crude and misleadingly precise “bottom line” of the
+costbenefit analysis. This is not at all to deny that it is important to be
+precise and quantitative when agencies can be precise and
+quantitative. It is only to say that any “bottom line” about how to
+characterize and assess costs and benefits will involve judgments
+about values, not about science, and Congress and the public
+should see what those judgments are.</p>
+          <p>65 Corrosion Proof Fittings v. EPA, 947 F.2d 1201 (5th Cir. 1991).
+66 Compare Toxic Substances Control Act and Fungicide, Insecticide,
+and Rodenticide Act with Clean Air Act and Delaney Clause and EDA.</p>
+          <p>67 See George Tolley et al., Valuing Health for Policy (1994).</p>
+        </sec>
+        <sec id="sec-5-1-6">
+          <title>5. Floors and ceilings.</title>
+          <p>It is of course troublesome to assign dollar values for life,
+partly for the reasons I have sketched; but since tradeoffs of
+multiple kinds are inevitable, it may be best for Congress to set
+out some guidelines, floors, and ceilings governing expenditures,
+without pretending to say how much a life is “really worth.” In
+light of the diversity of regulated risks, no single number would
+make sense for valuing life. It may well make sense to set
+benchmark standards of, say, $10 million per life saved as the
+maximum amount and $3 million as the minimum. These
+benchmarks might be accompanied by explicit permission for
+agencies to select a lower or higher number if the agency can
+explain that special circumstances call for that higher number.
+On this view, the data emerging from studies of revealed
+preferences would be used not because it reflects “actual” or
+acontextual valuations, but because for pragmatic purposes, it
+provides a good place to start, one that is better supported and
+more usable than any available alternative.</p>
+          <p>There is crudeness, however, in the very notion of “dollars per
+life saved.” A well-functioning regulatory state should not be
+interested in how many lives are saved. but in how many
+statistical years, or how many decently livable statistical years, are
+added by regulation.68 Hence Congress might set floors and
+ceilings not for lives saved but for life-years saved, with
+permission to depart on the basis of justifications that are publicly
+articulated and are reasonable on the merits.</p>
+          <p>Without a figure per life or per “quality life year” saved,
+agencies effectively have discretion to weight costs and benefits
+however they wish; this is a good reason for Congress to offer
+some guidelines. At a minimum Congress should require agencies
+to be explicit about their valuations, so that what they do will be
+subject to legislative and public oversight and review.</p>
+        </sec>
+        <sec id="sec-5-1-7">
+          <title>6. Substitute risks.</title>
+          <p>We have seen that there is a pervasive problem in risk
+regulation, one that is only now receiving public attention. The
+problem occurs when the diminution of one risk simultaneously
+increases another risk. It would be good for Congress to consider
+a new provision to this effect:</p>
+          <p>
+            “(
+            <xref ref-type="bibr" rid="ref35">1</xref>
+            ) Agencies shall ensure, to the extent feasible, that
+regulations do not create countervailing risks that are greater than
+those of regulated risks.
+          </p>
+          <p>
+            (
+            <xref ref-type="bibr" rid="ref36">2</xref>
+            ) This section shall not apply if it is inconsistent with the
+provisions of the enabling statute pursuant to which the agency is
+acting.”
+          </p>
+          <p>A cost-benefit supermandate, properly interpreted, may well
+incorporate an understanding of this sort. But it would be best to
+make such a requirement explicit.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="sec-6">
+      <title>VII. Ambitious Thinking for the Cost-Benefit State</title>
+      <p>Thus far I have offered some relatively modest suggestions.
+For the cost-benefit state, three more ambitious strategies would
+accomplish a great deal more.</p>
+      <sec id="sec-6-1">
+        <title>1. Rank risks and reallocate resources to more severe problems.</title>
+        <p>As Justice Breyer has suggested, a statute might well give the
+President some degree of the authority to divert public and
+private resources from small environmental problems to large
+ones, so as to ensure greater cost-effectiveness in government and
+better priority-setting.69 There are some dangers with this
+proposal; a small group of bureaucrats should not have the
+authority to decide on basic social priorities. But a greater degree
+of presidential priority-setting would make sense.</p>
+        <p>Justice Breyer’s approach should be qualified by keeping in
+mind the fact that people are legitimately concerned with the
+various contextual factors discussed above—the voluntariness of
+the risk, its potentially catastrophic character, whether it is
+especially dreaded, whether it is equitably distributed, and so
+forth. Ideas of this sort have received some modest attention in
+Congress; but the proposals have not been very ambitious.</p>
+        <p>69 This is basically the approach suggested in S. Breyer, Breaking the
+Vicious Circle (1993).</p>
+      </sec>
+      <sec id="sec-6-2">
+        <title>2. Encourage and allow plans from private sector that show</title>
+        <p>greater (but cheaper) reductions.</p>
+        <p>Often the problem with federal regulation is that the
+government lacks knowledge of the least expensive means of
+producing the preferred regulatory end. If the private sector were
+permitted to select the means, it could do so far more cheaply.
+The point has been recognized in Europe and Japan, under the
+general rubric of “environmental contracting.”7 0 In the
+Netherlands, for example, government has experimented with
+comprehensive, multi-media environmental targets for pollution
+reduction, accompanied by agreements from industry groups to
+achieve overall targets. In return for these agreements,
+government agrees to eliminate otherwise applicable
+pollutant-bypollutant regulations, and to reduce any changes in requirements
+during the length of the contract period.</p>
+        <p>In the United States, the EPA has taken modest steps in the
+same direction. Thus the EPA has moved toward more
+cooperative solutions that use social pressures and moral suasion
+to encourage the use of innovative, low-cost pollution reduction
+techniques. The Green Lights Program, informing business about
+energy-efficient light fixtures, is an example, as is a recent
+program designed to encourage voluntary reductions in seventeen
+highly toxic chemical emissions.71 Consider also OSHA’s Star
+program, allowing companies with a demonstrably good safety
+record to rely on self-policing rather than government oversight.
+EPA is attempting to develop an Environmental Leadership
+program to parallel the Star program.</p>
+        <p>So too, EPA and Amoco concluded that a plantwide
+approach would do better in decreasing chemical releases than
+does the existing command and control system; unfortunately,
+nothing happened, but the conclusion should affect regulatory
+reform efforts. Under the 1990 Clean Air Act, companies can, in
+essence, “contract out” of technology-based controls for five years
+70 See Peter Mennell and Richard B. Stewart, Environmental Law and
+Policy 420-22 (1995). See Jan M. van Dunne, Environmental Contracts and
+Covenants (1993).</p>
+        <p>71 See Wilkins and Hunt, Agency Discretion and Advances in Regulatory
+Theory, 63 George Washington L Rev 479, 492-98 (1995)
+if they achieve a 90% reduction in toxic pollutants before EPA
+promulgates relevant regulations.72 Under most federal statutes,
+however, EPA cannot approve private plans as substitutes for
+public mandates, even if the plans promise better results for less
+money. Congress should move in the direction of allowing private
+substitutes, so long as government monitoring is maintained. Of
+course it remains important to know whether the benefits from the
+private alternative are higher than the costs; perhaps the private
+alternative is cheaper but still not worthwhile on balance. What I
+am suggesting is that more creative, cooperative, and flexible
+programs, enlisting the informational advantages of the private
+sector, could be a large improvement over the status quo.</p>
+      </sec>
+      <sec id="sec-6-3">
+        <title>3. Regulate with incentives.</title>
+        <p>We have seen throughout that command-and-control
+regulation can be highly dysfunctional. Sometimes relevant
+statutes forbid agencies from choosing incentive-based strategies
+even if agencies know that such strategies would work better.
+Congress might enact a particular provision to solve this problem.
+It might say, for example, “Notwithstanding any other provision
+of law, an agency shall be permitted to regulate with economic
+incentives, if it can show that these methods will produce the
+same benefits in a more cost-effective manner.”73 Of course such
+a provision would involve risks. It could create further litigation,
+perhaps initiated by self-interested private groups seeking to stall
+desirable regulation. It could allow agencies unenthusiastic about
+regulatory mandates to proceed with less effective means of
+achieving compliance. But the problems with existing processes—
+excessive costs, insufficient regulatory benefits—are sufficient to
+make it worthwhile to move in this direction.</p>
+      </sec>
+    </sec>
+    <sec id="sec-7">
+      <title>Conclusion</title>
+      <p>The United States is embarking increasingly on the project of
+assessing government regulation by asking whether the benefits
+justify the costs. The regulatory state is slowly becoming
+72 42 USC 112(h)
+73 I borrow here from Statement of Jonathan Wiener, Before the
+Committee on Governmental Affairs, United States Senate, March 8, 1995.
+something like a cost-benefit state; this is an unmistakable feature
+of public life in many institutions of American government. Thus
+in the last decade and more, the executive branch has attempted
+to embrace a form of cost-benefit analysis for specific purposes—
+to promote better priority-setting, to move toward market-oriented
+tools, to exempt de minimis risks, to attend to informed public
+judgments, to foster voluntary and least-cost compliance, and to
+focus on ultimate results rather than methods and processes.
+Similar steps can be found in Congress and the federal courts;
+but they remain tentative and incipient.</p>
+      <p>In light of the chaotic and uncoordinated character of modern
+regulation, the absence of good priority-setting, and the system of
+“legislation by anecdote,” movement in the direction of a
+costbenefit state is in many ways a salutary development. As we have
+seen, balancing is far better than absolutism. The point is
+especially important in light of the fact that with respect to
+protection of human health, absolutism may actually be
+counterproductive and hence far from what it seems. Indeed,
+absolutism may impair rather than improve health. But
+costbenefit balancing can lead to excessive proceduralism, especially
+insofar as it is required via litigation. Moreover, the idea of
+costbenefit analysis needs a great deal of specification, and it is hardly
+sufficient to engraft a supermandate of “balancing” on top of a
+structure of command and control regulation. Any such mandate
+should be part of a general movement toward more flexible
+regulatory tools.</p>
+      <p>I have suggested that a general background requirement of
+cost-benefit balancing—a substantive supermandate—should be
+enacted. I have also suggested that in describing costs and
+benefits, Congress should allow room for a diverse array of values,
+and not limit agencies to the criterion of private willingness to
+pay. Sometimes regulation attempts to alter preferences and
+norms; sometimes it has little to do with aggregated willingness to
+pay. An Administrative Substance Act, amending the regulatory
+state, should include the background requirement I have
+described and also require agencies to act in a cost-effective
+fashion. A cost-benefit state, understood in these terms, could
+make large improvements by offering initiatives that make sense
+under any reasonable theory of value.</p>
+      <p>This Working Paper is a preliminary version of a chapter of a
+book, Reforming Federal Regulating (Robert Hahn editor,
+forthcoming 1997). Readers with comments should address them
+to:</p>
+      <sec id="sec-7-1">
+        <title>Cass R. Sunstein</title>
+        <p>Karl N. Llewellyn Distinguished Service Professor</p>
+        <p>The Law School
+The University of Chicago</p>
+        <p>1111 East 60th Street</p>
+        <p>Chicago, Illinois 60637
+Chicago Working Papers in Law and Economics
+(Second Series)</p>
+      </sec>
+    </sec>
+  </body><script/>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <article-title>6 5 USC 706</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>7 See W. Kip</surname>
+            <given-names>Viscusi</given-names>
+          </string-name>
+          , Fatal
+          <string-name>
+            <surname>Tradeoffs</surname>
+          </string-name>
+          (
+          <year>1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <article-title>8 See id</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          9
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Toxic Substances Control Act</surname>
+          </string-name>
+          ,
+          <volume>7</volume>
+          USC 136-136y; Fungicide, Insecticide, and Pesticide Act,
+          <volume>15</volume>
+          USC 2601-2692.
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          18
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Stephen</surname>
+          </string-name>
+          <string-name>
+            <surname>Breyer</surname>
+          </string-name>
+          ,
+          <source>Breaking the Vicious Circle</source>
+          (
+          <year>1992</year>
+          )
+          <article-title>; Pildes &amp; Sunstein, Reinventing the Regulatory State, 62 U Chi L Rev 1 (</article-title>
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          19 See
+          <string-name>
+            <surname>Thomas D. Hopkins</surname>
+          </string-name>
+          ,
+          <source>The Costs of Federal Regulation, 2 J Reg &amp; Social Costs 5, 25 table 2</source>
+          (
+          <year>1992</year>
+          )
+          <article-title>(estimate of $400 million)</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          20
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Portney</surname>
+          </string-name>
+          &amp; Stavins,
+          <source>Regulatory Review of Environmental Policy, 8 J Risk &amp; Uncertainty</source>
+          <volume>111</volume>
+          , 119 n.
+          <issue>1</issue>
+          (
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          21 Tengs et al.,
+          <source>Five Hundred Life-Saving Interventions and their CostEffectiveness</source>
+          ,
+          <source>Risk Analysis, forthcoming.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          26 Public Citizen v.
+          <source>Young, 831 F.2d 1108 (DC Cir</source>
+          <year>1987</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          27 See T. Tietenburg,
+          <source>Emissions Trading 38-59</source>
+          (
+          <year>1985</year>
+          ); Portney et al.,
+          <source>The EPA at Thirtysomething</source>
+          ,
+          <volume>21</volume>
+          Envl. L.
+          <volume>1461</volume>
+          (
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <article-title>28 See, for example, the “offset” provisions of the nonattainment program of the Clean Air Act, which impose a “lowest achievable emissions rate” requirement in addition to the offset program</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          29 Hahn and Hester, Marketable Permits, 16 Ecol
+          <string-name>
+            <surname>L Q</surname>
+          </string-name>
+          <year>361</year>
+          ,
+          <article-title>374 and Table 2 (</article-title>
+          <year>1989</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          30 See Tom Tietenburg, Emissions
+          <string-name>
+            <surname>Trading</surname>
+          </string-name>
+          (
+          <year>1985</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          31
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Robert</surname>
+          </string-name>
+          Percival et al.,
+          <source>Environmental Law and Policy</source>
+          (
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          32
+          <string-name>
+            <given-names>See</given-names>
+            <surname>John Graham and Jonathan Wiener</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Risk-Risk Tradeoffs</surname>
+          </string-name>
+          (
+          <year>1995</year>
+          ),
+          <article-title>for an excellent overview</article-title>
+          ;
+          <source>see also Symposium</source>
+          ,
+          <source>8 Journal of Risk &amp; Uncertainty</source>
+          <volume>5</volume>
+          (
+          <year>1994</year>
+          )
+          <article-title>; Aaron Wildavsky, Searching for Safety (</article-title>
+          <year>1987</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          33 Kenney,
+          <source>Mortality Risks Induced by Economic Expenditure, 10 Risk Analysis</source>
+          <volume>147</volume>
+          (
+          <year>1990</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          34 International Union v.
+          <source>OSHA&lt; 938 F.2d 1310</source>
+          ,
+          <fpage>1326</fpage>
+          -
+          <lpage>27</lpage>
+          (DC Cir.
+          <year>1991</year>
+          )
+          <article-title>(Williams</article-title>
+          ,
+          <string-name>
+            <surname>J.</surname>
+          </string-name>
+          , concurring).
+          <source>See also Building &amp; Constr</source>
+          . Trades Dept. v. Brock, 838
+          <string-name>
+            <surname>F.</surname>
+          </string-name>
+          <article-title>2d 1258 (DC Cir 1988), suggesting that “leaning toward safety may sometimes have the perverse effect of increasing rather than decreasing risk</article-title>
+          .
+          <source>” Id. at 1267</source>
+          . See also New York State v.
+          <source>Brown</source>
+          , 854 F.2d
+          <volume>1379</volume>
+          , 1395 n. 1
+          <string-name>
+            <surname>(D. C.</surname>
+          </string-name>
+          <article-title>Cir</article-title>
+          .,
+          <year>1988</year>
+          (Williams,
+          <string-name>
+            <surname>J.</surname>
+          </string-name>
+          , concurring):
+          <article-title>“extravagant expenditures on health may in some instances affect health adversely, by foreclosing expenditures on items-higher quality food, shelter, recreation, etc.-that would have contributed more to the individual's health than the direct expenditures thereon</article-title>
+          .”
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          35
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Portney</surname>
+          </string-name>
+          and Stavins,
+          <source>Regulatory Review of Environmental Policy, 8 J. Risk &amp; Uncertainty</source>
+          <volume>111</volume>
+          (
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          3 6
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Lutter</surname>
+          </string-name>
+          and Morrall,
+          <source>Health-Health Analysis, 8 J Risk &amp; Uncertainty</source>
+          <volume>43</volume>
+          ,
+          <issue>49</issue>
+          (
+          <year>1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          39
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Pildes</surname>
+          </string-name>
+          &amp; Sunstein, Reinventing the Regulatory State, 62
+          <string-name>
+            <given-names>U</given-names>
+            <surname>Chi L Rev</surname>
+          </string-name>
+          <article-title>1 (</article-title>
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          40
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Colim</surname>
+          </string-name>
+          <string-name>
+            <surname>Camerer</surname>
+          </string-name>
+          ,
+          <article-title>Individual Decision Making, in The Handbook of Experimental Economics (J. Kagel and A</article-title>
+          . Roth eds.
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          41
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Greenberg</surname>
+          </string-name>
+          et al.,
+          <source>Network Evening News Coverage of Environmental Risk, 9 Risk Analysis</source>
+          <volume>119</volume>
+          (
+          <year>1989</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          42 See, e.g., Slovic, Beyond Numbers, in Acceptable Evidence 48 (
+          <string-name>
+            <surname>D. Mayo</surname>
+          </string-name>
+          and R. Hollander eds.
+          <year>1991</year>
+          ); Slovic,
+          <source>Perception of Risk, 236 Science 280</source>
+          (
+          <year>1987</year>
+          ); Kraus, Malmfors, and
+          <string-name>
+            <surname>Slovic</surname>
+          </string-name>
+          ,
+          <source>Intuitive Toxicology, 12 Risk Analysis</source>
+          <volume>215</volume>
+          (
+          <year>1992</year>
+          ); W. Kip Viscusi,
+          <source>Carcinogen Regulation: Risk Characteristics and the Synthetic Risk Bias, 85 Am Econ Rev</source>
+          <volume>50</volume>
+          (
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          43
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Bruce</surname>
+          </string-name>
+          <string-name>
+            <given-names>A.</given-names>
+            <surname>Ackerman</surname>
+          </string-name>
+          &amp;
+          <string-name>
+            <given-names>William</given-names>
+            <surname>Hassler</surname>
+          </string-name>
+          , Clean Coal/Dirty Air (
+          <year>1981</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          44
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Adler</surname>
+          </string-name>
+          , Clean Fuels, Dirty Air,
+          <source>in Environmental Politics</source>
+          <volume>19</volume>
+          ,
+          <fpage>28</fpage>
+          -
+          <lpage>29</lpage>
+          (Michael Greve and Fred Smith eds.
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          54 See, e.g., W. Kip Viscusi, Fatal
+          <string-name>
+            <surname>Tradeoffs</surname>
+          </string-name>
+          (
+          <year>1993</year>
+          ),
+          <article-title>and consider the Reagan Administration's decision to eliminate lead from gasoline, a decision founded on cost-benefit balancing</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          <article-title>55 See the discussion in Sunstein, Congress, Constitutional Moments, and the Cost-Benefit State, 48</article-title>
+          <string-name>
+            <given-names>Stan. L.</given-names>
+            <surname>Rev</surname>
+          </string-name>
+          .
+          <volume>247</volume>
+          (
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          58
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Eisner</surname>
+          </string-name>
+          and Kaleta,
+          <source>Federal Agency Review of Existing Regulations, 48 Administrative Law Review</source>
+          <volume>139</volume>
+          (
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          <article-title>60 See the parallel points in L. Lave, Benefit-Cost Analysis: Do the Benefits Exceed the Costs?</article-title>
+          , in Risks, Costs, and Lives Saved (Robert Hahn ed.
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          61 See, e.g., W. Kip Viscusi, Fatal
+          <string-name>
+            <surname>Tradeoffs</surname>
+          </string-name>
+          (
+          <year>1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          62 Lundberg and Starz,
+          <source>Private Discrimination and Social Intervention in Competitive Labor Markets, 73 Am. Ec. Rev</source>
+          .
+          <volume>340</volume>
+          (
+          <year>1983</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          63 See
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <source>After the Rights Revolution 57-60</source>
+          (
+          <year>1990</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          64
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Sunstein</surname>
+          </string-name>
+          ,
+          <source>Social Norms and Social Roles, 96 Colum L Rev (forthcoming May</source>
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          68
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Zackhauser</surname>
+          </string-name>
+          and Shepard,
+          <source>Where Now For Saving Lives?, 40 Law and Contemp. Probs</source>
+          .
+          <volume>5</volume>
+          (
+          <year>1976</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          1.
+          <string-name>
+            <surname>William</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Landes</surname>
+          </string-name>
+          ,
+          <source>Copyright Protection of Letters, Diaries and Other Unpublished Works: An Economic Approach (July</source>
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          2.
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Epstein</surname>
+          </string-name>
+          , The Path to The T. J.
+          <article-title>Hooper: The Theory and History of Custom in the Law of Tort (August</article-title>
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          3.
+          <string-name>
+            <surname>Cass</surname>
+            <given-names>R.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Sunstein</surname>
+          </string-name>
+          ,
+          <source>On Property and Constitutionalism (September</source>
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          4.
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Posner</surname>
+          </string-name>
+          , Blackmail, Privacy, and Freedom of Contract (
+          <year>February 1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          5.
+          <string-name>
+            <surname>Randal</surname>
+            <given-names>C.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Picker</surname>
+          </string-name>
+          , Security Interests, Misbehavior, and
+          <string-name>
+            <surname>Common Pools</surname>
+          </string-name>
+          (
+          <year>February 1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>
+          6.
+          <string-name>
+            <surname>Tomas</surname>
+            <given-names>J.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Philipson</surname>
+          </string-name>
+          &amp; Richard A. Posner, Optimal Regulation of AIDS (April
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>
+          7.
+          <string-name>
+            <surname>Douglas</surname>
+            <given-names>G</given-names>
+          </string-name>
+          . Baird,
+          <source>Revisiting Auctions in Chapter 11 (April</source>
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>
+          8.
+          <string-name>
+            <surname>William</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Landes</surname>
+          </string-name>
+          ,
+          <source>Sequential versus Unitary Trials: An Economic Analysis (July</source>
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation>
+          9.
+          <string-name>
+            <surname>William</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Landes</surname>
+          </string-name>
+          &amp;
+          <article-title>Richard A. Posner, The Influence of Economics on Law: A Quantitative Study</article-title>
+          (
+          <year>August 1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation>
+          10.
+          <string-name>
+            <surname>Alan O. Sykes</surname>
+          </string-name>
+          ,
+          <article-title>The Welfare Economics of Immigration Law: A Theoretical Survey With An Analysis of U.S. Policy</article-title>
+          (
+          <year>September 1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <mixed-citation>
+          11.
+          <string-name>
+            <surname>Douglas</surname>
+            <given-names>G.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Baird</surname>
+          </string-name>
+          ,
+          <source>1992 Katz Lecture: Reconstructing Contracts (November</source>
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <mixed-citation>
+          12.
+          <string-name>
+            <surname>Gary</surname>
+            <given-names>S.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Becker</surname>
+          </string-name>
+          , The Economic Way of Looking at Life (
+          <year>January 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <mixed-citation>
+          13.
+          <string-name>
+            <surname>J. Mark</surname>
+            <given-names>Ramseyer</given-names>
+          </string-name>
+          , Credibly Committing to Efficiency
+          <source>Wages: Cotton Spinning Cartels in Imperial Japan (March</source>
+          <year>1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <mixed-citation>
+          14.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Endogenous Preferences, Environmental
+          <string-name>
+            <surname>Law</surname>
+          </string-name>
+          (
+          <year>April 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

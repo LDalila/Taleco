@@ -1,0 +1,321 @@
+Cass R. Sunstein, William Meadow & Anthony Bell, "Statistics, Not Memories: What Was the Standard of Care for Administering Antenatal Steroids to Women in Preterm Labor between 1985 and 2000?" (John M. Olin Program in Law and Economics Working Paper No. 1
+This paper can be downloaded without charge at: The Chicago Working Paper Series Index: http://www.law.uchicago.edu/Lawecon/index.html
+and at the Social Science Research Network Electronic Paper Collection:
+http://ssrn.com/abstract_id=
+We determined the frequency of antenatal corticosteroid use for mothers with threatened premature delivery in 1985, 1990, 1995, and 2000. We next compared published data to the surveyed recollections of 302 obstetricians who were practicing during these years. Two points emerged. First, published reports reveal that the use of antenatal corticosteroids increased steadily, from 8% in 1985 to 20% in 1990, 52% in 1995, and 75% in 2000 (P .001). Second, ?expert? opinions derived from the recollections of practicing obstetricians consistently overestimated the actual use of antenatal corticosteroids during the year in question?31% versus 8% for 1985, 56% versus 20% for 1990, 78% versus 52% for 1995, and 92% versus 72% for 2000 (all Ps .001). The use of antenatal corticosteroids by obstetricians in the past 15 years reveals a phenomenon that is widely recognized elsewhere?retrospective memories are often wrong, and when they are wrong they are not randomly wrong. Rather, recollections are systematically skewed toward an outcome that, in hindsight, is considered desirable (the ?Monday morning quarterback? phenomenon). We offer a simple proposal. In determining the?standardofmedicalcare,?thelegalsystemshouldrelyon statistical data about doctors? performance rather than the recollections of experts about doctors? performance. The fallible memories of isolated experts are a crude second-best, far inferiortothedatathattheyapproximate.Widespreadadoption of this view by professional physician organizations would dramatically increase the rationality of expert testimony in medical malpractice tort law. (Obstet Gynecol 2003 102:356?62. © 2003 by The American College of Obstetricians and Gynecologists.)
+Imagine this: In the early 1990s, a woman was admitted to an obstetric service in the early stages of labor at 28
+weeks? gestation. At the time of admission, her fetus was
+estimated to weigh 0.9 kg (2 lb). The likelihood of
+survival for an infant born at that gestation in the early
+1990s was approximately 80%. However, the likelihood
+that the infant would exhibit respiratory distress syndrome (RDS) of prematurity after birth was also approximately 80%. There had been reports in the medical
+literature for more than a decade that administration of
+antenatal corticosteroids might reduce the incidence and
+severity of RDS in infants after birth. However, the
+indications and side effects of administering antenatal
+corticosteroids to mothers were not well understood.
+Some obstetricians used antenatal corticosteroids routinely in the early 1990s. Most did not. This woman?s
+obstetrician did not.
+The woman delivered the infant at 28 weeks? gestation, and it weighed 0.9 kg (2 lb). The infant was sick
+with RDS but did not die. It suffered long-term permanent morbidity related to the RDS. The obstetrician was
+sued for malpractice?specifically, for failing to administer antenatal corticosteroids to the mother before delivery.
+At trial, the plaintiff?s expert claimed that in the early
+1990s it was the ?standard of care? to administer antenatal corticosteroids, and that a failure to have administered them to this mother constituted medical negligence. This claim was based on the expert?s experience
+and training in the field. A defense expert argued that
+only a minority of obstetricians were using antenatal
+corticosteroids in the early 1990s, and consequently the
+standard of care, which he took to be the use of ?ordinary care in similar circumstances,? did not require
+antenatal corticosteroids in this case. The defense expert
+buttressed his opinion by pointing to a large body of
+medical literature. Published articles described the experience of more than 30,000 women in the early 1990s
+who delivered comparably premature infants. The overall percentage receiving antenatal corticosteroids was
+20%.
+How should a juror decide which of these arguments
+is more persuasive? More precisely, how much weight
+should be given to statistical descriptions of medical
+practice versus anecdotal recollection of an expert?s individual experience?
+In most jurisdictions in the United States, jurors are
+instructed that a doctor must ?use the skill and care that
+is ordinarily used by reasonably well-qualified doctors in
+similar cases. . . . A failure to do so is a form of negligence called malpractice.?1,2 Moreover, except in unusually obvious circumstances (such as operating on the
+wrong limb), lay jurors are not expected to understand what level of care physicians ordinarily provide and consequently are informed by the testimony of medical expert witnesses. Expert witnesses, in turn, are expected to describe the relevant standards of medical care by reflecting on their own professional experience.2 A problem immediately arises, although it is not usually recognized as such. No additional instructions are offered regarding the mechanism by which the expert is supposed to convert experience, knowledge, and training into an opinion. One might assume that the expert is being asked to recall what he or she and his or her reasonably well-qualified colleagues usually did in similar circumstances and testify accordingly. This seems obvious. However, there is much more to say. To begin with, a great deal of literature over several decades in many related areas of memory research suggests that anecdotal recollection of past experience is flawed.3,4 Moreover, anecdotal recall is not randomly wrong? rather, it tends to be skewed in the direction that in hindsight would have been preferred. That is, once an outcome is known to have occurred, the predominant reaction is ?I knew it all along.? This is often called the ?Monday morning quarterback? phenomenon.5,6 Experts are not immune to such memory flaws. Even professional golfers misremember. In an extensive survey, golfers on average claimed that the percentage of 6-foot putts they made was 75%, but actual observation put the number significantly lower, at 55%.7 As another example, when emergency room physicians were asked how long it took them to diagnose and begin antibiotic treatment for children with suspected meningitis, they recalled 46 minutes. Actual observation found the number to be significantly longer, at 120 minutes.8 These examples are not elicited to demonstrate that professional golfers or emergency room physicians are deliberately untruthful. Rather, selective skewed recall appears to be part of us all. We would all rewrite parts of history if we could, and in our minds, we cannot help doing it. We have explored the Monday morning quarterback phenomenon in the context of administration of antenatal corticosteroids to women in preterm labor in the United States over the past 15 years. To do so, we first determined the actual use of antenatal corticosteroids at 5-year intervals between 1985 and 2000, as documented in reports from tens of thousands of patients in the medical literature. We then sampled the recollections of several hundred potential ?expert witnesses?: obstetricians who had been in clinical practice during the period in question. We compared the published data to the recollections of the obstetric specialists.
+MATERIALS AND METHODS
+Published Data on Antenatal Corticosteroid Use From
+1985 Through 2000
+To estimate the actual frequency of antenatal corticosteroid use, we searched MEDLINE and PubMed for the
+MeSH key word ?antenatal corticosteroids.? We then
+found and read each article that pertained to the incidence of antenatal corticosteroid use in human infants in
+1985, 1990, 1995, and 2000 (Wright LL, Fanaroff AA,
+Poole WK, Carlo W, Vohr BR, Ehrenksang RA, Scott
+BJ, McDonald SA. Repeat courses of antenatal steroids:
+Risks and benefits [abstract]. Pediatr Res 2001 49:287A)
+(Narendran V, Donovan EF, Hoath SB, Warner BB,
+Steichen JJ, Jobe AH. Comparison between early bubble
+CPAP and conventional CPAP in reducing the incidence of chronic lung disease [abstract]. Pediatr Res
+2002 51:337A).9?24 In addition, a National Institutes of
+Health (NIH) conference on the use of antenatal corticosteroids convened in 1994 produced many articles that
+dealt directly and indirectly with antenatal corticosteroid
+use and contained numerous references to earlier studies. After 1994, several publications directly assessed the
+impact of the NIH consensus statement on increasing the
+use of antenatal corticosteroids. Finally, to assess recent
+antenatal corticosteroid use (around the year 2000) we
+could not rely on published literature, as much remains
+in press or under review. Consequently, we reviewed
+abstracts from pediatric academic societies and the Society of Maternal/Fetal Medicine.
+We restricted our database to mothers for whom
+antenatal corticosteroids might appropriately have been
+prescribed. Consequently, we reviewed publications
+with one of two possible inclusion criteria: 1) prematurity or low birth weight?typically, very low birth weight
+(VLBW) infants (birth weight less than 1500 g)?where
+data were reported from population-based neonatal intensive care unit outcome studies, or 2) RDS?typically,
+mechanically ventilated infants?where data were derived from studies of the efficacy of surfactant administration.
+?Expert Opinions? About Antenatal Corticosteroid Use
+From 1985 Through 2000
+We had no way of determining which obstetricians had
+ever served as expert witnesses, nor were we interested
+in sampling just that subset. Rather, we were interested
+in demonstrating the phenomenon of hindsight bias for
+the field as a whole. Consequently, we obtained a list of
+all registered obstetricians in the United States from Ross
+Laboratories. The obstetricians were identified by city
+and state. We sent out two mailings of 500 surveys each
+to ten randomly selected obstetricians in each of the 50
+Table 1. Publications Used to Document Antenatal Corticosteroid Use, 1985?2000 Documented year No. of infants % ACS Inclusion criteria Reference 1983?1985 3780 8.1 BW, RDS 14 1985 970 10 BW 13 1989?1990 1533 34 BW, RDS 14?16 1988?1992 9949 19.2 BW 17 1989?1990 3270 25.4 BW, RDS 14 1989?1990 11,077 13.9 RDS 12 1989?1991 915 19.7 BW, RDS 14 1990?1991 6425 22.4 BW 18?20 1989?1990 480 20 BW 13 1990?1991 356 27 BW 21 1994 3239 33 BW, RDS 22 1994?1995 279 46 BW 17 1994?1995 19,252 53.8 BW 24 1995 191 63 RDS 23 1999 26,007 72 BW 24 1998?2000 4047 74 BW Wright* 1999?2001 399 78 RDS Narendran?
+states. We received 153 responses from the first survey and 149 responses from the second survey. The survey questionnaire described a hypothetic case of a woman presenting in early labor at approximately 28 weeks? gestation. The obstetricians were asked two questions regarding the use of antenatal corticosteroids for this woman: 1) What percentage of obstetricians do you think were
+using antenatal corticosteroids in such cases in 1985,
+1990, 1995, and 2000? 2) Was it your personal practice to administer antenatal
+corticosteroids in such cases in 1985, 1990, 1995, and
+2000? Statistical Analyses Two separate mailings were sent to obstetricians between July 2000 and June 2001. Responses regarding antenatal corticosteroid use from the first mailing were compared with those from the second mailing using both two-way analysis of variance, with year as the withingroup variable and mailing as the across-group variable, and comparison of proportions test, with correction for multiple comparisons. No significant differences were found comparing results from the first and second mailings. Consequently, data from the two mailings were combined. Responses from the obstetricians regarding antenatal corticosteroids were then contrasted with data derived from the medical literature using two-way analysis of variance, z scores derived from the comparison of pro-
+portions test, and analysis.25 Meta-analysis of the
+multiple published descriptions of antenatal corticosteroid use during each period was performed using the
+number of patients involved, not the number of hospitals
+or publications. For all tests, an level of P .01 was
+required to assume statistical significance.
+RESULTS Table 1 shows antenatal corticosteroid use in 1985,
+1990, 1995, and 2000, as determined from case reports of
+92,169 infants in the medical literature. Figure 1 contrasts the use of antenatal corticosteroids as reported in
+the medical literature with the compiled recollections of
+302 ?expert? obstetrician respondents to our questionnaire. Two points are readily apparent. First, published
+reports revealed that the use of antenatal corticosteroids
+increased steadily, from 8% in 1985 to 20% in 1990, 52%
+in 1995, and 75% in 2000 (P .001). Second, expert
+opinions derived from the recollections of practicing
+obstetricians consistently overestimated the actual use of
+antenatal corticosteroids during every year in question:
+31% versus 8% for 1985, 56% versus 20% for 1990, 78%
+versus 52% for 1995, and 92% versus 72% for 2000 (all
+Ps .001).
+In addition to consistently overestimating their colleagues? use of antenatal corticosteroids from 1985 to
+2000, the obstetrician respondents consistently ranked
+their personal use higher than their estimates of the
+average behavior at the time: 68% versus 31% in 1985,
+Figure 1. The use of antenatal corticosteroids (derived from cases reported in the medical literature) compared with expert opinions about the use of antenatal corticosteroids (derived from responses to our survey questionnaire) at 5-year intervals between 1985 and 2000. For 1985, 4750 reported infants and 235 responding obstetricians are compared. For 1990, 34,005 infants and 260 obstetricians are compared. For 1995, 22,961 infants and 274 obstetrician responses are compared. For 2000, 30,453 infants and 299 obstetricians are compared. The literature database is more fully elaborated in Table 1. ?Expert? opinions derived from the recollections of practicing obstetricians consistently overestimated the actual use of antenatal corticosteroids during every year in question: 31% vs 8% for 1985, 56% vs 20% for 1990, 78% vs 52% for 1995, and 92% vs 72% for 2000 (*P .001). Obstetricians recollections (squares) published data (diamonds)
+88% versus 56% in 1990, 99% versus 78% in 1995, and 100% versus 92% in 2000 (all Ps .01).
+DISCUSSION We demonstrate a phenomenon that is widely recognized elsewhere: Retrospective memories are often wrong, and when they are wrong they are not randomly wrong. Rather, recollections are systematically skewed toward an outcome that, in hindsight, is considered desirable. Over the past 15 years it has become widely accepted that antenatal corticosteroid administration to women in preterm labor significantly reduces complications in prematurely delivered infants.9?12 Antenatal corticosteroid use has risen roughly ten-fold, from 8% to 75% for prematurely delivered infants during this period. Consequently, viewed retrospectively from the vantage point of 2001, antenatal corticosteroid use for women in preterm labor at 28 weeks? gestation has always been desir-
+able. As we hypothesized, the recollections of 302 obstetricians surveyed in 2001 about the use of antenatal
+corticosteroids for preterm labor in the past 15 years
+were wrong and predictably skewed. Obstetricians recalled antenatal corticosteroid use to have been greater
+than it demonstrably was at each 5-year interval between
+1985 and 2000.
+To the extent that obstetricians like the ones in our
+survey might serve as expert witnesses in antenatal corticosteroid cases, testifying about ordinary care in similar
+circumstances based upon their recollection of their own
+personal experience, they are likely to be wrong. What
+do such discrepancies between recollections of expert
+practitioners and objective documentation of medical
+practice imply for expert testimony in cases of alleged
+medical negligence?
+Personal Knowledge and Statistical Knowledge
+A substantial body of evidence on the psychology of decision making documents systematic biases in the anecdotal
+recallofexperience.Peopleareexcessivelyoptimisticabout
+what can happen or has happened at the same time, they
+are overconfident about the accuracy of their memories.26?28 Medical experts are not immune from this phenomenon.3,8,29?31 Moreover, and perhaps most importantly from the standpoint of malpractice testimony, people
+reliably suffer from hindsight bias. Once an outcome is
+known to have occurred, the predominant reaction is ?I
+knew it all along.?3,5,29?31 Excessive optimism and skewed
+recall about past practices appear to be human nature. This
+point raises some serious problems for adjudication of
+negligence allegations.
+Acentralpurposeofmedicalmalpracticelawistoprotect
+the general public by ensuring that physicians provide
+reasonable care. Reasonable care is determined, at least in
+part, by asking about ordinary practice. If descriptions of
+ordinary practice are important to the judicial process, why
+should jurors and judges rely on the fallible and anecdotedriven recollection of an individual expert?s experience,
+especially if we know that this recollection is likely to be
+wrong? Instead, why not inform jurors and judges of the
+verified and reverifiable collective experience of dozens,
+hundreds, or even thousands of cases reported by comparably expert physicians? Citations of practice distributions
+derived from published medical literature could provide a
+necessary buffer for jurors specifically and the public more
+generallyagainsttheinevitablepossibilitythatanindividual
+expert?s memory is faulty.
+Methodological Concerns With Reliance on Databases
+Several methodological concerns must be addressed directly. Most reflect difficulties traditionally associated
+with meta-analysis of the efficacy of medical procedures. Comparisons across and within studies of different size may be difficult to describe succinctly. How is one to balance a small study from a single center with a large study from multiple centers? As an example from the antenatal corticosteroid analysis, in 1990 14% of 11,077 infants reported from 446 centers in the Exosurf Neonatal Treatment Investigational New Drug Program received antenatal corticosteroids,12 compared with 20% of 480 infants reported from a single center by Teberg et al.13 Should we consider the number of studies or the number of patients within studies? Further, single publications that report data from multiple centers often describe a wide spectrum of behavior around a mean value. As an example, the use of antenatal corticosteroids among the 30 reporting centers of the Vermont-Oxford Trials Network in 1990 ranged from 0% to 58%.18 Finally, inclusion criteria may differ across studies. Consider in the context of antenatal corticosteroids whether a hypothetic published article included or excluded mothers with premature rupture of membranes, pregnancies above 32 gestational weeks, pregnancies below 26 gestational weeks, or twins. Each of these conditions has, at times, been argued to be a contraindication for administration of antenatal corticosteroids.9?11 There are two related questions here, one narrow and one broad. Narrowly, how can we deal with published data in the context of the standard of care for antenatal corticosteroids? More generally, given the recognition that published studies will always have overlapping but nonidentical inclusion criteria and that they will inevitably invoke an interval of uncertainty around every point estimate, how can statistical analysis ever determine the standard of care for a single case? In the specific instance of antenatal corticosteroids, one might proceed as follows: Our survey was deliberately designed to ask obstetricians about behavior in a single ?idealized? case, analogous to the opinion an expert witness would be asked to provide in a single case of alleged negligence. Published data are, inevitably, more messy. Even when antenatal corticosteroid use is intended in all cases, we must assume there will be some ?slippage,? such as mothers who for one reason or another did not receive antenatal corticosteroids even though the doctors intended them to do so. Consequently, the actual use of antenatal corticosteroids will always be a bit lower than the intended use. How can we account for this slippage in our data-based formulation of standard medical care? We might start by assuming that by the year 2000 almost all obstetricians wanted to use antenatal corticosteroids in idealized cases of women threatening preterm delivery. We then can look to see how close the obste-
+tricians came to that ideal and note that the answer is
+?quite close.? In 2000, approximately 75% of 30,000
+mothers who delivered VLBW infants received antenatal corticosteroids (cf Figure 1 and Table 1). This, then,
+can be taken as a ?ceiling? against which other comparisons can be measured. As an example, in 1990, 20% of
+all VLBW infants actually received antenatal corticosteroids, compared with a theoretic ceiling of 75% who
+might have received antenatal corticosteroids. Consequently, the ?adjusted? antenatal corticosteroid use in
+idealized circumstances in 1990 was approximately 20 of
+75 (27%). Even after adjustment for slippage, this value is
+significantly lower than the 56% that our obstetricians
+recalled for antenatal corticosteroid use in 1990. For
+every time interval studied, even after adjusting published reports of antenatal corticosteroid use to account
+for the potential of nonideal cases, ?expert recollection?
+still significantly overestimated adjusted antenatal corticosteroid use.
+There is a larger claim here. Meta-analysis has become
+widely accepted in modern medicine. Indeed, it has
+become essential to the growth of evidence-based medical care in obstetrics and elsewhere. However, metaanalysis is complicated. One possible response to these
+complexities might be to argue that statistical analysis is
+just too hard for judges, lawyers, and juries to understand. If this is true, then attempts to import data into the
+courtroom are doomed. In such a postmodern legal
+world, the scientific method would be abandoned and
+only anecdotal narrative would survive.
+There is another response, which we favor. We welcome methodological complexities and encourage their
+elucidation enthusiastically. With this view, the more
+light shone upon the meaning of data and the difficulties
+of importing it the better, precisely because accuracy is
+what is most important. Whatever difficulties might arise
+in importing statistical methodology into the courtroom,
+these problems pale against the alternative: relying on
+the memories of individual experts, where none of the
+methodological rigor required for scientific analysis is
+applied, or even acknowledged, and where the recollections are almost certain to be inaccurate.
+Ordinary Practice and the Standard of Medical Care
+Is standard medical care always the standard of medical
+care? That is, are physicians obliged to administer the
+care that is ?ordinarily provided in the same or similar
+circumstances,?1 or are physicians obliged to conform to
+a more aspirational standard, ?the care that should be
+provided in such circumstances?? In other words, does
+customary practice determine negligence?
+There is a dispute about the weight to be given to
+ordinary practice in medical negligence cases. In some
+jurisdictions, custom defines reasonable conduct.32?40 However, in other jurisdictions, both federal41 and state,42?45 a more aspirational standard is applied (not what physicians ordinarily do, but what a reasonable physician should have done), and customary medical treatment is not decisive on the exercise of standard care. In these latter jurisdictions, do statistical compilations of normative practice become irrelevant to expert testimony regarding the standard of care? The answer is ?No.? Even when ordinary practice is not controlling, it is always relevant, and when it is relevant, juries and judges should learn what it actually is. Moreover, in their attempts to influence judge and jury, experts ought to distinguish exhortation from normative description. As an example, consider expert testimony in the context of an allegation concerning whether use of antenatal corticosteroids for a woman in preterm labor in the early 1990s was part of the ordinary standard of care. One can envision an expert obstetric witness saying that one should have given antenatal corticosteroids to this woman or even that he or she would have given antenatal corticosteroids (although, intriguingly, our data suggest that even these memories are flawed). However, under no circumstances could an expert accurately claim that administration of antenatal corticosteroids in the early 1990s conformed to ordinary care in similar circumstances. That point is sufficient for our purposes here. If legal authorities want to depart from the standard of ordinary care, they should do so with an accurate rather than fanciful understanding of what ordinary care is (cf Meadow46,47). There can be no doubt that experts know a great deal about topics on which ordinary people lack information. But experts, no less than other people, are subject to predictable memory biases. As a specific example, we have shown that a majority of obstetricians ?recalled? antenatal corticosteroid use to be common in the early 1990s, but the best available data suggest that only a small minority of obstetricians were actually using antenatal corticosteroids during this time. We offer a simple proposal. In determining the standard of medical care, the legal system should rely, whenever it can and far more than it now does, on statistical data about doctors? performance rather than the opinions of experts about doctors? performance. The fallible memories of isolated experts would be seen as a kind of crude second-best, far inferior to the data that they approximate. Widespread adoption of this view by professional physician organizations, supplemented by anticipatory publication of practice distributions for potentially problematic clinical scenarios, would dramatically increase the sense and rationality of expert testimony in medical malpractice tort law.
+REFERENCES 1. Illinois pattern jury instructions, malpractice. McCafferty
+MD and Meyers SM, eds. Medical Malpractice Bases of
+Liability. McGraw-Hill, 1985. 105.01.
+2. McCafferty MD, Meyer SM. Medical malpractice bases of
+liability. Colorado Springs, Colorado: Shepard?s/
+McGraw-Hill, 1985:2.30?35, 5.03, 34?39, 134.
+3. Tversky A, Kahneman D. Judgment under uncertainty:
+Heuristics and biases. In: Connolly T, Arkes HR, Hammond KR, eds. Judgment and decision making: An interdisciplinary reader. 2nd ed. Cambridge, United Kingdom:
+Cambridge University Press, 2000:38.
+4. Einhorn H. Expert judgment: Some necessary conditions
+and an example. In: Connolly T, Arkes HR, Hammond
+KR, eds. Judgment and decision making: An interdisciplinary reader. 2nd ed. Cambridge, United Kingdom: Cambridge University Press, 2000:324?5.
+5. Hoch SJ, Loewenstein GF. Outcome feedback: Hindsight
+and information. J Exp Psychol Learn Mem Cogn 1989
+15:605?19.
+6. Fischoff B. Hindsight is not equal to foresight: The effect of
+outcome knowledge on judgment under uncertainty. J Exp
+Psychol Hum Percept Perform 1975 1:288?99.
+7. Diaz J. Perils of putting. Sports Ill 1989 Apr 3.
+8. Meadow WL, et al. Ought ?standard care? be the ?standard of care?? A study of the time to administration of
+antibiotics in children with meningitis. Am J Dis Child
+1993 147:40?4.
+9. Crowley PA. Antenatal corticosteroid therapy: A metaanalysis of the randomized trials, 1972 to 1994. Am J
+Obstet Gynecol 1995 175:322?33.
+10. Wright LL, Horbar JD, Gunkel H, Verter J, Younes N,
+Andrews EB, et al. Evidence from multicenter networks
+on the current use and effectiveness of antenatal corticosteroids in low birth weight infants. Am J Obstet Gynecol
+1995 175:263?74.
+11. National Institutes of Health Consensus Development
+Conference statement. Effect of corticosteroids for fetal
+maturation on perinatal outcomes, February 28?March 2,
+1994. Am J Obstet Gynecol 1995 173:246?52.
+12. Andrews EB, Marcucci G, White A, Long W. Associations
+between use of antenatal corticosteroids and neonatal outcomes within the Exosurf Neonatal Treatment Investigational New Drug Program. Am J Obstet Gynecol 1995
+175:290?5.
+13. Teberg AJ, Hodgeman JE, Barton L, Chan LS. Nursery
+survival for infants of birth weight 500-1500 grams during
+1982-1995. J Perinatol 2001 21:97?106.
+14. Bronstein JM, Goldenberg RL. Practice variation in the
+use of corticosteroids: A comparison of eight data sets.
+Am J Obstet Gynecol 1995 173:296?8.
+15. Leviton LC, Baker S, Hassol A, Goldenberg RL. An
+exploration of opinion and practice patterns affecting low
+use of antenatal corticosteroids. Am J Obstet Gynecol
+1995 175:312?6.
+16. Piper JM, Mitchel EF, Snowden M, Hall C, Adams M, Taylor P. Validation of 1989 Tennessee birth certificates using maternal and newborn hospital records. Am J Epidemiol 1993 137:758?68. 17. Wright LL, Verter J, Younes N, Stevenson D, Fanaroff
+AA, Shankaran S, et al. Antenatal corticosteroid administration and neonatal outcome in very low birth weight
+infants: The NICHD Neonatal Research Network. Am J
+Obstet Gynecol 1995 175:269?74. 18. Vermont-Oxford Trials Network Database Project Investigators. The Vermont-Oxford Trials Network: Very low
+birth weight outcomes for 1990. Pediatrics 1993 91:540?5. 19. Horbar JD. Increasing use of antenatal corticosteroid therapy between 1990 and 1993 in Vermont Oxford Network.
+J Perinatol 1997 17:309?13. 20. Horbar JD. Antenatal corticosteroid treatment and neonatal
+outcomes for infants 501 to 1500 gm in the Vermont-Oxford
+Trials network. Am J Obstet Gynecol 1995 175:275?80. 21. Palta M, Sadek-Badawi M, Evans M, Weinstein MR,
+McGuinnes G. Functional assessment of a multicenter
+very low-birth-weight cohort at age 5 years. Newborn
+Lung Project. Arch Pediatr Adolesc Med 2000 154:23?30. 22. Leviton LC, Goldenberg RL, Baker C, Schwartz RM,
+Freda MC, Fish LJ, et al. Methods to encourage the use of
+antenatal corticosteroid therapy for fetal maturation: A
+randomized controlled trial. JAMA 1999 281:46?52. 23. Golden WE, Hopkins RH, Sanchez NP. Antenatal corticosteroids for the prevention of neonatal respiratory distress in a predominanty rural state medicaid population.
+Obstet Gynecol 1998 92:837?41. 24. Horbar JD, Badger GJ, Carpenter JH, Fanaroff AA, Kilpatrick S, LaCorte M, et al. Trends in mortality and
+morbidity for very low birth weight infants, 1991-1999.
+Pediatrics 2002 110:143?51. 25. Glanz SA. Primer of biostatistics. New York: McGrawHill, 1988. 26. Weinstein ND. Unrealistic optimism about future life
+events. J Pers Soc Psychol 1980 39:806?20. 27. Neisser U. John Dean?s memory: A case study. Cognition
+1981 9:1?22. 28. Hinzman DL. Repetition and memory. In: Bowe GH, ed.
+The psychology of learning and motivation. Vol 10. New
+York: Academic Press, 1976:47?91.
+29. Arkes HR, Wortman RL, Saville PD, Harkness AR. Hindsight bias among physicians weighting the likelihood of
+diagnosis. J Appl Psychol 1981 66:252?4.
+30. Berlin L. Hindsight bias. AJR Am J Roentegenol 2000 175:
+597?601.
+31. Lichtenstein S, Fischoff B, Phillips LD. Calibration of
+probabilities: State of the art. In: Kahneman D, Slovic P,
+Tversky A, eds. Judgment under uncertainty: Heuristics
+and biases. New York: Cambridge University Press, 1982:
+306?34.
+32. Epstein RA. Cases and materials on torts. 7th ed. Gaithersburg, Maryland: Aspen Law & Business, 2000:201?42.
+33. Keeton WP, ed. Prosser and Keeton on the law of torts.
+5th ed. St. Paul, Minnesota: West Publishing Co, 1984:
+193?195.
+34. The TJ Hooper, 60 F2d 737, 740 (2nd Cir), cert denied, 287
+US 662 (1932).
+35. Burgess v Superior Court, 831 P2d 1197, 1206 (Cal 1992).
+36. Cross v Huttenlocher, 440 A2d 952, 954 (Conn 1981).
+37. Spensieri v Lasky, 723 NE2d 544, 548 (NY 1999).
+38. Toth v Community Hospital, 239 NE2d 368, 372 (NY 1968).
+39. MacPherson v Ellis, 287 SE2d 892, 896 (NC 1982).
+40. Boone v Fisher, no. 13-96-001-CV, 2000 Tex App LEXIS
+4244, at *4 (Tex App 2000 Jun 22).
+41. McNeill v United States, 519 F Supp 283, 288 (DSC 1981).
+42. Vassos v Roussalis, 625 P2d 768, 772 (Wyo 1981).
+43. Advincula v United Blood Services, 678 NE2d 1009, 1027 (Ill
+1996).
+44. Darling v Charleston Community Memorial Hospital, 211 NE2d
+253, 257 (Ill 1965).
+45. Helling v Carey, 83 Wash2d 514, 519 P2d 9811 (1974).
+46. Meadow WL, Sunstein C. Statistics, not experts. Duke
+Law J 2001 51:629?43.
+47. Meadow WL. Operationalizing the standard of medical
+care: Uses and limitations of epidemiology to guide expert
+testimony in medical negligence allegations. Wake Forest
+Law Rev 2002 37:675?98.
+Received October 31, 2002. Received in revised form February 28,
+2003. Accepted March 13, 2003.
+Readers with comments should address them to:
+Cass R. Sunstein University of Chicago Law School 1111 East 60th Street Chicago, IL 60637
+William M. Landes, Copyright Protection of Letters, Diaries and Other Unpublished Works: An Economic Approach (July 1991) Richard A. Epstein, The Path to The T. J. Hooper: The Theory and History of Custom in the Law of Tort (August 1991) Cass R. Sunstein, On Property and Constitutionalism (September 1991) Richard A. Posner, Blackmail, Privacy, and Freedom of Contract (February 1992) Randal C. Picker, Security Interests, Misbehavior, and Common Pools (February 1992) Tomas J. Philipson & Richard A. Posner, Optimal Regulation of AIDS (April 1992) Douglas G. Baird, Revisiting Auctions in Chapter 11 (April 1992) William M. Landes, Sequential versus Unitary Trials: An Economic Analysis (July 1992) William M. Landes & Richard A. Posner, The Influence of Economics on Law: A Quantitative Study (August 1992) Alan O. Sykes, The Welfare Economics of Immigration Law: A Theoretical Survey With An Analysis of U.S. Policy (September 1992) Douglas G. Baird, 1992 Katz Lecture: Reconstructing Contracts (November 1992) Gary S. Becker, The Economic Way of Looking at Life (January 1993) J. Mark Ramseyer, Credibly Committing to Efficiency Wages: Cotton Spinning Cartels in Imperial Japan (March 1993) Cass R. Sunstein, Endogenous Preferences, Environmental Law (April 1993) Richard A. Posner, What Do Judges and Justices Maximize? (The Same Thing Everyone Else Does) (April 1993) Lucian Arye Bebchuk and Randal C. Picker, Bankruptcy Rules, Managerial Entrenchment, and Firm-Specific Human Capital (August 1993) J. Mark Ramseyer, Explicit Reasons for Implicit Contracts: The Legal Logic to the Japanese Main Bank System (August 1993) William M. Landes and Richard A. Posner, The Economics of Anticipatory Adjudication (September 1993) Kenneth W. Dam, The Economic Underpinnings of Patent Law (September 1993) Alan O. Sykes, An Introduction to Regression Analysis (October 1993) Richard A. Epstein, The Ubiquity of the Benefit Principle (March 1994) Randal C. Picker, An Introduction to Game Theory and the Law (June 1994) William M. Landes, Counterclaims: An Economic Analysis (June 1994) J. Mark Ramseyer, The Market for Children: Evidence from Early Modern Japan (August 1994) Robert H. Gertner and Geoffrey P. Miller, Settlement Escrows (August 1994) Kenneth W. Dam, Some Economic Considerations in the Intellectual Property Protection of Software (August 1994) Cass R. Sunstein, Rules and Rulelessness, (October 1994)
+3. 4. 5.
+6. 7. 8.
+11. 12. 13.
+19. 20. 21. 22. 23. 24.
+David Friedman, More Justice for Less Money: A Step Beyond Cimino (December 1994) Daniel Shaviro, Budget Deficits and the Intergenerational Distribution of Lifetime Consumption (January 1995) Douglas G. Baird, The Law and Economics of Contract Damages (February 1995) Daniel Kessler, Thomas Meites, and Geoffrey P. Miller, Explaining Deviations from the Fifty Percent Rule: A Multimodal Approach to the Selection of Cases for Litigation (March 1995) Geoffrey P. Miller, Das Kapital: Solvency Regulation of the American Business Enterprise (April 1995) Richard Craswell, Freedom of Contract (August 1995) J. Mark Ramseyer, Public Choice (November 1995) Kenneth W. Dam, Intellectual Property in an Age of Software and Biotechnology (November 1995) Cass R. Sunstein, Social Norms and Social Roles (January 1996) J. Mark Ramseyer and Eric B. Rasmusen, Judicial Independence in Civil Law Regimes: Econometrics from Japan (January 1996) Richard A. Epstein, Transaction Costs and Property Rights: Or Do Good Fences Make Good Neighbors? (March 1996) Cass R. Sunstein, The Cost-Benefit State (May 1996) William M. Landes and Richard A. Posner, The Economics of Legal Disputes Over the Ownership of Works of Art and Other Collectibles (July 1996) John R. Lott, Jr. and David B. Mustard, Crime, Deterrence, and Right-to-Carry Concealed Handguns (August 1996) Cass R. Sunstein, Health-Health Tradeoffs (September 1996) G. Baird, The Hidden Virtues of Chapter 11: An Overview of the Law and Economics of Financially Distressed Firms (March 1997) Richard A. Posner, Community, Wealth, and Equality (March 1997) William M. Landes, The Art of Law and Economics: An Autobiographical Essay (March 1997) Cass R. Sunstein, Behavioral Analysis of Law (April 1997) John R. Lott, Jr. and Kermit Daniel, Term Limits and Electoral Competitiveness: Evidence from California=s State Legislative Races (May 1997) Randal C. Picker, Simple Games in a Complex World: A Generative Approach to the Adoption of Norms (June 1997) Richard A. Epstein, Contracts Small and Contracts Large: Contract Law through the Lens of Laissez-Faire (August 1997) Cass R. Sunstein, Daniel Kahneman, and David Schkade, Assessing Punitive Damages (with Notes on Cognition and Valuation in Law) (December 1997) William M. Landes, Lawrence Lessig, and Michael E. Solimine, Judicial Influence: A Citation Analysis of Federal Courts of Appeals Judges (January 1998) John R. Lott, Jr., A Simple Explanation for Why Campaign Expenditures are Increasing: The Government is Getting Bigger (February 1998)
+33. 34. 35.
+Richard A. Posner, Values and Consequences: An Introduction to Economic Analysis of Law (March 1998) Denise DiPasquale and Edward L. Glaeser, Incentives and Social Capital: Are Homeowners Better Citizens? (April 1998) Christine Jolls, Cass R. Sunstein, and Richard Thaler, A Behavioral Approach to Law and Economics (May 1998) John R. Lott, Jr., Does a Helping Hand Put Others At Risk?: Affirmative Action, Police Departments, and Crime (May 1998) Cass R. Sunstein and Edna Ullmann-Margalit, Second-Order Decisions (June 1998) Jonathan M. Karpoff and John R. Lott, Jr., Punitive Damages: Their Determinants, Effects on Firm Value, and the Impact of Supreme Court and Congressional Attempts to Limit Awards (July 1998) Kenneth W. Dam, Self-Help in the Digital Jungle (August 1998) John R. Lott, Jr., How Dramatically Did Women=s Suffrage Change the Size and Scope of Government? (September 1998) Kevin A. Kordana and Eric A. Posner, A Positive Theory of Chapter 11 (October 1998) David A. Weisbach, Line Drawing, Doctrine, and Efficiency in the Tax Law (November 1998) Jack L. Goldsmith and Eric A. Posner, A Theory of Customary International Law (November 1998) John R. Lott, Jr., Public Schooling, Indoctrination, and Totalitarianism (December 1998) Cass R. Sunstein, Private Broadcasters and the Public Interest: Notes Toward A AThird Way@ (January 1999) Richard A. Posner, An Economic Approach to the Law of Evidence (February 1999) Yannis Bakos, Erik Brynjolfsson, Douglas Lichtman, Shared Information Goods (February 1999) Kenneth W. Dam, Intellectual Property and the Academic Enterprise (February 1999) Gertrud M. Fremling and Richard A. Posner, Status Signaling and the Law, with Particular Application to Sexual Harassment (March 1999) Cass R. Sunstein, Must Formalism Be Defended Empirically? (March 1999) Jonathan M. Karpoff, John R. Lott, Jr., and Graeme Rankine, Environmental Violations, Legal Penalties, and Reputation Costs (March 1999) Matthew D. Adler and Eric A. Posner, Rethinking Cost-Benefit Analysis (April 1999) John R. Lott, Jr. and William M. Landes, Multiple Victim Public Shooting, Bombings, and Right-to-Carry Concealed Handgun Laws: Contrasting Private and Public Law Enforcement (April 1999) Lisa Bernstein, The Questionable Empirical Basis of Article 2=s Incorporation Strategy: A Preliminary Study (May 1999)
+Richard A. Epstein, Deconstructing Privacy: and Putting It Back Together Again (May 1999) William M. Landes, Winning the Art Lottery: The Economic Returns to the Ganz Collection (May 1999) Cass R. Sunstein, David Schkade, and Daniel Kahneman, Do People Want Optimal Deterrence? (June 1999) Tomas J. Philipson and Richard A. Posner, The Long-Run Growth in Obesity as a Function of Technological Change (June 1999) David A. Weisbach, Ironing Out the Flat Tax (August 1999) Eric A. Posner, A Theory of Contract Law under Conditions of Radical Judicial Error (August 1999) David Schkade, Cass R. Sunstein, and Daniel Kahneman, Are Juries Less Erratic than Individuals? Deliberation, Polarization, and Punitive Damages (September 1999) Cass R. Sunstein, Nondelegation Canons (September 1999) Richard A. Posner, The Theory and Practice of Citations Analysis, with Special Reference to Law and Economics (September 1999) Randal C. Picker, Regulating Network Industries: A Look at Intel (October 1999) Cass R. Sunstein, Cognition and Cost-Benefit Analysis (October 1999) Douglas G. Baird and Edward R. Morrison, Optimal Timing and Legal Decisionmaking: The Case of the Liquidation Decision in Bankruptcy (October 1999) Gertrud M. Fremling and Richard A. Posner, Market Signaling of Personal Characteristics (November 1999) Matthew D. Adler and Eric A. Posner, Implementing Cost-Benefit Analysis When Preferences Are Distorted (November 1999) Richard A. Posner, Orwell versus Huxley: Economics, Technology, Privacy, and Satire (November 1999) David A. Weisbach, Should the Tax Law Require Current Accrual of Interest on Derivative Financial Instruments? (December 1999) Cass R. Sunstein, The Law of Group Polarization (December 1999) Eric A. Posner, Agency Models in Law and Economics (January 2000) Karen Eggleston, Eric A. Posner, and Richard Zeckhauser, Simplicity and Complexity in Contracts (January 2000) Douglas G. Baird and Robert K. Rasmussen, Boyd=s Legacy and Blackstone=s Ghost (February 2000) David Schkade, Cass R. Sunstein, Daniel Kahneman, Deliberating about Dollars: The Severity Shift (February 2000) Richard A. Posner and Eric B. Rasmusen, Creating and Enforcing Norms, with Special Reference to Sanctions (March 2000) Douglas Lichtman, Property Rights in Emerging Platform Technologies (April 2000)
+84. 85. 86.
+91. 92. 93.
+Cass R. Sunstein and Edna Ullmann-Margalit, Solidarity in Consumption (May 2000) David A. Weisbach, An Economic Analysis of Anti-Tax Avoidance Laws (May 2000, revised May 2002) Cass R. Sunstein, Human Behavior and the Law of Work (June 2000) William M. Landes and Richard A. Posner, Harmless Error (June 2000) Robert H. Frank and Cass R. Sunstein, Cost-Benefit Analysis and Relative Position (August 2000) Eric A. Posner, Law and the Emotions (September 2000) Cass R. Sunstein, Cost-Benefit Default Principles (October 2000) Jack Goldsmith and Alan Sykes, The Dormant Commerce Clause and the Internet (November 2000) Richard A. Posner, Antitrust in the New Economy (November 2000) Douglas Lichtman, Scott Baker, and Kate Kraus, Strategic Disclosure in the Patent System (November 2000) Jack L. Goldsmith and Eric A. Posner, Moral and Legal Rhetoric in International Relations: A Rational Choice Perspective (November 2000) William Meadow and Cass R. Sunstein, Statistics, Not Experts (December 2000) Saul Levmore, Conjunction and Aggregation (December 2000) Saul Levmore, Puzzling Stock Options and Compensation Norms (December 2000) Richard A. Epstein and Alan O. Sykes, The Assault on Managed Care: Vicarious Liability, Class Actions and the Patient=s Bill of Rights (December 2000) William M. Landes, Copyright, Borrowed Images and Appropriation Art: An Economic Approach (December 2000) Cass R. Sunstein, Switching the Default Rule (January 2001) George G. Triantis, Financial Contract Design in the World of Venture Capital (January 2001) Jack Goldsmith, Statutory Foreign Affairs Preemption (February 2001) Richard Hynes and Eric A. Posner, The Law and Economics of Consumer Finance (February 2001) Cass R. Sunstein, Academic Fads and Fashions (with Special Reference to Law) (March 2001) Eric A. Posner, Controlling Agencies with Cost-Benefit Analysis: A Positive Political Theory Perspective (April 2001) Douglas G. Baird, Does Bogart Still Get Scale? Rights of Publicity in the Digital Age (April 2001) Douglas G. Baird and Robert K. Rasmussen, Control Rights, Priority Rights and the Conceptual Foundations of Corporate Reorganization (April 2001) David A. Weisbach, Ten Truths about Tax Shelters (May 2001) William M. Landes, What Has the Visual Arts Rights Act of 1990 Accomplished? (May 2001) Cass R. Sunstein, Social and Economic Rights? Lessons from South Africa (May 2001)
+100. 101. 102.
+103. 104. 105.
+109. 110. 111.
+Christopher Avery, Christine Jolls, Richard A. Posner, and Alvin E. Roth, The Market for Federal Judicial Law Clerks (June 2001) Douglas G. Baird and Edward R. Morrison, Bankruptcy Decision Making (June 2001) Cass R. Sunstein, Regulating Risks after ATA (June 2001) Cass R. Sunstein, The Laws of Fear (June 2001) Richard A. Epstein, In and Out of Public Solution: The Hidden Perils of Property Transfer (July 2001) Randal C. Picker, Pursuing a Remedy in Microsoft: The Declining Need for Centralized Coordination in a Networked World (July 2001) Cass R. Sunstein, Daniel Kahneman, David Schkade, and Ilana Ritov, Predictably Incoherent Judgments (July 2001) Eric A. Posner, Courts Should Not Enforce Government Contracts (August 2001) Lisa Bernstein, Private Commercial Law in the Cotton Industry: Creating Cooperation through Rules, Norms, and Institutions (August 2001) Richard A. Epstein, The Allocation of the Commons:Parking and Stopping on the Commons (August 2001) Cass R. Sunstein, The Arithmetic of Arsenic (September 2001) Eric A. Posner, Richard Hynes, and Anup Malani, The Political Economy of Property Exemption Laws (September 2001) Eric A. Posner and George G. Triantis, Covenants Not to Compete from an Incomplete Contracts Perspective (September 2001) Cass R. Sunstein, Probability Neglect: Emptions, Worst Cases, and Law (November 2001) Randall S. Kroszner and Philip E. Strahan, Throwing Good Money after Bad? Board Connections and Conflicts in Bank Lending (December 2001) Alan O. Sykes, TRIPs, Pharmaceuticals, Developing Countries, and the Doha ASolution@ (February 2002) Edna Ullmann-Margalit and Cass R. Sunstein, Inequality and Indignation (February 2002) Daniel N. Shaviro and David A. Weisbach, The Fifth Circuit Gets It Wrong in Compaq v. Commissioner (February 2002) (Published in Tax Notes, January 28, 2002) Warren F. Schwartz and Alan O. Sykes, The Economic Structure of Renegotiation and Dispute Resolution in the WTO/GATT System (March 2002, Journal of Legal Studies 2002) Richard A. Epstein, HIPAA on Privacy: Its Unintended and Intended Consequences (March 2002, forthcoming Cato Journal, summer 2002) David A. Weisbach, Thinking Ouside the Little Boxes (March 2002, Texas Law Review) Eric A. Posner, Economic Analysis of Contract Law after Three Decades: Success or Failure (March 2002) Randal C. Picker, Copyright as Entry Policy: The Case of Digital Distribution (April 2002, The Antitrust Bulletin)
+127. 128. 129.
+David A. Weisbach, Taxes and Torts in the Redistribution of Income (April 2002, Coase Lecture February 2002) Cass R. Sunstein, Beyond the Precautionary Principle (April 2002) Robert W. Hahn and Cass R. Sunstein, A New Executive Order for Improving Federal Regulation? Deeper and Wider Cost-Benefit Analysis (April 2002) Douglas Lichtman, Copyright as a Rule of Evidence (May 2002, updated January 2003) Richard A. Epstein, Steady the Course: Property Rights in Genetic Material (May 2002) Jack Goldsmith and Cass R. Sunstein, Military Tribunals and Legal Culture: What a Difference Sixty Years Makes (June 2002) William M. Landes and Richard A. Posner, Indefinitely Renewable Copyright (July 2002) Anne Gron and Alan O. Sykes, Terrorism and Insurance Markets: A Role for the Government as Insurer? (July 2002) Cass R. Sunstein and Adrian Vermeule, Interpretation and Institutions (July 2002) Cass R. Sunstein, The Rights of Animals: A Very Short Primer (August 2002) Cass R. Sunstein, Avoiding Absurdity? A New Canon in Regulatory Law (with Notes on Interpretive Theory) (August 2002) Randal C. Picker, From Edison to the Broadcast Flag: Mechanisms of Consent and Refusal and the Propertization of Copyright (September 2002) Eric A. Posner, A Theory of the Laws of War (September 2002) Eric A. Posner, Probability Errors: Some Positive and Normative Implications for Tort and Contract Law (September 2002) Lior Jacob Strahilevitz, Charismatic Code, Social Norms, and the Emergence of Cooperation on the File-Swapping Networks (September 2002) David A. Weisbach, Does the X-Tax Mark the Spot? (September 2002) Cass R. Sunstein, Conformity and Dissent (September 2002) Cass R. Sunstein, Hazardous Heuristics (October 2002) Douglas Lichtman, Uncertainty and the Standard for Preliminary Relief (October 2002) Edward T. Swaine, Rational Custom (November 2002) Julie Roin, Truth in Government: Beyond the Tax Expenditure Budget (November 2002) Avraham D. Tabbach, Criminal Behavior, Sanctions, and Income Taxation: An Economic Analysis (November 2002) Richard A. Epstein, In Defense of ?Old? Public Health: The Legal Framework for the Regulation of Public Health (December 2002) Richard A. Epstein, Animals as Objects, or Subjects, of Rights (December 2002) David A. Weisbach, Taxation and Risk-Taking with Multiple Tax Rates (December 2002) Douglas G. Baird and Robert K. Rasmussen, The End of Bankruptcy (December 2002)
+163. 164. 165. 166.

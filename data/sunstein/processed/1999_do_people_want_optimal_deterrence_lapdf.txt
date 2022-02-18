@@ -1,0 +1,249 @@
+Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics Part of the Law Commons
+University of Chicago Law School
+Coase-Sandor Working Paper Series in Law and Economics
+David Schkade Cass R. Sunstein Daniel Kahneman
+Coase-Sandor Institute for Law and Economics
+JOHN M. OLIN LAW & ECONOMICS WORKING PAPER NO. 77
+(2D SERIES)
+This paper can be downloaded without charge at:
+The Chicago Working Paper Series Index: http://www.law.uchicago.edu/Publications/Working/index.html
+The Social Science Research Network Electronic Paper Collection:
+http://papers.ssrn.com/paper.taf?abstract_id=166168
+Cass R. Sunstein,* David Schkade,** and Daniel Kahneman*** For those interested in the effects of law on human behavior, deterrence is of course the central question. No one doubts that legal sanctions, civil and criminal, can have significant behavioral consequences. Thus the economic theory of punishment in general, and of punitive damages in particular, is designed to ensure optimal deterrence of private and public misconduct. Emphasizing this point, many observers have suggested that participants in the legal system should be asked to choose among punishments by answering explicit questions about how to achieve optimal deterrence.1 To take just one illustration, Polinsky and Shavell have gone so far to offer a model jury instruction, one that would direct jurors to focus their attention on the probability that the defendant?s act would be detected.2
+Extending and elaborating on the standard law-and-economics wisdom on this topic, Polinsky and Shavell urge that the principal purpose of punitive awards is to make up for the shortfall in compensatory damages, a shortfall caused by the failure of potential plaintiffs to detect the injury and to seek compensation. Polinsky and Shavell would ask jurors to multiply the compensatory award by
+Chicago Working Paper in Law and Economics 2 the probability that injured persons would not detect and receive compensation for the injury.3 Thus, for example, no punitive award should be permitted when the probability of compensation is 100%, and the compensatory award should be doubled when the probability is 50%.4 Polinsky and Shavell object that in the real world, jurors do not attempt to promote optimal deterrence their jury instruction is designed to move juror performance in that direction.5
+An obvious question raised by proposals of this kind is whether jurors are able or willing to carry out the relevant tasks. Perhaps it is unlikely that jurors could master the complex causal issues involved in making ex ante probability judgments hindsight bias, for example, might contaminate the inquiry (causing artificially diminished awards).6 But even more basic questions are whether citizens generally would approve of this approach to punitive damages, and whether jurors would be willing to perform this task if asked to do so. Previous research suggests that people?s judgments about punitive damage awards are a reflection of outrage at the defendant?s actions rather than of deterrence.7 This is not to say that people do not care about deterrence of course they do. Our hypothesis here is that they
+3 Do People Want Optimal Deterrence? do not attempt to promote optimal deterrence for this reason they do not make the kinds of distinctions that are obvious, even secondnature, for those who study deterrence questions. Above all, they may not believe that in order to ensure optimal deterrence, the amount that a given defendant is required to pay should be increased or decreased depending on the probability of detection , a central claim in the economic analysis of law.8
+In this paper we discuss two studies designed to test whether people believe in optimal deterrence. In the first study, we focus people?s attention on the probability of detection, in order to see how this variable influences their judgments. If people do not attempt to promote optimal deterrence, this factor would be viewed as largely irrelevant (a point that we qualify below). This finding would in turn have implications for the role of juries in implementing deterrent goals. If optimal deterrence is the purpose of some legal reform, that purpose could be met with resistance in the jury system. If optimal deterrence is the goal of legal reform, it may be necessary to rely on less populist institutions, such as regulatory agencies.
+In the second study, we ask the optimal deterrence question more directly. We present subjects with the question whether it is proper, or fair, for public officials (including judges) to vary the degree of punishment with the probability of detection. We ask whether it is proper for judges to refuse to allow punitive damages when the probability of detection is 100%, and also whether the Internal Revenue Service should increase penalties when a smaller number of agents means that there will be a larger degree of undetected tax cheating. Compared to the first study, this is a more straightforward test of the question whether people want optimal deterrence. If people reject explicit official decisions to vary punishment with the probability of detection, it is safe to include that they do not believe in achieving optimal deterrence.
+Chicago Working Paper in Law and Economics 4
+I. Background Outside of the context of punitive damages, psychological work on punishment has suggested that when thinking about punishment, people are not simple consequentialists, and that their ideas about punishment diverge from what would be expected from an optimal deterrence approach. For example, Baron and Ritov studied people?s judgments about penalties in tort cases involving harms resulting from the use of vaccines and birth control pills.9 In one case, subjects were told that the result of a higher penalty would be to make companies try harder to make safer products. In an adjacent case, subjects were told that the consequence of a higher penalty would be to make the company more likely to stop making the product, with the result that less safe products would be on the market. Most subjects, including a group of judges, gave the same penalties in both cases.
+A related study found no reduction in penalty even when subjects were told that the amount of the penalty would have no effect on future behavior?because the penalty was secret, the company had insurance, and the company was about to go out of business.10 While not directly tied to the topic of optimal deterrence, these studies strongly suggest that intuitive punishment judgments are not tailored to consequentialist goals.
+Another test of punishment judgments asked subjects, including judges and legislators, to choose penalties for dumping hazardous waste.11 In one case, the penalty would make companies
+5 Do People Want Optimal Deterrence? try harder to avoid waste. In another, the penalty would lead companies to cease making a beneficial product. Most people did not penalize companies differently in the two cases. Perhaps most strikingly, people preferred to require companies to clean up their own waste, even if the waste did not threaten anyone, instead of spending the same amount to clean up far more dangerous waste produced by another, now-defunct company.
+These studies indicate that when assessing punishment, people do not focus solely on social consequences, at least not in any simple way. If this is true, it is reasonable to think that people also do not attempt to promote optimal deterrence. But this proposition has not been tested. We attempt to make some progress on the question here, above all by asking people to focus on a key variable: the probability of detection.
+II. Study 1
+The Irrelevance of Probability of Detection A. Design and Sample
+The first study offered three personal injury cases (see Appendix) to test the effect of explicitly varying the probability of detection on juror judgments. The question we examined was whether people would offer different judgments about penalty levels when the probability of detection was varied. In one case, for example, the plaintiff suffered serious post-operative complications after surgery on his broken leg. He claimed that the surgeon was incompetent, and sued the owner of the hospital. The hospital had previously received several complaints about the surgeon, but had not disciplined him. Compensatory damages had already been awarded.
+Three versions of each case were prepared. These differed only in the relative frequency of detection, which was set at 1 out of 100, 1 out of 10, or 1 out of 5. The level of compensatory damages was the same for all cases ($200,000) as was firm size (annual profits of around $150 million). Here, for example, is the relevant wording for one of the cases:
+?In situations like this, victims who deserve
+compensation do not always receive it because (1) they
+Chicago Working Paper in Law and Economics 6 don?t know what caused their problem and therefore don?t sue, (2) they don?t know that they can sue, or (3) they sue and lose, even though they deserve to win under the law, because their lawyers are not good enough. Research has shown that in only 1 out of 100 situations where someone has an experience like Joan Glover is the company eventually required to pay compensation to the victim.? Note that several features of this design were specifically selected in order to enhance the likelihood that respondents would use, rather than ignore, the information provided on the probability of detection. Both firm size and compensatory damages were held constant, and these were the only other quantitative factors presented moreover, a quantitative response was required. Thus the design drew attention to the only number that varied between cases, the probability of detection, increasing the chance that it would be thought relevant. The probability information was also provided in the form of relative frequencies, which are more easily understood and processed than decimals. Jurors were specifically directed to deterrence (as well as retribution) in the jury instructions (see Appendix). Note also that our purpose, in this study, was not to ask directly whether the legal system should pursue optimal deterrence, nor to see if people could or would pay attention to probability of detection if required to do so, but instead to examine whether information on that question would be used appropriately if provided and emphasized. Any answer would tell us a great deal about people?s intuitive approach to punishment questions.
+Respondents were randomly assigned to one of nine conditions, which were constructed to ensure that (1) each respondent judged all three cases, (2) each respondent judged all three levels of probability of detection, (3) across respondents, all nine combinations of case and probability of detection were equally represented in each of the three ordinal positions (first, second, third). The design is summarized in Table 3 (in the Appendix).
+A total of 699 jury-eligible citizens from Phoenix, Arizona were recruited and paid by a survey firm. Session sizes varied from 23 to 29 and were held in conference rooms of local hotels. Participants were randomly assigned to one of the nine conditions described above,
+7 Do People Want Optimal Deterrence? resulting in the sample allocation in Table 3 in the Appendix. The data were analyzed using a repeated measures analysis of variance, with probability of detection, case, and sequence as independent variables, along with a subject factor. Because the award distribution is severely right skewed, as is typical of punitive damages awards,12 the natural log of awards was used as the dependent variable. B. Results and Implications
+The basic result was both striking and simple. Changes in the probability of detection did not produce significant changes in dollar awards, even though it was varied by a factor of 20 this was apparently irrelevant to their dollar judgments (Table 1). To be sure, there does appear to be a positive trend in the means, but this difference is not statistically significant (F(2,1336) = 0.5, p .50), and even if it were, it is in the opposite direction of that required by the deterrence argument: The greater the likelihood of detection, the higher the award. The clear implications of this result are (1) that explicitly drawing people?s attention to a low probability of detection does not by itself produce higher or materially different awards and (2) that optimal deterrence is, to that important extent, not promoted by people?s spontaneous judgments about appropriate punishment.
+Nothing said here excludes the possibility that if specifically required to think about issues of optimal deterrence, as urged by Polinsky and Shavell, jurors might be willing to do so. Study 1 does not demonstrate that the proposed Polinsky-Shavell jury instruction would necessarily be met with a form of civil disobedience. It remains possible that people do care about deterrence but do not understand the relationship between probability of detection and (optimal) deterrence perhaps they are confused about how best to deter. Perhaps they do not understand the risk of overdeterrence and
+Chicago Working Paper in Law and Economics 8 underdeterrence and might be willing to think in these terms if the concepts were explained. Nor did we undertake a within-subjects test of the sort described in Part I we do not know whether respondents, confronted with two cases, otherwise identical but with different probabilities of detection, would treat the two cases in the same way. And while the first study tests whether jurors will take account of the low probability of detection when prominently placed before them, it does not ask for reactions to officials or institutions who have done exactly that. Our second study sheds some light on these issues.
+Table 1
+Mean $ Awards by Case and Probability of Detection*
+Probability of Detection
+* These figures are derived from the mean log awards used in the analysis of variance. To make the figures more easily interpreted, the mean log award for each cell was converted to $ by taking the inverse. For example, the mean log award for the Glover case with a 1/100 probability was 13.426, and e13.426 = 677,399.
+9 Do People Want Optimal Deterrence? III. Study 2 Do People Accept Optimal Deterrence Policies? A. Introduction, Method, Stimuli
+The first study did not expressly ask people whether optimal deterrence policies were appropriate or proper. In our second study, we asked University of Chicago Law School students to answer this question. The general hypothesis was that most people would reject optimal deterrence policies if chosen by an administrative agency or by a district court. The University of Chicago Law School, however, would seem to be extremely unfavorable terrain for this hypothesis. University of Chicago Law School students generally learn a great deal about deterrence theory in their first year of law school, and they study optimal deterrence in their required courses about the law of tort and criminal law. Thus training in the first year of law school alerts University of Chicago students to the possibility of over- or underdeterrence and to the need to consider both level and probability of penalty in achieving optimal deterrence. It would therefore be reasonable to speculate that a large percentage of students would accept optimal deterrence theory. But the speculation would be wrong.
+Two questions were presented to 84 students in the first session of a general administrative law class, taken by both second-year and third-year students. The questions involved enforcement policy and punitive damages. The question involving enforcement policy was this:
+?Suppose that the Internal Revenue Service
+(IRS) has a large number of agents per 10,000
+people in California, but a small number of agents
+per 10,000 people in Utah suppose too that because
+of practical constraints, the IRS cannot increase the
+number of agents in Utah. Suppose that you are
+head of the IRS, and that your second-in-command
+has sent you a memorandum saying, ?To make up for
+the shortfall of agents in Utah, ensure the right level
+of deterrence, we need to impose higher penalties for
+tax violations in Utah than for tax violations in
+Chicago Working Paper in Law and Economics 10 California. I recommend that you adopt a policy to this effect.? Putting aside purely political considerations, would you agree with this policy?? The question involving punitive damages was this:
+?Tom Johnson, a construction worker, was
+severely injured as a result of grotesquely reckless
+safety practices by his employer. In the trial,
+uncontradicted experts testified that Johnson?s
+employer ?did not even try to take the most minimal
+and obvious precautions to protect workers against
+serious risks to life and health.? The jury awarded
+Johnson $50,000 in compensatory damages and
+$300,000 in punitive damages. The trial judge set
+aside the punitive award on the ground that ?there
+was essentially no chance that Johnson would not
+seek and receive compensation, and hence there is
+no need for punitive damages in this case.? Assume
+that the trial judge was correct on his factual
+claim?and thus that there was no chance that
+Johnson would not seek and receive full
+compensation. Do you agree that punitive damages
+should not be awarded?? Respondents were asked to give one of four answers to these questions: strongly disagree (1), somewhat disagree (2), somewhat agree (3), strongly agree (4). (Note that we did not ask whether the result was ?fair,? believing that this formulation might bias answers against optimal deterrence policies.) The question order was varied about half of respondents answered the IRS question first, and about half answered it second. Since it seemed that an unusual number of respondents, having been schooled in optimal deterrence policies, would accept those policies, we also asked a follow-up question for each problem. The question was whether most other people would agree with the policy. Thus, each participant gave four responses, all on a 1-4 disagree-agree scale: Self and Other ratings for both the IRS and punitive damages questions.
+11 Do People Want Optimal Deterrence? B. Results and Comments
+The simplest statement of the result is that very strong majorities of respondents rejected optimal deterrence policies in both settings, disagreeing with both the IRS policy and the punitive damage ruling. More particularly, 84% rejected the judge?s decision to set aside the punitive damage award, and 75%, rejected the IRS? policy. Substantial majorities believed that most other people would also reject the optimal deterrence policy?67% of respondents said that most people would disagree with the punitive damage judgment, and 87% of respondents said that most people would disagree with the IRS policy. In short, substantial majorities both rejected the optimal deterrence approach and believed that most people would reject the optimal deterrence approach.
+The overwhelming majorities with respect to the punitive damage judgment are especially noteworthy. Respondents at the University of Chicago Law School are well aware of the economic theory of punitive awards. They apparently rejected that theory with the thought that reckless or invidious behavior deserves to be punished, whatever deterrence theory may suggest. Hence the respondents? refusal to accept optimal deterrence theory provides some information about the content of punitive intuitions: In general, moral judgments about inappropriate behavior are affected little or not at all by the probability of detection.
+There is an interesting wrinkle in the findings: More people disapproved of the punitive damages judgment than believed that most people would disapprove of the punitive damage judgment. It is not clear how to account for this. But subsequent informal discussion suggested a possible explanation: A small group of students who disagreed with the judge?s decision to set aside the punitive award believed that because of the publicity given to apparently excessive punitive awards, most people would approve of a judge?s decision to set aside any such award.
+Do People Want Optimal Deterrence?
+C. Implications and Puzzles The obvious implication of this study is that people generally reject optimal deterrence policies. The IRS example is a conventional regulatory effort to increase penalties because of the low probability of detection the punitive damage case is a conventional application of conventional optimal deterrence theory. If even University of Chicago Law School students reject optimal deterrence approaches by a substantial margin, there is no reason to expect, and every reason to doubt, that such policies would obtain majority or even significant support elsewhere.14
+Several questions might be asked about the implications of these findings. In the IRS study, the question asked about an IRS increase in penalties because of a lower probability of detection in Utah. Would people?s answers shift if respondents were asked about an IRS decrease in penalties because of a higher probability of detection in California?15 In other words, the answers may have been affected not only by the (apparently unjustified) inequality between citizens of Utah and citizens of California, but also because of a framing effect in which the former were being subjected to what might seem to be unusually high penalties. Perhaps a different framing of the question would produce a shift in answers. Or perhaps the key problem in the IRS case was the evident inequality between similarly situated citizens. Would respondents reject an optimal deterrence policy if it was global?if, for example, an administrative agency increased penalties in 2001 because of reduced enforcement
+Chicago Working Paper in Law and Economics 14 resources, or if a new agency offered high penalties because of underfunding?
+Similarly, the punitive damages problem involved a judicial elimination of the jury award because of a 100% probability of detection, an outcome that apparently seemed outrageous to many respondents. It is easy to imagine a case in which the judge increases the penalty because the probability of detection was (say) 10%. We know from Study 1 that such an increase would not occur to jurors spontaneously. But how many people would find this outcome unacceptable?
+These are important questions, and some answers would give more precise information about the psychology of punishment. But they do not bear on the general issue pursued here, which is whether people attempt to promote optimal deterrence. Even if variations in the cases might increase the number of people willing to approve of some probability-penalty tradeoff, it would not follow that optimal deterrence policies fit comfortably with moral intuitions. We have offered considerable evidence that they do not. The fact that optimal deterrence policies are rejected in both the administrative and the judicial domains, among a group most likely to be predisposed in their favor, strongly suggests that any effort to move in the direction of optimal deterrence would encounter strong popular resistance.
+The claims that people do not attempt to promote optimal deterrence policies, and that they are likely to reject many such policies, raise two further issues. The first has to do with the structure (if any) of people?s judgments, if those judgments are not based on the idea of optimal deterrence. In previous work we have started to develop a descriptive model of punitive damages, with implications for punishment judgments in general. The essential claim is that punitive awards emerge from a cascade of judgments, moving from outrage to punitive intent to dollar awards. The evaluative aspect of outrage can be measured on bounded numerical scales, and even within diverse demographic groups, there is considerable uniformity in outrage judgments, thus measured.17
+15 Do People Want Optimal Deterrence? Punitive intent, which can also be measured on bounded numerical scales, is determined both by outrage and by additional factors, such as harm, which do not affect outrage itself. Dollar awards emerge from a combination of punitive intent and still additional factors, such as firm size, which do not themselves affect punitive intent (measured on a bounded numerical scale).
+It should be clear that as described, the outrage model does not incorporate any effort to seek optimal deterrence. But as we have noted, it remains possible that a low probability of detection would affect outrage, not because deterrence requires severe punishment, but because a stealthy act is more outrageous than one that is out in the open. We suspect that if the probability of detection sometimes matters?if a low or for that matter high probability drives up dollar awards?it is because of the increased outrage elicited by a stealthy or shameless act. It would be feasible, for example, to examine whether people would offer higher awards when the defendant?s conduct was extremely open and thus indicated a kind of obliviousness to widespread social norms it would equally be possible to explore whether people would offer higher awards when a defendant took careful (fiendish?) steps to conceal his wrongdoing. From the standpoint of retribution, and outrage, it is not clear, in the abstract, whether a defendant should be deemed stealthy and sneaky, and hence more severely punished when the probability of detection is low, or instead deemed shameless, and hence more severely punished when the probability of detection is high. It is reasonable to think that outrage, and hence dollar awards, might be increased through cases that exemplify either phenomenon.
+The second issue has to do with the relationship between our findings and the real world of punitive damages. Here the question is whether juries tend to increase awards because the probability of detection was low. There is no evidence that this happens, and considerable reason to believe that it does not. Those who claim that punitive awards are predictable show that the compensatory award tends to ?anchor? the punitive award, that is, the punitive award is much affected by the compensatory award.18 Juries do not add a special multiplier when the probability of compensation is low, nor
+Chicago Working Paper in Law and Economics 16 do they refuse to go beyond the compensatory award when the probability is 100%. Polinsky and Shavell themselves give a number of examples of cases in which the probability of detection did not matter and suggest that judicial determinations ?do not reflect in any clear manner the formula that achieves optimal deterrence.?19 We agree that the inevitably messy real-world data show that juries do not pursue optimal deterrence. What we have added is less messy evidence that people do not promote optimal deterrence even when given information that would enable, even encourage them to do so?and also that people reject optimal deterrence policies in important settings.
+IV. Conclusions
+People do not spontaneously think in terms of optimal deterrence and indeed they would be reluctant to accept effort to build the law on the foundation of optimal deterrence theory. Their proposed punishments do not differ depending on the probability of deterrence, even when this factor is specifically drawn to their attention. In addition, people reject law enforcement policies that increase or decrease penalties because of the probability of detection. These findings have several implications.
+First: Serious practical issues would be raised by any effort to require ordinary people to think in terms of optimal deterrence. Any such effort could run up against widely held moral intuitions. This does not mean that people will not obey the law. But there is a serious risk that a jury instruction asking jurors to think in terms of optimal deterrence would not be followed in the real world.
+Second: The public will be skeptical of an effort to base law enforcement policy on principles of optimal deterrence. An attempt to move policy in this direction could be widely perceived as unfair and wrong. Even if the perception is naïve or ignorant?and we take no stand here on the normative question?it is important for policymakers to know about it.
+Third: If government is going to base its enforcement policy on the idea of optimal deterrence, it has several alternatives. It might keep its policy quiet. Alternatively, it might attempt to educate the
+17 Do People Want Optimal Deterrence? public, so as to convince people that this is, in fact, the proper strategy. Or it might use optimal deterrence policies in settings in which they can be ?framed? so as to fit most comfortably with moral intuitions.20 Perhaps more promisingly, it might use less populist institutions to promote the relevant goals. It might, for example, shift decisional authority away from juries and toward bureaucracies, with the knowledge that whatever ordinary people think, the relevant administrators will seek to promote optimal deterrence.
+Chicago Working Paper in Law and Economics
+Study 1 Design Summary
+P(detect) 1 in 100
+1 in 10
+1 in 5
+1 in 10
+1 in 5
+1 in 100
+1 in 5
+1 in 100
+1 in 10
+1 in 5
+1 in 100
+1 in 10
+1 in 100
+1 in 10
+1 in 5
+1 in 10
+1 in 5
+1 in 100
+1 in 10
+1 in 5
+1 in 100
+1 in 5
+1 in 100
+1 in 10
+1 in 100
+1 in 10
+1 in 5
+Order 1 2 3 1 2 3 1 2 3 1 2 3 1 2 3 1 2 3 1 2 3 1 2 3 1 2 3
+Case Glover Fredericks Elegin
+Glover
+Fredericks
+Elegin
+Glover
+Fredericks
+Elegin
+Fredericks
+Elegin
+Glover
+Fredericks
+Elegin
+Glover
+Fredericks
+Elegin
+Glover
+Elegin
+Glover
+Fredericks
+Elegin
+Glover
+Fredericks
+Elegin
+Glover
+Fredericks
+19 Do People Want Optimal Deterrence? Instructions and Stimuli Juror Instructions (excerpts)
+In this study we would like you to imagine that you are a juror for a legal case in a civil court. Civil law suits involve disputes between private individuals, companies, or individuals and companies, in which the plaintiff alleges that the defendant harmed them in some way. The primary purpose of a civil suit brought by a plaintiff is to seek compensation from the defendant for the alleged harm.
+Civil suits involve two different types of potential damages that a defendant could be could be required to pay. Compensatory damages are intended to fully compensate a plaintiff for the harm suffered as a result of the defendant?s actions. Punitive damages are intended to achieve two purposes: (1) to punish the defendant for unusual misconduct, and (2) to deter the defendant and others from committing similar actions in the future.
+Punitive damages should be awarded if a preponderance of the evidence shows that the defendants acted either maliciously or with reckless disregard for the welfare of others. Defendants are considered to have acted maliciously if they intended to injure or harm someone. Defendants are considered to have acted with reckless disregard for the welfare of others if they were aware of the probable harm to others but disregarded it, and their actions were a gross deviation from the standard of care that a normal person would use.
+Civil suits differ from criminal cases, in which the government prosecutes an individual or a company for alleged violations of the law. Plaintiffs in a civil trial must prove their claim by ?a preponderance of the evidence,? which means that it is more likely than not that the plaintiff?s claim is justified. This differs from criminal trials, where the prosecution must prove the defendant?s guilt ?beyond a reasonable doubt,? which is a much stronger level of proof.
+Please imagine that you are a member of the jury for this case. Your job is to decide whether and how much the defendant should be punished, in addition to paying compensatory damages. In the case you will consider, the jury has already ordered the defendant to
+Chicago Working Paper in Law and Economics 20 pay compensatory damages to the plaintiff. This does not necessarily mean that punitive damages must also be awarded. Whether or not punitive damages should be awarded and if so how large they should be is completely separate from compensatory damages.
+Glover v. General Assistance
+Joan Glover, a five-year-old child, ingested a large number of pills of a non-prescription allergy medicine called Allerfree. The Allerfree bottle carried a label reading "Childproof Cap", but it did not meet federal regulations for the use of that label. Joan's parents testified that they had been very careful in ensuring that all of their medications had childproof safety caps. Joan found the pills in a kitchen drawer and ingested most of the bottle. The overdose permanently weakened her respiratory system, which will make her more susceptible to breathing-related diseases such as asthma and emphysema for the rest of her life, and may reduce her life expectancy.Joan's parents sued the manufacturer of Allerfree, the General Assistance company, a drug manufacturer with annual profits of around $150 million. Internal company documents showed that General Assistance had chosen to ignore federal regulations about the standards for using the label "childproof cap". An internal memo presented at trial says that "this stupid, unnecessary federal regulation is a waste of our money" it acknowledges the risk that Allerfree might be punished for violating the regulation but says "the punishments are extremely mild basically we'd be asked to improve the safety caps in the future." The trial jury ordered General Assistance to pay the Glovers $200,000 in compensatory damages for the harm done to Joan's health.
+In situations like this, victims who deserve compensation do not always receive it because (1) they don?t know what caused their problem and therefore don?t sue, (2) they don?t know that they can sue, or (3) they sue and lose, even though they deserve to win under the law, because their lawyers are not good enough. Research has shown that in only 1 out of 5 situations where someone has an experience like Joan Glover is the company eventually required to pay compensation to the victim. As you have seen, the trial jury has already ordered General Assistance to pay the plaintiff the Glovers $200,000 in compensatory damages as full compensation for the
+21 Do People Want Optimal Deterrence? harm suffered. As a member of the punishment jury for this case, your job now is to decide how much in punitive damages (if any) General Assistance should be required to pay, in addition to paying these compensatory damages.
+What amount of punitive damages (if any) should General Assistance be required to pay as punishment and to deter them and others from similar actions in the future? Compensatory damages do not count as part of the punishment. Please write the appropriate amount of punitive damages in the blank below.
+Fredericks v. HealthServe Corp.
+Tom Fredericks suffered serious post-operative complications after surgery on his broken leg. He claimed that the surgeon was incompetent, and sued the owner of the hospital, HealthServe Corporation, a national health care company with annual profits of $150 million.Normally, the type of operation Fredericks had involves only minor initial pain, and after two months the leg is completely healed. However, Fredericks was in excruciating pain for three months, and was on crutches for six months. He still has difficulty sitting for long periods, and experiences muscle spasms and swelling.Evidence presented at trial showed that the surgeon hurried through the operation by leaving out certain standard medical precautions. HealthServe had previously received several complaints about the surgeon, but had not disciplined him. A former secretary testified that a manager said, ?So he makes a few mistakes he does more operations per day than other doctors, and that helps our bottom line. Besides, he hasn?t killed anyone yet.? The trial jury ordered HealthServe to pay Fredericks $200,000 in compensatory damages.
+Chicago Working Paper in Law and Economics 22 Elegin v. T & C Components Paul Elegin was seriously injured in an automobile accident which occurred when his steering malfunctioned. He claimed that the cause of the accident was a defectively designed steering system and sued the manufacturer, T & C Components.Although he was wearing his seatbelt, Elegin suffered a broken pelvis and a severely fractured cheekbone, both of which required surgery. He was in severe pain for six months as his pelvis healed. The cheekbone injury permanently disfigured his face, and he has frequent and debilitating migraine headaches.T & C Components, a company with annual profits of $150 million, is a major supplier of parts to the largest auto manufacturers in the country. Internal company research reports presented at trial include the statement ?the steering system may be subject to dangerous malfunction on variable road surfaces. Recommend retest and possible redesign.? T & C never attempted to correct or redesign the mechanisms detailed in the reports, or conduct a retest. A memo stated ?engineers worry too much?testing for everything they think of would be too expensive.? The trial jury ordered T & C to pay Elegin $200,000 in compensatory damages.
+Do People Want Optimal Deterrence?
+This working paper is a preliminary draft dated 5/23/99. All rights reserved. Readers with comments should address them to:
+Cass R. Sunstein Karl N. Llewellyn Distinguished Service Professor University of Chicago Law School 1111 East 60th Street Chicago, IL 60637
+Chicago Working Papers in Law and Economics (Second Series) 1. William M. Landes, Copyright Protection of Letters, Diaries
+and Other Unpublished Works: An Economic Approach (July
+1991). 2. Richard A. Epstein, The Path to The T. J. Hooper: The Theory
+and History of Custom in the Law of Tort (August 1991). 3. Cass R. Sunstein, On Property and Constitutionalism
+(September 1991). 4. Richard A. Posner, Blackmail, Privacy, and Freedom of
+Contract (February 1992). 5. Randal C. Picker, Security Interests, Misbehavior, and
+Common Pools (February 1992). 6. Tomas J. Philipson & Richard A. Posner, Optimal Regulation
+of (April 1992). 7. Douglas G. Baird, Revisiting Auctions in Chapter 11 (April
+1992). 8. William M. Landes, Sequential versus Unitary Trials: An
+Economic Analysis (July 1992). 9. William M. Landes & Richard A. Posner, The Influence of
+Economics on Law: A Quantitative Study (August 1992). 10. Alan O. Sykes, The Welfare Economics of Immigration Law:
+A Theoretical Survey With An Analysis of U.S. Policy
+(September 1992). 11. Douglas G. Baird, 1992 Katz Lecture: Reconstructing
+Contracts (November 1992). 12. Gary S. Becker, The Economic Way of Looking at Life
+(January 1993). 13. J. Mark Ramseyer, Credibly Committing to Efficiency Wages:
+Cotton Spinning Cartels in Imperial Japan (March 1993). 14. Cass R. Sunstein, Endogenous Preferences, Environmental
+Law (April 1993). 15. Richard A. Posner, What Do Judges and Justices Maximize?
+(The Same Thing Everyone Else Does) (April 1993). 16. Lucian Arye Bebchuk and Randal C. Picker, Bankruptcy Rules,
+Managerial Entrenchment, and Firm-Specific Human Capital
+(August 1993).
+17. J. Mark Ramseyer, Explicit Reasons for Implicit Contracts: The Legal Logic to the Japanese Main Bank System (August 1993). 18. William M. Landes and Richard A. Posner, The Economics of
+Anticipatory Adjudication (September 1993). 19. Kenneth W. Dam, The Economic Underpinnings of Patent
+Law (September 1993). 20. Alan O. Sykes, An Introduction to Regression Analysis
+(October 1993). 21. Richard A. Epstein, The Ubiquity of the Benefit Principle
+(March 1994). 22. Randal C. Picker, An Introduction to Game Theory and the
+Law (June 1994). 23. William M. Landes, Counterclaims: An Economic Analysis
+(June 1994). 24. J. Mark Ramseyer, The Market for Children: Evidence from
+Early Modern Japan (August 1994). 25. Robert H. Gertner and Geoffrey P. Miller, Settlement Escrows
+(August 1994). 26. Kenneth W. Dam, Some Economic Considerations in the
+Intellectual Property Protection of Software (August 1994). 27. Cass R. Sunstein, Rules and Rulelessness, (October 1994). 28. David Friedman, More Justice for Less Money: A Step Beyond
+Cimino (December 1994). 29. Daniel Shaviro, Budget Deficits and the Intergenerational
+Distribution of Lifetime Consumption (January 1995). 30. Douglas G. Baird, The Law and Economics of Contract
+Damages (February 1995). 31. Daniel Kessler, Thomas Meites, and Geoffrey P. Miller,
+Explaining Deviations from the Fifty Percent Rule: A
+Multimodal Approach to the Selection of Cases for Litigation
+(March 1995). 32. Geoffrey P. Miller, Das Kapital: Solvency Regulation of the
+American Business Enterprise (April 1995). 33. Richard Craswell, Freedom of Contract (August 1995). 34. J. Mark Ramseyer, Public Choice (November 1995). 35. Kenneth W. Dam, Intellectual Property in an Age of Software
+and Biotechnology (November 1995). 36. Cass R. Sunstein, Social Norms and Social Roles (January
+1996).
+37. J. Mark Ramseyer and Eric B. Rasmusen, Judicial Independence in Civil Law Regimes: Econometrics from Japan (January 1996). 38. Richard A. Epstein, Transaction Costs and Property Rights: Or
+Do Good Fences Make Good Neighbors? (March 1996). 39. Cass R. Sunstein, The Cost-Benefit State (May 1996). 40. William M. Landes and Richard A. Posner, The Economics of
+Legal Disputes Over the Ownership of Works of Art and
+Other Collectibles (July 1996). 41. John R. Lott, Jr. and David B. Mustard, Crime, Deterrence,
+and Right-to-Carry Concealed Handguns (August 1996). 42. Cass R. Sunstein, Health-Health Tradeoffs (September 1996). 43. Douglas G. Baird, The Hidden Virtues of Chapter 11: An
+Overview of the la and Economics of Financially Distressed
+Firms (March 1997). 44. Richard A. Posner, Community, Wealth, and Equality (March
+1997). 45. William M. Landes, The Art of Law and Economics: An
+Autobiographical Essay (March 1997). 46. Cass R. Sunstein, Behavioral Analysis of Law (April 1997). 47. John R. Lott, Jr. and Kermit Daniel, Term Limits and
+Electoral Competitiveness: Evidence from California?s State
+Legislative Races (May 1997). 48. Randal C. Picker, Simple Games in a Complex World: A
+Generative Approach to the Adoption of Norms (June 1997). 49. Richard A. Epstein, Contracts Small and Contracts Large:
+Contract Law through the Lens of Laissez-Faire (August
+1997). 50. Cass R. Sunstein, Daniel Kahneman, and David Schkade,
+Assessing Punitive Damages (with Notes on Cognition and
+Valuation in Law) (December 1997). 51. William M. Landes, Lawrence Lessig, and Michael E.
+Solimine, Judicial Influence: A Citation Analysis of Federal
+Courts of Appeals Judges (January 1998). 52. John R. Lott, Jr., A Simple Explanation for Why Campaign
+Expenditures are Increasing: The Government is Getting
+Bigger (February 1998). 53. Richard A. Posner, Values and Consequences: An Introduction
+to Economic Analysis of Law (March 1998).
+54. Denise DiPasquale and Edward L. Glaeser, Incentives and Social Capital: Are Homeowners Better Citizens? (April 1998). 55. Christine Jolls, Cass R. Sunstein, and Richard Thaler, A
+Behavioral Approach to Law and Economics (May 1998). 56. John R. Lott, Jr., Does a Helping Hand Put Others At Risk?:
+Affirmative Action, Police Departments, and Crime (May
+1998). 57. Cass R. Sunstein and Edna Ullmann-Margalit, Second-Order
+Decisions (June 1998). 58. Jonathan M. Karpoff and John R. Lott, Jr., Punitive Damages:
+Their Determinants, Effects on Firm Value, and the Impact of
+Supreme Court and Congressional Attempts to Limit Awards
+(July 1998). 59. Kenneth W. Dam, Self-Help in the Digital Jungle (August
+1998). 60. John R. Lott, Jr., How Dramatically Did Women?s Suffrage
+Change the Size and Scope of Government? (September 1998) 61. Kevin A. Kordana and Eric A. Posner, A Positive Theory of
+Chapter 11 (October 1998) 62. David A. Weisbach, Line Drawing, Doctrine, and Efficiency
+in the Tax Law (November 1998) 63. Jack L. Goldsmith and Eric A. Posner, A Theory of Customary
+International Law (November 1998) 64. John R. Lott, Jr., Public Schooling, Indoctrination, and
+Totalitarianism (December 1998) 65. Cass R. Sunstein, Private Broadcasters and the Public Interest:
+Notes Toward A ?Third Way? (January 1999) 66. Richard A. Posner, An Economic Approach to the Law of
+Evidence (February 1999) 67. Yannis Bakos, Erik Brynjolfsson, Douglas Lichtman, Shared
+Information Goods (February 1999) 68. Kenneth W. Dam, Intellectual Property and the Academic
+Enterprise (February 1999) 69. Gertrud M. Fremling and Richard A. Posner, Status Signaling
+and the Law, with Particular Application to Sexual Harassment
+(March 1999) 70. Cass R. Sunstein, Must Formalism Be Defended Empirically?
+(March 1999)
