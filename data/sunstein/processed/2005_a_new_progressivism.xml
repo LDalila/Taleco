@@ -1,0 +1,1202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink"><script/>
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title> Journal of Legal Studies 2002) 
+Richard A. Epstein</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>A New Progressivism</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Coase-Sandor Working Paper Series in Law</string-name>
+          <email>unbound@law.uchicago.edu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Coase-Sandor Institute for Law and Economics</institution>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>1998</year>
+      </pub-date>
+      <fpage>6</fpage>
+      <lpage>47</lpage>
+      <abstract>
+        <p>Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics Part of the Law Commons Recommended Citation Cass R. Sunstein, "A New Progressivism" ( John M. Olin Program in Law and Economics Working Paper No. 245, 2005).</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>JOHN M. OLIN LAW &amp; ECONOMICS WORKING PAPER NO. 245 (2D SERIES)</title>
+      <sec id="sec-1-1">
+        <title>A New Progressivism</title>
+        <p>Cass R. Sunstein</p>
+        <p>T H E L A W S C H O O L
+T H E U N I V E R S I T Y O F C H I C A G O</p>
+        <p>May 2005</p>
+      </sec>
+      <sec id="sec-1-2">
+        <title>Cass R. Sunstein*</title>
+        <p>Based on an address for a conference on Law and Transformation in South Africa, this paper
+explores problems with two twentieth-century approaches to government: the way of markets and the
+way of planning. It urge that the New Progressivism simultaneously offers (1) a distinctive conception
+of government’s appropriate means, an outgrowth of the late-twentieth-century critique of economic
+planning, and (2) a distinctive understanding of government’s appropriate ends, an outgrowth of
+evident failures with market arrangements and largely a product of the mid-twentieth-century critique
+of laissez faire. It emphasizes the need to replace bans and commands with appropriate incentives, and
+to attend to social norms and social meanings in leading human behavior in welfare-promoting
+directions. The ultimate goal is to promote some of the goals associated with America’s New Deal and
+Europe’s social democracy, but without using the crude, inflexible, and often counterproductive
+methods associated with those approaches. Some attention is devoted to the effects of globalization, the
+AIDS crisis, crime prevention, and the role of economic growth.</p>
+      </sec>
+    </sec>
+    <sec id="sec-2">
+      <title>Introduction: Means and Ends</title>
+      <p>The German psychologist Dietrich Dorner has done some fascinating experiments
+designed to see whether people can engage in successful social engineering.1 Dorner’s
+experiments are run via computer. Participants are asked to solve problems faced by
+the inhabitants of some region of the world; the problems may involve poverty, poor
+medical care, inadequate fertilization of crops, sick cattle, insufficient water, or
+excessive hunting and fishing. Through the magic of the computer, many policy
+initiatives are available (improved care of cattle, childhood immunization, drilling
+more wells), and participants can choose among them. Once particular initiatives are
+chosen, the computer projects, over short periods and then over decades, what is
+likely to happen in the region.</p>
+      <p>In these experiments, success is entirely possible; some initiatives will actually
+make for effective and enduring improvements. But most of the participants—even
+the most educated and professional ones—produce calamities. They do so because
+* This paper is based on a keynote address on a conference on Law and Transformation in South
+Africa; readers are asked to make allowances for a paper originally intended for oral presentation. I am
+grateful to Lesley Wexler for superb research assistance and to Martha Nussbaum and Theunis Roux
+for many helpful comments and discussions.
+1 Dietrich Dorner, The Logic of Failure (1997).
+they do not see the complex, system-wide effects of particular interventions. For
+example, they may see the importance of increasing the number of cattle, but once
+they do that, they create a serious risk of overgrazing, and they fail to anticipate that
+problem. They may understand full well the value of drilling more wells to provide
+water, but they do not anticipate the energy and environmental effects of the drilling,
+which then endangers the food supply. Only the rare participant is able to see a
+number of steps down the road—to understand the multiple effects of one-shot
+interventions into the system.</p>
+      <sec id="sec-2-1">
+        <title>NOT A MIDPOINT</title>
+        <p>Since the 1980s, many nations have been concerned to make three transitions. The
+first involves the shift from an authoritarian system to some kind of democracy. The
+second involves the creation of a secure system of individual rights. The third
+involves the introduction of reforms that will promote economic growth. The
+relationships among the three transitions are complex and contested. Are rights
+necessary for democratic self-government, or antithetical to it? Might democracy
+undermine economic growth, at least if people are demanding measures that will
+make prosperity less likely? Will a stable system of rights weaken, or strengthen, the
+prospects for economic development?</p>
+        <p>My goal in this essay is to elaborate an understanding of government’s role
+that promises, at once, to strengthen individual rights, to promote democratic self-rule,
+and to increase economic growth. With some trepidation, I will use describe this
+understanding as a New Progressivism. New Progressivists attempt to combine an
+appreciation of a great lesson of the first half of the twentieth century, the failure of
+markets, with an appreciation of the great lesson of the second half of the twentieth
+century, the failure of planning. New Progressivists offer a certain conception of both
+rights and democracy. They understand rights to include freedom from desperate
+conditions; they understand democracy to require a certain measure of deliberation
+and reflection, rather than automatic responses to what the public currently wants.
+Because freedom from desperate conditions is a right, they are concerned that total
+reliance on is connected with a failure to protect individual rights. They also think that
+a deliberative democracy will supplement markets, and hence that a system of market
+ordering alone does not allow a proper domain for democratic self-rule. The failure of
+planning is simultaneously a failure in terms of economics, democracy, and rights.</p>
+        <p>I urge that the New Progressivism simultaneously offers (1) a distinctive
+conception of government’s appropriate means, an outgrowth of the
+late-twentiethcentury critique of economic planning, and (2) a distinctive understanding of
+government’s appropriate ends, an outgrowth of evident failures with market
+arrangements and largely a product of the mid-twentieth-century critique of laissez
+faire. For this reason the New Progressivism should not be seen as a compromise
+between right and left, or as an effort to seek some midpoint between those who
+believe in markets and those who reject them. Far from being a compromise or a
+midpoint, the New Progressivism offers both means and ends of its own.</p>
+        <p>With respect to means, the New Progressivism rejects approaches prominently
+associated with both social democracy and the New Deal, on the ground that they are
+frequently ineffective or even counterproductive, especially from the economic point
+of view. To the New Progressivists, social democrats are too often like participants in
+Dorner’s experiments, compromising economic and other goals without much sense
+of what they are doing. Those who endorse the New Progressivism are insistently
+focused on consequences, and they know that initiatives designed to help people who
+need help might backfire in practice—and that good intentions are no excuse for bad
+consequences. Above all, those who endorse the New Progressivism have learned
+from the past fifty years of experience with markets and with efforts to discipline and
+constrain markets. They are alert to side effects and unintended harmful
+consequences. Wherever possible, they attempt to use market-oriented strategies,
+enlisting markets on behalf of human interests—not because those strategies are
+morally superior, and not because markets have special moral claims (they do not),
+but because such strategies are likely to work. New Progressivists believe that if
+economic growth is a goal, markets should be enlisted far more often than they now
+are.</p>
+        <p>It follows that New Progressivists are alert to the central role of civil society,
+and especially to the importance of social norms, which often drive private behaviour
+and which can change, for better or worse, over time. They are also skeptical, on both
+economic and democratic grounds, of command-and-control regulation and of
+aggressive interference with the labour market. They want to supplement markets, not
+to displace them. They favour such initiatives as the Earned Income Tax Credit
+(EITC) and housing subsidies for the poor, and they are cautious about a high
+minimum wage and rent control legislation. They believe that environmental
+problems should be handled through economic incentives, not through centralized
+mandates, which invite protectionism and interest-group maneuvering. Thus, for
+example, the New Progressivism
+• attempts to control problems associated with social norms, such as crime, unsafe
+sex, and other risk-taking behavior, through democratic efforts at norm
+management, often involving public-private partnerships;
+• places the highest possible premium on education and training;
+• rejects economic protectionism;
+• favors incentives rather than centralized governmental commands;
+• attempts to ensure flexibility in the labour market if and on the ground that it helps
+low-income workers as well as others;
+• sees economic growth as a central (though far from exclusive) part of antipoverty
+policy.</p>
+        <p>So much for means—what of ends? Those who endorse the New
+Progressivism seek initially to achieve an incompletely theorized agreement2—an
+agreement on various practices and initiatives capable of attracting support from a
+wide range of theoretical perspectives. Utilitarians, Kantians, those who begin from
+diverse theological positions, and numerous others can support the approach urged
+here. But to the extent that theoretical depth is required, New Progressivists will insist
+that markets should be identified with neither justice nor liberty. They do not think
+that markets will inevitably protect individual rights, especially because they believe
+that the right to be free from discrimination counts as a right, one that markets can
+promote. They see markets as operating against a background that includes
+considerable injustice, and also limited liberty. They think that to a large degree,
+market ordering will merely build on that unacceptable background.</p>
+        <p>At the same time, New Progressivists have considerable sympathy for some of
+the rights emphasized by social democrats in Europe and New Dealers in the United
+States: decent life prospects for all, a social safety net, a safe environment, genuine
+equality of opportunity. But they believe that these rights have often been quite murky
+and ill defined—and also that they have been confused, too often, with a kind of
+freestanding egalitarianism, concerned to ensure equal economic outcomes as such.
+Those who believe in a New Progressivism insist on an acceptable floor for everyone.
+But they are not much concerned with large disparities in wealth, not because these
+are fair, but because the much more important goal is to ensure decent outcomes for
+all, and because allowing such disparities may well be necessary to provide
+appropriate incentives.</p>
+        <p>To those who believe in a New Progressivism, what is most necessary is to
+ensure that basic human capabilities do not fall below a certain, reasonably generous
+threshold.3 To this New Progressivists add a distinctive conception of equality, one
+that forbids second-class citizenship, or lower caste status, for members of any group.
+This anticaste principle makes sex equality a singularly high priority, as a means for
+economic development and an end in itself. The rights embodied in the anticaste
+principle are indispensable to growth. They promote democracy as well. For these
+reasons, the New Progressivists hope to offer a conception of government that
+simultaneously promote democratic and economic goals, and that does so without
+compromising individual rights, properly conceived. Of course these various ideas
+can be specified in ways that will lead to intense conflicts among them. New
+Progressivists attempt a specification that will reduce the conflicts, seeing rights, for
+example, as a precondition for democracy and growth, and seeing growth as an
+(imperfect) ally of rights.</p>
+      </sec>
+      <sec id="sec-2-2">
+        <title>OF MESS AND MENACE</title>
+        <p>There has of course been a great deal of recent discussion, both supportive and
+critical, of what a ‘Third Way’ might involve. What I am calling the New
+Progressivism has an obvious relationship to the idea of a Third Way, especially
+insofar as those who endorse Third Way thinking tend to be receptive to markets and
+growth at the same time that they are committed to improving the rights of
+disadvantaged people. I do not intend here to summarize that discussion, or to endorse
+2 See Cass R. Sunstein, Legal Reasoning and Political Conflict (1996).
+3 See Amartya Sen, Development As Freedom (1999); Martha Nussbaum, Women and Human
+Development (1999); Anthony Giddens, The Third Way and its Critics (2000).
+the Third Way programme.4 What I mean to do instead is to develop a freestanding
+account of what a New Progressivism might be understood to entail.</p>
+        <p>The American law professor Karl Llewellyn is said to have said, ‘Technique
+without morals is a menace; but morals without technique is a mess.’ This is a fitting
+criticism of some of the experiments in social democracy of the last several decades;
+it is a shorthand description of the failures of many participants in Dorner’s
+experiments, failures with parallels in the economic and democratic disasters brought
+about by twentieth-century ‘planners’ of various stripes. But Llewellyn is also said to
+have said: ‘Morals without technique is a mess; but technique without morals is a
+menace.’ This is a fitting criticism of many twentieth-century experiments in social
+engineering, but it is a criticism too of excessive reliance on free markets. The real
+task, for those interested in a New</p>
+      </sec>
+      <sec id="sec-2-3">
+        <title>Progressivism, involves development of</title>
+        <p>approaches and methods that are neither menace nor mess.</p>
+        <p>Recent debates, including debates over the Third Way, have drawn attention to
+two possible strategies for dealing with markets: to leave them alone or to displace
+them. But the dichotomy is much too simple; in fact it is damagingly simple. It is too
+simple, first, because the idea of ‘displacing’ markets conceals a range of options,
+from nationalizing industries, to blocking certain deals, to limiting waivers, to
+providing information. It is too simple, second, because it is possible to complement
+rather than to displace markets—to provide institutions that do what markets do not
+do, and to help people who are failed by markets, an emphatically human institution.
+As Amartya Sen has written, very much in the spirit of the New Progressivism, ‘it is
+possible to argue at the same time both (1) for more market institutions, and (2) for
+going more beyond the market.’5</p>
+        <p>With respect to methods and strategies, that is what I will be suggesting here.
+Throughout I will paint with an extremely broad brush, discussing many issues that
+could easily be treated in a short book, or even a long one. My hope is that the brisk
+and sometimes reckless treatment of many issues might make up for its otherwise
+unpardonable neglect of the trees, by providing a decent perspective on the forest, a
+4 Two prominent discussions are Anthony Giddens, The Third Way (1998), and Giddens, ibid. In my
+view, Giddens offers too large a collection of ideas, a pastiche in fact, and too much of his discussion is
+platitudinous. Amartya Sen and Jean Dreze, India (1997), does not bill itself in these terms, but it
+seems to me the best presentation of what a New Progressivism might actually look like. Cass R.
+Sunstein, Free Markets and Social Justice (1997), is also intended to set out ideas in this direction.
+5 Sen and Dreze, ibid. at 28.
+perspective that perhaps continues to be absent from existing treatments of possible
+twenty-first century ‘ways’.</p>
+        <p>The plan of the essay is as follows. The second part offers a brief discussion of
+two familiar ‘ways’ and of what is wrong with them. Here globalization is seen to be a
+process that intensifies problems with both markets and planning, in a way that
+jeopardizes economic growth and also certain individual rights. The third part deals
+with social norms, especially in the context of crime prevention, HIV/AIDS, and
+related problems. The fourth part deals with employment policy and poverty. The
+fifth part explores command-and-control regulation and some alternatives, especially
+in the context of environmental protection. The sixth part investigates the importance
+and limits of economic growth, with particular stress on the need to attend to human
+capabilities and sex equality. The seventh part is a brief conclusion.</p>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>Two ‘Ways’—and Globalization</title>
+      <sec id="sec-3-1">
+        <title>THE WAY OF MARKETS AND THE WAY OF PLANNING</title>
+        <p>If there is a New Progressivism, what is it opposing? There are two candidates. Let us
+understand the first to be a version of the Reagan-Thatcher programme, routed above
+all in the work of Nobel Prize winner Friedrich Hayek. Call this ‘the way of markets’.</p>
+        <p>On this view, free markets are indispensable to liberty, rights, and economic
+growth. The role of the state is to create the preconditions for well-functioning
+markets, by establishing rights of private property and freedom of contract, by
+ensuring competition rather than monopoly, and by preventing force and fraud.
+Perhaps the government should also provide a social safety net, though a relatively
+weak one (to ensure proper work incentives). But according to those who endorse the
+way of markets, government should not interfere with the labour market through, for
+example, high minimum wage requirements or through special protections for labour
+unions. And those who endorse the way of markets place the highest possible
+premium on economic growth, on a particular, market-based conception of liberty,
+and on social ordering through market ordering, which they see as essential to growth
+and liberty alike. Of course there is a spectrum of possible approaches here, from
+those who reject a social safety net to those willing to accept an ample set of
+protections for those at the bottom. What I mean to emphasize, sometimes captured in
+the idea of ‘neo-liberalism’, or ‘liberalization’, is the idea of placing primary
+emphasis on free markets and economic productivity.</p>
+        <p>Like the way of markets, the way of planning is actually a spectrum of ‘ways’,
+ranging from Soviet-style centralized planning to those forms of social democracy
+(not excluding America’s) that are comfortable, in some areas, with nationalized
+industries, aggressive regulation of markets, price and wage controls, and most
+generally ‘planning’ of various kinds. As random examples, consider the following:
+• laws that make it difficult for employers to discharge employees;
+• laws that make it hard for landlords to evict tenants;
+• environmental regulation that specifies the technology that must be used by
+industry;
+• high minimum wage requirements;
+• tariffs;
+• public ownership of industry;
+• ceilings and floors on prices as a whole.</p>
+        <p>Of course it is possible for a nation to adopt narrow or broad plans, or to be a
+planner in only a few small domains. A government that is generally skeptical of
+planning might conclude, for example, that it makes sense to have tariffs in some
+areas, or that agriculture should be protected with price supports, or that workers
+should be protected from discharge, or that technological requirements are properly
+placed on new cars, to reduce levels of air pollution.</p>
+      </sec>
+      <sec id="sec-3-2">
+        <title>PROBLEMS AND STRESSES</title>
+        <p>Let us now briefly explore some of the problems in both of these ‘ways’. For those
+who seek the way of markets, the initial difficulty is that markets should not be
+identified with liberty or with rights properly conceived. Markets operate against the
+backdrop set by existing distributions of resources, opportunities, and talents. When
+an employee is able to attract only a small amount of money for an hour’s work, it is
+surely wrong to say that liberty is respected if we simply respect the deal. To the
+extent that existing distributions are a product of a lack of liberty, market ordering is a
+problem, not the solution. Whether the deal should be disrupted is another question.
+But what markets generate does not come, from the standpoint of liberty, with a stamp
+of approval.</p>
+        <p>An equally fundamental problem is that the consequences of market ordering
+may not be so wonderful for many people, who will be left with bad opportunities and
+few resources. It should not be necessary to belabour this point. In any large nation,
+respect for market ordering will predictably produce a situation in which millions of
+people end up with low wages, long hours, and bad working conditions—if they end
+up with work at all. Of course a social safety net can help. But even if it is generous, it
+is not going to do all of what must be done. It will not, for example, protect people
+against unsafe working conditions, sexual harassment, pollution, or unfair
+discrimination. To the extent that the category of rights includes protection against
+some or all of these injuries, markets will compromise rights. Indeed we have every
+reason to believe that in some circumstances, markets will promote discrimination—
+as, for example, when customers or coworkers would prefer someone of a certain race
+or gender.</p>
+        <p>At the same time, democratic values are compromised by any effort to treat
+“the market” as sacrosanct. Put to one side the evident point that markets must be
+created by government, willing and able to protect private property and freedom of
+contract. A real problem is that a democratic citizenry will often want to supplement
+or displace markets, simply to protect the interests of some, many, or all. A
+commitment to market ordering will sharply diminish the terrain by which people
+make choices about the kind of society in which they will live.</p>
+        <p>But planning faces difficulties of its own. One problem is that it is exceedingly
+likely to be vulnerable to pressures from self-interested private groups with stakes in a
+particular outcome. If so, democracy is jeopardized. It is very common, for example,
+to observe environmental regulation being turned into a mechanism for the
+distribution of benefits to groups whose interests have precious little to do with
+environmental protection.6 An even more fundamental problem has to do with the
+unintended bad consequences of the most well-motivated plans. ‘Planners’ are
+constantly surprised. To take just two examples, a law that makes it hard for
+employers to discharge employees is likely to make employers reluctant to hire people
+6 In the United States, a classic discussion is Bruce Ackerman and William Hassler, Clean Coal/Dirty
+Air (1983).
+in the first instance; a high minimum wage is likely to decrease employment. The
+problem is pervasive, and it can lead to unfortunate consequences, especially for the
+disadvantaged. We can understand the problem a bit better in light of Dorner’s work,
+showing the unfortunate systemic effects of one-shot interventions. Economic and
+social orders are systems, and the difficulty with plans is that their architects are
+infrequently able to foresee the consequences of their actions.</p>
+        <p>Planners frequently refer to the unfairness of markets, and they are often right
+to do so. But a reference to unfairness should not be allowed to support laws that
+actually do no good. In Sen’s words, “The rhetoric of ‘equity’ has often been invoked
+to justify governmental interventions without any scrutinized political assessment of
+how these powers will be exercised and what actual effects they will have. In practice,
+these ill-directed regulations have not only interfered often enough with the efficiency
+of economic operations (especially of modern industries), they have also failed fairly
+comprehensively to promote any kind of real equity in distributional matters.”7 The
+point does not show that all plans are bad. But an overriding problem with the way of
+planning is simply that the consequences of plans are often bad from the perspective
+of well-meaning planners themselves. Plans may well violate rights, as has often been
+seen in Communist nations. But plans are often ineffectual too, and the result can be
+economic disaster. A low GDP is no ally of individual rights, especially if we
+understand poverty as a rights violation.</p>
+      </sec>
+      <sec id="sec-3-3">
+        <title>THE ROLE OF GLOBALIZATION</title>
+        <p>Thus far I have said nothing about globalization. (By the term I mean to refer, very
+simply, to the increasing mobility of persons, information, and products from one area
+of the globe to another.) What is the effect of globalization on the way of planning
+and the way of markets?</p>
+        <p>The most important point is that with respect to markets and planning, global
+pressures produce a difference not of kind but of degree. We best think of a situation
+of globalization as ‘like ordinary domestic markets—only more so’. The major effect
+of global pressures is to intensify competition, so that stringent national regulation
+might well leave companies within the nation at a disadvantage both abroad and at
+home. The resulting disadvantage might be reduced through protectionist measures,
+but these create familiar problems of their own, because they hurt local consumers (by
+increasing prices) and are likely, generally speaking, to harm the national economy.</p>
+        <p>In fact globalization increases the problems associated with both of the two
+‘ways’. Insofar as markets produce rights violations of certain kinds, and bad results
+for millions of people, global pressures increase the difficulty. (Of course such
+markets also carry many benefits as well, for poor people as well as everyone else,
+especially insofar as the consequence is to cut prices.) If workers within the nation
+have to compete with everyone in the world, or in any case with a larger class of
+people, those without training and skills are going to be left further behind. At the
+same time, global pressures will inevitably confound ill-considered ‘plans’. Because
+markets are frequently global, the effects of plans will often be very different from
+what was sought and anticipated. This is a particular problem if, for example, an
+effect of stringent regulation of the labor market is to reduce the demand for domestic
+labour, thus hurting workers themselves.</p>
+        <p>This is hardly a claim that states are incapable of governing in a global era.
+There is a great deal that they can do. Evidence simply does not support the claim that
+the increased mobility of capital has disabled national regulation. But it is a claim that
+the problems with the two ways are simultaneously compounded by the existence of
+global markets.</p>
+        <p>THE ROLE OF COSTS: THE INEVITABLY CLOSE RELATIONSHIP BETWEEN
+RIGHTS AND MONEY
+Those who favour markets and those who favour planning often make a sharp
+distinction between ‘negative rights’ and ‘positive rights’. The former are said to be
+barriers to government action, and to that extent costless. The second are said to be
+entitlements to government protection, and to that extent costly. Market enthusiasts
+argue for the former and against the latter. Planners tend to argue for both.</p>
+      </sec>
+      <sec id="sec-3-4">
+        <title>7 Sen and Dreze, n. 4 above, at 186.</title>
+        <p>From the standpoint of the New Progressivism (as well as from the standpoint
+of the Constitutional Court of South Africa8), both views suffer from a problem that is
+both conceptual and practical: along the relevant dimension, there is no difference
+between negative and positive rights. Both consist of entitlements to government
+action, and to that extent, both are costly. In a poor nation, both sorts of rights are at
+risk. Compare, for example, the right to free speech with the right to a minimum
+income. In a state of effective anarchy, or in a state without funds, neither right can
+exist. Of course the minimum income guarantee will lack taxpayer support. But the
+same is true for the right to free speech. Without a judiciary willing to protect people
+from public (as well as private) intrusions on freedom of speech, that freedom cannot
+exist. Without a state willing and able to prevent public marauders from silencing
+opposition, free speech is a chimera. Without public protection against private acts of
+violence against controversial statements, free speech is plainly absent.</p>
+        <p>What is true for free speech is true for the whole universe of negative rights.9
+Consider, for example, two of the most quintessential liberal rights: the right to
+private property and the right to freedom of contract. Both of these depend not
+incidentally but essentially on government protection. Private property does not exist
+in the state of nature. It is a taxpayer-subsidized right, justified on the ground that it
+benefits individuals and society as a whole. People can make contracts without a
+strong state; but unless a legal system, subsidized by taxpayers, stands ready and able
+to ensure that contracts are enforced, what force are mere words likely to have?</p>
+        <p>Those who believe in a New Progressivism know that all rights are costly and
+that a poor state cannot protect rights. One of the reasons why they favour a strong
+economy, and economic growth, is that these are important preconditions for ample
+rights protection. And in a rich or poor state, it follows that a central task for
+democratic self-government is to obtain the necessary funds and to ensure that they
+are allocated in a way that reflects sensible priority setting. The field of public finance
+is not separable from the field of democratic theory.
+8 See Ex parte Chairperson of the Constitutional Assembly: in re Certification of the Constitution of the
+Republic of South Africa, 1996 1996 (4) S.A. 744 (CC) para 77.
+9 For detailed discussion, see Stephen Holmes and Cass R. Sunstein, The Cost of Rights (1998).</p>
+      </sec>
+    </sec>
+    <sec id="sec-4">
+      <title>Social Meaning and Social Norms (with Particular Reference to HIV/AIDS,</title>
+    </sec>
+    <sec id="sec-5">
+      <title>Crime, Discrimination, and Environmental Protection)</title>
+      <p>Those who endorse the way of markets have little to say about the relationship
+between government and civil society. Civil society is defined as equivalent to
+economic society. Thus market enthusiasts tend to rely on existing norms and
+preferences; this is part of their conception of laissez faire. Those who endorse the
+way of planning also have little to say about civil society, sometimes treating it as a
+domain that must be enlisted in the interest of social goals. But there is a better
+approach, one that promises to do what governments often seek to do, but at lower
+cost. Such an approach would emphasize several points: (1) the crucial importance of
+social norms in producing both desirable and undesirable behaviour; (2) the inevitable
+role of government in helping to constitute such norms; (3) the dependence of social
+norms on current information; (4) the often-rapid change in social norms over time;
+(5) the extent to which highly visible, or cognitively ‘available,’ examples and events
+can alter norms and behaviour; and (5) the possible use of government power to move
+norms in desirable directions.</p>
+      <p>As we will see, these points help suggest such promising possibilities for
+controlling many social problems, including crime, HIV/AIDS, discrimination, and
+environmental protection. What I will be emphasizing here is the significance of
+social cascades, including norm cascades, in which social interactions can lead
+behaviour in dramatic directions. Sometimes such cascades are induced by new
+beliefs; sometimes they are induced by new understandings of the meaning of certain
+actions. Since people take their cues from the actions of others, and since they care
+about their reputations, certain policies can backfire, and certain others can have large
+and desirable effects.</p>
+      <p>PROBLEMS WITH BANS, ECONOMIC AND OTHERWISE
+When government seeks to discourage certain conduct, what should it do? Those
+committed to planning generally have a simple answer: Forbid it. Those committed to
+markets provide the same answer, though they are reluctant to ask government to
+discourage private behaviour falling outside the basic categories of force and fraud.
+Those who believe in a New Progressivism think that the shared answer—‘forbid
+it’—is much too simple, and in important ways misleading and even damaging, both
+to rights and to the economy. I am speaking here, then, of a promising but often
+overlooked means for promoting a range of social goals.</p>
+      <p>New Progressivists do believe that incentives are important, and for anyone
+who believes that, it seems natural to think that if conduct is banned, there will be less
+of it. But bans create problems of their own. In some circumstances they can be
+selfdefeating, producing more of the behaviour that they seek to reduce. The reason is
+that behaviour is often driven by social norms, and hence by the signal that the
+behaviour carries; a ban can amplify the signal and increase the conduct. Suppose, for
+example, that people are engaging in certain harmful conduct precisely because the
+conduct is a way of defying authority and offering certain signals to relevant people.
+You might smoke, for example, precisely because smoking is, in some places, a
+dissident act; so too with a decision to engage in unsafe sex; so too for a decision to
+commit a crime. In short, actions have meanings, and the social meaning of action is
+an important determinant of what people will do and when they will do it. (In the
+United States, some increases in risky sex have come from deliberate efforts at
+defying efforts to convince people to use condoms.)</p>
+      <p>Many people will engage in conduct that they do not otherwise enjoy or value,
+because of the social meaning of engaging in it; many people will fail to engage in
+activity that they would enjoy or value, for exactly the same reason. If the social
+meaning of harm-avoiding activity is cowardice or capitulation, people are likely to
+refuse harm-avoiding activity. If the social meaning of harm-producing activity is
+boldness and independence, people are more likely to impose harms. In these
+circumstances any governmental effort to ‘forbid’ certain conduct might be futile or
+even counterproductive. If what is driving behaviour is its social meaning, the effect
+of a ban could be to increase it, by increasing the strength of the signal that is the
+motivation after all. Compare the finding that when people are paid to engage in
+certain desirable activity (cleaning up, for example, or arriving on time to pick up
+children from school), they will sometimes actually engage in that behaviour less
+rather than more, because the payment reduces the effect of the norm, which would
+otherwise have the effect of the payment.
+Those who seek a New Progressivism are especially interested in enlisting an
+understanding of social norms and social meanings in the service of improved
+policies, involving both rights and growth. They emphasize that in many domains,
+people frequently think and do what they think and do because of what they think
+(relevant) others think and do. Thus, for example, employees are more likely to file
+suit if members of the same workgroup have also done so10; teenage girls who see that
+other teenagers are having babies are more likely to become pregnant themselves11;
+littering and non-littering behavior appears to be contagious12; the same is true of
+violent crime13; those who know other people who are on welfare are more likely to
+go on welfare themselves14; the behaviour of proximate others affects the decision
+whether to recycle15; a good way to increase the incidence of tax compliance is to
+inform people of high levels of voluntary tax compliance16; and students are less
+likely to engage in binge drinking if they think that most of their fellow students do
+not engage in binge drinking, so much so that disclosure of this fact is one of the few
+successful methods of reducing binge drinking on university campuses in the United
+States.17</p>
+      <p>Social influences affect behaviour via two different mechanisms. The first is
+informational. If many other people support a particular candidate, or refuse to use
+drugs, or carry guns, observers, and particularly observers within a common group,
+are given a signal about what it makes sense to do. The second mechanism is
+reputational, as group members impose sanctions on perceived deviants, and
+would10 See Harold H. Gardner, Nathan L. Kleinman, and Richard J. Butler, ‘Workers’ Compensation and
+Family and Medical Leave Act Claim Contagion’, (2000) 20 Journal of Risk and Uncertainty 89,
+10110.
+11 See, e.g., George A. Akerlof, Janet L. Yellen and Michael L. Katz, ‘An Analysis of Out-of-Wedlock
+Childbearing in the United States’, (1996) 111 Quarterly Journal of Economics 277.
+12 See R. Cialdini et al., ‘A Focus Theory of Normative Conduct: Recycling the Concept of Norms to
+Reduce Littering in Public Places’, (1990) 58 Journal of Personality and Social Psychology 1015.
+13 See Washington Post (December 1999). [Exact date? Query author]
+14 See Marianne Bertrand, Erzo F.P. Luttmer and Sendhil Millainathan, Network Effects and Welfare
+Cultures (unpublished manuscript, April 9, 1998).
+15 See Ardith Spence, Wants for Waste (unpublished Ph.D. dissertation, University of Chicago, 1999).
+16 See Stephen Coleman, The Minnesota Income Tax Compliance Experiment State Tax Results
+(Minnesota Department of Revenue, April 1996).
+17 See H. Wesley Perkins, ‘College Student Misperceptions of Alcohol and Other Drug Norms Among
+Peers’, in Designing Alcohol and Other Drug Prevention Programs in Higher Education (US
+Department of Education ed., 1997) 177-206; Timur Kuran and Cass R. Sunstein, ‘Availability
+Cascades and Risk Regulation’, (1999) 51 Stanford Law Review 683, 767. A good outline of contagion
+effects can be found in Gardner, Kleinman and Butler, n. 9 above, at 91-4.
+be deviants anticipate the sanctions in advance.18 Even when people do not believe
+that what other people do provides information about what actually should be done,
+they may think that the actions of others provide information about what other people
+think should be done. People care about their reputations, and hence they have an
+incentive to do what (they think) other group members think they should do.
+Reputational considerations may, for example, lead people to obey or not to obey the
+law, urge a certain view in group discussions, drive while drunk, help others, or talk
+about political issues in a certain way.</p>
+      <p>The central question is how an understanding of these points might lead
+policies in better directions. What is especially promising is the possibility of
+achieving a ‘tipping point’, in which large numbers of people end up moving in novel
+directions.19 People typically have different ‘thresholds’ for choosing to believe or do
+something new or different. As those with low thresholds come to a certain belief or
+action, people with somewhat higher thresholds join them, possibly to a point where a
+critical mass is reached, making groups, possibly even nations ‘tip’.20 The result of
+this process can be to produce snowball or cascade effects, as small or even large
+groups of people end up believing something—even if that something is false—
+simply because other people seem to believe that it is true. Real world phenomena
+also seem to have a great deal to do with cascade effects.21 Consider, for example,
+smoking, participating in protests, striking, recycling, using birth control, rioting,
+choosing what to put on television,22 even leaving bad dinner parties.23 We can
+understand certain people, in the private and public sectors, as ‘norm entrepreneurs’,
+seeking to give certain signals to many people, and in the process helping to shift
+norms in a desirable direction.</p>
+      <p>With respect to policy tools, of special note is the availability heuristic: people
+tend to think that an event is more likely if an incident of its occurrence can readily be
+18 See George Akerlof, ‘A Theory of Social Custom, of which Unemployment May Be One
+Consequence’, in George Akerlof, An Economic Theorist’s Book of Tales (1984) 69.
+19 See Malcolm Gladwell, The Tipping Point (2000), for a popular overview.
+20 See Mark Granovetter, ‘Threshold Models of Collective Behavior’, (1978) 83 American Journal of
+Sociology 1420; for a recent popular treatment, see ibid. at 5-22.
+21 See Sushil Bikhchandani et al., ‘A Theory of Fads, Fashion, Custom, and Cultural Change as
+Informational Cascades’, (1992) 100 Journal of Political Economy 992; Kuran and Sunstein, n. 16
+above, at 715-35.
+22 See Kennedy, supra note. [Query author]
+23 Several of these examples are discussed in Kuran and Sunstein, n. 16 above, at 725-35, and in
+Granovetter, n. 19 above, at 1422-24,
+brought to mind. It is for this reason that a single, highly publicized event can have
+important behavioual consequences, as when disclosure that a famous athlete or actor
+is HIV-positive can make thousands or even millions of people change their behavior.
+The single incident makes the risk seem both higher and more salient. It can even
+change the meaning of action. ‘Availability entrepreneurs’ can draw public attention
+to individual persons and cases, with the self-conscious goal of producing ‘availability
+cascades’, with which perceptions, by millions of people, can simultaneously shift. In
+the United States, this has happened with fear of abandoned hazardous waste dumps
+and nuclear power, as well as HIV/AIDS; Thailand used the strategy successfully in
+the later context.24</p>
+      <p>There is a closely related phenomenon: group polarization. It has been shown
+that any group of like-minded people, after deliberating with one another, tends to end
+up believing a more extreme version of what they thought before they spoke together.
+Consider some examples of the basic phenomenon, known as group polarization,
+which has been found in over a dozen nations.25
+(a) A group of moderately
+profeminist women will become more strongly profeminist after discussion.26 (b)
+After discussion, citizens of France become more critical of the United States and its
+intentions with respect to economic aid.27 (c) After discussion, whites predisposed to
+show racial prejudice offer more negative responses to the question whether white
+racism is responsible for conditions faced by African-Americans in American cities.28
+(d) After discussion, whites predisposed not to show racial prejudice offer more
+positive responses to the same question.29</p>
+      <p>As statistical regularities, it should follow, for example, that those moderately
+critical of an ongoing war effort will, after discussion, sharply oppose the war; that
+those who believe that global warming is a serious problem are likely, after
+24 See Kuran and Sunstein, n. 16 above.
+25 See Cass R. Sunstein, ‘Deliberative Trouble? Why Groups Go To Extremes’, 110 Yale Law Journal
+171 (2000). These include the United States, Canada, New Zealand, Germany, and France. See, e.g.,
+Johannes Zuber et al., ‘Choice Shift and Group Polarization’, (1992) 62 Journal of Personality and
+Social Psychology 50 (Germany); Dominic Abrams et al., ‘Knowing What To Think By Knowing Who
+You Are’, (1990) 29 British Journal of Social Psychology 97, 112 New Zealand). Of course it is
+possible that some cultures would show a greater or lesser tendency toward polarization; this would be
+an extremely interesting area for empirical study.
+26 See D.G. Myers, ‘Discussion-Induced Attitude Polarization’, (1975) 28 Human Relations 699.
+27 Brown, supra note, at 224. [Query author]
+28 D.G. Myers and G.D. Bishop, ‘The Enhancement of Dominant Attitudes in Group Discussion’,
+(1976) 20 Journal of Personality and Social Psychology 286.
+29 See ibid.
+discussion, to hold that belief with considerable confidence; that people tending to
+believe in the inferiority of a certain racial group will become more entrenched in this
+belief as a result of discussion. For present purposes, group polarization is important
+because it shows how groups tend to move. If some members of a group can be
+convinced to shift their position, the group’s middle will shift as well, and quite large
+changes can be anticipated.</p>
+      <p>All this is quite abstract. The central question remains: How might
+government, seeking to promote its goals at low cost, induce tipping, or social
+cascades?</p>
+      <sec id="sec-5-1">
+        <title>EDUCATION AND INFORMATION</title>
+        <p>Suppose that people are engaging in activity that involves harm to self or to others; for
+simplicity, assume that the activity is not itself criminal. From the standpoint of the
+New Progressivism, hoping not to intrude on rights and to respect democratic ideals,
+the first prescription is simple: Inform people. With respect to cigarette smoking and
+unsafe sex, for example, a great deal of risky behaviour comes simply from a lack of
+information. Evidence shows that by itself, information, if it can be made salient and
+vivid, produces substantial changes in behaviour. In Thailand, a revelation that 44 per
+cent of sex workers in Chiang Mai were infected with HIV appears to have
+contributed to a substantial increase in the use of condoms. Growth in condom use in
+the United States in the 1980s was driven largely by information. Public information
+campaigns, use of the mass media, and face-to-face education and training
+programmes are all able to help.30</p>
+        <p>This should hardly be surprising. But there is a somewhat more subtle point. It
+is possible to produce information-induced norm cascades, in which social norms, and
+social meanings, change dramatically as a result of changes in beliefs. In the United
+States, this has happened with large-scale shifts in judgments about cigarette smoking
+and, in the early 1990s, with large-scale shifts in judgments about both sexual
+30 See World Bank, Efficient and Effective Strategies for Preventing HIV/HIV/AIDS, available at
+www.worldbank.org/HIV/AIDS-econ/confront/confrontfull/chapter3/chap3.html.</p>
+      </sec>
+      <sec id="sec-5-2">
+        <title>ALTERNATIVES</title>
+        <p>Thus far I have been discussing what the New Progressivism opposes. What does it
+support instead? The answer is not reliance on markets alone. New Progressivists
+firmly believe that simple and even effective redistribution, such as cash grants to the
+poor from taxpayer funds, are justified in principle. They believe in a social safety
+net; in this way they accept the South African approach, which understands the
+category of rights to include gross deprivation of basic needs. But they do not believe
+that planners offer promising responses to poverty, unemployment, and general
+deprivation. Instead New Progressivists emphasize approaches that will give people
+an ability to help themselves, through education, training, and job opportunities,
+fuelled by economic incentives in the form (for example) of tax credits to employers
+and employees alike. They seek to supplement rather than to displace markets.</p>
+        <p>In case there was any doubt, a recent study of South Africa, based on 1996
+data, shows the enormous importance of education to employment prospects.34 The
+study shows that high ratios of teachers to students dramatically increase the
+likelihood of employment—with a statistically significant effect for males, and a very
+large effect for females. The authors conclude that the apartheid ‘system continues to
+profoundly influence the life chances of many Black Africans, through its long lasting
+effects on the country’s education system. Many Black Africans currently in the labor
+force attended schools with inadequately trained teachers, insufficient textbooks, and
+pupil-teacher ratios above 80 children per class.’ The result of all this is to decrease
+both years in school and employment prospects. Better education and training is the
+most direct and effective way of helping people to obtain jobs and decent wages.</p>
+        <p>For many people, of course, other steps are required. A central New
+Progressivist approach is to develop systems to supplement low wages. A key here is
+to generate a strategy that will neither (a) discourage employers from hiring people
+nor (b) discourage prospective workers from seeking employment. Many countries
+have experimented with some variation on the Earned Income Tax Credit (EITC).
+Under this approach, working people (the programme may or may not be limited to
+people with children) who earn low wages obtain a tax credit from the government,
+sufficient to raise their total compensation to a decent level. The tax credit is phased
+out once workers receive money above a certain level. In the United States, for
+example, someone who earns an income of about $10,000 will receive about $3800 at
+tax time; a mother and father who earn $25,000 will receive about $1200 at tax time.
+In the United States alone, the EITC has been a terrific success, lifting millions of
+people from poverty. In 1996 alone, the effect of the EITC was to take 4.6 million
+people, including 2.4 million children, out of poverty.35</p>
+        <p>Compared to planning-type initiatives, there are three large advantages to the
+EITC approach. The first is that unlike the minimum wage, it does not make labour
+more costly for employers, and thus does not decrease employers’ desire to hire
+people. The second is that it increases people’s incentives to work, by making work
+more remunerative. The third is that unlike the minimum wage, the EITC is genuinely
+and specifically targeted at people who are poor. In the United States, for example,
+nearly three-quarters of those who benefit from the EITC are poor or near-poor.36 The
+EITC is the model of a New Progressivism antipoverty programme.</p>
+        <p>Creative policymakers could easily build on this model—and use it as an
+alternative to well-motivated but crude plans. Planners interested in protecting tenants
+might, for example, impose ceilings on rent increases. Those interested in protecting
+those dependent on certain important commodities might impose price ceilings. If the
+government is interested in ensuring that tenants cannot be evicted for nonpayment of
+rent, it might impose large procedural hurdles to eviction. If decent housing is
+unavailable, government might build housing on its own. These strategies are all
+associated with planning, and they might do some good. But New Progressivists
+would look for alternatives. They might seek, for example, to provide housing
+vouchers to poor people, or to provide food stamps to those who are unable to buy
+enough to eat.</p>
+      </sec>
+      <sec id="sec-5-3">
+        <title>More generally, New</title>
+      </sec>
+      <sec id="sec-5-4">
+        <title>Progressivists would urge government to build ‘empowerment zones’ or ‘enterprise zones’ in poor communities, by giving</title>
+        <p>34 Anne Case and Motohiro Yogo, Does School Quality Matter? Returns to Education and
+Characteristics of Schools in South Africa [1999 draft, available on the Social Science Research
+Network (SSRN)].
+35 Benjamin Aldrich-Moodie, ‘The Earned Income Tax Credit’, Issue Brief No. 1., The Century
+Foundation (September 1999).
+36 Shaviro, n. 31 above, at 435.
+businesses a tax credit, or direct subsidies, to the extent that they are willing to locate
+in areas that need help, and to employ people who need jobs. These are
+marketoriented strategies that do not make a fetish of market ordering. They deploy markets
+in the interest of human goals. Learning from the failures and half-successes of
+planning, those who use such strategies attempt to be like the successful participants
+in Dorner’s experiments, whose interventions are alert to the potentially harmful
+sideeffects of intrusions into systems.</p>
+      </sec>
+    </sec>
+    <sec id="sec-6">
+      <title>Command and Control Regulation: A Presumption Against</title>
+      <p>In controlling pollution and other social harms, a number of states, including some of
+the most proudly capitalist, have engaged in a modest form of ‘planning’, through
+command-and-control regulation. Such regulation involves centralized regulatory
+requirements imposed on dozens, hundreds, thousands, or even millions of producers.
+As examples, consider air pollution control requirements, imposed on new cars and
+trucks; ‘best available technology’ (BAT) requirements, imposed on polluting firms;
+and specified levels of mandatory pollution reductions, imposed on companies of
+various kinds. Similar approaches can be found in the area of occupational safety,
+where national authorities sometimes specify the safety technologies and approaches
+that must be used by all or most firms.</p>
+      <p>It is important to acknowledge that in many states, command-and-control
+regulation has accomplished significant good. Planning of this form has hardly been a
+complete failure. In the United States, it has helped produce dramatic reductions in
+levels of air and water pollution. Reliance on markets alone would have been far
+worse. In this domain, the way of planning is far better than the way of markets. But
+for several reasons, the New Progressivism rejects the basic approach. They are
+concerned that command-and-control approaches will compromise economic
+development and also undermine democracy.</p>
+      <p>The first problem is that it is usually unnecessarily expensive, even wasteful
+for government to prescribe the means for achieving social objectives. At least as a
+general rule, it is especially inefficient for government to dictate technology. One of
+the many problems with BAT strategies, for example, is that they ignore the enormous
+differences among plants and industries and among geographical areas. It is not
+sensible to impose the same technology on industries in diverse areas—regardless of
+whether they are polluted or clean, populated or empty, or expensive or cheap to clean
+up. BAT strategies also require all new industries to adopt costly technology, and
+allow more lenient standards to be imposed on existing plants and industries. Through
+this route BAT strategies actually penalize new products, thus discouraging
+investment and perpetuating old, dirty technology. The result is inefficiency in
+investment strategies, in innovation, and even in environmental protection. Such
+strategies also fail to encourage new pollution control technology and indeed serve to
+discourage it by requiring its adoption for no financial gain. In general, governmental
+specification of the ‘means’ of achieving desired ends is a good way of producing
+unnecessarily high costs. Instead of permitting industry and consumers to choose the
+‘means’—and thus to impose a form of market discipline on that question—
+government often selects the means in advance. The governmentally-prescribed
+means are often the most inefficient.</p>
+      <p>More fundamentally, command-and-control approaches are severely deficient
+from the standpoint of democracy. The focus on the question of ‘means’ tends to
+increase the power of well-organized private groups, by allowing them to press
+environmental and regulatory law in the service of their own parochial ends. The BAT
+approach, for example, ensures that citizens and representatives will be focusing their
+attention not on what levels of reduction are appropriate, but instead on the largely
+incidental and nearly impenetrable question of what technologies are now available.
+Because of its sheer complexity, this issue is not easily subject to democratic
+resolution. Moreover, the issue is not the relevant one for democratic politics, which
+is the appropriate degree and nature of environmental protection—an issue to which
+the BAT question is only incidental.</p>
+      <p>The approach favoured by the New Progressivism is much simpler: (1) begin
+by informing people about risks, including environmental risks, and (2) where this is
+inadequate, impose a tax on harmful behaviour, and let market forces determine the
+response to the increased cost. Thus governments might adopt a simple, two-step
+reform policy in the area of social risks and social harms. First, those who impose
+harm must pay for it—by purchasing permission to do so, perhaps through a licensing
+procedure. Second, those who obtain the resulting permission should be able to trade
+their ‘licenses’ with other people. In the pollution context, this would mean that
+people who reduce their pollution below a specified level could trade their ‘pollution
+rights’ for cash. In one stroke, such a system would create market-based disincentives
+to pollute and market-based incentives for pollution control. Such a system would also
+reward rather than punish technological innovation in pollution control, and do so
+with the aid of private markets. An idea of this kind might be made part and parcel of
+a system of ‘green taxes’. With such a system, nations might impose taxes on people
+who impose harms on others—users of dirty automobiles, farmers who employ
+pesticides, coal-fired power plants, gasoline that produces air pollution, products that
+contribute to destruction of the ozone layer or the greenhouse effect.</p>
+      <p>Economic incentives could be applied in other areas as well. Workers'
+compensation plans, for example, operate as effective guarantees of workplace safety.
+According to a careful study, ‘[i]f the safety incentives of workers' compensation
+were removed, fatality rates in the United States economy would increase by almost
+30 percent. Over 1200 more workers would die from job injuries every year in the
+absence of the safety incentives provided by workers' compensation.’37 This contrasts
+with a mere 2-4 per cent reduction in injuries from the Occupational Safety and
+Health Act (OSHA), an amount that links up well with the fact that annual workers'
+compensation premiums are more than 1000 times as large as total annual OSHA
+penalties. The tax system could be used to provide better incentives to employers who
+furnish dangerous workplaces. The consumer product safety commission might
+experiment with a system in which producers of harm-producing products must pay a
+fee into the federal treasury. Ultimately, we might hope for a coordinated system of
+risk regulation, one that imposed specified fees for harm-producing activities.</p>
+      <p>For democracy, such an approach would have significant consequences, and
+these consequences would be extremely beneficial. The large question—how much
+environmental protection at what cost—does not easily permit legislators to favor a
+well-organized, narrow group, such as the agricultural lobby, or the coal lobby.
+Special favours cannot readily be provided through a system of economic incentives.
+The very generality of the question will work against narrow favouritism.</p>
+      <p>The international movement toward economic incentives, a central part of the
+New Progressivism, is preliminary but real. Thus far, it has occurred mostly in the
+environmental area. An important series of administrative initiatives have brought
+about ‘emissions trading’, especially under the American Clean Air Act.38 Under the
+Environmental Protection Agency’s policy, a firm that reduces its emissions below
+legal requirements may obtain ‘credits’ that can be used against higher emissions
+elsewhere. Overall, the programme has produced savings of between $525 million and
+$12 billion.39 By any measure, this is an enormous gain. On balance, moreover, the
+environmental consequences have been beneficial. Offsets must, by definition,
+produce environmental gains. The preliminary evidence shows favourable effects
+from bubbles as well. There may be modest beneficial effects from banking and
+modest adverse effects from netting. The overall environmental effect is therefore
+good, cost entirely to one side.</p>
+      <p>As part of the process for eliminating lead from gasoline—a decision that was,
+not incidentally, strongly supported by a cost-benefit study—the EPA also permitted
+emissions trading. Under this policy, a refinery that produced gasoline with lower
+than required lead levels could earn credits. These could be traded with other
+refineries or banked for future use. Until the termination of the programme in 1987,
+when the phase-down of lead ended, emissions credits for lead were widely traded.
+EPA concluded that there had been cost savings of about 20 per cent over alternative
+systems, marking total savings in the hundreds of million of dollars. There have been
+similar efforts with water pollution and ozone depletion.40</p>
+      <p>Perhaps the most dramatic programme of economic incentives can be found in
+the 1990 amendments to the Clean Air Act. The Act now explicitly creates an
+emissions trading system for the control of acid deposition. In these amendments,
+Congress has made an explicit decision about aggregate emission levels for a
+pollutant. Whether the particular decision is the correct one may be disputed. But
+surely there are large democratic benefits from ensuring that public attention is
+focused on that issue. There are palpable economic benefits as well. The system for
+controlling acid deposition is billions of dollars less expensive than the
+commandand-control alternatives.
+37 W. Kip Viscusi, Reforming Products Liability, (1991) 178.
+38See Environment Protection Agency, ‘Emissions Trading Policy Statement: General Principles for
+Creation, Banking, and Use of Emission Reduction Credits’, (1986) 51 Federal Regulations 43,814.
+39 See Hahn &amp; Hester, ‘Marketable Permits: Lessons for Theory and Practice’, (1989) 16 Ecology Law
+Quarterly 361, 374 table 2. [Query author – names or initials?]
+40On ozone depletion, see 53 Federal Regulations 30,566 (August 11, 1988); on water pollution, see
+Hahn &amp; Stavns, ‘Incentive-Based Environmental Regulation: A New Era From An Old Idea’, (1991)
+18 Ecology Law Quarterly 1, 18-19. [Query author – names or initials?]</p>
+      <p>The idea can be adapted to many domains. Consider, for example, the African
+Elephant Conservation Act, which created a two-prong strategy to combat species
+loss. These included cooperative conservation projects and strict import controls for
+countries with endangered elephant populations. The United States would not import
+from any such country; but once a nation was able to stabilize its elephant population
+and to receive a new listing, it would be permitted to engage in the trade of ivory. In a
+way this policy might seem worse than a flat ban on ivory trade. But in practice, it has
+worked far better, because it creates an incentive to have sizeable herds. In many
+cases, elephants were ‘owned’ and protected by the relevant communities, increasing
+efforts to quash poaching in the knowledge that they would be economically better off
+if they were able to be listed as having stabilized their elephant population. The Act
+has been extremely successful, and served as the model for the subsequent Rhinoceros
+and Tiger Act and the Asian Elephant Act. Nations interested in preserving their own
+environmental goods, including endangered species, might well build on this idea.</p>
+    </sec>
+    <sec id="sec-7">
+      <title>Economic Growth, Capabilities, and Sex Equality</title>
+      <sec id="sec-7-1">
+        <title>GROWTH AND ITS LIMITS</title>
+        <p>Thus far I have dealt with New Progressivist means—stressing the need to attend to
+both incentives and norms, and to avoid the crudeness associated with many plans. It
+is now time to turn to the question of ends. That question cannot be answered without
+saying something about the relationship between economic growth, social welfare,
+and individual rights.</p>
+        <p>For the last decades, many people have evaluated national well-being in terms
+of economic growth alone. Indeed, this approach has been characteristic of those who
+emphasize the way of markets; and much of the time, it has been adopted by those
+who attempt the way of planning as well. On this view, a nation’s performance is
+assessed by asking about Gross Domestic Product, and by seeing its movement over
+time.</p>
+        <p>Certainly GDP is a useful figure, for it bears a relationship to important social
+goals. If we think of income as an all-purpose means—as something that people want
+regardless of what else they want—we might well attend to GDP. Though its
+importance is merely instrumental, growth does matter for a wide range of important
+goals. Thus a recent study of anti-poverty measures in the United States, by someone
+well-disposed to government programmes and unenthusiastic about the way of
+markets, announces as Lesson 1, ‘A strong macroeconomy matters more than
+anything else.’41 Well-protected property rights and freedom of contract, protected by
+state institutions, are quite central to economic growth.42 They are at least as
+important in poor countries as in rich ones.</p>
+        <p>There are, however, a number of problems with relying on GDP as a measure
+of well-being.</p>
+        <p>The most obvious problem involves distributional considerations. If income is
+unequally distributed, a high GDP may disguise the fact that many people are living
+bad or even desperate lives. For example, the United States has the highest per capita
+real GDP in the world. But it also has a higher rate of children living in poverty—
+about one in five—than does any other wealthy country in the world. The rate of
+children living in poverty is double that of the industrialized nations taken as a whole
+and four times that of Western Europe. Nearly half of all black children in the United
+States live in poverty. While white Americans, if taken separately, would rank first
+on the United Nations Development Programme’s Human Development Index,
+African-Americans, if taken separately, would rank somewhere in the thirties. These
+crucial economic facts are undisclosed by GDP. And if deprivation is seen as a rights
+violation, economic growth can conceal substantial rights violations.</p>
+        <p>GDP sometimes seems to be a general placeholder for a number of diverse
+indicators of social and economic well-being. But in fact, it may not be closely
+correlated with some important indicators. Consider two major social goals: reduction
+of poverty and reduction of unemployment. Of course GDP growth can be an
+important factor in counteracting both unemployment and poverty. But it is also
+possible for GDP increases to be accompanied by increases in unemployment and
+hence poverty (which is closely correlated with unemployment); indeed, this
+phenomenon has often occurred. Or consider the likelihood of subjection to violent
+crime. Physical security is surely an important ingredient in well-being, but it is at
+best indirectly reflected in GDP. Consider also the fact that there is no inevitable
+41 Rebecca Black, ‘Fighting Poverty: Lessons from Recent US History’, (2000) 14 Journal of
+Economic Perspectives 3, 6.
+connection between GDP and life expectancy. Some countries have a relatively low
+GDP but long life expectancy and low rates of infant mortality. Many countries have
+a high GDP but do poorly in promoting longevity. Education is an important part of a
+good life, whether or not educated people accumulate wealth; but the association
+between education and GDP, while real, is extremely crude.</p>
+        <p>GDP also fails to account for goods and services that are free, including some
+that are closely connected with economic well-being. For example, unpaid domestic
+labour is not a part of GDP. Many environmental amenities, such as clean air and
+water, are not reflected in GDP. The GDP figure thus fails adequately to measure
+either the benefits of a healthy environment or the costs of its degradation. There are
+other gaps in what GDP measures. It does not, for example, reflect changes in leisure
+time; but it is clear that any increase in leisure is a gain even in economic terms, since
+leisure is something for which people are willing to pay, sometimes a great deal. Most
+generally, a serious problem with GDP is that the figure excludes all social costs and
+benefits that do not have prices.</p>
+        <p>The most general point is that GDP does not adequately capture what a good
+society is concerned to ensure. Responding to these points, many people have
+attempted to come up with other measures of national well-being. Of these the
+UNDP’s effort is the best known. The UNDP uses an index of well-being based on
+per capita income, educational attainment, and longevity. In 1999, South Africa was
+ranked 101 on the list, below China, Turkey, Georgia, and Albania. Some of the key
+numbers include a life expectancy at birth of 54.7 years, an adult literacy rate of 84
+per cent, and real GDP per capita of $7,380. The most striking number here is the low
+life expectancy number—below, for example, that of Bangladesh, Nepal, India, and
+Pakistan.</p>
+        <p>Of course any ‘index’ is bound to have a degree of arbitrariness. What is
+important is that a nation with a low GDP can also give its citizens long lives and a
+good education—and that a nation with a high GDP can give its citizens a poor
+education and relatively low life expectancies. (On the latter point, the United States
+is an unfortunate case, with an extremely high per capita income but one of the lowest
+life expectancies among comparable countries.) The theoretical roots of these efforts
+to go beyond GDP lie in the ‘capabilities approach’, which attempts to assess ‘what
+42 See Mancur Olson, Power and Prosperity (1999).
+people are actually able to do and to be’.43 (We can view the capabilities approach as
+an effort, within both economics and philosophy, to give some concrete detail to the
+aspects of human rights and ‘basic needs’.)</p>
+        <p>The central idea, rooted in a notion of human dignity, is that a nation should
+ensure not ‘satisfaction of preferences’, and not a certain level of resources, but
+instead an ability to choose what kind of life to have. Of course preferences and
+beliefs may well adapt to existing deprivation—a common phenomenon, and one that
+creates serious problems for the way of markets insofar as that way makes
+‘preferences’ determinative of social policy. Nor should it be contentious to urge that
+certain capabilities are necessary to a decent human life. These include the ability to
+live a decently long life, to have good health, to participate in political choices that
+affect one’s life, to be educated, to hold property.44 When people lack one or more of
+these abilities, they suffer from ‘capability failure’, and this is the problem to which
+government should respond. The minimal responsibility of a New Progressivist
+government is to ensure that all citizens are able to come above a certain threshold.
+The less minimal obligation is to ensure that all citizens have more than minimal
+capabilities on all of these dimensions.</p>
+        <p>This general idea cannot without arbitrariness be turned into a formula or
+index. But insofar as the Human Development Index, and related efforts, go beyond
+GDP to provide a simple, salient, easily understood figure by which to facilitate
+international comparisons and changes over time, they are a good place to start. They
+also provide a great deal of help with priority-setting. In the United States, Finland,
+Botswana and South Africa, for example, it is clear that a large premium should be
+placed on improving longevity; the citizens of these nations can expect relatively
+short lives, undoubtedly in part as a result of high levels of crime and low levels of
+health care. By contrast, Sweden, New Zealand, Cuba and Georgia should concentrate
+on increasing economic growth; all of these nations provide decent education, and
+relatively long lives, but keep their citizens relatively poor.</p>
+      </sec>
+    </sec>
+    <sec id="sec-8">
+      <title>The Anticaste Principle—and the Centrality of Sex Equality</title>
+      <p>43 See Nussbaum, n. 3 above, at 5.
+44 See ibid. at 78-80.</p>
+      <sec id="sec-8-1">
+        <title>CASTE AND ANTICASTE</title>
+        <p>The capabilities approach gives a sense of the New Progressivist account of liberty;
+but it says little about equality. For New Progressivists, I have suggested it is
+important to ensure that everyone has decent life prospects, and also that everyone
+comes over a ‘capability threshold’. But a separate and equally central equality goal is
+the attack on any situation in which some people, defined in terms of a morally
+irrelevant characteristic, are treated as second-class citizens, or turned into members
+of a lower caste. Thus an anticaste principle, undergirding a constitutional equality
+norm, plays a large role in New Progressivist thinking.</p>
+        <p>The anticaste principle is not a thoroughly egalitarian goal. It is compatible
+with large disparities in wealth and resources. But it insists that morally irrelevant
+characteristics, such as race, religion, and gender, should not be turned into a basis for
+second-class citizenship. Thus New Progressivists see one of the most serious
+inequality problems of the twentieth century in the pervasive practice of seizing on a
+characteristic lacking moral relevance, and using it as the basis for the systematic
+subordination of members of certain social groups. This conception of equality is
+opposed to several others, including the ‘formal equality’ principle, which does not
+focus attention on systematic subordination, and indeed which sees efforts to
+counteract such subordination as a form of discrimination. Commitment to the
+anticaste principle hardly exhausts the domain of rights. But it is an important
+component of a rights-respecting society.</p>
+        <p>SEX EQUALITY AS A CENTRAL GOAL, AS A MEANS AND AN END
+For developing and wealthy countries alike, an end to sexual hierarchy is an
+especially high priority—as both a means and an end. With respect to many
+problems—HIV/AIDS, crime, economic growth and overpopulation—there are few
+higher priorities. Indeed any generalized attack on poverty must be combined with an
+attack on sexual hierarchy. The two are closely intermingled problems.</p>
+        <p>Note first that sex equality is an important means to human development, as
+Amartya Sen and others have shown, with their particular emphasis on ‘women’s
+agency’.45 A nation in which girls and women have a chance to do and to be what
+they want to do and to be is much likelier to develop and to develop well. A nation
+with sexual hierarchy is far more likely to suffer economically and in other ways. In
+fact a system of equality on the basis of sex is likely to redress many problems not
+normally thought to be associated with it, such as overpopulation and the individual
+and social drains that come from unwanted children. When women have a range of
+opportunities, and when their choices are not a product of deprivation, these problems
+are sharply diminished. If women are able to decide whether to have children,
+unwanted children are less likely, and children who are unwanted are far more likely
+to suffer and to make society suffer in response, sometimes through criminal
+behaviour. If women have agency, many crimes will be reduced as a result,
+emphatically including sex crimes. If women have agency, the economy will do
+better, simply because there will be more people willing and able to do good work. If
+women have agency, there will be an immediate and substantial reduction in the
+AIDS crisis, simply because women will be able to engage in sexual relations only
+when they want, and on the terms that they choose. This is a potentially enormous
+benefit for men and women alike, and for adults and children alike as well.</p>
+        <p>This idea has many implications. It means that education and training for girls
+are crucial. It also means that by both law and norms, girls and women should be
+allowed to decide when and whether to become mothers—which means, among other
+things, that sexual relations should always be a choice, not a requirement. Here there
+is an evident link to the earlier discussion of norms and norm cascades, and a
+particular link to the problems of crime and HIV/AIDS. In fact a social policy directed
+against sexual subordination in multiple spheres is highly likely to combat both
+problems.</p>
+      </sec>
+    </sec>
+    <sec id="sec-9">
+      <title>Conclusion</title>
+      <p>I have attempted in this essay to clarify the relationships among rights, democracy,
+and economic growth, endorsing in the process a New Progressivism. Of course it is
+45 See Sen and Dreze, n. 4 above.
+possible to conceive of rights, and of democracy, in a way that leads to great tension
+with economic growth. But we can also understand democracy in deliberative terms,
+in a way that reduces the tension with both rights and growth. We can also understand
+rights in a way that makes economic growth their alley rather than their adversary.
+Rights in general depend on a certain degree of economy development, simply
+because rights cost money. And if rights include freedom from desperate conditions,
+economic growth is extremely important.</p>
+      <p>But it is not sufficient. Markets must be supplemented by additional efforts,
+supported by a democratic society. Too much of the time, markets do little to help
+people who face circumstances of deprivation. From the standpoint of freedom and
+justice, they are nothing to celebrate. From the standpoint of economics, this was the
+great lesson of the first half of the twentieth century. We have seen that markets are
+emphatically human products, not natural but conventional, created by law and to be
+evaluated in terms of their consequences. The question is what they do to and for the
+people who are subject to them.</p>
+      <p>At the same time, economic planning, in its many diverse forms, is often futile
+and counterproductive, partly because of the difficulty of foreseeing the systemic
+effects of one-shot interventions. In its various guises, planning often invites interest
+group manoeuvering, thus damaging democracy, and produces unintended harmful
+consequences, notwithstanding the good intentions of many planners. This has been
+the great lesson of the second half of the twentieth century.</p>
+      <p>In these circumstances, any New Progressivism, to be worthy of use, should
+not be understood as a compromise measure, or as steering ‘between’ two poles. It is
+insistently and unapologetically committed to a certain understanding of the goals
+associated with social democracy in Europe and the New Deal in the United States.
+These do not include egalitarianism, understood as equal or roughly equal economic
+outcomes. But they do include decent life prospects for all, a social safety net in the
+form of adequate floors, political equality, and an anticaste principle, in the form of
+opposition to second-class citizenship for members of any social group. Attempting to
+understand social democratic goals in a coherent way, those who believe in a New
+Progressivism insist on a self-conscious effort to promote the fundamental capabilities
+of all citizens, by ensuring that everyone falls above a certain generous threshold.
+Those who endorse a New Progressivism therefore reject the idea that markets should
+be identified with liberty at the same time that they seek to go beyond the sometimes
+sloppy and diffuse set of goals associated with the way of planning. Those who
+endorse a New Progressivism also put the highest premium on the achievement of an
+end to sexual hierarchy.</p>
+      <p>With respect to means, New Progressivists seek a government that acts as
+catalyst; the basic goal is to create incentives that will move behaviour in desirable
+directions. New Progressivists see much planning as analogous to the hapless
+participants in Dietrich Dorner’s experiments—as ill-conceived interventions into
+systems that confound the goals of the interveners. To avoid the problem of ‘mess’,
+New Progressivism programmes are based on a presumption against blocked
+exchanges and command-and-control regulation. There is an effort to complement
+rather than to displace markets. Antipoverty programmes take the form of incentives
+to work, designed to ensure that everyone who works is able to live decently, that
+everyone has a chance to work, and that those who choose not to work have a good
+reason for not doing so. Regulatory programmes are based on a presumption in favour
+of informing people and providing economic incentives for desirable conduct.</p>
+      <p>Finally, New Progressivists insist on the importance of civil society and above
+all of the norms that often drive behaviour. Alert to the possibility of social cascades,
+those who seek a New Progressivism insist on the provision of information, and also
+on seemingly small steps that can, under favorable conditions, have large effects on
+behaviour.</p>
+      <p>There is no policy blueprint here. Of courlicy on a more secure sense of gose
+no country is exactly like any other. No one can design a set of policy initiatives that
+will work well, or at all, in every nation on the globe. But the problems with the way
+of markets and the way of planning are pervasive. In many nations, an alternative that
+attempts to promote human capabilities, in a way that is alert to the nature of
+incentives and the role of social norms, promises to draw on both of the great lessons
+of the twentieth century, and to build povernment’s appropriate ends, and of the
+means that are most likely to promote those ends.  
+ 
+ 
+ 
+ 
+ 
+2. 
+Chicago Working Papers in Law and Economics </p>
+      <p>(Second Series) 
+William M. Landes, Copyright Protection of Letters, Diaries and Other Unpublished Works: An 
+Economic Approach (July 1991) 
+Richard A. Epstein, The Path to The T. J. Hooper: The Theory and History of Custom in the Law 
+of Tort (August 1991) 
+Cass R. Sunstein, On Property and Constitutionalism (September 1991) 
+Richard A. Posner, Blackmail, Privacy, and Freedom of Contract (February 1992) 
+Randal C. Picker, Security Interests, Misbehavior, and Common Pools (February 1992) 
+Tomas J. Philipson &amp; Richard A. Posner, Optimal Regulation of AIDS (April 1992) 
+Douglas G. Baird, Revisiting Auctions in Chapter 11 (April 1992) 
+William M. Landes, Sequential versus Unitary Trials: An Economic Analysis (July 1992) 
+William M. Landes &amp; Richard A. Posner, The Influence of Economics on Law: A Quantitative 
+Study (August 1992) 
+Alan O. Sykes, The Welfare Economics of Immigration Law: A Theoretical Survey With An 
+Analysis of U.S. Policy (September 1992) 
+Douglas G. Baird, 1992 Katz Lecture: Reconstructing Contracts (November 1992) 
+Gary S. Becker, The Economic Way of Looking at Life (January 1993) 
+J. Mark Ramseyer, Credibly Committing to Efficiency Wages: Cotton Spinning Cartels in 
+Imperial Japan (March 1993) 
+Cass R. Sunstein, Endogenous Preferences, Environmental Law (April 1993) 
+Richard A. Posner, What Do Judges and Justices Maximize? (The Same Thing Everyone Else 
+Does) (April 1993) 
+Lucian Arye Bebchuk and Randal C. Picker, Bankruptcy Rules, Managerial Entrenchment, and 
+Firm‐Specific Human Capital (August 1993) 
+J. Mark Ramseyer, Explicit Reasons for Implicit Contracts: The Legal Logic to the Japanese 
+Main Bank System (August 1993) 
+William M. Landes and Richard A. Posner, The Economics of Anticipatory Adjudication 
+(September 1993) 
+Kenneth W. Dam, The Economic Underpinnings of Patent Law (September 1993) 
+Alan O. Sykes, An Introduction to Regression Analysis (October 1993) 
+Richard A. Epstein, The Ubiquity of the Benefit Principle (March 1994) 
+Randal C. Picker, An Introduction to Game Theory and the Law (June 1994) 
+William M. Landes, Counterclaims: An Economic Analysis (June 1994) 
+J. Mark Ramseyer, The Market for Children: Evidence from Early Modern Japan (August 1994) 
+Robert H. Gertner and Geoffrey P. Miller, Settlement Escrows (August 1994) 
+Kenneth W. Dam, Some Economic Considerations in the Intellectual Property Protection of 
+Software (August 1994) 
+Cass R. Sunstein, Rules and Rulelessness, (October 1994) 
+David Friedman, More Justice for Less Money: A Step Beyond Cimino (December 1994) 
+Daniel Shaviro, Budget Deficits and the Intergenerational Distribution of Lifetime 
+Consumption (January 1995) 
+Douglas G. Baird, The Law and Economics of Contract Damages (February 1995) 
+Daniel Kessler, Thomas Meites, and Geoffrey P. Miller, Explaining Deviations from the Fifty 
+Percent Rule: A Multimodal Approach to the Selection of Cases for Litigation (March 1995) 
+Geoffrey P. Miller, Das Kapital: Solvency Regulation of the American Business Enterprise 
+(April 1995) 
+Richard Craswell, Freedom of Contract (August 1995) 
+J. Mark Ramseyer, Public Choice (November 1995) 
+Kenneth W. Dam, Intellectual Property in an Age of Software and Biotechnology (November 
+1995) 
+Cass R. Sunstein, Social Norms and Social Roles (January 1996) 
+J. Mark Ramseyer and Eric B. Rasmusen, Judicial Independence in Civil Law Regimes: 
+Econometrics from Japan (January 1996) 
+73. 
+107. 
+108. 
+143. 
+144. 
+179. 
+222. 
+223. 
+224. </p>
+    </sec>
+  </body>
+  <back>
+    <ref-list/>
+  </back>
+</article>

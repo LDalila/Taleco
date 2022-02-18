@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta/>
+    <article-meta>
+      <title-group>
+        <article-title>Precautions against W hat? The Availability Heuristic and Cross-Cultural Risk Perceptions</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Coase-Sandor Working Paper Series in Law</string-name>
+          <email>unbound@law.uchicago.edu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Coase-Sandor Institute for Law and Economics</institution>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <abstract>
+        <p>Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics Part of the Law Commons Recommended Citation Cass R. Sunstein, "Precautions against What? The Availability Heuristic and Cross-Cultural Risk Perceptions" ( John M. Olin Program in Law and Economics Working Paper No. 220, 2004).</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>JOHN M. OLIN LAW &amp; ECONOMICS WORKING PAPER NO. 220 (2D SERIES)</title>
+      <p>Precautions against What? The Availability Heuristic and
+Cross-Cultural Risk Perceptions</p>
+      <p>Cass R. Sunstein</p>
+    </sec>
+    <sec id="sec-2">
+      <title>THE LAW SCHOOL</title>
+    </sec>
+    <sec id="sec-3">
+      <title>THE UNIVERSITY OF CHICAGO</title>
+      <p>August 2004
+Preliminary draft 8/09/04
+All rights reserved</p>
+      <p>Because risks are all on sides of social situations, it is not possible to be globally
+"precautionary." Hence the Precautionary Principle runs into serious conceptual difficulties; any
+precautions will themselves create hazards of one or another kind. When the principle gives
+guidance, it is often because of the availability heuristic, which can make some risks stand out as
+particularly salient, whatever their actual magnitude. The same heuristic helps to explain
+differences across groups, cultures, and even nations in the perception of risks, especially when
+linked with such social processes as cascades and group polarization. One difficulty here is that
+what is available is sometimes a result of predispositions, cultural and otherwise. There are
+complex links among availability, social processes for the spreading of information, and
+predispositions.</p>
+      <p>“Many Germans believe that drinking water after eating cherries is deadly; they
+also believe that putting ice in soft drinks is unhealthy. The English, however,
+rather enjoy a cold drink of water after some cherries; and Americans love icy
+refreshments.”1</p>
+      <p>“The most important factor contributing to the increased stringency of
+health, safety and environmental regulation in Europe has been a series of
+regulatory failures and crises that placed new regulatory issues on the political
+agenda and pressured policy makers to adopt more risk averse or precautionary
+policies. . . . The regulatory failure associated with BSE significantly affected the
+attitude of the European public toward GM foods. . . . Consumer and
+environmental regulations are likely to become more innovative, comprehensive
+and risk averse as a response to a widespread public perception of regulatory
+failures.”2</p>
+      <p>It has become standard to say that with respect to risks, Europe and the United
+States can be distinguished along a single axis: Europe accepts the Precautionary
+* Karl N. Llewellyn Distinguished Service Professor, Law School and Department of Political Science,
+University of Chicago.
+1 See Joseph Henrich et al., Group Report: What is the Role of Culture in Bounded Rationality?, in
+Bounded Rationality: The Adaptive Toolbox 353-54, Gerd Gigerenzer &amp; Reinhard Selten, eds.
+(Cambridge, Mass.: MIT Press, 2001), for an entertaining outline in connection with food choice decisions.
+2 David Vogel, The Hare and the Tortoise Revisited: The New Politics of Consumer and Environmental
+regulation in Europe, 33 B. J. Pol. S. 557, 568-69, 580 (2003).</p>
+      <p>Principle, and the United States does not.3 On this view, Europeans attempt to build a
+“margin of safety” into public decisions, taking care to protect citizens against risks that
+cannot be established with certainty. By contrast, Americans are reluctant to take
+precautions, requiring clear evidence of harm in order to justify regulation. These claims
+seem plausible in light of the fact that the United States appears comparatively
+unconcerned about the risks associated with global warming and genetic modification of
+food; in those contexts, Europeans favor precautions, whereas Americans seem to require
+something akin of proof of danger. To be sure, the matter is quite different in the context
+of threats to national security. For the war in Iraq, the United States (and England)
+followed a kind of Precautionary Principle, whereas other nations (most notably France
+and Germany) wanted clearer proof of danger. But for most threats to safety and health,
+many people believe that Europe is precautionary and the United States is not.</p>
+      <p>But as others have demonstrated,4 this opposition between Europe and America is
+false, even illusory. It is simply wrong to say that Europeans are more precautionary than
+Americans. As an empirical matter, neither is “more precautionary.” Europeans are not
+more averse to risks than Americans. They are more averse to particular risks,5 such as
+the risks associated with global warming; but Americans have their own preoccupations
+as well. My larger point, a central claim of this chapter, is conceptual. No nation can,
+even in principle, commit itself to precaution as such.6 The real problem with the
+Precautionary Principle, at least in its strongest forms, is that it is incoherent; it purports
+to give guidance, but it fails to do so, because it condemns the very steps that it requires.
+Was the war in Iraq precautionary? Is it precautionary to ban cellular telephones, nuclear
+power plants, genetically modified food, and airplanes? These questions should be
+enough to suggest that precautions always give rise to risks of their own—and that the
+3 On some of the complexities here, see John S. Applegate, The Precautionary Preference: An American
+Perspective on the Precautionary Principle, 6 Hum. &amp; Ecol. Risk Assess. 413 (2000); Peter H. Sand, The
+Precautionary Principle: A European Perspective, 6 Hum. &amp; Ecol. Risk Assess. 445 (2000).
+4 See the illuminating discussions in Jonathan B. Wiener, Precaution, Risk, and Multiplicity (unpublished
+manuscript 2004); Jonathan B. Wiener &amp; Michael D. Rogers, Comparing Precaution in the United States
+and Europe, 5 J Risk Research 317 (2002).
+5 See Vogel, supra note, for many examples in the context of health, safety, and the environment.
+6 I draw here from Cass R. Sunstein, Laws of Fear: Beyond the Precautionary Principle (Cambridge
+University Press, forthcoming 2005) and Cass R. Sunstein, Beyond the Precautionary Principle, 151 U. Pa.
+L. Rev. 1003 (2003).
+operation of the Precautionary Principle is inextricably intertwined with social risk
+perceptions.</p>
+      <p>Nations can regard themselves as “precautionary” only if they blind ourselves to
+many aspects of risk-related situations and focus on a narrow subset of what is at stake.
+That kind of self-blinding is what makes the Precautionary Principle seem to give
+guidance; and I shall have a fair bit to say about why people and societies are selective in
+their fears. My major hypothesis is that the availability heuristic is often the source of
+people’s fears about certain risks.7 If a particular incident is cognitively “available”—
+both vivid and salient—then people will have a heightened fear of the risk in question. If
+people in one nation fear the risks associated with terrorism, and people in another nation
+fear the risks associated with mad cow disease, the availability heuristic is likely to be the
+reason. Hence cultural differences, with respect to application of the precautionary
+principle, are often rooted in availability. But this point misses some complexities, about
+both social influences and cultural predispositions; I shall turn to these in due course. The
+availability heuristic does not operate in a social or cultural vacuum.</p>
+      <p>In short, I aim here both to show that the Precautionary Principle is not quite what
+it seems and that its operation is underwritten by an identifiable heuristic with social and
+cultural foundations. The result is a hypothesis, to the effect that cross-cultural
+differences in both risk perception and in precautions are produced, in large part, by
+availability. I shall not be able to prove that hypothesis in this space, but I hope to be able
+to say enough to prove that the hypothesis is plausible, illuminating, and worth further
+exploration.</p>
+      <sec id="sec-3-1">
+        <title>Weak and Strong</title>
+        <p>Begin with the Precautionary Principle.8 There are twenty or more definitions,
+and they are not compatible with one another.9 We can imagine a continuum of
+7 Undoubtedly a great deal can be learned from use of the psychometric paradigm, stressed in Bernd
+Rorhmann and Ortwin Renn, Risk Perception Research: An Introduction, in Cross-Cultural Risk
+Perception: A Survey of Empirical Studies 11, 17-18 (Ortwin Renn and Bernd Rorhmann eds. 2000). I
+stress the availability heuristic here because of its comparative simplicity, but the heuristic interacts in
+complex ways with psychometrics and with culture; I try at least to scratch some of the surfaces here.
+8 This and the following sections draw extensively from Sunstein, Beyond the Precautionary Principle,
+supra note.
+9 See Julian Morris, Defining the Precautionary Principle, in Rethinking Risk and the Precautionary
+Principle, supra note 13, at 1-19; Wiener, supra note.
+understandings. At one extreme are weak versions to which no reasonable person could
+object. At the other extreme are strong versions that would require a fundamental
+rethinking of regulatory policy.</p>
+        <p>The most cautious and weak versions suggest, quite sensibly, that a lack of
+decisive evidence of harm should not be a ground for refusing to regulate. Controls might
+be justified even if we cannot establish a definite connection between, for example,
+lowlevel exposures to certain carcinogens and adverse effects on human health. Thus the
+1992 Rio Declaration states, “Where there are threats of serious or irreversible damage,
+lack of full scientific certainty shall not be used as a reason for postponing cost-effective
+measures to prevent environmental degradation.”10 The Ministerial Declaration of the
+Second International Conference on the Protection of the North Sea, held in London in
+1987, is in the same vein: “Accepting that in order to protect the North Sea from possibly
+damaging effects of the most dangerous substances, a Precautionary Principle is
+necessary which may require action to control inputs of such substances even before a
+causal link has been established by absolutely clear scientific evidence.”11 Similarly, the
+United Nations Framework Convention on Climate Change offers cautious language:
+“Where there are threats of serious or irreversible damage, lack of full scientific certainty
+should not be used as a reason for postponing [regulatory] measures, taking into account
+that policies and measures to deal with climate change should be cost-effective so as to
+ensure global benefits at the lowest possible cost.”12</p>
+        <p>The
+widely
+publicized</p>
+        <sec id="sec-3-1-1">
+          <title>Wingspread</title>
+          <p>Declaration, from
+a
+meeting
+of
+environmentalists in 1998, goes somewhat further: “When an activity raises threats of
+harm to human health or the environment, precautionary measures should be taken even
+if some cause and effect relationships are not established scientifically. In this context the
+proponent of the activity, rather than the public, should bear the burden of proof.”13 The
+first sentence just quoted is more aggressive than the Rio Declaration because it is not
+limited to threats of serious or irreversible damage. And in reversing the burden of proof,
+10 Quoted in Bjorn Lomborg, The Skeptical Environmentalist 347 (New York: Cambridge University Press,
+2001).
+11 Quoted in Rethinking Risk and the Precautionary Principle 3, Julian Morris, ed. (Oxford:
+ButterworthHeinemann, 2000).
+12 See Indur Goklany, The Precautionary Principle 6 (2001).
+13 Id. A strong version is defended in Carolyn Raffensperger &amp; Peter L. deFur, Implementing the
+Precautionary Principle: Rigorous Science and Solid Ethics, 5 Hum. &amp; Ecol. Risk Assess. 933, 934 (1999).
+the second sentence goes further still. Of course everything depends on what those with
+the burden of proof must show in particular.</p>
+          <p>In Europe, the Precautionary Principle is sometimes understood in a still stronger
+way, suggesting that it is important to build “a margin of safety into all decision
+making.”14 According to one definition, the Precautionary Principle means “that action
+should be taken to correct a problem as soon as there is evidence that harm may occur,
+not after the harm has already occurred.”15 The word “may” is the crucial one here. In a
+comparably strong version, it is said that “the Precautionary Principle mandates that
+when there is a risk of significant health or environmental damage to others or to future
+generations, and when there is scientific uncertainty as to the nature of that damage or the
+likelihood of the risk, then decisions should be made so as to prevent such activities from
+being conducted unless and until scientific evidence shows that the damage will not
+occur.”16 The words “will not occur” seem to require proponents of an activity to
+demonstrate that there is no risk at all—often an impossible burden to meet. The
+Cartagena Protocol on Biosafety to the Convention on Biological Diversity, adopted in
+2000, appears to adopt a strong version as well.17 The Final Declaration of the First
+European “Seas At Risk” conference says that if “the ‘worst case scenario’ for a certain
+activity is serious enough then even a small amount of doubt as to the safety of that
+activity is sufficient to stop it taking place.”18</p>
+        </sec>
+      </sec>
+      <sec id="sec-3-2">
+        <title>Safe and Sorry?</title>
+        <p>The weak versions of the Precautionary Principle are unobjectionable and
+important. Every day, individuals and nations take steps to avoid hazards that are far from
+certain. We do not walk in moderately dangerous areas at night; we exercise; we buy
+smoke detectors; we buckle our seatbelts; we might even avoid fatty foods (or
+carbohydrates). Sensible governments regulate risks that, in individual cases or even in
+the aggregate, have a well under 100% chance of coming to fruition. An individual might
+14 See Bjorn Lomborg, The Skeptical Environmentalist 348 (New York: Cambridge University Press,
+2001).
+15 http://www.logophilia.com/WordSpy/precautionaryprinciple.asp
+16 Testimony of Dr. Brent Blackwelder, President, Friends of the Earth, before the Senate Appropriations
+Committee, Subcommittee on Labor, Health and Human Services, (Jan. 24, 2002).
+17 See Goklany, supra note, at 6.
+18 Final Declaration of the First European “Seas At Risk” Conference, Annex 1, Copenhagen, 1994.
+ignore a mortality risk of 1/500,000, because that risk is quite small, but if 100 million
+citizens face that risk, the nation had better take it seriously. With respect to the weak
+version of the Precautionary Principle, there are significant cross-cultural variations; but
+no serious person rejects that version.</p>
+        <p>For the moment let us understand the principle in a strong way, to suggest that
+regulation is required whenever there is a possible risk to health, safety, or the
+environment, even if the supporting evidence remains speculative and even if the
+economic costs of regulation are high. To avoid absurdity, the idea of “possible risk” will
+be understood to require a certain threshold of scientific plausibility. To support
+regulation, no one thinks that it is enough if someone, somewhere, urges that a risk is
+worth taking seriously. But under the Precautionary Principle as I shall understand it, the
+threshold burden is minimal, and once it is met, there is something like a presumption in
+favor of regulatory controls. This version, as we shall see, helps to clarify a significant
+problem with the idea of precaution, and also to illuminate the existence of cross-national
+differences.</p>
+      </sec>
+      <sec id="sec-3-3">
+        <title>Why the Precautionary Principle Is Paralyzing</title>
+        <p>Why might the Precautionary Principle, understood in its strong sense, have such
+widespread appeal? At first glance, the answer is simple, for the principle contains some
+important truth. Certainly we should acknowledge that a small probability (say, 1 in
+25,000) of a serious harm (say, 1,000,000 deaths) deserves extremely serious attention. It
+is worthwhile to spend a lot of money to eliminate that risk. An economically oriented
+critic might observe that our resources are limited and that if we spend large amounts of
+resources on highly speculative harms, we will not be allocating those resources wisely.
+In fact this is the simplest criticism of the Precautionary Principle.19 If we take costly
+steps to address all risks, however improbable they are, we will quickly impoverish
+ourselves. On this view, the Precautionary Principle “would make for a dim future.”20 It
+would also eliminate technologies and strategies that make human lives easier, more
+convenient, healthier, and longer.
+19 See John D. Graham, Decision-Analytic Refinements of the Precautionary Principle, 4 J. Risk Research
+127 (2001).
+20 See Julian Morris, Defining the Precautionary Principle, in Rethinking Risk and the Precautionary
+Principle, supra note, at 1, 17.</p>
+        <p>But there is something both odd and revealing about these claims. The
+Precautionary Principle is designed to decrease morbidity and mortality; how could it
+possibly make the future “dim”? I suggest that the real problem with the principle is that
+it offers no guidance—not that it is wrong, but that it forbids all courses of action,
+including regulation. Taken seriously, it bans the very steps that it requires. To
+understand the difficulty, it will be useful to anchor the discussion in some concrete
+problems:
+1. Genetic modification of food has become a widespread practice.21 The risks of that
+practice are not known with any precision. Some people fear that genetic
+modification will result in serious ecological harm and large risks to human health;
+others believe that genetic modification will result in more nutritious food and
+significant improvements in human health.
+2. Scientists are not in accord about the dangers associated with global warming,22
+but there is general agreement that global warming is in fact occurring. It is
+possible that global warming will produce, by 2100, a mean temperature increase
+of 4.5 degrees C (the high-end estimate of the International Panel on Climate
+Change); that it will result in $5 trillion or more in monetized costs; and that it will
+also produce a significant number of deaths from malaria. The Kyoto Protocol
+would require most industrialized nations to reduce greenhouse gas emissions to
+92%-94% of 1990 levels. A great deal of work suggests that significant decreases
+in such emissions would have large benefits; but skeptics contend that the costs of
+such decreases would reduce the well-being of millions of people, especially the
+poorest members of society.
+3. Many people fear nuclear power, on the ground that nuclear power plants create
+various health and safety risks, including some possibility of catastrophe. But if a
+nation does not rely on nuclear power, it might well rely instead on fossil fuels,
+and in particular on coal-fired power plants. Such plants create risks of their own,
+21 Alan McHughen, Pandora’s Picnic Basket (New York: Oxford University Press, 2000).
+22 For discussion, see Richard A. Posner, Catastrophe: Risk and Response (New York: Oxford University
+Press, 2004); Bjorn Lomborg, The Skeptical Environmentalist (New York: Cambridge University Press,
+2001); William D. Nordhaus &amp; Joseph Boyer, Warming the World: Economic Models of Global Warming
+168 (Cambridge, Mass.: MIT Press, 2000).
+including risks associated with global warming. China, for example, has relied on
+nuclear energy, in a way that reduces greenhouse gases and a range of air pollution
+problems.23
+4. In the first years of the twenty-first century, one of the most controversial
+environmental issues in the United States involved the regulation of arsenic in
+drinking water. There is a serious dispute over the precise level of risks posed by
+low levels of arsenic in water, but on the “worst case” scenario, over one hundred
+lives might be lost each year as a result of the 50 part per billion standard that the
+Clinton Administration sought to revise. At the same time, the proposed 10 part
+per billion standard would cost over $200 million each year, and it is possible that
+it would save as few as six lives annually.</p>
+        <p>In these cases, what kind of guidance is provided by the Precautionary Principle?
+It is tempting to say, as is in fact standard, that the principle calls for strong controls on
+genetic engineering of food, on greenhouse gases, on arsenic, and on nuclear power. In
+all of these cases, there is a possibility of serious harms, and no authoritative scientific
+evidence demonstrates that the possibility is close to zero. If the burden of proof is on the
+proponent of the activity or processes in question, the Precautionary Principle would
+seem to impose a burden of proof that cannot be met. Put to one side the question
+whether the Precautionary Principle, understood to compel stringent regulation in these
+cases, is sensible. Let us ask a more fundamental question: Is that more stringent
+regulation therefore compelled by the Precautionary Principle?</p>
+        <p>The answer is that it is not. In some of these cases, it should be easy to see that in
+its own way, stringent regulation would actually run afoul of the Precautionary Principle.
+The simplest reason is that such regulation might well deprive society of significant
+benefits, and hence produce serious harms that would otherwise not occur. In some cases,
+23 See Ling Zhong, Note: Nuclear Energy: China's Approach Towards Addressing Global Warming, 12
+Geo. Int'l Envtl. L. Rev. 493 (2000). Of course it is possible to urge that nations should reduce reliance on
+either coal-fired power plants or nuclear power, and move instead toward environmentally preferred
+alternatives, such as solar power. For general discussion, see Renewable Energy: Power for a Sustainable
+Future, Godfrey Boyle, ed. (Oxford: Oxford University Press in association with the Open University,
+1996); Allan Collinson, Renewable Energy (Austin, Tex.: Steck-Vaughn Library, 1991); Dan E. Arvizu,
+Advanced Energy Technology and Climate Change Policy Implications, 2 Fl. Coastal L.J. 435 (2001). But
+these alternatives pose problems of their own, involving feasibility and expense. See Lomborg, supra note,
+at 118-48.
+regulation eliminates the “opportunity benefits” of a process or activity, and thus causes
+preventable deaths. If this is so, regulation is hardly precautionary. Consider the “drug
+lag,” produced whenever the government takes a highly precautionary approach to the
+introduction of new medicines and drugs onto the market. If a government insists on such
+an approach, it will protect people against harms from inadequately tested drugs; but it
+will also prevent people from receiving potential benefits from those very drugs. Is it
+“precautionary” to require extensive premarketing testing, or to do the opposite?</p>
+        <p>In the context of medicines to prevent AIDS, those who favor “precautions” have
+asked governments to reduce the level of premarketing testing, precisely in the interest of
+health. The United States, by the way, is more precautionary about new medicines than
+are most European nations. But by failing to allow such medicines on the market, the
+United States fails to take precautions against the illnesses that could be reduced by
+speedier procedures.</p>
+        <p>Or consider the continuing debate over whether certain antidepressants impose a
+(small) risk of breast cancer.24 A precautionary approach might seem to caution against
+use of such antidepressants because of their carcinogenic potential. But the failure to use
+those depressants might well impose risks of its own, certainly psychological and
+possibly even physical (because psychological ailments are sometimes associated with
+physical ones as well). Or consider the decision, by the Soviet Union, to evacuate and
+relocate more than 270,000 people in response to the risk of adverse effects from the
+Chernobyl fallout. It is not clear that on balance, this massive relocation project was
+justified on health grounds: “A comparison ought to have been made between the
+psychological and medical burdens of this measure (anxiety, psychosomatic diseases,
+depression and suicides) and the harm that may have been prevented.”25 More generally,
+a sensible government might want to ignore the small risks associated with low levels of
+24 See Judith P. Kelly et al., Risk of Breast Cancer According to Use of Antidepressants, Phenothiazines,
+and Antihistamines, 150 Am. J. Epidemiology 861 (1999); C.R. Sharpe et al., The Effects of Tricyclic
+Antidepressants on Breast Cancer Risk, 86 Brit. J. of Cancer 92 (2002).
+25 Maurice Tubiana, Radiation Risks in Perspective: Radiation-Induced Cancer Among Cancer Risks, 39(1)
+Radiat. Environ. Biophy. 3, 8-10 (2000).
+radiation, on the ground that precautionary responses are likely to cause fear that
+outweighs any health benefits from those responses.26</p>
+        <p>Or consider a more general question about how to handle low-level toxic agents,
+including carcinogens. Do such agents cause adverse effects? If we lack clear evidence, it
+might seem “precautionary” to assume that they do, and hence to assume, in the face of
+uncertainty, that the dose-response curve is linear and without safe thresholds.27 In the
+United States, this is the default assumption of the Environmental Protection Agency. But
+is this approach unambiguously precautionary? Considerable evidence suggests that
+many toxic agents that are harmful at high levels are actually beneficial at low levels.28
+Thus “hormesis” is a dose-response relationship in which low doses stimulate desirable
+effects and high doses inhibit them. When hormesis is involved, government use of a
+linear dose-response curve, assuming no safe thresholds, will actually cause mortality and
+morbidity effects. Which default approach to the dose-response curve is precautionary?
+To raise this question is not to take any stand on whether some, many, or all toxic agents
+are beneficial or instead harmful at very low doses. It is only to say that the simultaneous
+possibility of benefits at low levels and of harms at low levels makes the Precautionary
+Principle paralyzing. The principle requires use of a linear, non-threshold model; but it
+simultaneously condemns use of that very model. For this and other reasons, unreflective
+use of the Precautionary Principle, it has been argued, threatens to increase rather than
+decrease the risks associated with food.29</p>
+        <p>Or consider the case of genetic modification of food. Many people believe that a
+failure to allow genetic modification might well result in numerous deaths, and a small
+probability of many more. The reason is that genetic modification holds out the promise
+of producing food that is both cheaper and healthier—resulting, for example, in “golden
+26 Id. For some counterevidence in an important context, see Lennart Hardell et al., Further Aspects on
+Cellular and Cordless Telephones and Brain Tumours, 22 Intl. J. Oncology 399 (2003) (discussing
+evidence of an association between cellular telephones and cancer).
+27 For criticism of the linearity assumption, see Maurice Tubiana, Radiation Risks in Perspective:
+Radiation-Induced Cancer Among Cancer Risks, 39(1) Radiat. Environ. Biophy. 3, 8-9 (2000).
+28 See Edward J. Calabrese and Linda A. Baldwin, Hormesis: The Dose Response Revolution, 43 Annu.
+Rev. Pharmacol. Toxicol. 175 (2003); Edward J. Calabrese and Linda A. Baldwin, The Hormetic
+DoseResponse Model Is More Common Than the Threshold Model in Toxicology, 71 Toxcol. Sciences 246
+(2003).
+29 J.C. Hanekamp et al., Chloramphenicol, Food Safety, and Precautionary Thinking in Europe, 6 Env.
+Liability 209 (2003).
+rice,” which might have large benefits in developing countries. My point is not that
+genetic modification will likely have those benefits, or that the benefits of genetic
+modification outweigh the risks. The claim is only that if the Precautionary Principle is
+taken literally, it is offended by regulation as well as by nonregulation.</p>
+        <p>The example suggests that regulation sometimes violates the Precautionary
+Principle because it gives rise to substitute risks, in the form of hazards that materialize,
+or are increased, as a result of regulation.30 Consider the case of DDT, often banned or
+regulated in the interest of reducing risks to birds and human beings. The problem with
+such bans is that in poor nations, they eliminate what appears to be the most effective
+way of combating malaria—and thus significantly undermine public health.31 Or consider
+the United States Environmental Protection Agency’s effort to ban asbestos,32 a ban that
+might well seem justified or even compelled by the Precautionary Principle. The
+difficulty, from the standpoint of that very principle, is that substitutes for asbestos also
+carry risks. The problem is pervasive. In the case of arsenic, the Administrator of the
+Environmental Protection Agency expressed concern that aggressive regulation, by virtue
+of its cost, will lead people to cease using local water systems and to rely on private
+wells, which have high levels of contamination.33 If this is so, stringent arsenic regulation
+violates the Precautionary Principle no less than less stringent regulation does. This is a
+common situation, for opportunity benefits and substitute risks are the rule, not the
+exception.34
+30 See the discussion of risk-related tradeoffs in John Graham &amp; Jonathan Wiener, Risk vs. Risk
+(Cambridge, Mass.: Harvard University Press, 1995); Cass R. Sunstein, Health-Health Tradeoffs, in Cass
+R. Sunstein, Risk and Reason, 133-52 (Cambridge: Cambridge University Press, 2002).
+31 See Goklany, supra note, at 13-27.
+32 See Corrosion Proof Fittings v. EPA, 947 F.2d 1201 (5th Cir., 1991).
+33 “But we have seen instances, particularly in the West and Midwest, where arsenic is naturally occurring
+at up to 700 and more parts per billion, where the cost of remediation has forced water companies to close,
+leaving people with no way to get their water, save dig wells. And then they are getting water that’s even
+worse than what they were getting through the water company.” Christine Todd Whitman, Administrator,
+U.S. Environmental Protection Agency, in interview by Robert Novak &amp; Al Hunt, CNN Evans, Novak,
+Hunt &amp; Shields, Cable News Network, (April 21, 2001).
+34 Note also that some regulation will have ancillary benefits, by reducing risks other than those that are
+specifically targeted. For a valuable discussion, see Samuel J. Rascoff &amp; Richard L. Revesz, The Biases of
+Risk Tradeoff Analysis, 69 U. Chi. L. Rev. 1763 (2002).</p>
+        <p>It is possible to go much further. A great deal of evidence suggests the possibility
+that an expensive regulation can have adverse effects on life and health. 35 It has been
+urged that a statistical life can be lost for every expenditure of $7 million36; one study
+suggests that an expenditure of $15 million produces a loss of life.37 Another suggests
+that poor people are especially vulnerable to this effect—that a regulation that reduces
+wealth for the poorest 20% of the population will have twice as large a mortality effect as
+a regulation that reduces wealth for the wealthiest 20%.38 To be sure, both the
+phenomenon and the underlying mechanisms are disputed.39 I do not mean to accept any
+particular amount here, or even to suggest that there has been an unambiguous
+demonstration of an association between mortality and regulatory expenditures. The only
+point is that reasonable people believe in that association. It follow that a multimillion
+dollar expenditure for “precaution” has—as a worst case scenario—significant adverse
+health effects, with an expenditure of $200 million as leading to perhaps as many as
+twenty to thirty lives lost.</p>
+        <p>This point makes the Precautionary Principle hard to implement not merely where
+regulation removes “opportunity benefits,” or introduces or increases substitute risks, but
+in any case in which the regulation costs a significant amount. If this is so, the
+Precautionary Principle, for that very reason, raises doubts about many regulations. If the
+principle argues against any action that carries a small risk of imposing significant harm,
+then we should be reluctant to spend a lot of money to reduce risks, simply because those
+expenditures themselves carry risks. Here is the sense in which, the Precautionary
+Principle, taken for all that it is worth, is paralyzing: It stands as an obstacle to regulation
+and nonregulation, and to everything in between.40
+35Ralph Keeney, Mortality Risks Induced by Economic Expenditures, 10 Risk Anal. 147 (1990); Randall
+Lutter &amp; John F. Morrall, III, Health-Health Analysis: A New Way to Evaluate Health and Safety
+Regulation, 8(1) J. Risk &amp; Uncertainty 43, 49 table 1 (1994).
+36 See Keeney, supra note 72.
+37 See Robert W. Hahn et al., Do Federal Regulations Reduce Mortality? (Washington, D.C.: American
+Enterprise Institute, 2000).
+38 See Kenneth S. Chapman &amp; Govind Hariharan, Do Poor People Have a Stronger Relationship Between
+Income and Mortality Than the Rich? Implications of Panel Data for Health-Health Analysis, 12 J. Risk &amp;
+Uncertainty 51, 58-63 (1996).
+39See Randall Lutter &amp; John F. Morrall, III, Health-Health Analysis: A New Way to Evaluate Health and
+Safety Regulation, 8 J. Risk &amp; Uncertainty 43, 49 table 1 (1994).
+40 It is possible, however, to understand the Precautionary Principle in a narrower way, one that focuses on
+catastrophic risks under conditions of uncertainty; on irreversible harm; and on margins of safety for</p>
+        <p>It should now be easier to understand my earlier suggestion that despite its formal
+enthusiasm
+for the</p>
+        <sec id="sec-3-3-1">
+          <title>Precautionary</title>
+        </sec>
+        <sec id="sec-3-3-2">
+          <title>Principle, European</title>
+          <p>nations are not “more
+precautionary” than the United States. Simply as a logical matter, societies, like
+individuals, cannot be highly precautionary with respect to all risks. Each society and
+each person must select certain risks for special attention. In these respects, the selectivity
+of precautions is not merely an empirical fact; it is a conceptual inevitability. Comparing
+Europe to the United States, Jonathan Wiener and Michael Rogers have demonstrated
+this point empirically.41 In the early twenty-first century, for example, the United States
+appears to take a highly precautionary approach to the risks associated with abandoned
+hazardous waste dumps and terrorism, but not to take a highly precautionary approach to
+the risks associated with global warming, indoor air pollution, poverty, poor diet, and
+obesity. It would be most valuable to attempt to see which nations are especially
+precautionary with respect to which risks, and also to explore changes over time.</p>
+          <p>A nation-by-nation study commissioned by the German Federal Environmental
+Agency goes so far as to conclude that there are two separate camps in the industrialized
+world: “precaution countries” (Germany, Sweden, the Netherlands, and the United
+States) and “protection countries” (Japan, France, and the United Kingdom).42 But this
+conclusion seems to me ludicrously implausible. The universe of risks is far too large to
+permit categorizations of this kind. The most general point is that no nation is
+precautionary in general and costly precautions are inevitably taken against only those
+hazards that seem especially salient or insistent.43 The problem with the Precautionary
+Principle is that it wrongly suggests that nations can and should adopt a general form of
+risk aversion.</p>
+        </sec>
+      </sec>
+      <sec id="sec-3-4">
+        <title>The Availability Heuristic</title>
+        <p>I suggest that the Precautionary Principle becomes operational if and only if those
+who apply it wear blinders—only, that is, if they focus on some aspects of the regulatory
+situation but downplay or disregard others. But this suggestion simply raises an
+particular kinds of risk. I do not explore these narrower versions here. For discussion, see Cass R. Sunstein,
+Laws of Fear: Beyond the Precautionary Principle (Cambridge University Press, forthcoming 2005).
+41 See Wiener and Rogers, supra note.
+42 See Sand, supra note, at 448.
+43 See Vogel, supra note, at 570-71, for a demonstration of this point for Europe.
+additional question: What accounts for the particular blinders that underlie applications of
+the Precautionary Principle? What people’s attention is selective, why is it selective in the
+way that it is? What might different nations, with quite different policies, all believe that
+they are being precautionary? Much of the answer, I contend, lies in an understanding of
+behavioral economics and cognitive psychology, which provide important clues to
+crosscultural differences in risk perception. The availability heuristic is the place to start.</p>
+        <p>It is well-established that in thinking about risks, people rely on certain heuristics,
+or rules of thumb, which serve to simplify their inquiry.44 Heuristics typically work
+through a process of “attribute substitution,” in which people answer a hard question by
+substituting an easier one.45 Should we be fearful of nuclear power, terrorism, abduction
+of young children, mad cow disease, contaminated blood, or pesticides? When people use
+the availability heuristic, they assess the magnitude of risks by asking whether examples
+can readily come to mind.46 If people can easily think of such examples, they are far more
+likely to be frightened than if they cannot. The availability heuristic illuminates the
+operation of the Precautionary Principle, by showing why some hazards will be on-screen
+and why others will be neglected. The availability heuristic also tells us a great deal about
+differences in risk perceptions across groups, cultures, and even nations.</p>
+        <p>For example, “a class whose instances are easily retrieved will appear more
+numerous than a class of equal frequency whose instances are less retrievable.”47
+Consider a simple study showing people a list of well-known people of both sexes, and
+asking them whether the list contains more names of women or more names of men. In
+lists in which the men were especially famous, people thought that they were more names
+of men, whereas in lists in which the women were the more famous, people thought that
+there were more names of women.48
+44 See Daniel Kahneman, Paul Slovic, &amp; Amos Tversky, Judgment Under Uncertainty: Heuristics and
+Biases (Cambridge; New York: Cambridge Univ. Press, 1982).
+45 See Daniel Kahneman &amp; Shane Frederick, Representativeness Revisited: Attribute Substitution in
+Intuitive Judgment 49, 53 in Heuristics and Biases: The Psychology of Intuitive Judgment, Thomas
+Gilovich, Dale Griffin, &amp; Daniel Kahneman, eds. (Cambridge: Cambridge Univ. Press, 2002).
+46 See Amos Tversky &amp; Daniel Kahneman, Judgment Under Uncertainty: Heuristics and Biases, in id. at 3,
+11-14.
+47 Id. at 11.
+48 Id.</p>
+        <p>This is a point about how familiarity can affect the availability of instances. A risk
+that is familiar, like that associated with terrorism, will be seen as more serious than a
+risk that is less familiar, like that associated with sun-bathing. But salience is important as
+well. “For example, the impact of seeing a house burning on the subjective probability of
+such accidents is probably greater than the impact of reading about a fire in the local
+paper.”49 So too, recent events will have a greater impact than earlier ones. The point
+helps explain differences across time and space in much risk-related behavior, including
+decisions to take precautions. Whether people will buy insurance for natural disasters is
+greatly affected by recent experiences.50 If floods have not occurred in the immediate
+past, people who live on flood plains are far less likely to purchase insurance. In the
+aftermath of an earthquake, insurance for earthquakes rises sharply—but it declines
+steadily from that point, as vivid memories recede. Note that the use of the availability
+heuristic, in these contexts, is hardly irrational.51 Both insurance and precautionary
+measures can be expensive, and what has happened before seems, much of the time, to be
+the best available guide to what will happen again. The problem is that the availability
+heuristic can lead to serious errors, in terms of both excessive fear and neglect.</p>
+        <p>What, in particular, produces availability? An intriguing essay attempts to test the
+effects of ease of imagery on perceived judgments of risk.52 The study asked subjects to
+read about an illness (Hyposcenia-B) that “was becoming increasingly prevalent” on the
+local campus. In one condition, the symptoms were concrete and easy to imagine—
+involving muscle aches, low energy, and frequent severe headaches. In another condition,
+the symptoms were vague and hard to imagine, involving an inflamed liver, a
+49 Id.
+50 Paul Slovic, The Perception of Risk 40 (London; Sterling, Va.: Earthscan Publications, 2000).
+51 Kahneman and Tversky emphasize that the heuristics they identify “are highly economical and usually
+effective,” but also that they “lead to systematic and predictable errors.” See Amos Tversky &amp; Daniel
+Kahneman, Judgment Under Uncertainty: Heuristics and Biases, in Judgment and Decision Making: An
+Interdisciplinary Reader 38, 55, Hal R. Arkes &amp; Kenneth R. Hammond, eds. (Cambridge; New York:
+Cambridge Univ. Press, 1986). Gerd Gigenzer, among others, has emphasized that some heuristics can
+work extremely well, see Gerd Gigerenzer et al., Simple Heuristics That Make Us Smart (New York:
+Oxford Univ. Press, 1999); Gerd Gigerenzer, Adaptive Thinking: Rationality in the Real World (New
+York: Oxford Univ. Press, 2000), and used this point as a rejoinder to those who stress the errors
+introduced by heuristics and biases. I do not mean to take a stand on the resulting debates. Even if many
+heuristics mostly work well in daily life, a sensible government can do much better than to rely on them.
+52 In Steven J. Sherman et al., Imagining Can Heighten or Lower the Perceived Likelihood of Contracting a
+Disease: The Mediating Effect of Ease of Imagery, in Heuristics and Biases: The Psychology of Intuitive
+Judgment 82, Thomas Gilovich et al., eds. (Cambridge; New York: Cambridge Univ. Press, 2002).
+malfunctioning nervous system, and a general sense of disorientation. Subjects in both
+conditions were asked to imagine a three-week period in which they had the disease and
+to write a detailed description of what they imagined. After doing so, subjects were asked
+to assess, on a ten-point scale, their likelihood of contracting the disease. The basic
+finding was that likelihood judgments were very different in the two conditions, with
+easily-imagined symptoms making people far more inclined to believe that they were
+likely to get the disease.</p>
+        <p>The availability heuristic helps to explains the operation of the Precautionary
+Principle and cross-national differences for a simple reason: Sometimes a certain risk,
+said to call for precautions, is cognitively available, whereas other risks, including those
+associated with regulation itself, are not. In many cases where the Precautionary Principle
+seems to offer guidance, the reason is that some of the relevant risks are available while
+others are barely visible. And if one nation is concerned with the risk of sunbathing and
+another is not, availability is likely to provide a large part of the reason. This, then, is my
+central hypothesis: Differences across nations, in the perception of risks, have a great
+deal to do with the operation of the availability heuristic.</p>
+        <p>To be sure, those differences are also motivated in large part by actual differences
+in risk levels. Fortunately, reality matters. Nations suffering from high levels of malaria
+are likely to perceive malaria risks as far greater than nations in which malaria is not a
+problem. Countries that face serious risks from contaminated blood will probably show
+greater fear of contaminated blood than countries in which contaminated blood is not a
+problem. But availability produces differences in perceptions that do not track differences
+in reality.</p>
+        <p>The study of cross-cultural risk perceptions remains in its infancy,53 and hence my
+claim must remain only a hypothesis, one that I cannot establish to be true. What is
+necessary, and what is lacking, is anything like comprehensive information about
+crosscultural risk perceptions, allowing us to test the role of availability. And we shall shortly
+see some complexities that bear on the adequacy of the availability hypothesis. But for
+now, consider some supportive evidence:
+53 See Cross-Cultural Risk Perception: A Survey of Empirical Studies (Ortwin Renn and Bernd Rorhmann
+eds. 2000).
+1. Within the United States, public concern about risks usually does track changes in
+the actual fluctuations in those risks. But public concern outruns actual
+fluctuations in the important case of “panics,” bred by vivid illustrations that do
+not reflect changes in levels of danger.54 At certain points in the 1970s and 1980s,
+there were extreme leaps in concern about teenage suicides, herpes, illegitimacy,
+and AIDS—leaps that did not correspond to changes in the size of the problem.
+Availability, produced by “a particularly vivid case or new finding that receives
+considerable media attention,” played a major role in those leaps in public
+concern.55 Sometimes the concern led to unjustified precautions, as in the
+behavior of some parents who refused to allow their children to attend classes
+having students with signs of herpes.
+2. Availability helps to explain the findings of a cross-national study of perceptions
+of risk associated with terrorism and SARS.56 In that study, Americans perceived
+terrorism to be a far greater threat, to themselves and to others, than SARS;
+Canadians perceived SARS to be a greater threat, to themselves and to others,
+than terrorism. Americans estimated their chance of serious harm from terrorism
+as 8.27%, about four times as high as their estimate of their chance of serious
+harm from SARS (2.18%). Canadians estimated their chance of serious harm
+from SARS as 7.43%, significantly higher than their estimate for terrorism
+(6.04%). Notably, the figures for SARS were unrealistically high, especially for
+Canadians; the best estimate of the risk of contracting SARS, based on Canadian
+figures, was .0008% (and the chance of dying as a result less than .0002%). For
+obvious reasons, the objective risks from terrorism are much harder to calculate,
+but if it is estimated that the United States will suffer at least one terrorist attack
+each year with the same number of deaths as on September 11, the risk of death
+from terrorism is about .001%—a speculative number under the circumstances,
+but not an implausible place to start.
+54 See George Loewenstein and Jane Mather, Dynamic Processes in Risk Perception, 3 J. Risk and
+Uncertainty 155 (1990).
+55 Id. at 172.
+56 See Neal Feigenson et al., Perceptions of Terrorism and Disease Risks: A Cross-National Comparison,
+U. Cin. L. Rev. (forthcoming 2005).</p>
+        <p>The availability heuristic helps to account for these cross-national differences
+and for the generally exaggerated risk perceptions. In the United States, risks of
+terrorism have (to say the least) received a great deal of attention, producing a
+continuing sense of threat. But there have been no incidents of SARS, and the
+media coverage has been limited to events elsewhere—producing a degree of
+salience, but far lower than that associated with terrorism. In Canada, the opposite
+is the case. The high degree of public discussion of SARS cases, accompanied by
+readily available instances, produced an inflated sense of the numbers—
+sufficiently inflated to exceed the same numbers from terrorism (certainly a
+salient risk in Canada, as in most nations post 9/11).
+3. What accounts for people’s perception of their risk of being infected with HIV?
+Why are some people and some groups largely unconcerned about that risk, while
+other people and groups are highly focused on with it? A study of rural Kenya and
+Malawi suggests that availability plays a critical role.57 The authors find that risk
+perception is a product of discussions that “are often provoked by observing or
+hearing about an illness or death.”58 People “know in the abstract how HIV is
+transmitted and how it can be prevented,” but they are unclear “about the
+advisability and effectiveness of the changes in sexual behavior that are
+recommended by experts.59 Perceptions of the risk of HIV transition are very
+much a function of social networks, with pronounced changes in belief and
+behavior resulting from interactions with other people expressing a high level of
+concern. The effects of social networks are thus asymmetric, with substantial
+effects from having “at least one network partner who is perceived to have a great
+deal of concern about AIDS.” The authors do not refer explicitly to the
+availability heuristic, but their findings are compatible with the suggestion that
+with respect to AIDS, risk perceptions are produced by availability.
+57 See Jere R. Behrman et al., Social Networks, HIV/AIDS, and Risk Perceptions (Feb, 18, 2003), available
+at ssrn.com.
+58 Id. at 10.
+59 Id. at 18.
+4. A study of Bulgaria and Romania concludes that differences in levels of perceived
+risk “cannot be explained by differences in levels of real risk.”60 Indeed, the
+content of media are “a more potent determinant of perceived risk than real
+risk.”61 Cultural variables were not found to be crucial. In general, “perceived risk
+is a function of real risk and perhaps media risk rather than culturally contingent
+values and belief.”62
+5. There are many commonalities between the risk perceptions of Americans and
+those of citizens of France.63 But such differences as there are have a great deal to
+do with availability. Hence there is far more concern in France with genetically
+engineered bacteria, a risk with a high degree of publicity.64 By contrast,
+Americans show far more concern in the United States with coal-fired power
+plants, with radon in home, and with sun-tanning—three much-publicized sources
+of risk.65
+6. What accounts for the recent rise of precautionary thinking in Europe? Why have
+certain environmental and health risk achieved so much salience in England,
+France, and the European Union generally? A comprehensive study suggests that
+a few readily available incidents played a large role.66 In the 1990s, a “wave of
+crises” involving food safety, above all mad cow disease, led to the deaths of
+about one hundred people, with especially large effects on public attitudes.67 In a
+tribute to the operation of availability, the “regulatory failure associated with BSE
+significantly affected the attitude of the European public toward GM foods.”68 An
+additional “scandal was the apparent failure of French government officials and
+doctors to protect haemopholiacs from blood contaminated with AIDS” virus, in a
+way that had large repercussions for public opinion in France.69 The conclusion is
+60 See Lennart Sjoberg et al., Risk Perception in Bulgaria and Romania, in id. at 147.
+61 Id.
+62 Id. at 178.
+63 Paul Slovic et al., Nuclear Power and the Public: A Comparative Study of Risk Perception in France and
+the United States, in Cross-Cultural Risk Perception 55 (Ortwin Renn and Bernd Rohrmann eds. 2000).
+64 Id. at 74.
+65 Id.
+66 See Vogel, supra note.
+67 Id. at 568-69.
+68 ID. at 569.
+69 Id. at 570-71.
+that differences between European and American policies are not a product of
+deep-rooted cultural differences, but instead have a great deal to do with
+“widespread public perception of regulatory failures,” often based on particular,
+vivid, and widely salient events.70</p>
+      </sec>
+      <sec id="sec-3-5">
+        <title>Social Influences</title>
+        <p>Thus far my emphasis has been on individual cognition. But to say the least, the
+availability heuristic does not operate in a social vacuum. What is readily “available” to
+some individuals, groups, cultures, and nations will not be available to all. Within the
+United States, many of those who favor gun control legislation have “available” a set of
+incidents in which such legislation would have avoided unnecessary deaths; many of
+those who reject such legislation are alert to incidents in which private gun ownership
+allowed people to fend off criminal violence.71 Obviously both government and the
+media make some risks appear particularly salient. Consider President George W. Bush’s
+plea: “Imagine those 19 hijackers [involved in the 9/11 attacks] with other weapons and
+plans, this time armed by Saddam Hussein. It would take one vial, one canister, one crate
+slipped into this country to bring a day of horror like none we have ever known.”
+Environmentalists, in and out of government, operate in the same way, focusing public
+attention on potentially catastrophic harms. Well-organized private groups play a central
+role in activating public concern.</p>
+        <p>The question suggests the need to attend to the social and cultural dimensions of
+fear and risk perception. In many cases of high-visibility, low-probability dangers, such
+as sniper attacks, shark attacks, contaminated blood, and the kidnapping of young girls,
+the sources of availability are not obscure. The mass media focus on those risks; people
+communicate their fear and concern to one another; the widespread fact of fear and
+concern increases media attention; and the spiral continues until people move on. Hence
+the “risk of the month” syndrome, familiar in many societies, stems from the interaction
+between availability and social influences. Much of the time, however, what is available
+and salient to some is not available and salient to all. For example, many of those who
+70 Id. at 580.
+71 See Dan M. Kahan &amp; Donald Braman, More Statistics, Less Persuasion: A Cultural Theory of Gun-Risk
+Perceptions, 151 U. Pa. L. Rev. 1291 (2003).
+endorse the Precautionary Principle focus on cases in which the government failed to
+regulate some environmental harm, demanding irrefutable proof, with the consequence
+being widespread illness and death. To such people, the available incidents require strong
+precautions in the face of uncertainty. But many other people, skeptical of the
+Precautionary Principle, focus on cases in which the government overreacted to weak
+science, causing large expenditures for little gain in terms of health or safety. To such
+people, the available incidents justify a measure of restraint in the face of uncertainty.
+Which cases will be available and to whom?</p>
+        <p>In any case people and cultures have different predispositions. These
+predispositions play a large role in determining which, of the numerous possibilities, is
+salient. If you are predisposed to be fearful of genetic modification of food, you are more
+likely to seek out, and to recall, incidents in which genetic modification was said to cause
+harm. If you are predisposed to fear electromagnetic fields, you will pay attention to
+apparent incidents in which electromagnetic fields have produced an elevated incidence
+of cancer. If you are predisposed to believe that most media scares are false or
+trumpedup, you will find cases in which public fears have been proved baseless. These are
+examples of individual predispositions, but undoubtedly cultural forces, some deep and
+some less so, help account for differences across nations.</p>
+        <p>Availability helps to determine beliefs, to be sure; but beliefs help to determine
+availability as well. Both beliefs and availability are endogenous to one another. When
+social and cultural forces interact with salience, to produce concern about one set of
+problems but not another, predispositions are crucial. It is in this sense that availability
+can be a product of forces that must be explained independently. But let us now turn to
+how availability spreads.</p>
+      </sec>
+      <sec id="sec-3-6">
+        <title>Cascades</title>
+        <p>Sometimes availability and salience are produced through social bandwagons or
+cascades, in which apparently representative anecdotes and gripping examples move
+rapidly from one person to another.72 Consider a stylized example. Andrew hears of a
+72 Chip Heath et al., Emotional Selection in Memes: The Case of Urban Legends, 81 Journal of Personality
+&amp; Social Psychology 1028 (2001); Chip Heath, Do People Prefer to Pass Along Good or Bad News?
+Valence and Relevance as Predictors of Transmission Propensity, 68 Organizational Behavior &amp; Human
+Decision Processes 79 (1996).
+dangerous event, which he finds to be revealing or illustrative. (The event might involve
+crime, terrorism, pesticides, environmental hazards, or threats to national security.)
+Andrew tells Barry, who would be inclined to see the event as not terribly informative,
+but who, learning Andrew’s reaction, comes to believe that the event does indeed reveal a
+great deal, and that a serious threat exists. Carol would tend to discount the risk, but once
+she hears the shared opinion of Andrew and Barry, she is frightened as well. Deborah
+will have to have a great deal of private information to reject what has become the shared
+opinion of Andrew, Barry, and Carol.73 Stylized though it is, the example shows that once
+several people start to take an example as probative, many people may come to be
+influenced by their opinion, giving rise to cascade effects. Cultural and even national
+differences can be explained partly in this way.</p>
+        <p>Among doctors dealing with risks and precautions, cascades are common. “Most
+doctors are not at the cutting edge of research; their inevitable reliance upon what
+colleagues have done and are doing leads to numerous surgical fads and treatment-caused
+illnesses.”74 Thus an article in the prestigious New England Journal of Medicine explores
+“bandwagon diseases” in which doctors act like “lemmings, episodically and with a blind
+infectious enthusiasm pushing certain diseases and treatments primarily because
+everyone else is doing the same.”75 Some medical practices, including tonsillectomy,
+“seem to have been adopted initially based on weak information,” and extreme
+differences in tonsillectomy frequencies (and other procedures) provide good evidence
+that cascades are at work.76 Cross-cultural differences in medical practices can be
+explained in significant part through this route.</p>
+        <p>A distinctive feature of social cascades is that the people who participate in them
+are simultaneously amplifying the very social signal by which they are being influenced.
+By their very participation, those who join the cascade increase its size, making it more
+likely that others will join too. Unfortunately, cascades can lead people in mistaken
+73 See David Hirschleifer, The Blind Leading the Blind: Social Influence, Fads, and Informational
+Cascades, in The New Economics of Human Behavior 188, 193-4, Mariano Tommasi &amp; Kathryn Ierulli,
+eds. (Cambridge: Cambridge University Press, 1995).
+74 Hirshleifer, supra note, at 204.
+75 John F. Burnham, Medical Practice a la Mode: How Medical Fashions Determine Medical Care, 317
+New England Journal of Medicine 1220, 1201 (1987).
+76 See Sushil Bikhchandani et al., Learning from the Behavior of Others: Conformity, Fads, and
+Informational Cascades, 12(3) J. Econ. Perspect. 151, 167 (1998).
+directions, with a few “early movers” spurring social fear that does not match reality. In
+the example I have given, Andrew is having a large influence on the judgments of our
+little group, even though he may not, in fact, have accurate information about the relevant
+event. Barry, Carol, and Deborah might have some information of their own, perhaps
+enough to show that there is little reason for concern. But unless they have a great deal of
+confidence in what they do, they are likely to follow those who preceded them. The irony
+is that if most people are following others, then little information is provided by the fact
+that some or many seem to share a certain fear. Most are responding to the signals
+provided by others, unaware that those others are doing exactly the same thing. Of course
+corrections might well come eventually, but sometimes they are late.</p>
+        <p>In the domain of risks and precautions, “availability cascades” are responsible for
+many social beliefs.77 A salient event, affecting people because it is available, tends to be
+repeated, leading to cascade effects, as the event becomes available to increasingly large
+numbers of people. The point is amplified by the fact that fear-inducing accounts, with
+high emotional valence, are especially likely to spread.78 There is a general implication
+here. Because different social influences can be found in different communities, local
+variations are inevitable, with different examples becoming salient in each. Hence such
+variations—between say New York and Ohio, or England and the United States, or
+between Germany and France—might involve coincidence or small or random factors,
+rather than large-scale cultural differences. Different judgments within different social
+groups, with different “available” examples, owe their origin to social processes of this
+sort. Indeed the different reactions to nuclear power in France and the United States can
+be explained in large part in this way. And when some groups concentrate on cases in
+which guns increased violence, and others on cases in which guns decreased violence,
+availability cascades are a large part of the reason. Return to my epigraph: “Many
+Germans believe that drinking water after eating cherries is deadly; they also believe that
+77 See Timur Kuran and Cass R. Sunstein, Availability Cascades and Risk Regulation, 51 Stan. L. Rev. 683
+(1999).
+78 See Heath et al., supra note 215.
+water after some cherries; and Americans love icy refreshments.”79</p>
+      </sec>
+      <sec id="sec-3-7">
+        <title>Group Polarization</title>
+        <p>There is a closely related phenomenon. When like-minded people deliberate with
+one another, they typically end up accepting a more extreme version of the views with
+which they began.80 This is the process known as group polarization. Consider a few
+examples:</p>
+        <p>After discussion, citizens of France become more critical of the United States and
+its intentions with respect to economic aid.81
+A group of moderately profeminist women becomes more strongly profeminist
+after discussion.82
+After discussion, whites predisposed to show racial prejudice offer more negative
+responses to the question whether white racism is responsible for conditions faced
+by African-Americans in American cities.83
+After discussion, whites predisposed not to show racial prejudice offer more
+positive responses to the same question, that is, they are more likely to find white
+prejudice to be the source of conditions faced by African-Americans in American
+cities.84
+member.85
+Juries inclined to award punitive damages typically produce awards that are
+significantly higher than the awards chosen, before deliberation, by their median
+Group polarization will inevitably occur in the context of perceptions of risk; and
+hence group polarization helps to account for cultural and even national differences. If
+79 See Joseph Henrich et al., Group Report: What is the Role of Culture in Bounded Rationality?, in
+Bounded Rationality: The Adaptive Toolbox 353-54, Gerd Gigerenzer &amp; Reinhard Selten, eds.
+(Cambridge, Mass.: MIT Press, 2001), for an entertaining outline in connection with food choice decisions.
+80 See Cass R. Sunstein, Why Societies Need Dissent (Cambridge: Harvard University Press, 2003).
+81 Roger Brown, Social Psychology: The Second Edition 224 (New York: Free Press, 1985).
+82 See David G. Myers, Discussion-Induced Attitude Polarization, 28 Human Relations 699 (1975).
+83 David G. Myers &amp; George D. Bishop, The Enhancement of Dominant Attitudes in Group Discussion, 20
+J. Personality &amp; Soc. Psych. 386 (1971),
+84 See id.
+85 See Cass R. Sunstein et al., Punitive Damages: How Juries Decide (Chicago: The Univ. of Chicago
+Press, 2002).
+several people fear global warming or terrorism, and speak to one another, their fear is
+likely to increase as a result of internal discussions. If other people believe that nuclear
+power is probably safe, their belief to that effect will be fortified after they speak with
+one another, to the point where they will believe that nuclear power is no reason for
+concern. If some groups seem hysterical about certain risks, and other groups treat those
+risks as nonexistent, group polarization is likely to be a reason. Hence group polarization
+provides another explanation for the different fears of groups, localities, and even
+nations. Internal discussions can make Berliners fearful of risks than do not bother New
+Yorkers, and vice-versa; so too, the citizens of London may fear a supposed danger that
+does not much bother the citizens of Paris—even if the danger is not greater in the former
+than in the latter.</p>
+        <p>Group polarization undoubtedly occurs in connection with the availability
+heuristic. Suppose, for example, that several people are discussing mad cow disease, or a
+recent wave of sniper attacks, or cases involving the kidnapping of young girls, or
+situations in which the government has wrongly ignored a serious foreign threat. If the
+particular examples are mentioned, they are likely to prove memorable. And if the group
+has a predisposition to think that one or another risk is serious, social dynamics will lead
+the group to believe that the example is highly revealing. An initial predisposition toward
+fear is likely to be aggravated after collective deliberations. Within groups, a tendency
+toward fear breeds its own amplification.</p>
+        <p>Consider in this light the 2004 report of the United States Senate Select
+Committee on Intelligence, which contended the Central Intelligence Agency’s
+predisposition to find a serious threat from Iraq led it to fail to explore alternative
+possibilities or to obtain and use the information that it actually held.86 Falling victim to
+group polarization in the particular context of fear. the agency showed a “tendency to
+reject information that contradicted the presumption” that Iraq had weapons of mass
+destruction.87 This claim is a remarkable echo of one that followed the 2003 investigation
+of failures at NASA, in which the Columbia Accident Investigation Board explicitly
+attributed the accident to NASA's unfortunate culture, one that does too little to elicit
+86 Available at http://intelligence.senate.gov/.
+87 Id. at 6.
+information. In the Board's words, NASA lacks "checks and balances"88 and pressures
+people to follow a "party line."89 The result was a process of polarization that led to a
+dismissal of serious risks.</p>
+      </sec>
+      <sec id="sec-3-8">
+        <title>Media, Interest Groups, and Politicians</title>
+        <p>It should be clear that in the real world, some voices are more important than
+others, especially when availability and salience are involved. In particular, the behavior
+and preoccupations of the media play a large role. Many perceived “epidemics” are in
+reality no such thing, but instead a product of media coverage of gripping,
+unrepresentative incidents. Attention to those incidents is likely to ensure availability and
+salience, promoting an inaccurately high estimate of probability and at the same time
+some degree of probability neglect. And in the face of close media attention, the demand
+for legal responses will be significantly affected. Changes within and even across nations
+are a natural result.</p>
+        <p>Knowing the importance of media coverage, well-organized private groups work
+extremely hard to promote public attention to particular risks. Some of these groups are
+altruistic; others are entirely self-interested. The common tactic is to publicize an incident
+that might trigger both availability and salience. Terrorists themselves are the most
+extreme and vicious example, using high-visibility attacks to convince people that “they
+cannot be safe anywhere.” But many illustrations are less objectionable and sometimes
+even benign. In the United States, consider the abandoned hazardous waste at Love
+Canal, used to promote hazardous waste cleanup, or the Exxon Valdez disaster, used by
+the Sierra Club and other environmental organizations to promote more stringent
+safeguards against oil spills. Showing at least a working knowledge of the availability
+heuristic, private groups seize on selected incidents and publicize them to make them
+generally salient to the public. In all of these examples, the use of particular instances
+might be necessary to move the public, and legislatures, in the right directions. Certainly
+the social processes that interact with salience and availability can promote reform where
+88 Report of The Columbia Accident Investigation Board, available at
+http://www.nasa.gov/columbia/home/CAIB_Vol1.html, at 12.
+89 Id. at 102.
+it is needed. But there is no assurance here, particularly if social influences are leading
+people to exaggerate a problem, or to ignore the question of probability altogether.</p>
+        <p>Politicians engage in the same basic project. By its very nature, the voice of an
+influential politician comes with amplifiers. When public officials bring an incident
+before the public, a seemingly illustrative example is likely to spread far and wide. A
+legal enactment can itself promote availability; if the law responds to the problems
+associated with hazardous waste dumps, or “hate crimes,” people might well come to see
+those problems as readily available. The terrorist attacks of September 11, 2001 would
+inevitably loom large no matter what President George W. Bush chose to emphasize. But
+the President, and his White House generally, referred to the attacks on countless
+occasions, frequently as a way of emphasizing the reality of seemingly distant threats and
+the need to incur significant costs to counteract them (including the 2003 Iraq war, itself
+fueled by presidential speeches including vivid narratives of catastrophic harm). And
+there is no doubt that the salience of these attacks played a large role in affecting political
+behavior—and that this role cannot be understood without reference to social influences.
+The implications for cultural differences should be clear. If leaders in different nations
+draw attention to different risks, there will be large-scale differences in risk perceptions.</p>
+      </sec>
+      <sec id="sec-3-9">
+        <title>Predispositions and Culture</title>
+        <p>But all this does not provide the full picture. Beliefs and orientations are a product
+of availability, and social influences ensure both availability and salience. But as I have
+suggested, what is available is also a product of antecedent beliefs and orientations, both
+individual and social. In other words, availability is endogenous to, or a product of,
+predispositions, individual, cultural, and national. A great deal of further work remains to
+be done on this topic.90</p>
+        <p>Why do some people recall and emphasize incidents in which a failure to take
+precautions led to serious environmental harm? A likely reason is that they are
+predisposed to favor environmental protection. And why do some people recall and
+emphasize incidents in which environmental protection led to huge costs for little gain? A
+90 On culture, an influential treatment is Mary Douglas and Aaron Wildavsky, Risk and Culture (1984); a
+natural reading of work by, and inspired by, Douglas and Wildavsky is that availability is a product of
+cultural orientations, rather than vice versa. But see Vogel, supra note, for a contrasting view.
+likely reason is that they are predisposed to oppose environmental controls. Here is an
+interaction between the availability heuristic and confirmation bias—“the tendency to
+seek information to confirm our original hypotheses and beliefs,”91 a tendency that
+reviewers have found in the judgments, referred to above, of both the Central Intelligence
+Agency and NASA. Confirmation bias plays a large role in different risk perceptions
+across individuals and groups. If members of a culturally distinct group are predisposed
+to believe that new technologies are risky, or that genetically modified organisms are
+hazardous, or that cell phones produce cancer, apparently supportive illustrations will be
+memorable, and contrary ones will be discounted.</p>
+        <p>Of course predispositions are not a black box, and they do not come from the sky.
+They have sources. Among their sources are availability and salience. After incidents of
+mad cow disease in England, many Europeans lost trust in the relevant authorities and
+acquired a predisposition to fear, and to take and urge precautions against, associated and
+analogous threats. In Europe, the growth of precautionary thinking, across certain
+domains, had a great deal to do with particular salient incidents.92 Hence there is complex
+set of interactions, with heuristics helping to constitute predispositions, which are in turn
+responsible for the real-world operation of heuristics. All this happens socially, not
+merely individually; and predispositions are not static. When people are in a group that is
+predisposed in a particular direction, the salient examples will be quite different from
+those that are salient in a group with an opposite predisposition. Here group polarization
+is especially important. What is sometimes described as “culture,” or as “deep-rooted
+cultural differences,” may be no such thing. Cascade effects and polarization, interacting
+with availability, can be responsible for inclinations and variations that might well have
+taken another form.</p>
+        <p>On the other hand, different cultural orientations can play a large role in
+determining what turns out to be available. For example, the United States is highly
+diverse, and for some purposes, it is plausible to think of different regions and groups as
+having different cultures. Within African-American communities, the available instances
+are sometimes quite different from those that can be found within all-white communities.
+91 See Elliott Aronson, The Social Animal 150 (New York: W.H. Freeman, 7th ed., 1995).
+92 See Vogel, supra note.
+Across nations, the differences are even more striking, in part because different
+worldviews play such a dominant role. And what is true for individuals is true for nations as
+well. Just as predispositions are, in part, a function of availability, so too availability is, in
+part, a function of predispositions. Social influences operate at both levels, affecting what
+is available and also moving predispositions in one or another direction. The problem is
+that both individuals and societies may be fearful of nonexistent or trivial risks—and
+simultaneously neglect real dangers.</p>
+      </sec>
+      <sec id="sec-3-10">
+        <title>Conclusion</title>
+        <p>In this chapter I have ventured a conceptual claim and a psychological hypothesis.
+The conceptual claim is that it is not possible to be “precautionary” in general. An
+individual or a nation can take precautions against particular risks, to be sure, but no
+individual or nation can be precautionary as a general proposition. The reason is that risks
+are on all sides of social situations. If a person or state purports to be precautionary, it is
+almost certainly taking steps that create risks of their own. The point certainly holds for
+aggressive regulation of genetic modification of food and greenhouse gases; it holds as
+well for preemptive wars.</p>
+        <p>The psychological hypothesis is that the operation of the Precautionary Principle,
+and differences in risk perception among nations, have a great deal to do with the
+availability heuristic. If people can think of cases in which a risk has come to fruition,
+they are far more likely to think that the risk should be taken seriously. “Availability
+bias,” in the form of excessive fear, and “unavailability bias,” in the form of unjustified
+neglect, are unfortunate results. All cultures suffer from both of these. But they suffer
+from them in different ways, because what is available in one culture is often less
+available, or unavailable, in others.</p>
+        <p>Of course availability is a product of social influences. Cascade effects and group
+polarization play substantial roles in making one or another incident available to many or
+most. There are multiple equilibria here: It is hardly inevitable that SARS would have
+great salience in Canada but not in the United States. Single incidents and small shocks
+can make an extraordinary difference. Moreover, what is available to some will not be
+available to all, in part because of social influences, and in part because of individual,
+cultural, and national predispositions. Hence I have emphasized that some cultures will
+find some risks “available” not because of simple facts, but because the relevant citizens
+are predisposed to focus on some risks but not on others.</p>
+        <p>I believe that the availability heuristic provides many clues about the operation of the
+Precautionary Principle and cross-cultural risk perceptions. But a great deal of
+empirical work remains to be done, not least in exploring the complex interactions
+among individual cognition, cascade effects, the behavior of those who spread
+information, and cultural predispositions.
+Readers with comments should address them to:
+10.
+216.
+217.
+218.</p>
+        <p>Luis Garicano and Thomas N. Hubbard, Specialization, Firms, and Markets: The Division of Labor
+within and between Law Firms (April 2004)
+Luis Garicano and Thomas N. Hubbard, Hierarchies, Specialization, and the Utilization of
+Knowledge: Theory and Evidence from the Legal Services Industry (April 2004)
+James C. Spindler, Conflict or Credibility: Analyst Conflicts of Interest and the Market for
+Underwriting Business (July 2004)
+Alan O. Sykes, The Economics of Public International Law (July 2004)
+Douglas Lichtman and Eric Posner, Holding Internet Service Providers Accountable (July 2004)
+Shlomo Benartzi, Richard H. Thaler, Stephen P. Utkus, and Cass R. Sunstein, Company Stock,
+Market Rationality, and Legal Reform (July 2004)
+Cass R. Sunstein, Group Judgments: Deliberation, Statistical Means, and Information Markets
+(August 2004)
+Cass R. Sunstein, Precautions against What? The Availability Heuristic and Cross-Cultural Risk
+Perceptions (August 2004)</p>
+      </sec>
+    </sec>
+  </body><script/>
+  <back>
+    <ref-list/>
+  </back>
+</article>

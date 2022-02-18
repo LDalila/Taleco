@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink"><script/>
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>This Article is brought to you for free and open access by the Faculty Scholarship at Chicago Unbound. It has been
+accepted for inclusion in Journal Articles by an authorized administrator of Chicago Unbound. For more
+information</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>National Security, Liberty, and the D.C. Circuit Recent Decisions of the United States Court of Appeals for the District of Columbia</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <string-name>Recommended Citation</string-name>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Cass R. Sunstein, "National Security, Liberty, and the D.C. Circuit Recent Decisions of the United States</institution>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Faculty Scholarship</institution>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2004</year>
+      </pub-date>
+      <volume>73</volume>
+      <fpage>2004</fpage>
+      <lpage>2005</lpage>
+      <abstract>
+        <p>Court of Appeals for the District of Columbia Circuit," 73 George Washington Law Review 693 (2004).</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>Circuit</p>
+    </sec>
+    <sec id="sec-2">
+      <title>Introduction</title>
+      <p>When the country faces a genuine threat, how should judges approach
+conflicts between national security and freedom? In the aftermath of
+September 11, this question has become one of the most pressing in all of
+American law.</p>
+      <p>It is easy to imagine two extreme positions that federal courts might
+adopt: National Security Fundamentalism and Liberty Perfectionism.'
+National Security Fundamentalists understand the Constitution to call for a
+highly deferential role for the judiciary, above all on the ground that when
+national security is threatened, the president must be permitted to do what
+needs to be done to protect the country. For National Security
+Fundamentalists, courts should adopt a strong presumption in favor of allowing the
+president to do as he wishes. If the president cannot safeguard the nation's
+security, who will? By contrast, Liberty Perfectionists insist that in times of
+war, at least as much as in times of peace, federal judges must protect
+constitutional liberty.2 Indeed, Liberty Perfectionists believe that under
+circumstances of war it is all the more important that federal judges take a strong
+stand on behalf of liberty.3 Liberty Perfectionists emphasize that when
+national security is at risk, unjustified public panics are likely, even inevitable.
+If federal judges do not protect liberty in the face of panic, who will?</p>
+      <p>We can also imagine a third approach: minimalism. 4 Minimalists believe
+that, in the most controversial areas, judges should refuse to endorse any
+large-scale approach and should be reluctant to adopt wide rulings that will
+* Karl N. Llewellyn Distinguished Service Professor, Law School and Department of
+Political Science, University of Chicago. This Essay is a sibling to the discussion in Cass R.
+Sunstein, Minimalism at War, 2004 Sup. CT. REV. 47; there is significant overlap between the two
+essays. My focus here, however, is on the particular practices of the D.C. Circuit and other
+lower federal courts, whereas my focus there is on the general practice of minimalism.</p>
+      <p>1 See, e.g., Eric A. Posner &amp; Adrian Vermeule, Accommodating Emergencies, 56 STAN. L.
+REV. 605, 606-10 (2003); Samuel Issacharoff &amp; Richard H. Pildes, Between Civil Libertarianism
+and Executive Unilateralism:An Institutional Process Approach to Rights During Wartime, 5
+THEORETICAL INQUIRIES L. 1, 1-2 (2004), at http://www.bepress.com/til/default/vol5/issl/artl.
+National Security Fundamentalism is an extreme version of what Posner and Vermeule call the
+accommodationist view; Liberty Perfectionism is akin to what they deem the strict enforcement
+view. See Posner &amp; Vermeule, supra, at 605-10. Their target is the civil libertarian concern that
+accommodationist rulings will weaken liberty during peacetime and that during emergencies the
+government will respond to unjustified public panic. See id.</p>
+      <p>2 See generally DAVID COLE, ENEMY ALIENS: DOUBLE STANDARDS AND
+CONSTrruTIONAL FREEDOMS IN THE WAR ON TERRORISM (2003).</p>
+      <p>3 This is one reading of GEOFFREY R. STONE, PERILOUS TIMES: FREE SPEECH IN
+WARTIME FROM THE SEDITION AcT OF 1798 TO THE WAR ON TERRORISM (2004).</p>
+      <p>4 On minimalism in general, see CAss R. SUNSTEIN, ONE CASE AT A TIME: JUDICIAL
+MINIMALISM ON THE SUPREME COURT (1999).</p>
+      <p>June 2005 Vol. 73 No. 4
+bind the country in unforeseen circumstances. Instead, minimalists want
+judges to rule narrowly and cautiously. In the context of war, minimalists
+would like courts to avoid constitutional issues by, for example, holding that
+Congress has not authorized the executive to intrude into the domain of
+constitutionally protected interests. Minimalists also like to avoid broad judicial
+pronouncements about either presidential power or liberty, preferring
+instead close consideration of particular measures. In the aftermath of
+September 11, minimalists want courts to proceed in small steps, leaving the
+largest issues undecided as long as possible.</p>
+      <p>This Essay has three goals. The first is to sketch the rise of National
+Security Fundamentalism in various places, above all the United States Court
+of Appeals for the District of Columbia Circuit. Notably, the Supreme Court
+has not yet embraced National Security Fundamentalism; on the contrary,
+the Court appears to have repudiated it.5 But National Security
+Fundamentalism has played a prominent role in the Department of Justice, in a
+remarkable opinion by Justice Clarence Thomas, and in a number of lower-court
+decisions. If the risk of terrorism increases, and if the nation is hit with
+additional serious terrorist attacks, the temptation to embrace National Security
+Fundamentalism might well prove overwhelming.</p>
+      <p>My second goal is to provide a brief outline of the tension between
+National Security Fundamentalism and the Constitution. I suggest that the
+latter provides no room for the former and that a number of loose statements in
+the recent past are based on a mistaken understanding of the founding
+document. My third and final goal is to understand the appeal of a
+constitutionally mischievous approach to liberty amidst war. I suggest that National
+Security Fundamentalism is especially tempting for lower courts consisting of
+judges appointed by a Republican president and asked to assess actions, by a
+Republican president, that are designed to protect national security. When
+national security is threatened, Republican appointees are exceedingly likely
+to defer to Republican presidents. This is especially so on the lower courts,
+which are likely to be most reluctant to invalidate acts of the commander in
+chief of the armed forces. Some of the more disturbing rhetoric in recent
+decisions by the D.C. Circuit, and by trial courts within that circuit, is best
+understood in this light.</p>
+      <p>I.</p>
+    </sec>
+    <sec id="sec-3">
+      <title>National Security Fundamentalism</title>
+      <p>It should be unsurprising to find that, in the aftermath of the attacks of
+September 11, National Security Fundamentalism has obtained a great deal
+of support. As I have noted, the Supreme Court has refused to accept it, at
+least thus far. 6 But the basic approach can be found in many places, most
+prominently in Washington, D.C.</p>
+    </sec>
+    <sec id="sec-4">
+      <title>A. Justice Clarence Thomas in Hamdi</title>
+      <p>In recent Supreme Court decisions involving the war on terrorism,
+National Security Fundamentalism failed to attract a majority opinion.7 But it
+made a conspicuous appearance in a remarkable dissenting opinion by
+Justice Clarence Thomas in Hamdi v. Rumsfeld.8 In Justice Thomas's view, the
+Constitution accords to the president the "primary responsibility ... to
+protect the national security and to conduct the Nation's foreign relations."9
+And Justice Thomas emphasized, very broadly, that any constitutional
+judgment in this domain should consider "basic principles of the constitutional
+structure as it relates to national security and foreign affairs."10 Hence,
+judicial judgments should be made against the backdrop set by the president's
+inherent and broadly discretionary power to protect national security."</p>
+      <p>With respect to the courts, Justice Thomas contended that "it is crucial
+to recognize that judicialinterference in these domains destroys the purpose
+of vesting primary responsibility in a unitary Executive."'1 2 Judges "lack the
+relevant information and expertise to second-guess determinations made by
+the President. ' 13 In fact, congressional grants of power should be construed
+generously on the president's behalf, rather than narrowly, so as to fit with
+institutional limits on the power of the judiciary.1 4 Because the executive
+branch of the federal government has an "overriding interest in protecting
+the Nation," it can invoke that interest to justify depriving people of liberty.1 5
+In fact, Justice Thomas argued in favor of broad constructions of
+congressional grants of authority partly to avoid constitutional difficulties:
+"Although the President very well may have inherent authority to detain those
+arrayed against our troops, I agree with the plurality that we need not decide
+that question because Congress has authorized the President to do so."16</p>
+      <p>Justice Thomas's opinion is a form of National Security Fundamentalism
+because of its breadth and ambition. There is no effort here to offer a
+cautious ruling tailored to the facts of the particular case. On the contrary,
+Justice Thomas speaks generally about the "primary responsibility" of the
+president in the domain of "national security. ' 17 In addition, he adopts a
+kind of interpretive principle in favor of presidential authority-suggesting,
+at least implicitly, that statutes should be read in a way that does not conflict
+with the president's inherent authority.' 8 But from a reading of the
+Constitution alone, it would not be entirely clear whether the president or the
+Congress has primary responsibility in the domain of national security-an issue
+to which I will return. The important point is that Justice Thomas offers a
+distinctive vision of the constitutional structure, one that accords principal
+authority to the president and a small or even nearly nonexistent role for
+courts, and thus exemplifies National Security Fundamentalism.
+B.</p>
+    </sec>
+    <sec id="sec-5">
+      <title>The Department of Justice</title>
+      <p>In recent years, the most visible moment for National Security
+Fundamentalism came from the Office of Legal Counsel of the Department of
+Justice, with its 2002 memorandum on the legality of coerced interrogation.1 9
+The most remarkable aspect of the memorandum is its suggestion that, as
+commander in chief of the armed forces, the president of the United States
+has the inherent authority to torture suspected terrorists so as to make it
+constitutionally unacceptable for Congress to ban the practice of torture.20
+The Office of Legal Counsel emphasized that "the President enjoys complete
+discretion in the exercise of his Commander-in-Chief authority and in
+conducting operations against hostile forces. '21 In addition, the Office of Legal
+Counsel insisted that a core function of the commander in chief includes
+interrogation of the enemy. 22 Because of "the President's inherent
+constitutional authority to manage a military campaign against al Qaeda and its
+allies," congressional enactments "must be construed as not applying to"
+interrogations undertaken as part of the president's commander-in-chief
+authority.23 "Any effort by Congress to regulate the interrogation of battlefield
+combatants would violate the Constitution's sole vesting of the
+Commanderin-Chief authority in the President. '24 Hence, coercive interrogation,
+including torture, must be permitted if the president wants to engage in it.</p>
+      <p>Constitutional interpretation is, of course, very much a function of
+institutional role. Those who work for the House of Representatives or the
+Senate might well be expected to aggrandize the powers of Congress; those who
+19 See Memorandum from the Office of Legal Counsel, United States Department of
+Justice, to Alberto R. Gonzales, Counsel to the President (Aug. 1, 2002) [hereinafter OLC
+Memorandum] (regarding "Standards of Conduct for Interrogation under 18 U.S.C. §§ 2340-2340A"),
+available at http://www.washingtonpost.com/wp-srv/nation/documents/dojinterrogationmemo
+20020801.pdf. This was the most visible moment for National Security Fundamentalism, but
+perhaps not the most extreme one. In Rumsfeld v. Padilla,the president claimed that, as
+commander in chief, he had the inherent power to order military authorities to seize an American
+citizen in the United States without any judicial approval and to hold him indefinitely,
+incommunicado, with no access to a lawyer, a court, family, or friends, and without even informing his
+family or friends what they had done with him. See Brief for the Petitioner at 35-38, Rumsfeld
+v. Padilla, 124 S. Ct. 2711 (2004) (No. 03-1027). I discuss Padillabelow.</p>
+      <p>20 See OLC Memorandum, supra note 19, at 31.
+21 Id. at 33.
+22 See id. at 38.</p>
+      <p>23 Id. at 34. To be sure, the position of the Department of Justice was stated with a degree
+of tentativeness. It announced that it "will not read" the congressional ban on torture as
+applying in the context of battlefield interrogations. Id. at 34. So phrased, the suggestion is a form of
+minimalism, asking for avoidance of the constitutional issue by reading the statute so as not to
+intrude on the president's authority as commander in chief. See id. But the general impression
+is that the ban probably should be regarded as unconstitutional.</p>
+      <p>24 Id. at 39.
+work for the Department of State might well be expected to exaggerate the
+authority of the president. The Office of Legal Counsel is part of the
+executive branch, operating directly under the attorney general, and one of its
+major functions is to protect the constitutional prerogatives of the president,
+especially those prerogatives that are associated with the commander-in-chief
+power. Generous interpretations of the president's prerogatives should be
+expected from any office within the Department of Justice, above all when
+national security is at risk. But in its endorsement of presidential power, the
+memorandum on coerced interrogation went well beyond ordinary practice.
+To be sure, the president has inherent authority to oversee battlefield
+operations, and Congress has limited power to control such operations. The
+president also has the inherent authority to conduct interrogations amidst war.
+But, to say the least, it is unusual to say that this authority includes the power
+to torture people when Congress has expressly said otherwise. The power to
+command the armed forces is not easily taken to include "inherent" power to
+torture enemy combatants. Even if it does include that power, it is hard to
+contend that Congress cannot provide protection against torture.25</p>
+      <p>Whatever one's ultimate judgment on the merits, the memorandum of
+the Office of Legal Counsel provides a dramatic example of National
+Security Fundamentalism.</p>
+    </sec>
+    <sec id="sec-6">
+      <title>C. National Security Fundamentalismand the D.C. Circuit The President</title>
+      <p>and "the War Power"</p>
+      <p>In the years since the September 11 attacks, National Security
+Fundamentalism has played a large role on the lower federal courts.26 A single
+circuit has decided most of the key cases involving a conflict between
+national security and individual liberty: the United States Court of Appeals for
+the District of Columbia Circuit. That court has shown a remarkable
+tendency toward National Security Fundamentalism. In every case in which a
+serious challenge was mounted to the power of the president, the president
+has prevailed in the D.C. Circuit. Let us investigate a few examples.</p>
+      <p>One of the most striking decisions from the D.C. Circuit is Center for
+National Security Studies v. Department of Justice.27 In that case, a divided
+court of appeals permitted an extraordinary level of secrecy from the
+executive branch. Its reasoning is far more important than its (plausible)
+conclu25 See Youngstown Sheet &amp; Tube Co. v. Sawyer, 343 U.S. 579, 644 (1952) (Jackson, J.,
+concurring). Note that in some applications, the commander-in-chief power is more plausibly
+read to include the power to torture-when, for example, torture is deemed necessary to prevent
+an imminent attack on American troops. But even here, Congress almost certainly has the
+authority to forbid the practice of torture.</p>
+      <p>26 The principal exception is Padilla v. Rumsfeld, 352 F.3d 695 (2d Cir. 2003), rev'd on
+other grounds, 124 S. Ct. 2711 (2004), in which the United States Court of Appeals for the
+Second Circuit held that the president could not detain Padilla because he lacked the inherent
+authority to do so and because Congress had not authorized the detention of American citizens on
+American soil. See id. at 712-18, 722-23. This is an example of minimalism in action, as
+discussed in Part IV infra.</p>
+      <p>27 Ctr. for Nat'l Sec. Studies v. Dep't of Justice, 331 F.3d 918 (D.C. Cit. 2003), cert. denied,
+540 U.S. 1104 (2004).
+sion, simply because of its broad pronouncements about presidential
+authority.</p>
+      <p>A number of public interest groups invoked the Freedom of Information
+Act ("FOIA"),2 8 the common law, and the First Amendment to require the
+government to release information about those who had been detained in the
+aftermath of the September 11 attacks. 29 The requested information
+included names, dates of arrest and release, and reasons for detention. 30 The
+disclosure request had a strong democratic justification: evaluation of the
+executive's behavior could not easily come from a public not provided with this
+information. In ruling that disclosure was not required, the court relied on a
+broad interpretation of exemption 7(A) of FOIA, which exempts "records or
+information compiled for law enforcement purposes.., to the extent that the
+production ...31 could reasonably be expected to interfere with enforcement
+proceedings."</p>
+      <p>As Judge Tatel emphasized in dissent, the court's interpretation of this
+exemption was contestable; the court could easily have gone the other way.32
+What is most important is that the court was exceptionally deferential to the
+government's vague statements about potential harms.33 The court was
+entirely aware of this point. In language that is closely linked to Justice
+Thomas's dissenting opinion in Hamdi, the court emphasized:
+[T]he judiciary owes some measure of deference to the executive in
+cases implicating national security, a uniquely executive
+purview .... We have consistently reiterated the principle of deference
+to the executive in the FOIA context when national security
+concerns are implicated.... [W]e have consistently deferred to
+executive affidavits predicting harm to the national security, and have
+found it unwise to undertake searching judicial review.34</p>
+      <p>Indeed, the court went so far as to comment specifically on the
+distinctive nature and legal relevance of the current threat to national security:
+"America faces an enemy just as real as its former Cold War foes, with
+capabilities beyond the capacity of the judiciary to explore. '35 In fact, the court
+insisted that deference was "mandated by the separation of powers, '36
+suggesting that disclosure under FOIA would raise constitutional problems. The
+court left no doubt about the motivation for its action: "[W]e are in accord
+with several federal courts that have wisely respected the executive's
+judgment in prosecuting the national response to terrorism." 37 What is most
+noteworthy about the decision, then, is not the outcome, but the court's
+broad pronouncements about the need to defer to the executive and its
+interpretation of FOIA with clear and specific reference to separation of powers
+principles.</p>
+      <p>Another strikingly fundamentalist decision by the D.C. Circuit is Al</p>
+      <sec id="sec-6-1">
+        <title>Odah v. United States, which the Supreme Court reversed in Rasul v. Bush.38</title>
+        <p>In its ambitious ruling, the D.C. Circuit held that aliens captured outside of
+the United States have no rights under the Due Process Clause.39 The court
+said that the Guantinamo Bay detainees were, in law, analogous to German
+prisoners captured on the battlefield during World War 11.40 The court
+acknowledged that Guantdnamo Bay is controlled by the United States
+military, but it insisted on the irrelevance of this fact because Cuba has
+sovereignty over the area.41 The court's conclusion was hardly unreasonable.
+But there can be no doubt that the conclusion in favor of executive discretion
+stemmed from a broad and hardly mandatory reading of Supreme Court
+precedents. 42</p>
+        <p>A concurring opinion by Judge Randolph (who wrote the majority
+opinion as well) was, in a sense, even more revealing. Judge Randolph went well
+beyond what was necessary to resolve the case. Consider his confessedly
+aggressive opening sentence: "I write separately to add two other grounds for
+rejecting the detainees' non-habeas claims. '4 3 The fundamental motivation
+for his separate opinion seemed to be captured by his final sentence:
+The level of threat a detainee poses to United States interests, the
+amount of intelligence a detainee might be able to provide, the
+conditions under which the detainee may be willing to cooperate, the
+disruption visits from family members and lawyers might
+causethese types of judgments have traditionally been left to the
+exclusive discretion of the Executive Branch, and there they should
+remain. 4
+Here is an explicit endorsement of National Security Fundamentalism.</p>
+        <p>Within the D.C. Circuit, the trial courts have followed the lead of the
+court of appeals, showing a similar tendency toward National Security
+Fundamentalism. Consider, for example, ACLU v. Department of Justice,45 in
+which organizations sought information involving the government's use of
+section 215 of the USA PATRIOT Act.46 Section 215 gives the FBI broad
+power to "make an application for an order requiring the production of any
+tangible things.., for an investigation to obtain foreign intelligence
+informa38 Al Odah v. United States, 321 F.3d 1134 (D.C. Cir. 2003), rev'd sub nom. Rasul v. Bush,
+124 S. Ct. 2686 (2004).</p>
+        <p>39 See id. at 1145.
+40 See id. at 1140.
+41 See id. at 1143.
+42 See id.
+43 Id. at 1145 (Randolph, J., concurring).
+44 Id. at 1150 (Randolph, J., concurring).
+45 ACLU v. Dep't of Justice, 321 F. Supp. 2d 24 (D.D.C. 2004).</p>
+        <p>46 See id. at 26; Uniting and Strengthening America by Providing Appropriate Tools
+Required to Intercept and Obstruct Terrorism (USA PATRIOT Act) Act of 2001 § 215, 50 U.S.C.
+§ 1861 (Supp. I 2003).
+tion ...or to protect against international terrorism. '47 In particular, the
+plaintiffs sought to use FOIA to find out (1) the total number of section 215
+requests received by the National Security Law Unit of the FBI and (2) any
+and all records relating to section 215.48 Notwithstanding the fact that the
+Department of Justice had previously made several disclosures of its
+behavior under the USA PATRIOT Act, the court ruled broadly that the national
+security exemption of FOIA justified the failure to disclose the information. 49</p>
+        <p>The court knew that it was dealing with a hard question, candidly
+acknowledging that the "issue is hardly free from doubt. ' 50 But it ruled for the
+government "because it [was] mindful of the 'long-recognized deference to
+the executive on national security issues."' 51 Ultimately the court deferred,
+not to specific explanations by the executive, but to the exceedingly vague
+claims that release of the number of section 215 field requests "poses the
+continuing potential to harm our national security by enabling our
+adversaries to conduct their intelligence or international terrorist activities more
+securely. ' 52 The court's willingness to embrace National Security
+Fundamentalism is best understood in light of a background principle in
+favor of executive power in the domain of national security.</p>
+      </sec>
+      <sec id="sec-6-2">
+        <title>A similar approach can be found in Edmonds v. Departmentof Justice.53</title>
+        <p>There the court gave an exceedingly broad reading to the "state secrets
+privilege" so as to dismiss a Privacy Act 54 claim brought by a self-styled
+whistleblower at the FBI.55 One of the most striking parts of the court's
+opinion came in a footnote, in which it addressed the possibility of staying
+the case rather than dismissing it: "This is due not only to the nature of the
+information, but also because the imminent threat of terrorism will not be
+eliminated anytime in the foreseeable future, but is an endeavor that will
+consume our nation's attention indefinitely. '56 Under FOIA, then, National
+Security Fundamentalism has been explicitly endorsed within the D.C.
+Circuit, in holdings that fit well with the general approach in Al Odah.
+D.</p>
+      </sec>
+    </sec>
+    <sec id="sec-7">
+      <title>FundamentalismAgain: An Echo from the Fourth Circuit</title>
+      <p>Next to the D.C. Circuit, the United States Court of Appeals for the
+Fourth Circuit has been the most prominent court of appeals in cases
+involving the war on terror, and it has taken an approach strikingly similar to that
+of the D.C. Circuit.57 The most prominent of its decisions is Hamdi v.
+Rumsfeld.5 8 There the court held that enemy combatants, captured on the
+battlefield, could be detained indefinitely and without trial, even if they were
+American citizens. 59 In so ruling, the court relied largely on a constitutional
+source-the president's power as commander in chief of the armed forces. 60
+The court contended that this power includes "the authority to detain those
+captured in armed struggle" and also "to deport or detain alien enemies
+during the duration of hostilities and to confiscate or destroy enemy property. 61</p>
+      <p>The central question in the case involved the procedural protection, if
+any, that would accompany the exercise of the commander-in-chief power.
+The court emphasized the need to defer to the president: "The Constitution's
+allocation of the warmaking powers reflects not only the expertise and
+experience lodged within the executive, but also the more fundamental truth that
+those branches most accountable to the people should be the ones to
+undertake the ultimate protection and to ask the ultimate sacrifice from them. 62
+Hence, deference to the executive would be the basic rule. 63 The court was
+aware that, in denying fair procedure, the president was doing something
+unusual, but changed circumstances justified this step: "As the nature of threats
+to America evolves, along with the means of carrying those threats out, the
+nature of enemy combatants may change also. In the face of such change,
+separation of powers doctrine does not deny the executive branch the
+essential tool of adaptability."' 64</p>
+      <p>Indeed, the court said that the source of the detention was not a statute,
+but "Article II, Section 2, of the Constitution, wherein the President is given
+the war power. '65 (I will return to this important statement, which seems to
+lie behind the D.C. Circuit opinions as well, in due course.) Deference to the
+president stems from this explicit grant of authority. So long as a detention
+"is one legitimately made pursuant to the war powers," it must be
+respected. 66 A general statement on the part of the executive supporting the
+claim that a citizen was detained in the course of war and qualified as an
+enemy combatant would be sufficient. 67 The court left no doubt that this
+conclusion stemmed from National Security Fundamentalism: "The
+constitutional allocation of war powers affords the President extraordinarily broad
+authority as Commander in Chief and compels courts to assume a deferential
+posture."68
+59 See id. at 473.
+60 See id. at 463.
+61 Id. (citation omitted).
+62 Id.</p>
+      <p>63 See id. at 464. Notably, however, the court was careful to limit the reach of its ruling in
+a way that suggests a form of minimalism described below. See id. at 465 ("We shall, in fact, go
+no further in this case than the specific context before us-that of the undisputed detention of a
+citizen during a combat operation undertaken in a foreign country and a determination by the
+executive that the citizen was allied with enemy forces.").</p>
+      <p>64 Id. at 466.
+65 Id. at 471.
+66 Id. at 472.
+67 See id. at 472-73.
+68 Id. at 474.</p>
+      <p>That deference required the conclusion that Hamdi could be held
+indefinitely, even after the end of the relevant hostilities. 69 In reaching this
+conclusion, the court referred to the judgments of the executive branch without
+even pausing to consider what kind of authorization Congress had given it.70
+Because the D.C. Circuit and the Fourth Circuit have been the most
+important sources of lower-court decisions involving liberty and the war on
+terrorism, it is fair to say that National Security Fundamentalism has played the
+dominant role on the federal courts in the aftermath of the September 11
+attacks.</p>
+    </sec>
+    <sec id="sec-8">
+      <title>National Security Fundamentalism and the Constitution</title>
+      <p>Why have lower courts been drawn to National Security
+Fundamentalism? In the abstract, National Security Fundamentalism has a great deal of
+appeal. Far more than Congress, the president is in a position to act quickly
+and decisively to protect the citizenry. He is also likely to be able to acquire
+relevant information about what must be done and about when to do it.
+Because the president is commander in chief of the armed forces, Congress
+cannot override the president's judgments about how to carry out a lawful war.
+Justice Thomas correctly emphasizes that Alexander Hamilton defended the
+creation of a "unitary executive" as a means of ensuring energy,
+coordination, and dispatch in the presidency.71 These qualities are relevant above all
+in times of war. By contrast, courts lack good tools for assessing the
+president's claims of military necessity.</p>
+      <p>At least equally important, judicial errors may turn out to be disastrous
+rather than merely harmful. To be sure, American practice suggests that
+judges are most unlikely to err by protecting civil liberties; 72 in our history, it
+is hard to find even a single case in which judicial protection of freedom
+seriously damaged national security. But if Liberty Perfectionism were
+accepted, some such errors would become far more probable. In ordinary
+contexts, even those that involve criminal justice, the stakes are not nearly so
+high. There is every reason for courts to avoid a decision that leads to
+freedom for terrorists or to disclosure of information that helps those who want
+to kill Americans. Structural concerns, along with simple prudence, argue in
+favor of considerable judicial deference to presidential choices when national
+security is at risk. These points provide important cautionary notes; they
+help to explain why Liberty Perfectionism is senseless. But these
+considerations should not be read for more than they are worth. Far from requiring
+National Security Fundamentalism, the Constitution is best read to forbid it.</p>
+      <p>No one doubts that the president has considerable power in the domain
+of national security. I have emphasized that under Article II he is explicitly
+authorized to be "Commander in Chief of the Army and Navy of the United
+69 See id. at 476.
+70 See id.</p>
+      <p>71 See Hamdi v. Rumsfeld, 124 S. Ct. 2633, 2675-76 (2004) (Thomas, J., dissenting). See
+generallyLawrence Lessig &amp; Cass R. Sunstein, The Presidentand the Administration,94 COLUM.
+L. REV. 1 (1994).</p>
+      <p>72 See generally STONE, supra note 3.
+States. '73 He is allowed "to make Treaties," at least when two-thirds of the
+senators concur. 74 He is authorized to "appoint Ambassadors" and "other
+public Ministers and Consuls. '75 He "shall receive Ambassadors and other
+public Ministers.' ' 76 But none of this supports Justice Thomas's suggestion
+that the president has "primary responsibility-along with the necessary
+power-to protect the national security and to conduct the Nation's foreign
+relations. '77 Nor does anything in the document support the Fourth Circuit's
+suggestion that under Article II "the President is given the war power. 78
+Nor does the Constitution support the view, at least implicit in the rulings of
+the D.C. Circuit, that the domain of war is the domain of largely unbounded
+presidential discretion. 79 On the contrary, that view is a tendentious reading
+of the legal materials. To see why, let us turn to Article I.</p>
+      <p>Perhaps most notably, Congress, rather than the president, has the
+power "[t]o declare War. ''80 The Constitution also grants Congress, not the
+president, the power "[t]o raise and support Armies." ' It authorizes
+Congress "[t]o provide and maintain a Navy."'8 2 In a formulation that bears on
+the president's supposedly inherent power to torture and that much
+complicates any claims about the broad power of the commander in chief, the
+founding document permits Congress to "make Rules for the Government
+and Regulation of the land and naval Forces. ' 83 It is Congress that is
+authorized to raise funds to "provide for the Common Defence and general Welfare
+of the United States."84 Congress, rather than the president, is empowered
+to "regulate Commerce with foreign Nations."85 Congress is also authorized
+to "define and punish Piracies and Felonies committed on the high Seas, and
+Offences against the Law of Nations, ' 86 and also to "make Rules concerning
+Captures on Land and Water." 87 It is under Article I, not Article II, that the
+Constitution allows suspension of habeas corpus "when in Cases of Rebellion
+or Invasion the public Safety may require it."88 The fact that the Suspension
+Clause can be found in Article I tends to suggest that Congress, not the
+president, is entitled to suspend the writ.</p>
+      <p>
+        73 U.S. CONST. art. II, § 2, cl. 1.
+74 Id. art. II, § 2, cl. 2.
+75 Id.
+76 Id. art. II, § 3.
+77 Hamdi v. Rumsfeld, 124 S. Ct. 2633, 267
+        <xref ref-type="bibr" rid="ref1">5 (2004</xref>
+        ) (Thomas, J., dissenting).
+78 Hamdi v. Rumsfeld, 316 F.3d 450, 471 (4th Cir. 2003), rev'd, 124 S. Ct. 2633 (2004).
+79 See, e.g., Ctr. for Nat'l Sec. Studies v. Dep't of Justice, 331 F.3d 918, 926-27 (D.C. Cir.
+2003) (noting that "the judiciary owes some measure of deference to the executive in cases
+implicating national security, a uniquely executive purview"), cert. denied, 540 U.S. 1104 (2004).
+      </p>
+      <p>80 U.S. CoNsT. art. I, § 8, cl. 11. For treatment of some of the complexities here, with
+reference to the literature, see Curtis Bradley &amp; Jack Goldsmith, CongressionalAuthorization
+and the War on Terrorism, 118 HARV. L. REV. (forthcoming 2005).</p>
+      <p>81 U.S. CONsT. art. 1, § 8, cl. 12.
+82 Id. art. I, § 8, cl. 13.
+83 Id. art. I, § 8, cl. 14.
+84 Id. art. I, § 8, cl. 1.
+85 Id. art. I, § 8, cl. 3.
+86 Id. art. I, § 8, cl. 10.
+87 Id. art. I, § 8, cl. 11.
+88 Id. art. I, § 9, cl. 2.</p>
+      <p>In this light, the Constitution does not repose in the president anything
+like the general authority "to protect the national security. '89 On the
+contrary, the more natural reading of the document is that protection of national
+security is parceled out between Congress and the president-and that if
+either has the dominant role, it is the national lawmaker. To be sure, the
+Commander in Chief Clause does give the president the authority to direct the
+armed forces, an expansive authority;90 but even that authority is subject to
+legislative constraints because Congress controls the budget and because
+Congress can choose not to declare war. And if Congress refuses either to
+authorize the use of force or to declare war, the president is generally
+noton the best reading of the document-entitled to commence hostilities. 91
+The Commander in Chief Clause allows the president to manage wars; but it
+does not give him "the war power." All of this means that National Security
+Fundamentalism cannot claim a strong constitutional pedigree.</p>
+      <p>Of course, the constitutional text is hardly all there is to our
+constitutional tradition.92 In the domain of separation of powers, historical practices
+and changes over time are highly relevant. As Justice Frankfurter contended,
+"[i]t is an inadmissibly narrow conception of American constitutional law to
+confine it to the words of the Constitution and to disregard the gloss which
+life has written upon them. '93 In this context, an understanding of that
+"gloss" greatly favors the president. There can be no doubt that for
+questions of national security the president has assumed authority that the text
+alone might not sanction. The power to make war is a leading example; the
+president has long engaged in military actions without the kind of legislative
+authorization that Article I appears to require. 94</p>
+      <p>Historical "glosses" on constitutional text might well be taken to argue
+in the direction of National Security Fundamentalism. They make it
+plausible to contend that the president has more authority in the domain of
+national security than the document alone appears to contemplate.
+Undoubtedly, the lower courts have been responding in part to that fact.
+Equally undoubtedly, the increasing power of the president is largely a
+product of functional considerations having to do with the rise of the United
+States as an international power and the growing need for energy and
+dispatch. But even when the document is thus glossed, it remains tendentious to
+contend that when the nation is at risk, the president must be in charge of the
+apparatus of government. To say this is to reject a constitutional
+accommodation that, by text and tradition as well, unambiguously retains Congress's
+role as the nation's lawmaker.</p>
+      <p>If National Security Fundamentalism is to be rejected, what should be
+put in its place? What should courts do instead?</p>
+      <p>I cannot answer that question in this space.95 It is surely relevant that, in
+a number of decisions, the Supreme Court has rejected unlimited presidential
+authority and insisted on the relevance of a congressional grant of power.96
+For a recent illustration, let us explore the leading alternative to the approach
+of the D.C. Circuit and the Fourth Circuit-one that offers a very different
+understanding both of the constitutional foundations and the appropriate
+judicial role. In the relevant decision, the United States Court of Appeals for
+the Second Circuit endorsed a form of minimalism in Padilla v. Rumsfeld. 97</p>
+      <p>At issue was the legality of the detention of Jose Padilla, an American
+citizen held as an enemy combatant after having been seized on American
+soil.98 The court squarely rejected the claim, urged by the executive and
+rooted in National Security Fundamentalism, that the "President has the
+inherent authority to detain those who take up arms against this country." 99
+The court of appeals correctly emphasized that Articles I and II divide the
+war powers, rather than confer them on the executive alone. °° The court
+added that the grant of numerous war-related powers "to Congress is a
+powerful indication that, absent express congressional authorization, the
+President's Commander-in-Chief powers do not support" the confinement of an
+American citizen captured on American soil.10 1 It stressed that Ex parte
+Quirin,102 the government's best precedent, rested on congressional
+authorization rather than on inherent presidential authority. 10 3</p>
+      <p>The key issue thus was whether such authorization could be found here.
+In the court's view, Congress's authorization to use "all necessary and
+appropriate force" to respond to the September 11 attacks' 4 should be understood
+in light of the Supreme Court's several efforts to ensure that both Congress
+and the president, rather than the president alone, authorize interferences
+95 See Cass R. Sunstein, Minimalism at War, 2004 Sup. CT. REv. 47, for detailed
+discussion.</p>
+      <p>96 See, e.g., Duncan v. Kahanamoku, 327 U.S. 304, 322 (1946); Ex parte Endo, 323 U.S.
+283, 300-02 (1944); Hirabayashi v. United States, 320 U.S. 81, 90-93 (1943). For further
+discussion, see Issacharoff &amp; Pildes, supra note 1, at 7-9.</p>
+      <p>97 Padilla v. Rumsfeld, 352 F.3d 695 (2d Cir. 2003), rev'd on othergrounds, 124 S.Ct. 2711
+(2004).</p>
+      <p>98 See id. at 698.
+99 Id. at 712.
+100 See id. at 713-14.
+101 Id. at 715.
+102 Ex parte Quirin, 317 U.S. 1 (1942).
+103 See Padilla,352 F.3d at 715-16.</p>
+      <p>104 Authorization for Use of Military Force, Pub. L. No. 107-40, § 2(a), 115 Stat. 224, 224
+(2001).
+with constitutionally sensitive interests. 10 5 The Supreme Court thus had
+emphasized that "'[i]n interpreting a war-time measure we must assume that
+[the purpose of Congress and the Executive] was to allow for the greatest
+possible accommodation between those liberties and the exigencies of
+war." 10 6 In Padilla the court of appeals said, correctly, that no clear and
+unmistakable statement could be found. 10 7 Such a statement was required,
+and hence the indefinite detention of Padilla was beyond the President's
+power.'08</p>
+      <p>This decision is an unambiguous exercise in minimalism at war. It stands
+in sharp contrast with the National Security Fundamentalism that has
+dominated the D.C. Circuit. I am not sure that on the particular issue the Second
+Circuit was correct; the authorization for the use of force is not implausibly
+interpreted to provide a basis for what the executive did in Padilla1.0 9</p>
+      <p>I have suggested that much of the appeal of National Security
+Fundamentalism lies in functional and structural considerations. Federal judges, no
+less than ordinary citizens, want to support the president when the nation is
+at risk. Moreover, it is not implausible to suggest that aspects of the
+constitutional structure argue in favor of National Security Fundamentalism. But I
+have suggested that this approach fits poorly with the founding document, all
+things considered. When judges adopt it, why are they doing so? At least in
+the recent past, I believe that two factors have, regrettably, been playing a
+significant role.</p>
+    </sec>
+    <sec id="sec-9">
+      <title>Republican Judges, Republican Presidents</title>
+      <p>The first factor has to do with the likely posture of Republican judicial
+appointees confronted with the efforts of a Republican president to protect
+the nation in the aftermath of an attack. No one can doubt that Democratic
+appointees and Republican appointees differ with one another on many
+crucial questions. 10 With respect to national security, there is reason to
+speculate that Republican appointees would be somewhat more likely to rule in
+favor of presidential authority than Democratic appointees. (Nothing I have
+said demonstrates that they are wrong to be inclined in this direction.) But
+their tendency, I suggest, is likely to be heightened when the president in
+question is also Republican. In other contexts, this effect has been
+powerfully documented; Republican-appointed judges are distinctly willing
+to defer to Republican presidents in the general domain of administrative
+law-and much less willing to defer to Democratic presidents.111 I have not
+done an empirical analysis of lower-court decisions when national security
+collides with liberty, but there is every reason to believe that the tendency I
+am describing would hold.</p>
+      <p>Here is a more concrete way to put the point. It is possible to imagine
+the following combinations of interactions: Democratic president,
+Democratic-appointed judges; Democratic president, Republican-appointed judges;
+Republican president, Democratic-appointed judges; Republican president,
+Republican-appointed judges. My speculation is that when presidents are
+taking steps to protect security at the possible expense of liberty, the
+likelihood of a judicial victory is highest, and probably by far the highest, when
+Republican judges are assessing the decisions of a Republican president. For
+the other three possible combinations, federal judges are more likely to
+invalidate presidential actions that raise serious legal difficulties.</p>
+      <p>I am suggesting, then, that in general Democratic-appointed judges
+would look more skeptically at liberty-infringing acts by the chief executive,
+whether Republican or Democratic, and that Republican-appointed judges
+would look more skeptically at intrusions on liberty by (say) President
+Clinton than at intrusions on liberty by (say) President George W. Bush. It is
+revealing in this regard that the primary illustrations of National Security
+Fundamentalism in the recent past have come from Republican appointees
+speaking approvingly of exercises of authority of President Bush. Recall that
+Judge Ray Randolph wrote both the majority and the concurring opinion in
+Al Odah; in addition, Judge Harvey Wilkinson wrote the majority opinion in
+Hamdi. These are mere examples, and nothing I am saying here
+demonstrates that these judges were wrong in their particular conclusions. I am
+making a simple descriptive (and predictive) point: National Security
+Fundamentalism will have most appeal to Republican appointees on the lower
+courts when the president whose acts are at issue is also Republican.</p>
+    </sec>
+    <sec id="sec-10">
+      <title>B. Judicial Courage:A Concluding Note</title>
+      <p>The final point has to do with the institutional position of lower courts as
+compared with the institutional position of the Supreme Court of the United
+States. To say the least, it is uncomfortable for federal judges to invalidate a
+decision of the president. Invalidation of presidential acts is particularly
+uncomfortable when national security is at risk. Our history attests to this
+point. 112 If federal judges are going to reject a presidential decision in the
+name of liberty, they will have to demonstrate a great deal of courage.
+Lower courts, precisely because they are lower, are less likely to show that
+courage. Because of its unique place in American government and because
+of its national prestige, the Supreme Court is in a far better position to do
+so. 113 This is not to say that the Supreme Court will reliably protect liberty,
+l1l See, e.g., Linda R. Cohen &amp; Matthew L. Spitzer, Solving the Chevron Puzzle, 57 LAW &amp;
+CONTEMP. PROBS. 65 (1994) (Finding that justices are far more likely to defer to an agency's
+statutory construction when the agency is controlled by a president of the same political party as
+the justice).</p>
+      <p>112 See supra text accompanying note 72.
+113 See STONE, supra note 3, passim, for a catalogue of cases in which the Supreme Court
+even when the legal materials call for it to do so. Judges are merely judges,
+and when national security is at risk, an aggressive judicial role is neither
+likely nor desirable. It is for this reason that Liberty Perfectionism is a
+nonstarter. But to the extent that federal judges need a great deal of courage to
+protect constitutional rights when the stakes are high, the Supreme Court is
+more reliable than other judicial institutions, at least as a general tendency.</p>
+      <p>The best guess, then, is that lower courts, including the D.C. Circuit, will
+be inclined to follow the constitutionally mischievous path of National
+Security Fundamentalism. I hope that I am proved wrong.
+has been reluctant to protect liberty amidst a public panic; see SUNSTEIN, supra note 4, at 61-72,
+for a suggestion that the Court has often protected liberty through minimalist rulings.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          5 See Rasul v.
+          <source>Bush</source>
+          , 124
+          <string-name>
+            <given-names>S.</given-names>
+            <surname>Ct</surname>
+          </string-name>
+          .
+          <volume>2686</volume>
+          ,
+          <issue>2699</issue>
+          (
+          <year>2004</year>
+          );
+          <article-title>Hamdi v</article-title>
+          .
+          <source>Rumsfeld</source>
+          , 124
+          <string-name>
+            <given-names>S.</given-names>
+            <surname>Ct</surname>
+          </string-name>
+          .
+          <volume>2633</volume>
+          ,
+          <issue>2647</issue>
+          (
+          <year>2004</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <article-title>6 See supra note 5 and accompanying text</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          89 Hamdi v.
+          <source>Rumsfeld</source>
+          , 124
+          <string-name>
+            <given-names>S.</given-names>
+            <surname>Ct</surname>
+          </string-name>
+          .
+          <volume>2633</volume>
+          ,
+          <issue>2675</issue>
+          (
+          <year>2004</year>
+          )
+          <article-title>(Thomas</article-title>
+          ,
+          <string-name>
+            <surname>J.</surname>
+          </string-name>
+          , dissenting).
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          90 See Loving v.
+          <source>United States</source>
+          ,
+          <volume>517</volume>
+          U.S.
+          <volume>748</volume>
+          ,
+          <issue>768</issue>
+          (
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>91</surname>
+          </string-name>
+          <article-title>The principal exception is that the president is always permitted to repel sudden attacks-a category that is not self-defining</article-title>
+          .
+          <source>See John Hart Ely, Suppose Congress Wanted a War PowersAct That Worked</source>
+          ,
+          <volume>88</volume>
+          COLUM. L. REV.
+          <volume>1379</volume>
+          ,
+          <issue>1388</issue>
+          (
+          <year>1988</year>
+          ); Note, Congress, the President, and the Power to Commit Forcesto Combat,
+          <volume>81</volume>
+          HARV. L. REV.
+          <volume>1771</volume>
+          ,
+          <issue>1782</issue>
+          (
+          <year>1968</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          92 See generally
+          <string-name>
+            <given-names>David A.</given-names>
+            <surname>Strauss</surname>
+          </string-name>
+          , Common Law ConstitutionalInterpretation,63
+          <string-name>
+            <given-names>U.</given-names>
+            <surname>CHI. L. REV</surname>
+          </string-name>
+          .
+          <volume>877</volume>
+          (
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          93
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Youngstown</surname>
+          </string-name>
+          <string-name>
+            <given-names>Sheet &amp; Tube</given-names>
+            <surname>Co</surname>
+          </string-name>
+          . v. Sawyer, 343 U.S.
+          <volume>579</volume>
+          ,
+          <issue>610</issue>
+          (
+          <year>1952</year>
+          )
+          <article-title>(Frankfurter</article-title>
+          , J., concurring).
+          <source>See generally Bradley &amp; Goldsmith, supra note 80.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <article-title>94 For relevant discussion, see HAROLD HONGJU KOH, THE NATIONAL SECURITY CONSTITUTION: SHARING POWER AFTER THE IRAN-</article-title>
+          CONTRA AFFAIR 38-
+          <fpage>40</fpage>
+          (
+          <year>1990</year>
+          ); John Hart Ely,
+          <article-title>The American War in Indochina, Part I: The (Troubled) Constitutionalityof the War They Told Us About</article-title>
+          ,
+          <volume>42</volume>
+          STAN. L. REV.
+          <volume>877</volume>
+          (
+          <year>1990</year>
+          )
+          <article-title>; Harold Hongju Koh, The Coase Theorem and the War Power:A Response, 41 DUKE L</article-title>
+          .J.
+          <volume>122</volume>
+          ,
+          <issue>127</issue>
+          (
+          <year>1991</year>
+          ); Gregory Sidak, To Declare War, 41 DUKE L.J.
+          <volume>27</volume>
+          (
+          <year>1991</year>
+          ).
+          <article-title>Lower Courts, Ideology, and the Irresistible (?) Appeal of National Security Fundamentalism</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          105 See Duncan v.
+          <source>Kahanamoku</source>
+          , 327 U.S.
+          <volume>304</volume>
+          ,
+          <issue>322</issue>
+          (
+          <year>1946</year>
+          ); Ex parte Endo, 323 U.S.
+          <volume>283</volume>
+          ,
+          <fpage>300</fpage>
+          -
+          <lpage>02</lpage>
+          (
+          <year>1944</year>
+          );
+          <article-title>Hirabayashi v</article-title>
+          .
+          <source>United States</source>
+          ,
+          <volume>320</volume>
+          U.S.
+          <volume>81</volume>
+          ,
+          <fpage>90</fpage>
+          -
+          <lpage>93</lpage>
+          (
+          <year>1943</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          106 Padilla,352
+          <string-name>
+            <surname>F.</surname>
+          </string-name>
+          <article-title>3d at 722-23 (alterations in original) (quoting Ex parteEndo</article-title>
+          , 323 U.S. at 300).
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <article-title>107 See id</article-title>
+          . at 723.
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>108 See id.</mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          109
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Bradley</surname>
+          </string-name>
+          &amp; Goldsmith, supra note 80.
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          110 See
+          <string-name>
+            <surname>generally Cass R. Sunstein</surname>
+          </string-name>
+          et al.,
+          <source>Ideological Voting on FederalCourts of Appeals: A PreliminaryInvestigation</source>
+          ,
+          <volume>90</volume>
+          VA. L. REv.
+          <volume>301</volume>
+          (
+          <year>2004</year>
+          ).
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

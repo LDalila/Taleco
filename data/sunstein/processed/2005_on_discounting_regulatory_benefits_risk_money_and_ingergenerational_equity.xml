@@ -1,0 +1,1712 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta/>
+    <article-meta>
+      <title-group>
+        <article-title>On Discounting Regulator y Benefits: Risk , Money, and Ingergenerational Equity</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Coase-Sandor Working Paper Series in Law</string-name>
+          <email>unbound@law.uchicago.edu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Cass R. Sunstein &amp; Arden Rowell, "On Discounting Regulatory Benefits: Risk</institution>
+          ,
+          <addr-line>Money, and Ingergenerational Equity"</addr-line>
+          ,
+          <institution>John M. Olin Program in Law and Economics Working Paper No.</institution>
+          <addr-line>252, 2005</addr-line>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Coase-Sandor Institute for Law and Economics</institution>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2005</year>
+      </pub-date>
+      <kwd-group>
+        <kwd>Follow this and additional works at</kwd>
+        <kwd>https</kwd>
+        <kwd>//chicagounbound</kwd>
+        <kwd>uchicago</kwd>
+        <kwd>edu/law_and_economics</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>On Discounting Regulatory Benefits: </title>
+    </sec>
+    <sec id="sec-2">
+      <title>Risk, Money, and Intergenerational Equity </title>
+      <p>Cass R. Sunstein and Arden Rowell </p>
+      <p>T H E   L A W   S C H O O L  
+T H E   U N I V E R S I T Y  O F   C H I C A G O  </p>
+      <p> 
+July 2005 </p>
+      <p> </p>
+      <p>This paper can be downloaded without charge at: 
+The Chicago Working Paper Series Index: http://www.law.uchicago.edu/Lawecon/index.html 
+and at the Social Science Research Network Electronic Paper Collection: </p>
+      <p> http://ssrn.com/abstract_id=759804 
+Preliminary draft 7/3/05
+All rights reserved</p>
+      <p>On Discounting Regulatory Benefits: Risk, Money, and Intergenerational Equity
+Cass R. Sunstein* and Arden Rowell**</p>
+      <p>There is an elaborate debate over the practice of “discounting” regulatory
+benefits, such as environmental improvements and decreased risks to health and life,
+when those benefits will not be enjoyed until some future date. Economists tend to think
+that, as a general rule, such benefits should be discounted in the same way as money;
+many philosophers and lawyers doubt that conclusion on empirical and normative
+grounds. Both sides neglect a simple point: Once government has converted regulatory
+benefits into monetary equivalents, what is being discounted is merely money, not
+regulatory benefits as such. No one seeks to discount health and life—only the money that
+might be used to reduce threats to these goods. To be sure, cost-benefit analysis with
+discounting can produce serious problems of intergenerational equity; but those
+problems, involving the obligations of the present to the future, require an independent
+analysis. Failing to discount will often hurt, rather than help, future generations.
+Solutions to the problem of intergenerational equity should not be conflated with the
+question whether to discount.</p>
+      <p>Suppose that a proposed regulation will not produce benefits for some period of
+years; suppose too that an agency is asked to engage in some form of cost-benefit
+analysis before it proceeds with the regulation. Costs will be discounted, on the theory
+that a dollar today is worth more than a dollar in twenty years. But what should the
+agency do about future benefits, such as improved health or averted deaths? Should these
+too be "discounted," or should a death in 2025 be treated the same as a death today?</p>
+      <p>In terms of ultimate outcomes, the choice matters a great deal. If an agency
+chooses not to discount, the benefits calculation will shift dramatically from what it
+would be if the agency chose a discount rate of, for example, 10%. If a human life is
+valued at $8 million, and no discount rate is applied, a life saved 100 years from now is
+* Karl N. Llewellyn Distinguished Service Professor, Law School and Department of Political Science,
+University of Chicago.</p>
+      <p>** University of Chicago Law School, J.D. expected 2006. Thanks to Blake Roberts for excellent
+research assistance; to Matthew Adler, Robert Hahn, Bernard Harcourt, John Morrall, Eric Posner, Richard
+Posner, and David Weisbach for valuable comments; and to participants in an exceedingly helpful
+work-inprogress lunch at the University of Chicago Law School.
+worth the same expenditure today as a life saved now: $8 million. But at a discount rate
+of 10%, the same life would justify a modern expenditure of only $581.1 For regulation
+whose effects would be felt centuries from now, any reasonable discount rate will reduce
+substantial benefits, including the populations of large nations, to close to nothing.2 The
+Office of Management and Budget (“OMB”) suggests that agencies should prepare
+analyses using rates of both 3% and 7%,3 departing from its suggested 10% rate in the
+1980s. But these numbers remain controversial.4 Consider the fact that the midpoint—
+5%—would ensure that, if a human life is valued at $8 million, one hundred lives in one
+hundred years would be worth a total amount of only $6.25 million today.</p>
+      <p>In any case, agencies are not bound by OMB guidelines, and in recent years, their
+own rates have ranged from as low as 3% (Food and Drug Administration, Department of
+Housing and Urban Development) to as high as 10% (Environmental Protection
+Agency).5 In fact, the same agency sometimes uses different discount rates for no
+apparent reason—with the EPA, for example, using the 10% rate for regulation of
+emissions from locomotives, but selecting 7% for regulation of drinking water and 3%
+for regulation of lead-based paint.6 In this domain, government practice seems
+inexplicably erratic. Key questions are therefore: What discount rate, if any, should
+agencies choose?7 Do life and health require some special discount rate—or no discount
+rate at all? What is the relationship between discount rates and the rights and interests of
+future generations?</p>
+      <p>We shall attempt to make progress on these questions by offering two claims.
+First, regulatory benefits should be discounted at the same rate as money, and for a
+reason neglected by all sides in the debate: money is inevitably what is being discounted.8
+When regulators appear to “discount” mortality or morbidity, they are actually
+discounting people’s willingness to pay to reduce statistical risks; and willingness to pay
+to reduce risks should be discounted like all other expenditures. Second, cost-benefit
+analysis with discounting can produce serious problems of intergenerational equity, but
+these problems are poorly addressed by refusing to discount. It is true that regulatory
+decisions based on discounting can produce morally unjustified actions by the present
+generation at the expense of posterity. But a refusal to discount does not solve this
+problem; in many cases, it could injure, rather than promote, the interests of future
+generations. The task of fulfilling the obligations owed by the present to the future should
+be addressed directly. It is not appropriately handled by a refusal to discount.</p>
+      <p>To understand these claims, and their implications for administrative agencies,
+reviewing courts, and the general idea of “sustainable development,” we need to back up
+a bit.</p>
+      <sec id="sec-2-1">
+        <title>I. Debates</title>
+        <p>Everyone agrees that money should be discounted. It is better to have $1000 today
+than $1000 in ten years, if only because $1000 today can be invested and made to be
+worth much more than $1000 a decade hence. But for life and health, discounting is
+greatly disputed in both theory and practice. In an important case, a federal court said that
+discounting is necessary to provide an "apples to apples" comparison of costs and
+benefits, suggesting that agencies are legally required to use the same discount rate for
+health and safety benefits as for dollars.9 Other decisions have insisted on careful
+explanations for whatever discount rates agencies choose.10 Economists tend to believe
+that the argument for discounting is obvious, though the consensus has started to unravel
+Philosophers have raised serious doubts about the idea that a future death or illness
+should be discounted in the same way as money.14 Lawyers as well have questioned that
+idea, suggesting that it depends on contentious empirical or normative assumptions.15</p>
+      </sec>
+      <sec id="sec-2-2">
+        <title>A. Objections and Paradoxes</title>
+        <p>A central objection is that a life in 2025 is not obviously “worth less” than a life
+today. If ten people are killed twenty years hence, the outcome is not worse than if ten
+people are killed tomorrow. Thus one critic asks: “What is wrong with discounting
+numbers of lives saved? One obvious problem is that death does not recognize human
+accounting conventions and death does not discount.”16 In the same vein, Ackerman and
+Heinzerling object that “the choice implicit in discounting is between preventing harms to
+the current generation and preventing similar harms to future generations. Seen in this
+way, discounting looks like a fancy justification for foisting our problems off onto the
+people who come after us.”17 They emphasize that with “a discount rate of five percent,
+for example, the death of a billion people 500 years from now becomes less serious than
+the death of one person today.”18</p>
+        <p>Defenders of discounting have responded that a refusal to use a discount rate
+creates a number of logical and practical conundrums. For instance, a refusal to discount
+might require truly extraordinary sacrifices from the present for the sake of the (infinite)
+future. On one view, the “failure to discount would leave all generations at a subsistence
+level of existence, because benefits would be postponed perpetually for the future.”19 At
+the very least, a zero discount rate might bias “cost-benefit analysis in favor of rules that
+impose excessive sacrifices on the current generation.”20 On the other hand, it also has
+been argued that a failure to discount the monetized equivalent of regulatory benefits
+would lead to less regulation, not more. Suppose that regulators are indifferent as
+between lives saved now and lives saved in the future, but discount costs at some positive
+rate. If so, it makes sense for them to delay life-saving expenditures indefinitely, simply
+because the cost-benefit ratio will (always) be better in the future.21 “[T]he discounting of
+costs but not benefits . . . has a paralyzing effect on a decisionmaker. . . . For any
+attractive program, there is always a superior delayed program which should be funded
+first. The result is that no program with a finite starting date can be selected.”22</p>
+        <p>In any case, defenders of discounting have argued that instead of discounting lives
+and health as such, regulators might simply use the future discounted (monetary) cost of
+saving lives and health at the time when these are actually saved—an approach that is
+mathematically identical to ordinary discounting and hence produces the same analysis.23
+Summarizing a range of arguments, a general overview suggests that failure to permit a
+discount rate will ensure that any cost-benefit “analysis fails to account for the
+opportunity cost of resources that are diverted from private investment toward investment
+in the proposed rule,” and could therefore “lead the agency to adopt rules that reduce the
+welfare of future generations, because the resources could have been invested in assets
+with higher rates of return.”24 But these arguments have yet to convince the numerous
+19 See DAVID PEARCE &amp; R. KELLY TURNER, ECONOMICS OF NATURAL RESOURCES AND THE
+ENVIRONMENT 223-24 (1990).</p>
+        <p>20 Id.</p>
+        <p>21 Emmett B. Keeler &amp; Shan Cretin, Discounting of Life-Saving and Other Nonmonetary Effects, 29
+MANAGEMENT SCIENCE 300 (1983). Ackerman and Heinzerling discuss this claim and reject it, PRICELESS,
+supra note 13, at 193-94, in part on the ground that allowing numerous current deaths would be politically
+unacceptable; but the claim is one of the logical implications of refusing to discount, and the fact that it
+entails a politically unacceptable outcome does not mean that it is wrong.</p>
+        <p>22 Keeler &amp; Cretin, supra note 21, at 303. The argument is criticized in Revesz, supra note 7, at
+989992.</p>
+        <p>23 John F. Morrall III, Saving Lives: A Review of the Record, 27 J. RISK AND UNCERTAINTY 221 (2003).
+24 Morrison, Comment, supra note 5, at 1349. This argument has been used by OMB itself, see infra
+TAN 45, and it is the closest to the argument we make here; but if our argument is correct, it is unnecessary
+to speak of opportunity costs, because what is being discounted is the monetary value of the risk itself. For
+questions of intergenerational equity, the argument from opportunity costs is insufficient, because we do
+critics of discounting. As we shall see, it is by no means clear that the relevant resources
+will be “invested” for the benefit of future generations.</p>
+        <p>Responding to the controversy, some prominent analysts have distinguished
+between “descriptive” and “prescriptive” approaches.25 Under descriptive approaches, the
+discount rate is chosen by examining the rate of return to capital that has been invested in
+a range of possible assets. This is the standard approach of those who advocate
+discounting.26 Under prescriptive approaches, the discount rate is selected on the basis of
+ethical judgments about the duties of one generation to those that succeed it. These
+approaches can lead to dramatically different rates.27 The difficulty is that to be worthy of
+adoption, any “descriptive” approach must ultimately be defended in “prescriptive”
+terms. It remains disputed whether the best prescriptive arguments require abandonment
+of what emerges from the preferred descriptive approach.</p>
+      </sec>
+      <sec id="sec-2-3">
+        <title>B. Building on Preferences</title>
+        <p>An alternative possibility is to attempt to bracket the moral debates by
+investigating people’s actual preferences in this domain.28 Emphasizing the importance of
+those preferences, some defenders of discounting have attempted to show that people do
+discount future lives. On a standard view, “a zero discount rate is inconsistent with the
+observable behavior of individuals, which is arguably the best guide for policy in a
+democratic state.”29 But the word “arguably” suggests the normative problem in this
+context: Why should the interests of future generations be determined by consulting the
+preferences of the present generation? Those preferences might well be self-interested.
+not know that those savings will be invested for posterity’s benefit rather than consumed. See Cowen &amp;
+Parfit, supra note 12, at 152. Note that many people believe that because of technological advances, future
+risks are unlikely to come to fruition, simply because new technologies will permit us to prevent them. As
+later discussed in the text, however, this is not a point about discounting itself.</p>
+        <p>25 See Kenneth J. Arrow et al., Intertemporal Equity, Discounting, and Economic Efficiency, in
+CLIMATE CHANGE 1995: ECONOMIC AND SOCIAL DIMENSIONS OF CLIMATE CHANGE ch. 4 (J.P. Bruce et al.
+eds., 1996); William Cline, Discounting for the Very Long Term, in DISCOUNTING AND
+INTERGENERATIONAL EQUITY, supra note 2, at 131, 135, 137-39 (Paul R. Portney et al. eds., 1999).</p>
+        <p>26 See Robert C. Lind, A Primer on the Major Issues Relating to the Discount Rate for Evaluating
+National Energy Options, in ROBERT C. LIND ET AL., DISCOUNTING FOR TIME AND RISK IN ENERGY POLICY
+(1982).</p>
+        <p>27 See Portney &amp; Weyant, Introduction, in DISCOUNTING AND INTERGENERATIONAL EQUITY, supra note
+2, at 4.</p>
+        <p>28 See Raymond J. Kopp &amp; Paul R. Portney, Mock Referenda and Intergenerational Decisionmaking,
+in DISCOUNTING AND INTERGENERATIONAL EQUITY, supra note 2, at 87.</p>
+        <p>29 Id.
+Even if there is a degree of altruism, there is no reason to think that the (bounded)
+altruism of the present should settle the moral entitlements of the future.30</p>
+        <p>In any case, individual preferences in this context are not easy to identify, and
+they appear to be subject to framing effects. In an influential paper, Maureen Cropper and
+her coauthors conclude that people are indifferent between saving one life today and
+saving 45 lives in 100 years—a conclusion that has concrete implications for the
+appropriate discount rate.31 This conclusion was based on a study that asked people
+whether they would prefer a program that saves “100 people now” or one that saves a
+substantially larger number “100 years from now.” But other ways of framing the same
+problem yield radically different results.32 For example, most people consider “equally
+bad” a single death from pollution next year and a single death from pollution in 100
+years—a finding that implies no preference for members of the current generation. In
+these ways, measurements of people’s judgments about obligations to future generations
+are influenced by framing effects.33 For this reason, it is far from clear that judgments
+about discounting can be rooted in actual preferences. Even if those preferences have
+moral weight, they are too labile to be a reliable basis for public policy.</p>
+      </sec>
+      <sec id="sec-2-4">
+        <title>C. Health v. Money, Latent Harms v. Future Generations</title>
+        <p>Within the legal literature, the most influential and elaborate treatment of
+discounting future benefits has been offered by Dean Richard Revesz.34 Revesz makes
+two central arguments. First, he contends that the primary reasons for discounting
+monetary benefits do not apply to risks to life and health.35 Money is discounted for two
+reasons: first, it can be invested, and second, most people have a “pure” time preference
+for current over future consumption.36 But human lives cannot be invested, and a life lost
+twenty years hence cannot be “recovered” by investing some sum, or some person, in the
+present. Nevertheless, Revesz acknowledges that people may well have a “pure” time
+preference that would treat a future risk as less troublesome than a present risk.37 Moore
+and Viscusi, for example, have investigated the empirical question, and find a real
+discount rate of about 2%, one that “accords roughly with financial market interest rates
+for the period, once these nominal rates are adjusted for inflation.”38 Revesz argues that
+the existence of time preference justifies some discount rate for future harms that will
+affect people now living.39</p>
+        <p>To see the practical implication, consider the case of arsenic regulation. In its
+rationale for the regulation, the EPA treated an arsenic death in the future as equivalent to
+an arsenic death in the present, even though an arsenic death is likely to come, if it does
+come, decades after current exposures.40 In refusing to discount the latent harms from
+arsenic exposure, Revesz’s argument suggests that the EPA’s judgment was wrong, even
+arbitrary; some kind of discount rate is clearly appropriate. But Revesz does not argue
+that the EPA should adopt a discount rate that is equivalent to the appropriate discount
+rate for money. He contends, not implausibly, that there is no reason in the abstract to
+think that the time preference for health risks is the same as the time preference for
+dollars; and because there is no investment opportunity, any discount rate for health risks
+is likely to be much smaller than the market rate of return typically used to discount
+money. Hence the use of a market rate of return, on Revesz’s view, is likely to produce a
+significant undervaluation of regulatory benefits that will be enjoyed in the future.41 This
+is an important conclusion, because it suggests that current government practice should
+be substantially changed. The result would be to justify a number of regulations that
+cannot now satisfy a cost-benefit test.</p>
+        <p>36 For a suggestion that a pure time preference is irrational, see Cowen and Parfit, supra note 12, at
+155.</p>
+        <p>37 Revesz, supra note 7, at 975-76.</p>
+        <p>38 Michael J. Moore &amp; W. Kip Viscusi, Discounting Environmental Health Risks: New Evidence and
+Policy Implications, 18 J. ENVTL. ECON. &amp; MGMT. S-59, S-61 (1990).</p>
+        <p>39 Revesz, supra note 7, at 983-87.
+40 66 Fed. Reg. at 7013.
+41 Revesz, supra note 7, at 983.</p>
+        <p>Second, Revesz contends that it is important to distinguish between latent harms
+and risks to future generations.42 An environmentally-induced illness that will come to
+fruition today is worse than an environmentally-induced illness that will come to fruition
+in twenty years; it is for this reason that some kind of discount rate makes a great deal of
+sense for latent harms. But for risks to future generations, Revesz believes that the
+argument for discounting is much more fragile.43 Why should a death of a ten-year-old in
+2040 count less than a death of a ten-year-old today? Revesz concludes that there is no
+good answer to this question, and hence that the standard idea of discounting is not
+properly applied to harms faced by members of future generations.44</p>
+        <p>In its guidance to federal agencies, the Office of Management and Budget (OMB)
+is alert to Revesz’s concerns but disagrees, calling for the same discount rate for money
+as for other goods, with a brief reference to opportunity costs: “It is true that lives saved
+today cannot be invested in a bank to save more lives in the future. But the resources that
+would have been used to save those lives can be invested to earn a higher payoff in future
+lives saved.”45 In any case people prefer immediate health gains to equivalent health
+gains in the future.46 And because a failure to discount would produce “perverse” results,
+OMB suggests that agencies should follow the “professional consensus that future health
+effects, including both benefits and costs, should be discounted at the same rate.”47</p>
+      </sec>
+      <sec id="sec-2-5">
+        <title>II. Discounting Money: The Last Generation</title>
+        <p>We believe that both the defenders and the critics of discounting neglect an
+exceedingly simple point, one that supports the conclusion that an “apples to apples”
+comparison is indeed necessary. The point is this: Once a risk has been translated into a
+42 Id. at 987.
+43 Id. at 988-1003.</p>
+        <p>44 Id. at 1005-1009. Revesz does argue for a limited role for discounting in the intergenerational
+context, suggesting, for example, that present generations should not “spend more when we can achieve the
+same result for less,” id. at 1008, and that present generations might well prefer to face environmental
+harms in return for “the fruits of greater investments in technological innovation.” Id. These suggestions are
+very much in the spirit of our discussion in Part IV below.</p>
+        <p>45 See Circular A-4, supra note 3, at 35.
+46 Id.</p>
+        <p>47 Id. OMB overstates the professional consensus. See DISCOUNTING AND INTERGENERATIONAL
+EQUITY, supra note 2.
+monetary equivalent, it should be discounted as such; there is no need for a separate
+analysis of the problem of discounting life and health.</p>
+        <p>To separate this argument from intergenerational issues, to which we turn in Part
+IV, let us suppose that the practice of discounting is proposed, but only for those people
+who are now living. Imagine that the question involves the practices of what is, in some
+part of the world, the Last Generation—a generation of living people who will have no
+successors.48</p>
+        <p>For the Last Generation, the argument for discounting requires only one step:
+acceptance of the claim, now standard in the federal government and endorsed by many
+critics of discounting, that statistical risks should be turned into monetary equivalents.
+Once that claim is accepted,49 the case for a discount rate, one that cuts across all relevant
+costs and benefits, follows as a matter of course. It is entirely unnecessary to speak of
+opportunity costs, as OMB does, or to ask, as Revesz does, whether the arguments that
+apply to money also apply to health and life. The reason is that what is being discounted
+is always money, and never health or life as such. When agencies apply a discount rate to
+monetized regulatory benefits, they are discounting the relevant monetary amounts, not
+life or health.</p>
+        <p>To understand this point, it is necessary to see how regulators translate reductions
+of risk into monetary equivalents. The answer comes from two kinds of evidence. The
+first and
+most important involves real-world
+markets, producing evidence of
+compensation levels for actual risks.50 In the workplace and for consumer goods,
+additional safety has a price; market evidence is investigated to identify that price.51 The
+second kind of evidence comes from contingent valuation studies, asking people how
+48 Cf. Richard Dubourg &amp; David Pearce, Paradigms for Environmental Choice: Sustainability versus
+Optimality, in MODELS OF SUSTAINABLE DEVELOPMENT 21, 24 (Sylvie Faucheux et al. eds., 1996) (“For
+maximizing a single utility function . . . over infinite time cannot help but suggest that we are dealing with
+a single generation which exists forever, or even a single individual”).</p>
+        <p>49 Perhaps it should not be. But the objection to monetization as such is far more general than the
+objection to discounting, and we are focusing on the latter objection here.</p>
+        <p>50 See W. KIP VISCUSI, FATAL TRADEOFFS: PUBLIC AND PRIVATE RESPONSIBILITIES FOR RISK (1992).
+51 A valuable and comprehensive overview can be found in W. Kip Viscusi and Joseph E. Aldy, The
+Value of a Statistical Life: A Critical Review of Market Estimates Throughout the World, 27 J. RISK &amp;
+UNCERTAINTY 5 (2003).
+much they are willing to pay to reduce statistical risks.52 Both of these approaches are
+controversial, of course, and we do not mean to resolve the controversy here53; the use of
+the relevant figures grows out of the simple idea that people should not be forced to pay
+for risk protection they do not want.54</p>
+        <p>Currently, regulators use this evidence to calculate the amounts that people are
+willing to pay to avoid certain categories and levels of risk.55 The most frequently used
+calculation involves the “value of a statistical life” (VSL). Once an agency has identified
+the relevant studies, the calculation of VSL is a product of simple arithmetic. The EPA,
+for instance, relies on studies of actual workplace risk, attempting to determine how
+much workers are paid to assume mortality hazards.56 If workers must be paid $600, on
+average, to eliminate a risk of 1/10,000, the value of a statistical life would be said to be
+$6 million. It should be clear, however, that the very idea of valuing a statistical life is
+highly misleading; no one is “valuing life.” The real issue involves the valuation of
+statistical risks. It would be much more accurate to say that for risks of 1/10,000, the
+median monetary value in the relevant population is $600—or that for risks of 1/100,000,
+the median monetary value is $60.</p>
+        <p>Once regulatory benefits have been monetized in this way, regulators are no
+longer discounting actual risks to life or health; they are merely discounting the amounts
+of money that people are willing to pay to avoid those risks. In discounting these
+monetized regulatory benefits, regulators are doing nothing more controversial than
+discounting money. It is appropriate to discount the money that people will be willing to
+spend on refrigerators, automobiles, movies, books, education, and medicine; the same is
+true of the money that people are willing to spend to avoid risks. All money can be
+invested and made to grow; it is for this reason that $100 today is worth more than $100
+in 2020. To accept discounting for the Last Generation, there is no need to identify
+logical conundrums or implausible outcomes that seem to follow from a failure to
+discount. It is not necessary to embark on complex and disputed empirical studies about
+how people compare a health risk in 2020 to a health risk today. Only two steps are
+necessary: An appreciation of the theory that underlies current practice, and an
+understanding that what is being discounted, always, is money, and not life, health, or the
+environment as such.</p>
+        <p>Return in this light to the question of latent harms and suppose that for the Last
+Generation, it is necessary to assign monetary values to a risk that will come to fruition in
+of eliminating a risk of 1/100,000 in 2020, and if the answer, in 2020, will be $80, that
+amount must be subject to the appropriate discount rate for money—and hence the VSL
+of $8 million must be discounted too. The reason has nothing to do with discounting risks
+or health; it is that an expenditure of $8 million in 2020 is worth only a fraction of $8
+million today. Recall that $8 million in 2020 is worth some fraction of that figure now
+not for any exotic or theoretically contentious reason, but because the fraction can be
+invested and made to grow.</p>
+      </sec>
+      <sec id="sec-2-6">
+        <title>III. Counterarguments</title>
+        <p>How might this argument be resisted? It is correct to say that national wealth
+tends to increase over time, and hence people will likely be wealthier in 2020 than they
+now are. Because they will be wealthier, they will demand more to be subject to
+statistical risks. For this reason, use of the current VSL to calculate monetary amounts in
+the future likely produces unjustifiably low numbers.57 But these are not points against
+discounting. They simply suggest that the numbers that must be discounted are higher
+than regulators currently recognize. The proper analysis uses a multiplier for national
+income growth and other relevant factors, and applies a discount rate from that point.</p>
+        <p>57 See Revesz, supra note 7; Dora L. Costa &amp; Matthew E. Kahn, The Rising Price of Nonmarket
+Goods, 93 AM. ECON. REV. PAPERS &amp; PROC. 227, 229 tbl.1 (2003) (suggesting a likely current value of $12
+million). In the context of arsenic regulation, the EPA also noted in its sensitivity analysis that the
+appropriate adjustment would increase the VSL from $6.1 million to $6.7 million. National Primary
+Drinking Water Regulations; Arsenic and Clarifications to Compliance and New Source Contaminants
+Monitoring, 66 Fed. Reg. 6976, 7012 (Jan. 22, 2001) (codified at 40 C.F.R. pts. 9, 141, and 142). Note also
+that wealthier people might not merely be willing spend more because they are wealthier; certain goods,
+such as environmental protection, might be especially appealing to wealthier people, whose preferences and
+tastes might change as a result of their relative wealth.</p>
+        <p>Similarly, it might be objected that agencies are on fragile ground in using labor
+market studies to estimate VSL.58 Perhaps workers, accepting a $60 premium to face a
+risk of 1/100,000, are insufficiently informed or are subject to some form of coercion.
+Perhaps the proper premium is $70, or $100, or $200. If so, agency practice would have
+to change significantly; but discounting itself would be unaffected. What would be
+discounted would be the proper monetary amounts rather than the improper ones. So long
+as any monetary valuation is used, discounting generally follows. To repeat: When
+discounting occurs, it is money that is being discounted, not the goods to which monetary
+amounts are being assigned.</p>
+        <p>A separate objection would stress that in the future, technological, medical, and
+other changes will produce a range of improvements with respect to health, safety, and
+the environment. Harms that we now project, holding current practices constant, might
+well not materialize, simply because posterity will be in a position to prevent them. This
+objection is plausible in itself, but it is not a claim about discounting. It is true that
+regulators who are projecting future harms should attempt to make an accurate
+projection, and accuracy requires an appreciation of technological innovation. But a
+“probabilistic discount rate,”59 reflecting a judgment about such innovation, should not be
+confused with the issues of discounting on which we are focusing here.</p>
+        <p>A more ambitious counterargument would suggest that the monetary values of
+human beings are not the proper basis for valuing some regulatory benefits. Consider, for
+example, the continued existence of an endangered species, or the lives of wild horses
+and elephants. It is controversial (as it should be60) to say that endangered species and
+animals should be valued by aggregating people’s willingness to pay to protect them.
+What might be sought is a more deliberative judgment, based on the exchange of reasons
+that can be offered on behalf of one or another outcome.61 And perhaps the underlying
+concern could be generalized to a range of benefits and amenities. We should agree that
+there are many problems with the claim that all goods, including other living creatures,
+should be valued by aggregating private willingness to pay. But any method of valuation
+58 As argued in Ackerman Heinzerling, supra note 13; a general discussion can be found in Sunstein,
+supra note 54.</p>
+        <p>59 See Cowen &amp; Parfit, supra note 12, at 147.
+60 See ELIZABETH ANDERSON, VALUE IN ETHICS AND ECONOMICS (1993).
+61 See AMARTYA SEN, RATIONALITY AND FREEDOM 286-88 (2002).
+will necessarily include the explicit or implicit assignment of monetary values. So long as
+that assignment is made, discounting is generally appropriate, because no one doubts that
+it is appropriate to discount money.62</p>
+        <p>A final objection would ask some questions about the temporal distribution of the
+risks to be faced by the citizens of the Last Generation. Suppose that some citizens will
+face risks imminently, whereas others will face risks in a decade, and still others will face
+risks in twenty or even thirty years. It should be readily apparent that with discounting,
+imminent mortality risks will receive higher values than risks that will not materialize for
+many years, and that the same level and kind of risk will elicit a different regulatory
+expenditure, depending on when the risk will be faced. Is this wrong or unfair? The
+simplest answer assumes that each citizen pays, in full, for the relevant risk reduction.
+With that assumption, it should be clear that there is no error or unfairness. It is not unfair
+to believe that John will pay $50 to reduce an imminent risk of 1/100,000 while also
+assuming that Jane—or even John himself—will pay only some fraction of that amount
+to reduce a risk of 1/100,000 in thirty years. That belief follows from the fact that the
+monetary value of the future risk can and should be discounted.</p>
+        <p>But if each citizen will not pay, in full, for the relevant risk reduction, then the
+analysis cannot be so simple. When regulatory benefits are enjoyed by people who have
+not paid for them, regulations will have a distributional effect, and that effect should be
+taken into account.63 It is possible that cost-benefit analysis with discounting will create
+distributional problems even within the Last Generation.64 But as we shall now see, this is
+not a point about discounting as such, and it does not affect the analysis of discounting
+for the Last Generation.</p>
+        <p>62 Insofar as (future) animals are involved, however, some of the problems described in connection
+with future generations apply here as well.</p>
+        <p>63 This point is explored in Sunstein, supra note 54.</p>
+        <p>64 To say how this might occur, suppose that everyone in the Last Generation faces a statistical risk of
+1/100,000 – a risk that 30% of the population faces immediately, that 20% would face in ten years, that
+20% faces in twenty years, and that 30% faces in thirty years. Suppose that regulators aggregate and then
+discount the total cost, and proceed on the ground that the regulation is worthwhile. Suppose finally that
+every member of the Last Generation is asked to spend $30, right now, to eliminate the risk. It should be
+clear that those who benefit immediately are being subsidized by those who benefit in the future.</p>
+      </sec>
+      <sec id="sec-2-7">
+        <title>IV. Intergenerational Equity</title>
+      </sec>
+      <sec id="sec-2-8">
+        <title>A. The Basic Problem</title>
+        <p>The argument thus far has not explored the question of intergenerational equity.
+Of course the amounts spent by future generations involve money, and at first glance that
+money must be discounted, simply because it is money. But critics are correct to say that
+discounting might contribute to serious problems of intergenerational equity.65 The
+reason is that with discounting, a cost-benefit analysis can lead the current generation to
+impose extremely high costs on future generations, and such costs might be imposed
+without offering compensating benefits to the losers—leading to a net welfare loss, a
+serious distributional problem, or both.66 To be sure, people might well have a pure time
+preference for money, choosing one hundred dollars today over the financially equivalent
+sum in a year67; but a pure time preference on the part of those now living cannot justify a
+discount rate with respect to harms faced by people not yet born.68</p>
+        <p>It is possible, of course, that the current generation will effectively “pay off” the
+future generation, making it more than worthwhile for it to bear those costs; the problem
+of intergenerational equity would be appear to be resolved if future generations are in fact
+compensated for some risk because (for example) adequate sums of money have been
+invested for their eventual benefit.69 And the course of human history, with astounding
+improvements in wealth, health, and longevity, makes it plausible to suggest that
+something like this does happen over time.70 But there is no assurance that it will
+continue to occur, in general or for particular risks.71 It follows that in principle and all by
+itself, a cost-benefit analysis, based on discounting, can create genuine risks of both net
+welfare losses and distributional inequity.72
+65 See Revesz, supra note 7.
+66 See Portney &amp; Weyant, supra note 27, at 6 (emphasizing the distributional problem).
+67 As noted, a pure time preference is challenged as irrational in Cowen and Parfit, supra note 12, at
+155.</p>
+        <p>68 See Cowen &amp; Parfit, supra note 12, at 155.
+69 This statement raises a number of puzzles, to which we will return.</p>
+        <p>70 See Remarks of Vernon Smith, in GLOBAL CRISES, GLOBAL SOLUTIONS 630, 635 (Bjorn Lomborg
+ed. 2004); Remarks of Thomas Schelling, in id. at 627.</p>
+        <p>71 See POSNER, supra note 8, at 151-53; Robert C. Lind, Analysis for Intergenerational
+Decisionmaking, in DISCOUNTING AND INTERGENERATIONAL EQUITY, supra note 2, at 173, 176.</p>
+        <p>72 Baumol suggests that a low discount rate, or even a zero discount rate, might make sense in narrow
+circumstances, such as those in which the goal is to prevent environmental damage that is both irreversible</p>
+        <p>It is not at all clear, however, that a refusal to discount is the best way of reducing
+those risks. On the contrary, any such refusal might well harm members of future
+generations. Our primary submission is that the question of discounting should be
+separated from the question of obligations to future generations; it is not productive to
+collapse those two questions. If cost-benefit analysis with discounting imposes a serious
+loss on members of future generations, the current generation should be asked to fulfill
+whatever moral obligations it has. A refusal to discount is a crude and possibly even
+perverse way of doing that.</p>
+      </sec>
+      <sec id="sec-2-9">
+        <title>B. Methuselah, Paretoville, and Beyond</title>
+        <p>To see the relevant considerations, consider five problems. Of these, the fourth
+and fifth are most important, but they are best understood in light of those that precede
+them.</p>
+        <p>1. Methuselah. Suppose that society consists of only one person, who, it turns out,
+will live for a great many years, even centuries. Let us call him Methuselah. Suppose that
+Methuselah will face a set of health risks (by hypothesis, none of them fatal) over time.
+Suppose that each risk of concern—those that involve a significant malady—is in the
+vicinity of 1/100, and that Methuselah is willing to pay $3000 to eliminate each of these
+risks. On standard assumptions, it is fully appropriate to discount, by the appropriate
+amount, the monetary value of the relevant risks. If a 1/100 risk will be faced in 2020, it
+is worth not $3000, but $3000 discounted to present value. Methuselah can invest that
+discounted amount and watch it grow.73 Money is being discounted, not health—a
+restatement of our conclusion in Part II.</p>
+        <p>This conclusion might be questioned if Methuselah is seen as a series of selves
+extending over time and if an early self does not act as an appropriate agent for the later
+one.74 It is possible that Methuselah should be required to take steps to insure against
+serious harms in old age, especially if self-control problems loom large. But if we indulge
+and potentially catastrophic. See Baumol, supra note 8, at 801. In our view, this suggestion is best taken as
+an effort to ensure that future generations are not net losers from the actions of the current generation. On
+the particular problem, see Cass R. Sunstein, Irreversible and Catastrophic, CORNELL L. REV. (forthcoming
+2006).</p>
+        <p>73 By itself, this argument rejects Revesz’ claims about the appropriate treatment of latent harms.
+74 See Parfit, supra note 12.
+the not implausible assumption that Methuselah is a good agent for his later self,
+discounting is fully appropriate.</p>
+        <p>2. Paretoville. Suppose that everyone in a small town, Paretoville, faces a current
+risk of 1/100,000, and that every resident of Paretoville is willing to pay $50, but no
+more, to eliminate that risk. The mayor of Paretoville takes this figure very seriously, and
+decides not to eliminate risks of 1/100,000 if the cost of doing so is greater than $50.
+Under plausible assumptions, involving adequate information and sufficient rationality,75
+the mayor is properly using cost-benefit analysis in deciding how to proceed, and there is
+no objection from the standpoint of equity. The reason is that every member of
+Paretoville pays, in full, for risk reduction, and people should not be required to pay more
+than they wish unless there is a problem of inadequate information, bounded rationality,
+or harms to third parties.76</p>
+        <p>In some regulatory contexts, all three problems introduce serious complications77;
+but we are assuming that they are absent in Paretoville. For the citizens of Paretoville, the
+argument for discounting is straightforward.</p>
+        <p>3. Dirtyville and Cleanville in Kaldorhicksiana. Two towns, Dirtyville and
+Cleanville, are adjacent to one another in the large and somewhat messy state of
+Kaldorhicksiana. Dirtyville engages in polluting activity that produces $60 in benefits to
+each of its 100,000 citizens. That activity creates a risk of 1/100,000, faced by each of the
+100,000 citizens of Cleanville. Each citizen of Cleanville is willing to pay $50, but no
+more, to eliminate the risk of 1/100,000 caused by Dirtyville’s polluting activity. On
+costbenefit grounds, the polluting activity should be allowed; its value is $6 million, which is
+higher than its $5 million cost.</p>
+        <p>
+          But this problem is importantly different from problem (
+          <xref ref-type="bibr" rid="ref2">2</xref>
+          ), because there is a
+distributional issue: The citizens of Cleanville are uncompensated losers. If we were
+committed to economic efficiency, we would want the polluting activity to continue, but
+the distributional problem much complicates matters. And the problem may be worse
+still. Because monetized figures rather than direct measurements of welfare are involved,
+it is possible that the activity actually creates a net welfare loss, with the citizens of
+75 See Sunstein, supra note 54, for a detailed treatment.
+76 Id.
+77 Id.
+Cleanville losing more, in welfare terms, than the citizens of Dirtyville gain.78 Suppose,
+for instance, that the citizens of Cleanville are relatively poor, and hence their willingness
+to pay only $50 to eliminate a risk of 1/100,000 is consistent with the conclusion that
+they are facing a huge welfare loss from their subjection to that risk. The relatively small
+amount each citizen is willing to pay—$50—reflects their relative poverty, not a
+relatively small welfare loss. On plausible assumptions about the situation, the state of
+Kaldorhicksiana, containing these two towns, is not living up to its name, because the
+losers are not, in welfare terms, losing less than the winners gain.
+        </p>
+        <p>
+          The welfare question could be tested, and the problem could be made analytically
+equivalent to problem (
+          <xref ref-type="bibr" rid="ref2">2</xref>
+          ), if the citizens of Dirtyville could be forced to compensate
+those of Cleanville, through law or some process of bargaining. But let us suppose that
+this is not feasible. In that event, we cannot be sure whether the efficient solution is also
+the solution that promotes social welfare. An additional question, a familiar one in
+regulatory policy, is whether there should be some kind of equitable or distributional
+barrier to the use of cost-benefit balancing.79 If the citizens of Dirtyville are wealthy, and
+those of Cleanville are poor, the barrier might well be justified, at least if there is no
+mechanism by which the citizens of Cleanville can capture some of the benefits of the
+activity.
+        </p>
+        <p>4. Presentville and Futureville. Presentville engages in polluting activity that
+produces $60 in benefits to each of its 100,000 citizens. But the polluting activity does
+not harm citizens of Presentville or any other current place; instead it harms members of
+future generations. More particularly, the activity creates a risk that will materialize in
+one hundred years, in the town of Futureville—which, as it happens, is Presentville a
+century from now. In that time, the one million citizens of Futureville will face a death
+risk of 1/10,000—meaning that 100 people are expected to die. If the lives of the people
+of Futureville are valued at $8 million, it is clear that the polluting activity should stop,
+because $800 million is far greater than $6 million. But if money is discounted at an
+annual rate of 7%, each of their lives is worth only $581, and hence the polluting activity
+should continue, because $6 million is far greater than $58,100.</p>
+        <p>78 Matthew Adler &amp; Eric A. Posner, Implementing Cost-Benefit Analysis When Preferences Are
+Distorted, 29 J. LEGAL STUD. 146 (2000).</p>
+        <p>79 See Portney &amp; Weyant, supra note 27, at 6.</p>
+        <p>But on what premises does it make sense to refuse a $6 million (current)
+expenditure to save 100 future lives? If all the people of Presentville and Futureville were
+treated as a single person extending over time, then the case would be similar to
+Methuselah’s, and discounting would be appropriate. In that case, the various people
+would amount to just one person who could invest the relevant resources and use them
+later. And it is tempting to suppose that if there were an intergenerational negotiation
+between the people of Presentville and the people of Futureville, discounting would be
+part of a mutually beneficial trade.80 Here is the reason: The people of Presentville could
+agree not to squander or to consume the benefits they receive, but instead to invest a
+relevant sum and offer that amount to the people of Futureville, making them better off
+on balance. Those who emphasize the opportunity costs of investments as a reason for
+discounting, including OMB, implicitly appeal to the idea that future generations will in
+fact benefit from the investments that current generations make.81 Hence discounting
+might be seen as a part of a (hypothetical) mutually beneficial intergenerational
+negotiation.</p>
+        <p>But there are two problems with relying on that idea. The first is conceptual:
+What is the set of background entitlements against which this purely hypothetical
+negotiation is occurring? At first glance, the people of Presentville are literally dictators;
+they can decide to consume all existing resources, to ruin the environment, to impoverish
+posterity, even to remain childless and not create later generations at all. In the
+(hypothetical) negotiating process, are the people of Presentville permitted to threaten the
+(hypothetical) people of Futureville with nonexistence? If so, how much will Futureville
+be able to extract? If not, is this because hypothetical people have some entitlement to be
+permitted to exist? And if Presentville merely threatens Futureville with impoverishment
+and desperation, the people of Futureville will be in a singularly weak position to extract
+protection against (say) individual risks of 1/100,000. In short, the idea of a mutually
+beneficial deal raises serious conceptual difficulties. At the very least, it is necessary to
+identify some entitlements on the part of both Presentville and Futureville, setting the
+background against which they might bargain. To be plausible, any such specification
+will inevitably have to depend on an independent normative account of some kind, and
+that independent account, rather than a notion of intergenerational bargaining as such,
+will be doing the crucial work.82</p>
+        <p>
+          The second problem is pragmatic. Suppose, as is plausible, that there is no
+mechanism to ensure that any mutually beneficial bargain will be enforceable; the
+citizens of Presentville might simply consume their resources instead.83 To be sure, the
+problem could be solved with compensation, and the discounted value of the 100 future
+deaths should be used if Futureville will benefit from the investment of that sum. If so,
+the case would be quite similar to case (
+          <xref ref-type="bibr" rid="ref2">2</xref>
+          ) (back to Paretoville). But as we have noted,
+there is no assurance that this will be the case.84
+        </p>
+        <p>It should be clear that as a result of cost-benefit analysis with discounting, the
+problem of Presentville and Futureville has many features in common with that of
+Cleanville and Dirtyville. But the problem of Presentville and Futureville nonetheless
+raises distinct questions: What does the present owe the future? Is the present obliged to
+compensate the future for the injuries it causes? What can the idea of “compensation”
+mean in this context? We will shortly return to these questions.</p>
+        <p>5. Reality. Turn now to a more realistic example, involving global warming.85
+Suppose, as is plausible, that the primary victims of global warming will include poor
+people in India and Africa.86 Suppose that social planners concerned about global
+warming decide what to do by engaging in cost-benefit analysis and discounting the
+victims’ costs to present value. If so, such victims will not be much helped, because no
+one is planning to invest the discounted sum to create a fund to compensate them in the
+future. It is true that on an optimistic view, technological innovations might mean that
+what we see as likely deaths end up as mere illnesses (and perhaps minor illnesses at
+82 Hence Rawls rejects the idea of intergenerational bargaining in favor of a just savings principle; see
+below.</p>
+        <p>
+          83 See Portney &amp; Weyant, supra note 27, at 6; Lind, supra note 71, at 176-77; Cowen &amp; Parfit, supra
+note 12, at 151-52. Donohue, supra note 11, defends discounting on the ground that it “is appropriate in
+that, if invested, our resources are expected to grow at [the stated] rate, so that if we forego spending and
+invest the money instead, we can save more lives in the future with the amount foregone today.” Id. at
+1905. The problem with this argument is that it assumes that case (
+          <xref ref-type="bibr" rid="ref4">4</xref>
+          ) is the same as case (
+          <xref ref-type="bibr" rid="ref1">1</xref>
+          ) — that society
+is a kind of giant Methuselah, which it clearly is not.
+        </p>
+        <p>84 See Lind, supra note 71, at 176-77.
+85 See POSNER, supra note 8, at 151-52.</p>
+        <p>86 WILLIAM NORDHAUS &amp; JOSEPH BOYER, WARMING THE WORLD: ECONOMIC MODELS OF GLOBAL
+WARMING (2000).
+that). But this possibility does not justify discounting; it is instead an effort to deny that
+the anticipated harms will be as large as we project. If that number is inflated, then of
+course the analysis must change.</p>
+        <p>It is also true that future generations are likely to be wealthier than our own, and
+hence it might not make much sense for the relatively poor present to transfer resources
+to the relatively rich future.87 This would be a perverse form of redistribution. If future
+generations can be expected to be richer, that point must be part of the analysis of what
+equity requires. And if future generations can be expected to be richer, their anticipated
+wealth is produced by some combination of the efforts, investments, and altruism of their
+predecessors—a point that compounds the concern about perverse redistribution. But
+suppose, for example, that a relatively poor community is gaining $5 million as a result
+of activity that will cause 100 deaths in a relatively wealthier community. Is the activity
+justified merely because poorer people are obtaining the benefit, which by hypothesis is
+much smaller than the cost? That claim would be exceedingly difficult to defend. It is in
+this light that cost-benefit analysis with discounting can indeed produce serious problems
+across generations, including a net welfare loss and distributional unfairness.</p>
+        <p>Responding to concerns of this sort, Thomas Schelling argues that “[g]reenhouse
+gas abatement is a foreign aid program, not a saving-investment problem of the familiar
+kind.”88 For long-term problems, including global warming, it might be thought that the
+question is whether the current generation should provide “foreign aid” to posterity. And
+because posterity is likely to be wealthier than we are,89 there is a serious question
+whether such aid will or even should be provided. As Schelling suggests, citizens of the
+developed world are not now willing to make significant sacrifices to help people in poor
+nations; it would seem extremely unlikely that such citizens would be willing to make
+significant sacrifices to assist people in those same nations in the distant and probably
+less-poor future.90</p>
+        <p>But Schelling’s analogy runs into serious difficulties. In our example, Futureville
+is not merely a foreign country; it consists to a large extent of Presentville’s own
+87 See Schelling, supra note 70.</p>
+        <p>88 Thomas Schelling, Intergenerational Discounting, in DISCOUNTING AND INTERGENERATIONAL
+EQUITY, supra note 2, at 99, 100.</p>
+        <p>89 Id. at 100-101.
+90 Id. at 101.
+descendents, and the risks faced in Futureville are a direct result of Presentville’s
+actions—both plausible reasons to think that Futureville might have special obligations
+towards Presentville. The idea of “foreign aid” seems an exceedingly poor fit for
+problems like that of global warming, in which environmental and health risks in some
+Futureville are a product of actions undertaken knowingly (and perhaps negligently) by
+some Presentville. In that event, the present might well be seen to have committed a kind
+of tort on the future, and the argument for compensation is hardly a claim for some kind
+of subsidy, or “aid.”</p>
+        <p>To give a stark example, imagine that present generations plant a bomb that will
+explode in two centuries. Is this a violation of the obligation to provide “foreign aid”?
+Environmental problems are rarely bombs, for they are not created with malice or any
+kind of self-consciously destructive goal; but if they result from activities that are
+projected to create risks, they must be analyzed in the general terms of tort law. This
+point has important implications for global warming. The risks, faced above all by poor
+nations, are a result of actions from which wealthier nations have benefited.</p>
+        <p>C. Not Discounting as a Crude Response to the Intergenerational Problem
+1. Discounting and moral obligations to posterity. Suppose that those of us in the
+present generation believes that we have moral obligations to our successors, either
+because those successors will be our children’s children, or because whoever they are,
+they will be injured by our actions. The key point—what we seek to emphasize here—is
+that refusing to discount is not a good way of fulfilling these obligations.91 Indeed, any
+such refusal might well hurt posterity. The moral obligation is best discharged not by a
+zero discount rate, but by asking the current generation to ask more directly about what it
+is morally obliged to do.</p>
+        <p>91 As argued in Samida, supra note 80; see also Cowen &amp; Parfit, supra note 12, at 158-59, for the brief
+suggestion that while remoteness in time is not a reason to care less about social harms, it might make
+sense to take account of the possibility that “it would be cheaper now to ensure compensation.” William D.
+Nordhaus, Discounting and Public Policies That Affect the Distant Future, in DISCOUNTING AND
+INTERGENERATIONAL EQUITY, supra note 2, at 145, provides a powerful argument against responding to
+the ethically unacceptable consequences of cost-benefit analysis by altering discount rates, on the view that
+“ad hoc manipulation of discount rates is a very poor substitute for policies that focus directly on the
+ultimate objective.”</p>
+        <p>A refusal to discount, often justified as a way of assisting the future,92 is a
+singularly crude way of attempting to fulfill any obligation to future generations. The
+consequence of refusing to discount might well be to reduce investments, economic and
+otherwise, that will lead to long-term prosperity. If so, then discounting is hardly helpful
+to future generations, which greatly benefit from economic growth, not least because
+growth can lead increase the amounts spent on environmental protection. Alternatively, a
+refusal to discount might well result in the postponement of protective programs,
+environmental and otherwise.93 In that event as well, the future is to that extent hurt
+rather than helped.94 Our simple point is this: The moral obligations of current
+generations should be uncoupled from the question of discounting, because refusing to
+discount is not an effective way of ensuring that those obligations are fulfilled. The moral
+issues should be investigated directly, and they should be disentangled from the practice
+of discounting.</p>
+        <p>2. Theory. We have argued that future generations might well have a legitimate
+complaint if current generations follow the path indicated by cost-benefit analysis with
+discounting. But what kind of complaint do they have? To answer that question, it is
+necessary to say something about the nature of intergenerational equity.</p>
+        <p>It is tempting to think of ethical obligations in compensatory terms, as in the idea
+that ethical obligations are satisfied if the present can make it worthwhile for future
+generations to run the risks to which it subjects them. But this idea turns out to be a false
+start, because it is hard to know what the idea of compensation means in this context.
+Must the present compensate the future for each particular risk? That conclusion would
+be implausible; surely it would be acceptable to impose a risk of 1/100,000 on ten million
+future people if the very step that imposes that risk also eliminates a 1/10,000 risk that
+would be faced by one hundred million future people (including the ten million future
+people subjected to the new 1/100,000 risk). At first glance, then, the goal should be to
+produce an overall “risk package” for which adequate compensation has been paid. But to
+what, exactly, is this overall risk package being compared? To a situation in which future
+generations face extreme poverty and catastrophic global warming? To a situation in
+92 See Revesz, supra note 7, at 987-1007; Ackerman &amp; Heinzerling, supra note 13.
+93 See Keeler &amp; Cretin, supra note 21.
+94 See id.
+which future generations do not exist at all? Do members of future generations have
+rights to exist? These questions are closely connected with the difficulty of specifying the
+background entitlements against which any hypothetical bargaining occurs.95</p>
+        <p>In short, it is necessary to specify the baseline against which any “compensation”
+must be paid, and the real moral work is being done by that baseline, not by the idea of
+compensation. The relevant baseline must consist of a more general account of the ethical
+obligations owed by the present to the future.96 Some people believe that current
+generations are obliged not to make the environment worse than it is today.97 On this
+view, current generations are environmental trustees; as such, they must adhere to a kind
+of environmental nondegradation principle. But there is a problem with this position,
+which is its selective focus on environmental quality. Suppose that the current generation
+sacrifices a pristine area, or a remote island, but that as a direct result of that action, it is
+able to confer significant economic and even environmental benefits on posterity. Is it so
+clear that the sacrifice is morally unacceptable?</p>
+        <p>John Rawls emphasizes a more promising approach, embodied in a “just savings”
+principle, to be chosen by people behind a veil of ignorance in which “they do not know
+to which generation they belong or, what comes to the same thing, the stage of
+civilization of their society.”98 For Rawls, the key point is the extension of the device of
+the veil of ignorance to the intergenerational question. What approach would people
+95 Note too that Rawls’s just savings principle would be satisfied by less than full compensation. The
+reason is that it is possible to imagine, without full compensation for risks, a system of savings that will
+bring “about the full realization of just institutions and the equal liberties,” with particular reference to the
+“standpoint of the least advantaged of each generation.” JOHN RAWLS, POLITICAL LIBERALISM 287-88
+(1993). Indeed, it is possible to imagine situations in which full compensation might well be too
+demanding. Suppose, for example, that the result of full compensation would be to impoverish the most
+disadvantaged members of the current generation, in order to ensure compensation to the already-wealthy
+members of future generations. Current generations might, in principle, be able to claim that full
+compensation is not necessary when the distributive consequences are perverse. In fact, this claim raises
+some causal and even conceptual difficulties: If future generations are significantly wealthier than past
+generations, their wealth is partly attributable to the actions and omissions of their predecessors; once the
+causal chains have been sorted out, we might well conclude that adequate compensation has been paid for
+any risks, taken not separately but as a whole.</p>
+        <p>96 For an influential view, see JOHN RAWLS, A THEORY OF JUSTICE 251-58 (revised ed. 1999); for a
+helpful overview, see Lukas Meyer, Intergenerational Justice, THE STANFORD ENCYCLOPEDIA OF
+PHILOSOPHY (Edward N. Zalta ed. Summer 2003 ed.), available at
+http://plato.stanford.edu/archives/sum2003/entries/justice-intergenerational/.</p>
+        <p>97 Edith Brown Weiss, Intergenerational Equity: A Legal Framework for Global Environmental
+Change, in ENVIRONMENTAL CHANGE AND INTERNATIONAL LAW: NEW CHALLENGES AND DIMENSIONS 385
+(Edith Brown Weiss ed. 1991).</p>
+        <p>98 RAWLS, supra note 96, at 254.
+select if they were unaware of the generation in which they will find themselves? Rawls
+also contends that his conception of justice as fairness ought to inform choices behind the
+veil. What is required, on his view, is a system of savings that will bring “about the full
+realization of just institutions and the equal liberties,”99 with close attention to the
+“standpoint of the least advantaged of each generation.”100 Under this approach,
+costbenefit analysis with discounting is morally problematic if it leads to decisions that (for
+example) greatly injure the most disadvantaged members of future societies. The proper
+response would be to take steps to conform to the just savings principle, chosen behind
+the veil of ignorance.</p>
+        <p>On this view, for example, it would be unacceptable to refuse to take steps to
+protect against global warming if the refusal meant that the least advantaged members of
+future generations would suffer hardship well beyond that of the least advantaged
+members of the current generation. On the other hand the current generation would not be
+required to take protective measures that would produce extreme hardship for its own
+least advantaged members, at least if that hardship would exceed what is anticipated for
+the least advantaged members of future societies. And indeed, some debates over global
+warming devote attention to issues of exactly this sort.101</p>
+        <p>In a later treatment, Rawls contends that it is unhelpful to “imagine a
+(hypothetical and nonhistorical) direct agreement between all generations.”102 Instead the
+parties, behind the veil of ignorance, might be “required to agree to a savings principle
+subject to the further condition that they must want all previous generations to have
+followed it.”103 This savings principle, thus understood, has the advantage of treating all
+generations the same, thus protecting against the dual problems of impoverishing the
+present and impoverishing the future. Here as well, an approach that harmed the most
+disadvantaged members of current generations for the sake of the future would be
+disfavored, and a key question would be whether that approach was necessary to protect
+99 Id. at 257.
+100 Id. at 258.
+101 See INDUR GOKLANY, THE PRECAUTIONARY PRINCIPLE (2002).
+102 RAWLS, supra note 93, at 274.
+103 Id.
+the most disadvantaged members of future generations from still greater harm (as, on a
+pessimistic view, is the case of emissions of greenhouse gases104).</p>
+        <p>Rawls’ own approach, emphasizing equal liberties and the least advantaged
+members of society, is not utilitarian or welfarist; it builds on his idea of justice as
+fairness. But it would be easy to adapt the idea of a veil of ignorance for utilitarian or
+welfarist purposes. From the welfarist point of view, the goal should be to maximize
+welfare over time. Welfarists would want current generations to give members of future
+generations the same moral weight that they give to existing people. Hence the current
+generation violates its ethical responsibilities if it engages in projects that lead to net
+welfare losses, measured after including the interests of all generations.105 If existing
+practice produce significant long-term environmental harm, in a way that lead to serious
+health risks for posterity, the current generation is violating its duties.</p>
+        <p>We believe that the idea of a veil of ignorance is both helpful and appealing, and
+that it points in the right directions for thinking about intergenerational equity. But our
+aim here is to sketch rather than to solve that problem. Our simple point is that behind the
+veil, a refusal to discount would not be chosen, because the refusal would often hurt
+future generations as well as the current one. Whatever the proper approach to
+intergenerational equity, the debate over that issue should be separated from the debate
+over discounting, and the former debate should be engaged directly.</p>
+        <p>3. Conclusions. Some simple conclusions follow from this analysis. Cost-benefit
+analysis with discounting can produce serious distributional problems, and can easily lead
+to a net welfare loss. The proper response is to take steps to ensure that present
+generations do not violate their obligations to posterity. On an optimistic view, no special
+steps are necessary. Some combination of market forces and ordinary altruism tends to
+ensure that those who come later are, in all relevant respects, significantly better off than
+those who came before.106</p>
+        <p>But perhaps the optimistic view is unrealistic for some problems, such as global
+warming. Suppose that global warming imposes truly catastrophic losses on the world as
+104 See POSNER, supra note 8.</p>
+        <p>105 We are putting to one side the question whether the focus should be on average welfare or total
+welfare; an emphasis on total welfare seems to lead to the puzzling suggestion that it is important to ensure
+that there are as many people as possible. See Parfit, supra note.</p>
+        <p>106 See Schelling, supra note 88; Schelling, supra note 70.
+a whole, or at least on the most vulnerable members of the most vulnerable nations.107
+Even if the losses from global warming are not catastrophic, it would be surprising if the
+gains from refusing to spend money on greenhouse gas emissions turned out to protect
+those who are most likely to suffer as a result of greenhouse gas emissions. When the
+optimistic view fails, the current generation is obliged take self-conscious steps to protect
+its successors. Our goal is not to specify the mechanisms by which the current generation
+fulfills that obligation, but to suggest that whether or not the optimistic view is right, a
+refusal to discount is not the appropriate response to the risk of intergenerational inequity.</p>
+      </sec>
+      <sec id="sec-2-10">
+        <title>D. A Note on Sustainable Development</title>
+        <p>In recent years, a great deal of attention has been devoted to the topic of
+“sustainable development,” an idea that has considerable force in international law.108
+Unfortunately, the idea of sustainability remains poorly defined. An influential report
+suggests that development is sustainable if it “meets the needs of the present without
+compromising the ability of future generations to meet their own needs.”109 Implicitly
+using a framework not unlike Rawls’, Robert Solow defines sustainability to require each
+generation to have the capacity to attain the same levels of welfare as those that preceded
+it.110 For the environmental context, Solow contends that this definition means that
+nonrenewable resources must be used so as not to make it impossible for future
+generations to acquire the same standard of living.111 Edith Brown Weiss argues that each
+generation has a duty not to make the environmental quality of the planet worse and also
+to preserve the essential options available to future generations.112</p>
+        <p>Each of these specifications is contentious, for reasons that should be clear from
+the discussion thus far. But if the idea of sustainable development is designed to require
+present generations to pay attention to the interests of those who will follow, it points in
+107 See POSNER, supra note 8, at 43-58.</p>
+        <p>108 See Revesz, supra note 7, at 1009-1014; SUSTAINABLE DEVELOPMENT (Julian Morris ed. 2002);
+MODELS OF SUSTAINABLE DEVELOPMENT (Sylvie Faucheux et al. eds., 1996).</p>
+        <p>109 See WORLD COMMISSION ON ENVIRONMENT AND DEVELOPMENT, OUR COMMON FUTURE 43 (1987).
+110 Robert Solow, An Almost Practical Step Toward Sustainability, 19 RESOURCES POL’Y 162 (1993).
+111 Id.</p>
+        <p>112 Edith Brown Weiss, Intergenerational Equity: A Legal Framework for Global Environmental
+Change, in ENVIRONMENTAL CHANGE AND INTERNATIONAL LAW: NEW CHALLENGES AND DIMENSIONS 385
+(Edith Brown Weiss ed. 1991). Brown’s account, like Solow’s, goes well beyond what is required by
+Rawls’s just savings principle. On the relevance of options, see Sunstein, supra note 72.
+the right directions and should have considerable practical importance. Of course most
+people are willing to sacrifice their own well-being for the benefit of their children; and
+as we have noted, the arc of human history suggests that the standard of living increases
+over time in any case. But for some goods, including some environmental amenities,
+long-term losses are possible unless steps are self-consciously taken to avoid them; and
+depletion of the ozone layer, threats to endangered species, and global warming threaten
+to impose large-scale risks on posterity.113</p>
+        <p>To the extent that the idea of sustainable development is meant to require a
+specific policy of preserving environmental goods, it offers a valuable reminder that
+current actions can produce short-run economic benefits while also creating long-term
+environmental problems. The reminder is especially important in the face of potentially
+irreversible environmental change.114 But environmental protection can burden the future
+too, especially if it is extremely costly, and there is no abstract reason to believe that
+preserving a particular environmental amenity (a forest, a lake) is always better for
+posterity than other investments that do not involve the environment in particular
+(expenditures on basic research, reductions in national debt). The appropriate conclusion
+is that an emphasis on sustainable development must be taken as a placeholder for a set of
+conclusions, requiring
+specification
+and independent justification, about
+what
+intergenerational equity requires.</p>
+      </sec>
+      <sec id="sec-2-11">
+        <title>E. Implications</title>
+        <p>What are the implications for reviewing courts and for regulatory practice? The
+question of judicial review is the easiest to handle. Courts are correct to require some
+kind of rationale for any particular discount rate (including a discount rate of zero).115 An
+implausibly high discount rate (say, 10%) would have to be explained, as would an
+implausibly low one (say, 1%). But the great complexity of the underlying issues, and the
+continued existence of reasonable disagreement, argue for a cautious judicial role,
+113 POSNER, supra note 8; WILLIAM NORDHAUS &amp; JOSEPH BOYER, WARMING THE WORLD: ECONOMIC
+MODELS OF GLOBAL WARMING (2000).</p>
+        <p>114 See POSNER, supra note 8, at 162; Kenneth Arrow, Discounting, Morality, and Gaming, in
+DISCOUNTING AND INTERGENERATIONAL EQUITY, supra note 2, at 17-20; Sunstein, supra note 72.</p>
+        <p>115 Natural Resources Defense Council, Inc v. Herrington, 768 F.2d 1355, 1410-14 (D.C. Cir. 1985);
+Northern California Power Agency v. FERC, 37 F.3d 1517 (D.C. Cir. 1994).
+especially because of the risk that judicial invalidations will simply stall desirable
+regulation.116 Of course extreme cases can be imagined.117 Suppose that an agency
+refuses to discount the monetary value of health and safety benefits at all. If so, it would
+be reasonable to rule that the agency’s refusal is arbitrary, and perhaps any resulting
+regulation should be struck down if the refusal to discount is responsible for its content.
+Under current circumstances, a discount rate of 10% would be extremely difficult to
+defend. But across a wide range of agency choices, judicial deference is the best general
+orientation.</p>
+        <p>Our discussion provides considerable support for OMB’s general posture of
+requiring the same discount rate for all costs and benefits.118 It does so not on the basis of
+OMB’s unruly and complex rationale,119 but on the ground that for latent harms, what is
+being discounted is money, and not risks to life and health as such. To the extent that
+regulations will mostly affect currently living people, a uniform discount rate is fully
+appropriate. Unfortunately, agencies have not always followed OMB’s guidance with
+respect to discount rates.120 On this issue, at least, they ought to so do.</p>
+        <p>The analysis must be more complicated when planners are affecting the welfare of
+future generations—as, for example, in the assessments of values associated with
+protection against global warming. It is standard to use a uniform discount rate for such
+values.121 Nothing said here suggests that the standard practice is wrong. But we have
+emphasized that for such problems as global warming, cost-benefit analysis with the
+usual discount rate can produce both welfare losses and serious unfairness.122 In this
+context, social planners should not base their decisions solely on such analysis with
+discounting; any judgments about appropriate regulation must include steps that will
+fulfill the present generation’s moral obligations to the future. For global warming, a
+separate international fund, provided mostly by wealthy nations and accompanying
+116 See JERRY MASHAW &amp; DAVID HARFST, THE STRUGGLE FOR AUTO SAFETY (1990).
+117 The cost-benefit analysis for arsenic is an example. See supra note 57.
+118 See supra.
+119 See supra.</p>
+        <p>120 See Morrison, Comment, supra note 5. We have not attempted to identify the appropriate discount
+rate, and hence have not taken a position on the two options suggested by OMB: 7% and 3%. The most
+careful analyses argue in favor of the lower figure. See, e.g., Arrow, supra note 114.</p>
+        <p>121 See, e.g., NORDHAUS &amp; BOYER, supra note 113.
+122 See POSNER, supra note 8, at 151-52.
+reductions in greenhouse gases, may well be a place to start. Such a fund could be used to
+promote further reductions and also to help nations that most suffer from global
+warming—by, for example, furnishing technological assistance to facilitate adaptations to
+hotter climates. Of course it is possible that the feasible steps to assist adaptation would
+not be adequate, and that prevention is therefore preferable.</p>
+      </sec>
+      <sec id="sec-2-12">
+        <title>Conclusion</title>
+        <p>The debate over discounting regulatory benefits has become both vigorous and
+exceedingly complicated. In our view, both advocates and critics of discounting have
+missed a central point. So long as monetary values are assigned to the relevant variables,
+it is only money, and not any variable as such, that is being discounted. If a discount rate
+is properly applied to money, it is properly applied to the money that public or private
+actors are willing to devote to regulatory benefits. There is no need for a separate
+assessment of the discount rate applied to “latent harms.” What is being discounted is the
+money that is used to combat those harms.</p>
+        <p>In many respects, current valuations may be too low—perhaps because they do
+not consider national income growth, perhaps because cancer risks deserve particular
+attention,123 perhaps because they do not include the valuations of those whose friends
+and family members are at risk.124 But as a general rule, it should not be controversial to
+apply the monetary discount rate to monetized regulatory benefits, simply because no one
+doubts that money should be discounted.</p>
+        <p>It is true that cost-benefit analysis with discounting, no less than cost-benefit
+analysis of any kind, can produce a net welfare loss, significant distributional difficulties,
+or both. For this reason, decisions based on that form of analysis can create severe ethical
+problems. But a refusal to discount might well fail to solve those problems. It may even
+123 See James K. Hammitt &amp; Jin-Tan Liu, Effects of Disease Type and Latency on the Value of
+Mortality Risk, 28 J. RISK &amp; UNCERTAINTY 73, 80 (2004) (“The value of preventing a fatal cancer is often
+considered to be greater than the value of preventing a fatal trauma in a workplace or transportation
+accident.”); Revesz, supra note 7. Some people, however, have expressed skepticism about the argument
+for adjustments. See EPA, An SAB Report on EPA's White Paper Valuing the Benefits of Fatal Cancer
+Risk Reduction (2000), available at http://www.epa.gov/science1/pdf/eeacf013.pdf (last visited May 6,
+2004) ("[T]he Committee does not believe that the current literature supports adjustments to the VSL for
+differences in age, health status, or risk aversion.").</p>
+        <p>124 See Eric A. Posner &amp; Cass R. Sunstein, Dollars and Death, U. CHI. L. REV. (forthcoming 2005).
+aggravate them, either by impoverishing the present (to the detriment of the future) or by
+requiring the delay of life-saving programs (also to the detriment of the future). Current
+generations do owe moral duties to posterity, and it is important to prevent actions that
+impose serious losses on those who will follow. We have suggested that the idea of a veil
+of ignorance is the appropriate foundation for thinking
+about the
+problem
+intergenerational equity. But that problem should be engaged directly; it should not be
+conflated with the question of discounting.  
+Professor Cass Sunstein
+University of Chicago Law School
+1111 East 60th Street
+Chicago, IL 60637
+csunstei@uchicago.edu 
+2. 
+William M. Landes, Copyright Protection of Letters, Diaries and Other Unpublished Works: An 
+Economic Approach (July 1991) 
+Richard A. Epstein, The Path to The T. J. Hooper: The Theory and History of Custom in the Law of 
+Tort (August 1991) 
+Cass R. Sunstein, On Property and Constitutionalism (September 1991) 
+Richard A. Posner, Blackmail, Privacy, and Freedom of Contract (February 1992) 
+Randal C. Picker, Security Interests, Misbehavior, and Common Pools (February 1992) 
+Tomas J. Philipson &amp; Richard A. Posner, Optimal Regulation of AIDS (April 1992) 
+Douglas G. Baird, Revisiting Auctions in Chapter 11 (April 1992) 
+William M. Landes, Sequential versus Unitary Trials: An Economic Analysis (July 1992) 
+William M. Landes &amp; Richard A. Posner, The Influence of Economics on Law: A Quantitative Study 
+(August 1992) 
+Alan O. Sykes, The Welfare Economics of Immigration Law: A Theoretical Survey With An 
+Analysis of U.S. Policy (September 1992) 
+Douglas G. Baird, 1992 Katz Lecture: Reconstructing Contracts (November 1992) 
+Gary S. Becker, The Economic Way of Looking at Life (January 1993) 
+J. Mark Ramseyer, Credibly Committing to Efficiency Wages: Cotton Spinning Cartels in Imperial 
+Japan (March 1993) 
+Cass R. Sunstein, Endogenous Preferences, Environmental Law (April 1993) 
+Richard A. Posner, What Do Judges and Justices Maximize? (The Same Thing Everyone Else Does) 
+(April 1993) 
+Lucian Arye Bebchuk and Randal C. Picker, Bankruptcy Rules, Managerial Entrenchment, and 
+Firm‐Specific Human Capital (August 1993) 
+J. Mark Ramseyer, Explicit Reasons for Implicit Contracts: The Legal Logic to the Japanese Main 
+Bank System (August 1993) 
+William M. Landes and Richard A. Posner, The Economics of Anticipatory Adjudication 
+(September 1993) 
+Kenneth W. Dam, The Economic Underpinnings of Patent Law (September 1993) 
+Alan O. Sykes, An Introduction to Regression Analysis (October 1993) 
+Richard A. Epstein, The Ubiquity of the Benefit Principle (March 1994) 
+Randal C. Picker, An Introduction to Game Theory and the Law (June 1994) 
+William M. Landes, Counterclaims: An Economic Analysis (June 1994) 
+J. Mark Ramseyer, The Market for Children: Evidence from Early Modern Japan (August 1994) 
+Robert H. Gertner and Geoffrey P. Miller, Settlement Escrows (August 1994) 
+Kenneth W. Dam, Some Economic Considerations in the Intellectual Property Protection of 
+Software (August 1994) 
+Cass R. Sunstein, Rules and Rulelessness, (October 1994) 
+David Friedman, More Justice for Less Money: A Step Beyond Cimino (December 1994) 
+Daniel Shaviro, Budget Deficits and the Intergenerational Distribution of Lifetime Consumption 
+(January 1995) 
+Douglas G. Baird, The Law and Economics of Contract Damages (February 1995) 
+Daniel Kessler, Thomas Meites, and Geoffrey P. Miller, Explaining Deviations from the Fifty 
+Percent Rule: A Multimodal Approach to the Selection of Cases for Litigation (March 1995) 
+Geoffrey P. Miller, Das Kapital: Solvency Regulation of the American Business Enterprise (April 
+1995) 
+Richard Craswell, Freedom of Contract (August 1995) 
+J. Mark Ramseyer, Public Choice (November 1995) 
+Kenneth W. Dam, Intellectual Property in an Age of Software and Biotechnology (November 1995) 
+Cass R. Sunstein, Social Norms and Social Roles (January 1996) 
+37. </p>
+        <p>David A. Weisbach, Measurement and Tax Depreciation Policy: The Case of Short‐Term Assets 
+(January 2003) 
+Randal C. Picker, Understanding Statutory Bundles: Does the Sherman Act Come with the 1996 
+Telecommunications Act? (January 2003) 
+Douglas Lichtman and Randal C. Picker, Entry Policy in Local Telecommunications: Iowa Utilities 
+and Verizon (January 2003) 
+William Landes and Douglas Lichtman, Indirect Liability for Copyright Infringement: An Economic 
+Perspective (February 2003) 
+Cass R. Sunstein, Moral Heuristics (March 2003) 
+Amitai Aviram, Regulation by Networks (March 2003) 
+Richard A. Epstein, Class Actions: Aggregation, Amplification and Distortion (April 2003) 
+Richard A. Epstein, The “Necessary” History of Property and Liberty (April 2003) 
+Eric A. Posner, Transfer Regulations and Cost‐Effectiveness Analysis (April 2003) 
+Cass R. Sunstein and Richard H. Thaler, Libertarian Paternalizm Is Not an Oxymoron (May 2003) 
+Alan O. Sykes, The Economics of WTO Rules on Subsidies and Countervailing Measures (May 
+2003) 
+Alan O. Sykes, The Safeguards Mess: A Critique of WTO Jurisprudence (May 2003) 
+Alan O. Sykes, International Trade and Human Rights: An Economic Perspective (May 2003) 
+Saul Levmore and Kyle Logue, Insuring against Terrorism—and Crime (June 2003) 
+Richard A. Epstein, Trade Secrets as Private Property: Their Constitutional Protection (June 2003) 
+Cass R. Sunstein, Lives, Life‐Years, and Willingness to Pay (June 2003) 
+Amitai Aviram, The Paradox of Spontaneous Formation of Private Legal Systems (July 2003) 
+Robert Cooter and Ariel Porat, Decreasing Liability Contracts (July 2003) 
+David A. Weisbach and Jacob Nussim, The Integration of Tax and Spending Programs (September 
+2003) 
+William L. Meadow, Anthony Bell, and Cass R. Sunstein, Statistics, Not Memories: What Was the 
+Standard of Care for Administering Antenatal Steroids to Women in Preterm Labor between 1985 
+and 2000? (September 2003) 
+Cass R. Sunstein, What Did Lawrence Hold? Of Autonomy, Desuetude, Sexuality, and Marriage 
+(September 2003) 
+Randal C. Picker, The Digital Video Recorder: Unbundling Advertising and Content (September 
+2003) 
+Cass R. Sunstein, David Schkade, and Lisa Michelle Ellman, Ideological Voting on Federal Courts 
+of Appeals: A Preliminary Investigation (September 2003)  
+Avraham D. Tabbach, The Effects of Taxation on Income Producing Crimes with Variable Leisure 
+Time (October 2003) 
+Douglas Lichtman, Rethinking Prosecution History Estoppel (October 2003) 
+Douglas G. Baird and Robert K. Rasmussen, Chapter 11 at Twilight (October 2003) 
+David A. Weisbach, Corporate Tax Avoidance (January 2004) 
+David A. Weisbach, The (Non)Taxation of Risk (January 2004) 
+Richard A. Epstein, Liberty versus Property? Cracks in the Foundations of Copyright Law (April 
+2004) 
+Lior Jacob Strahilevitz, The Right to Destroy (January 2004) 
+Eric A. Posner and John C. Yoo, A Theory of International Adjudication (February 2004) 
+Cass R. Sunstein, Are Poor People Worth Less Than Rich People? Disaggregating the Value of 
+Statistical Lives (February 2004) 
+Richard A. Epstein, Disparities and Discrimination in Health Care Coverage; A Critique of the 
+Institute of Medicine Study (March 2004) 
+Richard A. Epstein and Bruce N. Kuhlik, Navigating the Anticommons for Pharmaceutical Patents: 
+Steady the Course on Hatch‐Waxman (March 2004) 
+Richard A. Esptein, The Optimal Complexity of Legal Rules (April 2004) 
+Eric A. Posner and Alan O. Sykes, Optimal War and Jus Ad Bellum (April 2004) 
+Alan O. Sykes, The Persistent Puzzles of Safeguards: Lessons from the Steel Dispute (May 2004) 
+213. </p>
+      </sec>
+    </sec>
+  </body><script/>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          1
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Michael</surname>
+          </string-name>
+          <string-name>
+            <surname>Gerrard</surname>
+          </string-name>
+          ,
+          <source>Demons and Angels in Hazardous Waste Regulation</source>
+          ,
+          <volume>92</volume>
+          Nw. U. L. Rev.
+          <volume>706</volume>
+          ,
+          <fpage>742</fpage>
+          -
+          <lpage>43</lpage>
+          (
+          <year>1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>2 See Martin L. Weitzman</surname>
+          </string-name>
+          , “Just Keeping Discounting, But . . .”,
+          <source>in DISCOUNTING AND INTERGENERATIONAL EQUITY</source>
+          <volume>23</volume>
+          (
+          <string-name>
+            <surname>Paul</surname>
+            <given-names>R.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Portney</surname>
+          </string-name>
+          &amp; John P. Weyant eds.,
+          <year>1999</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <article-title>3 For the 7% rate, see Office of Management and Budget, Benefit-Cost Analysis of Federal Programs</article-title>
+          ,
+          <volume>57</volume>
+          Fed. Reg. at
+          <volume>53</volume>
+          ,520 (Nov. 10,
+          <year>1992</year>
+          )
+          <article-title>; for a more recent suggestion that agencies use both 3% and 7%, see</article-title>
+          <source>Circular A-4</source>
+          ,
+          <fpage>33</fpage>
+          -
+          <lpage>34</lpage>
+          (
+          <issue>September</issue>
+          ,
+          <year>2003</year>
+          ), available at http://www.whitehouse.gov/omb/inforeg/regpol.html (last
+          <source>visited June 6</source>
+          ,
+          <year>2005</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          4 See Richard W. Parker, Grading the Government, 70
+          <string-name>
+            <given-names>U.</given-names>
+            <surname>CHI. L. REV</surname>
+          </string-name>
+          .
+          <volume>1345</volume>
+          ,
+          <issue>1373</issue>
+          (
+          <year>2003</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>5 See Edward R. Morrison</surname>
+          </string-name>
+          , Comment,
+          <source>Judicial Review of Discount Rates Used in Regulatory CostBenefit Analysis</source>
+          , 65
+          <string-name>
+            <given-names>U.</given-names>
+            <surname>CHI. L. REV</surname>
+          </string-name>
+          .
+          <volume>1333</volume>
+          (
+          <year>1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>6 Id. at 1337.</mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          7 Valuable treatments include Richard Revesz, Environmental Regulation,
+          <string-name>
+            <surname>Cost-Benefit Analysis</surname>
+          </string-name>
+          ,
+          <source>and the Discounting of Human Lives</source>
+          ,
+          <volume>99</volume>
+          COL. L. REV.
+          <volume>941</volume>
+          (
+          <year>1999</year>
+          ); Morrison, Comment,
+          <source>supra note 5.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <article-title>8 We do not attempt to specify the appropriate monetary discount rate. For discussion, see DISCOUNTING AND INTERGENERATIONAL EQUITY, supra note 2; RICHARD A. POSNER, CATASTROPHE: RISK</article-title>
+          AND RESPONSE 150-
+          <fpage>55</fpage>
+          (
+          <year>2004</year>
+          ); Daniel Farber &amp;
+          <article-title>Paul A. Hemmersbaugh, The Shadow of the Future: Discount Rates, Later Generations, and</article-title>
+          the Environment,
+          <volume>46</volume>
+          VAND. L. REV.
+          <volume>267</volume>
+          (
+          <year>1993</year>
+          ); William J.
+          <string-name>
+            <surname>Baumol</surname>
+          </string-name>
+          ,
+          <source>On the Social Rate of Discount, 58 AM. ECON. REV</source>
+          .
+          <volume>788</volume>
+          (
+          <year>1968</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          9
+          <string-name>
+            <given-names>Corrosion</given-names>
+            <surname>Proof</surname>
+          </string-name>
+          <article-title>Fittings v</article-title>
+          .
+          <source>EPA</source>
+          ,
+          <volume>947</volume>
+          F.2d
+          <volume>1201</volume>
+          (
+          <issue>5th</issue>
+          <year>Cir</year>
+          .
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          10
+          <string-name>
+            <given-names>Natural</given-names>
+            <surname>Resources Defense Council</surname>
+          </string-name>
+          , Inc v.
+          <source>Herrington</source>
+          ,
+          <volume>768</volume>
+          F.2d
+          <volume>1355</volume>
+          ,
+          <fpage>1410</fpage>
+          -14
+          <string-name>
+            <surname>(D.C. Cir</surname>
+          </string-name>
+          .
+          <year>1985</year>
+          );
+          <article-title>Northern California Power Agency v</article-title>
+          .
+          <source>FERC</source>
+          ,
+          <volume>37</volume>
+          F.
+          <year>3d</year>
+          1517
+          <string-name>
+            <surname>(D.C. Cir</surname>
+          </string-name>
+          .
+          <year>1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          11
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Robert W. Hahn</surname>
+          </string-name>
+          ,
+          <article-title>The Economic Analysis of Regulation: A Response to the Critics, 71</article-title>
+          <string-name>
+            <given-names>U.</given-names>
+            <surname>CHI. L. REV</surname>
+          </string-name>
+          .
+          <volume>1021</volume>
+          ,
+          <fpage>1026</fpage>
+          -
+          <lpage>27</lpage>
+          (
+          <year>2004</year>
+          ); John J.
+          <string-name>
+            <surname>Donohue</surname>
+            <given-names>III</given-names>
+          </string-name>
+          ,
+          <source>Why We Should Discount the Views of Those Who Discount Discounting</source>
+          , 108 Yale
+          <string-name>
+            <surname>L.J.</surname>
+          </string-name>
+          <year>1901</year>
+          (
+          <year>1998</year>
+          ).
+          <article-title>Various positions are presented in DISCOUNTING AND INTERGENERATIONAL EQUITY, supra note 2, with recognition of some of the underlying complexities. See the Introduction by Paul R. Portney and John P. Weyant, which stresses in particular, “the unease even the best minds of the profession feel about discounting, due to the technical complexity of the issues and to their ethical ramifications,” id</article-title>
+          . at 5.
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          12
+          <string-name>
+            <given-names>Tyler</given-names>
+            <surname>Cowen</surname>
+          </string-name>
+          &amp;
+          <article-title>Derek Parfit, Against the Social Discount Rate, in JUSTICE BETWEEN AGE GROUPS</article-title>
+          AND GENERATIONS
+          <volume>144</volume>
+          ,
+          <issue>148</issue>
+          (
+          <string-name>
+            <given-names>Peter</given-names>
+            <surname>Laslett &amp; James S</surname>
+          </string-name>
+          . Fishkin eds.,
+          <year>1992</year>
+          );
+          <article-title>DEREK PARFIT, REASONS</article-title>
+          AND PERSONS
+          <volume>357</volume>
+          (
+          <year>1984</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          13
+          <string-name>
+            <given-names>See</given-names>
+            <surname>SIDNEY</surname>
+          </string-name>
+          <string-name>
+            <surname>SHAPIRO</surname>
+          </string-name>
+          &amp;
+          <article-title>ROBERT GLICKSMAN, RISK REGULATION AT RISK: RESTORING A PRAGMATIC APPROACH</article-title>
+          118-
+          <fpage>119</fpage>
+          (
+          <year>2003</year>
+          ); Frank Ackerman &amp; Lisa
+          <string-name>
+            <surname>Heinzerling</surname>
+          </string-name>
+          ,
+          <source>Pricing the Priceless</source>
+          , 150
+          <string-name>
+            <given-names>U.</given-names>
+            <surname>PA. L. REV</surname>
+          </string-name>
+          .
+          <volume>1553</volume>
+          ,
+          <fpage>1570</fpage>
+          -
+          <lpage>73</lpage>
+          (
+          <year>2002</year>
+          )
+          <article-title>; FRANK ACKERMAN &amp; LISA HEINZERLING, PRICELESS (</article-title>
+          <year>2004</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          14
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Cowen</surname>
+          </string-name>
+          &amp; Parfit, supra note 12.
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          15
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Revesz</surname>
+          </string-name>
+          ,
+          <source>supra note 7.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          16
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Parker</surname>
+          </string-name>
+          ,
+          <source>supra note 4</source>
+          ,
+          <year>at1374</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          17
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Ackerman</surname>
+          </string-name>
+          &amp; Heinzerling, Pricing the Priceless,
+          <source>supra note 13</source>
+          , at 1571.
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>18 Id.</mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <article-title>30 This objection raises serious questions about the approach in id. For a related criticism of democratic arguments for discounting</article-title>
+          ,
+          <source>see Cowen &amp; Parfit, supra note 12</source>
+          , at 144-45 (“
+          <article-title>When those affected have no vote, the appeal to democracy provides no answer</article-title>
+          .”).
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          <string-name>
+            <surname>31 Maureen L. Cropper</surname>
+          </string-name>
+          et al.,
+          <source>Preferences for Life Saving Programs: How the Public Discounts Time and Age</source>
+          , 8
+          <string-name>
+            <surname>J. RISK</surname>
+          </string-name>
+          &amp; UNCERTAINTY
+          <volume>243</volume>
+          ,
+          <issue>244</issue>
+          ,
+          <issue>254</issue>
+          (
+          <year>1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          32
+          <string-name>
+            <given-names>Shane</given-names>
+            <surname>Frederick</surname>
+          </string-name>
+          ,
+          <source>Measuring Intergenerational Time Preference: Are Future Lives Valued Less?, 26 J. RISK AND UNCERTAINTY 1</source>
+          (
+          <year>2003</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <article-title>33 For a similar result, see Jonathan Baron, Can We Use Human Judgments To Determine the Discount Rate?, 20</article-title>
+          <source>RISK ANALYSIS 861</source>
+          (
+          <year>2000</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          34
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Revesz</surname>
+          </string-name>
+          ,
+          <source>supra note 7.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>35 Id. at 974-77.</mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          52 See, e.g.,
+          <string-name>
+            <surname>James</surname>
+            <given-names>Hammitt</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Jin-Tau Liu</surname>
+          </string-name>
+          ,
+          <source>Effects of Disease Type and Latency on the Value of Mortality Risk, 28 J. RISK &amp; UNCERTAINTY</source>
+          <volume>73</volume>
+          (
+          <year>2004</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          53
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Ackerman</surname>
+          </string-name>
+          &amp; Heinzerling, supra note 13.
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          <article-title>54 Of course this claim would not justify current practice if the figures are based on a lack of information or bounded rationality. For discussion, see Cass R. Sunstein, Valuing Life: A Plea for Disaggregation, 54 DUKE L</article-title>
+          .J.
+          <volume>385</volume>
+          (
+          <year>2004</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          <article-title>55 For an overview, see id</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          56
+          <string-name>
+            <surname>See</surname>
+            <given-names>VISCUSI</given-names>
+          </string-name>
+          , supra note 50, for discussion.
+          <year>2020</year>
+          .
+          <article-title>Suppose that ordinarily $8 million is the appropriate VSL. If the issue is the value</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          80
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Lind</surname>
+          </string-name>
+          ,
+          <source>supra note 71</source>
+          , at 176-77; Dexter Samida,
+          <article-title>Improving Lives by Discounting Them (unpublished draft</article-title>
+          ,
+          <year>March 2005</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>81 See supra.</mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

@@ -1,0 +1,684 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink"><script/>
+  <front>
+    <journal-meta/>
+    <article-meta>
+      <title-group>
+        <article-title>Administrative Law Goes to War</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Coase-Sandor Working Paper Series in Law</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Part of the Law Commons</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Coase-Sandor Institute for Law and Economics</institution>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Professor Cass Sunstein University of Chicago Law School 1111</institution>
+          <addr-line>East 60th Street Chicago, IL 60637</addr-line>
+          ,
+          <country country="US">USA</country>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <abstract>
+        <p>Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics Recommended Citation Cass R. Sunstein, "Administrative Law Goes to War" ( John M. Olin Program in Law and Economics Working Paper No. 248, 2005).</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>ADMINISTRATIVE LAW GOES TO WAR </p>
+      <p>Cass R. Sunstein 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+This paper can be downloaded without charge at the Public Law and Legal Theory Working Paper 
+Series:  http://www.law.uchicago.edu/academics/publiclaw/index.html and </p>
+      <p>The Social Science Research Network Electronic Paper Collection: 
+http://ssrn.com/abstract_id=730025  </p>
+      <p>T H E   L A W   S C H O O L  
+T H E   U N I V E R S I T Y   O F   C H I C A G O  </p>
+      <p>May 2005 </p>
+    </sec>
+    <sec id="sec-2">
+      <title>Preliminary draft</title>
+    </sec>
+    <sec id="sec-3">
+      <title>All rights reserved</title>
+    </sec>
+    <sec id="sec-4">
+      <title>Forthcoming in revised form in the Harvard Law Review</title>
+      <sec id="sec-4-1">
+        <title>Administrative Law Goes to War</title>
+        <sec id="sec-4-1-1">
+          <title>Cass R. Sunstein*</title>
+          <p>What are the President’s war-making powers? This essay, a brief reply to an
+article by Curtis Bradley and Jack Goldsmith, contends that the answer lies in
+administrative law, at least in the first instance. The President’s authority often depends
+on what Congress has said, and under established principles, the President has a great
+deal of power to interpret ambiguities in congressional enactments – in war no less than
+in peace. The principal qualifications involve interpretive principles, also found in
+administrative law, that call for a narrow construction of presidential authority to invade
+constitutionally sensitive interests. The relevant arguments are illustrated throughout
+with reference to the 2001 authorization for the use of military force in response to the
+attacks of September 11; the authorization may or may not include the power to make
+war on Iraq and Afghanistan, to use force against those suspected of giving financial aid
+to terrorist organizations, and to detain American citizens.</p>
+          <p>In the 2001 Authorization for the Use of Military Force (AUMF), Congress
+authorized the President to
+use all necessary and appropriate force against those nations,
+organizations, or persons he determines planned, authorized, committed,
+or aided the terrorist attacks that occurred on September 11, 2001, or
+harbored such organizations or persons, in order to prevent any future acts
+* Karl N. Llewellyn Distinguished Service Professor, Law School and Department of Political Science,
+University of Chicago. I am grateful to the Herbert Fried Fund for financial support. Thanks to Patrick
+Gudridge, Eric Posner, David Strauss, and Adrian Vermeule for valuable comments; special thanks to
+Vermeule for extended discussions.</p>
+          <p>of international terrorism against the United States by such nations,
+organizations or persons.1</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="sec-5">
+      <title>Consider some illustrative problems:</title>
+    </sec>
+    <sec id="sec-6">
+      <title>The President initiates military action under the AUMF against Iraq in 2003, contending that the best evidence suggests that Saddam Hussein “aided the terrorist attacks that occurred on September 11, 2001.”</title>
+    </sec>
+    <sec id="sec-7">
+      <title>The President initiates military action against Iran in 2006, contending that the</title>
+    </sec>
+    <sec id="sec-8">
+      <title>Central Intelligence Agency can show that its government has “harbored” members of Al Qaeda since 1999.</title>
+    </sec>
+    <sec id="sec-9">
+      <title>The President initiates military action against North Korea, contending that the</title>
+    </sec>
+    <sec id="sec-10">
+      <title>Central Intelligence Agency can show that its government has been “assisting” Al</title>
+    </sec>
+    <sec id="sec-11">
+      <title>Qaeda financially since 2003.</title>
+    </sec>
+    <sec id="sec-12">
+      <title>The President authorizes the use of force to arrest and to detain citizens of France,</title>
+      <p>who are brought to the United States and imprisoned because they knowingly
+provided significant financial assistance to organizations that supported Al Qaeda
+in 2000.2
+11, 2001.”</p>
+    </sec>
+    <sec id="sec-13">
+      <title>The President detains an American citizen captured at an American airport, contending that the citizen “aided the terrorist attacks that occurred on September 11, 2001.” He plans to detain the citizen indefinitely.</title>
+    </sec>
+    <sec id="sec-14">
+      <title>The President orders the killing of an American citizen at an American airport, contending that the citizen “aided the terrorist attacks that occurred on September</title>
+    </sec>
+    <sec id="sec-15">
+      <title>Is there a body of principles that can help to evaluate the legality of these actions?</title>
+      <p>I suggest that there is, and that it can be found in a single area: administrative law. Most
+obviously, presidential action under the 2001 AUMF, or any imaginable AUMF, would
+appear subject to the principles that have emerged in the wake of the Supreme Court’s
+extraordinarily influential decision in Chevron USA v Natural Resources Defense</p>
+    </sec>
+    <sec id="sec-16">
+      <title>1 Authorization for Use of Military Force, S.J. Res. 23, 107th Cong., 115 Stat. 224 (2001).</title>
+    </sec>
+    <sec id="sec-17">
+      <title>2 See In Re Guantanamo Detainee Cases 355 F Supp 2d 443, 475 (DDC 2005) (noting government’s</title>
+      <p>assertion of authority to detain a “little old lady in Switzerland” who unknowingly writes a check to a front
+to finance al-Qaeda activities).</p>
+      <sec id="sec-17-1">
+        <title>Council, Inc.3 As we shall see, the logic of Chevron applies to the exercise of executive authority in the midst of war.4</title>
+      </sec>
+    </sec>
+    <sec id="sec-18">
+      <title>Curtis Bradley and Jack Goldsmith make an exceedingly important contribution</title>
+      <p>to our understanding of presidential power amidst war.5 But I believe that their analysis
+would be clearer, simpler, and more straightforward if they focused more systematically
+on administrative law principles and if the international laws of war played a more
+subordinate role. 6 As we shall see, a special advantage of this approach is that it imposes
+the right incentives on all those involved, including Congress itself.</p>
+    </sec>
+    <sec id="sec-19">
+      <title>My general conclusions are that the President should have a great deal of</title>
+      <p>discretion in interpreting the AUMF, and that any ambiguities are for him to resolve,
+subject to a general constraint of reasonableness. The principal qualification is that if the</p>
+    </sec>
+    <sec id="sec-20">
+      <title>President is infringing on constitutionally sensitive interests, the AUMF must be</title>
+      <p>construed narrowly, whatever the President says. Under this framework, the President
+plainly has the authority to act in cases (1), (2), and (4) above. He lacks that authority in
+case (6). For reasons to be explored, cases (3) and (5) are extremely difficult.</p>
+    </sec>
+    <sec id="sec-21">
+      <title>This framework is properly used both by reviewing courts (subject to any</title>
+      <p>justiciability constraints7) and by members of the executive branch advising the President
+about the legality of proposed courses of action. Indeed, this framework furnishes the
+appropriate principles not only for understanding any authorization for the use of force,
+3467 US 837 (1984). As a sign of Chevron’s influence, consider the fact that the decision was cited 2414
+times in its first decade (between 1984 and January 1, 1994), 2,584 times in its next six years (between
+January 1, 1994 and January 1, 2000), and 2,235 times in its next five years (between January 1, 2000 and
+January 28, 2005).</p>
+    </sec>
+    <sec id="sec-22">
+      <title>4 On some of the complexities here, see Curtis Bradley, Chevron Deference and Foreign Affairs, 86 Va L</title>
+      <p>Rev 649 (2000).
+5 Curtis Bradley and Jack Goldsmith, Congressional Authorization and the War on Terror, 118 Harv L Rev
+2047 (2005).
+6 There are difficult questions in the background. Why, exactly, do Bradley and Goldsmith place such
+emphasis on the laws of war? One possibility is that they believe that Congress legislates against the
+background that they set, and ought to be taken to be aware of them. This view seems to me artificial. A
+more promising possibility is that Bradley and Goldsmith believe that the laws of war provide an
+interpretive resource whether or not Congress is aware of them – that they furnish a set of principles,
+vindicated by tradition, against which authorizations for the use of force should be understood. On this
+view, the laws of war are invoked because their use serves to discipline and improve interpretation of any
+authorization to use force. This second view seems plausible and to justify attention, in hard cases, to the
+laws of war; but it is best to start with statutory text and with more familiar administrative law principles.</p>
+    </sec>
+    <sec id="sec-23">
+      <title>7 These include the political question doctrine and administrative law doctrines governing reviewability.</title>
+      <p>See Webster v. Doe, 486 US 592 (1988); Dickson v. Secretary of Defense, 68 F.3d 1396 (DC Cir 1995).
+but also for evaluating all exercises of presidential power when Congress has authorized
+the President to protect the nation’s security.8</p>
+      <sec id="sec-23-1">
+        <title>I. Presidential Power in Chevron’s Shadow</title>
+        <sec id="sec-23-1-1">
+          <title>Chevron creates a two-step inquiry.9 The first question is whether Congress has</title>
+          <p>directly decided the precise question at issue. The second is whether the agency’s
+interpretation is reasonable. In the aftermath of Chevron, the Court has emphasized the
+need to ask another question, one that precedes application of the Chevron framework:</p>
+        </sec>
+        <sec id="sec-23-1-2">
+          <title>Do Chevron’s deference principles apply at all10? Let us see how these ideas apply to the</title>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="sec-24">
+      <title>AUMF. The analysis is somewhat technical, but the conclusion is not: The President has broad authority to construe ambiguities as he sees fit.</title>
+      <p>A.</p>
+      <p>Chevron Step Zero11</p>
+      <sec id="sec-24-1">
+        <title>In its important decision in Mead, 12 the Court divided the world of judicial</title>
+        <p>deference to executive interpretations of law into two categories: Skidmore13 cases and</p>
+      </sec>
+    </sec>
+    <sec id="sec-25">
+      <title>Chevron cases. In Skidmore cases, the question of statutory meaning is resolved</title>
+      <p>judicially, not by the executive; but the court will pay attention to what the executive has
+said, granting its interpretation “respect according to its persuasiveness.”14 In Chevron
+cases, the agency’s interpretation is binding unless it violates either of Chevron’s two
+steps.15</p>
+    </sec>
+    <sec id="sec-26">
+      <title>Under</title>
+    </sec>
+    <sec id="sec-27">
+      <title>Mead, Chevron deference applies when “Congress intended” the</title>
+      <p>executive’s action “to carry the force of law.”16 Of course Congress does not usually say,</p>
+    </sec>
+    <sec id="sec-28">
+      <title>8 See, for example, the International Emergency Economic Powers Act, 50 USC 1701-1706, construed in</title>
+      <p>Dames &amp; Moore v. Regan, 453 US 654 (1981).
+9 467 US at 842-44.
+10 US v. Mead Corporation, 533 US 218 (2001)
+11 See Thomas W. Merrill &amp; Kristin Hickman, Chevron’s Domain, 89 Geo L J 833, 836 (2001); Cass R.
+Sunstein, Chevron Step One (unpublished manuscript, May 2005).
+12 Mead, supra.
+13 Skidmore v. Swift &amp; Co., 323 US 134 (1944).
+14 Mead, 531 US at 221.
+15 It does matter whether an exercise of authority falls under Skidmore or Chevron; but the difference
+should not be overstated. It is one of degree, not one of kind, and under Skidmore, courts are likely to
+accept reasonable agency interpretations. Skidmore itself is good evidence here. 323 US at 140.
+16 Mead, 533 US at 221.
+with anything like clarity, whether it so intends.17 In the ordinary cases, courts infer a
+delegation of law-making power from “the agency’s power to engage in adjudication or
+notice-and-comment rulemaking, “ or (and this phrase will turn out to be critical) by
+“some other indication of comparable congressional intent.”18 It is clear that Chevron
+deference might be appropriate even if an agency’s decision does not follow from formal
+procedures of any kind.19</p>
+    </sec>
+    <sec id="sec-29">
+      <title>How do these points bear on the AUMF? It might be argued that the President has</title>
+      <p>been given neither adjudicatory authority nor the authority to engage in
+notice-andcomment rulemaking—and hence that he is not authorized to do anything, under the</p>
+    </sec>
+    <sec id="sec-30">
+      <title>AUMF, having the force of law. On this view, the precondition for Chevron deference is</title>
+      <p>absent. This argument might be supported with an analogy. The executive branch is not
+entitled to Chevron deference insofar as it is enforcing the criminal law.20 The reason is
+straightforward: For the Department of Justice, the power of prosecution is not plausibly
+taken to confer law-interpreting authority.21 Perhaps the same can be said when the</p>
+    </sec>
+    <sec id="sec-31">
+      <title>President implements the AUMF; indeed, it might be urged that the President has the</title>
+      <p>same relationship to the AUMF that the Department of Justice has to the statutes under
+which it brings prosecutions. In any case, the President is not an “agency” within the
+meaning of the Administrative Procedure Act,22 and perhaps this point renders Chevron
+inapplicable.</p>
+    </sec>
+    <sec id="sec-32">
+      <title>But if we step back a bit, we will see that this argument is unconvincing. The</title>
+      <p>central question is whether Congress should be understood to have conferred on the</p>
+    </sec>
+    <sec id="sec-33">
+      <title>President the power to interpret ambiguities in the AUMF. Congress knows that the</title>
+      <p>President will be construing any authorization to use force, and it has every incentive to
+limit his discretion if it wishes to do so. In ordinary Chevron cases, a delegation of
+lawinterpreting power is inferred from the authority to produce rules or orders with the force
+17 Id. at 230: “It is fair to assume generally that Congress contemplates administrative action with the force
+of law when it provides for a relatively formal administrative procedure. . . . “
+18 Id. at 227.
+19 See Barnhart v. Walton, 535 US 212, 222 (2002).
+20 See Crandon v. US, 494 US 152, 158 (1990).
+21 Note that for administrative agencies, Congress has a choice: It can grant rulemaking and adjudicatory
+power, or it can refuse to do so. Chevron and Mead deem that choice to be crucial to the decision whether
+the relevant agency is entitled to Chevron deference.
+22 See Franklin v. Massachusetts, 505 U.S. 788, 800-801 (1992).
+of law.23 But with an authorization to use force, what is authorized is the use of force;
+there is no grant of rulemaking or adjudicatory authority, and hence the grant or denial of
+such authority is irrelevant. By its very nature, any AUMF is best taken as an implicit
+delegation to the President to resolve ambiguities as he (reasonably) sees fit. This
+position does not only track Congress’ likely expectations, to the extent that they exist; it
+has the additional advantage of imposing exactly the right incentives on Congress, by
+requiring it to limit the President’s authority through plain text if that is what it seeks to
+do.</p>
+    </sec>
+    <sec id="sec-34">
+      <title>We can approach this question from a different direction. Why, exactly, does</title>
+    </sec>
+    <sec id="sec-35">
+      <title>Chevron take ambiguities to count as implicit delegations? The answer lies in an</title>
+      <p>attempted reconstruction of congressional will.24
+Where Congress has not spoken,
+interpretations must depend, at least in part, on assessments of the consequences of one or
+another approach; agencies are in a comparatively good position to make such
+assessments. And where questions of value are at stake, agencies, subject as they are to
+presidential control, should resolve those questions as they see fit.25 And if these are the
+foundations for Chevron, the President should be taken to have the authority to interpret
+ambiguities as he chooses. Interpretation of an authorization to use force—at least as
+much as any delegation of authority to agencies, and possibly more—calls for
+appreciation of consequences and for complex judgments of value.</p>
+      <p>B.</p>
+      <sec id="sec-35-1">
+        <title>Chevron Steps 1 and 2</title>
+      </sec>
+    </sec>
+    <sec id="sec-36">
+      <title>If Chevron applies, the initial question is “whether Congress has directly spoken</title>
+      <p>to the precise question at issue.”26 As Bradley and Goldsmith emphasize, the President
+23 This point makes clear that Chevron stems from an understanding of organic statutes, not from the APA.
+24 See 467 US at 865-66; Cass R. Sunstein, Law and Administration After Chevron, 90 Colum L Rev 2071,
+2086-87 (1990)
+25 There is a connection here between Chevron and Ronald Dworkin’s view on interpretation, as set out in
+Law’s Empire (1985). Dworkin contends that interpretation requires a judgment about “fit” with existing
+materials and also about “justification” of those materials; his conception of law as integrity requires judges
+to put existing materials in their “best constructive light.” In modern government, courts are often less
+capable of accomplishing this task than are agencies, precisely because of the comparatively greater
+expertise and accountability. If interpretation of the AUMF is an interpretive exercise in Dworkin’s sense,
+as I believe that it is, then the argument for deference to the President is overwhelming.
+26 467 US at 842.
+could not use force against nations that cannot plausibly be connected with the attacks of</p>
+      <sec id="sec-36-1">
+        <title>September 11, 2001.27 To be sure, the goal of the AUMF is to permit the President “to</title>
+        <p>prevent any future acts of international terrorism against the United States by such
+nations, organizations or persons.28 But that goal is to be pursued through a particular
+means, which is the use of force against those connected with the attacks of September
+11. Case (3) is therefore a difficult one, requiring the President to resort to complex
+arguments on behalf of the exercise of force.29</p>
+      </sec>
+    </sec>
+    <sec id="sec-37">
+      <title>On the other hand, an attack on Iraq in case (1) above would have been</title>
+      <p>permissible under the AUMF in 2003, assuming that the President “determined,” on the
+basis of evidence at the time, that Iraq assisted Al Qaeda before the September 11 attacks.</p>
+    </sec>
+    <sec id="sec-38">
+      <title>Iran is unquestionably subject to the use of force in case (2). Whenever there is a dispute</title>
+      <p>about the meaning of relevant terms, such as “aided” or “harbored,” the President has a
+great deal of discretion to understand them as he sees fit. Those who provide financial
+assistance to Al Qaeda, certainly with the intention of doing so, appear to be subject to
+presidential exercises of force under step 1; hence presidential action is authorized for
+case (4).</p>
+      <p>Under step 2, the question is whether the executive’s “answer is based on a
+permissible construction of the statute,” which requires a judgment about the
+reasonableness of that construction.30 Turn in this light to case (6). The President is
+supposed to use “all necessary and appropriate force,” and an execution of someone who
+can be detained instead is gratuitous; it is neither “necessary” nor “appropriate.” Or
+suppose that citizens of Switzerland, or the United States, gave small sums of money to
+27 Cf. In re Guantanamo Detainee Cases, 355 F. Supp.2d at 475, discussing the detention of two people who
+were not connected with the attacks of September 11. One “was ‘associated’ with an Islamic missionary
+group,” who “planned to travel to Pakistan with an individual who later engaged in a suicide bombing,” and
+who “accepted free food, lodging, and schooling in Pakistan from an organization known to support
+terrorist acts.” The other had been indicted by a Spanish National High Court Judge “for membership in a
+terrorist organization.” These detentions are not authorized by the text of the AUMF.
+28 Authorization for Use of Military Force, S.J. Res. 23, 107th Cong., 115 Stat. 224 (2001).
+29 There are hard questions about whether those who assist Al Qaeda can be considered accessories
+afterthe-fact or (as Bradley and Goldsmith argue) as co-belligerents. It is not clear that the analysis of
+cobelligerents carries over to the analysis of those who aid a terrorist organization after the acts that are the
+predicate for the use of force.
+30 See, e .g, Household Credit Services v. MBNA American Bank, 541 US 232 (2004); Republican
+National Comm. V. FEC, 76 F3d 400, 47 (DC Cir 1996).
+an umbrella organization, not knowing that some of its funds were going to Al Qaeda.31 It
+would be unreasonable to interpret the AUMF to authorize the President to use force
+against those citizens.</p>
+      <sec id="sec-38-1">
+        <title>II. Canons and Countercanons</title>
+      </sec>
+    </sec>
+    <sec id="sec-39">
+      <title>Chevron deference can be “trumped” by countercanons. Agencies are not</title>
+      <p>permitted to interpret statutes so as to apply beyond the territorial boundaries of the</p>
+      <sec id="sec-39-1">
+        <title>United States.32</title>
+        <p>Nor are they allowed to interpret ambiguous statutes to apply
+retroactively. 33 An agency cannot construe an ambiguous statute so as to raise serious
+constitutional doubts.34 In these and other contexts, courts have insisted on a series of
+nondelegation canons, which require legislative rather than merely executive deliberation
+on the issue in question.35 By their very nature, the nondelegation canons defeat Chevron
+deference. The reason is that they are specifically designed to require the nation’s
+lawmaker to make the relevant decisions explicitly.</p>
+        <p>A.</p>
+        <p>The Presumption of Liberty
+1. In general. Requirements of clear congressional permission have been a
+defining part of American law involving the relationship between liberty and security in
+wartime.36 Consider in this regard Ex Parte Endo,37 in which the Court struck down the
+detention of concededly loyal Japanese-Americans on the West Coast. The Court said
+that in “interpreting a wartime measure we must assume that [Congress’] purpose was to
+31 See In re Guantanamo Detainee Cases, supra note, at 61, in which government asserted such authority,
+and also the authority to detain someone “who teaches English to the son of an al Qaeda member, and a
+journalist who knows the location of Osama Bin Laden but refuses to disclose it to protect her source.” Id.
+At least in the cases of unknowing financial assistance and mere instruction in English to a family member
+of someone in al Qaeda, the interpretation of the AUMF is unreasonable.
+32EEOC v Arabian American Oil Co, 499 US 244, 248 (1991).
+33Bowen v Georgetown University Hospital, 488 US 204, 208 (1988).
+34See Bowen v Georgetown University Hospital, 488 US 204, 208–09 (1988).
+35 For general discussion, see Cass R. Sunstein, Nondelegation Canons, 67 U Chi L Rev. 315 (2000).
+36 See Richard Pildes and Samuel Issacharoff, Between Civil Libertarianism and Executive Unilateralism:
+An Institutional Process Approach to Right During Wartime, 5 Theoretical Inquiries in Law (Online
+Edition) No 1, Article 1 (Jan 2004), online at
+http://www.bepress.com/til/default/vol5/iss1/art1 (visited Dec 1, 2004); Cass R. Sunstein, Minimalism At
+War, Supreme Court Review (forthcoming).
+37 320 US 81 (1943).
+allow for the greatest possible accommodation between those liberties and the exigencies
+of war.”38 The Court emphasized that even in the midst of war, the President would have
+to identify clear authorization: “if there is to be the greatest possible accommodation of
+the liberties of the citizen with this war measure, any such implied power [of the</p>
+      </sec>
+    </sec>
+    <sec id="sec-40">
+      <title>President] must be narrowly confined to the precise purpose of the evacuation</title>
+      <p>program.”39</p>
+    </sec>
+    <sec id="sec-41">
+      <title>A similar principle underlies one of the most celebrated free speech decisions in</title>
+      <sec id="sec-41-1">
+        <title>American history: Judge Learned Hand’s in the Masses case.40 Judge Hand’s narrow</title>
+        <p>construction of the Act required the legislature, and not the executive alone, to focus
+specifically on the question whether national security justified an abridgement of liberty.</p>
+      </sec>
+      <sec id="sec-41-2">
+        <title>These are many other examples.41</title>
+      </sec>
+    </sec>
+    <sec id="sec-42">
+      <title>The lesson for the 2001 AUMF, or any other AUMF, is straightforward: The</title>
+    </sec>
+    <sec id="sec-43">
+      <title>President is not permitted to interfere with constitutionally protected interests unless</title>
+      <sec id="sec-43-1">
+        <title>Congress has specifically authorized him to do so.42 In fact this idea played a central role</title>
+        <p>in the decision of the court of appeals in the Padilla.43 At issue was the legality of the
+detention of an American citizen held as an enemy combatant after having been seized on</p>
+      </sec>
+    </sec>
+    <sec id="sec-44">
+      <title>American soil. In the court’s view, Congress’ authorization to use “all necessary and</title>
+      <p>appropriate force” to respond to the September 11 attacks should be understood in light
+of Endo, which required a specific congressional statement to support an intrusion into
+the domain of liberty. No such statement could be found.44</p>
+    </sec>
+    <sec id="sec-45">
+      <title>In Hamdi, Justice Souter similarly emphasized “the need for a clearly expressed</title>
+      <p>congressional resolution of the competing claims.”45
+Not having found any such
+38 Id at 300.
+39 Id at 302.
+40 See Masses Publishing Co v Patten, 244 F 535 (SDNY 1917).
+41See, e.g., United States v. Yates, 354 US 298 (1957); Sunstein, supra note.
+42 Bradley and Smith argue that the clear statement principles have been applied only in cases involving
+“presidential actions, unsupported by historical practice, which undermined the constitutional rights of U.S.
+citizen non-combatants.” Bradley and Smith at 2105. It seems, however, that in at least some
+circumstances such principles should be applied in cases involving U.S. citizen combatants or foreigners
+within the terroritorial boundaries of the United States. If, for example, the President attempted to interfere
+with the religious practices of either citizen combatants or foreigners, a clear congressional statement
+should be required.
+43 Padilla v Rumsfeld, 352 F3d 695 (2d Cir 2003), reversed on other grounds, Rumsfeld v Padilla, 124 S Ct
+2711 (2004).
+44 Id at 723.
+45 Id.
+resolution, he concluded that Hamdi’s detention was unlawful. The Hamdi plurality
+disagreed, but it did not question Justice Souter’s claim that a clear statement was
+required. It concluded instead that the AUMF provided that statement, because the
+detention of “enemy combatants,” at least for the duration of the conflict in which the
+capture occurred, “is so fundamental and accepted an incident to war as to be” an
+authorized exercise of “necessary and appropriate force.”46</p>
+    </sec>
+    <sec id="sec-46">
+      <title>Justice Souter’s view in Hamdi is reasonable, but the plurality’s position seems to</title>
+      <p>me correct, and it is consistent with what I am emphasizing here: a requirement of
+legislative clarity for any interference with constitutionally sensitive interests. In case (5),
+which is Padilla itself, the question is whether the AUMF contains the requisite clarity: I
+tend to think so, but the point is reasonably disputed.47
+B.</p>
+      <sec id="sec-46-1">
+        <title>Executive Authority and the Commander-in-Chief Power</title>
+      </sec>
+    </sec>
+    <sec id="sec-47">
+      <title>Under the Constitution, the President has “executive” power, and he is</title>
+      <p>Commander in Chief of the Armed Forces. Perhaps the President has considerable
+authority to protect the nation when its security is threatened; perhaps this is a central part
+of “executive” authority.48 If so, then the AUMF should be construed broadly, and in a
+way that is highly respectful of presidential prerogatives. On this approach, also
+conventional in administrative law, statutory enactments involving core executive
+authority should be construed hospitably to the president, so as to avoid the constitutional
+difficulties that would come from a narrow construction.49</p>
+      <p>In recent years, this view can be found most explicitly in the dissenting opinion of
+Justice Clarence Thomas in the Hamdi case.50 Justice Thomas emphasized that the
+Constitution accords to the President the “primary responsibility . . . to protect the
+national security and to conduct the nation’s foreign relations.”51 In support, Justice
+46 Id. at 2640.
+47As Bradley and Goldsmith emphasize, the constitutionality of any procedures for detention raise separate
+issues from the question of authorization to detain.
+48 See Hamdi, 124 S Ct 2633 (Thomas, J., dissenting).
+49 Department of Navy v. Egan, 484 US 518 (1988); US v. Johnson, 481 US 681 (1987); Cartlucci v. Doe,
+488 US 939, 99 (1988).
+50 Hamdi, 124 S Ct 2633, 2674 (2004).
+51 Id.
+Thomas might well have cited the Court’s decision in Ex Parte Quirin,52 where the Court
+upheld the use of military commissions to try German saboteurs captured during World
+War II. In that case, the President asked the Court to hold that as Commander in Chief,
+the President had inherent authority to create and to use military tribunals. The Court
+refused to accept this argument: “It is unnecessary for present purposes to determine to
+what extent the President as Commander in Chief has constitutional power to create
+military commissions without the support of Congressional legislation. For here Congress
+has authorized trial of offenses against the law of war before such commissions.”53 But
+where had Congress done so? The Court relied on Article 15 of the Articles of War54;
+but Article 15 did not specifically authorize such commissions. Hence the Court’s ruling
+is best seen as motivated by a desire to avoid ruling on the President’s broad claims about
+his constitutional authority as Commander in Chief.</p>
+    </sec>
+    <sec id="sec-48">
+      <title>Insofar the AUMF is being applied in a context that involves the constitutional</title>
+      <p>powers of the President, it should be interpreted generously so to permit the President to
+do as he sees fit. In this domain, the President receives the kind of super-strong deference
+that comes from the combination of Chevron with what are plausibly taken to be his
+constitutional responsibilities.55
+C.</p>
+      <sec id="sec-48-1">
+        <title>Canons at War</title>
+        <p>Some of the most difficult cases will arise when the relevant canons point in
+opposing directions. Suppose, for example, that the President makes a reasonable claim
+of inherent authority to engage in actions that threaten constitutionally sensitive
+interests.56 The question is whether it is possible to develop rules of priority and
+harmonization to sort out the relevant conflicts.
+52 317 US 1 (1942).
+53 Id at 39.
+54 See Quirin, 317 U.S. at 27.
+55 Note that we are not assuming that the President has clear constitutional power to do as he proposes.
+Under that assumption, the AUMF is irrelevant. The question here is how the AUMF should be construed
+when there is a plausible claim – not a holding – that the President has the constitutional power to act.
+56 Of course the likelihood of such conflicts depends on judgments about the merits – about the substance
+of the underlying constitutional principles. If the President has inherent authority to act in the relevant
+domains, then no such conflicts will arise, simply because clear statements principles will not be required.</p>
+        <p>In my view, the answer is straightforward: Constitutionally sensitive rights have a
+kind of interpretive priority, so that the President needs explicit legislative permission to
+invade them even if he claims, plausibly, that he is operating in the general domain of his
+constitutional authority. Consider the constitutional analogue. Even if the President is
+acting in accordance with his inherent power, he remains subject to the constraints
+established by the rights-protecting provisions of the Constitution. It follows that for the
+interpretation of an authorization to use force, liberty should always receive the benefit of
+the doubt. This point strengthens the conclusion that the President cannot act in case (6),
+and it helps explain why case (5) is so difficult; it bears on many other issues as well.</p>
+      </sec>
+      <sec id="sec-48-2">
+        <title>Conclusion</title>
+      </sec>
+    </sec>
+    <sec id="sec-49">
+      <title>In war no less than peace, the inquiry into the authority of the President can be</title>
+      <p>organized and disciplined if it is undertaken with close reference to standard principles of
+administrative law. It follows that the President has a great deal of discretion to interpret
+congressional authorizations for the use of force, subject only to the limits of
+reasonableness. I am suggesting, in short, that Chevron has imperialistic aspirations. Its
+broad coverage includes the President’s statutory authority in the war on terror.</p>
+    </sec>
+    <sec id="sec-50">
+      <title>The principal qualification is the standard one: Executive branch interpretations</title>
+      <p>are constrained by principles that require explicit congressional deliberation on the
+question at hand. From the standpoint of national security, this conclusion might seem to
+give the President less than he needs. But if national security is genuinely at risk, clear
+congressional authorization will almost certainly be forthcoming.</p>
+      <p>Readers with comments should address them to:
+So too if the Constitution’s various safeguards of liberty rarely apply in the contexts in which the AUMF is
+properly invoked. But let us imagine that on the correct view, ambiguous provisions must sometimes be
+construed in the face of canons pointing in opposite directions.
+ 
+1. 
+2. 
+37. 
+71. 
+216. 
+217. 
+218. 
+221. 
+222. 
+223. 
+224. 
+225. 
+226. 
+227. 
+228. 
+229. 
+230. 
+231. 
+232. 
+233. 
+234. 
+235. 
+237. 
+238. 
+240. 
+241. 
+242. 
+243. 
+244. 
+245. 
+246.  
+247.
+248.</p>
+      <p>Luis Garicano and Thomas N. Hubbard, Specialization, Firms, and Markets: The Division of Labor 
+within and between Law Firms (April 2004) 
+Luis Garicano and Thomas N. Hubbard, Hierarchies, Specialization, and the Utilization of 
+Knowledge: Theory and Evidence from the Legal Services Industry (April 2004) 
+James C. Spindler, Conflict or Credibility: Analyst Conflicts of Interest and the Market for 
+Underwriting Business (July 2004) 
+Alan O. Sykes, The Economics of Public International Law (July 2004) 
+Douglas Lichtman and Eric Posner, Holding Internet Service Providers Accountable (July 2004) 
+Shlomo Benartzi, Richard H. Thaler, Stephen P. Utkus, and Cass R. Sunstein, Company Stock, 
+Market Rationality, and Legal Reform (July 2004) 
+Cass R. Sunstein, Group Judgments: Deliberation, Statistical Means, and Information Markets 
+(August 2004, revised October 2004) 
+Cass R. Sunstein, Precautions against What? The Availability Heuristic and Cross‐Cultural Risk 
+Perceptions (August 2004) 
+M. Todd Henderson and James C. Spindler, Corporate Herroin: A Defense of Perks (August 2004) 
+Eric A. Posner and Cass R. Sunstein, Dollars and Death (August 2004) 
+Randal C. Picker, Cyber Security: Of Heterogenity and Autarky (August 2004) 
+Randal C. Picker, Unbundling Scope‐of‐Permission Goods: When Should We Invest in Reducing 
+Entry Barriers? (September 2004) 
+Christine Jolls and Cass R. Sunstein, Debiasing through Law (September 2004) 
+Richard A. Posner, An Economic Analysis of the Use of Citations in the Law (2000) 
+Cass R. Sunstein, Cost‐Benefit Analysis and the Environment (October 2004) 
+Kenneth W. Dam, Cordell Hull, the Reciprocal Trade Agreement Act, and the WTO (October 2004) 
+Richard A. Posner, The Law and Economics of Contract Interpretation (November 2004) 
+Lior Jacob Strahilevitz, A Social Networks Theory of Privacy (December 2004) 
+Cass R. Sunstein, Minimalism at War (December 2004) 
+Douglas Lichtman, How the Law Responds to Self‐Help (December 2004) 
+Eric A. Posner, The Decline of the International Court of Justice (December 2004) 
+Eric A. Posner, Is the International Court of Justice Biased? (December 2004) 
+Alan O. Sykes, Public vs. Private Enforcement of International Economic Law: Of Standing and 
+Remedy (February 2005) 
+Douglas G. Baird and Edward R. Morrison, Serial Entrepreneurs and Small Business Bankruptcies 
+(March 2005) 
+Eric A. Posner, There Are No Penalty Default Rules in Contract Law (March 2005) 
+Randal C. Picker, Copyright and the DMCA: Market Locks and Technological Contracts (March 
+2005) 
+Cass R. Sunstein and Adrian Vermeule, Is Capital Punishment Morally Required? The Relevance of 
+Life‐Life Tradeoffs (March 2005) 
+Alan O. Sykes, Trade Remedy Laws (March 2005) 
+Randal C. Picker, Rewinding Sony: The Evolving Product, Phoning Home, and the Duty of 
+Ongoing Design (March 2005) 
+Cass R. Sunstein, Irreversible and Catastrophic (April 2005)  
+James C. Spindler, IPO Liability and Entrepreneurial Response (May 2005) 
+Douglas Lichtman, Substitutes for the Doctrine of Equivalents: A Response to Meurer and Nard 
+(May 2005) 
+Cass R. Sunstein, A New Progressivism (May 2005) 
+Douglas G. Baird, Property, Natual Monopoly, and the Uneasy Legacy of INS v. AP (May 2005) 
+Douglas G. Baird and Robert K. Rasmussen, Private Debt and the Missing Lever of Corporate Governance
+(May 2005)
+Cass R. Sunstein, Administrative Law Goes to War (May 2005)</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list/>
+  </back>
+</article>

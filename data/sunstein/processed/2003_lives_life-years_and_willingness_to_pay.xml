@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta/>
+    <article-meta>
+      <title-group>
+        <article-title>Lives, Life-Years, and Willingness to Pay</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Coase-Sandor Working Paper Series in Law</string-name>
+          <email>unbound@law.uchicago.edu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <string-name>Recommended Citation</string-name>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <fpage>8</fpage>
+      <lpage>49</lpage>
+      <abstract>
+        <p>Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>Cass R. Sunstein, "Lives, Life-Years, and Willingness to Pay" ( John M. Olin Program in Law and Economics Working Paper No. 191,
+2003).</p>
+    </sec>
+    <sec id="sec-2">
+      <title>JOHN M. OLIN LAW &amp; ECONOMICS WORKING PAPER NO. 191 (2D SERIES)</title>
+      <p>Lives, Life-Years, and Willingness to Pay</p>
+      <p>Cass R. Sunstein</p>
+    </sec>
+    <sec id="sec-3">
+      <title>THE LAW SCHOOL</title>
+    </sec>
+    <sec id="sec-4">
+      <title>THE UNIVERSITY OF CHICAGO</title>
+      <p>July 2003</p>
+      <p>This paper can be downloaded without charge at:
+The Chicago Working Paper Series Index: http://www.law.uchicago.edu/Lawecon/index.html
+and at the Social Science Research Network Electronic Paper Collection:
+http://ssrn.com/abstract_id=421341
+Preliminary draft 7/14/03
+Forthcoming Columbia Law Review
+All rights reserved</p>
+      <p>Cass R. Sunstein*</p>
+      <p>In protecting safety, health, and the environment, government has increasingly
+relied on cost-benefit analysis. In undertaking cost-benefit analysis, the government has
+monetized risks of death through the idea of “value of a statistical life” (VSL), currently
+assessed at about $6.1 million. Many analysts, however, have suggested that the
+government should rely instead on the “value of a statistical life year” (VSLY), in a way
+that would likely result in significantly lower benefits calculations for elderly people, and
+significantly higher benefits calculations for children. I urge that the government should
+indeed focus on statistical life-years rather than statistical lives. A program that saves
+young people produces more welfare than one that saves old people. Nor does a focus on
+life-years run afoul of ethical limits on cost-benefit analysis. It is relevant in this
+connection that every old person was once young, and that if all goes well, young people
+will eventually be old. In fact, a focus on statistical lives is a more plausibly a form of
+illicit discrimination than a focus on life-years, because the idea of statistical lives treats
+the years of older people as worth far more than the years of younger people. The hard
+question involves not whether to undertake this shift, but how to monetize life-years, and
+here willingness to pay (WTP), despite it many problems, is generally the place to begin.
+Discussion is also devoted to the uses and limits of the willingness to pay criterion in
+regulatory policy, with reference to the underlying welfare goal and to the nature of
+moral and distributional constraints on cost-benefit balancing.</p>
+      <sec id="sec-4-1">
+        <title>I. Introduction</title>
+        <p>In the last two decades, numerous regulatory agencies have conducted
+costbenefit analysis (CBA) of proposed rules.1 To undertake this analysis, they have had to
+quantify the value of a statistical life (VSL).2 Recently the range, for that value, has been
+* Karl N. Llewellyn Distinguished Service Professor, Law School and Department of Political Science,
+University of Chicago. I am grateful to Matthew Adler, Carolyn Frantz, John Graham, Robert Hahn, C
+Christine Jolls, Daniel Kahneman, Lisa Heinzerling, Saul Levmore, Eric Posner, Richard Posner, David
+Strauss, Adrian Vermeule, W. Kip Viscusi, and Scott Walsten for helpful comments on a previous draft. I
+am also grateful to participants in an extremely helpful legal theory workshop at the University of Chicago
+Law School. Participants in two conferences provided valuable help: A Brookings Institute Conference on
+Inequality and Happiness and an American Enterprise Institute/Brookings Joint Center on Regulatory
+Studies Conference on Valuing Life. Smita Singh provided excellent research assistance.
+1 See Robert Hahn, Global Regulatory Reform (2001); W. Kip Viscusi, Fatal Tradeoffs (1994).
+2 See id.
+in the neighborhood of $6.1 million.3 But there is a conspicuous difficulty with the use of
+a uniform VSL. Some regulatory programs benefit people who are relatively young;
+others benefit people who relatively old. If a program would prevent fifty deaths of
+people who are twenty, should it be treated the same way as a program that would
+prevent fifty deaths of people who are seventy? Some people believe that other things
+being equal, a program that protects young people is better than one that protects old
+people,4 because it delivers greater benefits In their view, government should consider
+not simply the number of lives at stake, or the VSL; it should concern itself also or
+instead with the number of life-years, or the value of statistical life-years (VSLY). At the
+very least, VSLY is a more precise measure of what is at stake.</p>
+        <p>At least since 1976, analysts have suggested the possibility of focussing
+regulatory policy on either life-years or quality-adjusted life-years (QALYs).5 Through
+the latter measure, the issue is not merely the number of life-years saved by regulation;
+attention is also paid to qualitative improvements in health.6 An aggregate measure of
+QALYs would catalogue all of the health-related benefits of regulation. And for many
+years, some agencies have experimented with the idea that cost-benefit analysis should
+consider either QALYs or life-years, not merely the number of lives saved.7 For
+simplicity, my major focus here is on life-years, which imposes lower informational
+demands on regulators than do QALYs, and which is also less contentious in principle.8
+A moment’s reflection will show that VSLY can produce different results from VSL. If
+the beneficiaries of a regulation are mostly elderly people, then the regulation will seem
+far less attractive with the use of VSLY than with VSL.9 But if the beneficiaries are
+3 See Robert Frank and Cass R. Sunstein, Cost-Benefit Analysis and Relative Position, 68 U. Chi. L. Rev.
+323, 334-35 (2001). For discussion of why these numbers might be too low, see Dora Costa and Matthew
+Kahn, The Rising Price of Nonmarket Goods, 93 American Economic Review 227, 229 (Papers and
+Proceedings) (2003) (suggesting a likely current value of $12 million) Richard Revesz, Environmental
+Regulation, Cost-Benefit Analysis, and the Discounting of Human Lives, 99 COL L REV 941 (1999)
+(suggesting the need to inflate current figures for increases in social wealth and in the particular context of
+dreaded and involuntary risks); Cass R. Sunstein, The Arithmetic of Arsenic, 90 Geo. L. J. 2255 (2002)
+(discussing plausible reasons to adjust current figures upwards); Dora L. Costa and Matthew Kahn,
+Changes in the Value of Life: 1940-1980 (2002), available at http://papers.ssrn.com/sol3/papers.cfm?
+abstract_id=364740. For recent evidence that the current numbers are indeed too low, see W. Kip Viscusi,
+Racial Differences in Labor Market Values of A Statistical Life (2003), available on ssrn.com (finding
+values as high as $15.1 million in the case of white males).
+4 See, e.g., Michael J. Moore and W. Kip Viscusi, The Quantity-Adjusted Value of Life, 26 Economic
+Inquiry 369 (1988).
+5 Richard Zeckhauser &amp; Donald Shepard, Where Now for Saving Lives?, Law &amp; Contemp. Probs., Autumn
+1976, at 5.
+6 Id.
+7 For examples, see Appendix.
+8 The reason is that in assessing life-years, government need not concern itself with issues of the quality of
+life. I offer a brief discussion of QALYs below.
+9 I am assuming a relatively uniform value, for each statistical life year, and hence assuming that the
+valuation of each of the remaining years of seniors is not going to be much higher than the valuation of
+each of the remaining years of younger people. If older people’s remaining years have a much higher
+valuation, the conclusion in the text does not follow. For discussion, see below.
+mostly children, then a regulation is likely to seem far more attractive with VSLY than
+with VSL.10</p>
+        <p>The issue received a great deal of public attention in connection with recent
+debates within Office of Management and Budget (OMB) and the Environmental
+Protection Agency (EPA).11 EPA’s own assessment of the benefits of the Clean Air Act
+includes a calculation of VSLY, using two estimates, $270,000 (not discounted) and
+$166,000 (discounted at an annual rate of 3 percent).12 In its “Clear Skies” proposal, EPA
+estimated benefits both by using the $6.1 million figure and by using an alternative
+method that produced numbers of $3.7 million for those under 70 and $2.3 million for
+those 70 and older.13 The difference between $3.7 and $2.3 million triggered intense
+criticism of a “senior death discount.”14 Eventually EPA abandoned the idea of varying
+VSL on the basis of age,15 perhaps as a result of public pressure, and after the Office of
+Management and Budget (OMB) found methodological problems with the study that
+supported the age-adjustment analysis.16 But OMB has been strongly encouraging federal
+agencies, including the EPA, to consider VSLY,17 and OMB’s draft guidelines on
+costbenefit analysis ask agencies to “consider providing estimates of both VSL and VSLY.”18</p>
+        <p>Thus OMB has urged that “agency analysts, when performing benefit-cost
+analysis, present results using both the VSL and the VSLY methods.”19 Relying on
+evidence that older people show unusually high VSLY, OMB also suggests “that
+agencies present analyses with larger VSLY estimates for senior citizens.”20 Building on
+10 The same qualification is appropriate here as in note 9; if children’s life-years are valued in terms of
+WTP, and if their WTP is low, the statement in the text would not follow.
+11 For recent discussion, see Robert H. Hahn and Scott Wallsten, Is Granny Worth $2.3 Million or $6.1
+Million?, http://www.aei.brookings.org/policy/page.php?id=138
+12 See Environmental Protection Agency, Benefits and Costs of the Clean Air Act, 1970 to 1990 (1997).
+See the criticism of this approach in Environmental Protection Agency, Children’s Health Valuation
+Handbook 3-13 (2003), suggesting that “the relationship between the value of risk reductions and expected
+remaining life years is more complex than the simple discounted linear relationship . . . Current research
+does not provide a reliable method for estimating a value of a statistical life-year.” I explore this problem
+below.
+13 See id.; Environmental Protection Agency, Technical Addendum: Methodologies for the Benefit
+Analysis of the Clear Skies Initiatives 35-37 (2002), relying on M.W. Jones Lee et al., The Value of
+Preventing Non-Fatal Road Injuries; Findings of a Willingness-to-Pay National Sample Survey, TRY
+Working Paper, WP SRC2.
+14 See John Tierney, Life: The Cost-Benefit Analysis, section 4, p. 3, The New York Times, May 18, 2003.
+15 Id.
+16 See Memorandum of John D. Graham, Administrator, Office of Information and Regulatory Affairs,
+Office of Management and Budget, to the President’s Management Council 1 (May 30, 2003).
+17 See id.; Dana Wilkie, White House Continues to Push For “Age” Discount In Rulemaking, Copley News
+Service (May 16, 2003), available at https://www.lexis.com/research/retrieve?_m=b9948ff37008fac2330
+e2ce6a66f5e57&amp;docnum=4&amp;_fmtstr=FULL&amp;_startdoc=1&amp;wchp=dGLbVtz-lSlWk&amp;_md5=aaa30b6f202f7
+e1e23717bc35a2806b1.
+18 See Office of Management and Budget, Draft 2003 Report to Congress on the Costs and Benefits of
+Federal Regulations, 68 Fed. Reg. 5521 (Feb. 3, 2003).
+19 See Memorandum of John Graham, supra note, at 2.
+20 Id. I raise questions about this recommendation below. In brief, older people might be willing to pay
+more for risk reduction than younger people, but the higher willingness to pay need not reveal a greater
+welfare gain from risk reduction.
+existing studies, one proposal would value each year of life at $273,000 for people over
+65 but at $172,000 for people who are younger.21 Because the number of remaining years
+is a central part of the proposed calculus, a 65-year old, with a life expectancy of ten
+more years, would be valued at $2.7 million, whereas a 40-year old, with thirty-five years
+left, would be valued at $6 million. Thus regulations protecting people over forty would
+be worth less than they would under the $6.1 million benchmark, whereas those under
+forty would be worth more. A ten-year old, with sixty-five years left, would be valued at
+over $11 million.</p>
+        <p>Would focussing on life-years make a large difference for policy? How much?
+The answers depend on what it means to focus on life-years. At first glance, a decision to
+look at VSLY is highly likely to reduce the expected benefits of programs that mostly
+help older people. This was the effect of a life-years calculation for the Clear Skies
+Initiative.22 A focus on VSLY is also likely to increase the expected benefits of programs
+that protect children and young people. The extent of the increase depends on value of the
+relevant life-years and the discount rate. Suppose that a uniform number is used for the
+remaining life-years of young people. With no discount rate, or a low discount rate, a
+program that protects such people will be far more valuable under VSLY than VSL. With
+a high discount rate, the difference between VSLY and VSL will be compressed, but it
+will still result in higher numbers for younger people.</p>
+        <p>My simplest claim in this essay is that in terms of welfare, it is fully appropriate
+to focus on life-years, not merely lives, and that both academic and public criticisms of
+the life-years approach are misconceived. The reasons for this conclusion are simple: No
+program literally “saves” lives; life-extension is always what is at issue. If the goal is to
+promote people’s welfare by lengthening their lives, a regulation that saves 500 life-years
+(and, let us say, twenty-five people) is, other things equal, better than a regulation that
+saves 50 life-years (also, let us say, twenty-five people). A program that saves younger
+people is better, along every dimension, than an otherwise identical program that saves
+older people23—a statement that seems controversial only if we see life as a snapshot in
+which people are frozen at their current points in the age distribution.</p>
+        <p>Any defense of relying life-years has to come to terms with some equitable
+objections to what seems to be a form of age discrimination.24 A central goal here is to
+answer those objections. Hence I suggest not only that more life-years mean more
+21 See Hahn and Wallsten, supra note. EPA’s current estimates are $170,000 for those under age 65 and
+$434,000 for those over age 65. See Memorandum of John Graham, supra note, at 2 note **. For a lifetime
+risk faced by someone who is now 40, it would be sensible to calculate each life year, before 65, at the
+lower rate, and to calculate each life year, after that age, at the higher rate, subject to the appropriate
+discount rate. OMB says, delicately, that “[m]ore research is needed to provide a complete picture of how
+VSLY varies over the lifespan.” Id.
+22 See supra note.
+23 The “other things being equal” proviso is important here. I put to one side the problem of transition,
+taken up below. Note also that a decision to shift from VSL to VSLY will be harmful to people who are
+now older and who did not benefit from earlier use of VSLY.
+24 See the overview in John McKie et al., The Allocation of Health Care Resources: An Ethical Evaluation
+of the QALY Approach 47-72 (1998).
+welfare, other things being equal, but also that a focus on life-years does not offend
+ethical constraints on the pursuit of increased welfare through regulation.25 Of course it is
+tempting, and in a sense right, to urge that each life should count for no more and no less
+than one. On this view, a focus on life-years might be seen to violate the equality
+principle, because it treats elderly people as if they were worth less (literally) than
+younger people. This argument, I suggest, is rooted in a generally sound moral intuition:
+Sometimes the pursuit of welfare should be constrained by considerations of justice. It is
+at least imaginable, for example, that one hundred white people would receive more
+welfare from the elimination of a risk of 1/100,000 than would one hundred
+AfricanAmericans. But even if this is so, government should not create an “African-American
+death discount.”26 The reason is that the welfare difference—assuming that it exists—is
+at least partly a product of past and present injustice. By contrast, injustice is not the
+source of the welfare difference between the protection of one hundred children and the
+protection of one hundred elderly people. Because every old person was once young, an
+emphasis on life-years does not discriminate against anyone; the very people who lose, in
+a sense, when older also gained when younger. In fact the use of statistical lives, rather
+than life-years, is plausibly taken as a form of discrimination against younger people,
+because it treats each of their anticipated years as less valuable than those of older people.
+As I shall also show, an emphasis on life-years does not run afoul of the principles that
+animate the prohibition on age discrimination. My most modest suggestion, then, is that
+in producing regulatory impact analyses,27 agencies should do a sensitivity analysis in
+which they inquire into life-years as well as lives—and take account of that sensitivity
+analysis in deciding what to do.</p>
+        <p>Even if we agree that life-years matter, there remains the separate and quite
+vexing question of how to turn them into monetary equivalents. For VSL,
+willingness-topay (WTP) studies are used to produce the relevant values.28 Economists and
+economically oriented urge that CBA is properly based on WTP for the various benefits
+of regulation.29 Hence the real issue, an empirical one, is whether WTP varies over the
+life-cycle. If thirty-year-olds are willing to pay more (or less) to eliminate a statistical risk
+than sixty-year-olds, then the difference should be reflected in cost-benefit analyses of
+regulatory proposals. On this view, policymakers should use different values for old
+25 Hence I am suggesting that for purposes of regulatory policy, the goal is to promote welfare, subject to
+justice-related constraints. It might be urged instead that here as elsewhere, justice is part of the social
+maxim and. I do not believe that these different approaches lead to different analysis of the issues I am
+discussing here. For a general discussion of welfare and fairness, see Louis Kaplow and Steven Shavell,
+Fairness vs. Welfare (2002). Because Kaplow and Shavell use a capacious understanding of welfare, one
+that includes distributional considerations, my identification of ethical (and in a sense fairness-related)
+constraints on the promotion of welfare through regulation is not at odds with their claims.
+26 The issue is complex if the beneficiaries of regulation must pay all of its social cost. Suppose, for
+example, that a program benefiting African-Americans would also impose costs, in the form (for example)
+of higher water bills. If so, and if the beneficiaries have full information, a lower VSLY, for them, might be
+justified in principle. Government does people no favors by requiring them to pay more than their WTP, at
+least if no information failure is involved. For discussion, see below.
+27 As required by Executive Order 12866, 3 CFR 638 (1993).
+28 See Sunstein, The Arithmetic of Arsenic, supra note.
+29 See, e.g., Anna Alberini et al., Does the Value of a Statistical Life Vary with Age and Health Status?
+Evidence from the United States and Canada (unpublished manuscript 2002).
+people and young people if and only if WTP studies show such a disparity.30 This view
+has been endorsed by the Office of Management and Budget itself.31 And indeed, WTP is
+the basis for current evaluations of regulatory benefits.32</p>
+        <p>I do not attempt to engage the complex debate over WTP fully here. But I do urge
+that with respect to lives or life-years, the argument for relying on WTP is most secure in
+cases in which the beneficiaries of regulation have to pay all of its cost. So long as people
+have adequate information, government does them no favors by requiring them to
+purchase goods for which they are not willing to pay. When the beneficiaries of
+regulation do not pay its full cost, the argument for making WTP conclusive is less
+strong. Nonetheless, I urge that there is no special reason to depart from WTP if
+government is focussing on statistical life-years rather than statistical lives. My more
+ambitious suggestion, then, is that at least in general, cost-benefit analysis (CBA) should
+be conducted with primary attention to VSLY rather than VSL. If CBA is to be used at
+all, it is because CBA is a rough way of testing whether a regulation will promote
+people’s welfare, understood to mean their actual well-being in their lives.33 An inquiry
+into VSLY is an important way of answering that question. I also urge that agencies
+should be permitted to make adjustments from WTP when the beneficiaries of regulation
+lack information or when they would pay only a fraction of its cost. Of course there are
+hard questions here about the relationship between accuracy and administrability.
+Lacking good information about population-wide variations in WTP, government might
+relate on uniform figures, for life-years or lives, simply because more accurate numbers
+do not exist.</p>
+        <p>In principle, the choice between lives and life-years is clear and simple. It gives
+the appearance of difficulty only because of a kind of optical illusion, which suggests
+some choice “between” older people and younger ones. But a discussion of the
+underlying problems provides a window onto a much larger and more complex set of
+questions. I touch on three more general issues. First, economists and policymakers
+should not take the willingness to pay criterion too seriously, and they are in danger of
+30 See id.
+31 See 68 Fed. Reg. 5521 (Feb. 3, 2003), suggesting that those who endorse VSLY assume “that the public
+is willing to pay more money for a rule that saves an average of 10 life years per person than a rule that
+saves one year per person.”
+32 See, e.g., Environmental Protection Agency, Technical Addendum: Methodologies for the Benefit
+Analysis of the Clear Skies Initiatives 30-38 (2002); W. Kip Viscusi, Faral Tradeoffs (1993); Sunstein, The
+Arithmetic of Arsenic, supra note.
+33 See Matthew D. Adler and Eric A. Posner, Rethinking Cost-Benefit Analysis, 109 Yale L J 165 (1999).
+Throughout I use the idea of welfare in a nonsectarian sense. I do not mean to identify the idea with the
+utilitarian account, and I do not mean to reduce welfare to “happiness,” narrowly defined. As I use the
+term, it is agnostic on the controversial normative questions. On utitarianism and consequentialism, see
+Amartya Sen, Utilitarianism and Welfarism, 76 J Phil 463 (1979); for general discussion, see Amartya Sen,
+Development As Freedom (1999). I believe that without resolving any difficult normative questions, it is
+possible to show that VSLY is preferable to VSL, and more generally to show that WTP is an inadequate
+proxy for welfare in many circumstances. On some of the empirical issues involved in measuring welfare,
+see Bruno S. Frey and Aliois Stutzer, Happiness and Economics 4-11 (2001);Alberto Alesina et al.,
+Inequality and Happiness: Are Europeans and Americans Different? (2001).
+doing precisely that.34 As a measure of welfare, that criterion has several advantages,
+above all in circumstances in which regulation amounts to a forced exchange, requiring
+people to “buy” a benefit that they may or may not find it in their interest to buy. But in
+some contexts, no forced exchange is involved, because the beneficiaries of regulation do
+not have to pay for it. And in some contexts, willingness to pay is a poor proxy for
+welfare. In such contexts, regulators should abandon it and think about welfare directly if
+they can.35 I attempt to bring recent work on people’s mispredictions of the welfare
+effects of their own choices to bear on that question,36 with the suggestion that this work
+raises doubts about the use of WTP in many situations.37 There is a large research agenda
+here.</p>
+        <p>The second issue has to do with the relationship between welfare and equity in the
+context of government regulation. While promoting welfare is the basic goal of
+environmental regulation, there are important ethical constraints on the pursuit of that
+goal. Those constraints support some, but not all, of the moral reservations about CBA
+and WTP that are stressed by their critics.38 As I have suggested, it would generally be
+unacceptable for government to adopt a higher VSL or VSLY for men and whites than
+for women and African-Americans.39 Related problems infect the use of QALYs in
+certain circumstances. Suppose, for example, that an otherwise identical government
+intervention could produce more QALYs if directed at the moderately disabled than at
+the severely disabled; is it so clear that the intervention should therefore favor the
+moderately disabled? I do not believe so. An understanding of the nature and the
+weaknesses of the ethical objections to VSLY helps explain the strength of objections to
+the promotion of welfare through regulation in other settings.</p>
+        <p>Finally, I hope to make some progress in clarifying the debate between those who
+emphasize WTP and those who emphasize life-years and QALYs.40 I suggest that
+QALYs can be used as part of a cost-effectiveness analysis; it would be fully possible to
+investigate how many QALYs can be obtained for a given investment of resources. But
+when mortality and morbidity gains are converted into monetary equivalents, QALYs are
+34 See id.
+35 Of course this is a difficult task, and I offer some thoughts here only about the easy cases. For general
+discussion, see Daniel Kahneman, et al., Back to Bentham? Explorations of Experienced Utility, 112 Q. J
+Econ 375 (1997).
+36 See id.; Daniel Kahneman, A Psychological Perspective on Economics, 93 Am. Econ. Rev. 162 (Papers
+and Proceedings) (2003); George Loewenstein and David Schkade, Wouldn’t It Be Nice? Predicting Future
+Feelings, in Daniel Kahneman, Ed Diener, and Norbert Schwarz, eds., WellBeing: The Foundations of
+Hedonic Psychology 85 (Russell Sage 1999).
+37 See Jonathan Gruber and Sendhil Mullainathan, Do Cigarettes Taxes Make Smokers Happier? (2003,
+available at http://www.brook.edu/comm/events/20030605.htm), for an empirical demonstration that higher
+taxes on cigarettes actually increase the happiness of smokers, apparently because smoking decreases
+happiness and taxes decrease smoking. One of the many intriguing features of this essay is this: People are
+willing to pay for cigarettes, and thus in order to smoke, but smoking decreases welfare (on almost any
+understanding of that term) for many or most smokers.
+38 See Lisa Heinzerling and Frank Ackerman, Priceless: Human Health, the Environment, and the Limits of
+the Market (forthcoming 2004).
+39 But see note supra.
+40 For an overview, see James Hammitt, QALYs vs. WTP, Harvard Center for Risk Analysis (2002).
+insufficiently informative. Indeed they tell us nothing at all. The value of WTP is that it
+allows for the conversion. In some circumstances, affected people might be willing to pay
+a large amount for relatively few QALYs—if, for example, they are wealthy or inclined
+to spend much of their wealth on risk-reduction. In other circumstances, affected people
+might be willing to pay a small amount for relatively many QALYs—if, for example,
+they are poor or inclined to spend little of their wealth on risk-reduction. In fact this
+seemingly paradoxical result—higher WTP for few QALYs than for many—is far from
+unlikely. There is no question that other things being equal, more QALYs are better than
+fewer. But where the beneficiaries of regulation would pay all or almost all of its cost,
+WTP is normally the appropriate starting-point for the measurement of benefits.</p>
+        <p>The remainder of this essay is organized as follows. Part II discusses the choice
+between life-years and lives. Here I urge that life-years are an appropriate focus of
+regulatory concern. I also explore ethical and distributive constraints on the promotion of
+welfare through regulation; I suggest that such constraints are real and important, but that
+the use of life-years does not run afoul of them. Part III turns to the vexing question of
+monetization. I suggest that the use of WTP does not raise any special or distinctive
+conceptual issues in the context of life-years. Unfortunately, current evidence does not
+provide clear findings about how WTP for life-years or the remainder of life varies over
+the lifespan. A constant WTP is not supported by existing evidence, and there is some
+reason to think that older people are willing to pay more, per life-year, than younger
+people. I investigate this possibility and what might lie behind it. Part IV briefly identifies
+some options for policy. My most cautious suggestion here is that a life-years calculation
+should be part of the analysis that underlies policy judgments. Part V discusses three
+extensions of the analysis: the possibility of resolving the debate over life-years by
+reference to survey evidence; the choice between QALYs and WTP; and the fact that
+WTP might not adequately measure welfare. Part VI is the conclusion.</p>
+      </sec>
+      <sec id="sec-4-2">
+        <title>II. Welfare and Equity, Lives and Life-Years</title>
+        <p>Should government focus on statistical lives or instead statistical life-years? We
+should be clear on the nature of the opposition between the two. No regulatory program
+can eliminate death; if it is successful, it will merely extend life. If regulators focus solely
+on statistical lives, they will be lengthening lives, and they will be analyzing the
+consequences of regulation without regard to the extent of the lengthening. In fact they
+will be ignoring that intuitively relevant consideration. The initial question, then, is
+whether regulators should focus on statistical lives41 rather than life-years, even while
+acknowledging the fact that life extension is all that is involved.</p>
+        <p>My goal in this section is to show that a focus on life-years should be found
+desirable from a variety of different perspectives, and that it does not offend
+justicerelated constraints on regulatory policy. I suggest that if welfare is the goal of regulatory
+policy, it is important to assess the number of life-years at stake. I suggest as well that
+41 I deliberately leave ambiguous the meaning of “a focus.” At a minimum, I mean to suggest that
+government should assess the number of life-years at stake, and use the resulting figure when the ultimate
+decision is otherwise difficult. See Part V below.
+such an assessment should be appealing to those who are concerned with fairness or
+reciprocity—and also to those who believe that as a matter of principle, regulatory policy
+should attempt to ensure citizens with lives of ordinary lengths. If these claims are
+correct, it should be possible to obtain an incompletely theorized agreement42 on the
+relevance of life-years—an agreement from a diverse set of theoretical perspectives, and
+one that does not depend on resolution of disagreements about the proper foundations of
+regulatory policy.</p>
+      </sec>
+      <sec id="sec-4-3">
+        <title>A. Behind the Veil of Ignorance</title>
+        <p>It should be clear that an emphasis on statistical lives neglects highly pertinent
+information. Why should analysts blind themselves to that information? Other things
+being equal, and as a matter of simple logic, the welfare gain from a program saving (say)
+1000 people between forty and sixty-five is unquestionably higher than the welfare gain
+from a program saving (say) 1000 people who are 65 and over. The former program does
+everything that the latter program does, and much else besides. After all, the sixty-five
+year-olds were themselves forty once, and it would be astonishing if the welfare gain, to
+each of us, of ten more years of life were equivalent to the welfare gain of forty more
+years of life.</p>
+        <p>Nor does an emphasis on life-years disregard or downplay the welfare of older
+people. Once programs focussing on life-years are in place, old people will benefit from
+them no less than younger people, simply because those programs helped them at a
+younger stage and hence increased the likelihood that they would become old.43 In this
+sense, the idea that a life-years approach prefers younger people over older people is
+based on a kind of optical illusion—one that sees human life as a snapshot with everyone
+always at their current age, rather than a moving picture in which people age over time.44
+In any case the life-years approach considers everyone’s life-years the same, old people
+no less than young people, and hence will argue for careful attention to risks that face
+significant numbers of old people.</p>
+        <p>To see the claim for considering life-years, imagine that people are placed behind
+a veil of ignorance,45 in which they do not know their personal characteristics; they are
+42 On the general idea, see Cass R. Sunstein, Legal Reasoning and Political Conflict (1996).
+43 There is one exception to this conclusion: People who became old while government used statistical lives
+but after it switches to statistical life-years. Such people could not, by hypothesis, benefit from statistical
+life-years when they were younger. But it would extremely odd to invoke this short-term problem as a
+reason to continue with the idea of statistical lives if it is obviously inferior.
+44 Note that a claim for attention to life-years does not mean that the nation is devoting too little or too
+much in the way of resources to protect public health. Even if the United States doubled, tripled, or
+quadrupled the money it spends on environmental protection, for example, it would be necessary to decide
+how that money should be spend, and here it would remain necessary to choose between statistical lives or
+statistical life-years.
+45 See John Rawls, A Theory of Justice (1971). I am using the idea of the veil of ignorance for heuristic
+purposes, but not in the way Rawls does. Rawls is interested in issues involving the basic structure of
+society, and it is not at all clear that he believes that the veil should be used to assess the justice of
+particular issues that are contested on grounds of justice. Nonetheless, I believe that the veil of ignorance is
+an illuminating way of testing the legitimacy of asking about life-years.
+unaware of their race, sex, wealth, or (most pertinently) age. Note that the veil of
+ignorance is intended to be an extremely stringent constraint on choice, one that ensures
+that morally irrelevant factors will not play a biasing role.46 If those behind the veil would
+choose statistical life-years over statistical years, we have good reason to believe that
+lifeyears are the appropriate focus of regulatory attention. Would people behind the veil be
+indifferent between a program that would eliminate risks that people would face at thirty
+and one that would eliminate otherwise identical risks faced at sixty? If people do not
+know how old they are, would they have the slightest difficulty concluding that it is better
+to eliminate a 1/50,000 risk faced by one million teenagers than a 1/50,000 risk faced by
+one million social security recipients? At first glance, the choice is entirely clear. The
+program that saves more life-years is better, because it provides more welfare to its
+beneficiaries, and does so without offending any ethical consideration.47 From behind a
+veil of ignorance, choosers would surely select the program that protects younger people,
+and hence would make life-years highly relevant to their own judgments.</p>
+        <sec id="sec-4-3-1">
+          <title>Or consider the following question:</title>
+          <p>You do not know how long you will live. Which of the following two programs do
+you prefer:</p>
+          <p>(a) A program that would eliminate, starting now and for the rest of your life
+after that point, a 1/200,000 risk of death.</p>
+          <p>(b) A program that would eliminate, starting at sixty-five and for the rest of your
+life after that point, a 1/200,000 risk of death.</p>
+          <p>It would be truly astonishing if most people did not prefer Program (a) over
+Program (b). Perhaps a preference for Program (a) reflects, in part, the discounting of
+future years, which (rationally or not48) may not loom so large in people’s current
+calculations.49 But the difference is highly likely to reflect not merely discounting but
+also the fact that Program (a) provides more risk-free years. In answering questions of
+this kind, reasonable people take account of the fact that the welfare benefit of Program
+(a) is significantly higher than the welfare benefit of Program (b). In fact Program (a)
+literally dominates Program (b): It provides everything that Program (b) does, and more
+years of reduced risk as well. It would be easy to design questions, for those behind the
+veil of ignorance, that have this characteristic. A focus on statistical life-years allows
+choosers to select programs that are better, on every dimension, than programs that seem
+identical to those who focus on statistical lives.
+46 See id. It is noteworthy here that Rawls uses the veil of ignorance as a way of challenging utilitarianism
+itself. Id.
+47 I take this point up in more detail below.
+48 On hyberbolic discounting, see David Laibson, Intertemporal Decision Making, Encyclopedia of
+Cognitive Science (forthcoming), available at http://post.economics.harvard.edu/faculty/laibson/papers
+/euler.pdf ; David Laibson and Christopher Harris, Hyberbolic Discounting and Consumption, available at
+id.; Richard Thaler, The Winner’s Curse (1993).
+49 On that issue, see Revesz, supra note.</p>
+          <p>Some cases are not as simple as this one, because they do not involve lifetime
+risks. We could imagine a Program (c) that eliminates a risk faced mostly by people
+between the ages of twenty and twenty-five, and a Program (d) that eliminates a risk
+faced mostly by people between the ages of seventy and seventy-five. Program (c) cannot
+be said to do everything that Program (d) does, and more. Program (d) protects people
+who are not protected by Program (c); there is a real choice here. But Program (c) does
+provide far more life-years, and because it enables (a certain number of) people to reach
+the age of seventy in the first place, it is surely preferable, other things being equal, to
+Program (d).</p>
+        </sec>
+      </sec>
+      <sec id="sec-4-4">
+        <title>B. Discrimination, Life-Years, and Welfare</title>
+        <p>Does a focus on life-years discriminate against older people in some invidious or
+unacceptable way? It is tempting to reach this conclusion. 50 But illicit discrimination is
+not involved. In fact it is the idea of statistical lives that is far more plausibly
+discriminatory than the idea of statistical life-years, because the former treats the
+remaining life-years of old people as more valuable than the remaining life-years of
+young people.51 And because every old person was once young, and (with a little luck)
+young people will eventually become old, an approach that emphasizes life-years does
+not treat old people unfairly. But to approach this question, let us begin with cases in
+which ethical constraints on the pursuit of welfare seem most insistent.</p>
+        <p>Suppose that we could measure welfare directly through a kind of hedometer.
+Suppose too that the hedometer does not rely on contentious conceptions of welfare; it is
+not narrowly limited to pleasure or happiness, and it includes the proper ingredients of
+welfare however these are defined.52 Suppose too that the hedometer is able to show that
+in a relevant population, white people receive more welfare from their lives than do
+African-Americans. Hence, let us suppose, a program that would save fifty white people
+(from cancer as a result of arsenic in drinking water, for example) will produce greater
+welfare gains than a program that would save sixty African-Americans (from air
+pollution in the inner city, for example). Certainly it is not unimaginable that the welfare
+gain is higher for programs that protect whites than for programs that protect an
+equivalent number of African-Americans (though the opposite might also be true).
+Gender differences are possible as well. Perhaps men flourish more than women (though
+here too the opposite might be true). If these examples seem too contentious, imagine that
+there are two social groups, the Flourishing and the Depressed. Members of both groups
+are easily identifiable, and their present and future welfare is captured in the names of
+their respective groups. By stipulation, a program that protects the lives of the
+Flourishing will produce more welfare than one that protects the lives of the Depressed.
+To sharpen the normative question, stipulate too that the Flourishing are responsible for
+50 See McKie et al., supra note, at 47-72.
+51 Note that this is objectionable if, other things being equal, each person’s life-year counts for no less and
+no more than one. It is all the more objectionable if older people are seen as having a larger “stock” of
+lifeyears and hence as comparatively “rich” in welfare terms. In that event, the life-years of younger people
+deserve higher priority on distributive grounds. I do not explore these complexities here.
+52 Hence the term eudaimeter seems to me more fitting but more unruly. See the discussion of eudaimonia
+in Marths Nussbaum, The Fragility of Goodness 142,-43, 343-72 (rev. ed. 2001).
+the depression of the Depressed; that if not for the active efforts of the Flourishing, the
+Depression would come closer to flourishing too.</p>
+        <p>This example is hypothetical and we lack hedometers. For the moment, let us turn
+to willingness to pay (WTP) instead.53 W. Kip Viscusi finds that African-American males
+have a significantly lower WTP than white males: $7.7 million versus $15.1 million.54 He
+also finds that African-American females have a lower WTP than white females: $8.7
+million versus $11.3.55 Thus the overall VSL for the white sample is $13.4 million,
+whereas the overall VSL for the African-American sample is $9.3 million, and the VSL
+for the male sample is $15.1, much higher than the VSL of $11.3 for the female sample.56
+If WTP is the basis for government policy, agencies should be assigning a much higher
+VSL for whites and men than for African-Americans and women. Viscusi himself does
+not reach this conclusion. He says that “because of differences in market opportunities, it
+is inappropriate to attribute the observed differences to a greater willingness to black
+workers to bear risk.”</p>
+        <p>Of course the WTP numbers do not show or even suggest that when regulatory
+programs save lives, African-Americans and women gain less, in terms of welfare, than
+whites and men. By itself, the lower WTP demonstrates no such thing; as we shall see,
+WTP is merely a proxy for welfare, and an especially crude one in the face of disparities
+in income, wealth, and opportunities. Suppose that Donald Trump is willing to pay $500
+to eliminate 1/50,000 risk of having migraine headaches for the next year; suppose too
+that I am willing to pay only $25 to eliminate the same risk. The difference might well
+stem only from differences in wealth; the welfare loss, from migraine headaches, would
+be the same for the both of us. But it is certainly imaginable that some people, defined in
+demographic terms, do obtain more welfare from their lives than others. To see whether
+there are ethical constraints on the promotion of welfare through regulation, let us simply
+stipulate that this is the case.</p>
+        <p>Should government devote more resources to the protection of those racial or
+ethnic groups that would gain more welfare from protection? Most people would find the
+very question absurd. In cases of these sorts, there is an equality-based check on the
+pursuit of greater welfare. In fact racial discrimination on this basis would be
+unconstitutional. But what is the source of the equality-based check? In the context of
+race discrimination, a central problem is that if African-Americans receive less welfare
+from their lives than do white people, a large part of the reason lies in social and legal
+practices, past and present, which help produce that state of affairs. This form of
+inequality reflects injustice. If government takes the inequality as a kind of given for the
+purposes of policy, it is compounding the injustice. In fact it is actually creating a kind of
+vicious circle, in which disparities in welfare justify increased disparities in welfare,
+which in turn justify ever-increasing disparities in welfare. The ethical intuition is simple:
+53 See W. Kip Viscusi, Racial Differences in Labor Market Values of A Statistical Life (2003), available on
+ssrn.com.
+54 See id. at 29.
+55 Id.
+56 Id. at 25.
+Where disparities in the welfare effects of regulatory policies are a product of
+background injustice, government is properly blocked from taking those disparities into
+account.57</p>
+        <p>This point has implications for the debate over the use of quality-adjusted life
+years in regulatory policy. Insofar as the idea of QALYs is designed to rank health gains
+along with fatalities averted, it makes a great deal of sense; reductions in curable cancers,
+asthma attacks, and chronic bronchitis surely count as gains, whoever receives them. But
+suppose that people with severe physical and emotional ailments can be benefited only
+moderately by protective interventions—and hence that the number of QALYs, from
+such interventions, is relatively low, simply because those who are helped cannot, in light
+of their disability, be helped much. Should government concentrate instead on programs
+for people with less severe ailments? If government should not, it is because it is unjust to
+disfavor those whose aliments are most serious.58 This problem is not the same as the
+problem of disparities across lines of race and gender, but it raises related concerns.</p>
+      </sec>
+      <sec id="sec-4-5">
+        <title>C. Life-Years, Fairness, and Reciprocity</title>
+        <p>Thus far I have suggested that considerations of justice constrain the promotion of
+welfare through regulatory controls. But is the use of statistical life-years morally
+unacceptable in the same way as a VSL that discriminates on the basis of race or gender?
+This seems quite implausible. The initial point is that it is hard to argue that injustice
+accounts for the welfare disparity between protection of a thirty-year-old and protection
+of a sixty-year-old. The disparity comes from the simple fact that younger people have
+more years left. Now that disparity might itself be an injustice if social practices, or even
+nature, singled out certain groups of people and gave them shorter lives. Hence the use of
+life-years would indeed be problematic if it systematically burdened members of
+identifiable social groups (an issue to which I will return). But by itself, the notion of
+lifeyears is demographically neutral in both theory and practice.59</p>
+        <p>Under the life-years approach, older people are treated worse for only one reason:
+They are older. This is not an injustice. Every old person was young once, and every
+young person will be old too (if given the chance). In fact an important form of
+reciprocity is built into the life-years approach. If regulatory policy is based on life-years,
+every person will, in a sense, be both benefited and burdened, and in exactly the same
+way. Indeed, every person will be both a beneficiary and a victim of the relevant
+discrimination. People—the same people—will be benefited when they are younger and
+burdened when they are older. They have no cause to complain of an approach from
+57 I am putting to one side the possibility of adopting welfare-promoting regulatory policies alongside
+redistributive tax-and-spending policies. See below.
+58 See the discussion of the natural lottery in John Rawls, A Theory of Justice (1973).
+59 There is a possible qualification here if African-Americans (for example) live shorter lives, and if VSLY
+therefore ensures that African-American lives will be valued, on average, less than white lives. In theory,
+this is indeed a possible problem. But in practice, regulatory policies that use VSLY do not run into that
+problem, because they are too coarse-grained to discriminate in this fashion.
+which they gained at an earlier stage.60 It is hard to see how the relevant form of
+discrimination is illicit. In fact it is not clear that it is a form of discrimination at all.
+Everyone’s life year counts as no less and no more than one. In fact it would be possible
+to conclude that this argument from reciprocity is a free-standing justification of the
+lifeyears approach, putting issues of welfare entirely to one side.</p>
+        <p>In an important sense, a focus on statistical lives is discriminatory, not a focus on
+statistical life-years. The former discriminates against younger people, simply because it
+treats each of their years as less valuable than those of older people. A program that uses
+statistical lives accords far more value to each remaining year of an old person’s life than
+to each remaining year of a young person’s life.61 The point is not purely semantic.
+Suppose that we conclude that lifetime well-being is what matters, and that other things
+being equal, policies should not give some people more lifetime well-being than others.
+A policy that looks solely at statistical lives will violate this principle. Compare a group
+of people who die from a certain risk at fifty with a group of people who die from the
+same risk at seventy. Other things being equal, the latter group has received significantly
+more lifetime well-being than the former, and attention to statistical lives forces
+government to ignore this fact. If anything, an age-neutral statistical lives approach is
+subject to a claim of illicit discrimination, not an approach that focuses on life-years.</p>
+        <p>A possible argument would come from the criminal law. Those who kill older
+people are not punished less harshly than those who kill younger people. In fact it would
+be extremely surprising to find a criminal sentencing policy that imposes higher
+sentences on those who kill people thirty and under than on those who kill people fifty
+and over.62 If criminal punishment treats lives as equivalent, and does not make life-years
+relevant, why, it might be asked, should regulation be any different? Part of the answer
+lies in the sheer heinousness of murder. The intentional killing of another human being is,
+in terms of its consequences, so bad that the age of the victim is a matter of relative
+indifferences. Perhaps the system of criminal justice focuses not solely on social
+consequences but also on the character of the act and the perpetrator. If this is the focus, a
+murderer of a young person is unlikely to be worse than a murderer of an older person.</p>
+        <p>Distinctions among different kinds of crimes raise many complexities, and it is
+certainly reasonable to think that a murder of another human being regulation is more
+60 Arguments from reciprocity are not always convincing. Suppose, for example, that certain people were
+beneficiaries of racial discrimination in the past, and at some future point they are harmed by racial
+discrimination. At least it is not clear that the latter form of discrimination can be justified by reference to
+the former. If not, the problem is that discrimination is unjust. If my arguments in the text are correct, this
+problem does not apply to the life-years criterion, because there is no injustice.
+61 For a utilitarian, this approach is objectionable because each life-year, other things being equal, is an
+equal source of utility, and hence a program should prefer more life-years rather than fewer. We could
+imagine a kind of utilitarian or consequentialist who would give higher priority to the welfare of the least
+well-off. In this context, who counts as the least well-off? In an important sense, young people fall in that
+category, because they have not yet had the opportunity to accumulate welfare; older people already have a
+large welfare “stock.” But a resolution of these complexities is not important for my analysis here.
+62 It would be less surprising to find a sentencing policy that imposes severe punishment on those who
+murder children. But here the reason for the severity would be the special vulnerability of children, not the
+fact that they have many life-years left.
+analogous to the system of civil damages, which do seem to turn on life-years. Many
+state courts, including several state supreme courts, have calculated damages in wrongful
+death cases by assigning a net value to each remaining year the decedent would likely
+have lived. These courts have used life expectancy tables and projected annual earnings
+to determine lost income.63 Several courts have gone further and used estimated life
+expectancy to determine damages for loss of society or consortium.64 In these states, the
+lives of young people are presumptively more valuable than those of the elderly. In this
+respect, the use of life-years, as part of an understanding of appropriate policy, is hardly
+foreign to the legal system.</p>
+        <p>Consider another way to get at the issue. On one view, people have a moral
+entitlement to have a chance to live to the end of a human life of normal length.65 It
+follows that there is a special moral objection if members of a relevant population are
+dying at the age of thirty or forty, an objection that does not apply if members of a
+relevant population are dying at the age of seventy or eighty. If people have a moral
+entitlement to avoid (excessive risks of) premature death, then government legitimately
+devotes special attention to otherwise identical risks faced at relatively early places in the
+lifespan. Those who emphasize the importance of providing people with ordinary
+longevity should find a focus on life-years compatible with their goals, and highly
+congenial insofar as that focus makes it more likely that citizens will have a chance to
+have lives of ordinary length.66 In any case a special virtue of focussing on life-years is
+that it ensures attention to a crucial question, which is whether affected citizens have had
+an opportunity to live a number of years already.67
+63 See, e.g., Payne v. Eighth Judicial Dist. Court, 60 P.3d 469, 473 (Mont. 2002); Romero v. Byers, 872
+P.2d 840, 845-46 (N.M. 1994); Bemenderfer v. Williams, 745 N.E.2d 212, 219 (Ind. 2001); Davidson v.
+Lindsey, 104 S.W.3d 483, 493 n.2 (Tenn. 2003).
+64 See, e.g., Thomas v. Hilburn, 654 So.2d 898, 903 (Miss. 1995); Durham ex rel. Estate of Wade v. U-Haul
+Int’l, 745 N.E.2d 755, 766 (Ind. 2001).
+65 See Martha Nussbaum, Women and Human Development 78 (2000). Nussbaum lists, as the first of
+“central human functional capabilities, “Being able to live to the end of a human life of normal length; not
+dying prematurely, or before one’s life is so reduced as to be not worth living.” Complex issues are raised
+by the application of this idea to the context of social risks (and hence I do not adopt her phrasing here).
+Suppose, for example, that citizens in a population of 200 million are exposed to a median annual mortality
+risk of 1/500,000 from all causes (including, for example, motor vehicle accidents, cigarette smoking,
+alcohol use, air pollution, water pollution, pesticides, occupational accidents, homicide, hunger, and much
+more). This would be an exceptionally safe population—safer, in fact, than any society in the history of the
+world. But of that population, 400 people would die each year, many of them prematurely.
+66 A focus on life-years is not, of course, the same as an effort to ensure that everyone has a chance to have
+a lifespan of ordinary length. My only suggestion is that an approach that looks at statistical lives, and does
+not look at life-years, is less likely to provide that chance than an approach that make life-years relevant.
+67 Note that this is a different question from the life-years question, though it is overlapping. Consider two
+programs. (a) Program A would remove a statistical risk from a population of people who are forty; their
+life expectancy is sixty-five. (b) Program B would remove the same statistical risk from a population of
+people who are fifty; their life expectancy is eighty. On the life-years approach, Program B is to be
+preferred. But if we are focussing on the numbers of years that people have had already, Program A might
+be better.</p>
+      </sec>
+      <sec id="sec-4-6">
+        <title>D. Literal Age Discrimination?</title>
+        <p>Do these arguments undermine the widely acceptable principle against age
+discrimination? If so, the arguments might be thought to have mischaracterized the
+ethical issues involved—or to have broad and perhaps radical implications, calling for a
+rethinking of the broadly accepted prohibition on age discrimination.</p>
+        <p>Under the Age Discrimination in Employment Act,68 employers are forbidden
+from discriminating against people over forty. They cannot choose a thirty-year-old over
+a fifty-year-old. Indeed, they cannot discriminate even if they can claim that they are
+relying on a statistically sound generalization—as sound as those on which employers
+and others rely every day.69 It is not acceptable for an employer to conclude that
+thirtyyear-old teachers are more fit, energetic, and creative than fifty-year-old teachers, even if
+this is generally true, and even if it is difficult, in individual cases, to test creativity before
+people have started to work.70 Nor would it be permissible for an employer to adapt the
+argument I have been defending here. An employer could not say that he wants to hire
+people who have a large number of life-years left—even if the employer could say, not
+implausibly, that he would like employees with many life-years rather than fewer, and
+even if he could add, also not implausibly, that a life-years approach to hiring does not, in
+a sense, discriminate against anyone. (Recall that every older person was young once and
+that every younger person, if lucky, will eventually be older too.) The question, in short,
+is whether it is possible to defend the use of statistical life-years over statistical lives
+while also accepting the prohibition on age discrimination in employment. I believe that
+it is.</p>
+        <p>To be sure, the prohibition on age discrimination in employment does not have
+the same moral standing as the corresponding prohibitions on race and sex
+discrimination.71 But it is easy to see how the former prohibition might be justified. Some
+age discrimination is undoubtedly a product of unthinking prejudice—of a false belief
+that older people are unable to engage in certain tasks.72 If prejudice is frequently
+responsible for age discrimination, perhaps age discrimination should generally be
+banned. A supplemental rationale would be that discrimination on the basis of age inflicts
+an unusual kind of dignitary harm—one that makes it different from, and worse than,
+most kinds of employment-related injury. If an employee is fired because he is fifty-five,
+or not hired for that reason, the psychological and dignitary injury is plausibly worse,
+even far worse, than that faced by people who are fired or hired for other reasons. At least
+this point seems to animate the Age Discrimination in Employment Act.73
+68 See 29 USC 621-34.
+69 See Samuel Estreicher and Michael C. Harper, Cases and Materials on Employment Discrimination and
+Employment Law 445 (2000). In some narrow circumstances, however, age might be a bona fide
+occupation qualification. See Western Air Lines v. Criswell, 472 US 400 (1985).
+70 See id.
+71 See Samuel Issacharoff &amp; Erica W. Harris, Is Age Discrimination Really Age Discrimination? The
+ADEA’s Unnatural Solution, 72 N.Y.U.L Rev. 780, 783 (1997).
+72 See Estreicher and Harper, supra note, at 444-45.
+73 See id.</p>
+        <p>The key point is that whether prejudice or dignitary harm is the basis of the
+ADEA, the same problems do not raise doubts about the government’s use of statistical
+life-years. When government uses life-years, it is not because it is prejudiced against
+older people or acting on the basis of unreliable stereotypes about them. There is no
+overgeneralization here. Nor is it easy to show that a dignitary harm, of the sort involved
+in the employment context, is an issue here. It is one thing to be told, by a specific
+employer, that you will be fired or not hired because you are too old. It is quite another
+thing for the government to use an approach that focuses on life-years rather than lives.
+To be sure, it is possible to characterize such an approach in a way that does inflict
+dignitary harm. Perhaps some objections to life-years stem from a perception that this
+measures values older people less, treating them as “worth” some fraction of younger
+people. But these objections rest on a highly misleading way of framing what life-years is
+all about.</p>
+      </sec>
+      <sec id="sec-4-7">
+        <title>E. Bad Luck in the Natural Lottery (with a note on sex discrimination)</title>
+        <p>There is, however, one set of ethical constraints on the life-years approach.
+Compare two programs:
+(a) Program A would eliminate a risk faced by people who are ten years old or
+younger, but who have a life expectancy of forty years or less, because they have
+a preexisting condition that will likely lead to premature mortality.
+(b) Program B would eliminate a risk faced by people who are thirty years old, but
+who have a life expectancy of seventy or more, because they are in good health.</p>
+        <p>On the life-years approach, Program B is better. But is it better in principle? Note
+that if it is objectionable, it is not for the same reason as an approach that discriminates
+on the basis of race or sex. Social injustice is not responsible for the low life expectancy
+of the people who would be helped by Program A. (Let us so stipulate; if social injustice
+is involved, the case is close to those of race and sex discrimination.) Instead the
+problem, for the beneficiaries of Program A, is bad luck in the “natural lottery.”74 People
+whose life expectancy is low, as a result of preexisting conditions, have been dealt an
+unfortunate blow by fate. In my view, government should take reasonable steps to
+ameliorate such blows, and should not make them worse through social policies. A
+lifeyears approach that is blind to the natural lottery would be unjust,</p>
+        <p>This point very much bears on medical interventions and on government funding
+for medical projects. But it is rarely raised in regulatory policy. Typically government is
+deciding whether to adopt regulations that reduce pollution or otherwise increase safety
+across large populations. From the standpoint of the natural lottery, the life-years
+criterion does not raise objections in the vast bulk of such cases.75 But it might well turn
+74 See Rawls, supra note, at XX.
+75 Compare another puzzle. (1) Program A would save 1000 infants. (2) Program B would save 1000
+tenyear-olds. On the life-years approach, Program A is of course better, other things being equal. On
+willingness to pay grounds, taken up in part III, this is much less clear; there are hard empirical and
+conceptual questions here. And there are theoretical reasons to question a preference for Program A.
+out to create intriguing questions in the context of programs that disproportionately
+benefit men or women. The life expectancy of women is higher than the life expectancy
+of men. As of 2000, the average life expectancy for men at birth was 74.1, but 79.5 for
+women.76 A breast cancer prevention program might well protect more life-years than an
+otherwise identical program designed to protect men.77 In my view, a neutral use of the
+life-years approach should not be thought to be unacceptably discriminatory even if it
+produces more attention to women than to men, though a formal commitment to sex
+equality, or to counteracting the effects of natural lottery, would raise real doubts.</p>
+      </sec>
+      <sec id="sec-4-8">
+        <title>III. Monetization</title>
+        <p>These points suggest that in deciding whether to regulate, government should
+consider life-years saved, not merely lives saved (a misleading way of framing the
+alternative, which is really lives extended).78 And if life-years are the focus, it would be
+possible to engage in cost-effectiveness analysis, seeing how many life-years are obtained
+for given investments in regulatory protection. Government might therefore reallocate
+some of the resources devoted to programs protecting the elderly to programs protecting
+younger people.79 But suppose that government seeks to engage not merely in
+costeffectiveness analysis but also in cost-benefit analysis. If this is what it seeks to do, it will
+have to turn life-years into monetary equivalents. For most economists, the valuation of
+regulatory benefits, and the monetization of life-years, depends on WTP.80 Should WTP
+be used here?</p>
+        <p>At first glance, the use of WTP, as a way of monetizing benefits, creates no
+special or novel issues in the context of life-years. Under the economic framework, the
+goal should be to calculate people’s WTP for statistical years over the lifespan. We
+Because Program B would save people who have accumulated memories and experiences, the individual
+loss might be higher; and because of the investment of family and friends, the social loss might be higher as
+well. For relevant discussion, see Ronald Dworkin, Life’s Dominion (1996). A full account would of
+course have to come to terms with this question, which might justify further constraints on the use of
+lifeyears.
+76 See http://www.cdc.gov/nchs/fastats/lifexpec.htm.
+77 To make the issue more concrete, compare two programs. (1) Program A would save 1000 women with a
+median age of sixty. (2) Program B would save 1000 men with a median age of sixty. Under the life-years
+approach, Program A is better, because it would protect more life-years.
+78 There are some exotic variations that I do not deal with here. Compare two programs. (1) Program A
+would save 50 people who are ten years old. (2) Program B would save 100 people who are forty-six years
+old. If life expectancy is 80, then the first program would save 3500 life-years, whereas the second would
+save 3400 life-years. Is it so clear that program A is to be preferred? If not, it might be because reasonable
+people would prefer something like a weighted average of lives saved and life-years saved, so that a large
+number of people, and a small number of life-years, would receive more attention than life-years alone
+suggest, just as a small number of people, and a large number of life-years, would receive less attention. I
+do not deal with that possibility here. If government concentrated on life-years for purposes of regulation, it
+is likely that this issue would balance out in the end. The area of medical treatment is one in which the
+issue might have more practical importance.
+79 This would be an extension of the reallocations aimed at in Stephen Breyer, Breaking the Vicious Circle
+(1993).
+80 See, e.g., V. Kerry Smith, Do the “Near” Elderly Value Mortality Risks Differently? (unpublished
+manuscript 2002).
+regulation, the question is much easier. If they are paying only $10 for benefits valued at
+$50, they are net gainers. It follows that if social planners are particularly interested in the
+welfare of the possible beneficiaries, the program is justified.</p>
+        <p>But there is an obvious response. To assist the relevant population, it would be
+better to give them a cash subsidy rather than to provide them with a regulatory benefit
+that is, by hypothesis, less valuable to them than it is costly to those who must provide it.
+And under plausible assumptions, a subsidy would indeed be better than a regulatory
+benefit, both because it is more efficient and because it is a better means of
+accomplishing the redistributive goal. In the face of background injustice, or indefensible
+inequality, the tax system should usually be used as a corrective.118 On a widely held
+view, regulation should involve maximization; redistributive tax and spending policies,
+rather than regulation, should be used to promote redistribution.119 The issue is
+disputed.120 But if a redistribution is not going to come from tax and spending policies, it
+is certainly possible that provision of the regulatory benefit is preferable to the status quo
+on grounds of both welfare and distribution. Note that a uniform VSL or VSLY is itself a
+kind of redistributive strategy (imperfect to be sure).121</p>
+        <p>Fortunately, it is not necessary to resolve the hard questions here. If the life-years
+approach ends up valuing younger people more than older people (because they have
+more life-years left), the older people have no claim for special government help. But we
+can reach some more general conclusions about WTP and regulatory policy. If the
+beneficiaries of regulation pay its full cost, and if there is no informational or cognitive
+problem, WTP provides the correct figure. If the beneficiaries of regulation do not pay its
+full cost, regulation might be justified even if it exceeds WTP. For purposes of policy,
+one problem is that in many cases, government cannot easily determine how much of the
+cost of regulation is borne by its purported beneficiaries. With perfect tools, regulators
+would have a complete sense of the incidence of regulatory costs, and an understanding
+of the distribution of benefits and burdens would be helpful in making regulatory
+choices.122 But government lacks those tools. The best approach is probably to begin with
+WTP to measure the value of statistical life-years, and then to make distributional
+118 See, e.g., David A. Weisbach, Should Legal Rules Be Used to Redistribute Income?, 70 U. Chi L Rev
+439 (2003); Louis Kaplow and Steven Shavell, Why the Legal System Is Less Efficient Than the Income
+Tax in Redistributing Income, 28 J Legal Stud 667 (1994); Steven Shavell, A Note on Efficiency vs.
+Distributional Equity in Legal Rulemaking, 71 Am Econ Rev. 414 (1981).
+119 See Weisbach, supra note; Kenneth J. Arrow et al., Benefit-Cost Analysis in Environmental, Health, and
+Safety Regulation 8 (1996)
+120 See Chris Sanchirico, Deconstructing the New Efficiency Rationale, 86 Cornell L Rev 1003, 1069
+(2001; Chris Sanchirico, Taxes versus Legal Rules as Instruments for Equity: A More Equitable View, 29 J
+Legal Stud 797, 820 (2000).
+121 See W. Kip Viscusi, Risk Equity, in Cost-Benefit Analysis 7 (Matthew D. Adler and Eric A. Posner eds.
+2001); see also Kahn, supra note. In the racial context, a uniform VSL can even be seen as a form of
+affirmative action, in the sense that it gives a “boost” to African-American VSL because of a perception of
+past social discrimination. Note that the boost also results in a reduction of white VSL, at least if regulators
+use the median VSL.
+122 Note that in its recent draft guidelines, OMB asks regulators to try to assess the distributional effects of
+regulation. See Office of Management and Budget, Draft 2003 Report to Congress on the Costs and
+Benefits of Federal Regulations, 68 Fed. Reg. 5521 (Feb. 3, 2003).
+adjustments in appropriate cases.123 Along these dimensions, the analysis of statistical
+life-years does not differ from the analysis of statistical lives.</p>
+        <p>Of course government does not lack control over the distributional incidence of
+efforts to protect safety, health, and the environment. Government might provide a
+benefit for free, perhaps by accompanying regulation with a cash payment to those who
+are supposed to benefit. But an analysis of this possibility would take me well beyond the
+present discussion.124 For reasons I have given, older people, as such, are not a strong
+payment for cash subsidies, even if future studies find that their WTP is sometimes
+relatively low under a VSLY approach.</p>
+      </sec>
+      <sec id="sec-4-9">
+        <title>E. Uniformity and Disaggregation in Monetary Valuation</title>
+        <p>Government agencies tend to use a uniform VSL. Proposals for the use of VSLY
+tend to use a uniform number or a number that makes only simple, crude distinctions—
+between, say, people under and over 65.125 But we can make some conceptual progress
+here, and eventually practical progress as well, if we recognize that if government had
+perfect information, and if it could individuate regulatory benefits, its valuations would
+be much more fine-grained. In fact the use of VSLY, as opposed to VSL, can be seen as
+an initial step toward more in the way of individuation. To put the point in the simplest
+terms: To the extent that the beneficiaries of regulation bear its full costs and have perfect
+information, a perfectly informed government might use a perfectly individuated WTP,
+giving people precisely the level of protection that they deem to be in their interests with
+respect to the risk in question.126</p>
+        <p>It follows that a uniform VSL, or a uniform VSLY, is not easy to justify. It can be
+supported partly on the ground that government lacks the tools to bring about sufficient
+individuation across either people or risks. We have seen that government does not know
+how VSLY varies across the life cycle. With their various endowments and preferences,
+individuals show a great deal of heterogeneity with respect to statistical hazards. We have
+seen that wealthy people will pay more than poor people; risk-averse people will of
+course pay more than risk-inclined people In addition, social risks, even risks of death,
+are hardly all the same. Many people are risk-averse with respect to some hazards but
+risk-inclined with respect to others. In deciding whether to be risk-averse, numerous
+distinctions might be deemed relevant. People might reasonably distinguish, for example,
+between a risk of death from cancer and a risk of death from heart disease, and they
+might also distinguish among workplace risks, risks of motor vehicle accidents, and risks
+associated with air pollution.127 If government were omniscient, it would individuate
+regulatory programs along all these dimensions. And if regulatory tools could be
+perfectly individuated, government might provide every individual with regulatory
+protection that perfectly matched his preferences and hence his situation-specific WTP—
+123 See Cass R. Sunstein, Risk and Reason (2002).
+124 For some remarks, see Sunstein, The Arithmetic of Arsenic, supra note.
+125 See note supra.
+126 I am assuming that WTP is based on informed preferences and that there are no third party effects.
+127 See relevant discussion, see Paul Slovic, The Perception of Risk (2001).
+assuming, again, that people are being forced to pay the cost of that protection.128 There
+would be no single VSL or VSLY; the relevant values would be highly particular to
+persons and situations.</p>
+        <p>Why, then, does government rely on such crude population-wide, largely
+riskinvariant129 measures? One reason is that it lacks good information about the WTP of
+subgroups; another reason is that for many regulatory programs, it must simultaneously
+protect large populations. In these circumstances, a decision to adopt subgroup-specific
+WTP would be hard to defend unless the program in question would benefit and burden
+mostly or entirely classes of people who could be defined in terms of those subgroup
+characteristics. As knowledge grows, it might be expected that less uniform numbers will
+be used in the future.130 I cannot discuss that issue in any detail here, but the shift from
+VSL to VSLY can be seen as a small but unmistakable movement in that direction.</p>
+      </sec>
+      <sec id="sec-4-10">
+        <title>IV. Policy Implications</title>
+        <p>I have suggested that on grounds of welfare and equity, it makes a great deal of
+sense to focus on statistical life-years rather than statistical lives. At a minimum,
+regulators should have, and give, a sense of the life-years expected to be saved by
+regulation. The hard question involves the translation of life-years into monetary
+equivalents. The basic claim of WTP is that it provides a (crude but administrable) proxy
+for the welfare effects of various courses of action. Other things being equal, more
+lifeyears provide more welfare than fewer, whatever the results of WTP studies. But if young
+people show a low VSLY, and if old people show a high one, government does people no
+favors by using a uniform number if they are well-informed and if they bear the cost of
+the benefits that are being provided. Because VSLY might vary over the lifespan, there is
+a risk that a uniform VSLY will produce significant errors—possibly, in fact, more
+serious errors than a uniform VSL.131 Ideally, a government that uses WTP, and seeks
+accuracy, would inquire into WTP over lifespans and use varying VSLY depending on
+the ages of the beneficiaries of regulation. Lacking that information, government might
+do best to proceed more modestly and cautiously.</p>
+        <p>We could imagine a range of possibilities. At a minimum, a focus on life-years
+allows alternatives to be ranked in terms of cost-effectiveness: A program that saves
+10,000 life-years is better than one that saves 4000, and more resources should be
+devoted to the former than to the latter. With respect to CBA, the most modest approach
+would be purely informational: to calculate both VSL and VSLY (using the most
+128 As noted, subsidies might be appropriate in cases in which people’s WTP is low because of (say)
+poverty despite the possibility of large gains from regulation.
+129 But see the sensitivity analysis in the context of arsenic, giving a premium because of the dread and
+involuntary nature of the cancer, discussed in Sunstein, The Arithmetic of Arsenic, supra note.
+130 Id.
+131 The reason is that if a uniform VSLY leads to far too low numbers for some people, and far too high
+numbers for others, the multiplication of life-years by the monetary value might produce less accuracy than
+would reliance on a simple, single VSL. Suppose, for example, that the government is choosing between a
+VSL of $6.1 million and a VSLY of $200,000. If young people show a VSLY of $60,000, and if old people
+show a VSLY of $350,000, it is possible that VSL will actually provide a better match to actual WTP.
+accurate available measure) and to inform the public of the calculations. A mildly less
+modest approach would be to continue with VSL, but in close cases, to treat VSLY, or
+the age distribution of the protected population, as a kind of tie-breaker. When CBA
+produces difficult calls, agencies might be told not to act if the benefited class is mostly
+elderly, but to do so if the benefited class is mostly young. On this view, the age
+distribution would be consulted only if the case were otherwise in equipoise.</p>
+        <p>The most ambitious approach would be to abandon VSL and to use VSLY
+instead, at least if reasonably accurate numbers are available. On this view, VSL would
+be seen as a crude first step toward the more refined inquiry than VSLY makes possible.
+A number of intermediate approaches are possible. Perhaps VSL would be the basic
+foundation for analysis, but a sensitivity analysis would run the numbers with VSLY.
+Perhaps regulators would have the authority, subject to political constraints, to use one or
+another number when the circumstances make that decision seem reasonable.132 Of
+course any effort to engage in analysis of costs and benefits would be constrained in the
+usual fashion, with, for example, permission to consider distributional considerations,
+especially if poor people stand to lose or to gain a great deal from regulation.133</p>
+      </sec>
+      <sec id="sec-4-11">
+        <title>V. Extensions</title>
+        <p>The discussion thus far has been narrowly focussed on the choice between
+statistical lives and statistical life-years. But an exploration of the relevant issues has
+some broader implications. I explore three questions here: the possible opposition
+between the use of surveys to resolve hard normative questions; the choice between
+QALYs and WTP in regulatory policy; and the possible opposition between welfare and
+WTP.</p>
+      </sec>
+      <sec id="sec-4-12">
+        <title>A. A Tempting Wrong Question</title>
+        <p>It might be tempting to argue that the choice between statistical lives and VSL or
+statistical life-years and VSLY should be made not by asking people about their WTP,
+but by asking them their preferences as between programs that focus on VSL or
+VSLY.134 People might be asked if they believe that government should treat each
+averted fatality as no more and no less than one, or if government should instead consider
+the age of those whose lives are saved. If it turns out that people prefer life-years, then we
+132 One implication of the present discussion involves the possibility of legal challenges to the decision to
+use either VSL or VSLY, and also to particular decisions about how to measure them. Under some statutes,
+cost-benefit analysis is the basis for decision, and in such cases, the agency’s calculations are subject to
+challenge. See, e.g., Corrosion Proof Fittings v. EPA, 947 F.2d 1201 (5th Cir. 1991). In light of the present
+state of uncertainty, it would not be arbitrary for an agency to choose either VSL or VSLY, though there
+are plausible challenges to both measures. See Sunstein, The Arithmetic of Arsenic, supra note, for relevant
+discussion.
+133 See Robert Hahn and Cass R. Sunstein, Broader and Deeper Cost-Benefit Analysis?, U Pa L Rev
+(2002). Note that OMB suggests attention to distributional considerations in its draft guidelines. See Office
+of Management and Budget, Draft 2003 Report to Congress on the Costs and Benefits of Federal
+Regulations, 68 Fed. Reg. 5521 (Feb. 3, 2003).
+134 For a related survey, see McKie et al., supra note, at 117-127.
+might select appropriate numbers by asking subjects to choose between programs with
+different amounts for VSLY, or by seeing, through surveys, how people value life-years
+over the course of a lifespan. It might turn out, for example, that people consider each
+life-year as equivalent to (say) $200,000; or perhaps people will value life-years at a
+special premium when the beneficiaries are either especially old or especially young.
+Perhaps people do not believe that every life-year counts as equivalent to every other, but
+would prefer to devote special attention to the life-years of those at identifiable points at
+the age distribution. In any case, the suggestion would be that policy should be set by
+consulting not WTP, but instead the public’s judgments about the appropriate values.</p>
+        <p>This solution has some intuitive appeal; it seems responsive, as a democracy
+should be, to citizens’ judgments. Hence this solution has been used as a way of getting
+some purchase on the normative issues.135 If WTP in the market seems to have
+distortions, surveys might seem better, perhaps because they invite people to consult their
+conscience, not simply their self-interest. But this approach has two fundamental
+problems. The first is that people’s answers are highly likely to depend on how the
+questions are set up. The second is that even if people do have stable answers to such
+questions, it is unclear that those answers have any moral standing for purposes of policy
+and law. The problems with surveys, in this context, suggest that surveys are not
+likelihood to be a helpful way to solve many normative issues of this kind.</p>
+        <p>1. An analogy. Consider the analogous question of obligations to future
+generations,136 a much-disputed problem in regulatory policy.137 A regulatory system that
+attempts to track people’s preferences would try to measure intergenerational time
+preferences, that is, to elicit people’s judgments about how to trade off the protection of
+current lives and future lives. Hence an important question, asked in many debates about
+the issue, is whether people actually make such judgments and whether they can be
+elicited. And indeed, an influential set of studies finds that people value the lives of those
+in the current generation far more than the lives of those in future generations.138 From a
+series of surveys, Maureen Cropper and her coauthors suggest that people are indifferent
+between savings one life today and saving 45 lives in 100 years.139 They make this
+suggestion on the basis of questions asking people whether they would choose a program
+that saves “100 lives now” or a program that saves a substantially larger number “100
+years from now.”140
+135 See id.
+136 See Shane Frederick, Measuring Intergenerational Time Preference: Are Future Lives Valued Less?, 26
+J. Risk and Uncertainty 1 (2003).
+137 Richard Revesz, Environmental Regulation, Cost-Benefit Analysis, and the Discounting of Human
+Lives, 99 Col L Rev 941 (1999); Comment, Judicial Review of Discount Rates Used in Regulatory
+CostBenefit Analysis, 65 U Chi L Rev 1333 (1998).
+138 See Maureen Cropper et al., Rates of Time Preference for Saving Lives, 82 Am. Econ. Rev. 469 (1992);
+Maureen Cropper et al., Preferences for Life Saving Programs: How the Public Discounts Time and Age, 8
+J. Risk and Uncertainty 243 (1994).
+139 Id.
+140 Id.</p>
+        <p>But it turns out that other descriptions of the same problem yield significantly
+different results.141 Here, as in other contexts, it is unclear whether people actually have
+well-formed preferences with which the legal system can work.142 For example, most
+people consider “equally bad” a single death from pollution next year and a single death
+from pollution in 100 years143—implying no preference for members of the current
+generation. In another finding of no strong preference for the current generation, people
+are equally divided between two programs: one that will save 55 lives now and 105 more
+lives in twenty years; and one that will save 100 lives now and 50 lives 25 years from
+now.144 It is even possible to frame the question in such a way as to find that future lives
+are valued more, not less, highly than current lives.145 The most sensible conclusion is
+that people do not have robust, well-ordered intergenerational time preferences.146 If so, it
+is not possible for government to track those preferences, because they are an artifact of
+how the question is put.</p>
+        <p>The issue of statistical lives or VSL vs. statistical life-years or VSLY is similar on
+this count. It should be easy to construct questions that would yield a preference for VSL:</p>
+        <p>Government is considering a policy that would count the value of elderly people
+as significantly less than the value of younger people. According to one proposal, for
+every dollar that most people are worth, people over 70 are worth 53 cents. Do you
+approve of this proposal?</p>
+        <p>We can safely predict that most respondents would answer “No.” But it should
+also be easy to construct questions that would suggest public disapproval of a uniform
+VS:</p>
+        <p>Would you favor (a) a program that would save one hundred children from dying
+of a fatal cancer at the age of ten or instead (b) a program that would save one hundred
+and one senior citizens from dying of a fatal cancer at the age of eighty?</p>
+        <p>We can safely predict that most people would favor (a). In fact I have conducted a
+small survey myself, asking University of Chicago law students whether they would
+favor a policy that saves twenty people with a median age of forty or one that saves thirty
+people with a median age of sixty-five. By a majority of about two-to-one (fifty-three to
+twenty-five), the former policy was favored. But as in the context of harms to future
+141 Frederick, supra note.
+142 The point is stressed in Cass R. Sunstein and Richard H. Thaler, Is Libertarian Paternalism An
+Oxymoron?, U Chi L Rev (forthcoming 2003).
+143 Frederick, supra note, at 43.
+144 Id. at 44.
+145 Id. at 45. Frederick asked subjects to choose between two programs. The first would become more
+effective over time, saving 100 lives this decade, 200 lives in the following decade, and 300 lives in the
+decade after that. The second would become less effective over time, saving 300 lives this decade, 200
+lives in the following decade, and 100 lives in the decade after that. Most people preferred the first
+program, apparently suggesting that future lives are valued more highly. Id.
+146 The absence of robust, well-ordered preferences is a pervasive theme in behavioral economics. See Cass
+R. Sunstein and Richard H. Thaler, Libertarian Paternalism Is Not An Oxymoron, U Chi L Rev
+(forthcoming 2003).
+generations, highly variable responses should be expected in accordance with the nature
+of the question. It is doubtful that people have stable, well-considered judgments on the
+issue.</p>
+        <p>2. Why the question is wrong. The more fundamental problem is that people’s
+judgments on survey questions of this sort should not be determinative for purposes of
+policy or law. Suppose, for example, that a relevant population concluded that it would
+prefer to save one hundred white lives to one hundred African-American lives—or that it
+would prefer to abandon cost-benefit analysis altogether, finding both VSL and VSLY
+morally unacceptable. What kind of standing would those judgments have? Or suppose
+that existing generations concluded that a current life is worth fifty lives in 2080. Why
+would that conclusion count for purposes of policy? What matters is not the fact of those
+judgments, but their legitimacy and their sense. If we care about WTP, it is only because
+WTP is a proxy for welfare, and because welfare deserves (some) moral standing as such.
+But eliciting people’s judgments, on future generations or VSL vs. VSLY, has no such
+justification.</p>
+        <p>To be sure, those judgments deserve consideration and respect if they are
+reflective. And it is always possible to ask: Who will assess the legitimacy and sense of
+citizens’ judgments? This is a reasonable question, and it is certainly possible to doubt
+the legitimacy and sense of the assessor. But ours is a deliberative democracy, one that
+does not make policy on the basis of opinion polls or snapshots of people’s opinions.147
+Difficult normative questions of this kind might be informed by surveys, but they cannot
+be answered by them.</p>
+      </sec>
+      <sec id="sec-4-13">
+        <title>B. A Brief Note on QALYs</title>
+        <p>If focussing on life-years is appropriate, then it might be tempting to suggest that
+officials should be concerned with quality-adjusted life-years, or QALYs. The central
+idea behind QALYs is that regulators should be concerned with maximizing the
+aggregate health of the community.148 To calculate QALYs, regulators come up with a
+scale that ranges from zero, for death, to one, for perfect health. Adverse health effects
+are ranked in terms of severity, with serious harms (say, a devastating but nonfatal heart
+attack) ranked lower than less serious ones (say, low-level respiratory problems). Some
+government agencies have attempted to assess regulations by calculating the QALYs that
+they save.149 From the public health perspective, it is easy to see the appeal of QALYs. If
+a choice must be made, a doctor might reasonably decide, for example, that she will
+perform a difficult operation on someone who is thirty rather than someone who is
+eighty. And if the public health community has to allocate scarce resources, an inquiry
+into QALYs seems like a sensible place to start.</p>
+        <p>If government should calculate VSLY, should it also calculate the value of
+QALYs, and then VQALYs, and proceed accordingly? I cannot answer that complex
+147 See William Bessette, The Mild Voice of Reason (1996).
+148 See Adam Wagstaff, QALYs and the Equity-Efficiency Trade-Off, 10 J Health Econ 21 (1991).
+149 See Appendix.
+question here. But we can see that any response must come to terms with questions of
+both welfare and equity. At first glance, an effort to increase the number of QALYs has
+many advantages in terms of welfare; in fact it seems directly connected to the welfare
+goal. But in some contexts, the use of QALYs would raise serious questions of equity.
+Suppose, for example, that regulators are considering two kinds of interventions,
+Intervention A and Intervention B, designed to assist two different groups of people. The
+first group consists of people with extremely serious disabilities; Intervention A would
+increase their QALYs. But it would do so only by creating a relatively small increase in
+their well-being, raising them from extremely serious to merely serious levels of
+disability. The second group consists of people with moderate levels of disability, and
+Intervention B would raise them to slight levels of disability, in a way that would result in
+significantly more QALYs than Intervention A. If QALYs are our guide, Intervention B
+is clearly preferable, and indeed it is plausible to think that Intervention B would result in
+a larger welfare gain than Intervention A.</p>
+        <p>Is Intervention B to be preferred? This is by no means obvious, and for two
+different reasons. First, QALYs might not be adequately measuring welfare gains in this
+context. In the abstract, it is possible that the welfare gains from Intervention A are
+actually higher even if it produces fewer increases in QALYs. Second, Intervention A is
+assisting those who are most severely disadvantaged, and people in that category have a
+claim on social attention even if helping them produces fewer QALYs than imaginable
+alternatives.150 Those with especially severe preexisting conditions might deserve higher
+priority on equitable grounds, whatever the QALY calculus might show. Here as
+elsewhere, the pursuit of welfare, through regulation, should be undertaken in a way that
+gives distributional weights to those who are least well-off. In this way, the larger
+philosophical debates about utilitarianism and its limits find analogies in current and
+coming debates about regulatory policy.</p>
+        <p>I do not mean to suggest that these are fundamental objections to the use of
+QALYs. The problem of severe preexisting conditions does not often arise in the context
+of regulation; it is more likely to occur in the context of medical interventions, where
+QALYs have raised special concerns. There are also hard questions about how to
+monetize QALYs, even if we decide that we should focus on them. Is the WTP approach
+appropriate here? Should VQALYs be calculated by multiplying each QALY by the
+beneficiaries’ WTP for them? We could easily imagine a population (one of wealthy
+senior citizens, for example) that would show a high WTP for a few QALYs. We could
+also imagine a population (one of poor teenagers, for example) that would show a low
+WTP for a large number of QALYs. At first glance, QALYs are a far better measure of
+welfare gains than WTP in such situations.</p>
+        <p>But recall once again the particular problems created by forced exchanges: If
+those who obtain a large number of QALYs are not willing to pay for them, government
+does them no favors by mandating the purchase. In a case in which people are not willing
+to pay much for a large number of QALYs, government should probably do a great deal
+150 See Erik Nord et al., Incorporating Societal Concerns for Fairness in Numerical Valuations of Health
+Programmes, 8 Health Economics 25, 26-27 (1999).
+of subsidizing. My (tentative) analysis of the uses of WTP in the context of statistical
+lives applies, in its essential form, to the context of QALYs—suggesting that here as
+elsewhere, WTP is a sensible place to begin, but that there are extremely difficult and
+unresolved normative and empirical questions here.</p>
+      </sec>
+      <sec id="sec-4-14">
+        <title>C. Welfare vs. WTP</title>
+        <p>I have suggested that WTP is a plausible starting-place for policy judgments about
+how to monetize statistical life-years. But I have also indicated that in the face of a
+problem of information or cognition, the argument for relying on WTP is greatly
+weakened. It will be useful to explore that possibility.</p>
+        <p>The most obvious cases are simple: People lack information about the risks that
+they face, and hence they show a small WTP to avoid a risk that is statistically large. Or
+people might have an inflated sense of the likely risk, and show a high WTP to avoid a
+risk that is miniscule.151 A growing body of literature shows a separate point: At the time
+of decision, people often mispredict the welfare effects of one or another option.152 For
+example, assistant professors often exaggerate the effects of a denial of tenure on their
+well-being a year after the decision.153 In general, people overestimate the adverse
+consequences of setbacks, to which they are frequently able to adapt.154 In the context of
+environmental and social changes, an empirical study shows pervasive exaggerations of
+likely consequences for quality of life.155 It follows that in some contexts, WTP will
+mispredict the lived consequences of choices. “The evidence of grave deficiencies in
+taste predictions appears to pose a significant challenge to many applications of the
+rational-agent model.”156 Some of these deficiencies stem from a failure to appreciate the
+possibility of adaptation to change; some of them are a product of an exaggerated sense
+of the effect any single factor on well-being.157 What I am adding here is that WTP will
+be a poor proxy for welfare in cases in which we have good reason to suppose that
+underestimation or overestimation are likely. Of course government officials should be
+reluctant to second-guess citizens, but in some cases, the second-guessing is
+welljustified.</p>
+        <p>Consider an example: A reliable contingent valuation study shows that people are
+willing to pay far more to prevent a long cancer death than to prevent a sudden
+unanticipated death, with death from heart disease falling somewhere in the middle.158 As
+it happens, the median WTP for a sudden unanticipated death is half the median WTP for
+151 See Cass R. Sunstein, Probability Neglect: Emotions, Worst Cases, and Law, 112 Yale L.J. 61 (2002)
+152 See Kahneman, supra note; Loewenstein and Schkade, supra note.
+153 See Daniel Gilbert et al., Immune Neglect: A Source of Durability Bias in Affective Forecasting, 75 J
+Personality and Social Psych 617 (1998).
+154 See Loewenstein and Schkade, supra note.
+155 See George Loewenstein and Shane Frederick, Predicting Reactions to Environmental Change, in
+Environment, Ethics, and Behavior 52, 61-67 (Max Bazerman et al. eds. 1997).
+156 Kahneman, supra note, at 165.
+157 See Loewenstein and Frederick, supra note, at 66.
+158 See George Tolley et al., Valuing Health for Policy: An Economic Approach 342 (1994).
+a cancer death.159 Must these numbers be decisive for purposes of policy, assuming that
+the contingent valuation study is reliable160? I suggest that they should not be if we have
+reason to believe that the WTP figures are not accurately measuring welfare. And is it
+even plausible to think that the “cancer premium” is so high that it actually doubles the
+cost of death? Is it reasonable to think that a death from cancer is actually twice as bad as
+a death that is sudden and unanticipated? To be sure, a degree of pain and suffering
+typically accompanies cancer, but it is not easy to defend the set of (exotic) values that
+would lead to the conclusion that the relevant pain and suffering is as bad as death
+itself.161 I believe that WTP is not measuring welfare here, and that the inflated numbers
+for cancer deaths is a product of an intuitive recoil at the idea of cancer, one that leads to
+unrealistically high monetary values.</p>
+        <p>Perhaps this example can be disputed. If so, consider the fact that according to
+some studies of WTP, a curable cancer is valued at $2.3 million, more than a third the
+value of a statistical life.162 Suppose that these studies are reliable and that $2.3 million
+really does capture people’s WTP for a curable cancer.163 Is it plausible to think that the
+welfare loss from a curable cancer is more than a third of the welfare loss from death?
+More likely, the frightening idea of “cancer” is driving people’s judgments, in a way that
+leads to a WTP that does not accurately measure the welfare loss from a curable cancer.
+This is an example of a situation in which “decision utility” (anticipated utility at the time
+of decision) does not match “experience utility” (the actual utility of lived experience).164
+There are many other illustrations, as, for example, when people show a high WTP to
+avoid an injury that is not so terrible in actual experience.165 In short, WTP is sometimes
+a poor proxy for welfare. Because that issue does not directly bear on the choice between
+VSL and VSLY, I will not discuss it in detail here. But I do suggest that the point holds
+out a warning for the use of WTP studies to assess statistical risks, especially in the
+domain of morbidity.
+159 Id.
+160 For an affirmative answer, see Revesz, supra note.
+161 If one believed that death itself is not terribly important, and that pain and suffering matter a great deal,
+then a huge cancer premium might well make sense. And undoubtedly some people have this exotic set of
+values. All I am suggesting is that the people who give the relevant answers in contingent valuation studies
+are most unlikely to endorse those particular values.
+162 See Cass R. Sunstein, The Arithmetic of Arsenic, 90 Georgetown L J 2255 (2002).
+163 Note that WTP is often labile and ill-formed, very much dependent on the context of the question. See
+Cass R. Sunstein and Richard H. Thaler, Libertarian Paternalism Is Not An Oxymoron, U Chi L Rev
+(forthcoming 2003). I am putting that possibility to one side for now. The general claim here is that even
+when WTP is stable and well-formed, it might not capture the welfare that comes from one or another
+option. For relevant discussion, see Kahneman et al., Back to Bentham, supra note.
+164 See Daniel Kahneman et al., Back to Bentham? Explorations of Experienced Utility, 112 Q. J Econ 375
+(1997).
+165 See the discussion in Edward J. McCaffery, Matthew Spitzer, and Daniel Kahneman, Framing the Jury:
+Cognitive Perspectives on Pain and Suffering Awards, 81 Va. L. Rev. 1341, 1354-73 (1995) (experimental
+finding that willingness to pay is systematically lower than willingness to accept for pain and suffering).
+The most important point here is that the experience of an injury is often less bad, because more adaptation
+is possible, than people anticipate in advance. See id.</p>
+      </sec>
+      <sec id="sec-4-15">
+        <title>Conclusion</title>
+        <p>In this essay, I have suggested that government should focus its attention on
+statistical life-years, not statistical lives. No regulatory program makes people immortal.
+The only issue is life extension, and here the length of the extension surely matters. In
+terms of welfare, a program that saves 10,000 life-years is better than one that saves
+1,000 life years, holding all else constant. Behind a veil of ignorance, reasonable people
+would undoubtedly prefer a program that eliminates a 1/500,000 risk faced at thirty to a
+program that eliminates the same risk faced at sixty. In welfare terms, a program that
+saves younger people is unquestionably better than one that saves older people, holding
+all else constant.</p>
+        <p>To be sure, there are ethical constraints on the promotion of welfare through
+regulatory policy. But as a general rule, there is no injustice in taking account of the
+difference between the anticipated welfare gain of a program that saves older people and
+the anticipated welfare gain of a program that saves younger people. Older people were
+once younger, and if all goes well younger people will become older. In any case a focus
+on statistical life-years has an important kind of neutrality: It treats everyone’s life-years
+the same. I have also suggested that the claims that underlie the prohibition on age
+discrimination do not raise serious moral questions about focussing on life-years. These
+points suggest that in terms of welfare and equity, it is better to attend to statistical
+lifeyears than to statistical lives. If either approach discriminates, it is one that relies only on
+statistical lives, because that approach treats the life-years of older people as worth more
+than the life-years of younger people.</p>
+        <p>But a choice in favor of life-years leaves open questions of monetary valuation.
+These questions are both normative and empirical in nature. The usual debates about
+WTP reappear in this context. In any case, we do not have good information about how
+WTP changes over the life cycle. Older people may or may not be willing to pay less to
+reduce risks than younger people. Even if older people are willing to pay more to save
+each remaining statistical life-year, it is likely that older people are willing to pay less
+than younger people, in the aggregate, to save the number of life-years that remain.166
+Without resolving the WTP debate, I have suggested several ways that regulators might
+incorporate information about life-years in regulatory decisions. At a minimum, I have
+urged that information on life-years should be compiled, and that it should be made
+relevant to judgments that are otherwise close or difficult. In this way, regulatory policy
+would be shifted toward somewhat greater concern for the risks faced by children, and
+somewhat reduced concern for the risks faced by those who are elderly—thus making it
+more likely that more people would have a chance to become elderly.</p>
+        <p>If the analysis here is correct, it has two more general implications. The first is
+that WTP is a pragmatic tool and no more. Some economists seem to identify WTP with
+welfare itself—an absurd claim that, if taken seriously, would produce both blunders and
+injustices. As we have seen, people’s WTP is sometimes poorly predictive of the welfare
+166 See Viscusi and Aldy, supra note, at 50-53.
+effects of one or another option167—a point with general and underexplored implications
+for regulatory policy. The second involves constraints on the promotion of welfare. While
+welfare is indeed the basic goal of much regulation, there are constraints on the pursuit of
+that goal, and these constraints should be specified. Any attempt at specification will be
+controversial. I have suggested, for example, that when people have had bad luck in the
+natural lottery, government cannot legitimately use the life-years criterion to
+disadvantage them further. But however the hardest controversies are resolved, I suggest
+that the constraints do not apply to most regulatory decisions that focus on statistical
+lifeyears. Regulators should calculate expected savings in those terms and give the result
+serious consideration at the point of decision.
+167 For a great deal of relevant discussion, see Well-Being: The Foundations of Hedonic Psychology
+(Daniel Kahneman et al. eds. 1999).</p>
+      </sec>
+      <sec id="sec-4-16">
+        <title>Appendix</title>
+      </sec>
+      <sec id="sec-4-17">
+        <title>Regulatory Impact Statements Using Life-Years or Quality-Adjusted Life Years</title>
+        <p>FDA final seafood HACCP rule (1995). US Food and Drug Administration: Procedures
+for the Safe and Sanitary Processing and Importing of Fish and Fishery Products; Final
+Rule. 60 FR 65095, December 18, 1995. Used monetized QALYs in a primary
+benefitcost analysis; QALYs described accurately.</p>
+        <p>FDA final anti-smoking rule (1996). US Food and Drug Administration, “Regulations
+Restricting the Sale and Distribution of Cigarettes and Smokeless Tobacco to Protect
+Children and Adolescents; Final Rule,” 61 FR 44395, August 28, 1996. Used QALYs in
+a primary benefit-cost analysis.</p>
+        <p>EPA final ozone and particulate standards for outdoor air quality (1997). ADD citation.
+Used life years but not QALYs in a sensitivity analysis of benefit-cost analysis.
+FDA final mammography rule (1997). US Food and Drug Administration: “Quality
+Mammography Standards; Final Rule.” 62 FR 55851, October 28, 1997. Used a 5-year
+survival rate approach when measuring benefits, but monetized only lives saved, using
+the value of a statistical life of $5 million.</p>
+        <p>HRSA organ donor final rule (1998). Health Resources and Services Administration:
+“Procurement and Transplantation Network; Final Rule.” 63 FR 16295, April 2, 1998.
+Used statistical life years valued at $116,000 per year, but did not use QALYs.
+FDA final juice labeling rule (1998). Food and Drug Administration: “Food Labeling:
+Warning and Notice Statement: Labeling of Juice Products; Final Rule.” 63 FR 37029,
+July 8, 1998. Used monetized QALYs in a primary benefit-cost analysis; QALYs
+described accurately.</p>
+        <p>FDA proposed consumer trans-fat labeling rule (1999). US Food and Drug
+Administration: “Food Labeling: Trans Fatty Acids in Nutrition Labeling, Nutrient
+Content Claims, and Health Claims; Proposed Rule.” 64 FR 62746, November 17, 1999.
+Used monetized QALYs in a primary benefit-cost analysis; QALYs described accurately.
+FDA final shell egg safety rule (2000). US Food and Drug Administration: “Food
+Labeling, Safe Handling Statements, Labeling of Shell Eggs; Refrigeration of Shell Eggs
+Held for Retail Distribution; Final Rule.” 65 FR 76091, December 5, 2000. Used
+monetized QALYs in a primary benefit-cost analysis; QALYs described accurately.</p>
+        <sec id="sec-4-17-1">
+          <title>EPA Tier 2 Rule (date?). FDA final juice HACCP rule (2001). Food and Drug Administration: “Hazard Analysis and Critical Control Point (HAACP); Procedures for the Safe and Sanitary Processing 40</title>
+          <p>and Importing of Juice; Final Rule.” 66 FR 6137, January 19, 2001. Used monetized
+QALYs in a primary benefit-cost analysis; QALYs described accurately.
+CMS immunization standards final rule with comment (2002). Centers for Medicare &amp;
+Medicaid Services, “Conditions of Participation: Immunization Standards for Hospitals,
+Long-Term Care Facilities, and Home Health Agencies.” 67 FR 61808, October 2, 2002.
+Used $50,000-$100,000 cost per year of healthy life saved to monetize benefits,
+assuming lifespan of 84 years.</p>
+          <p>Readers with comments should address them to:
+Cass R. Sunstein
+University of Chicago Law School
+1111 East 60th Street
+Chicago, IL 60637
+csunstei@midway.uchicago.edu
+10.</p>
+          <p>Lisa Bernstein, The Questionable Empirical Basis of Article 2=s Incorporation
+Strategy: A Preliminary Study (May 1999)
+Richard A. Epstein, Deconstructing Privacy: and Putting It Back Together Again
+(May 1999)
+William M. Landes, Winning the Art Lottery: The Economic Returns to the Ganz
+Collection (May 1999)
+Cass R. Sunstein, David Schkade, and Daniel Kahneman, Do People Want
+Optimal Deterrence? (June 1999)
+Tomas J. Philipson and Richard A. Posner, The Long-Run Growth in Obesity as a
+Function of Technological Change (June 1999)
+David A. Weisbach, Ironing Out the Flat Tax (August 1999)
+Eric A. Posner, A Theory of Contract Law under Conditions of Radical Judicial
+Error (August 1999)
+David Schkade, Cass R. Sunstein, and Daniel Kahneman, Are Juries Less Erratic
+than Individuals? Deliberation, Polarization, and Punitive Damages (September
+1999)
+Cass R. Sunstein, Nondelegation Canons (September 1999)
+Richard A. Posner, The Theory and Practice of Citations Analysis, with Special
+Reference to Law and Economics (September 1999)
+Randal C. Picker, Regulating Network Industries: A Look at Intel (October 1999)
+Cass R. Sunstein, Cognition and Cost-Benefit Analysis (October 1999)
+Douglas G. Baird and Edward R. Morrison, Optimal Timing and Legal
+Decisionmaking: The Case of the Liquidation Decision in Bankruptcy (October
+1999)
+Gertrud M. Fremling and Richard A. Posner, Market Signaling of Personal
+Characteristics (November 1999)
+Matthew D. Adler and Eric A. Posner, Implementing Cost-Benefit Analysis When
+Preferences Are Distorted (November 1999)
+Richard A. Posner, Orwell versus Huxley: Economics, Technology, Privacy, and
+Satire (November 1999)
+David A. Weisbach, Should the Tax Law Require Current Accrual of Interest on
+Derivative Financial Instruments? (December 1999)
+Cass R. Sunstein, The Law of Group Polarization (December 1999)
+Eric A. Posner, Agency Models in Law and Economics (January 2000)
+Karen Eggleston, Eric A. Posner, and Richard Zeckhauser, Simplicity and
+Complexity in Contracts (January 2000)
+Douglas G. Baird and Robert K. Rasmussen, Boyd=s Legacy and Blackstone=s
+Ghost (February 2000)
+David Schkade, Cass R. Sunstein, Daniel Kahneman, Deliberating about Dollars:
+The Severity Shift (February 2000)
+Richard A. Posner and Eric B. Rasmusen, Creating and Enforcing Norms, with
+Special Reference to Sanctions (March 2000)
+97. Douglas Lichtman, Property Rights in Emerging Platform Technologies (April
+2000)
+98. Cass R. Sunstein and Edna Ullmann-Margalit, Solidarity in Consumption (May
+2000)
+99. David A. Weisbach, An Economic Analysis of Anti-Tax Avoidance Laws (May
+2000, revised May 2002)
+100. Cass R. Sunstein, Human Behavior and the Law of Work (June 2000)
+101. William M. Landes and Richard A. Posner, Harmless Error (June 2000)
+102. Robert H. Frank and Cass R. Sunstein, Cost-Benefit Analysis and Relative</p>
+          <p>Position (August 2000)
+103. Eric A. Posner, Law and the Emotions (September 2000)
+104. Cass R. Sunstein, Cost-Benefit Default Principles (October 2000)
+105. Jack Goldsmith and Alan Sykes, The Dormant Commerce Clause and the</p>
+          <p>Internet (November 2000)
+106. Richard A. Posner, Antitrust in the New Economy (November 2000)
+107. Douglas Lichtman, Scott Baker, and Kate Kraus, Strategic Disclosure in the Patent</p>
+          <p>System (November 2000)
+108. Jack L. Goldsmith and Eric A. Posner, Moral and Legal Rhetoric in International</p>
+          <p>Relations: A Rational Choice Perspective (November 2000)
+109. William Meadow and Cass R. Sunstein, Statistics, Not Experts (December 2000)
+110. Saul Levmore, Conjunction and Aggregation (December 2000)
+111. Saul Levmore, Puzzling Stock Options and Compensation Norms (December
+2000)
+112. Richard A. Epstein and Alan O. Sykes, The Assault on Managed Care: Vicarious</p>
+          <p>Liability, Class Actions and the Patient=s Bill of Rights (December 2000)
+113. William M. Landes, Copyright, Borrowed Images and Appropriation Art: An</p>
+          <p>Economic Approach (December 2000)
+114. Cass R. Sunstein, Switching the Default Rule (January 2001)
+115. George G. Triantis, Financial Contract Design in the World of Venture Capital
+(January 2001)
+116. Jack Goldsmith, Statutory Foreign Affairs Preemption (February 2001)
+117. Richard Hynes and Eric A. Posner, The Law and Economics of Consumer</p>
+          <p>Finance (February 2001)
+118. Cass R. Sunstein, Academic Fads and Fashions (with Special Reference to Law)
+(March 2001)
+119. Eric A. Posner, Controlling Agencies with Cost-Benefit Analysis: A Positive</p>
+          <p>Political Theory Perspective (April 2001)
+120. Douglas G. Baird, Does Bogart Still Get Scale? Rights of Publicity in the Digital</p>
+          <p>Age (April 2001)
+121. Douglas G. Baird and Robert K. Rasmussen, Control Rights, Priority Rights and
+the Conceptual Foundations of Corporate Reorganization (April 2001)
+122. David A. Weisbach, Ten Truths about Tax Shelters (May 2001)
+123.
+145. David A. Weisbach, Thinking Ouside the Little Boxes (March 2002, Texas Law</p>
+          <p>Review)
+146. Eric A. Posner, Economic Analysis of Contract Law after Three Decades: Success
+or Failure (March 2002)
+147. Randal C. Picker, Copyright as Entry Policy: The Case of Digital Distribution
+(April 2002, The Antitrust Bulletin)
+148. David A. Weisbach, Taxes and Torts in the Redistribution of Income (April 2002,</p>
+          <p>Coase Lecture February 2002)
+149. Cass R. Sunstein, Beyond the Precautionary Principle (April 2002)
+150. Robert W. Hahn and Cass R. Sunstein, A New Executive Order for Improving</p>
+          <p>Federal Regulation? Deeper and Wider Cost-Benefit Analysis (April 2002)
+151. Douglas Lichtman, Copyright as a Rule of Evidence (May 2002, updated January
+2003)
+152. Richard A. Epstein, Steady the Course: Property Rights in Genetic Material (May
+2002)
+153. Jack Goldsmith and Cass R. Sunstein, Military Tribunals and Legal Culture:</p>
+          <p>What a Difference Sixty Years Makes (June 2002)
+154. William M. Landes and Richard A. Posner, Indefinitely Renewable Copyright
+(July 2002)
+155. Anne Gron and Alan O. Sykes, Terrorism and Insurance Markets: A Role for the</p>
+          <p>Government as Insurer? (July 2002)
+156. Cass R. Sunstein and Adrian Vermeule, Interpretation and Institutions (July 2002)
+157. Cass R. Sunstein, The Rights of Animals: A Very Short Primer (August 2002)
+158. Cass R. Sunstein, Avoiding Absurdity? A New Canon in Regulatory Law (with</p>
+          <p>Notes on Interpretive Theory) (August 2002)
+159. Randal C. Picker, From Edison to the Broadcast Flag: Mechanisms of Consent
+and Refusal and the Propertization of Copyright (September 2002)
+160. Eric A. Posner, A Theory of the Laws of War (September 2002)
+161 Eric A. Posner, Probability Errors: Some Positive and Normative Implications for</p>
+          <p>Tort and Contract Law (September 2002)
+162. Lior Jacob Strahilevitz, Charismatic Code, Social Norms, and the Emergence of</p>
+          <p>Cooperation on the File-Swapping Networks (September 2002)
+163. David A. Weisbach, Does the X-Tax Mark the Spot? (September 2002)
+164. Cass R. Sunstein, Conformity and Dissent (September 2002)
+165. Cass R. Sunstein, Hazardous Heuristics (October 2002)
+166. Douglas Lichtman, Uncertainty and the Standard for Preliminary Relief (October
+2002)
+167. Edward T. Swaine, Rational Custom (November 2002)
+168. Julie Roin, Truth in Government: Beyond the Tax Expenditure Budget
+(November 2002)
+169. Avraham D. Tabbach, Criminal Behavior, Sanctions, and Income Taxation: An
+Economic Analysis (November 2002)
+171.
+172.
+175.
+176.</p>
+          <p>Richard A. Epstein, In Defense of “Old” Public Health: The Legal Framework for
+the Regulation of Public Health (December 2002)
+Richard A. Epstein, Animals as Objects, or Subjects, of Rights (December 2002)
+David A. Weisbach, Taxation and Risk-Taking with Multiple Tax Rates
+(December 2002)
+Douglas G. Baird and Robert K. Rasmussen, The End of Bankruptcy (December
+2002)
+Richard A. Epstein, Into the Frying Pan: Standing and Privity under the
+Telecommunications Act of 1996 and Beyond (December 2002)
+Douglas G. Baird, In Coase’s Footsteps (January 2003)
+David A. Weisbach, Measurement and Tax Depreciation Policy: The Case of
+Short-Term Assets (January 2003)
+Randal C. Picker, Understanding Statutory Bundles: Does the Sherman Act Come
+with the 1996 Telecommunications Act? (January 2003)
+Douglas Lichtman and Randal C. Picker, Entry Policy in Local
+Telecommunications: Iowa Utilities and Verizon (January 2003)
+William Landes and Douglas Lichtman, Indirect Liability for Copyright
+Infringement: An Economic Perspective (February 2003)
+Cass R. Sunstein, Moral Heuristics (March 2003)
+Amitai Aviram, Regulation by Networks (March 2003)
+Richard A. Epstein, Class Actions: Aggregation, Amplification and Distortion
+(April 2003)
+Richard A. Epstein, The “Necessary” History of Property and Liberty (April
+2003)
+Eric A. Posner, Transfer Regulations and Cost-Effectiveness Analysis (April 2003)
+Cass R. Sunstein and Richard H. Thaler, Libertarian Paternalizm Is Not an
+Oxymoron (May 2003)
+Alan O. Sykes, The Economics of WTO Rules on Subsidies and Countervailing
+Measures (May 2003)
+Alan O. Sykes, The Safeguards Mess: A Critique of WTO Jurisprudence (May
+2003)
+Alan O. Sykes, International Trade and Human Rights: An Economic Perspective
+(May 2003)
+Saul Levmore and Kyle Logue, Insuring against Terrorism—and Crime (June
+2003)
+Richard A. Epstein, Trade Secrets as Private Property: Their Constitutional
+Protection (June 2003)
+Cass R. Sunstein, Lives, Life-Years, and Willingness to Pay (June 2003)</p>
+        </sec>
+      </sec>
+    </sec>
+  </body><script/>
+  <back>
+    <ref-list/>
+  </back>
+</article>

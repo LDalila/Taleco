@@ -1,0 +1,1456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink"><script/>
+  <front>
+    <journal-meta/>
+    <article-meta>
+      <title-group>
+        <article-title>Inequality and Indignation</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Coase-Sandor Working Paper Series in Law</string-name>
+          <email>unbound@law.uchicago.edu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Edna Ullmann-Margalit</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Cass R. Sunstein &amp; Edna Ullmann-Margalit, "Inequality and Indignation", John M. Olin Program in Law and Economics Working Paper No.</institution>
+          <addr-line>141, 2002</addr-line>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Coase-Sandor Institute for Law and Economics</institution>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <abstract>
+        <p>Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics Part of the Law Commons Recommended Citation</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>JOHN M. OLIN LAW &amp; ECONOMICS WORKING PAPER NO. 141 (2D SERIES)</title>
+      <p>Inequality and Indignation
+Edna Ullmann-Margalit and Cass R. Sunstein</p>
+    </sec>
+    <sec id="sec-2">
+      <title>T HE L A W SCHOOL T HE U NI V E RS I T Y OF CHI CA GO</title>
+      <p>This paper can be downloaded without charge at:</p>
+      <p>The Chicago Working Paper Series Index:
+http://www.law.uchicago.edu/Lawecon/index.html
+The Social Science Research Network Electronic Paper Collection:
+http://papers.ssrn.com/paper.taf?abstract_id=301110
+Inequalities often persist because both the advantaged and the disadvantaged stand to lose
+from change. Despite the probability of loss, moral indignation can lead the
+disadvantaged to seek to alter the status quo, by encouraging them to sacrifice their
+material self-interest for the sake of equality. Experimental research shows that moral
+indignation, understood as a willingness to suffer in order to punish unfair treatment by
+others, is widespread. It also indicates that a propensity to apparently self-defeating
+moral indignation can turn out to promote people’s material self-interest, if and because
+others will anticipate their actions. But potential rebels face collective action problems.
+Some of these can be reduced through the acts of “indignation entrepreneurs,” giving
+appropriate signals, organizing discussions by like-minded people, and engaging in acts
+of self-sacrifice. Law is relevant as well. By legitimating moral indignation and
+dissipating pluralistic ignorance, law can intensify and spread that indignation, thus
+increasing its expression. Alternatively, law can delegitimate moral indignation, or at
+least raise the cost of its expression, thus stabilizing a status quo of inequality. But the
+effects of law are unpredictable, in part because it will have moral authority for some but
+not for others; here too heterogeneity is an issue both for indignation entrepreneurs and
+their opponents. Examples are given from a range of areas, including labor-management
+relations, sexual harassment, civil rights, and domestic violence.</p>
+      <p>Every society contains countless inequalities. Some people have more money
+than others. Employers have authority over the livelihoods, and many daily
+decisions, of their workers. Some people are well educated, while others are not.
+In many nations, convicted felons are not allowed to vote. Many inequalities are
+found acceptable, but some produce indignation, which is a function of
+* Professor of Philosophy at the Hebrew University of Jerusalem.
+**Karl N. Llewellyn Distinguished Service Professor, Law School and Department of Political
+Science, University of Chicago. We are grateful to Avishai Margalit, Eric Posner, Richard Posner
+and Adrian Vermeule for valuable comments on a previous draft.
+perceived injustice. When inequalities do not seem unjust, they may be taken as
+unimportant, or else as natural, inevitable, responsive to “real differences”
+between groups, or in the interest of all sides.</p>
+      <p>In this Essay we use some simple tools from game theory and behavioral
+economics to cast light on the maintenance and disruption of unequal
+relationships. We emphasize that such relationships are often sustained for a
+simple reason: It would be harmful, to the disadvantaged as well as the
+advantaged, to alter the status quo, and both sides are aware of that fact.
+Consider an imaginable system of sexual hierarchy, in which women are
+systematically subordinate to men, but which is to the benefit of women as well
+as men in the sense that both sides would lose if the status quo were changed. Or
+consider a system of labor-management relations in which a rebellion by
+lowincome workers would lead to depressed wages or unemployment. Or consider a
+capitalist economy, pervaded by large inequalities but complying with Rawls’
+difference principle1: however large, the inequalities are (by hypothesis) part of a
+system that promotes the welfare, suitably defined, of the least advantaged. In
+situations of this kind, unequal relationships tend to be stable and
+selfsustaining. Members of disadvantaged groups would suffer from a change, and
+they know it. Equally important, members of advantaged groups are aware of
+these facts and behave accordingly.</p>
+      <p>On reasonable assumptions, change seems quite impossible. What will
+nevertheless make it occur? As we shall show, change will result when the
+disadvantaged feel moral indignation, which will, under appropriate
+circumstances, lead them to disrupt an otherwise stable situation by sacrificing
+their material self-interest for the sake of increased equality.2 To clarify this point,
+we will take advantage of some striking empirical findings from behavioral
+economics. Moral indignation—a willingness to suffer material loss for the sake
+of ensuring fairer distributions - is widespread, and it turns out to be in people’s
+strategic advantage if one condition is met: it is anticipated. Experiments show
+that when the disadvantaged are thought likely to sacrifice in order to punish
+perceived unfairness, the advantaged are willing to take steps to increase fairness
+- thus ensuring more egalitarian divisions.3
+1 See John Rawls, A Theory of Justice 75–80 (1971).
+2 For an early treatment of this problem from a different angle, see Edna Ullmann-Margalit, The
+Emergence of Norms (Oxford: Oxford University Pres, 1977).
+3 See Chaim Fershtman and Uri Gneezy, Discrimination in a Segmented Society: An Experimental
+Approach, Q J Econ 351 (2001).
+Of course moral indignation, and a willingness to act on it, will vary greatly
+across populations. As a result, rebels face some serious collective action
+problems. We show that “indignation entrepreneurs” help solve those problems
+by signaling the appropriateness of indignation and the importance of acting on
+it. We also show that law can help, above all by virtue of its expressive function.4
+In exploring that expressive function, we emphasize four points. The first is that
+under circumstances of inequality, the reaction of the disadvantaged will not be
+uniform. Some people will be indignant, even outraged, and willing to act;
+others, while indignant, will be unwilling to incur the costs of rebellion; others
+will not be disturbed at all; others will be in between these various alternatives;
+and still others will be unsure about the appropriate attitude. The second point is
+that the beliefs and actions of members of disadvantaged groups will depend
+partly on the perceived beliefs and actions of other members. The third point is
+that different people will be willing to incur different costs for expressing moral
+indignation, partly but not only because of their uncertainty about whether an
+expression of indignation will be hopeless, in the long-run or the short-run. The
+fourth point is that in rebelling against inequality, members of disadvantaged
+groups face a collective action problem; some such members will be tempted to
+stay on the sidelines and to benefit from the rebellion of others. This problem is
+perhaps best solved through norms of solidarity by which indignation is brought
+to bear once more, in the form of moral pressure on free riders.5 Legal reform
+may be important here as well.</p>
+      <p>Political actors on both sides know that law may help on all four counts, partly
+through what it does and, no less important, partly through what it signals. Law
+may, for example, dissipate pluralistic ignorance, fuel and legitimate indignation,
+and offer some hope for change in the future. Consider laws forbidding the
+discharge of union members or criminalizing acts of domestic violence: even if
+infrequently enforced, such laws can both fuel indignation and make people
+more willing to act on it. For their part, advantaged groups may enlist the law to
+offer the opposite signals and to produce contrary effects. Consider laws banning
+4 See Amy Wax, Expressive Law and Oppressive Norms, 86 Virginia Law Review 1731 (2000). We
+owe a general debt to Wax’s treatment, which builds in turn on Ullmann-Margalit, supra note, as
+well as on Robert H. Frank, Passion within Reason: The Strategic Role of the Emotions (New
+York; Norton, 1988). Our current emphases, however, are different from those in these other
+discussions.
+5 On the willingness to punish free-riders, even at one’s own expense, and on the associated
+emotion of anger, see Ernst Fehr and Simon Gachter, Altruistic Punishment in Humans, 415
+Nature 137 (2002).
+union members from requiring workers to join unions as a condition of
+employment.</p>
+      <p>This essay comes in three parts. Part I shows why inequality is often stable and
+explains under what conditions people will rebel against it. Drawing on
+experimental evidence, Part II offers some remarks on moral indignation and
+spite and on the strategic aspects of the willingness to sacrifice material
+selfinterest for the sake of increased equality. Part III explores heterogeneity and the
+role of law. Here we move from the case of homogenous groups to that of
+heterogeneous groups, in which both moral indignation and the willingness to
+act on it are highly variable, and in which rebels face collective action problems.
+We explore in this connection the efforts of indignation entrepreneurs, the
+possibility of “indignation cascades,” and the potential role of law, showing that
+even without much in the way of enforcement, law can embolden members of
+disadvantaged groups and strengthen their resolve. We also show that,
+conversely, law can shore up the status quo of inequality, either by suggesting
+that moral indignation is unjustified or by raising the cost of acting on it. But all
+of these possibilities depend on the moral authority of law, and there are
+significant social heterogeneities here as well. We discuss some of the dilemmas
+here for those seeking to use the law to transform the status quo or instead to
+entrench it. Part IV offers a brief conclusion.</p>
+    </sec>
+    <sec id="sec-3">
+      <title>I. Inequality and Partiality</title>
+      <p>Our starting point is the situation represented by the following array:
+There are two equilibrium points here, the top-left corner and the bottom-right
+corner. As equilibrium points they are stable: once one of them is reached, no
+party gains by deviating from it alone. At the same time, the equilibrium states
+involve inequality, and symmetrically so: the value of the top-left box for Row
+Chooser is 2, as compared with 1 for Column Chooser, and the reverse holds for
+the bottom-right box. It is a matter of indifference at this initial stage whether the
+array is interpreted in terms of payoffs or of utilities; we shall have occasions
+below to note where it does make a difference.</p>
+      <p>(2;1) (0;0)
+(0;0) (1;2)
+figure 1
+For purposes of analysis, we shall assume that rather than contemplating the
+‘game’ represented by this array from the outside, the parties are already inside
+it, locked into one of its cells. Specifically, we shall assume that they are locked
+into the equilibrium that favors Row Chooser. The top-left cell, then, represents
+the status quo. We shall assume that while in the status quo, each party is aware
+of the larger picture. That is, each party is aware of the other three alternative
+states that could be reached were Row chooser, or Column Chooser, or both, to
+deviate from the status quo. In particular, they are both aware of the existence of
+an alternative, equilibrial status quo (represented by the bottom-right cell) in
+which their relative positions are reversed. This, as we shall see, bears on the
+strategic and manipulative aspects of the situation.</p>
+    </sec>
+    <sec id="sec-4">
+      <title>A. Inequality Without Indignation</title>
+      <p>From this simple description, and even with the stipulated information, it is not
+at all clear how the parties will perceive their situation. They might not see
+themselves in a conflict at all. Why? The answers are important because they
+shed light on the notion of indignation. Also, they help show how indignation
+might be stemmed when it starts to grow. There are several possibilities.
+1. Negligible difference. While the status quo is asymmetrical between the two
+parties, both parties may regard the inequality as trivial, negligible, not worth
+fussing about.</p>
+      <p>This attitude toward the inequality may be highlighted if the array—now
+interpreted in terms of monetary payoffs—were, say, the following:
+(Note that the gap between 99 and 100 is bridged by an “add 1” operation,
+whereas bridging the gap between 1 and 2 is ambiguous between the operations
+of “add 1” and “multiply by of 2.”)
+In these circumstances, people are unlikely to protest or to rebel, simply because
+the stakes are so low. There is no occasion for indignation. Many kinds of
+inequalities are seen in these terms. In some situations the advantaged try to
+convince, or to manipulate, the disadvantaged to see the inequalities in these
+terms.6
+2. Natural or otherwise real differences. The parties may think that the different
+payoffs are acceptable because they are a result of differences between them that
+are natural or otherwise real. Some people have unusual skills; they have
+benefited from the “natural lottery,” not itself taken as morally objectionable.7
+Biological differences might account for inequalities between men and women.
+Many in India accept the caste system as part of the natural order. An author of
+an untouchable autobiography writes that many untouchables “accept the notion
+of ritual impurity, the defining element of their own inferiority.” And he adds,
+“Our fortunes, good or bad, were the will of God.”8
+Even if differences are not natural, they might be taken to justify inequality.
+Famous basketball players and entertainers make far more money than janitors
+and secretaries, but perhaps the former have worked especially hard, or perhaps
+their relative wealth is justified in light of what they give to the millions of
+people who are willing to pay to see them.9 Inequalities might not seem so
+troubling if they are responsive to what are seen as real differences whose social
+consequences are not perceived in moral terms. Many people have, of course,
+argued for social and legal reform on the ground that morally irrelevant
+differences, whether or not natural, cannot justly be turned into sources of social
+disadvantage.10 These arguments can be taken as efforts to promote moral
+indignation when it would otherwise be absent.
+3. Blind lottery. The inequality of the status quo, while not perceived by the
+parties as trivial or a defensible outgrowth of real differences, may be taken by
+6 We bracket here the question whether the absence of moral indignation, on this or other
+grounds, is a reflection of manipulation by the advantaged or instead “adaptive preferences,”
+that is, preferences that have adapted to the status quo. See Jon Elster, Sour Grapes (Cambridge:
+Cambridge University Press, 1983).
+7 See John Rawls, A Theory of Justice 74 (1971). Rawls of course does challenge the justice of
+using the natural lottery as a basis for inequalities.
+8 See Timur Kuran, Private Truths, Public Lies 198 (Cambridge: Harvard University Press, 1997).
+9 This is of course the topic of lively debate. See G.A. Cohen, If You’re An Egalitarian, How Come
+You’re So Rich? (Cambridge: Harvard University Press, 2000); Robert Nozick, Anarchy, State,
+and Utopia (1977).
+10 See, eg, John Stuart Mill, The Subjection of Women, in On Liberty and Other Essays 471 (John
+Gray ed. 1991); Martha Minow, Making All the Difference (Ithaca: Cornell University Press,
+1993); Glenn Loury, The Anatomy of Racial Inequality (Cambridge: Harvard University Press,
+2001).
+them to be a matter of luck. Among the farmers in a village, some turn out to
+have the better plots; friends go together on a vacation in a resort and only some
+receive rooms with a view; some people do well in a market and others do not,
+for the simple reason that one set of commodities turns out to be popular in the
+relevant period; some people are drafted for military service and others are not.
+The parties may be well aware that the asymmetry could, in an obvious sense,
+have been the reverse. Still, their attitude to it is more appropriately captured by
+“tough luck” or ”too bad” than by “how unfair.”
+People perceive many real-life situations as if they result from blind lotteries,
+either natural or man-made. They often come to terms with the inequalities of
+their consequences, accept them and learn to live with them. Many disabled
+people, for example, come to see things in this way.11 But sometimes people do
+not find it easy to simply accept bad luck, and they become resentful. They may
+harbor ill feelings against the advantaged; they become bitter. Still, we take
+resentment as such to be free from moral underpinnings, and therefore to be kept
+distinct from indignation, which we take to have them. As we shall emphasize
+below, it is the indignant, not the resentful, who see the situation as unjust or
+morally wrong.12 Of course, resentment may, under certain conditions, turn
+into—or be manipulated into—indignation.13
+4. Taking turns. The parties may acknowledge the inequality of the status quo and
+regard it as unfair—but not permanently or irremediably so. Rather than become
+indignant, they undertake to do something about it. The simplest and most
+natural way of doing something about it is to take turns. Given that the parties
+are aware of the larger picture, they may arrange to switch at some point to the
+alternative equilibrium state, the one represented by the bottom-right cell of the
+original payoff array. But note that they can only do it by acting in concert. No
+one party acting alone can achieve this switch.</p>
+      <p>It is worth recalling here that the original payoff array is in fact the one
+representing the well-known BoS game: the Battle of the Sexes (or: Ballet or
+11 See Melvin Lerner, The Belief in a Just World (New York: Plenum, 1980).
+12 The distinction we are making here between indignation and resentment, while on the whole
+compatible with common usage, is stipulative. We bracket altogether well known philosophical
+uses of resentment (or ‘resentiment’) such as those made by Nietzsche, Sartre, Strawson, and
+others.
+13 For a series of case studies of this transformation, see Oppositional Consciousness (Jane
+Mansbridgeand Aldon Morris eds.) (Chicago: University of Chicago Press, 2001).
+Soccer?14). You enjoy it more when we go to the ballet; I enjoy it more when we
+go to a soccer match; but we both prefer to go together than to go alone. When
+the circumstances are right—a small number of participants, shared good will,
+and easy communication among them—then the parties may be motivated by
+the sentiments of fairness and reciprocity toward fixing the inequality inherent in
+their status quo. Such ideas as taking turns or switching roles are obvious
+solutions here. Within the family, strategies of this kind are familiar and have
+often been urged on equality grounds.15 Similar strategies have been suggested in
+the domain of political representation as well, with explicit reference to the
+notion of taking turns.16 Those who defend free markets sometimes argue that
+they produce a system, over time, of taking turns, with no entrenched
+inequalities, with widespread mobility, and with different people able to move
+toward the top of the social hierarchy.17 But of course here there is no explicit
+agreement between the parties to be taking turns: things just work out that way.
+5. Mutual advantage. The parties may think that both of them gain from the
+situation, even if the two sides do not gain the same amount or in the same
+proportion. This may be the case when the disadvantaged see the present status
+quo as already an improvement, compared to a previous situation in which both
+parties were materially worse off (whether more equal or not). Workers may
+believe that their salaries, while far below those of managers, are made possible
+only by a cooperative arrangement from which, on the whole, they gain.
+Defenses of market economies, and challenges to legal efforts to increase equality
+within such economies, typically speak in terms of mutual advantage.18 Women
+may believe that they benefit less than men from a domestic arrangement, but
+that they still benefit, and that rebellion would be uncharitable, self-defeating, or
+worse.</p>
+      <p>Of course situations of this sort may not remain stable in the long run. This point
+helps underline an important general aspect of the situations we are here
+concerned with, which is their dynamic nature. Our arrays “freeze” a time slice,
+and enable us to focus on its characteristics. But we should not be misled by the
+game-theoretic analysis and think of it as static; these time slices have a before
+and an after. Indignation first builds up, then leads to an explosive
+14 Yet another playful alternative of this BoS game is ‘Bach or Stravinsky?’. See Ariel Rubinstein,
+A Course in Game Theory, Cambridge, mass: MIT press, 1994, p. 15.
+15 See Susan Moller Okin, Justice, Gender, and the Family 170-86 (New York: Basic Books, 1989).
+16 See Lani Guinier, The Tyranny of the Majority (New York: The Free Press, 1997).
+17 See Seymour Martin Lipset, It Didn’t Happen Here (1999).
+18 See e.g. Richard A. Epstein, In Defense of the Contract At Will, 51 U Chi L Rev 947 (1984).
+transformation, and the new situation that is regarded as a beneficial status quo
+of inequality today may breed indignation tomorrow. With time, the
+disadvantaged may come to focus on the indignity of their unequal situation
+rather than on the benefits it confers on them. We shall emphasize that if this
+does not come about spontaneously, rebels among the disadvantaged group may
+labor to stir up the feelings of the disadvantaged in this direction.</p>
+    </sec>
+    <sec id="sec-5">
+      <title>B. Partiality and Disadvantage</title>
+      <p>We now come to consider the case where the party disadvantaged by the
+inequality of the status quo (but not the other party) does experience this
+inequality as objectionable, or at least comes to experience it as such over time.
+To preface this discussion, let us note that it is not always clear who is
+advantaged and who is disadvantaged by any particular status quo. Sometimes
+both sides to an issue consider themselves the underdogs under existing, or
+proposed, arrangements and laws. People disagree, for example, about whether
+and to what extent modern societies reflect sex equality. An especially vivid
+example comes from the affirmative action controversy. Some opponents of
+affirmative action consider themselves to be the disadvantaged, and of course
+many advocates of affirmative action think the opposite. Because judgments of
+unfairness are systematically self-serving, this should not be entirely surprising.19
+For our purposes, it is important to note that understandings of who is
+disadvantaged are not uniform within the population, can shift over time, and
+are even subject to manipulation.</p>
+      <p>Still, as familiar examples of the sorts of oppositions that we have in mind,
+consider the following: employees and employers, poor people and rich people
+within a single nation, people in poor nations and people in rich nations,
+handicapped and able-bodied, homosexuals and heterosexuals,
+AfricanAmericans and whites, Arab citizens and Jewish citizens of Israel, untouchables
+and upper-caste members in India, Catholics and Protestants in Northern
+Ireland. We posit that if the inequality of the situation persists over time, and is
+not acknowledged as such and remedied by the advantaged, then the situation
+may breed, in the disadvantaged, sentiments such as anger, outrage, jealousy,
+spite, envy, humiliation, and vengefulness.
+19 See Linda Babcock and George Loewenstein, Explaining Bargaining Impasse: The Role of
+SelfServing Biases, in Behavioral Law and Economics 255 (Cass R. Sunstein, ed.) (Cambridge:
+Cambrdge University Press, 2001).
+The term “indignation” is here designated to capture this constellation of
+sentiments. Understanding indignation as righteous anger produced by a sense
+of wrong to oneself and to others, we intend this term to signal a morally
+charged sentiment. This sentiment grows out of a felt insult to the dignity of the
+disadvantaged, which is sometimes perceived as humiliation.20 To flag the rise of
+the sentiment of moral indignation, we shall speak of the perceived partiality of
+the status quo, instead of using the more neutral “inequality.” The status quo,
+then, is perceived here not as neutrally unequal but as morally wrong.21
+To help isolate the point we want to make, let us focus now on the following
+array (call it the extreme-case partiality array):
+This is not a coordination situation. There is here a single equilibrium point,22
+namely the (unequal) status quo: it has no counterpart at the bottom-right corner.
+So the status quo appears, from the point of view of immediate self-interest,
+maximally robust: it looks like everyone’s best choice in the situation. There is
+seemingly no credible threat for the disadvantaged to make, nothing strategically
+for them to gain but only to lose from deviating from the status quo. Those who
+rebel will sacrifice what little they have. And yet it is possible that even in this
+situation, rebellion will nonetheless occur. The reason is that if the inequality
+produces indignation, the disadvantaged may come to perceive the situation as
+one in which they have ‘nothing to lose but their chains.’ Of course they have
+something else to lose—the material payoff of the status quo—but by hypothesis,
+that material pay-off, though not worthless, is worth less to them than the cost of
+remaining in a situation of perceived injustice. Note that this analysis of the
+extreme-case partiality array begins by depicting it in terms of material payoffs
+rather than utilities. When indignation builds up, the disadvantaged derive
+disutility from the fact that they receive less than the advantaged. If we are now
+to “translate” this array to utilities, the upper-left cell would “translate”, say, to
+(2;-2) and the upper-right cell would perhaps become (0;2). The disparity
+between the two arrays helps explain the rebellion of the indignant.
+20 See Avishai Margalit, The Decent Society (Cambridge: Harvard University Press, 1997).
+21 See the treatment of the transformation of the Indian caste system in Kuran, supra note, at 323–
+24.
+22 Or rather, only one strict equilibrium point. The bottom-right cell, with a payoff of (0;0), is a
+weak equilibrium: no one gains from deviating from it alone, but then no one loses either.
+What this means is that even though the status quo appears, from the point of
+view of material payoffs, strategically stable and robust, it might yet be
+vulnerable to what we might call a desperate rebellion. This rebellion, if it occurs,
+is driven by indignation, not by a belief that it will have strategic advantages, in
+the short run or the long run. This is so even when there is no alternative status
+quo that is attractive—in terms of absolute material position—to the presently
+disadvantaged. To the extent that the disadvantaged may come to prefer equality
+of (or in) misery to perpetual partiality, the threat exists that they will wish to
+drag the advantaged with them into the gutter (so to speak). Consider the
+possibility that workers will engage in strike activity, knowing that they might
+well lose as a result, but willing to face that risk because of moral indignation
+directed against what they perceive as an insufficiently equal division of profits
+with management.23 “Let my soul die with the Philistines,” cried the Biblical
+Samson, choosing to bring down the roof and kill his Philistine captors along
+with himself, rather than to stay alive in captivity.24</p>
+    </sec>
+    <sec id="sec-6">
+      <title>II. The Strategic Effects of Indignation</title>
+      <p>Is it plausible to think that people will sacrifice their material self-interest for the
+sake of equality? Will this happen only under extreme and most extraordinary
+circumstances? Actually moral indignation frequently inclines people to sacrifice,
+by punishing, at their own expense, people who have behaved unfairly.25 This is
+a standard form of quasi-rationality.26 As we shall see, indignation may turn out
+to have strategic advantages, and in a way that bears directly on rebellion against
+partiality.</p>
+    </sec>
+    <sec id="sec-7">
+      <title>A. Experimental Evidence</title>
+      <p>To understand the operation of indignation, it is best to move from game theory
+to behavioral economics. Consider the results of the ultimatum game, a
+muchdiscussed test of the relationship between material self-interest and moral
+motivations, in the context of proposed distributions of resources between two
+23 See Michael Harper and Samuel Estreicher, Labor Law 94-97 (Boston: Aspen Law and Business,
+1999).
+24 Judges, 16, 30.
+25 In the context of labor-management relations, where anticipated shirking by workers deters
+wage cuts, see Truman Bewley, Why Wages Don’t Fall During A Recession (Cambridge: Harvard
+University Press, 2000); in the context of free riding, see Fehr and Gachter, supra note.
+26 See Richard Thaler, Quasi-Rational Economics (New York: Russell Sage, 1993).
+sides.27 In the ultimatum game, some subjects, called proposers, are asked to
+suggest a division of a certain sum of money between themselves and other
+subjects, called responders. Proposers might propose a division of 90/10, 80/20,
+50/50—whatever they wish. But in this game, responders have a choice too: They
+can accept or reject the proposed division. If the responders agree to the
+proposal, players receive money in accordance with the allocation. If they say no,
+no one receives any money at all. Proposers are aware of this fact. No bargaining
+is allowed.</p>
+      <p>The standard economic prediction is that outcomes will be extremely unequal—
+that proposers will make offers approaching zero, and that responders will
+accept any positive offers. And if people care only about their material
+selfinterest, this is the set of results that should be observed. But the standard
+prediction badly fits the experimental data.28 Typically proposers propose a
+relatively equal division, with median proposals tending to be in the proportion
+of 60–40.29 Typically responders reject divisions that they perceive as highly
+unequal and therefore palpably unfair. Often they reject offers of less than 50–50.
+The ultimatum game is ordinarily played for small stakes, but the same pattern
+of results holds even when the stakes are quite large. The ultimatum game has
+been played for several weeks’ or even months’ salary in poor nations, and here
+too relatively equal decisions are proposed, and conspicuously unequal divisions
+are rejected.30
+All this is well known. But we want to draw attention to two less well-discussed
+features of these findings, both of which closely connect to our argument here.
+The first point is that responders are quite heterogeneous, in the sense that they
+will acquiesce with a diverse range of minimum offers. Only a small percentage
+of responders will accept an offer of 10–90 or less; most responders will not
+require a 50–50 split, though many do (typically about 35%); some people will
+not agree to less than 30–70, whereas many others will set a 40–60 floor (typically
+27 For an overview, see Richard Thaler, The Ultimatum Game, in The Winner’s Curse 21 (New
+York: The Free Press, 1992).
+28 See Christine Jolls et al., A Behavioral Approach to Law and Economics, 50 Stan. L. Rev. 1471,
+1490 (1998).
+29 See id.
+30 See Colin Camerer and Richard Thaler, Ultimatums, Dictators, and Manners, 9 J Econ Pesp 209,
+210-211 (1995); Vesna Prasnikar and Alvin Roth, Considerations of Fairness and Strategy, 107 Q J
+Eon 865, 873-75 (1992); Robert Slonim and Alvin Roth, Learning in High Stakes Ultimatum
+Games, 66 Econometrica 569, 573 (1998). Note that the last paper shows that when repetition is
+combined with very high stakes, offers decrease somewhat, though they remain far above the
+standard predictions. Id. at 573, 588 fig. 3A.
+about 60%).31 What does this mean? It means, first, that moral indignation itself,
+in the face of inequality, is variable; some people are offended by distributions
+that others find acceptable. It means, second, that spite, fueled by moral
+indignation, has a price, that it can be “bought,”32 and the necessary amount
+varies across individuals. These heterogeneities, and the existence of a price for
+spite, will bear on our discussion below. As we shall see, moral indignation, in
+the face of inequality, is generally variable, and people will vary in their
+willingness to incur costs for expressing it.</p>
+      <p>The second point is that those who feel moral indignation, and who are willing
+to sacrifice material self-interest in order to punish perceived unfairness, actually
+turn out to be at a strategic advantage, because they stand to receive more
+generous offers from materially self-interested proposers. Or to put it more
+precisely: Those who are perceived as prone to moral indignation, and as willing
+to sacrifice to punish what they see as unfairness, will receive more generous
+offers from self-interested proposers, thus producing more equal outcomes.33
+This point emerges from comparing the results of the ultimatum game with the
+results of a simple variation, the dictator game.34
+In the dictator game, the proposer/dictator is allowed to impose any allocation
+she chooses; the responder/subject must accept that allocation. It turns out that in
+the dictator game, the median offer is significantly less egalitarian than in the
+ultimatum game. Still, even here divisions are not in the proportion of 99–1, but
+typically closer to 80–20.35 The far more equal allocation in the ultimatum game
+shows that the power of response matters a great deal, and that the anticipated
+31 See Jolls et al., supra note, at 1491–92; Werner Guth et al., An Experimental Analysis of
+Ultimatum Bargaining, 3 J Econ Behav. &amp; Org 367, 371-72, 375 tables 4 and 5; Daniel Kahneman et
+al., Fairness and the Assumptions of Economics, 59 J Bus S585, S291 tbl. 2. The most subtle test of
+people’s willingness to trade off fairness and absolute income shows similar heterogeneities in
+both the United States and Spain. Gary Charness and Matthew Rabin, Understanding Social
+Preferences With Some Simple Tests (unpublished manuscript 2001)
+32 See the model of fairness in Matthew Rabin, Incorporating Fairness into Game Theory and
+Economics, 83 Am Econ Rev 1281, 1282 (1993), showing that the willingness to act to punish
+unfairness will increase as the material cost of doing so decreases.
+33 Note that while they received more generous offers, they might not be better off. Someone who
+receives 40 out of 100, and is willing to accept that offering despite feeling some indignation that
+he did not receive 50, might be worse off than someone who receives 30 but feels no indignation
+at all.
+34 See, e.g., Camerer and Thaler, supra note, at 213–15; Alvin E. Roth, Bargaining Experiments in
+The Handbook of Experimental Economics 298–302 (John H. Kagel &amp; Alvin E. Roth eds.)
+(Princeton: Princeton University Press, 1995).
+35 Id.
+moral indignation of responders is driving a significant amount of proposers’
+behavior in the ultimatum game. If rational proposers anticipate that responders
+will reject grossly unequal allocations, then proposers will propose more equal
+allocations, even if proposers are entirely self-interested. At this point the
+relationship to our concerns here should be clear: If advantaged people anticipate
+moral indignation from the disadvantaged, they should be expected to offer
+more equal divisions.</p>
+      <p>This last point has received its most direct empirical confirmation in a
+remarkable study in Israel, designed to test the effects of ethnicity in the
+ultimatum game.36 Israeli Jewish society consists largely of two main ethnic
+groups, Ashkenazim (European and American immigrants and their Israeli-born
+offspring) and Sephardim or Eastern Jews (Asian and African immigrants and
+their Israeli-born offspring). How, the experimenters asked, do Ashkenazi
+players treat Sephardi players? The answer is that they treat the Sephardim
+better than they treat fellow Ashkenazi players, not because they like them more,
+but because they believe that Eastern players are especially likely to reject offers
+perceived as unfair. In the dictator game, Sephardim and Ashkenazim received
+the same amount.37 But in the ultimatum game, Eastern players were offered
+significantly higher amounts—indeed, almost 50% more than Ashkenazi players.
+In the authors’ words: “There is ethnic discrimination in the ultimatum game.
+Eastern players receive larger transfers than Ashkenazi players. This
+discrimination is probably the outcome of a common ethnic stereotype in Israeli
+society, according to which men of Eastern origin are believed to react more
+harshly if treated unfairly.”38 It is worth noting that in their capacity as
+responders, Eastern Israelis were not, in fact, more indignant and spiteful than
+Ashkenazi Israelis. The two groups did not differ in their willingness to accept
+unequal offers. The perception that led to more generous offers was not rooted in
+reality. But for purposes of ultimate outcomes it was the perception, not the
+reality, that mattered.
+36 Chaim Fershtman and Uri Gneezy, Discrimination in a Segmented Society: An Experimental
+Approach, Q J Econ 351 (2001).
+37 Id. at 365.
+38 Id. at 369–70. A related interpretation of the findings couches them in terms of honor and
+humiliation rather than in terms injustice and unfairness. See Avishai Margalit, “A Just Peace or
+Just a Peace” (unpublished manuscript). The idea of indignation as here used covers perceived
+insults to honor as well as perceived injustice.
+To be sure, there is much debate about the sources of moral indignation in the
+ultimatum game.39 Some evidence suggests that relative position is important—
+that some responders simply do not want to have less, or much less, than
+proposers.40 Other evidence suggests that responders greatly care about
+proposers’ motivations—that if proposers are perceived behaving in a selfish
+way, many responders are willing to punish them.41 This view is supported by
+the finding that people are far more willing to accept unequal offers if the
+experimenter constrains the proposers’ choices, by, for example, saying that the
+proposer can only choose between 20–80 and 80–20; in these circumstances, 80–
+20 is far more acceptable.42 There is also some evidence of cultural effects on
+outcomes. While members of all societies diverge from the standard economic
+prediction, the extent of the variation is culturally variable.43 Our main focus
+here, however, is on the fact of indignation and its consequences for outcomes.
+We have seen that when people are indignant, they are liable to sacrifice material
+self-interest to promote what they see as increased fairness; and that when
+indignation is anticipated, and when it is backed by strategic ability to punish
+people in a position of power, those in that position will allow for more equal
+distributions.</p>
+    </sec>
+    <sec id="sec-8">
+      <title>B. Generous Offers and Redistribution</title>
+      <p>Let us move now from experiments to actual practice. In the face of moral
+indignation, the advantaged have a number of options. They can take steps to
+fend off a desperate rebellion, or indeed to anticipate and fend off any response
+like that of indignant responders in the ultimatum game. The advantaged might
+attempt to convince some or most of the disadvantaged that moral indignation is
+senseless – perhaps because inequalities are trivial, or work to the advantage of
+both sides, or respond to real differences, or are a part of a system of taking turns
+over time. All of these strategies are familiar in various contexts. But suppose
+39 For a good overview, see Gary Charness and Matthew Rabin, Understanding Social Preferences
+With Some Simple Tests (unpublished manuscript 2001).
+40 This is the interpretation in Robert Frank, Luxury Fever 116 (New York: The Free Press, 1998).
+See also Dirk Engelman and Martin Strobel, Inequality Aversion, Efficiency, and Maximin
+Preferences (unpublished manuscript 2001).
+41 Armin Falk et al., On the Nature of Fair Behavior, Ec. Inquiry (forthcoming). A more complex
+account emerges from Charness and Rabin, supra note.
+42 See Falk et al., supra note.
+43 See the overview in Roth, supra note, at 282–88; Alvin Roth et al., Bargaining and Market
+Behavior in Jerusalem, Ljubljana, Pittsburgh, and Tokyo: An Experimental Study, 81 Am. Econ.
+Rev. 362 (1991).
+that these strategies do not work and that indignation proves robust. What might
+the advantaged do?
+As distinct from the case of ‘taking turns’ discussed above, we assume here that
+those seeking to maintain the unequal status quo are not motivated by
+sentiments of fairness and reciprocity. We assume that they are akin to entirely
+self-interested proposers in the ultimatum game, seeking to perpetuate their
+privileges if they can. To the extent that they perceive the threat of a rebellion by
+the disadvantaged as real, they may consider appeasing them by reducing the
+inequality of the status quo. In other words, they may consider redistribution—
+the analogue to a more equal distribution in the ultimatum game.
+For purposes of exposition and without changing anything of substance, take
+the extreme-case partiality array (figure 3) to reflect material payoffs, and
+suppose the numbers are the following:
+The advantaged may, for example, try to ‘throw a bone’ at the disadvantaged, so
+that the status quo will change into, say (39;21). Or they may offer a still more
+substantial redistribution by changing the status quo into, say, (35,25). Will this
+suffice? The answer depends on the nature and extent of the moral indignation
+involved. It is imaginable that the disadvantaged will at this point stop seeing
+the inequality as partiality and possibly come to treat it along such lines as
+“negligible difference” or “mutual advantage.” In the context of American labor
+law, relatively modest steps toward increasing union power have been thought
+both necessary and sufficient to secure industrial peace; the preamble to the
+National Labor Relations Act refers explicitly to the reduction of “industrial
+strife” as one of its purposes,44 a purpose that it has mostly achieved. It is
+possible, then, that an act of redistribution will defuse indignation, even if it does
+not provide equality.45 And might not the disadvantaged at this point consider
+that they already have something to lose by pushing further and taking the risk
+of losing everything? This is hardly unfamiliar; again consider the context of
+44 See Harper and Estreicher, supra note, at 101–02.
+45 See Stephen Holmes and Cass R. Sunstein, The Cost of Rights (New York: Norton, 1999)
+(discussing the provision of welfare, rather than equality, as part of a mutually beneficial deal
+among members of society).
+labor-management relations, where self-interested workers often settle for much
+less than they deem entirely fair. What, for that matter, are the conditions under
+which literal equality (30;30) will be offered, or reached? In the ultimatum game,
+over 1/3 of responders insist on a 50–50 division46; in some circumstances, the
+disadvantaged will do the same. But is this the limit? Might there not be
+conditions under which, once the advantaged make concessions and are
+perceived as losing nerve, the dynamics will push things toward, say, (25;35) and
+even further?
+These questions are empirical in nature: what will or might or is likely to happen,
+under differently specified conditions. They are also a bit abstract, because
+people are typically complaining about a particular dimension of inequality (race
+or sex discrimination, for example, or an absence of certain rights in the
+workplace, or poverty), and not arguing for equality in general, whatever that
+might mean. But the important point is the recognition of the potential role of the
+moral sentiments in posing a threat to the stability of an equilibrium state: even
+though the status quo is robust in game-theoretical terms, it is nevertheless liable
+to being overturned by a resentful underdog.</p>
+    </sec>
+    <sec id="sec-9">
+      <title>C. Turning the tables</title>
+      <p>Let us at this point reflect on partiality as related to our original array (figure 1).
+Recall that it was an inequitable, double-equilibrium coordination situation, as
+distinct from the extreme-case partiality array where the status quo is the single
+equilibrium state (figures 3, 4). Here it is again:
+(2;1) (0;0)
+(0;0) (1;2)
+The point we want to make is that if indignation was thought to make rebellion a
+possibility in the no-alternative-equilibrium situation, then here the status quo is
+even more vulnerable to rebellion. But how does the existence of an alternative
+equilibrium, in which the inequality between the parties is reversed, affect the
+situation?
+The existence of an alternative equilibrium strengthens the threat to the stability
+of the status quo by making the threat strategic. To the extent that the threat of
+the disadvantaged to deviate from the status quo (from Column 1 to Column 2)
+46 See Jolls et al., supra note.
+is credible, it is to the benefit of the advantaged to deviate too (from Row 1 to
+Row 2). The reason, of course, is that if the advantaged do not deviate while the
+disadvantaged do, they end up in the state represented by the top-right cell,
+where everyone’s payoff is 0, whereas if they do deviate they end up in the
+alternative equilibrium state, represented by the bottom-right cell, where they
+manage to cut their losses, with a payoff of 1, as against 2 to the
+formerlydisadvantaged. Thus, the strategic structure of the situation in effect forces the
+advantaged to acquiesce in a table turning maneuver, which makes them the
+newly disadvantaged. Examples come from professional sports within the
+United States. Athletes now receive substantial sums, often many millions each
+year, thus reducing profits and apparently ensuring, some of the time, that top
+athletes earn more than owners and high-level officers, even though the converse
+was true in earlier eras. The tables have thus been turned, but without leading
+owners and high-level officers to leave the business.</p>
+      <p>To be sure, when judged from the point of view of rational choice or game
+theory, the mere existence of the alternative equilibrium state, in itself, is not
+taken to constitute a strategic threat to the unequal status quo. After all, from that
+point of view it is contrary to the self-interest of the disadvantaged to deviate
+alone (reducing his payoff from 1 to 0) whether there exists an alternative
+equilibrium state or not. That is, from the game theoretical point of view it is
+irrational for the disadvantaged to deviate alone and risk losing everything. But
+what looks like an irrational move from the narrow perspective of the immediate
+self-interest comes to look like a credible threat when it is backed by the moral
+passion of indignation. Immediate psychological motives aroused by the moral
+sentiments turn out to augment, and at the same time to be backed by, a viable
+strategic threat. What we have here is passion in the service of reason.47</p>
+    </sec>
+    <sec id="sec-10">
+      <title>D. Principle or Spite?</title>
+      <p>Return to the array immediately above. As we have just noted, the threat of
+rebellion is augmented and made further credible by the existence of the
+alternative equilibrium state. But there is a further question: If the rebellion takes
+place and succeeds, and the alternative equilibrium is the new status quo, what
+exactly has been achieved? In the new status quo, the former disadvantaged are
+the newly advantaged, and we are once again in exactly the same sort of status
+47 Robert H. Frank, Passion within Reason: The Strategic Role of the Emotions (New York;
+Norton, 1988); see also Amy L. Wax, supra note.
+quo of inequality, with roles reversed. In theory, the analysis of the new situation
+is identical to the foregoing analysis of the initial one, though of course the
+history of table turning is likely to affect the attitudes of both parties in various
+ways. For example, the newly disadvantaged are perhaps more likely to suffer
+from resentment and indignation. Ethnic conflicts, with shifts in the categories of
+advantaged and disadvantaged, can sometimes be understood in these terms.
+But a more intriguing question relates to a somewhat different situation.
+Consider the following array (call it the equitable alternative array):
+Everything we said just now, about the threat of rebellion being augmented and
+made further credible by the existence of the alternative equilibrium state, holds
+here too: the equitable bottom-right cell is a coordination equilibrium here too.
+Now suppose that in this new situation a rebellion takes place and succeeds and
+the alternative equilibrium is the new status quo. What exactly has been achieved
+here?
+In the new status quo, the former disadvantaged have the same (material) payoff
+as before (namely, 1). So in the material sense they have gained nothing. The
+only difference is in the payoff to the advantaged, which now have 1 rather than
+the 2. With this shift, there is a problem about how to frame the point of the
+rebellion: Is the goal to achieve an equitable distribution, or instead to ensure
+that the advantaged are stripped of their privileges? The first may be seen as a
+noble principle, potentially with broad appeal; but the second might be seen as
+mere spite. Those seeking to perpetuate inequality often urge that there is no
+point (aside from envy) to moving from (2;1) to (1;1).48
+48 See the discussion of envy in John Rawls, A Theory of Justice 530-41 (Cambridge: Harvard
+University Press, 1971), which has spawned an extensive literature. See also Frank, Luxury Fever,
+supra note, for reasons to think that even apart from envy, (2,1) may be worse than (1,1), at least
+if these are understood in terms of payoffs rather than utilities. There is empirical evidence in
+support; consider the finding in Gary Charness and Matthew Rabin, Understanding Social
+Preferences With Some Simple Tests (unpublished manuscript 2001) that when asked to choose
+between 400 for self, 400 for stranger, and 400 for self, 750 for stranger, 31% of subjects choose
+400, 400. Id. at 46.
+At this point it might be well to identify some complications about the possible
+motivations of members of disadvantaged groups and about the nature of their
+indignation. Put in terms of utilities, the shift from (2;1) to (1;2) improves the
+absolute position of the disadvantaged, as well as their relative position. It does
+not, however, achieve equality. The shift from (2;1) to (1;1) improves the relative
+position of the disadvantaged and achieves equality, but does not improve their
+absolute position. People vary in what they care about most: absolute position,
+relative position, or equality.49 Which of the three do we assume the
+disadvantaged to be motivated by? The way we told the story, indignation is
+produced by inequality. But this in itself is not sufficient to disambiguate the
+situation and to tell us whether the disadvantaged in a status quo of inequality
+are motivated by a principled passion for equality as such, or simply by a desire
+to improve their position - whether absolute or relative.</p>
+      <p>To get a sense of the variety of permutations of the three motivations, consider
+other possible shifts from a status quo of inequality. A shift from (2;1) to (5;2) will
+be acceptable to the disadvantaged who only care about absolute utility ("As"),
+but rejected by the relative- utility minded ("Rs") as well as by those who care
+about equality as a matter of principle ("Es"). People who care only about relative
+position (Rs), so that their real goal is to do better than the relevant others, will
+welcome a shift from (6,5) to (1,3): As and Es will reject this shift. For committed
+Es a shift from (3,2) to (1,1) would be readily accepted: here the commitment to
+equality is primary, even at the expense of absolute position. More pertinent to
+our concerns, a shift from (2;1) to (1;2) will please both As and Rs, but will be
+rejected by Es—while the shift from (2;1) to (1;1) will be welcomed by both Es
+and Rs but a matter of indifference to the As.</p>
+      <p>In the cases that we are here emphasizing, the indignation-producing status quo
+of inequality was denoted by the canonical (2;1), and the shifts we considered
+were to (1;2) (in figure 1), to (0;0) (in figure 3), and to (1;1) (figure 5). We saw just
+now that pushing for these shifts may be variously motivated. Moreover, not
+only can we not tell the motives of the disadvantaged apart, but we also want to
+suggest that often the indignant themselves cannot tell them apart either. Or at
+least they cannot tell them apart at the initial stages of indignation and rebellion.
+Sometimes there is need to look to the subsequent social states in this evolving,
+dynamic situation, and to the observed behavior of the (formerly) disadvantaged
+in them, in order to clarify this question of motives. Thus: are these people
+content with the reversal from (2;1) to (1;2)? Or do they push further, until (1;1)
+49 For an intriguing demonstration, see id.
+or even (0;0) is achieved? From the answers to questions like these, the motives
+of the disadvantaged may be disentangled.</p>
+      <p>But the main point is that in all of the cases considered here, the shift cannot be
+achieved directly, in one move. In all of these cases, in order for the
+disadvantaged to achieve the desired shift they have to be lone deviators from
+the status quo, and thus they have to be willing to accept the state (at the
+upperright cell of all the arrays) of (0;0). Whatever else might happen next, this
+involves willingness on the part of the disadvantaged to sacrifice absolute
+position, a willingness to suffer—provided the advantaged suffer too. This
+willingness is the product of indignation. Whether the indignation is fueled
+solely by a passion for equality, or also by a desire to bring about the fall of the
+privileged, thereby improving relative position, may be impossible, or
+premature, to disentangle. And it may, ultimately, not really matter.</p>
+    </sec>
+    <sec id="sec-11">
+      <title>III. Collective Action Problems and the Role of Law</title>
+    </sec>
+    <sec id="sec-12">
+      <title>A. Two strategic problems</title>
+      <p>Thus far we have been writing as if there are only two players, understanding
+each of them to stand for a group as a whole. Of course this is a highly artificial
+way to see most real-world situations. There is no reason to expect group
+members who face a situation of inequality to agree in their reactions. Some may
+be indignant and others not at all; some may be willing to act on the basis of their
+indignation, while others are not; group members may not be able to, or want to,
+act in concert.50 Recall here the great diversity of responder behavior in the
+ultimatum game. To understand the relationship between inequality and
+indignation more precisely, and to see the possible role of law, it is important to
+recognize that if they seek to rebel, the disadvantaged potentially face,
+simultaneously, two types of strategic problems. Specifically, they may face both
+a coordination problem and a prisoner’s dilemma-type (PD) problem.
+1. Coordination problem and indignation entrepreneurs. In order for their rebellion to
+succeed and for the social change to take place, many or most of disadvantaged
+have to deviate from the status quo together. If only one member of a religious
+minority complains of discrimination, little is likely to happen in response. If we
+assume, as we have throughout, that the two ‘players’ here are groups of people
+50 See the various discussions in Oppositional Consciousness, supra note, and in particular
+AnnaMaria Marshall, A Spectrum in Oppositional Consciousness, in id. at 99, 111–13.
+(classes, population segments, and so forth) rather than two individuals, then
+obviously only if many act together do the disadvantaged have a chance to be
+effective. Of course it is likely to be the case that not everyone has to participate
+as long as a critical mass of participants is reached. But still the problem remains,
+of coordinating the deviating actions of a sufficient number of people to cross
+that threshold.</p>
+      <p>If this is a genuine coordination problem, the interests of the parties fully
+coincide. To solve the problem, the parties need explicit discussion and
+agreement, or proper signaling or (what comes to the same thing) saliency. In the
+situation we are addressing, one of the coordination equilibrium points (and
+there are by definition at least two) has to be salient somehow, or signaled
+somehow. A pervasive question for disadvantaged groups is how can a signal be
+given? The question is further compounded because the coordination problem in
+hand actually entails a series of sub-problems. There is the difficulty of agreeing
+on a shared understanding of the situation (is indignation the right response?),
+and then there is the difficulty of agreeing on a course of action (is it worthwhile
+to incur the potentially high costs of acting on the basis of indignation?).
+There are various options here. An intriguing possibility involves the efforts of
+rebel leaders, who might be described for our purposes as “indignation
+entrepreneurs.” As diverse but salient examples, consider Thomas Paine, Martin
+Luther King, Jr., Malcolm X, Yassir Arafat, Catharine MacKinnon, and Ward
+Connerly (influential opponent of affirmative action programs in California). The
+goal of indignation entrepreneurs is to convince people that indignation is
+morally appropriate and that the costs of expressing such indignation are worth
+incurring.51 The signals thus given may help to overcome the coordination
+problem. In providing those signals, indignation entrepreneurs sometimes take
+the special step of sacrificing themselves or (the extreme form of self-sacrifice) of
+becoming martyrs to the cause.52 Calling them martyrs, however, should not
+make us think that all such entrepreneurs deserve to be approved; there will
+always be those who will see them as manipulators or instigators. Here, as
+elsewhere, everything turns on one’s evaluation of their ends and their means.
+51 See the analogous discussion of political entrepreneurs in the general category of extremism in
+Albert Breton and Silvana Dalmazzone, Information Control, Loss of Autonomy, and the
+Emergence of Political Extremism, in Political Extremism and Rationality 44, 57 (Albert Breton et
+al. eds.) (Cambridge: Cambridge University Press, 2002).
+52 See Wax, supra, at 1744.
+A self-sacrificing leader, dedicated to the cause of the disadvantaged, might be
+among the first to rebel in defiance of the status quo. Consider, for example, the
+actions of Martin Luther King, Jr., seeking to promote civil disobedience and
+often emphasizing his own willingness (demonstrated in practice) to go to jail in
+response for his violations. King’s frequent, highly publicized imprisonments
+represented a kind of martyrdom and hence produced a powerful signal, helping
+to solve the coordination problem by suggesting to thousands and even millions
+of people that civil disobedience would be justified and could be a widespread
+practice. If acts of this sort succeed in focusing attention on the cause of the
+disadvantaged, they may well ennoble that cause, fueling indignation. Moreover,
+they may in fact provide the signal for the entire group, encourage its members,
+and stir them to action. In the extreme case, the martyr’s act can serve as a
+rallying point or battle cry for them to follow suit en masse. In this respect this
+sort of self-sacrifice and martyrdom functions as a coordinating device.53
+Indignation entrepreneurs also attempt to alter behavior by promoting
+discussion among like-minded members of disadvantaged groups, in an effort to
+inculcate emerging norms.54 This approach is likely to work: It is well established
+that when like-minded people speak with one another, they tend to end up
+believing a more extreme version of what they antecedently thought.55 If rebel
+leaders succeed in engaging members of disadvantaged groups in internal
+dialogue, and in isolating them within enclaves of group members, coordination
+will be much easier. Indignation and the willingness to act on it are highly likely
+to grow.56 People typically learn from the informational signals given by others,
+and it is easy to imagine ‘indignation cascades,” in which B learns to be
+indignant because A is indignant, and C comes to share in the common
+53 See the general discussion in Dennis Chong, Collective Action and the Civil Rights Movement
+(Chicago: University of Chicago Press, 1991).
+54 See Brett C. Stockdill, Forging a Multidimensional Oppositional Consciousness, in Oppositional
+Consciousness, supra note, at 204, 22728.
+55 See Roger Brown, Social Psychology: The Second Edition (New York: The Free Press, 1986);
+Cass R. Sunstein, Designing Democracy ch. 1 (Oxford: Oxford University Press, 2001); Sharon
+Groch, Free Spaces: Creating Oppositional Consciousness in the Disability Rights Movement, in
+Oppositional Consciousness, supra note, at 65, 67-72; Cass R. Sunstein, Why They Hate Us: The
+Role of Social Dynamics, Harv. J. Law &amp; Pub. Policy (forthcoming 2002).
+56 For an emphasis on physicalsegregation and the rise of indignation, see Aldon Morris and
+Maomi Braine, Social Movements and Oppositional Consciousness, in Oppositional
+Consciousness, supra note, at 20, 29–30. Cf. Russell Hardin, The Crippled Epistemology of
+Extremism, in Political Rationality and Extremism, supra, at 7, 14–19 (discussing the effects of
+limited information on extremism).
+indignation of A and B, and D, E, and so forth go along.57 Reputational pressures
+also play a role, especially within groups of like-minded people. We shall return
+to these points presently.
+2. PD problem.
+(a) In general. At the same time that the disadvantaged, as a group, have to solve
+their coordination problem, they also have to worry about the possibility of free
+riders. This is a particular worry for indignation entrepreneurs, even for martyrs.
+In a sense, where there is a martyr everyone else is a free rider. The martyr to the
+cause is the only one who willingly incurs personal costs, while all the others
+enjoy the fruits of his or her self-sacrifice if it succeeds, and lose nothing if it fails.
+A martyr cannot do all that must be done; for a rebellion to succeed, those
+engaged in the activities that follow the martyr’s sacrifice must solve the problem
+too. Assume, for example, that the rebellion requires certain acts – from verbal
+protests to civil disobedience - from which rebels might suffer. Because rebels
+face risks, everyone will be tempted not to join the rebellion but to remain on the
+sidelines. Of course moral indignation, spurring material self-sacrifice for the
+sake of equality, can overcome the temptation. And efforts to ensure discussion
+within enclaves, consisting of members of disadvantaged groups, can provide
+much help here. But we have emphasized that moral indignation will vary
+within the population of the disadvantaged, and also that the expression of
+moral indignation, for most people, has a price. Even when moral indignation is
+playing a significant social role, some people will refuse to join the rebellion.
+If the critical mass of rebels is reached anyway, then the non-joiners stand to
+benefit from the success, and if it is not reached and the rebellion fails, then they
+do not pay the personal price (legal or other sanctions) that the rebels stand to
+pay. The strategic problem of overcoming this temptation, then, is the PD
+problem that the disadvantaged have to solve in order for their desired social
+change to take effect. The standard solutions to this problem come from social
+norms and through law. In the context we are discussing, law is not highly likely
+to be available, because rebels are not lawmakers. Still, rebels may be engaged in
+legal advocacy; below we offer some examples of the sorts of laws that they
+might urge. Also, law is made by coalitions, and in many circumstances the
+disadvantaged might be able to form coalitions with sympathetic groups within
+57 See the general treatment of informational cascades in David Hirshleifer, The Blind Leading the
+Blind, in The New Economics of Human Behavior 188 (Cambridge: Cambridge University Press,
+1995).
+the broad class of the advantaged. In the United States, participants in the civil
+rights movement of the 1960s were able to obtain legal protection against
+discrimination in large part because they were able to enlist northern and
+western legislators to their cause. In any case – and this is our central point here
+- norms may have law-like functions.
+(b) Reputational sanctions and second-order indignation. Without law,
+reputational sanctions are a good way of solving the coordination problem
+through a new form of moral indignation. Those who fail to participate in the
+rebellion might be subject to indignation as intense, in its way, as the moral
+indignation directed against the advantaged. If non-participants face ostracism
+or ridicule—if they are treated as traitors, cowards, scabs, or Uncle Toms—the
+PD problem might well be solved. And indeed, rebelling groups often take steps
+to impose sanctions on free riders.58 We can better understand those steps, and
+the intensity of the feelings that underlie them, if we see that they may be
+indispensable to collective success. Disadvantaged groups often develop strong
+norms of participation and solidarity, making deviation from the group’s
+enterprise extremely costly for individuals. Such norms have often played a
+significant role in the labor movement. They can be found elsewhere as well, for
+apostates are often hated even more than infidels.</p>
+      <p>Here moral indignation is playing a double role. It is aimed against the
+advantaged group, but it is aimed, with equal or greater force, against fellow
+group members who free ride on the actions of rebels. Notice as well that it is
+important to inculcate not only moral indignation against free-riding members of
+the disadvantaged groups, but also a form of second-order indignation directed
+at those who do not express indignation against free-riders. Thus, for moral
+indignation to do its work here, an additional free-rider problem must be
+solved.59
+(c) Indignation and its cost. For individual members of rebelling groups,
+however, there remain two problems: first, an assessment of whether it is
+appropriate to feel moral indignation and second, an evaluation of whether it is
+rational to act on the basis of moral indignation. We are assuming, that is, a stage
+in the rebellion when it is not at all clear whether moral indignation is sensible or
+58 See Laurence R. Iannaccone, Sacrifice and Stigma: Reducing Free-Riding in Cults, Communes,
+and Other Collectives, 100 J. Polit Economy 271 (1992); see also Fehr and Gachter, supra note, for
+empirical evidence of willingness of groups to punish free riders, even if the punishment is costly
+for the punishers.
+59 This lesson can be drawn from Fehr and Gachter, supra note.
+appropriate, and when there is heterogeneity on that count within the affected
+group. Many members of the disadvantaged groups may remain skeptical or
+ambivalent. One reason is that they are likely to suffer from pluralistic ignorance:
+They do not know what others like them are thinking. If people’s beliefs are a
+product of the perceived beliefs of others (“social proof”), this form of ignorance
+is a real disability. In order for the rebellion to succeed, much moral argument is
+needed on this count, alongside recruitment efforts, “consciousness-raising,” and
+more. At the same time, pluralistic ignorance is also an opportunity for strategic
+actors. Members of disadvantaged groups will have an incentive to exaggerate
+the extent and intensity of moral indignation, whereas members of advantage
+groups will minimize both of them. Here too indignation entrepreneurs can play
+an important role, as can deliberative enclaves and indignation cascades
+discussed above.</p>
+      <p>Those who feel moral indignation will by hypothesis be willing to sacrifice their
+material self-interest to punish others; but how much indignation is required,
+and how much sacrifice will they make? Will they be willing to die for the cause?
+To put family members at risk? Here too we should expect a large degree of
+heterogeneity. For many people, incentives will matter even when moral
+indignation is real and significant.</p>
+    </sec>
+    <sec id="sec-13">
+      <title>B. A Role for Law</title>
+      <p>Both sides to the resulting conflicts are likely to want the law to be on their side,
+because of their interest in two key variables: moral indignation itself, which will
+vary within the population, and the willingness to act on it, which will also be
+highly variable, for some indignant people will prefer to suffer in silence. Of
+course the disadvantaged will want the law to legitimate their moral indignation
+and to decrease the cost of acting on it. The advantaged will want the law to do
+the opposite. Our emphasis here is on the possibility that laws, even ones that are
+little enforced, will have effects on norms and attitudes, so as to strengthen or to
+weaken indignation. We will also suggest that law, if enforced, can increase or
+decrease the cost of expressing indignation.</p>
+      <p>There are many complexities here. For the law to affect indignation, it will have
+to have a degree of moral authority. Typically the extent of its authority will vary
+across the population, often with asymmetries between members of advantaged
+and disadvantaged groups. And a legal rule may have the opposite of its
+intended effects, by, for example, spurring indignation when it is intended to
+defuse it. Whatever the law does, astute indignation entrepreneurs will use the
+law strategically. If it supports their efforts, they will invoke its moral authority
+to intensity indignation; if it attempts to entrench the status quo, they will claim
+that the very attempt is reason for intensified indignation and a testimonial to the
+rightness of their cause. For their part, supporters of the status quo will invoke
+the law to reduce indignation. This they will do either by urging that significant
+changes have been made in the interest of the disadvantaged, thus making
+indignation senseless, or by suggesting that if law directs itself against rebellion,
+its moral authority demonstrates that the rebellion is unjustified.</p>
+      <p>(i) Transformative Law
+The disadvantaged, or at least the rebels within that group, would like the law to
+solve their free-rider problem. The rebels will also want the law to recognize the
+normative weight of their claim, to reduce partiality to some degree, and to fuel
+the view that the inequality of the status quo, or the equality-denying practice to
+which they object, is a form of injustice. Success in achieving these aims might
+give their struggle a vital boost. If the law carries moral authority, successful
+legal reform is liable to turn it from a mere brute power struggle to a push for
+change that is perceived as just and right. Under the right conditions, legal
+support can increase the likelihood that the threat to topple the status quo and
+upset existing arrangements will appear something other than a spiteful and
+irrational move against self-interest. If the law is on their side, then their struggle
+will likely be ennobled: legal sanction can make the rebellion appear not for
+personal gain but in order to vindicate principle. Consider the frequent pleas of
+Martin Luther King, Jr.: “If we are wrong, then the Constitution of the United
+States is wrong,” and “All we are saying to America is, be true to what you said
+on paper.”
+But what might law do? The most obvious possibility is to outlaw a practice that
+contributes to inequality, not only providing sanctions against those who engage
+in that practice, but also in the process emboldening those who are rebelling
+against that practice. Consider civil rights laws in general, banning private
+discrimination in employment. The effects of these laws go well beyond their
+legal enforcement, whether public or private. If promotions and transfers are not
+allowed to reflect racial discrimination, people are more likely to object to
+discriminatory practices, merely because of the legal prohibition.60 These
+objections in turn have effects on behavior. By publicly advertising and affirming
+the rightness of the new convention, the law can increase the perception that an
+60 See the discussions in Oppositional Consciousness, supra note.
+existing practice is unjust, add momentum to private resentments, and provide a
+focal point around which players can rally and affirm their commitment to
+change.61
+Or consider the effort to see sexual harassment as a civil rights violation.62 Before
+the civil rights law was understood to forbid sexual harassment, there was of
+course sexually harassing behavior. But there was no concept, or term, to
+stigmatize that behavior, which was seen, socially as well as legally, to be a
+private matter, not a pervasive practice that contributed to inequality. In these
+circumstances, it was not hardly possible to be indignant about the behavior; but
+indignation was far more difficult. A central effect of the new legal
+understanding is to give both advantaged and disadvantaged a morally charged
+vocabulary that embodies the belief that sexual harassment is indeed a reason for
+indignation. The expressive effect of the law continues to be important. Many of
+those who objected to sexual harassment, especially but not only in the early
+years, stood to lose a great deal from the objection. This was and is so partly
+because lawsuits are expensive and grueling, and partly because those who
+object to sexual harassment are not likely to improve their employment prospects
+as a result. Actual and anticipated indignation played, and plays, a crucial role in
+reducing the extent of the behavior. (Recall the ultimatum game, where
+proposers give better offers precisely because they anticipate indignation.) And
+because the law supports that indignation, people are all the more likely to be
+indignant.</p>
+      <p>In this way we can cast a new light on the contested idea that law has an
+expressive function63 – that law is important for what it says, independently of
+what it does. Sanctions, as well as costly enforcement, may not be necessary in
+order for the law to play a significant role in facilitating normative change. The
+expressive power of the law may well be sufficiently effective here. It may be
+effective, first, because it suggests that moral indignation is in fact appropriate.
+An important point here is that the very enactment of law will tend to dissipate
+pluralistic ignorance64: If the political process has chosen to forbid certain
+conduct, this is a good signal that most people, and especially disadvantaged
+people, object to it.
+61 See Wax, supra note, at 1743.
+62 For a catalogue, see Anna-Maria Marshall, supra note, at 99-126.
+63 See Mathew Adler, Expressivist Theories of Law: A Skeptical Overview, 148 U Pa L Rev 1363
+(2000)..
+64 See Richard McAdams, Norms Theory: An Attitudinal Theory of Expressive Law, 79 Oregon L.
+Rev. 339 (2000).
+The law may be effective, second, if and to the extent that it increases the benefits
+and decreases the costs of acting on the basis of moral indignation. If a civil
+action is available for victims of discrimination, the benefits of that form of
+rebellion are increased. It is well known that in certain circumstances,
+compliance with the law will occur even without enforcement of the law; one
+reason is that when conduct is against the law, private persons are emboldened
+to sanction violators.65 The same point holds for laws that forbid discriminatory
+practices. Whether or not the government acts to punish unlawful conduct, the
+legal rule is likely to stiffen the spines of those who might not otherwise act on
+the basis of their indignation.</p>
+      <p>Of course there are no guarantees here. The law might lack moral authority and
+hence the relevant expression may have little or no effect.66 In some areas of the
+United States it is not so important that the law forbids racial discrimination or
+sexual harassment. The relevant law is seen as an imposition from a kind of elite.
+The notion of “political correctness” has often been used to undermine the
+expressive effects of law founded on moral indignation; and one of the
+consequences of that notion has been to make people wonder whether moral
+indignation is in fact appropriate. Even if transformative law has moral
+authority, it might weaken the efforts of rebels, precisely because the legal
+reform, minor though it may be, may defuse moral indignation and encourage
+the disadvantaged to believe that the new status quo is acceptable. This effect has
+been observed with respect to what many see as modest gains, in the form of
+court decisions, from the women’s movement in the United States.67
+In short, the expressive effect of a transformative law cannot simply be read off
+the enactment. Such a law might be taken as a reason to stop a rebellion or
+instead as a reason to deepen and extend it. Indignation entrepreneurs will
+attempt to move social understandings in their preferred directions.
+65 See Robert Kagan and Jerome Skolnick, Banning Smoking: Compliance Without Enforcement,
+in Smoking Policy (Robert Rabin and Stephen Sugarman eds.) (New York: Oxford University
+Press, 1993).
+66 See Dan Kahan, Gentle Nudges vs. Hard Shoves: Solving the Sticky Norms Problem, 67 U. Chi.
+L. Rev 607 (2000).
+67See Gerald Rosenberg, The Hollow Hope (Chicago: University of Chicago Press, 1991).
+(ii) Entrenching Law
+For those who enjoy or otherwise support the inequality of the status quo, and
+seek to protect it against upheavals, law might not be necessary. Private
+sanctions and norms may be sufficient. Employers might be able to fire
+employees who seek a larger share of profits, or even to unionize. Civil rights
+workers might be beaten or at least ostracized. General norms against
+malcontents, or particular norms in favor of certain unequal practices, may do
+the work of law. There is of course the technique of naturalizing the status quo,
+of making it appear unthinkable that it could be otherwise. Social norms and
+conventions, often religious in nature, are recruited for this purpose. Thus the
+inferiority of women, of blacks, and of homosexuals has in many historical
+periods been made to seem designed by God or by nature. The class structure in
+feudal Europe and in England until not so long ago was augmented in similar
+ways.</p>
+      <p>Still, those seeking to protect the status quo may be expected to use the law for
+this purpose. They may, for example, seek legal authorization for the punitive
+steps taken against rebellion; they may also seek direct legal punishment of
+rebellion itself. As a prominent example, consider the effort to treat labor strikes
+as crimes or as subject to injunctions.68 In the same vein consider the early
+twentieth century effort to authorize employers to discharge members of labor
+unions,69 and the contemporary effort to enact “right to work” laws, which forbid
+unionized workforces from requiring new employees to join the union.70 If
+employers are allowed to discharge union members, and if the law recognizes
+that right, it might be harder, for some or many, to hold onto moral indignation
+against non-unionized firms: the law signals that indignation is misplaced. Or
+even if moral indignation is retained, the cost of expressing it has increased, as
+people may lose their jobs. Moreover, formal legal protections, backed by
+sanction, may be augmented by recourse to informal norms and conventions as
+well. In many workforces, at least in the United States, there are strong norms,
+encouraged by employers, in favor of rejecting unionization and union drives.
+One may expect walls of sanctions, both formal and informal, to be erected
+around the status quo.71
+68 See, e.g., Hitchman Coal &amp; Coke Co. v. Mitchell, 245 U.S. 229 (1917).
+69 See Coppage v. Kansas, 236 US 1 (1915).
+70 See, e.g., Henderson and Estreicher, supra note, at 1070-1080.
+71 See Edna Ullmann-Margalit, supra note.
+The basic goal here is to change the incentive structure underlying the situation
+in such a way that deviation from the status quo becomes – or at any rate
+appears to become – prohibitively costly. The price should be such that the
+notion that ‘I have nothing to lose but my chains’ becomes insupportable. In
+communist Eastern Europe, for example, dissidents were deterred not just by
+increasing the penalties on them for any subversive activity, but also by threats
+to the welfare and educational prospects of their children.</p>
+      <p>In terms of our payoff array, the attempt is to effectively reduce the payoff for
+Column-Chooser’s lone deviation from 0 to, say, -2 (if not much lower):
+Recall that the expression of moral indignation has a cost, for most people most
+of the time, even when moral indignation is intense.72 If the law sufficiently raises
+its cost, indignation is less likely to be expressed even when it exists. And when
+indignation is less often expressed, people who care about the beliefs and acts of
+others may silence themselves as well, potentially leading to a kind of spiral in
+favor of the status quo.73
+But here too there are no guarantees. In fact there is an interesting alternative
+possibility: If the law is perceived as grossly unfair, the very fact of unfair
+punishment may increase moral indignation and make some people willing to
+act when they would otherwise decline to do so. Consider, as a case in point, the
+effort by the state of Colorado, in the mid-1990s, to forbid localities from
+outlawing discrimination on the basis of sexual orientation.74 By saying that
+localities could not treat that form of discrimination as a civil rights violation,
+Colorado was attempting to entrench a form of inequality. But did the effort
+actually serve to strengthen discriminatory norms, or did the opposite occur?
+There is no good evidence on the precise question. But it is clear that the law
+produced an intense public outcry on the part of advocates of gay rights. It is
+certainly plausible to think that the law actually strengthened moral indignation
+on the part of those who were inclined to object to discrimination on the ground
+72 See the analogous discussion of fairness in Rabin, supra note.
+73 See the discussion of the movement from the unthinkable to the unthought in Timur Kuran,
+Private Truths, Public Lies 176-195 (Cambridge: Harvard University Press, 1997).
+74 The background is provided in Romer v. Evans, 517 U.S. 620 (1996), in which the Supreme
+Court struck down the state law.
+of sexual orientation. A similar point can be made with regard to laws that
+restrict the right to abortion. Just as transformative, or ‘un-entrenching’ law
+might weaken a rebel movement by reducing moral indignation, so an
+entrenching law might strengthen that movement, by increasing it.</p>
+    </sec>
+    <sec id="sec-14">
+      <title>IV. Conclusion</title>
+      <p>Unequal relationships are often stable simply because it is in the material
+selfinterest of the less well off to maintain them. Change becomes possible if, as a
+result of moral indignation, people sacrifice their self-interest to produce change.
+As the experimental evidence suggests, it is not uncommon for people to show a
+willingness to lose materially in order to visit losses on those who seem to have
+been unfair. Real heterogeneity can be found, not only in the basic impulse, but
+also in diverse conceptions of when it is appropriate to be indignant, and in
+diverse judgments about how much can or should be sacrificed in order to
+express indignation. We have also seen that when advantaged people are aware
+that disadvantaged people are prone to express their indignation, even at their
+own expense, equality may be promoted as a result, simply because the
+advantaged (“proposers”) will be prompted to fend off rebellion by offering
+more equal distributions. We have extended these points to cases involving large
+numbers of disadvantaged people with varying levels of moral indignation
+(ranging to none at all) and with willingness to incur varying costs to express it.
+An ironic implication is that the more stable, strong, and immune to change the
+oppressive conventions and norms that protect a status quo of partiality may
+appear to be, the more vulnerable to change they may in fact be. This is so
+because under the right circumstances oppressive conventions are especially
+likely to breed indignation. And the more intense the indignation, the more
+credible the strategic threat of the oppressed to topple the status quo becomes. At
+this stage effective coordination among the disadvantaged may be sufficient to
+produce significant change. In helping to bring about such coordination,
+indignation entrepreneurs are likely to have an important role.</p>
+      <p>Law can be important both in assisting and in preventing the rebellion. Law
+affects the two crucial variables: the extent of moral indignation and the costs of
+expressing it. If the law allows or requires equality-abridging practices, members
+of the disadvantaged group may be more likely to see those practices as natural,
+or as an outgrowth of real differences or as otherwise justified. If the law bans
+equality-abridging practices, more people are likely to be indignant about them,
+partly because of the moral authority of law, partly because the law can decrease
+the costs or increase the benefits of objecting to those practices. Both the
+phenomenon of “compliance without enforcement” and that of “increased
+equality without rebellion” can be better understood in this light.</p>
+      <p>By virtue of its expressive power, law can lend legitimacy to the moral
+indignation and hence increase the credibility of the threat to upset the status
+quo. Law can also play a pivotal role in providing a rallying point and thus in
+functioning as a coordination device for the disadvantaged. At the same time,
+law is contested terrain. The advantaged will press for legal initiatives that will
+give moral support to the status quo and raise the cost of acting on the basis of
+indignation. But legal victories on either side might turn out counterproductive.
+Such victories might demobilize rebels, suggesting that indignation is no longer
+appropriate. At the same time, legal repression may increase indignation, thus
+aggravating the very problem that the advantaged seek to solve. When moral
+indignation is on the rise, both sides, seeking to enlist the expressive power of
+the law, face some recurring dilemmas.</p>
+      <sec id="sec-14-1">
+        <title>Readers with comments should address them to:</title>
+      </sec>
+      <sec id="sec-14-2">
+        <title>Cass R. Sunstein</title>
+        <p>Karl N. Llewellyn Distinguished Service Professor of Jurisprudence
+University of Chicago Law School
+1111 East 60th Street
+Chicago, IL 60637
+csunstei@midway.uchicago.edu
+10.
+William M. Landes, Copyright Protection of Letters, Diaries and Other
+Unpublished Works: An Economic Approach (July 1991).</p>
+        <p>Richard A. Epstein, The Path to The T. J. Hooper: The Theory and History of
+Custom in the Law of Tort (August 1991).</p>
+        <p>Cass R. Sunstein, On Property and Constitutionalism (September 1991).
+Richard A. Posner, Blackmail, Privacy, and Freedom of Contract (February 1992).
+Randal C. Picker, Security Interests, Misbehavior, and Common Pools (February
+1992).</p>
+        <p>Tomas J. Philipson &amp; Richard A. Posner, Optimal Regulation of AIDS (April 1992).
+Douglas G. Baird, Revisiting Auctions in Chapter 11 (April 1992).</p>
+        <p>William M. Landes, Sequential versus Unitary Trials: An Economic Analysis (July
+1992).</p>
+        <p>William M. Landes &amp; Richard A. Posner, The Influence of Economics on Law: A
+Quantitative Study (August 1992).</p>
+        <p>Alan O. Sykes, The Welfare Economics of Immigration Law: A Theoretical
+Survey With An Analysis of U.S. Policy (September 1992).</p>
+        <p>Douglas G. Baird, 1992 Katz Lecture: Reconstructing Contracts (November 1992).
+Gary S. Becker, The Economic Way of Looking at Life (January 1993).</p>
+        <p>J. Mark Ramseyer, Credibly Committing to Efficiency Wages: Cotton Spinning
+Cartels in Imperial Japan (March 1993).</p>
+        <p>Cass R. Sunstein, Endogenous Preferences, Environmental Law (April 1993).
+Richard A. Posner, What Do Judges and Justices Maximize? (The Same Thing
+Everyone Else Does) (April 1993).</p>
+        <p>Lucian Arye Bebchuk and Randal C. Picker, Bankruptcy Rules, Managerial
+Entrenchment, and Firm-Specific Human Capital (August 1993).</p>
+        <p>J. Mark Ramseyer, Explicit Reasons for Implicit Contracts: The Legal Logic to the
+Japanese Main Bank System (August 1993).</p>
+        <p>William M. Landes and Richard A. Posner, The Economics of Anticipatory
+Adjudication (September 1993).</p>
+        <p>Kenneth W. Dam, The Economic Underpinnings of Patent Law (September 1993).
+Alan O. Sykes, An Introduction to Regression Analysis (October 1993).</p>
+        <p>Richard A. Epstein, The Ubiquity of the Benefit Principle (March 1994).
+Randal C. Picker, An Introduction to Game Theory and the Law (June 1994).
+William M. Landes, Counterclaims: An Economic Analysis (June 1994).
+J. Mark Ramseyer, The Market for Children: Evidence from Early Modern Japan
+(August 1994).</p>
+        <p>Robert H. Gertner and Geoffrey P. Miller, Settlement Escrows (August 1994).
+Kenneth W. Dam, Some Economic Considerations in the Intellectual Property
+Protection of Software (August 1994).</p>
+        <p>Cass R. Sunstein, Rules and Rulelessness, (October 1994).
+28.</p>
+        <p>David Friedman, More Justice for Less Money: A Step Beyond Cimino (December
+1994).</p>
+        <p>Daniel Shaviro, Budget Deficits and the Intergenerational Distribution of Lifetime
+Consumption (January 1995).</p>
+        <p>Douglas G. Baird, The Law and Economics of Contract Damages (February 1995).
+Daniel Kessler, Thomas Meites, and Geoffrey P. Miller, Explaining Deviations
+from the Fifty Percent Rule: A Multimodal Approach to the Selection of Cases for
+Litigation (March 1995).</p>
+        <p>Geoffrey P. Miller, Das Kapital: Solvency Regulation of the American Business
+Enterprise (April 1995).</p>
+        <p>Richard Craswell, Freedom of Contract (August 1995).</p>
+        <p>J. Mark Ramseyer, Public Choice (November 1995).</p>
+        <p>Kenneth W. Dam, Intellectual Property in an Age of Software and Biotechnology
+(November 1995).</p>
+        <p>Cass R. Sunstein, Social Norms and Social Roles (January 1996).</p>
+        <p>J. Mark Ramseyer and Eric B. Rasmusen, Judicial Independence in Civil Law
+Regimes: Econometrics from Japan (January 1996).</p>
+        <p>Richard A. Epstein, Transaction Costs and Property Rights: Or Do Good Fences
+Make Good Neighbors? (March 1996).</p>
+        <p>Cass R. Sunstein, The Cost-Benefit State (May 1996).</p>
+        <p>William M. Landes and Richard A. Posner, The Economics of Legal Disputes
+Over the Ownership of Works of Art and Other Collectibles (July 1996).
+John R. Lott, Jr. and David B. Mustard, Crime, Deterrence, and Right-to-Carry
+Concealed Handguns (August 1996).</p>
+        <p>Cass R. Sunstein, Health-Health Tradeoffs (September 1996).</p>
+        <p>G. Baird, The Hidden Virtues of Chapter 11: An Overview of the Law and
+Economics of Financially Distressed Firms (March 1997).</p>
+        <p>Richard A. Posner, Community, Wealth, and Equality (March 1997).</p>
+        <p>William M. Landes, The Art of Law and Economics: An Autobiographical Essay
+(March 1997).</p>
+        <p>Cass R. Sunstein, Behavioral Analysis of Law (April 1997).</p>
+        <p>John R. Lott, Jr. and Kermit Daniel, Term Limits and Electoral Competitiveness:
+Evidence from California’s State Legislative Races (May 1997).</p>
+        <p>Randal C. Picker, Simple Games in a Complex World: A Generative Approach to
+the Adoption of Norms (June 1997).</p>
+        <p>Richard A. Epstein, Contracts Small and Contracts Large: Contract Law through
+the Lens of Laissez-Faire (August 1997).</p>
+        <p>Cass R. Sunstein, Daniel Kahneman, and David Schkade, Assessing Punitive
+Damages (with Notes on Cognition and Valuation in Law) (December 1997).
+William M. Landes, Lawrence Lessig, and Michael E. Solimine, Judicial Influence:
+A Citation Analysis of Federal Courts of Appeals Judges (January 1998).
+John R. Lott, Jr., A Simple Explanation for Why Campaign Expenditures are
+Increasing: The Government is Getting Bigger (February 1998).
+53.</p>
+        <p>Richard A. Posner, Values and Consequences: An Introduction to Economic
+Analysis of Law (March 1998).</p>
+        <p>Denise DiPasquale and Edward L. Glaeser, Incentives and Social Capital: Are
+Homeowners Better Citizens? (April 1998).</p>
+        <p>Christine Jolls, Cass R. Sunstein, and Richard Thaler, A Behavioral Approach to
+Law and Economics (May 1998).</p>
+        <p>John R. Lott, Jr., Does a Helping Hand Put Others At Risk?: Affirmative Action,
+Police Departments, and Crime (May 1998).</p>
+        <p>Cass R. Sunstein and Edna Ullmann-Margalit, Second-Order Decisions (June
+1998).</p>
+        <p>Jonathan M. Karpoff and John R. Lott, Jr., Punitive Damages: Their Determinants,
+Effects on Firm Value, and the Impact of Supreme Court and Congressional
+Attempts to Limit Awards (July 1998).</p>
+        <p>Kenneth W. Dam, Self-Help in the Digital Jungle (August 1998).</p>
+        <p>John R. Lott, Jr., How Dramatically Did Women’s Suffrage Change the Size and
+Scope of Government? (September 1998)
+Kevin A. Kordana and Eric A. Posner, A Positive Theory of Chapter 11 (October
+1998)
+David A. Weisbach, Line Drawing, Doctrine, and Efficiency in the Tax Law
+(November 1998)
+Jack L. Goldsmith and Eric A. Posner, A Theory of Customary International Law
+(November 1998)
+John R. Lott, Jr., Public Schooling, Indoctrination, and Totalitarianism (December
+1998)
+Cass R. Sunstein, Private Broadcasters and the Public Interest: Notes Toward A
+“Third Way” (January 1999)
+Richard A. Posner, An Economic Approach to the Law of Evidence (February
+1999)
+Yannis Bakos, Erik Brynjolfsson, Douglas Lichtman, Shared Information Goods
+(February 1999)
+Kenneth W. Dam, Intellectual Property and the Academic Enterprise (February
+1999)
+Gertrud M. Fremling and Richard A. Posner, Status Signaling and the Law, with
+Particular Application to Sexual Harassment (March 1999)
+Cass R. Sunstein, Must Formalism Be Defended Empirically? (March 1999)
+Jonathan M. Karpoff, John R. Lott, Jr., and Graeme Rankine, Environmental
+Violations, Legal Penalties, and Reputation Costs (March 1999)
+Matthew D. Adler and Eric A. Posner, Rethinking Cost-Benefit Analysis (April
+1999)
+John R. Lott, Jr. and William M. Landes, Multiple Victim Public Shooting,
+Bombings, and Right-to-Carry Concealed Handgun Laws: Contrasting Private
+and Public Law Enforcement (April 1999)
+74.
+97. Douglas Lichtman, Property Rights in Emerging Platform Technologies (April
+2000)
+98. Cass R. Sunstein and Edna Ullmann-Margalit, Solidarity in Consumption (May
+2000)
+99. David A. Weisbach, An Economic Analysis of Anti-Tax Avoidance Laws (May
+2000)
+100. Cass R. Sunstein, Human Behavior and the Law of Work (June 2000)
+101. William M. Landes and Richard A. Posner, Harmless Error (June 2000)
+102. Robert H. Frank and Cass R. Sunstein, Cost-Benefit Analysis and Relative</p>
+        <p>Position (August 2000)
+103. Eric A. Posner, Law and the Emotions (September 2000)
+104. Cass R. Sunstein, Cost-Benefit Default Principles (October 2000)
+105. Jack Goldsmith and Alan Sykes, The Dormant Commerce Clause and the</p>
+        <p>Internet (November 2000)
+106. Richard A. Posner, Antitrust in the New Economy (November 2000)
+107. Douglas Lichtman, Scott Baker, and Kate Kraus, Strategic Disclosure in the Patent</p>
+        <p>System (November 2000)
+108. Jack L. Goldsmith and Eric A. Posner, Moral and Legal Rhetoric in International</p>
+        <p>Relations: A Rational Choice Perspective (November 2000)
+109. William Meadow and Cass R. Sunstein, Statistics, Not Experts (December 2000)
+110. Saul Levmore, Conjunction and Aggregation (December 2000)
+111. Saul Levmore, Puzzling Stock Options and Compensation Norms (December
+2000)
+112. Richard A. Epstein and Alan O. Sykes, The Assault on Managed Care: Vicarious</p>
+        <p>Liability, Class Actions and the Patient’s Bill of Rights (December 2000)
+113. William M. Landes, Copyright, Borrowed Images and Appropriation Art: An</p>
+        <p>Economic Approach (December 2000)
+114. Cass R. Sunstein, Switching the Default Rule (January 2001)
+115. George G. Triantis, Financial Contract Design in the World of Venture Capital
+(January 2001)
+116. Jack Goldsmith, Statutory Foreign Affairs Preemption (February 2001)
+117. Richard Hynes and Eric A. Posner, The Law and Economics of Consumer</p>
+        <p>Finance (February 2001)
+118. Cass R. Sunstein, Academic Fads and Fashions (with Special Reference to Law)
+(March 2001)
+119. Eric A. Posner, Controlling Agencies with Cost-Benefit Analysis: A Positive</p>
+        <p>Political Theory Perspective (April 2001)
+120. Douglas G. Baird, Does Bogart Still Get Scale? Rights of Publicity in the Digital</p>
+        <p>Age (April 2001)
+121. Douglas G. Baird and Robert K. Rasmussen, Control Rights, Priority Rights and
+the Conceptual Foundations of Corporate Reorganization (April 2001)
+122. David A. Weisbach, Ten Truths about Tax Shelters (May 2001)
+127.
+128.
+129.</p>
+        <p>William M. Landes, What Has the Visual Arts Rights Act of 1990 Accomplished?
+(May 2001)
+Cass R. Sunstein, Social and Economic Rights? Lessons from South Africa (May
+2001)
+Christopher Avery, Christine Jolls, Richard A. Posner, and Alvin E. Roth, The
+Market for Federal Judicial Law Clerks (June 2001)
+Douglas G. Baird and Edward R. Morrison, Bankruptcy Decision Making (June
+2001)
+Cass R. Sunstein, Regulating Risks after ATA (June 2001)
+Cass R. Sunstein, The Laws of Fear (June 2001)
+Richard A. Epstein, In and Out of Public Solution: The Hidden Perils of Property
+Transfer (July 2001)
+Randal C. Picker, Pursuing a Remedy in Microsoft: The Declining Need for
+Centralized Coordination in a Networked World (July 2001)
+Cass R. Sunstein, Daniel Kahneman, David Schkade, and Ilana Ritov, Predictably
+Incoherent Judgments (July 2001)
+Eric A. Posner, Courts Should Not Enforce Government Contracts (August 2001)
+Lisa Bernstein, Private Commercial Law in the Cotton Industry: Creating
+Cooperation through Rules, Norms, and Institutions (August 2001)
+Richard A. Epstein, The Allocation of the Commons:Parking and Stopping on the
+Commons (August 2001)
+Cass R. Sunstein, The Arithmetic of Arsenic (September 2001)
+Eric A. Posner, Richard Hynes, and Anup Malani, The Political Economy of
+Property Exemption Laws (September 2001)
+Eric A. Posner and George G. Triantis, Covenants Not to Compete from an
+Incomplete Contracts Perspective (September 2001)
+Cass R. Sunstein, Probability Neglect: Emptions, Worst Cases, and Law
+(November 2001)
+Randall S. Kroszner and Philip E. Strahan, Throwing Good Money after Bad?
+Board Connections and Conflicts in Bank Lending (December 2001)
+Alan O. Sykes, TRIPs, Pharmaceuticals, Developing Countries, and the Doha
+“Solution” (February 2002)
+Edna Ull;mann-Margalit and Cass R. Sunstein, Inequality and Indignation
+(February 2002)</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list/>
+  </back>
+</article>

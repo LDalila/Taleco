@@ -1,0 +1,1743 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta/>
+    <article-meta>
+      <title-group>
+        <article-title>Interpretation and Institutions</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <string-name>Recommended Citation</string-name>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Cass R. Sunstein &amp; Adrian Vermeule, "Interpretation and Institutions", John M. Olin Program in Law and Economics Working Paper No.</institution>
+          <addr-line>156, 2002</addr-line>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2002</year>
+      </pub-date>
+      <fpage>14</fpage>
+      <lpage>55</lpage>
+      <abstract>
+        <p>Economics Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>JOHN M. OLIN LAW &amp; ECONOMICS WORKING PAPER NO. 156 (2D SERIES)</title>
+      <p>Interpretation and Institutions
+Cass R. Sunstein and Adrian Vermeule</p>
+    </sec>
+    <sec id="sec-2">
+      <title>T HE L A W SCHOOL T HE U NI V E RS I T Y OF CHI CA GO</title>
+      <p>This paper can be downloaded without charge at:</p>
+      <p>The Chicago Working Paper Series Index:
+http://www.law.uchicago.edu/Lawecon/index.html
+Preliminary draft 7/1/02
+All rights reserved
+Cass R. Sunstein* and Adrian Vermeule**</p>
+      <p>To evaluate theories of interpretation, it is necessary to focus on institutional
+considerations—to ask how actual judges would use any proposed approach, and to
+investigate the possibility that an otherwise appealing approach will have unfortunate
+dynamic effects on private and public institutions. Notwithstanding this point, blindness
+to institutional considerations is pervasive. It can be found in the work of early
+commentators on interpretation, including that of Jeremy Bentham; in the influential
+work of H.L.A. Hart, Ronald Dworkin, and Henry Hart and Albert Sacks; and in much
+contemporary writing. This blindness to institutional considerations creates serious
+problems for the underlying theories. The problems are illustrated with discussions of
+many disputed issues, including the virtues and vices of formalism; the current debate
+over whether administrative agencies should have greater interpretive freedom than
+courts; and the roles of text, philosophy, translation, and tradition in constitutional law.
+In many cases, an understanding of institutional capacities and dynamic effects should
+enable diverse people, with different views about ideal legal interpretation, to agree on
+what actual legal interpretation should entail.</p>
+      <p>“The courts are the capitals of law’s empire, and judges are its princes . . . .”</p>
+      <sec id="sec-2-1">
+        <title>Ronald Dworkin1</title>
+        <p>“The design of a decision-making environment must . . . take into account not only the
+possibility of error of under- and over-inclusion emanating out of a faithful application of rules in
+the face of an unpredictable reality, but also the errors likely to be made by less than Solomonic
+decision-makers when, released from rules, they are empowered to apply background
+justifications directly to the cases they have to decide.”</p>
+      </sec>
+      <sec id="sec-2-2">
+        <title>Frederick Schauer2</title>
+        <p>*Karl N. Llewellyn Distinguished Service Professor of Jurisprudence, Law School and Department of
+Political Science, The University of Chicago.
+**Professor of Law, The University of Chicago. For valuable comments, we are grateful to Jack Goldsmith,
+Eric Posner, Richard Posner, Geoffrey Stone, David Weisbach, and workshop participants at the
+University of Chicago Law School.
+1Ronald Dworkin, Law’s Empire 407 (1985).
+2Frederick Schauer, Playing by the Rules 151 (1991).</p>
+        <p>Suppose that a statute, enacted several decades ago, bans the introduction of any
+color additive in food if that additive “causes cancer” in human beings or animals.3
+Suppose that new technologies, able to detect low-level carcinogens, have shown that
+many potential additives cause cancer, even though the statistical risk is often tiny—akin
+to the risk of eating two peanuts with governmentally-permitted levels of aflatoxins.
+Suppose, finally, that a company seeks to introduce a certain color additive into food,
+acknowledging that the additive causes cancer, but urging that the risk is infinitesimal,
+and that if the statutory barrier were applied, it would prove absurd and fail to promote
+the legislative purpose, which is to make food safer. In response, the government argues
+that the statute must be interpreted literally, and that all additives that “cause cancer” are
+banned. How should the court resolve the dispute?</p>
+        <p>We think that current theories of legal interpretation fail to provide an adequate
+framework for thinking about questions of this sort, and that the failure reveals a serious
+problem with contemporary views about interpretation in law. Typically interpretive
+issues are debated at a high level of abstraction, by asking questions about the nature of
+interpretation, or by making large claims about democracy, legitimacy, authority, and
+constitutionalism.4 But most of the time, large-scale claims of these kinds cannot rule out
+any reasonable view about interpretation. For example, it is impossible to deduce, from
+such large-scale claims, an answer to a dispute about the meaning of the phrase “cause
+cancer,” or indeed an answer to any of the current questions about how to approach a
+statutory or constitutional text. Part of our goal here is to demonstrate the futility of
+efforts to show that abstract ideals can resolve disagreements about appropriate
+interpretive methods.</p>
+        <p>By contrast, we urge that it is far more promising to focus on two neglected
+issues. The first has to do with institutional capacities. As we shall urge, debates over
+legal interpretation cannot be sensibly resolved without attention to those capacities. The
+central question is not “how, in principle, should a text be interpreted?” The question
+instead is “how should certain institutions, with their distinctive abilities and limitations,
+interpret certain texts?” If the relevant judges can reliably decide whether a literal
+interpretation of a statutory term is absurd, the argument for rejecting literalism is greatly
+strengthened; if the relevant judges are highly fallible, literalism may have some
+overlooked virtues. A great deal turns as well on the attentiveness of the relevant
+legislature. The second issue involves the dynamic effects of any particular approach—its
+consequences for private and public actors of various sorts. If a nonliteral interpretation
+of the phrase “induce cancer” would introduce a great deal of uncertainty into the system,
+and reduce Congress’ incentive to make corrections, it might well be sensible to deny
+exceptions in cases involving trivial risks. By drawing attention to both institutional
+capacities and dynamic effects, we are suggesting the need for a kind of institutional turn
+in thinking about interpretive issues.</p>
+        <p>With an emphasis on institutional capacities and dynamic effects, we will be able
+to see that nearly all of the most prominent discussions of interpretation—including, for
+3This is a modest variation on an actual case. See Public Citizen v. Young, 831 F.2d 1108 (DC Cir 1987).
+4Frank Michelman, A Brief Anatomy of Adjudicative Rule-Formalism, 66 U. Chi. L. Rev. 934 (1999);
+Ronald Dworkin, Law’s Empire (1985); John F. Manning, Textualism and the Equity of the Statute, 101
+Colum. L. Rev. 1, 36-52 (2001).
+example, those by Bentham, Blackstone, H.L.A. Hart, Henry Hart and Albert Sacks,
+Dworkin, Eskridge, Manning, and Richard Posner—are incomplete and unsuccessful,
+simply because they tend to proceed as if the only question is how “we” should interpret
+a text. Where they attend to institutional roles at all, these theorists work with an
+idealized, even heroic picture of judicial capacities and, as a corollary, a jaundiced view
+of the capacities of other lawmakers and interpreters, such as agencies and legislatures.
+And if the spotlight is placed on institutional capacities and dynamic effects, we will find
+it much easier to understand what underlies many interpretive disagreements in law, and
+also to see how such disagreements might be resolved.</p>
+        <p>Consider, for example, the view, often labeled “formalistic,” which sees
+legitimate interpretation as requiring fidelity to the ordinary meaning of the relevant text
+when originally enacted.5 Formalism is rejected by those who insist that legitimate
+interpretation includes a variety of devices designed to ensure that sense, rather than
+nonsense, is made of the law.6 Many opponents of formalism urge that devices of this
+kind are simply a part of how communication really works.7 But under certain
+assumptions, formalism might be seen not as embodying an embarrassingly crude
+understanding of communication, but as a sensible and highly pragmatic response to
+institutional limits of generalist judges and institutional capacities of Congress. We
+believe that in considering these debates, an institutional focus is helpful, not because it
+always resolves them, but because it shows what many disputes are really about, and
+because it casts light on central questions that might otherwise be obscured. At a
+minimum, we urge that an appreciation of institutional capacities and dynamic effects is a
+necessary part of any theory of legal interpretation. A theory that neglects those issues is
+seriously incomplete. We also hope that future debates about interpretation will focus on
+institutional issues, where it remains possible to make a great deal of progress, not least
+by examining empirical issues, identified below, on which much remains to be learned.</p>
+        <p>Why have modern interpretive theories neglected institutional issues? This is a
+large question, and we do not offer a full answer here; but we do have some speculations.
+Because of their own role, judges themselves naturally ask a particular question (“how is
+this text best interpreted?”), and that question naturally diverts attention from the issue of
+institutional capacities. Legal education, and the legal culture more generally, invite
+interpreters to ask the following role-assuming question: “If you were the judge, how
+would you interpret this text?” If the question is posed in that way, institutional issues
+drop out. The very form of the question makes them irrelevant. Academic observers,
+usually specialists in the subject at hand, often deplore judicial decisions as “wooden” or
+“formalistic,” without appreciating the risk that generalist judges, unmoored from the
+text, might do even worse. Indeed it is possible that specialized interpreters should reject
+formalism but that nonspecialists should embrace it; and academic specialists are unlikely
+to appreciate this point. Our principal goal here is to pose the question of interpretation in
+5See Antonin Scalia, A Matter of Interpretation 23-25 (1998); John F. Manning, Textualism and the Equity
+of the Statute, 101 Colum. L. Rev. 1, 36-52 (2001).
+6See Ronald Dworkin, Law’s Empire (1985); William N. Eskridge, Jr., All About Words: Early
+Understandings of the "Judicial Power" in Statutory Interpretation, 1776-1806, 101 Colum. L. Rev. 990
+(2001).
+7See William N. Eskridge, Jr., Gadamer/Statutory Interpretation, 90 Colum. L. Rev. 609 (1990).
+a form that will sidestep these role-related and cognitive traps, enabling interpretive
+theory to highlight the neglected issues.</p>
+        <p>This Article is organized as follows. Part I is a catalogue of influential work on
+interpretation. We detail the pervasive indifference, in that work, to institutional issues,
+and also explain how that indifference has weakened the resulting analysis. We attempt to
+draw out the neglected questions in a way that will help show the range of variables that
+bear on the selection of interpretive strategies by generalist judges.</p>
+        <p>Part II responds to an obvious challenge to our claim: that judgments about
+institutional issues cannot be helpful without some kind of background normative
+account of interpretation. A second-best approach, one that asks about interpretive
+mistakes and dynamic effects, necessarily presupposes some first-best account. This is an
+important observation, and in a sense it is unexceptionable. But it fails to engage our
+central point, which is not that a first-best account is worthless or irrelevant, but that it is
+incomplete without a second-best account that takes account of institutional issues.
+Institutional analysis is necessary to the choice of interpretive rules, even if it is
+insufficient. In any case we also offer a further, more ambitious claim: Institutional
+analysis may indeed be sufficient in some settings, because it may allow interpreters who
+hold different commitments to converge on particular interpretive rules while bracketing
+disagreements about their preferred first-best accounts.</p>
+        <p>Part III shows how a range of issues in public law might be recast if institutional
+issues are brought to the forefront. We suggest that a formalist or textualist approach to
+statutes might be most plausibly defended, not by controversial claims about the
+Constitution or implausible claims about meaning, but through a suggestion that this
+approach might produce the most sensible system of law, given the institutions that we
+actually have. We are confident that the standard defenses of formalism based on first
+principles are very weak; the same can be said for many of the standard challenges to
+formalism, also based on first principles. We also urge that even if courts should follow
+the ordinary meaning of text, it is reasonable to suggest that administrative agencies need
+not, in part because agencies are specialists rather than generalists. Compared to courts,
+agencies are likely to have a good sense of whether a departure from formalism will
+seriously damage a regulatory scheme; hence it is appropriate to allow agencies a higher
+degree of interpretive flexibility.</p>
+        <p>Moving beyond statutory interpretation, Part III applies the institutional lens to
+issues of constitutional interpretation and the interpretation of common-law precedents.
+We explain how attention to institutional issues might shift the debate over competing
+methods of constitutional interpretation, making it necessary to ask some infrequently
+posed questions about judicial capacity to implement various approaches. Although
+constitutional theory has become increasingly sophisticated about large-scale institutional
+questions, such as the allocation of lawmaking authority between legislatures and courts,
+it has continued to neglect the role of institutional considerations in the theory of
+constitutional interpretation by judges; and our analysis provides the tools needed to
+repair this flaw. Finally, we offer a brief note about the common law, suggesting that
+similar institutional variables very much bear on the appropriate interpretation of judicial
+precedents.</p>
+        <p>In these and other cases, our goal is not to settle on any particular view about
+what interpretation should entail, but to suggest that it is impossible to answer that
+question without looking at institutional capacities of various actors and the dynamic
+effects of competing approaches. We claim, in short, that a focus on institutional issues
+radically reframes the analysis of legal interpretation—and that it is long past time for
+those interested in interpretation to see what might be done with that reframing.</p>
+        <sec id="sec-2-2-1">
+          <title>I. Interpretation Without Institutions: A Catalogue</title>
+          <p>Here we supply a panoramic tour of interpretive theory, and influential theorists,
+from three periods: the English debate over common-law approaches to statutory
+interpretation (Section A), the formative era of modern interpretive theory (Section B),
+and contemporary accounts (Section C). Our limited objective is to document the
+blindness or insensitivity to institutional considerations that pervades these theorists’
+work. We make no pretense of supplying a complete and adequately nuanced intellectual
+history of interpretive theory. Indeed our catalogue will have the flavor of Whig history,
+praising theorists who anticipate the institutional turn and (far more often) condemning
+those who do not. But our goal is not merely critical. By exploring what has been
+neglected, we hope to make some movement toward the task, ventured in Parts II and III,
+of isolating the issues that must be faced by an approach to interpretation that is
+concerned with institutional capacities and dynamic effects.8</p>
+        </sec>
+        <sec id="sec-2-2-2">
+          <title>A. Common-law Interpretation and Bentham’s Mistake</title>
+          <p>We begin with Blackstone and Bentham, the foremost proponent and critic,
+respectively, of the common-law approach to statutory interpretation. This approach has
+many shades and variants, which license varying degrees of judicial freedom in
+interpretation; but a central or defining idea is that judges appropriately sensitive to
+legislative purposes and to the surrounding fabric of law should mold and shape statutes
+with something like the sensitivity and flexibility accorded to judicial precedents. In these
+respects, the common law approach is a precursor of the legal process school that came to
+dominate American interpretive theory after World War II.9</p>
+          <p>Our critique, unsurprisingly, is that the common-law style of interpretation
+presupposes a fanciful, even romantic account of judicial capacities, and also fails to ask
+questions about likely legislative responses to different judicial approaches. We will see,
+however, a major historical irony: Blackstone, the archetypal common-law interpreter,
+came far closer to recognizing the suppressed institutional questions, and the institutional
+case for formalist statutory interpretation, than did Bentham, the common law’s principal
+8In what follows, we will put aside the possibility that doctrines of statutory interpretation might be
+legislated, rather than developed (solely) by judges in common-law fashion. See Nicholas Quinn
+Rosenkranz, Federal Rules of Statutory Interpretation, 115 Harv. L. Rev. 2085 (2002). Although the
+possibility is both important and interesting, past history shows that it is most unlikely that Congress will
+enact rules of interpretation that will generally resolve the disputed issues of interpretive choice. For good
+reason, the literature on statutory interpretation both past and present, focuses on the question of what
+interpretive rules judges should use absent legislative intervention; that is our focus here as well.
+9See Henry Hart and Albert Sacks, The Legal Process: Basic Problems in the Making and Application of
+Law (William N. Eskridge &amp; Philip P. Frickey eds.) (1994).
+critic. We will also see that later theorists, such as H.L.A. Hart, followed Bentham rather
+than Blackstone, and hence repeated Bentham’s mistake.</p>
+          <p>Blackstone. William Blackstone’s brief account of statutory interpretation in
+Book I of the Commentaries is easily the most famous description of the common-law
+style of statutory interpretation;10 Hart and Sacks featured it prominently in the legal
+process materials that influenced a generation of leading academic theorists.11 The object
+of interpretation, for Blackstone, is to uncover the “will of the legislator” by “exploring
+his intentions,” as manifested in “signs the most natural and probable.”12 Despite this
+ceremonial bow to legislative supremacy, however, the discussion quickly turns from the
+words of the statute, of surrounding statutes, and the subject matter, to more fluid
+interpretive sources, particularly the “reason and spirit” of the law and the Aristotelian
+principle of “equity”—the latter being the power “of excepting those circumstances,
+which (had they been foreseen) the legislator himself would have excepted.”13
+Interpretive equity, on this view, “depend[s], essentially, upon the particular
+circumstances of each individual case.”14</p>
+          <p>Here are all the hallmarks of the common-law interpretive style: flexible
+treatment of statutory text, based on a nuanced sensitivity to legislative intentions or
+purposes and to the surrounding fabric of the common law. Especially striking is the
+stylized assumption that interpretation according to the “reason” or “equity” of the statute
+will capture the legislature’s true intentions, or the intentions that rational legislators
+would have had if informed about the particular application at bar, as well as the
+accompanying insistence that equity is necessarily a particularistic or case-specific
+consideration. Under certain assumptions about institutional capacities, the common-law
+style might well be best; but Blackstone says nothing in defense of those assumptions,
+and fails even to acknowledge them as such. The discussion, almost until the very end,
+shows remarkably little awareness of several relevant possibilities: that judges might
+mistake legislative purposes; that they might do better by deferring to legislators’
+expressed judgments about equity than by enforcing their own; that they might, by
+treating statutes flexibly, be purchasing case-specific benefits at the price of increased
+uncertainty, imposing resulting burdens on the interpretive system as a whole; that
+legislators, confronted with judges refusing to invoke purposes to make sense of text,
+might be more careful in advance and might make corrections as the need arises.</p>
+          <p>Consider, as one example among many, Blackstone’s remarkably casual embrace
+of the absurd-results canon: the idea, in Blackstone’s words, that
+where words bear either none, or a very absurd signification, we must a little
+deviate from the received sense of them. Therefore the Bolognian law, mentioned
+by Puffendorf, which enacted ‘that whoever drew blood in the streets should be
+10See I William Blackstone, Commentaries on the Laws of England 59-62 (1765).
+11Hart and Sacks, supra, at 1170.
+12Blackstone, supra, at 60.
+13Id. at 61.
+14Id.
+punished with the utmost severity,’ was held after long debate not to extend to the
+surgeon, who opened the vein of a person that fell down in the street with a fit.15
+There is much to be said, pro and con, about interpretation to avoid absurd results;
+the relevant institutional variables are complex,16 and we shall say a fair bit about them
+here. What is important for present purposes is Blackstone’s radical institutional
+blindness—his failure to identify those variables or to find them even relevant. It may
+well be true that, if apprised of the surgeon’s case, the legislature would have provided a
+relevant exception. But it hardly follows that the legislature would necessarily wish the
+judges to provide the exception themselves, given the legislature’s failure to do so. For
+many reasons, good and bad, the legislature might want to reserve to itself the authority
+to correct poorly-drafted statutes. Perhaps the legislature would not trust the judges’
+judgments about whether a result would be absurd; perhaps the legislature would be
+willing to tolerate occasional absurdity for the sake of clarity and predictability. Nor does
+it follow that, apart from the question of legislative preferences about judicial
+interpretation, the best overall interpretive system would be one in which the judges
+possessed this case-specific power to modify seemingly absurd statutory applications in
+light of purpose, reason, and equity. To know whether that is true would require
+judgments about a range of matters Blackstone fails to consider, such as the rate of
+mistaken identification of absurd results and the ex ante effects of such a power on
+legislative drafting; more on these matters below.</p>
+          <p>All this said, the end of Blackstone’s discussion offers a remarkable afterthought
+that, although barely sketched, anticipates some critical questions for interpretive theory
+by acknowledging the role of second-best considerations. “[L]aw, without equity, tho’
+hard and disagreeable, is much more desirable for the public good, than equity without
+law; which would make every judge a legislator, and introduce most infinite confusion
+[by producing] as many different rules of action laid down in our courts, as there are
+differences of capacity and sentiment in the human mind.”17 In this passage “law,” cast in
+opposition to equity, seems to connote a formalist style of interpretation that enforces
+rules apparent on the face of statutory texts, rather than molding those texts to
+background legal principles or attributed legislative purposes. The first-best, Blackstone
+is suggesting, would be law and equity in an appropriate mix, distributed appropriately
+across cases. But if the mix is unstable, if judges must choose between enforcing law in
+all cases or doing equity in all cases, then resolute enforcement of statutory text is
+preferable on second-best grounds.</p>
+          <p>On Blackstone’s account, equity without law is defective on two counts: it
+“makes every judge a legislator” and introduces an unacceptable amount of uncertainty
+(“most infinite confusion”) into the interpretive system. The first point is a gesture
+towards the separation of lawmaking power from adjudicative power; later we will argue
+that this sort of appeal is unhelpful, because it is too abstract to supply valid reasons for
+or against interpretive formalism. Far more impressive and significant is the second point,
+15Id. at 60.
+16Cass R. Sunstein, Avoiding Regulatory Absurdity? A New Canon of Construction, (unpublished
+manuscript 2002); Frederick Schauer, The Practice and Problems of Plain Meaning: A Response to
+Aleinikoff and Shaw, 45 Vand. L. Rev. 715 (1992).
+17Blackstone, supra, at 62.
+an early attempt to introduce institutional considerations and ex ante effects into
+interpretive theory. We will see, however, that Blackstone’s passing insight proved
+infertile. Later theorists largely ignored the significance of second-best considerations.</p>
+          <p>Bentham. It is illuminating to glance at the interpretive views of Jeremy Bentham,
+an imposing critic of common-law adjudication in general and of Blackstone in
+particular. Bentham’s critique of Blackstone’s Commentaries develops the claim that
+common-law adjudication is both incoherent and inconsistent with a rational, meaning
+utilitarian, legal order. The positive side of Bentham’s program was the codification of
+utilitarian legal principles, and more generally a consolidation and expansion of
+legislation’s domain that would bring clarity, certainty and order to the law. Increasingly
+precise and comprehensive codification would ultimately cause adjudication itself to
+wither away, as citizens and officials could simply consult the code to ascertain their
+legal rights and duties. In the interim, however, Bentham was intermittently aware that
+statutes would contain gaps, ambiguities, and generalities ill-adapted to specific cases—
+the usual sources of difficult interpretive questions. Bentham thus discussed
+interpretation on several occasions, most prominently in the Comment on the
+Commentaries, which contains two substantial chapters on the “Interpretation of Laws”
+and the “Construction of Statutes,”18 although it is fair to say that he nowhere presents a
+fully-developed account of statutory interpretation.</p>
+          <p>For our purposes the significance of Bentham’s work on interpretation lies in his
+imperfect utilitarianism—in his neglect of institutional variables in his discussion of the
+judicial role. Despite his piercing depiction of the sponginess of common-law
+adjudication, which he equated with arbitrary judicial tyranny, Bentham failed to
+transpose his critique of judicial capacities to interpretive theory in any consistent way.
+The chapters on interpretation and construction in the Comment on the Commentaries
+manage both to approve flexible, purposivist interpretation devoted to forwarding
+legislative “ends,” on one hand, and on the other to mock the pretensions of common-law
+interpretation by emphasizing what Bentham saw as the arbitrariness of judicial claims
+about “reason” and “equity.” We see, for example, Bentham both supporting the absurd
+results canon on purposive grounds, in Blackstone’s example of the surgeon prosecuted
+for “drawing blood” in the streets,19 and also denying that the common-law judge’s
+appeal to reason or reasonableness is anything other than a statement of personal
+“opinion.” On the one hand, “reasonableness or unreasonableness is nothing but
+conformity or nonconformity to . . . opinion.” On the other hand, “[t]he words of a
+legislator are no otherwise to be regarded than inasmuch as they are expressive of his
+will.”</p>
+          <p>But these positions are in tension with each other. Recall that Blackstone’s
+argument for purposive, equitable interpretation assumed that reasonable legislators
+18See Jeremy Bentham, A Comment on the Commentaries and A Fragment on Government I.9, II.2 (J.H.
+Burns and H.L.A. Hart eds. 1977).
+19See id. at 111; 160. Bentham sometimes intimates that he endorses purposivism and the absurd results
+canon only in cases of ambiguous statutory language, see, e.g., id. at 160,although it requires some work to
+square that qualification with Blackstone’s example, so it isn’t clear how seriously we are to take it. See
+also Jeremy Bentham, The Theory of Legislation 155 (C.K. Ogden ed. 1987) (“urging that “laws should be
+literally followed”).
+would have recognized the need for an exception, if made aware of the application at
+hand. Purposivism usually attributes goals or aims by envisioning reasonable legislators
+acting reasonably; certainly that is the premise for purposivism in the later legal process
+account of interpretation, as we shall see.20 This may even be a necessary feature of
+purposivism; it may be conceptually impossible for judges to proceed by imagining what
+unreasonable legislators would do. So to deny that the judges can assess the
+reasonableness or equity of some particular statutory application is also to deny
+purposivism; Bentham cannot have it both ways. Conversely, Blackstone’s second-best
+argument for interpretive formalism was precisely that judicial disagreement about what
+is equitable would make interpretation unacceptably subjective and uncertain (because of
+“differences of capacity and sentiment” across judges). Bentham fails to appreciate that
+the rapier he uses to skewer the common-law judges might be turned against the
+purposivist statutory interpretation he also embraces. If even Bentham—the greatest critic
+of the common law and the greatest advocate of legal utilitarianism—overlooks the
+significance of judicial capacities, and the systemic effects of flexible interpretation, the
+institutional blindness in interpretive theory runs very deep indeed.</p>
+          <p>Why might Bentham have neglected, in his critique of common-law method, the
+institutional critique of flexible interpretation? There may be a clue in his most focused
+treatment of the relationship between interpretation and judicial discretion—a short
+discussion in his great unpublished work on legislation, Of Laws in General. There
+Bentham argues that legislative mistakes—the enactment of statutes that are
+overinclusive or underinclusive relative to their purposes, due to inadvertence, lack of
+foresight, or changed circumstances—require that judges possess the power to “mould[]
+statutes into form.”21 Yet this power in turn created the possibility that informational
+deficits or bad motives on the part of judges would pervert the legislative product and
+increase legal uncertainty:</p>
+          <p>How difficult to distinguish what the legislator would have adopted had he
+adverted to it, from what he actually did advert to and reject. How easy to
+establish the one under pretence of looking for the other . . . . And thus sprang up
+by degrees another branch of customary law, which striking its roots into the
+substance of the statute law, infected it with its own characteristic obscurity,
+uncertainty, and confusion.22
+This is a powerful indictment of purposivism and imaginative reconstruction. On the
+score of institutional sophistication, Bentham here outdoes his jurisprudential successors
+of the next century, including both H.L.A. Hart and the legal process scholars; we will
+see that the later accounts fail even to see the problem that Bentham poses.</p>
+          <p>Yet for this Bentham himself must take a great deal of blame. The prescriptions
+he offered to cure the problems of purposivism rest on the same sort of idealized or
+stylized view of institutional capacities that infects most of Blackstone’s treatment, and
+that Bentham might have been expected to transcend. Bentham first suggests that “the
+necessity of discretionary interpretation” can be “supersede[d]” by the development of a
+20See the discussion of Hart and Sacks below.
+21Jeremy Bentham, Of Laws in General 239 (H.L.A. Hart ed. 1970).
+22Id. at 240.
+sufficiently perspicacious legislative code (doubtless the code developed in Bentham’s
+own extensive proposals for law reform).23 But this idealizes legislative capacities, thus
+reversing the characteristic error of common-law interpretation.24 Bentham himself
+recognizes, both here and elsewhere, that institutional limitations on legislatures make the
+project of a fully-specified code fantastic. So Bentham abashedly sketches a fallback
+plan, never fully developed, whereby judges would “declare openly” the need for judicial
+“alteration” of a statute in appropriate cases, and certify a proposed emendation to the
+legislature; the emendation would have legal force unless “negatived” or vetoed by the
+legislature within a certain time.25 Absent from the proposal is any explanation why the
+judges, whose information and motivations Bentham has so powerfully impeached, will
+be able to distinguish alterations from interpretations, or be willing to comply with the
+plan even where alterations are identifiable as such.</p>
+          <p>Taking Blackstone and Bentham together, the striking irony is that the
+commonlaw jurist more nearly appreciates and anticipates the second-best justifications for
+formalist, rule-bound statutory interpretation than does the great critic of the common
+law. Bentham’s turn into the blind alley of complete codification, under the influence of
+an idealized picture of legislative capacities, did little more than create a target for
+subsequent critics, such as H.L.A. Hart, who could justify antiformalist interpretation by
+pointing to the limits of legislative foresight, while overlooking the countervailing limits
+on the capacities of antiformalist interpreters.</p>
+        </sec>
+        <sec id="sec-2-2-3">
+          <title>B. The Modern Era: Positivism, Purposivism, and Integrity</title>
+          <p>We now turn to the defining period of modern jurisprudence. In this period,
+academic observers largely attempted to steer a middle course between formalism and
+realism.26 They argued that interpretation was not merely a matter of following
+established rules, but also that it was far from simple or direct policy analysis.27 For
+present purposes, we focus on the critique of formalism and on the institutional blindness
+of that critique—not to show that formalism is right, but to identify the issues on which
+its acceptance or rejection might turn. One of the most striking features of the period is
+23Id.
+24Hart provides a helpful correction here. See below.
+25Bentham, supra note, at 241.
+26See, e.g., Edward Levi, An Introduction to Legal Reasoning (1949). We do not discuss the realists
+themselves, though it is noteworthy that they tended to argue for candid and open-ended judicial
+policymaking in the face of ambiguous statutes, without grappling with the risks posed by judicial
+discretion. See, e.g., Karl N. Llewellyn, Remarks on the Theory of Appellate Decision and the Rules or
+Canons About How Statutes Are To be Construed, 3 Vand. L. Rev 395, 299 (1950), which, after
+challenging the canons of construction, suggests that courts should “strive to make sense as a whole out of
+our law as a whole” (emphases in original), without engaging the obvious institutional problems raised by
+any such effort. Max Radin, Statutory Interpretation, 43 Harv. L. Rev. 863, 884 (1930), criticizes the
+conventional sources of interpretation and suggests that the real question is: “Will the inclusion of this
+particular determinate in the statutory determinable lead to a desirable result?” Radin does not address the
+difficulties that courts might face in answering that question. Of course we do not deny the possibility that
+the sources of law favored by the formalist—above all, the text—will leave ambiguities; in such cases,
+institutional considerations are highly relevant to the decision how to proceed. Chevron v. NRDC, 467 US
+837 (1984), represents an institutionally grounded choice to leave the resolution to the relevant
+administrative agency. See part IIIB below for discussion.
+27See, e.g., Levi, supra note, at 3-8.
+that it was dominated by the work of the “legal process” school, whose central mission
+was to focus attention on institutional considerations. And indeed, the legal process
+materials do talk a great deal about comparative institutional competence,28 and do
+discuss the relevance of agency interpretations of law.29 But even in those materials, the
+question of interpretation is answered by asking about how ideal judges would proceed,
+rather than by asking about how real-world judges should proceed. But to say this is to
+get ahead of the story; let us begin with H.L.A. Hart, simply because his treatment of
+legal interpretation can be seen as canonical.</p>
+          <p>Hart. In his treatment of mechanical jurisprudence and rule-skepticism, Hart
+offers a highly influential account of the failures of formalism—an account that,
+remarkably, says not a word about institutional issues.30 A chief contribution of the
+account is a clear and convincing explanation of why Bentham was wrong to hope that a
+rule-bound legislative code could sensibly resolve all cases that might arise under it.
+What is absent is a serious treatment of how institutions should respond to the
+inevitability that unexpected cases will confound the expectations of rulemakers.</p>
+          <p>Hart’s principal submission is that in hard cases, interpretive problems arise from
+legislators’ “inability to anticipate.”31 In his view, a “feature of the human predicament
+(and so the legislative one) is that we labour under two connected handicaps whenever
+we seek to regulate, unambiguously and in advance, some sphere of conduct by means of
+general standards to be used without further official direction on particular occasions.”32
+These handicaps are “our relative ignorance of fact” and “our relative indeterminacy of
+aim.”33 Mechanical jurisprudence or formalism, involving simple application of law to
+fact (Bentham’s utopia), would be possibly only if “the world in which we live were
+characterized only by a finite number of features, and these together with all the modes in
+which they combine could be known to us.”34 But “[p]lainly this world is not our
+world.”35</p>
+          <p>Hart claims that the “vice known to legal theory as formalism or conceptualism
+consists in an attitude to verbally formulated rules which both seeks to disguise and to
+minimize the need for . . . choice, once the general rule has been laid down.”36 This is
+sometimes done by freezing “the meaning of the rule so that its general terms must have
+the same meaning in every case where its applications is in question.”37 And what is
+wrong with that freezing? Hart has a simple answer. He urges that this approach secures
+“a measure of certainty or predictability at the cost of blindly prejudging what is to be
+done in a range of future cases, about whose composition we are ignorant. We shall thus
+indeed succeed in settling in advance, but also in the dark, issues which can only be
+28Hart and Sacks, supra, at 158-72 (surveying the major lawmaking institutions and their relationships)..
+29Id. at 1271-1312 (examining administrative interpretation of statutes).
+30H.L.A. Hart, The Concept of Law 120-130 (1972).
+31See id. at 125 (1972).
+32Id.
+33Id.
+34Id. at 126.
+35Id.
+36Id. at 127.
+37Id.
+reasonably be settled when they arise and are identified.”38 And what is wrong with
+decision in the dark? Hart urges that this kind of decision forces us “to include in the
+scope of a rule cases which we would wish to exclude in order to give effect to
+reasonable social aims. . . .”39</p>
+          <p>Hart is entirely right to urge that the absence of legislative foresight is inevitable,
+and that this can create serious problems for interpretation. But notice Hart’s apparently
+unself-conscious use of word “we” to identify the interpreting authority. Of course Hart’s
+readers do not constitute a community of “we’s” who have the power to adopt a mutually
+agreeable approach to interpretation. And once it is seen that a system of interpretation
+must be established that some “they” must apply, the assessment of “decision in the dark”
+as opposed to of decision based on “to reasonable social aims” will appear in a very
+different light. If we make our assessment in institutional terms, we will see that Hart is
+neglecting two points. The first involves the risk of judicial blunder under one or another
+approach; the second involves the dynamic effects of one or another approach to
+interpretation.</p>
+          <p>Suppose, for example, that judges will err if they attempt to discern “reasonable
+social aims.” At least it is conceivable, in light of human fallibility, that some judges
+would do better, by the lights of many or most, if they refused to inquire into reasonable
+aims. An important factor here is that it is sometimes complicated to make that inquiry;
+an equally important factor is that sometimes people dispute how to answer it. Take TVA
+v. Hill,40 the famous snail darter case, raising the question whether the Endangered
+Species Act should be taken to block the completion of an important dam, because of the
+late discovery, on the land, of an ecologically uninteresting fish. Does this application of
+the ESA violate reasonable social aims? People do not agree about the answer to that
+question.</p>
+          <p>In addition, a sensible system of interpretation is based on an understanding that
+dynamic effects are highly likely; it sees that the judges’ approach will not be limited, in
+its effects, to the immediate parties or even to the system of adjudication. Hart seems
+oblivious to this point. Suppose that courts, deciding the issue in the light, will introduce
+a high degree of uncertainty into the law, making it harder for people to plan their affairs.
+Suppose too that if they proceed in the dark, they will create strong incentives for the
+legislature, which will promptly correct the problems that arise.41 In these circumstances,
+might not formalism be the most sensible path? What is most remarkable is that Hart
+appears not to see the problem at all.</p>
+          <p>Hart and Sacks. Now consider the influential treatment by Henry Hart and Albert
+Sacks in their enormously influential legal process materials.42 In a brilliant “note on the
+rudiments of statutory interpretation,” Hart and Sacks urge that the task of interpretation
+requires courts, first and foremost, to “decide what purpose ought to be attributed to the
+38Id.
+39Id.
+40437 US 153 (1978).
+41Note here that Congress ultimately authorized completion of the dam involved in TVA v. Hill, see note X
+infra, and also significantly amended the Delaney Clause in response to concerns about excessive rigidity.
+See the Food Quality Protection Act, Pub. L. No. 104-170, 110 Stat. 1489 (1996).
+42See Hart and Sacks, supra, at 1374-1380.
+statute and to any subordinate provision of it which may be involved,” and to “interpret
+the words of the statute immediately in question so as to carry out the purpose as best it
+can.”43 Hart and Sacks caution that courts should not give words a meaning that their text
+will not bear. But they also urge that courts should require Congress to speak clearly if it
+wishes to accomplish certain ends, including “a departure from a generally prevailing
+principle or policy of the law.”44 These are the building blocks for a complex system of
+interpretation, in which judges treat legislators as “reasonable people proceeding
+reasonably,” make “purpose” crucial to interpretation, and push statutory language,
+where fairly possible, in the direction of sense and consistency with the rest of the law’s
+fabric.</p>
+          <p>In the abstract, this approach seems perfectly sensible, and we will not argue that
+it is indefensible here. But to evaluate it, we need to know how well judges are able to
+execute the suggested approach, and how other persons and institutions will react to it.
+The fact that Hart and Sacks do not explore these issues is extremely revealing, for a
+primary contribution of the legal process materials was to put the spotlight on
+institutional issues, and indeed to assess much of law in a pragmatic spirit. With respect
+to legal interpretation, Hart and Sacks did not keep the institutional project in mind,
+perhaps because of the tenacity of the common law framework with which they began.
+“Purposes” are their loadstar; but purposes are hardly transparent. Is the purpose of the
+Delaney Clause to eliminate carcinogenic substances from the food supply? To make
+Americans safer? To improve the world? The characterization of purposes involves a
+large element of discretion, and here it is necessary to know how the discretion will be
+exercised. Sometimes the characterization of purposes will have a significant political or
+even ideological component. Hart and Sacks pay no attention to that issue; they seem to
+think that it is irrelevant.</p>
+          <p>General lessons cannot be drawn from the practice of interpretation under
+Fascism, but for our purposes, some illumination can be found from the disparate
+practices of Italian and German courts. The Italian judiciary, faced with a totalitarian
+regime, engaged in a strategy of resistance, based on the idea of “plain meaning.” 45 They
+prohibited the government from acting in a way that did violence to the apparent meaning
+of statutory texts.46 This was a self-conscious method for limiting Fascist government, by
+requiring genuine statutory authorization for its goals. By contrast, German judges
+rejected formalism and construed statutes hospitably and in accordance with their
+“purposes,” defined by reference to the public values of the Nazi regime.47 They thought
+that courts could carry out their interpretive task “only if they do not remain glued to the
+letter of the law, but rather penetrate its inner core in their interpretations and do their
+part to see that the aims of the lawmaker are realized.”48 Thus, for example, the German
+Supreme Court concluded that a law forbidding “sexual intercourse” between Germans
+and Jews “is not limited to coition. . . . A broad interpretation is . . . appropriate in view
+of the fact that the provisions of the law are meant to protect not only German blood but
+43Id. at 1374.
+44Id. at 1377.
+45See the account in Guido Calabresi, : Two Functions of Formalism, 67 U. Chi. L. Rev. 479 (2000).
+46Id.
+47See Ingo Muller, Hitler's Justice: The Courts of the Third Reich (Deborah Lucas Schneider trans, 1991).
+48Id at 101.
+also German honor.” A lower court went so far as to conclude that kissing could take “the
+place of normal sexual intercourse” and therefore violate the statute, in such a way as to
+justify a two-year jail sentence.49</p>
+          <p>Of course we do not suggest that purposive interpretation is an ally of Fascism, or
+that it is always illegitimate or unacceptable. Our only claim is that the evaluation of
+purposive interpretation must depend, in large part, on an assessment of the relevant
+institutions and of the effects of that approach over time. It is ludicrous to suggest that
+purposive interpretation is best in the abstract, for the simple reason that no approach to
+interpretation is best in the abstract. Here, as elsewhere, Hart and Sacks’ elaborate talk
+about institutional competence is undercut by their stylized, nonempirical treatment of
+actual institutions and their capacities.</p>
+          <p>Dworkin. Ronald Dworkin is often taken to be H.L.A. Hart’s antagonist, urging
+an approach that Dworkin calls “integrity,” meant to be alternative to Hart’s form of
+positivism.50 But on the issue that concerns us, Dworkin shares Hart’s blindness. On
+Dworkin’s account, judges who seek “integrity” attempt to put existing legal materials in
+“the best light possible.”51 They owe a duty of fidelity to those materials; but they are
+also authorized to attempt to understand the materials by reference to what they see as the
+most appealing principle that organizes them. “Law as integrity asks judges to assume, as
+far as this is possible, that the law is structured by a coherent set of principles about
+justice and fairness and procedural due process, and it asks them to enforce these in the
+fresh cases that come before them, so that each person’s situation is fair and just
+according to the same standards.”52 In arguing for this understanding of adjudication,
+Dworkin offers not a word about the virtues and the imperfections of judges and the
+systemic effects of one or another approach to interpretation.</p>
+          <p>Dworkin spends a great deal of time on Riggs v. Palmer,53 the famous case posing
+the question whether judges should adopt a literal interpretation of the law of wills if the
+consequence would be to allow a murderer to inherit from his victim.54 And Dworkin is
+not wrong to argue that Riggs “was a dispute about what the law was, about what the real
+statute the legislators enacted really said.”55 But it is inadequate to cast the issue in those
+terms. The dispute was about the appropriate approach to statute whose literal text
+produces absurdity. If courts ask about the meaning of “the real statute the legislators
+enacted,” they will not be asking some of the crucial questions.</p>
+          <p>Dworkin does not say how he would decide Riggs, but he does offer a conclusion
+about the appropriate resolution of TVA v. Hill. Dworkin supposes that his idealized
+judge, Hercules, “shares the substantive opinion that seemed dominant on the [Supreme]
+49Id at 202.
+50See Ronald Dworkin, Law’s Empire (1985).
+51Id. at 243.
+52Id.
+53115 NY 506, 22 NE 188 (1889).
+54Law’s Empire at 15-20.
+55Id. at 20. We say that this is not wrong, but it seems to us unhelpful. Neither view, in Riggs, could be said
+to be lawless. But to ask what the law “really said” obscures the key issue, which is how judges should
+interpret it, given the institutional variables discussed in the text.
+Court, that the wiser course would be to sacrifice the fish to the dam.”56 If so, Dworkin
+urges, it is “not difficult” to see how Hercules will vote, because he “thinks reading the
+statute to save the dam would make it better from the point of view of sound policy.”
+Given that judgment, Hercules will vote to allow the dam to be completed.</p>
+          <p>But to know how to vote in TVA v. Hill, is it really enough to consult “sound
+policy”? Here Dworkin sounds very much like Hart, urging that statutory language
+should not be taken to conflict with reasonable social purposes. Other things being equal,
+the claim is surely correct. But it is important to ask whether Congress would overturn a
+literal interpretation of the ESA, if the consequence was indeed to violate sound policy.
+Subsequent events showed that Congress was entirely willing to do that.57 And it is also
+important to ask about the systemic effects of a ruling that would allow the dam to be
+completed. If that were the ruling, what would the ESA actually mean? Would
+subsequent cases become hard too? If this question is in turn difficult to answer, then the
+consequences of the ruling, in itself sensible, might in their way conflict with “sound
+policy” as well. And in cases of this sort, do we have good reason to trust judges’ views
+about sound policy? These points suggest that it is hardly enough to ask, as Dworkin
+urges, which interpretation of the Endangered Species Act would best complete the story
+that Congress has begun. If institutional considerations are taken into account, we might
+conclude that judges should ask themselves a very different set of questions.</p>
+          <p>Where statutes are entirely ambiguous, it is impossible to decide cases simply by
+reference to their words. But in TVA v. Hill, the words were far more easily taken to ban
+the completion of the dam; and judicial unreliability, on conflicts between environmental
+and economic goals, might well be taken to argue in favor of formalism.58 What is
+striking about Dworkin’s analysis is that it is undertaken without any thought at all about
+judicial capacities and about the effects, over time, of one or another approach to
+interpretation. Like Hart, Dworkin proceeds as if the question is how an idealized judge
+deals with interpretive problems—not how a real-world judge, operating as part of a
+decisionmaking committee staffed by multiple actors, should proceed in the face of
+uncertainty.</p>
+        </sec>
+        <sec id="sec-2-2-4">
+          <title>C. Contemporary Theory: Dynamism, Textualism, and Pragmatism</title>
+          <p>Contemporary interpretive theory is increasingly sophisticated along many
+margins. Philosophy (including pragmatist antifoundationalism), linguistics, and
+economics have all contributed to ever-more-refined normative accounts of
+interpretation. Yet on the critical dimension of institutional awareness, many of the most
+56Id. at 347.
+57Congress promptly established an administrative mechanism for granting exemptions from the
+Endangered Species Act, see Pub. L. No. 95-632, 92 Stat. 3751, 3752-60 (1978), and Congress itself
+specifically exempted the dam at issue in TVA v. Hill, see Pub. L. No. 96-69, 93 Stat. 437, 449 (1979).
+58Consider in this regard the late nineteenth and early twentieth century struggle between courts and the
+regulatory state, in which judges, trying to harmonize regulatory statutes with the common law, tended to
+require Congress to speak unambiguously if it sought to depart from judicial understandings, and
+abandoned plain or ordinary meaning in order to minimize conflicts with those understandings. The result
+was to limit the reach of statutes designed to protect workers and consumers. See, e.g., FTC v. American
+Tobacco Co., 264 US 298, 305-06 (1924); Shaw v, Railroad Co., 101 US 557, 565 (1880).
+prominent contemporary theorists do no better than their predecessors, or so we will
+claim. Institutional blindness remains a pervasive condition in the current scene.</p>
+          <p>Eskridge. William Eskridge has a claim to being the most prominent interpretive
+theorist of the modern era; his identification and critique of the “new textualism,”59 and
+his advocacy of “dynamic interpretation,”60 redefined the field in the late 1980s. Yet a
+neglect of institutional factors undercuts Eskridge’s conclusions just as it did his
+predecessors’.61 Dynamic statutory interpretation, it turns out, embodies the nirvana
+fallacy—the juxtaposition of an idealized picture of judicial capacities with a grudging
+picture of the capacities of other actors in the interpretive system.</p>
+          <p>Eskridge’s principal target is the formalist approach that emphasizes the original
+meaning of statutory text; his principal criticism is that this approach stumbles on the
+problem of statutory obsolescence—statutes that have fallen out of step with the public
+values prevailing in the surrounding context of the legal system. Dynamic interpretation
+is the answer to the problem of obsolescence. Rather than adhering either to ordinary
+meaning at the time of enactment, or even to legislative intent conceived in strictly
+originalist terms, courts should “update” statutes by intelligent adaptation of original
+purposes to new social circumstances, and by taking account of changes in the overall
+fabric of public law.62 Yet Eskridge is sensitive to the radicalism of this recommendation,
+which he moderates and improves by adding a side constraint: judges should treat
+contemporary public values as something like an interpretive principle or canon,
+defensible by clear contrary instructions from legislatures.63</p>
+          <p>At first glance this position is attractive, even compelling; how could “wooden”
+or “mechanical” enforcement of obsolete statutes possibly be the best course of action for
+judges to take? Eskridge’s claims certainly have some descriptive power, and on certain
+assumptions, they might be plausible on institutional grounds as well. Yet Eskridge fails
+to discuss those assumptions or those grounds. He does not consider how the case for
+dynamic interpretation fares once we recognize the possibility that judges will make
+serious mistakes in updating, or that the ex ante effects of dynamism on legislative
+behavior might prove pernicious. We may agree with Eskridge that judicial updating is a
+good thing, all else equal, but the proviso is crucial. The possibility of judicial mistakes,
+or of deleterious system effects, makes Eskridge’s defense of dynamism radically
+incomplete. Dynamic interpretation might or might not prove justified, given adequate
+information on these variables; here as elsewhere we take no position on that ultimate
+question. What is clear is that Eskridge has failed to ask, let alone answer, most of the
+critical questions.</p>
+          <p>Start with the question of judicial error. The linchpin of dynamism is the claim
+that “when societal conditions change in ways not anticipated by Congress and,
+especially, when the legal and constitutional context of the statute decisively shifts as
+59See William N. Eskridge, Jr., The New Textualism, 37 UCLA L. Rev. 621 (1990).
+60See William N. Eskridge, Jr., Dynamic Statutory Interpretation, 135 U. Pa. L. Rev. 1479 (1987).
+61Candor requires an acknowledgement that one of the present authors showed a similar blindness in his
+youth (adolescence? infancy?). See Cass R. Sunstein, Interpreting Statutes in the Regulatory State, 103
+Harv L Rev 405 (1989).
+62Eskridge, Dynamic Statutory Interpretation, supra note, at 1484.
+63Id. at 1482, 1496.
+well, this current perspective should, and will, affect the statute’s interpretation.”64 This is
+essentially a recommendation to minimize the false negative or Type II error: the
+possibility that nondynamic approaches will erroneously fail to update obsolete statutes.
+But Eskridge says very little about the converse possibility, the false positive or Type I
+error: the risk that the judges’ relative social insulation, and the resulting informational
+deficits, might cause them to err in the other direction, updating statutes that aren’t
+obsolete because the judges fail to comprehend the statute’s current social utility. If
+judicial updating produces erroneous rewriting of statutes whose sensible and fully
+up-todate justifications the judges have simply failed to understand, then dynamism may cause
+more institutional failure than would a rule denying judges the authority to update. In any
+case updating may cause harm if the new values, not yet able to receive clear democratic
+support, are questionable on normative grounds. (Is it entirely irrelevant to mention that
+Nazi judges were enthusiastic updaters?)</p>
+          <p>Eskridge also overlooks the possibility that the systemic effects of nondynamic
+interpretive approaches would prove better, on Eskridge’s own criteria, than would the
+systemic effects of dynamism. Eskridge supports his case for dynamism by drawing upon
+process theory and public choice, arguing that “the legislature acting alone will be subject
+to . . . biases,”65 and that “given the biases of the political process, the fact that judges are
+not elected may enable them to be better ‘representatives’ of the people than their elected
+legislators are (in some instances).”66 It may be true that interest-group pressure and
+institutional failures will cause Congress to update statutes with insufficient frequency,
+relative to some optimal rate of policy change. But that failure might itself be an
+endogenous consequence of the interpretive theory the judges use. Textualists indeed
+argue that their methods will spur legislatures to update at an optimal rate,67 and there is
+certainly some evidence of updating in response to textualism.68 If so, then textualism
+would itself just be the dynamic approach to interpretation that Eskridge advocates. On
+certain empirical premises about institutional capacities, Eskridge ought to support the
+very textualism that he spends so much time excoriating.</p>
+          <p>In later work Eskridge episodically shows an awareness of these considerations,
+acknowledging, in the limited context of the legislative-history debate, that the
+desirability of judicial resort to legislative history turns importantly on a cost-benefit
+calculus that examines judicial performance, litigation costs, and legal certainty in
+competing legislative-history regimes.69 Yet he also seems to think this sort of analysis
+theoretically disreputable or empirically intractable or both. In even more recent work
+Eskridge reverses his ground, arguing both that empiricism is conceptually meaningless
+without normative premises (a question we address below) and that the relevant empirical
+and institutional variables are costly to measure—certainly true, but hardly an argument
+64Eskridge, Dynamic Statutory Interpretation, supra note, at 1494.
+65Id. at 1530.
+66Id.
+67See Adrian Vermeule, Interpretive Choice, 75 N.Y.U. L. REV. 74, 103 (2000).
+68The Delaney Clause was substantially amended by the Food Quality Protection Act, Pub. L. No. 104-170,
+110 Stat. 1489 (1996).
+69See William N. Eskridge, Jr., Textualism, The Unknown Ideal?, 96 Mich. L. Rev. 1509, 1541 (1998).
+for nonempirical interpretive theory.70 The sum of it is that, as with some of the other
+theorists we will consider, Eskridge occasionally notes the critical institutional
+considerations en passant, but fails to incorporate them into his normative account of
+interpretation in any systematic way.</p>
+          <p>It is worth emphasizing that none of these considerations necessarily refutes
+Eskridge’s dynamic conclusions. If judges update successfully more often than not, and if
+textualist interpretation causes legislatures to spend most of their time correcting
+mistaken (because wooden or mechanical) judicial interpretations, then textualism would
+prove inferior to dynamic interpretation; Eskridge’s methods would push the courts
+closer to the optimal rate of updating. But there is no valid path to that conclusion from
+Eskridge’s institutionally insensitive premises.</p>
+          <p>Manning. Among contemporary writers, Eskridge’s chief formalist adversary is
+John Manning, whose work details an important textualist account of interpretation
+rooted in constitutional law, in contrast to Eskridge’s nontextualist dynamism. For our
+purposes, however, the common ground between Eskridge and Manning is more
+important than their differences. Strikingly, despite spirited debates between them,
+Eskridge and Manning largely share the crucial and mistaken premise that the important
+questions about interpretive theory are first-best questions, rather than second-best
+questions about institutional performance and systemic effects.</p>
+          <p>Manning’s work shows that insufficient attention to institutional capacities is an
+equal-opportunity hazard, one that afflicts nonformalists and formalists alike. Manning’s
+contribution is to have provided the most rigorous attempt to justify formalist modes of
+interpretation by reference to formal sources of law, principally the Constitution. In our
+view, however, the project is an impossible one; it is doomed to failure despite
+Manning’s skill at deductive reasoning from constitutional premises. Interpretive
+formalism at the operational level—formalism in the jurisprudentially modest sense of
+rule-bound interpretation that sticks close to the surface of statutory texts, where it is
+possible to do so—cannot itself be justified by conceptual deduction from constitutional
+premises. Supplemental institutional and empirical premises are needed, premises about
+the comparative capacities of institutional actors and about formalism’s ex ante effects.</p>
+          <p>Consider Manning’s influential critique of judicial resort to legislative history.71
+The argument suggests that the Constitution, particularly Article I’s procedure of
+statutory enactment, should be read to embody an implicit norm against legislative
+selfdelegation. That constitutional norm forbids courts to afford “authoritative” weight to
+legislative history in statutory interpretation, but allows consultation of legislative history
+as a persuasive or confirmatory source.72 But this deduction, even if valid, leaves open
+the most important questions about legislative history at the operative level, the level of
+the interpretive doctrines that judges should use. Few people think that the legislative
+history is “authoritative” in the sense that it trumps unambiguous text; the usual argument
+is that the history is relevant to ascertaining meaning. That courts may not afford
+70See William N. Eskridge, Jr., Norms, Empiricism, and Canons in Statutory Interpretation, 66 U. Chi. L.
+Rev. 671 (1999).
+71John F. Manning, Textualism as a Nondelegation Doctrine, 97 COLUM. L. REV. 673, 695 (1997).
+72Id. at 728.</p>
+          <p>The EPA did not contend that an MCL was not “feasible” to implement, nor did it
+argue that it was not “feasible,” in the economic or technological sense, to monitor lead
+levels in water. Nonetheless, the court upheld the agency’s decision.131 The court
+accepted the EPA’s seemingly implausible suggestion that the word “feasible” could be
+construed to mean “capable of being accomplished in a manner consistent with the Act.”
+The court said that “case law is replete with examples of statutes the ordinary meaning of
+which is not necessarily what the Congress intended,” and it added, pointedly and
+controversially, that “where a literal meaning of a statutory term would lead to absurd
+results,” that term “has no plain meaning.”132 Because an MCL would itself lead to more
+contamination, “it could lead to a result squarely at odds with the purpose of the Safe
+Drinking Water Act.”133</p>
+          <p>The court therefore accepted EPA’s view “that requiring public water systems to
+design and implement custom corrosion control plans for lead will result in optimal
+treatment of drinking water overall, i.e. treatment that deals adequately with lead without
+causing public water systems to violate drinking water regulations for other
+contaminants.”134 It should be plain that the court permitted a quite surprising and even
+countertextual interpretation of the Act. The statutory terms seem to make no room for
+the EPA’s refusal to issue an MCL. In upholding the EPA’s refusal, the court authorized
+the agency to avoid an unreasonable result.</p>
+          <p>Qualifications. We believe that agencies should not be required to interpret
+statutes in the same way as courts; but any judgment on this point itself depends on
+contextual factors. If, for example, Congress would immediately and costlessly correct
+the problems that would be produced by formalism, then there would be much less need
+to allow interpretations of the kind upheld in American Water Works. In a legal universe
+in which Congress can be expected to correct the problem in that case—if it is indeed a
+problem—the pressure for agency correction would be greatly reduced. And there are
+other possible problems. Suppose that, in a world not so very different from our own,
+agencies are systematically distrusted, in part because they are not technically expert after
+all, in part because they are highly susceptible to the power of self-interested private
+groups, moving their decisions in predictable directions. In such a world, the argument
+for purposive agency interpretation, in the face of statutory text, would be very weak.
+And in fact it is not difficult to imagine a legal system in which courts are, and should be,
+authorized to engage in purposive interpretation, and in which agencies must follow the
+text unless courts specifically instruct them not to do so.</p>
+          <p>With these points we are able to have a better understanding of some continuing
+disputes about judicial review of agency action. Notwithstanding American Water Works
+and similar decisions, a number of cases insist that agencies adhere closely to statutory
+text. If these outcomes are to be defended, it must be with an expectation that Congress
+will correct the resulting problems, or with a belief that agencies, authorized to depart
+from text, will move regulatory law in undesirable directions.
+131American Water Works v. EPA, 40 F.3d 1266, 1271 (DC Cir 1994).
+132Id.
+133Id.
+134Id.</p>
+          <p>Another contextual and empirical factor to consider is whether a regime of
+purposive interpretation by agencies and textualist interpretation by courts would be
+stable. We might imagine, pessimistically, that the anticipation of judicial review by
+textualist courts would cause agencies to adopt textualist methods, simply to maximize
+the chances of having their decisions sustained; agencies’ authority to depart from
+textualism would then become strictly nominal. If so, it would provide a reason, all else
+equal, for courts and agencies to adopt the same interpretive approach, although we
+would still face the important choice between across-the-board textualism or
+across-theboard purposivism. But we might also imagine, more optimistically, that reviewing courts
+defer to agencies’ adoption of a purposive interpretive style, even if the same courts
+would adopt a textualist approach when deciding cases with no agency in the picture.
+Chevron, after all, can easily be understood to allow the agency some latitude to choose
+between interpretive approaches, and to vary from the approach the court itself would
+adopt. In this scenario, the agency would have no need to mimic the judges’ own
+interpretive approach, so a regime of agency purposivism and judicial textualism would
+not be excessively unstable. These possibilities, like the considerations above, exemplify
+the sort of institutional questions that a fully-developed analysis of agency interpretation
+must ask.</p>
+          <p>Arbitrariness and ossification: a final note on administrative law. Under the
+Administrative Procedure Act, courts are required to set aside agency action that is
+“arbitrary” or “capricious.” But what do these terms mean? How should courts try to
+answer that question? For much of the modern period of administrative law, the answer
+has come from accounts of “agency failure.” Drawing attention to administrative
+susceptibility to powerful private groups, many critics, both on and off the federal bench,
+have endorsed the idea that courts should take a “hard look” at agency action, in order to
+reduce factional influences and promote better policymaking.</p>
+          <p>What has been ignored, for much of the life of the resulting debate, are two sets of
+risks. The first involves judicial error, partly a product of sheer ignorance.135 The second
+and more fundamental involves systemic effects, above all in the form of large-scale
+alterations in administrative behavior, produced by the very fact of “hard look” review. It
+is now well-documented that such review has contributed to the “ossification” of
+noticeand-comment rulemaking, which now takes years, in part as a result of the effort to fend
+off judicial challenges. In light of the risk of invalidation, many agencies have turned
+away from notice-and-comment rulemaking altogether—with NHTSA, for example,
+attempting to promote automobile safety, for example, through ex post recalls, which is
+generally regarding as a senseless way to proceed. Our claim here is that the analysis of
+hard look review is ludicrously incomplete if it does not pay attention to institutional
+considerations of this kind. And indeed, much of the most impressive current work in
+administrative law attempts to incorporate judicial fallibility, and dynamic effects, into an
+account of how to assess whether agency action counts as “arbitrary” under the APA.136
+135See Stephen Breyer, Vermont Yankee and the Courts' Role in the Nuclear Energy Controversy, 91 Harv.
+L. Rev. 1833 (1978).
+136See, e.g., Richard Pierce, Seven Ways to Deossify Agency Rulemaking, 47 Admin. L. Rev. 59 (1995).</p>
+        </sec>
+        <sec id="sec-2-2-5">
+          <title>C. Constitutional Interpretation</title>
+          <p>Overview. Our principal recommendation has been that interpretive theory in
+legislation and administrative law should take an institutional turn. What of constitutional
+interpretation? Here we will say that academic theory about constitutional law does far
+better, on the score of institutional sensitivity, than academic theory about statutory
+interpretation. Constitutional theorists have, in part, already taken the institutional turn,
+with important work beginning in the 1970s. At the same time, the turn is as yet
+incomplete and has not been explicitly recognized as such; the treatment of basic
+questions in constitutional law, such as judicial review, has always suffered from
+institutional blindness, and there remain important pockets of contemporary theory that
+are resolutely oblivious to second-best questions.</p>
+          <p>We will begin by emphasizing the extent to which the foundations of interpretive
+theory in constitutional law are deficient on the score of institutional sensitivity. Here the
+critical case is, of course, Marbury v. Madison137 and its inadequate (because excessively
+abstract and conceptual) justification for judicial review. After sketching the partial and
+salutary turn to institutional analysis in modern constitutional theory, and especially in
+the most recent work, we then discuss several important theorists who exemplify the
+remaining, unreconstructed resistance to institutional analysis: Ronald Dworkin, Akhil
+Amar, and Lawrence Lessig. We mean to press claims that parallel our claims about
+statutory interpretation. First, at a minimum, accounts of constitutional interpretation are
+incomplete without reference to institutional capacities. Second, and more ambitiously,
+institutional considerations may enable constitutional lawyers to converge upon
+interpretive approaches, while bracketing first-best accounts of constitutionalism or
+simply remaining agnostic about them.</p>
+          <p>Marbury v. Madison. Is judicial review desirable? Does the Constitution call for
+it? These are old and much-debated questions. Our modest goal here is to do draw
+attention to a serious problem: Many of the most well-known arguments on behalf of
+judicial review, including those in Marbury itself, are blind to institutional
+considerations. They ignore the risk of judicial error and the possibility of dynamic
+consequences. In American law, Chief Justice John Marshall might even be deemed the
+father, or the founder, of the kind of institutional blindness that we are criticizing.</p>
+          <p>Indeed, what is most striking about Marshall’s arguments for judicial review is
+that they depend on a series of fragile textual and structural inferences, ignoring the
+institutional issues at stake. Much of Marshall’s emphasis is on the unobjectionable claim
+that the constitution is “superior paramount law”; but it is possible to accept that claim
+without also thinking that courts are authorized to strike down statutes that violate that
+law. A constitution is “superior paramount law” in many legal systems that offer little or
+no judicial review of legislation. When Marshall famously asserts that “[it] is
+emphatically the province and duty of the judicial department to say what the law is,”138
+he is offering a conclusion, not an argument on its behalf. Marshall invokes the
+1375 U.S. (1 Cranch) 137 (1803).
+138Id. at 177.
+Supremacy Clause,139 which certainly mean that a law repugnant to the Constitution must
+yield; but that clause offers nothing in support of the institutional claim that courts have
+the power to strike down laws that, in their judgment, are unconstitutional. Marshall’s
+textual and structural inferences are very weak, and no source of constitutional meaning
+clearly settles the question. Any evaluation of Marshall’s conclusion must depend, in
+large part, on institutional considerations.</p>
+          <p>If it appears odd to suggest that judicial review need not be a part of the American
+constitutional fabric, a reading of the historical materials should dispel the appearance.140
+Larry Kramer urges that for the framers, the "Constitution was not ordinary law, not
+peculiarly the stuff of courts and judges." Instead it was "a special form of popular law,
+law made by the people to bind their governors."141 For many members of the
+revolutionary generation, constitutional principles were subject to "popular
+enforcement,"142 that is, public insistence on compliance with the Constitution, rather
+than judicial activity. "It was the legislature's delegated responsibility to decide whether a
+proposed law was constitutionally authorized, subject to oversight by the people. Court
+simply had nothing to do with it, and they were acting as interlopers if they tried to
+second-guess the legislature's decision."143 Kramer traces the controversial early growth
+of the practice of judicial review, with many seeing it as an "act of resistance." At the
+founding, a "handful of participants saw a role for judicial review, though few of these
+imagined it as a powerful or important device, and none seemed anxious to emphasize it.
+Others were opposed . . . . The vast majority of participants were still thinking in terms of
+popular constitutionalism and so focused on traditional political means of enforcing the
+new charter; the notion of judicial review simply never crossed their minds."144</p>
+          <p>In Kramer's account, constitutional limits would be enforced not through courts,
+but as a result of republican institutions and the citizenry's own commitment to its
+founding document. Kramer raises serious doubts about the understanding in Marbury v.
+Madison and in particular about judicial supremacy in the interpretation of the
+Constitution. He suggests that for some of the framers, judicial review was "a substitute
+for popular resistance" and to be used "only when the unconstitutionality of a law was
+clear beyond dispute."145 What is important for our purposes is the idea that at the
+American founding, the supremacy of the Constitution was clear, but judicial
+enforcement was not, in part because of ambivalence about which institutions would be
+well-suited to ensuring compliance.</p>
+          <p>Of course judicial review is, at present, constitutionally respectable to say the
+least; we do not mean to argue against it here. But it is easy to imagine constitutional
+systems that would refuse to give judges the power to strike down legislation. If judges
+are corrupt, biased, poorly-informed, or otherwise unreliable, it would hardly make sense
+to entrust judges with that power. And if legislative officials could be trusted to be
+139See U.S. Const. Art. VI, cl. 2 (“Laws of the United States” made “in pursuance of [the Constitution] . . .
+shall be the Supreme Law of the Land”).
+140See Larry D. Kramer, We the Court, 115 Harv. L. Rev. 1 (2001).
+141Id. at 10.
+142Id. at 40.
+143Id. at 49.
+144Id. at 54.
+145Id. at 74.
+faithful to constitutional commands, the need for judicial review would be greatly
+diminished. Or suppose that a constitutional system feared, with reason, that the power of
+judicial review would weaken the attention paid by other institutions to constitutional
+requirements—so that judicial review, it was thought, would weaken the grip of
+constitutional limitations on other branches. This conjecture, empirical in character, has
+been made in the United States as elsewhere.146 A system of this kind might be accepted
+by people who believe emphatically in constitutionalism, but who think that judicial
+review will tend to undermine rather than to promote its goals. Hence the analysis of the
+Marbury question itself must depend, in part, on the same considerations that we have
+been stressing throughout.</p>
+          <p>It is possible to draw a general conclusion. In many domains, the question is
+posed whether one institution should review the acts of another, and if so, the intensity
+with which that review should occur. This question arises, for example, in the context of
+constitutional challenges; attacks on criminal convictions; review of punitive damage
+awards by juries; appellate review of trial court findings; and judicial review of agency
+decisions of law, fact, and policy. In all of these areas, it is important to pay close
+attention to institutional variables. The costs of error and the costs of decision are crucial.
+It is necessary to examine dynamic effects. There is no sensible acontextual position on
+the question whether review, of one institution or another, should be intense or
+deferential, or indeed available at all.</p>
+          <p>Modern constitutional theory. We do not mean to claim that Marbury’s
+institutional blindness fairly represents all of subsequent constitutional theory in
+America. Many important strands of post-Marbury theory have been grounded in
+accounts of institutional capacities. Most familiar is Thayer’s idea that the Constitution
+might properly be treated, or interpreted, in one way by a legislature and another way by
+a court, in light of the distinctive characteristics of the interpreting institution. Among the
+modern refinements of this idea are Alexander Bickel’s legal process account of the
+distinctive attributes of courts as constitutional interpreters, although that account
+glorified courts’ insulation (“the ways of the scholar”) while overlooking the
+informational deficits that insulation produces;147 and Lawrence Sager’s idea that
+legislatures might properly be charged with responsibility for underenforced
+constitutional norms. In general, it is unsurprising that a body of theory pervasively
+structured around the countermajoritarian difficulty should display some sensitivity to
+institutional role, if only in the stylized, abstract manner of the legal process tradition. In
+this light, it is perhaps most accurate to say that constitutional theory has always taken
+some account of the institutional determinants of interpretation.</p>
+          <p>Indeed, new contributions, of the 1990s and after, have displayed an increasingly
+sophisticated treatment of institutional attributes and capacities. First, lawyer-economists
+like Neil Komesar148 and Einer Elhauge149 drew upon transaction-cost economics and
+146See James Bradley Thayer, John Marshall 107 (1901).
+147Donald Horowitz, The Courts and Social Policy (1977).
+148Neil K. Komesar, IMPERFECT ALTERNATIVES: CHOOSING INSTITUTIONS IN LAW, ECONOMICS, AND
+PUBLIC POLICY (1994).
+149Einer R. Elhauge, Does Interest Group Theory Justify More Intrusive Judicial Review?, 101 YALE L.J.
+31 (1991).
+interest-group theory to refute simple arguments for an aggressive judicial posture in
+constitutional cases—what Komesar calls “single-institutional” arguments that fail to
+compare all relevant costs and benefits of the available institutional alternatives.150
+Consider the standard line that judges should intervene to correct failures in political
+markets. Formulated in a traditional legal process vocabulary by John Hart Ely, this view
+was translated into the vocabulary of public choice by libertarians and free-marketers in
+the 1980s. Komesar and Elhauge, however, make clear that process failures in the form
+of rent-seeking activity and differential interest-group access afflict the courts as well
+(Elhauge), and that whatever relative insulation judges enjoy comes at the price of severe
+informational deficits (Komesar), so that the judges are prone to stumble into empirical
+pitfalls. The premise of comparative judicial advantage underlying the standard line, then,
+is at best questionable, and defending that line has become far more complicated
+business.151</p>
+          <p>A second, currently influential strand in recent constitutional theory might be
+called neo-Thayerian; it is represented by Jeremy Waldron,152 Mark Tushnet,153 and
+Larry Kramer,154 among others. Waldron has examined how legislative institutions help
+to resolve otherwise intractable political disagreements; Tushnet has revived and enriched
+the Thayerian concern with the debilitating effects of judicial guardianship on legislative
+performance; and Kramer, as we have seen, has worked to dispel overheated claims on
+behalf of ambitious, interventionist judicial review, especially by impeaching its
+historical pedigree. In general, the stylized abstractions about legislative and judicial
+capacities familiar to legal process have been improved by successive doses of realism
+and analytic sophistication, especially by the neo-Thayerians on the legislative side and
+by the lawyer-economists on the judicial side—although both camps have enriched our
+understanding across the whole institutional system, as is fitting for approaches that
+emphasize comparative institutional analysis and the avoidance of nirvana fallacies.</p>
+          <p>These strands of recent constitutional theory might be described as involving
+institutional competence writ large; their focus is on the large-scale allocation of
+responsibility, for policymaking and lawmaking, between or among the courts and
+political branches. To these salutary developments we wish to add considerations of
+institutional competence writ small. To the extent that interpretive authority over certain
+questions has been allocated to the courts by some background theory of comparative
+competence, there remains the question what interpretive rules courts should use in
+constitutional cases. We will claim that important strands of constitutional theory still
+attempt to answer this last question in an institutional vacuum. The essential defect in
+these accounts is that they are entirely insensitive to the identity and capacities of the
+interpreter; they treat the interpreter, explicitly or implicitly, as a theorist much like the
+constitutional theorist himself, rather than a judicial bureaucrat deciding cases under
+constraints of time, information and expertise. We will consider three examples: the
+150Komesar, supra note 17, at 6.
+151But see Thomas W. Merrill, Does Public Choice Theory Justify Judicial Activism After All?, 21 HARV.
+J.L. &amp; PUB. POL’Y 219, 221-22 (1997) (responding to Elhauge and Komesar).
+152See Jeremy Waldron, Law and Disagreement (2000).
+153See Mark Tushnet, Taking the Constitution Away from the Courts (1999).
+154See Larry D. Kramer, We the Court, 115 Harv. L. Rev. 1 (2001).
+interpretive accounts of Ronald Dworkin, Akhil Amar, and Lawrence Lessig. In
+important respects these theorists perpetuate, even amplify, the flaws in Marbury’s logic.</p>
+          <p>Dworkin (redux), and a philosophical brief. Dworkin’s approach to constitutional
+law is nicely illuminated by an unusual brief submitted to the Supreme Court in the
+assisted suicide cases, a document widely known as “The Philosophers’ Brief.” 155 The
+brief bears Dworkin’s distinctive mark, and indeed Dworkin is listed as lead counsel. The
+Philosophers’ Brief offers an ambitious argument, one with considerable appeal. It says
+that some “deeply personal decisions pose controversial questions about how and why
+human life has value.156 In a free society, individuals must be allowed to make those
+decisions for themselves, out of their own faith, conscience, and convictions.” The brief
+urges that distinctions between “omissions” (failing to provide continued treatment) and
+“acts” (providing drugs that will produce death) are “based on a misunderstanding of the
+pertinent moral principles.” Drawing on the abortion cases, the brief says that every
+person “has a right to make the ‘most intimate and personal decisions central to person
+dignity and autonomy,’” a right that encompasses “some control over the time and
+manner of one’s death.”157 The brief thus urges the Court to declare a constitutional right
+to physician-assisted suicide. Dworkin’s personal gloss on the brief says that it “defines a
+very general moral and constitutional principle--that every competent person has the right
+to make momentous personal decisions, which invoke fundamental religious or
+philosophical convictions about life’s value for himself.”158</p>
+          <p>Simply as a matter of political morality, the argument in the Philosopher’s Brief is
+certainly reasonable, and it cannot easily be shown to be wrong. But suppose that the
+Court was convinced by the argument in principle; should the Court have held that there
+is a right to physician-assisted suicide? This is not so clear. Before accepting the
+argument, it is necessary to ask about judicial competence to evaluate moral arguments of
+this sort, and also to ask facts and incentives. Perhaps the Court is not especially
+wellequipped to evaluate those arguments; and if consequences matter, the moral arguments
+might not be decisive in light of the risk that any right to physician-assisted suicide
+would, in practice, undermine rather than promote the autonomy of patients.159</p>
+          <p>Many people, including Dworkin himself, appear to think that the Supreme Court
+should not much hesitate to find a constitutional right of some kind if it is presented with
+convincing (to the judges) philosophical arguments for that right, at least if the right
+“fits” with the rest of the legal fabric. For those who take an institutional perspective, this
+view is wrong. Courts may not understand what justice requires, or may not be good at
+producing justice even when they understand it. In these circumstances, their
+understanding of the Constitution is partly a product of their judgments about their own
+distinctive role as a social institution. Note that this claim does not depend on skepticism
+about moral or political arguments. It is reasonable to believe that judges are not
+wellequipped to engage in theoretically ambitious tasks, without also believing that political
+theory is itself problematic or useless.
+155See The New York Review of Books, vol. 44, no. 5, p. 41 (1997).
+156Id.
+157Id. at 42.
+158Id. at 41.
+159As argued in Cass R. Sunstein, The Right to Die, 106 Yale L.J. 1123 (1997).</p>
+          <p>Amar. Akhil Amar describes his preferred interpretive approach as
+“intratextualism.”160 The term denotes a textualism that makes extensive use of
+comparisons across clauses, even to the point of insisting that words appearing in widely
+separated contexts be given similar meanings—a technique capable of generating
+dramatic readings, such as the claim that the key to understanding the meaning of
+“speech” in the First Amendment is the meaning of “speech” in the Speech and Debate
+Clause. Amar’s target is what he calls “clause-bound” interpretation, the judicial practice
+of reading constitutional provisions and their accompanying history and precedent in
+(partial) isolation from textually related provisions.</p>
+          <p>In its emphasis on the authority of constitutional text, and in its populist
+underpinnings, Amar’s account appears to lie at some polar opposite from Dworkin’s, in
+which the constitutional text does relatively little work and populism is hardly a defining
+ideal. Yet for our purposes the two accounts are on a par. What Dworkin and Amar share
+is a deep commitment to a sort of constitutional holism: a commitment to reading the
+Constitution (whether that is taken to denote the document’s text or the moral principles
+underlying constitutional law) as a coherent, integrated whole. It is this shared feature of
+holism or coherentism that unites our critique of Dworkin with our critique of Amar.
+Amar, like Dworkin, ignores the possibility that real-world judges charged with holistic
+interpretation will simply blunder, producing a pattern of incoherent outcomes, or, worse
+yet, producing an internally coherent but morally misguided vision of public law.161</p>
+          <p>Amar recommends intratextualism as tool suitable to the courtroom as well as the
+classroom; indeed most of Amar’s intratextualist heroes are famous judges, especially
+John Marshall. Yet Amar pays no attention to the institutional capacities of the real-world
+judges who would be charged with practicing intratextualism; he ignores the judges’
+interpretive capacities or their likely performance under the alternative regimes of
+intratextualism, on one hand, and clause-bound interpretation, on the other. Compared to
+the clause-bound alternative, intratextualism requires a more complicated and
+information-intensive inquiry, one that will reduce decisional accuracy whenever judges
+read the comparison texts mistakenly. So, for example, a judge who looks to the Speech
+and Debate Clause to illuminate the Free Speech Clause might well go badly wrong,
+given that the former provision predated the First Amendment and addresses very
+different problems. Amar gives us no reason to think that the illuminating effect of
+intratexualism will predominate over its error-producing effect.</p>
+          <p>What’s worse, intratextualism in the hands of fallible judges risks producing a
+holistic, highly coherent, but fundamentally mistaken analysis, one that constitutionalizes
+a simultaneous misreading of a whole set of related provisions. Justice Douglas’ opinion
+in Griswold v. Connecticut,162 for example, offered a holistic, coherent account of the
+Bill of Rights as based upon a general principle of privacy; and it is an account that Amar
+160See Akhil Reed Amar, Intratextualism, 112 Harv. L. Rev. 747 (1999).
+161See Adrian Vermeule &amp; Ernest A. Young, Hercules, Herbert and Amar: The Trouble with
+Intratextualism, 113 Harv. L. Rev. 730 (2000).
+162381 U.S. 479 (1965).
+himself thinks is deeply mistaken.163 If Amar had a more realistic view of judges’
+abilities as constitutional interpreters, he might prefer the limited incoherence of
+clausebound interpretation to a sweeping, integrated, but erroneous universal account. What
+Amar has done, in short, is to overlook the principle of second-best. Rather than asking
+“What interpretive methods should judges use?,” Amar has asked “What interpretive
+methods would I use, were I a judge?”—the question that, as we have seen, is a common
+cause of institutional blindness in interpretive theory.</p>
+          <p>Lessig, Interpretation as Translation, and Compensating Adjustments. Similar
+problems beset Lawrence Lessig’s account of constitutional interpretation, which sees
+that practice as an exercise in “translation.”164 Translation is a particular version of
+originalism, of “fidelity” to the Constitution of the founding era. Lessig’s important
+insight is that judges might, in principle, act more faithfully to the original constitution by
+updating constitutional rules to meet changed circumstances than by adhering woodenly
+to the specific text chosen by the founding generation, or to their specific expectations.
+Just as a translator might do better to choose a colloquial analogue that captures the
+flavor of the original, rather than simply using a literal equivalent, so too the original
+meaning of the constitutional structure might, in changed circumstances, best be
+preserved by departures from the original understanding. In the area of federalism, for
+example, Lessig urges the Court to “make up” constitutional rules that restore the original
+balance between federal and state authority.165 “[T]o be faithful to the constitutional
+structure, the Court must be willing to be unfaithful to the constitutional text.”166</p>
+          <p>Translation is, without doubt, a valuable contribution to first-best theorizing about
+constitutional interpretation. No other such account has, in recent years, generated as
+much comment and as many engaging applications.167 Translation is best viewed as a
+refinement of purposivism: like Hart and Sacks’ approach, translation boosts the level of
+interpretive generality from the specific intentions or expectations of a law’s framers to
+their ultimate aims or ends. But Lessig’s account also shares purposivism’s insensitivity
+to institutional considerations. Lessig fails to consider the possibility that judges might be
+poor translators, garbling meanings so badly that a simple-minded transliteration would
+preserve more of the original than would an ambitious and mistaken attempt to capture
+the original’s real sense. Judicial mistakes might make ambitious attempts at translation
+self-defeating, driving results further away from the original meaning rather than pushing
+results closer to it. In the federalism setting, for example, it is by no means obvious that
+making up rules to approximate the original balance is, even on Lessig’s theoretical
+premises, the right prescription for the Court. The Court might overshoot the mark by
+announcing stringent restrictions on federal authority that push constitutional law farther
+away from the founding balance than would deference to national political processes.168
+163Amar, Intratextualism, supra note, at 797 &amp; n. 196. In Amar’s view, the key to a coherentist reading of
+the Bill of Rights is constitutional populism, not libertarian privacy. See Akhil Reed Amar, The Bill of
+Rights: Creation and Reconstruction (1998).
+164Lawrence Lessig, Fidelity in Translation, 71 Tex. L. Rev. 1165 (1993).
+165Lawrence Lessig, Translating Federalism: United States v. Lopez, 1995 Sup. Ct. Rev. 125, 192.
+166Id. at 193.
+167See generally Symposium, Fidelity in Translation, 65 Fordham Law Review (1997).
+168This was one of the themes of Justice Souter’s dissent in United States v. Lopez, 514 U.S. 549 (1995),
+which argued, among other things, that deference to rational congressional judgments about the scope of</p>
+          <p>Here is another example, taken not from Lessig’s own work but from the
+secondary literature applying Lessig’s insights.169 Suppose that the original Constitution,
+rightly understood, bars delegations of legislative authority to the executive, and also bars
+the legislative veto. (Of course we do not mean to endorse or oppose either claim here).
+The circumstances of modern government are such, however, that delegations of
+legislative authority are pervasive, and there is no prospect of returning to the original
+understanding in this regard. The translation theorist might argue that judges should vote
+to uphold the legislative veto, even though it is clearly unconstitutional in isolation, on
+the ground that it is a “compensating adjustment”170 needed to restore the original
+structural balance among the branches of government.171 The legislative veto will, on this
+view, allow the legislature to limit and police the sweeping delegations of authority that it
+cannot avoid making. In fact Justice White’s dissent in the decision that invalidated the
+legislative veto urged upholding the veto on just this ground.172</p>
+          <p>Of course there is a competing account. Perhaps the legislative veto falls afoul of
+the translated Constitution, because it aggravates the power of self-interested private
+groups over processes of lawmaking, thus defeating the goal of bicameralism and
+presentment, which is (on this view) to reduce the role of factions in government. On this
+view, for the Court to uphold the legislative veto might move public law farther away
+from, rather than closer to, the structure and purposes of the original Constitution. Now
+this view may be wrong. The problem is that it is no simple task to identify the
+commitments of the Constitution that are to be translated to fit with modern
+circumstances. As with purposes, so with commitments: There is no simple task of
+discovery here.</p>
+          <p>We are confident that Lessig would not disagree with this claim. But from the
+institutional perspective, the idea that judges should translate original structures by
+searching for offsetting constitutional adjustments is defective if unaccompanied by an
+account of judicial capacities. It takes great confidence in those capacities to think that
+judges can identify the net effects of such large-scale reforms with enough precision to
+warrant jettisoning clear constitutional provisions and settled constitutional rules. The
+overall effect of the legislative veto, or of its invalidation, is a major research question for
+experts in political science.173 There is little reason to believe that generalist judges,
+devoting a brief time to the subject and possessed of limited information, can form even a
+plausible view of the relevant complexities. Judicial competence is not the only the
+problem with idea of translation through compensating adjustments; there are serious
+conceptual puzzles as well.174 But for our purposes the important objection is that
+the interstate commerce power better captured the original understanding. See 514 U.S. at --- (Souter, J.,
+dissenting).
+169See Peter B. McCutchen, Mistakes, Precedent and the Rise of the Administrative State: Toward a
+Constitutional Theory of the Second Best, 80 Cornell L. Rev. 1 (1994).
+170Daryl Levinson, Framing Transactions in Constitutional Law, 111 Yale L.J. 547 (2001).
+171McCutchen, supra, at 37-38.
+172See Chadha, 462 U.S. 919, 994-95 (1983) (White, J., dissenting).
+173See Jessica Korn, The Power of Separation: American Constitutionalism and the Myth of the Legislative
+Veto 4-5 (1996).
+174Levinson, supra, observes that identifying a compensating adjustment depends upon highly contestable
+judgments about the framing of constitutional problems: why exactly should the constitutionality of the
+legislative veto be assessed in relation to the nondelegation doctrine, rather than in isolation? We add that a
+translation assumes an optimistic account of the judges’ abilities as translators, an
+account that becomes increasingly questionable as judicial departures from text and
+original expectations become increasingly ambitious, and as the systemic effects of the
+adjustment become increasingly difficult for generalist judges to predict.</p>
+          <p>Some generalizations. We can generalize these points about Dworkin, Amar and
+Lessig in two ways; both are familiar from the earlier, institutional account of statutory
+interpretation. The first point is that a master principle of constitutional authority—law as
+integrity (Dworkin), or the primacy of constitutional text (Amar), or fidelity through
+translation (Lessig)—taken by itself, can yield no conclusions at all about proper
+interpretive method. With a certain assessment of judicial capacities, judges might do
+better, by Amar’s own lights, with clause-bound interpretation than with intratextualism.
+On Lessig’s own premises, fallible judges might be better translators if they stick to the
+unambitious transliteration that Lessig disparages. As for Dworkin, consider the
+possibility that a fallible judge charged with implementing law-as-integrity might do
+better, from the moral point of view, by opting for a relatively mechanical adherence to
+prior rulings, described at a low level of generality, than by ambitiously attempting to
+bring principled coherence to large areas of law. Thus an epistemically humble
+Dworkinian judge might look a great deal like the incremental, common-law
+constitutional jurist, who defers to precedent on the basis of a Burkean appreciation of the
+limits of individuals’ cognitive capacities.175</p>
+          <p>The second, larger point is the possibility of incompletely theorized agreements
+about interpretive method in constitutional cases. Interpreters who hold various
+firstorder accounts of constitutional authority might, for example, converge on a practice of
+clause-bound precedent. The Amarian would do so to avoid large-scale, coherent
+mistakes by fallible intratextualist judges; the Dworkinian would do so because any more
+ambitious attempt at justificatory ascent might predictably do worse, on Dworkin’s own
+criteria of moral integrity, in the hands of judges who do not resemble Hercules,
+Dworkin’s idealized judge. Moreover, where agreements of this sort are possible, the
+underlying disagreements between competing accounts of the Constitution’s authority
+could be bracketed or ignored; with respect at least to the role of precedent, it would be
+possible to choose an approach to interpretation without committing to any such first-best
+position.</p>
+          <p>To be sure, any of these stories might or might not be plausible; the empirical
+agenda we mean to sketch would consist of investigations along these and similar lines.
+The important point is just that constitutional interpretation is not the same in a
+secondbest world as in a first-best world. As with statutes, so with the Constitution: any account
+of constitutional interpretation that overlooks the decisive role of institutional
+considerations is for that reason defective.</p>
+          <p>A note on tradition in constitutional law. These ideas very much bear on the
+continuing debate about the proper role of tradition in constitutional law. Justice Scalia,
+critical factor, among others, in deciding upon the proper scope of the transactional frame is the capacity of
+judges to manage the increased complexity of larger frames.
+175This is the picture drawn in David A. Strauss, Common Law Constitutional Interpretation, 63 U Chi L
+Rev 977 (1996).
+among others, has urged that in the face of textual ambiguity, judges should follow
+traditions described at a low-level of generality. They should not strike down legislation
+unless it contravenes actual practices as vindicated by history.176 “We refer to the most
+specific level at which a relevant tradition protecting, or denying protection to, the
+asserted right can be identified.”177 It would be possible to defend this approach on
+Burkean grounds, with the claim that longstanding practices are likely to be justified, or
+good, by virtue of their historical pedigree. And for those who dislike Burke, it would be
+possible to respond that longstanding practices might reflect power or arbitrariness, and
+hence that tradition is a bad source of constitutional law and in particular of constitutional
+rights.178 Much of the debate over tradition has been cast in these terms.</p>
+          <p>With an institutional focus, the debate looks very different. Perhaps traditionalism
+is best defended on the ground that judges are highly fallible human beings, and that if
+they are unmoored from either text or traditions, they might well make mistakes.179 In
+fact we could imagine a society, different but not unrecognizably from our own, in which
+this defense of traditionalism would be convincing to a diverse group of people. Suppose,
+for example, that political processes functioned extremely well, in the sense that unjust or
+ill-considered outcomes were highly unlikely, and were corrected politically when they
+occurred. Suppose too that in such a nation, judges were likely to make big blunders, in
+the form of decisions that were confused or even invidious, and very hard to correct once
+made. In such a society, tradition might well be the best foundation of constitutional
+rights where text is unclear. Perhaps other bright-lines rules—such as a strong
+presumption in favor of upholding enacted law—would be better still. The point is that an
+evaluation of traditionalism, as of any other interpretive method, is partly empirical, and
+based on an assessment of how different institutions are likely to perform under the
+various alternatives. Without some empirical projections, it is hard to venture sensible
+answers.</p>
+        </sec>
+        <sec id="sec-2-2-6">
+          <title>D. The Common Law</title>
+          <p>Our emphasis has been on the interpretation of texts, taken as the sorts of
+commands found in constitutions, statutes, and regulations. But precedents are of course
+texts too, and in deciding what a precedent means, a common law court should pay close
+attention to institutional considerations. This point is often well-understood in the
+common law context, especially in the academic literature on contract interpretation,180
+but not always, for academics often evaluate common law decisions simply by asking
+whether the existing cases can be unified by an attractive conceptual principle. That is not
+the question courts should ask; at least it is not the only question. When common law
+judges, as opposed to theorists of the common law, decide whether to characterize
+176See Michael H v. Gerald D, 491 US 110 (1989).
+177Id. at 127 n. 6.
+178See John Hart Ely, Democracy and Distrust 62 (1980).
+179Justice Scalia suggests a similar point: “Because [general] traditions provide such imprecise guidance,
+they permit judges to dictate rather than discern the society’s views.” 491 US at .
+180The possibility of formalism in the operational, rule-based sense, justified on the basis of claims about
+judicial competence and ex ante effects, has recently commanded great deal of interest in the literature on
+contract interpretation. See, e.g., Eric A. Posner, A Theory of Contract Law Under Conditions of Radical
+Judicial Error, 94 Nw. U. L. Rev. 749 (2000); Robert E. Scott, The Case for Formalism in Relational
+Contract, 94 Nw. U. L. Rev. 847 (2000).
+precedents narrowly or broadly, the questions of judicial fallibility and of dynamic effects
+are central.</p>
+          <p>Consider two currently disputed issues frequently faced by common law courts:
+whether to expand employee protection against at-will discharge181 and whether to cabin
+punitive damage awards by juries.182 It would be possible to analyze precedents in a style
+akin to Dworkin’s, asking what principle puts them in the most attractive light. Under this
+approach, some people would undoubtedly conclude that courts should limit the power of
+employers to discharge employees, eventually creating, perhaps, a right to be fired only
+on job-related grounds. And other people would undoubtedly erect barriers to apparently
+unreasonable punitive damage awards, expanding judicial power of remittitur to ensure,
+for example, a sensible relationship between the compensatory award and the punitive
+award.</p>
+          <p>It should be clear that any effort to proceed in this way should pay close attention
+to two problems. First, judges might not know what they are doing. In the labor market,
+for example, some observers suggest that arbitrary discharges are actually rare,183 and
+that a right to be discharged only for job-related reasons would not really protect
+deserving employees, but increase meritless litigation, with employees being the victims
+(through reduced wages or employment). Any significant shift in the common law could
+have large systemic effects on the employment market, and courts are not in a good
+position to anticipate those effects. With respect to punitive damages, it is not so clear
+that there should be a sensible relationship, all of the time, between the compensatory
+award and the punitive award. If, for example, the injury is very hard to detect in most
+cases, the standard economic approach calls for a large multiplier. In any case state
+legislators have been very much involved in the process of considering relevant reforms.
+There has been active debate, in many states, about the permissible grounds for
+discharge, and even more active debate about cabining large punitive damage awards.
+Perhaps judicial decisions, attractive in principle, would dampen those debates. Perhaps
+cautious and incremental judgments, less attractive in principle, would represent a form
+of deference to ongoing processes that are more likely to settle the relevant areas well.</p>
+          <p>Here as elsewhere we do not mean to reach a final judgment on the issues in
+question. And by drawing attention to institutional considerations in the common law
+setting, we hope that we are not saying anything surprising or novel. Too often, however,
+the institutional considerations are placed in the background, and the interpretation of
+precedents is undertaken in a way that is indifferent to them.</p>
+        </sec>
+        <sec id="sec-2-2-7">
+          <title>Conclusion</title>
+          <p>We have argued that issues of legal interpretation cannot be adequately resolved
+without attention to institutional issues. An extraordinary variety of distinguished people
+have explored interpretive strategies without attending to the fact that such strategies will
+inevitably be used by fallible people and with likely dynamic effects extending far
+181For a helpful overview, see Mark Rothstein et al., Employment Law 680-699 (2d ed. 1999).
+182Campbell v. State Farm, 2001 UT 89; 432 Utah Adv. Rep. 44; 2001 Utah LEXIS 170 (2001), cert.
+granted, S. Ct. (2002).
+183See, e.g., Richard Epstein, In Defense of the Contract at Will, 51 U Chi L Rev 947 (1984).
+beyond the case at hand. Two mechanisms seem principally responsible for this
+institutional blindness. One is a role-related trap: interpretive theorists ask themselves
+“how would I decide the case, if I were a judge?”—a question whose very form
+suppresses the key consideration that the relevant interpretive rules are to be used by
+judges rather than theorists. Another is a cognitive trap: specialists, such as legal
+academics, criticize the insufficiently nuanced opinions issued by generalist judges in
+particular cases, overlooking that the same judges might well have done far worse, over a
+series of cases, by attempting to emulate the specialists’ approach. Overall, the key
+question seems to be, "how would perfect judges decide cases?" rather than "how should
+fallible judges proceed, in light of their fallibility and their place in a complex system of
+private and public ordering?"</p>
+          <p>Our minimal submission has been that answers to the former question are
+hopelessly inadequate. We have argued as well that in some cases, an appreciation of
+judicial fallibility and of dynamic effects will enable people to converge on an
+appropriate approach despite their disagreements about the right path for perfect judges to
+follow. At the very least, an appreciation of institutional questions should make it
+possible for people to have a better appreciation of what they are disagreeing about, and
+also of strategies for making some progress in the future. We have emphasized the
+importance of asking about the likelihood of legislative oversight and correction; the
+values of planning and predictability, and the effects, on these values, of one or another
+interpretive choice in the particular context; and the actual performance of courts that
+follow textualism, purposivism, or some other approach. Here there is much room for
+empirical work, involving, for example, the nature and effects of different interpretive
+approaches within different states, the responsiveness of state legislatures to those
+different approaches, and the possible connection between formality in interpretation and
+legislative attentiveness in various domains of law.</p>
+          <p>If we evaluate interpretive issues in institutional terms, we will not necessarily
+adopt any particular approach to interpretation. But we have suggested that once the
+question is properly framed, it becomes easy to see why reasonable people might favor a
+formalist approach to statutes in some or many contexts, not on the basis of indefensible
+ideas about how words work, but on simple institutional grounds. On this view,
+formalism might be accepted, not because the Constitution requires it (it doesn't), and not
+because formalism is required by a proper understanding of the concept of law (it isn't),
+but when and because formalism is the best path for generalist judges who are often
+illequipped to resolve the policy issues at stake. For the same reasons, we have indicated
+some enthusiasm for the emerging view that administrative agencies ought to be allowed
+a degree of flexibility in their own interpretations, flexibility that goes well beyond that
+of courts. Agencies are in a better position to know whether a particular result, apparently
+compelled by text, really is senseless. They are also in a better position to know whether
+a departure from text will unsettle the regulatory scheme in a damaging way. If agencies
+ought not to be given this interpretive flexibility, it is also for institutional reasons, as, for
+example, in the claim that agencies are subject to the influence of powerful private
+groups, or in the suggestion that Congress will provide sufficiently prompt corrections of
+regulatory decisions that, while faithful to statutory text, produce significant harm. Of
+course there are many empirical issues here.</p>
+          <p>In many ways the question of constitutional law is harder, simply because people
+disagree so sharply about what constitutes a good outcome. Ironically, however,
+constitutional law has already witnessed a significant if partial institutional turn: Many
+people emphasize that any approach to the Constitution must take account of the
+institutional strengths and weaknesses of the judiciary. Even here, however, we have seen
+that influential voices in constitutional law argue in favor of interpretive strategies in a
+way that is inadequately attuned to the issue of institutional capacities. Those who
+emphasize philosophical arguments, or the idea of holistic or intratextual interpretations,
+seem to us to have given far too little attention to institutional questions. Here as
+elsewhere, our minimal submission is that a claim about appropriate interpretation is
+incomplete if it does not pay attention to considerations of administrability, judicial
+capacities, and systemic effects in addition to the usual imposing claims about legitimacy
+and constitutional authority. But we have also suggested the possibility that in
+constitutional law, an assessment of those issues might lead to convergence, on
+appropriate methods, from those who disagree about what ideal judges should do. The
+New Deal period culminated in a convergence of this kind. In the current period, it is
+revealing that many people, from their diverse points of view, now seem decreasingly
+satisfied with the idea that judges should interpret ambiguous constitutional provisions in
+a way that seems, to those judges, best on grounds of political morality.</p>
+          <p>Our major goal here has not, however, been to argue on behalf of any particular
+approach to interpretation. Our ambition has been at once narrower and more critical-- to
+show that interpretive theory, as elaborated by its most able practitioners, has been
+remarkably indifferent to institutional issues, proceeding as if judges are reliable and as if
+their choice of approach lacks systemic consequences. We think that this indifference is a
+kind of pathology, produced, in large part, by the legal culture's continuing insistence on
+framing the question of interpretation as, "What would you do, when faced with a
+problem of this sort?" We hope to have shown that this is a misleading question to ask,
+and one that has quite damaging consequences not only for the academic study of law,
+but for legal institutions as well. Once the question is properly reframed, it should be
+possible to see interpretive questions in a new and better light, and perhaps to adopt new
+and better answers as well.</p>
+          <p>Readers with comments should address them to:</p>
+          <p>Cass R. Sunstein
+University of Chicago Law School
+1111 East 60th Street
+Chicago, IL 60637
+csunstei@midway.uchicago.edu
+Adrian Vermeule
+University of Chicago Law School
+1111 East 60th Street
+Chicago, IL 60637</p>
+          <p>a-vermeule@uchicago.edu
+10.
+William M. Landes, Copyright Protection of Letters, Diaries and Other
+Unpublished Works: An Economic Approach (July 1991)
+Richard A. Epstein, The Path to The T. J. Hooper: The Theory and History of
+Custom in the Law of Tort (August 1991)
+Cass R. Sunstein, On Property and Constitutionalism (September 1991)
+Richard A. Posner, Blackmail, Privacy, and Freedom of Contract (February 1992)
+Randal C. Picker, Security Interests, Misbehavior, and Common Pools (February
+1992)
+Tomas J. Philipson &amp; Richard A. Posner, Optimal Regulation of AIDS (April 1992)
+Douglas G. Baird, Revisiting Auctions in Chapter 11 (April 1992)
+William M. Landes, Sequential versus Unitary Trials: An Economic Analysis (July
+1992)
+William M. Landes &amp; Richard A. Posner, The Influence of Economics on Law: A
+Quantitative Study (August 1992)
+Alan O. Sykes, The Welfare Economics of Immigration Law: A Theoretical
+Survey With An Analysis of U.S. Policy (September 1992)
+Douglas G. Baird, 1992 Katz Lecture: Reconstructing Contracts (November 1992)
+Gary S. Becker, The Economic Way of Looking at Life (January 1993)
+J. Mark Ramseyer, Credibly Committing to Efficiency Wages: Cotton Spinning
+Cartels in Imperial Japan (March 1993)
+Cass R. Sunstein, Endogenous Preferences, Environmental Law (April 1993)
+Richard A. Posner, What Do Judges and Justices Maximize? (The Same Thing
+Everyone Else Does) (April 1993)
+Lucian Arye Bebchuk and Randal C. Picker, Bankruptcy Rules, Managerial
+Entrenchment, and Firm-Specific Human Capital (August 1993)
+J. Mark Ramseyer, Explicit Reasons for Implicit Contracts: The Legal Logic to the
+Japanese Main Bank System (August 1993)
+William M. Landes and Richard A. Posner, The Economics of Anticipatory
+Adjudication (September 1993)
+Kenneth W. Dam, The Economic Underpinnings of Patent Law (September 1993)
+Alan O. Sykes, An Introduction to Regression Analysis (October 1993)
+Richard A. Epstein, The Ubiquity of the Benefit Principle (March 1994)
+Randal C. Picker, An Introduction to Game Theory and the Law (June 1994)
+William M. Landes, Counterclaims: An Economic Analysis (June 1994)
+J. Mark Ramseyer, The Market for Children: Evidence from Early Modern Japan
+(August 1994)
+Robert H. Gertner and Geoffrey P. Miller, Settlement Escrows (August 1994)
+Kenneth W. Dam, Some Economic Considerations in the Intellectual Property
+Protection of Software (August 1994)
+Cass R. Sunstein, Rules and Rulelessness, (October 1994)
+28.</p>
+          <p>David Friedman, More Justice for Less Money: A Step Beyond Cimino (December
+1994)
+Daniel Shaviro, Budget Deficits and the Intergenerational Distribution of Lifetime
+Consumption (January 1995)
+Douglas G. Baird, The Law and Economics of Contract Damages (February 1995)
+Daniel Kessler, Thomas Meites, and Geoffrey P. Miller, Explaining Deviations
+from the Fifty Percent Rule: A Multimodal Approach to the Selection of Cases for
+Litigation (March 1995)
+Geoffrey P. Miller, Das Kapital: Solvency Regulation of the American Business
+Enterprise (April 1995)
+Richard Craswell, Freedom of Contract (August 1995)
+J. Mark Ramseyer, Public Choice (November 1995)
+Kenneth W. Dam, Intellectual Property in an Age of Software and Biotechnology
+(November 1995)
+Cass R. Sunstein, Social Norms and Social Roles (January 1996)
+J. Mark Ramseyer and Eric B. Rasmusen, Judicial Independence in Civil Law
+Regimes: Econometrics from Japan (January 1996)
+Richard A. Epstein, Transaction Costs and Property Rights: Or Do Good Fences
+Make Good Neighbors? (March 1996)
+Cass R. Sunstein, The Cost-Benefit State (May 1996)
+William M. Landes and Richard A. Posner, The Economics of Legal Disputes
+Over the Ownership of Works of Art and Other Collectibles (July 1996)
+John R. Lott, Jr. and David B. Mustard, Crime, Deterrence, and Right-to-Carry
+Concealed Handguns (August 1996)
+Cass R. Sunstein, Health-Health Tradeoffs (September 1996)
+G. Baird, The Hidden Virtues of Chapter 11: An Overview of the Law and
+Economics of Financially Distressed Firms (March 1997)
+Richard A. Posner, Community, Wealth, and Equality (March 1997)
+William M. Landes, The Art of Law and Economics: An Autobiographical Essay
+(March 1997)
+Cass R. Sunstein, Behavioral Analysis of Law (April 1997)
+John R. Lott, Jr. and Kermit Daniel, Term Limits and Electoral Competitiveness:
+Evidence from California=s State Legislative Races (May 1997)
+Randal C. Picker, Simple Games in a Complex World: A Generative Approach to
+the Adoption of Norms (June 1997)
+Richard A. Epstein, Contracts Small and Contracts Large: Contract Law through
+the Lens of Laissez-Faire (August 1997)
+Cass R. Sunstein, Daniel Kahneman, and David Schkade, Assessing Punitive
+Damages (with Notes on Cognition and Valuation in Law) (December 1997)
+William M. Landes, Lawrence Lessig, and Michael E. Solimine, Judicial Influence:
+A Citation Analysis of Federal Courts of Appeals Judges (January 1998)
+John R. Lott, Jr., A Simple Explanation for Why Campaign Expenditures are
+Increasing: The Government is Getting Bigger (February 1998)
+53.
+74.</p>
+          <p>Lisa Bernstein, The Questionable Empirical Basis of Article 2=s Incorporation
+Strategy: A Preliminary Study (May 1999)
+Richard A. Epstein, Deconstructing Privacy: and Putting It Back Together Again
+(May 1999)
+William M. Landes, Winning the Art Lottery: The Economic Returns to the Ganz
+Collection (May 1999)
+Cass R. Sunstein, David Schkade, and Daniel Kahneman, Do People Want
+Optimal Deterrence? (June 1999)
+Tomas J. Philipson and Richard A. Posner, The Long-Run Growth in Obesity as a
+Function of Technological Change (June 1999)
+David A. Weisbach, Ironing Out the Flat Tax (August 1999)
+Eric A. Posner, A Theory of Contract Law under Conditions of Radical Judicial
+Error (August 1999)
+David Schkade, Cass R. Sunstein, and Daniel Kahneman, Are Juries Less Erratic
+than Individuals? Deliberation, Polarization, and Punitive Damages (September
+1999)
+Cass R. Sunstein, Nondelegation Canons (September 1999)
+Richard A. Posner, The Theory and Practice of Citations Analysis, with Special
+Reference to Law and Economics (September 1999)
+Randal C. Picker, Regulating Network Industries: A Look at Intel (October 1999)
+Cass R. Sunstein, Cognition and Cost-Benefit Analysis (October 1999)
+Douglas G. Baird and Edward R. Morrison, Optimal Timing and Legal
+Decisionmaking: The Case of the Liquidation Decision in Bankruptcy (October
+1999)
+Gertrud M. Fremling and Richard A. Posner, Market Signaling of Personal
+Characteristics (November 1999)
+Matthew D. Adler and Eric A. Posner, Implementing Cost-Benefit Analysis When
+Preferences Are Distorted (November 1999)
+Richard A. Posner, Orwell versus Huxley: Economics, Technology, Privacy, and
+Satire (November 1999)
+David A. Weisbach, Should the Tax Law Require Current Accrual of Interest on
+Derivative Financial Instruments? (December 1999)
+Cass R. Sunstein, The Law of Group Polarization (December 1999)
+Eric A. Posner, Agency Models in Law and Economics (January 2000)
+Karen Eggleston, Eric A. Posner, and Richard Zeckhauser, Simplicity and
+Complexity in Contracts (January 2000)
+Douglas G. Baird and Robert K. Rasmussen, Boyd=s Legacy and Blackstone=s
+Ghost (February 2000)
+David Schkade, Cass R. Sunstein, Daniel Kahneman, Deliberating about Dollars:
+The Severity Shift (February 2000)
+Richard A. Posner and Eric B. Rasmusen, Creating and Enforcing Norms, with
+Special Reference to Sanctions (March 2000)
+97. Douglas Lichtman, Property Rights in Emerging Platform Technologies (April
+2000)
+98. Cass R. Sunstein and Edna Ullmann-Margalit, Solidarity in Consumption (May
+2000)
+99. David A. Weisbach, An Economic Analysis of Anti-Tax Avoidance Laws (May
+2000, revised May 2002)
+100. Cass R. Sunstein, Human Behavior and the Law of Work (June 2000)
+101. William M. Landes and Richard A. Posner, Harmless Error (June 2000)
+102. Robert H. Frank and Cass R. Sunstein, Cost-Benefit Analysis and Relative</p>
+          <p>Position (August 2000)
+103. Eric A. Posner, Law and the Emotions (September 2000)
+104. Cass R. Sunstein, Cost-Benefit Default Principles (October 2000)
+105. Jack Goldsmith and Alan Sykes, The Dormant Commerce Clause and the Internet
+(November 2000)
+106. Richard A. Posner, Antitrust in the New Economy (November 2000)
+107. Douglas Lichtman, Scott Baker, and Kate Kraus, Strategic Disclosure in the Patent</p>
+          <p>System (November 2000)
+108. Jack L. Goldsmith and Eric A. Posner, Moral and Legal Rhetoric in International</p>
+          <p>Relations: A Rational Choice Perspective (November 2000)
+109. William Meadow and Cass R. Sunstein, Statistics, Not Experts (December 2000)
+110. Saul Levmore, Conjunction and Aggregation (December 2000)
+111. Saul Levmore, Puzzling Stock Options and Compensation Norms (December
+2000)
+112. Richard A. Epstein and Alan O. Sykes, The Assault on Managed Care: Vicarious</p>
+          <p>Liability, Class Actions and the Patient=s Bill of Rights (December 2000)
+113. William M. Landes, Copyright, Borrowed Images and Appropriation Art: An</p>
+          <p>Economic Approach (December 2000)
+114. Cass R. Sunstein, Switching the Default Rule (January 2001)
+115. George G. Triantis, Financial Contract Design in the World of Venture Capital
+(January 2001)
+116. Jack Goldsmith, Statutory Foreign Affairs Preemption (February 2001)
+117. Richard Hynes and Eric A. Posner, The Law and Economics of Consumer</p>
+          <p>Finance (February 2001)
+118. Cass R. Sunstein, Academic Fads and Fashions (with Special Reference to Law)
+(March 2001)
+119. Eric A. Posner, Controlling Agencies with Cost-Benefit Analysis: A Positive</p>
+          <p>Political Theory Perspective (April 2001)
+120. Douglas G. Baird, Does Bogart Still Get Scale? Rights of Publicity in the Digital</p>
+          <p>Age (April 2001)
+121. Douglas G. Baird and Robert K. Rasmussen, Control Rights, Priority Rights and
+the Conceptual Foundations of Corporate Reorganization (April 2001)
+122. David A. Weisbach, Ten Truths about Tax Shelters (May 2001)
+123.</p>
+          <p>William M. Landes, What Has the Visual Arts Rights Act of 1990 Accomplished?
+(May 2001)
+Cass R. Sunstein, Social and Economic Rights? Lessons from South Africa (May
+2001)
+Christopher Avery, Christine Jolls, Richard A. Posner, and Alvin E. Roth, The
+Market for Federal Judicial Law Clerks (June 2001)
+Douglas G. Baird and Edward R. Morrison, Bankruptcy Decision Making (June
+2001)
+Cass R. Sunstein, Regulating Risks after ATA (June 2001)
+Cass R. Sunstein, The Laws of Fear (June 2001)
+Richard A. Epstein, In and Out of Public Solution: The Hidden Perils of Property
+Transfer (July 2001)
+Randal C. Picker, Pursuing a Remedy in Microsoft: The Declining Need for
+Centralized Coordination in a Networked World (July 2001)
+Cass R. Sunstein, Daniel Kahneman, David Schkade, and Ilana Ritov, Predictably
+Incoherent Judgments (July 2001)
+Eric A. Posner, Courts Should Not Enforce Government Contracts (August 2001)
+Lisa Bernstein, Private Commercial Law in the Cotton Industry: Creating
+Cooperation through Rules, Norms, and Institutions (August 2001)
+Richard A. Epstein, The Allocation of the Commons:Parking and Stopping on the
+Commons (August 2001)
+Cass R. Sunstein, The Arithmetic of Arsenic (September 2001)
+Eric A. Posner, Richard Hynes, and Anup Malani, The Political Economy of
+Property Exemption Laws (September 2001)
+Eric A. Posner and George G. Triantis, Covenants Not to Compete from an
+Incomplete Contracts Perspective (September 2001)
+Cass R. Sunstein, Probability Neglect: Emptions, Worst Cases, and Law
+(November 2001)
+Randall S. Kroszner and Philip E. Strahan, Throwing Good Money after Bad?
+Board Connections and Conflicts in Bank Lending (December 2001)
+Alan O. Sykes, TRIPs, Pharmaceuticals, Developing Countries, and the Doha
+ASolution@ (February 2002)
+Edna Ullmann-Margalit and Cass R. Sunstein, Inequality and Indignation
+(February 2002)
+Daniel N. Shaviro and David A. Weisbach, The Fifth Circuit Gets It Wrong in
+Compaq v. Commissioner (February 2002) (Published in Tax Notes, January 28,
+2002)
+Warren F. Schwartz and Alan O. Sykes, The Economic Structure of Renegotiation
+and Dispute Resolution in the WTO/GATT System (March 2002, forthcoming
+Journal of Legal Studies 2002)
+Richard A. Epstein, HIPAA on Privacy: Its Unintended and Intended
+Consequences (March 2002, forthcoming Cato Journal, summer 2002)</p>
+        </sec>
+      </sec>
+    </sec>
+  </body><script/>
+  <back>
+    <ref-list/>
+  </back>
+</article>

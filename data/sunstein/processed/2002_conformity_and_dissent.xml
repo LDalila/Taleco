@@ -1,0 +1,1427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta/>
+    <article-meta>
+      <title-group>
+        <article-title>Conformity and Dissent</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Coase-Sandor Working Paper Series in Law</string-name>
+          <email>unbound@law.uchicago.edu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Coase-Sandor Institute for Law and Economics</institution>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <fpage>66</fpage>
+      <lpage>107</lpage>
+      <abstract>
+        <p>Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics Part of the Law Commons Recommended Citation Cass R. Sunstein, "Conformity and Dissent" ( John M. Olin Program in Law and Economics Working Paper No. 164, 2002).</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>JOHN M. OLIN LAW &amp; ECONOMICS WORKING PAPER NO. 164 (2D SERIES)</title>
+      <p>Conformity and Dissent</p>
+      <p>Cass R. Sunstein</p>
+    </sec>
+    <sec id="sec-2">
+      <title>THE LAW SCHOOL</title>
+    </sec>
+    <sec id="sec-3">
+      <title>THE UNIVERSITY OF CHICAGO</title>
+      <p>This paper can be downloaded without charge at:</p>
+      <p>The Chicago Working Paper Series Index:
+http://www.law.uchicago.edu/Lawecon/index.html</p>
+      <sec id="sec-3-1">
+        <title>Preliminary draft 9/26/02 All rights reserved</title>
+      </sec>
+    </sec>
+    <sec id="sec-4">
+      <title>Cass R. Sunstein* Abstract</title>
+      <p>Much of the time, human beings do what others do. This is perfectly sensible, because the
+actions and statements of other people convey valuable information about what should be
+done. In addition, most people want the good opinion of others, and this desire promotes
+conformity. But conformity can lead both groups and institutions in unfortunate and
+even catastrophic directions. The most serious problem is that by following others, people
+fail to disclose what they know and believe, thus depriving society of important
+information. Those who dissent, and who reject the pressures imposed by others, perform
+valuable social functions, often at their own expense, material or nonmaterial. These
+points are illustrated by reference to theoretical and empirical work on conformity,
+cascades, and group polarization. An understanding of the role of conformity and dissent
+casts new light on a variety of legal issues, including the expressive function of law; the
+institutions of the American constitution; the functions of free speech in wartime; the
+debate over the composition of the federal judiciary; and affirmative action in higher
+education.</p>
+      <p>“If I were to choose between living in a society which enjoys freedom of
+expression, but not having the right myself, or enjoying the right in a society
+which does not have it, I would have no hesitation in judging that my own
+personal interest is better served by the first option.”1
+* Karl N. Llewellyn Distinguished Service Professor of Jurisprudence, Law School and
+Department of Political Science, University of Chicago. For valuable comments, I am grateful to
+Jacob Gersen, Reid Hastie, David Hirshleifer, Christine Jolls, Catharine MacKinnon, Martha
+Nussbaum, Susan Moller Okin, Eric Posner, Richard Posner, Lior Strahilevitz, Adrian Vermeule,
+and Richard Zeckhauser.
+1 Joseph Raz, Ethics in the Public Domain 39 (1994).</p>
+      <p>“As soon as a person is in the midst of a group he is no longer indifferent
+to it. He may stand in a wholly unequivocal relation to an object when alone; but
+as soon as a group and its direction are present he ceases to be determined solely
+by his own coordinates. In some way he refers the group to himself and himself
+to the group. He might react to the group in many different ways; he might
+adopt its direction, compromise with it, or oppose it; he might even decide to
+disregard it. But even in the latter instance (which superficially seems to be an
+‘absence of group influence’) there is a clear and determined reference to the
+group as fully as in the preceding cases.”2</p>
+      <p>“Justice Marshall brought a special perspective. . . . His was the mouth of
+a man who knew the anguish of the silenced and gave them a voice. . . . I have
+been perhaps most personally affected by Justice Marshall as a raconteur . . . .
+Occasionally, at Conference meetings, I still catch myself looking expectantly for
+his raised brow and his twinkling eye, hoping to hear, just once more, another
+story that would, by and by, perhaps change the way I see the world.”3
+“A child, however, who had no important job and could only see things as
+his eyes showed them to him, went up to the carriage. ‘The Emperor is naked,’ he
+said.”4</p>
+      <p>“[W]hile individual ideology and panel composition both have important
+effects on a judge’s vote, the ideology of one’s colleagues is a better predictor of
+one’s vote than one’s own ideology.”5</p>
+    </sec>
+    <sec id="sec-5">
+      <title>I. Introduction</title>
+      <p>How do people influence each other? What are the social functions of
+dissenters, malcontents, and skeptics? How do the answers to these questions
+bear on law and policy, and on the design of private and public institutions?</p>
+      <sec id="sec-5-1">
+        <title>Consider some clues:</title>
+        <p>2 Solomon Asch, Social Psychology 483 (1952).
+3 See Sandra Day O’Connor, Thurgood Marshall: The Influence of a Raconteur, 44 Stan. L. Rev.
+1217, 1217, 1220 (1992).
+4 See Hans Christian Anderson, The Emperor’s New Suit, in Hans Christian Anderson, Shorter
+Tales (Jean Hersholt trans. 1948; originally published 1837).
+5 Richard L. Revesz, Environmental Regulation, Ideology, and the DC Circuit, 83 Va L Rev 1717,
+1764 (1997).
+—A large number of judicial votes and decisions were investigated to see
+if it matters whether a panel, on a federal court of appeals, includes two judges,
+or instead three, appointed by a President of the same party.6 It is tempting to
+suggest that this should not matter at all; two judges, after all, are able to
+produce a majority decision. But this suggestion turns out to be wrong. A panel
+with three judges appointed by Republican presidents is much more likely than a
+panel with two to reverse an environmental decision at the behest of an industry
+challenger.7 A group of three like-minded judges behaves very differently from a
+group with more diverse views. No less remarkably, a single Democratic judge,
+sitting with two Republicans, turns out to be more likely to vote in favor of an
+industry challenge to a regulation than a single Republican, sitting with two
+Democrats.8 It is not entirely wrong to conclude that when sitting with
+Republicans, Democratic judges vote like Republicans, and that when sitting
+with Democrats, Republican judges vote like Democrats. But this conclusion is
+itself misleading, because how Democrats vote, and how Republicans vote, is
+very much dependent on whether they are sitting with one or two judges
+appointed by presidents of the same party.9</p>
+        <p>—Ordinary citizens were asked to say, as individuals, how much a
+defendant should be punished for specified misconduct.10 Their responses were
+measured on a scale of 0 to 8, where 0 meant no punishment at all and 8 meant
+“extremely severe” punishment.11 After recording their individual judgments,
+people were sorted into six-person juries, which were asked to deliberate and to
+reach unanimous verdicts. When the individual jurors favored little punishment,
+the group showed a "leniency shift," meaning a rating that was systematically
+lower than the median rating of individual members before they started to talk
+6 The statements in this paragraph are based on my independent research, presented below, and
+on Richard L. Revesz, Environmental Regulation, Ideology, and the DC Circuit, 83 Va L Rev 1717,
+1755 (1997). To the same effect, see Frank Cross and Emerson Tiller, Judicial Partisanship and
+Obedience to Legal Doctrine, 107 Yale LJ 2155 (1998) (finding that a panel of three Republican
+judges is far more likely to reject agency action, in order to reach a conclusion that would be
+predicted of that panel on political grounds, than a panel of two Republicans and one Democrat).
+7 See the data discussed below; see also Revesz, supra note, at 1754-55 (also finding that a panel of
+three judges appointed by the president of the same party behaves differently from a panel with
+judges appointed by presidents of different parties) .
+8 See id. at 1752.
+9 Id. at 1752, 1754.
+10 See David Schkade, Cass R. Sunstein, and Daniel Kahneman, Deliberating About Dollars, 100
+Colum L Rev 1139 (2001).
+11 Id. at 1150.
+with one another.12 But when individual jurors favored strong punishment, the
+group as a whole produced a "severity shift," meaning a rating that was
+systematically higher than the median rating of individual members before they
+started to talk.13 The direction and the extent of the shift were determined by the
+median ranking of individual jurors, and because one or two dissenters from the
+majority view could shift the median, they could make a significant difference.</p>
+        <p>My principal claim in this Article is that for each of us, conformity is often
+a rational course of action, but when all or most of us conform, society can end
+up making large mistakes. One reason we conform is that we often lack much
+information of our own, and the decisions of others provide the best available
+information about what should be done.14 The central problem is that
+widespread conformity deprives the public of information that it needs to have.
+Conformists are often thought to be protective of social interests, keeping quiet
+for the sake of the group, while dissenters tend to be seen as selfish
+individualists, embarking on projects of their own. But in an important sense, the
+opposite is closer to the truth. In many situations, dissenters benefit others, while
+conformists benefit themselves.</p>
+        <p>In a well-functioning democracy, institutions reduce the risks that
+accompany conformity, in part because they meet conformity with dissent, and
+hence increase the likelihood that more information will emerge, to the benefit of
+all. A high-level official during World War II attributed the successes of the
+Allies, and the failures of Hitler and the other Axis powers, to the greater ability
+of citizens in democracies to scrutinize and dissent, and hence to improve past
+and proposed courses of action.15 Dissent and scrutiny were possible because
+skeptics were not punished by the law and because informal punishments, in the
+form of social pressures, were relatively weak. I will suggest that an
+understanding of group influences, and their potentially harmful effects, casts
+new light on a wide range of issues, including the nature of the American
+12 Id. at 1152, 1154-55.
+13 Id.
+14 See the discussion of imitation as a fast and frugal heuristic in Joseph Henrich et al., What Is the
+Role of Culture in Bounded Rationality, in Bounded Rationality: The Adaptive Toolbox 343, 344
+(Gerd Gigerenzer and Richard Selten eds. 2002) (“Cultural transmission capacities allow
+individuals to shortcut the costs of search, experimentation, and data processing algorithms, and
+instead benefit from the cumulative experience stored in the minds (and observed in the
+behavior) of others.”).
+15 See Luther Gulick, Administrative Reflections from World War II (1948). Irving Janis,
+Groupthink (2d ed. 1985), can be seen as a generalization of this theme.
+constitutional structure; the functions of bicameralism; the sources of ethnic
+hostility and political radicalism; the importance of civil liberties in wartime and
+during social panics and witch-hunts; the performance of juries; the effects of
+diversity on the federal judiciary; affirmative action in higher education; and the
+potentially large consequences of law even when it is never enforced.</p>
+        <p>Throughout I focus on two influences on individual belief and behavior.
+The first involves the information conveyed by the actions and statements of
+other people. If a number of people seem to believe that some proposition is true,
+there is reason to believe that that proposition is in fact true. Most of what we
+think—about facts, morality, and law—is a product not of first-hand knowledge,
+but of what we learn from what others do and think. This is true even though
+they too may be merely following the crowd. As we shall see, this phenomenon
+can create serious problems for the system of precedent, as when courts of
+appeals follow previous courts that are in turn following their predecessors,
+creating a danger of widespread, self-perpetuating error. And of course some
+people have more influence than others, simply because the decisions of those
+people convey more information; we are especially likely to follow those who
+have special expertise, those who seem most like us, those who fare best, or those
+whom we otherwise have reason to trust.16</p>
+        <p>The second influence is the pervasive human desire to have and to retain
+the good opinion of others. If a number of people seem to believe something,
+there is reason not to disagree with them, at least not in public. The desire to
+maintain the good opinion of others breeds conformity and squelches dissent,
+especially but not only in groups that are connected by bonds of affection, which
+can therefore impair group performance. We shall see that close-knit groups,
+discouraging conflict and disagreement, often do badly for that very reason. In
+any case much of human behavior is a product of social influences. For example,
+employees are far more likely to file suit if members of the same workgroup have
+also done so17; teenage girls who see that other teenagers are having children are
+more likely to become pregnant themselves18; the perceived behavior of others
+16 See Daniel Goldstein et al., Why and When Do Simple Heuristics Work?, in Bounded
+Rationality, note supra, at 174–76; Robert Boyd and Peter Richerson, Norms and Bounded
+Rationality, in id. at 284–87.
+17 See Harold H. Gardner, Nathan L. Kleinman, and Richard J. Butler, Workers’ Compensation
+and Family and Medical Leave Act Claim Contagion, 20 J Risk and Uncertainty 89, 101–110 (2000)
+18 See, e.g., George A. Akerlof, Janet L. Yellen &amp; Michael L. Katz, An Analysis of Out-of-Wedlock
+Childbearing in the United States, 111 Q.J. Econ. 277 (1996).
+has a large effect on the level of violent crime19; broadcasters mimic one another,
+producing otherwise inexplicable fads in programming20; lower courts
+sometimes do the same, especially in highly technical areas, and hence judicial
+mistakes may never be corrected.21</p>
+        <p>We should not lament social influences or wish them away. Much of the
+time, people do better when they take close account of what others do. Some of
+the time, we even do best to follow others blindly. But social influences also
+diminish the total level of information within any group, and they threaten,
+much of the time, to lead individuals and institutions in the wrong directions.
+Dissent can be an important corrective; many groups and institutions have too
+little of it.22 As we shall see, conformists are free-riders, whereas dissenters often
+confer benefits on others; and it is tempting to free-ride. As we shall also see,
+social pressures are likely to lead groups of like-minded people to extreme
+positions. When groups become caught up in hatred and violence, it is rarely
+because of economic deprivation23 or primordial suspicions24; it is far more often
+a product of the informational and reputational influences discussed here.25
+Indeed, unjustified extremism frequently results from a “crippled epistemology,”
+in which extremists react to a small subset of relevant information, coming
+mostly from one another.26
+19 See Edward Glaeser, E. Sacerdote, and Jose Scheinkman, Crime and Social Interactions, 111
+Quarterly Journal of Economics 507 (1996).
+20 See Robert Kennedy, Strategy Fads and Strategic Positioning: An Empirical Test for Herd
+Behavior in Prime-Time Television Programming, J. Industrial Economics (2002).
+21 See Andrew F. Daughtety and Jennifer F. Reinganum, Stampede to Judgment, 1 Am Law and
+Ec. Rev. 158 (1999).
+22 Hence Mill’s claim that “the peculiar evil of silencing the expression of an opinion is, that it is
+robbing the human race; posterity as well as the existing generation; those who dissent from the
+opinion, stil more than those who hold it. If the opinion is right, they are deprived of the
+opportunity of exchanging error for truth; if wrong, they lose, what is almost as great a benefit,
+the clearer perception and livelier impression of truth, produced by its collision with error.” John
+Stuart Mill, On Liberty, in John Stuart Mill, Utilitarianism, On Liberty, Considerations on
+Representative Government 85 (H.B. Acton ed. 1972)
+23 See Alan B. Krueger and Jitka Maleckova, Education, Poverty, Political Violence and Terrorism:
+Is There a Causal Connection? (unpublished manuscript 2002).
+24 See Timur Kuran, Ethnic Norms and Their Transformation Through Reputational Cascades, 27
+J Legal Stud 623, 648 (1998).
+25 See Cass R. Sunstein, Why They Hate Us: The Role of Social Dynamics, 25 Harv J Law and
+Public Policy 429 (2002).
+26 See Russell Hardin, The Crippled Epistemology of Extremism, in Political Rationality and
+Extremism 3, 16 (Albert Breton et al. eds. 2002).</p>
+        <p>Similar processes occur in less dramatic forms. Many large-scale shifts
+within legislatures, bureaucracies, and courts are best explained by reference to
+social influences. When a legislature suddenly shows concern with some
+formerly neglected problem—for example, hazardous waste dumps or corporate
+misconduct—the concern is often a product of conformity effects, not of real
+engagement with the problem. Of course the new concern might be justified. But
+if social influences are encouraging people to conceal information that they have,
+or if the blind are leading the blind, serious problems are likely. There is a further
+point. With relatively small "shocks," similar groups can be lead, by social
+pressures, to dramatically different beliefs and actions. When societies differ, or
+when large-scale changes occur over time, the reason often lies not where we
+usually look, but in small and sometimes elusive factors.27</p>
+        <p>An appreciation of informational influences, and of people’s concern for
+the good opinion of others, helps to show how, and when, law can alter behavior
+without being enforced—and merely by virtue of the signal that it provides.28
+The central point here is that law can provide reliable evidence both about what
+should be done and about what most people think should be done. In either case,
+it can convey a great deal of relevant information.29 Consider bans on public
+smoking and on sexual harassment. If people think that the law is speaking for
+the view of most or all, potential violators are less likely to engage in smoke or to
+engage in sexual harassment. Potential victims are also more likely to take the
+steps to enforce the law privately, as, for example, through reminding people of
+their legal responsibilities, and insisting that violators come into compliance. In
+this light we can better understand the much-disputed claim that the law has an
+“expressive function.”30 By virtue of that function, law can even stop or
+27 See Joseph Henrich, What is the Role of Culture in Bounded Rationality?, in Bounded
+Rationality: The Adaptive Toolbox 353-54 (2001), for an entertaining outline in connection with
+food choice decisions. For example: “Many Germans believe that drinking water after eating
+cherries is deadly; they also believe that putting ice in soft drinks is unhealthy. The English,
+however, rather enjoy a cold drink of water after some cherries; and Americans love icy
+refreshments. ” Id. at 353. See also Paul Omerod, Butterfly Economics (1993), for a popular
+account.
+28 See Robert Kagan and Jerome Skolnick, Banning Smoking: Compliance Without Enforcement,
+in Smoking Policy (Robert Rabin and Stephen Sugarman eds.) (New York: Oxford University
+Press, 1993).
+29 See Richard McAdams, Norms Theory: An Attitudinal Theory of Expressive Law, 79 Oregon L.
+Rev. 339 (2000).
+30 Mathew Adler, Expressivist Theories of Law: A Skeptical Overview, 148 U Pa L Rev 1363
+(2000); Symposium, The Expressive Dimension of Governmental Action: Philosophical and Legal
+Perspectives, 60 Maryland L. Rev. 465 (2001).
+accelerate a social cascade.31 Here too the areas of cigarette smoking and sexual
+harassment are relevant examples. But if would-be violators are part of a
+dissident subcommunity, they might well be able to resist law’s expressive effect;
+fellow dissidents can band together and encourage one another to violate the
+law. Indeed, informational and reputational factors can even encourage
+widespread noncompliance, as, for example, in drug use and failure to comply
+with the tax laws.32 The law’s expressive power is partly a function of its moral
+authority, and when law lacks that authority within a subcommunity, its signal
+may be irrelevant or even counterproductive.</p>
+        <p>This Article is divided into seven parts. Parts II, III, and IV investigate
+social science evidence involving, respectively, conformity, cascades, and group
+polarization. A unifying theme is that in all three contexts, individuals are
+suppressing their private signals—about what is true and what is right—and that
+this suppression can cause significant social harm. Groups of like-minded people
+are especially vulnerable on this count. Part V focuses on the expressive function
+of law and in particular on the phenomenon of “compliance without
+enforcement.” Part VI catalogues some implications of social influences for
+constitutionalism, judicial confirmations, and affirmative action in higher
+education. Here I urge that the principal contribution of the framers of the
+American Constitution lay not in their endorsement of deliberative democracy,
+but in their insistence that diversity is an affirmative good, likely to improve
+deliberation. This enthusiasm for diversity helps account for the systems of
+checks and balances and federalism. I also suggest that it is important to attempt
+to provide a mix of views on the federal bench; indeed, consideration should be
+given to increasing the likelihood that panels, on courts of appeals, contain
+judges appointed by president of different parties. I urge as well that in those
+cases in which racial diversity will improve discussion, it is entirely legitimate
+for colleges and universities to attempt to promote racial diversity. Part VII is a
+brief conclusion.</p>
+        <p>II.</p>
+      </sec>
+    </sec>
+    <sec id="sec-6">
+      <title>Conformity and Independence</title>
+      <p>Why, and when, do people do what others do? To answer this question,
+we need to distinguish between hard questions and easy ones. Intuition suggests
+31 See Dan Kahan, Gentle Nudges vs. Hard Shoves: Solving the Sticky Norms Problem, 67 U. Chi.
+L. Rev 607 (2000).
+32 See Robert Kagan and Jerome Skolnick, in Banning Smoking: Compliance Without
+Enforcement, in Smoking Policy: Law, Politics, and Culture 78 (Robert Radin ed. 1999).
+that when people are confident that they are right, they will be more willing to
+do what they think best and to reject the views of the crowd. Several sets of
+experiments confirm this intuition, but they also offer some significant twists.
+Most important, they suggest three points that I will emphasize throughout:
+1. Those who are confident and firm will have particular influence, and can lead
+otherwise identical groups in dramatically different directions.33
+2. People are extremely vulnerable to the unanimous views of others and hence
+a single dissenter, or voice of sanity, is likely to have a huge impact.34
+3. If people are, by our lights, from some kind of “out group,” they are far less
+likely to influence us, even on the simplest questions.35 And if people are part
+of a group to which we also belong, they are far more likely to influence us,
+on both easy and hard questions.36</p>
+      <p>My ultimate goal is to see how these points bear on the behavior of those
+involved in making, enforcing, and interpreting law. But let us begin by
+reviewing some classic studies.</p>
+    </sec>
+    <sec id="sec-7">
+      <title>A. Hard Questions</title>
+      <p>In the 1930s, the psychologist Muzafer Sherif conducted some simple
+experiments on sensory perception.37 Subjects were placed in a very dark room
+and a small pinpoint of light was positioned at some distance in front of them.
+Because of a perceptual illusion, the light, which was actually stationary,
+appeared to move. On each of several trials, Sherif asked people to estimate the
+distance that the light had moved. When polled individually, subjects did not
+agree with one another, and their answers varied from one trial to another. This
+is not surprising; because the light did not move, any judgment about distance
+was a stab in the dark. But Sherif found some striking results when subjects were
+33 See p. below.
+34 See p. below. Note a parallel finding: A minority is especially likely to have influence if it
+consists of more than one person and if all members of the minority group are in basic
+agreement. See Robert Baron et al., Group Process, Group Decision, Group Action 81-82 (1999).
+35 Dominic Abrams et al., Knowing What to think By Knowing Who You Are: Self-Categorization
+and he Nature of Norm Formation, Conformity, and Group Polarization, 29 British J. Soc. Psych.
+97 (1990). Group membership and self-categorization are emphasized in John Turner et al.,
+Rediscovering the Social Group: A Self-Categorization Theory 42-67 (1987).
+36 Dominic Abrams et al., supra note, at 97-110.
+37 Muzafer Sherif, An Experimental Approach to the Study of Attitudes, 1 Sociometry 90 (1937). A
+good outline can be found in Lee Ross and Richard Nisbet, The Person and the Situation 28-30
+(1991).
+asked to act in small groups. Here the individual judgments converged and a
+group norm, establishing the right distance, quickly developed. Indeed, the norm
+remained stable within groups across different trials, thus leading to a situation
+in which different groups made, and were committed to, quite different
+judgments.38 There is an important clue here about how similar groups, indeed
+similar nations, can converge on very different beliefs and actions simply
+because of modest and even arbitrary variations in starting points.</p>
+      <p>When Sherif added a confederate—his own ally, unbeknownst to
+subjects—something else happened.39 The judgment of the confederate, typically
+much higher or much lower than those made by individual subjects, helped
+produced correspondingly higher or lower judgments within the group. The
+large lesson is that at least in cases involving difficult questions of fact,
+judgments “could be imposed by an individual who had no coercive power and
+no special claim to expertise, only a willingness to be consistent and unwavering
+in the face of others’ uncertainty.”40 Perhaps more remarkable still, the group’s
+judgments became thoroughly internalized, so that subjects would adhere to
+them even when reporting on their own, even a year later, and even when
+participating in new groups whose members offered different judgments.41 The
+initial judgments were also found to have effects across “generations.” In an
+experiment in which fresh subjects were introduced and others retired, so that
+eventually all participants were new to the situation, the original group
+judgment tended to stick, even after the person who was originally responsible
+for it had been long gone.42</p>
+      <p>What accounts for these results? The most obvious answer points to the
+informational influences produced by other people’s judgments. After all, the
+apparent movements are a perceptual illusion, and the system of perception does
+not readily assign distances to those movements. In those circumstances, people
+are especially likely to be swayed by a confident and consistent group member.
+This finding has implications outside of the laboratory and for classrooms,
+courtrooms, bureaucracies, and legislatures. If uninformed people are trying to
+decide whether global warming is a serious problem, or whether they should be
+38 Id. at 29.
+39 Id.
+40 Id.
+41 Id.
+42 Id. at 29-30.
+concerned about existing levels of arsenic in drinking water, they are likely to be
+responsive to the views of confident and consistent others.43</p>
+      <p>What is true for factual issues is true for moral, political, and legal issues
+as well. Suppose that a group of legislators is trying to decide how to handle a
+highly technical issue. If a “confederate” is planted among the group, showing
+considerable confidence, she is highly likely to be able to move the group in his
+preferred direction. So too if she is not a confederate at all, but simply an
+ordinary legislator with great confidence on the issue at hand. If judges are
+trying to resolve a complex issue on which they lack certainty, they too are
+vulnerable to conformity effects.44 And for judicial panels as well, Sherif-type
+effects can be expected on technical matters if one judge is confident and seems
+expert. The problem is that the so-called specialists may have biases and agendas
+of their own, leading to large errors. Note that there is an important qualification
+to these claims, to which I will return: Sherif’s conformity findings significantly
+decrease if the experimenter uses a confederate whose membership in a different
+social group is made salient to subjects.45</p>
+    </sec>
+    <sec id="sec-8">
+      <title>B. Easy Questions</title>
+      <p>But what if perception does provide reliable guidance? What if people
+have good reason to know the right answer? The leading experiments, conducted
+by Solomon Asch, explored whether people would be willing to overlook the
+apparently unambiguous evidence of their own senses.46 In these experiments,
+the subject was placed into a group of seven to nine people who seemed to be
+other subjects in the experiment but who were actually Asch’s confederates. The
+simple task was to “match” a particular line, shown on a large white card, to one
+of the three “comparison lines” that was identical to it in length. The two
+nonmatching lines were substantially different, with the differential varying from an
+inch and three quarters to three quarters of an inch.
+43 See the discussion of authority in Robert Cialdini, Influence: The Psychology of Persuasion
+20836 (1993). For evidence that minority views can be influential if they are held by consistent,
+confident people, see Robert Bray et al., Social Influence By Group Members With Minority
+Opinions, 43 J Personality and Social Psych. 78 (1982).
+44 See section below.
+45 Abrams, supra note, at 99-104.
+46 See the overview in Solomon Asch, Opinions and Social Pressure, in Readings About the Social
+Animal 13 (Elliott Aronson ed. 1995).</p>
+      <p>In the first two rounds of the Asch experiments, everyone agrees about the
+right answer. “The discriminations are simple; each individual monotonously
+calls out the same judgment.”47 But “suddenly this harmony is disturbed at the
+third round.”48 All other group members make what is obviously, to the subject
+and to any reasonable person, a clear error, matching the line at issue to one that
+is conspicuously longer or shorter. In these circumstances, the subject, in all cases
+showing initial confusion and disbelief at the apparent mistakes of others, has a
+choice: He can maintain his independent judgment or instead accept the view of
+the unanimous majority. A large number of people end up yielding at least once
+in a series of trials. When asked to decide on their own, subjects erred less than
+1% of the time; but in rounds in which group pressure supported the incorrect
+answer, subjects erred 36.8% of the time.49 Indeed, in a series of twelve questions,
+no less than 70% of subjects went along with the group, and defied the evidence
+of their own senses, at least once.50 Conformity experiments of this kind have
+now produced 133 total sets of results from seventeen countries, including Zaire,
+Germany, France, Japan, Lebanon, and Kuwait.51 A meta-analysis of these studies
+uncovers a variety of refinements on Asch’s basic findings, but his basic
+conclusion has held up. For all results, the mean percentage error is 29%.52 People
+in some nations, with “conformist” cultures, do err more than people in other
+nations, with more “individualist” cultures.53 The variations are real, but the
+overall pattern of errors—with subjects conforming between 20% and 40% of the
+time—does not show huge differences across nations.</p>
+      <p>Note that Asch’s findings contain two conflicting lessons. First, a
+significant number of people are independent all or much of the time. About 25%
+of people are consistently independent,54 and about two-thirds of total individual
+answers do not conform. Hence “there is evidence of extreme individual
+differences” in susceptibility to group influences, with some subjects remaining
+completely independent, and others “going with the majority without
+exception.”55 While independent subjects “present a striking spectacle to an
+47 Solomon Asch, Social Psychology 453 (1952).
+48 Asch, Opinion and Social Pressures, supra note, at 13.
+49 Id. at 16.
+50 Id.
+51 See Rod Bond and Peter Smith, Culture and Conformity: A Meta-Analysis of Studies Using
+Asch’s Line Judgment Task, 119 Psych. Bulletin 111, 116 (1996).
+52 Id. at 118.
+53 Id. at 128.
+54 Ronald Friend et al., A Puzzling Misinterpretation of the Asch “Conformity” Study, 20
+European J of Social Psych 29, 37 (1990).
+55 Solomon Asch, Social Psychology, supra note, at 457-58.
+observer,” giving “the appearance of being unshakable,”56 other people show a
+great deal of anxiety and confusion.57 Second, most subjects, at least some of the
+time, are willing to yield to the group even on an apparently easy question on
+which they have direct and unambiguous evidence. For present purposes, the
+latter finding is the most important.</p>
+    </sec>
+    <sec id="sec-9">
+      <title>C. Reasons and Blunders</title>
+      <p>Why do people sometimes ignore the evidence of their own senses? The
+two principal explanations involve information and peer pressure. Some of
+Asch’s subjects seem to have thought that the unanimous confederates must be
+right; but other people, though believing that group members were
+unaccountably mistaken, were unwilling to make, in public, what those members
+would see as an error. In Asch’s own studies, several conformists said, in private
+interviews, that their own opinions must have been wrong58—a point that
+suggests that information, rather than peer pressure, is what was moving them.59
+This informational account is strengthened by one study in which people
+recorded their answers anonymously but gave nearly as many wrong answers as
+they had under Asch’s own conditions.60 A similar study finds that conformity is
+not lower when the subject’s response is unavailable to the majority.61 On the
+other hand, these are unusual results, and experimenters generally find
+significantly reduced error, in the same basic circumstances as Asch’s
+experiments, when the subject is asked to give a purely private answer.62 In the
+same way, easily identifiable conformity or deviation has been found to produce
+higher conformity.63 These findings suggest that peer pressure matters as well.</p>
+      <p>Asch’s own conclusion was that his results raised the possibility that “the
+social process is polluted” by the “dominance of conformity.”64 He added, “That
+we have found the tendency to conformity in our society so strong that
+reasonably intelligent and well-meaning young people are willing to call white
+56 Id. at 466.
+57 Id. at 470.
+58 See Asch, supra.
+59 It would be possible to question this explanation, however, on the ground that some of these
+conformists might have been embarrassed to admit that they were vulnerable to peer influence,
+entirely apart from a belief that the peers might have been right.
+60 See Robert Shiller, Irrational Exuberance 149-50 (2000).
+61 Bond and Smith, supra note, at 124.
+62 See Aronson, supra note, at 23-24.
+63 See Robert Baron et al., Group Process, Group Decision, Group Action 66 (1999).
+64 Asch, supra note, at 21.
+black is a matter of concern.”65 As I have noted, Asch’s experiments produce
+broadly similar findings across nations, and so in Asch’s sentence just quoted,
+the word “society” could well be replaced with the word “world.” But I want to
+stress another point here: Many people are not willing to disclose their own
+information to the group, even though it is in the group’s interest, most of the
+time, to learn what it is known or thought by individual members. To see this
+point, imagine a group almost all of whose members believe something to be
+true even though it is false. Imagine too that one member of the group, or a very
+few members of the group, know the truth. Are they likely to correct the
+dominant view? If Asch’s findings generalize, the answer is that they may not be.
+They are not reticent because they are irrational. They are making is a perfectly
+sensible response to the simple fact that the dominant view is otherwise—a fact
+that suggests either that the small minority is wrong or that they are likely to risk
+their own reputations if they insist that they are right. As we shall see, Asch’s
+findings help explain why groups can end up making unfortunate and even
+selfdestructive decisions.</p>
+      <p>Would those findings apply to judgments about morality, policy, and
+law? It seems jarring to think that people would yield to a unanimous group
+when the question involves a moral, political, or legal issue on which they have
+great confidence. But if Asch is correct, such yielding should be expected, at least
+some of the time. We will find powerful evidence that this happens within
+federal courts of appeals.66 The deadening effect of public opinion was of course
+a central concern of John Stuart Mill, who insisted that protection “against the
+tyranny of the magistrate is not enough,” and that it was also important to
+protect “against the tyranny of the prevailing opinion and feeling; against the
+tendency of society to impose, by other mans than civil penalties, its own ideas
+and practices as rules of conduct on those who dissent from them . . .”67 Mill’s
+focus here is on the adverse effects of coerced conformity not only on the
+individuals who are thus tyrannized, but also on society itself, which is deprived
+of important information.68
+65 Id.
+66 See below.
+67 John Stuart Mill, On Liberty, in John Stuart Mill, Utilitarianism, On Liberty, Considerations on
+Representative Government 73 (H.B. Acton ed. 1972).
+68 See id. at 72-76.</p>
+    </sec>
+    <sec id="sec-10">
+      <title>D. How To Increase (or Decrease) Conformity</title>
+      <p>What factors increase or decrease conformity? Consistent with Sherif’s
+findings, people are less likely to conform if they have high social status or are
+extremely confident about their own views.69 They are more likely to conform if
+the task is difficult or if they are frightened.70 Consider also the following:
+1. Financial rewards for correct answers affect performance, and in two
+different ways.71 When people stand to make money if they are right, the rate of
+conformity is significantly decreased in the same basic condition as the Asch
+experiments, if the task is easy. People are less willing to follow group members
+when they stand to profit from a correct answer. But there is a striking difference
+when the experiments are altered to make the underlying task difficult. In that
+event, a financial incentive, rewarding correct answers, actually increases
+conformity. People are more willing to follow to crowd when they stand to profit
+from a correct answer if the question is hard. Perhaps most strikingly, the level of
+conformity is about the same, when financial incentives were absent, in
+lowdifficulty and high-difficulty tasks—but the introduction of financial rewards
+splits the results on those tasks dramatically apart, with significantly decreased
+conformity for low-difficulty tasks and significantly-increased conformity for
+high-difficulty tasks.72</p>
+      <p>These results have simple explanations. A certain number of people, in the
+Asch experiments, actually know the right answer, and give conforming answers
+only because it is not worthwhile to reject the shared view of others in public.
+But when a financial incentive is offered, peer pressure is outweighed by the
+possibility of material gain. The simple lesson here is that an economic reward
+can counteract the effects of social pressures. By contrast, difficult tasks leave
+people with a great deal of uncertainty about whether they are right. In such
+circumstances, people are all the more likely to give weight to the views of
+others, simply because those views are the most reliable source of information.
+Consider in this regard the parallel finding that people’s confidence in their own
+judgments is directly related to the confidence shown by the experimenter’s
+confederates.73 When the confederates act with confidence and enthusiasm,
+69 See Robert Baron et al., Group Process, Group Decision, Group Action 66 (1999).
+70 Id.
+71 See Robert Baron et al., The Forgotten Variable in Conformity Research: Impact of Task
+Importance on Social Influence, 71 J Personality and Social Psych. 915 (1996).
+72 Id. at 923.
+73 Id.
+subjects also show heightened confidence in their judgments, even when they
+were simply following the crowd. Consider also the general claim that imitation
+of most other people can operate as a kind of fast and frugal heuristic, one that
+works well for many creatures, including human beings, in a wide variety of
+settings.74 Like most heuristics, the imitation heuristic, while generally sensible
+and often the best available, also produces errors in many situations.75</p>
+      <p>There is a disturbing implication. A “majority consensus” is “often
+capable of misleading individuals into inaccurate, irrational, or unjustified
+judgments.” Such a consensus “can also produce heightened confidence in such
+judgments as well.” 76 It follows that “so long as the judgments are difficult or
+ambiguous, and the influencing agents are united and confident, increasing the
+importance of accuracy will heighten confidence as well as conformity—a
+dangerous combination.”77 The point very much bears on the sources of
+unjustified extremism, especially under circumstances in which countervailing
+information is unavailable.78 The same point helps explain group influences
+within the federal courts.79</p>
+      <p>2. Asch’s original studies found that varying the size of the group of
+confederates, unanimously making the erroneous decision, mattered only up to a
+number of three; increases from that point had little effect.80 Using one
+confederate did not increase subjects’ errors at all; using two confederates
+increased errors to 13.6%; and using from three confederates increased error to
+31.8%, not substantially different from the level that emerged from further
+increases in group size. But Asch’s own findings appear unusual on this count.
+Subsequent studies have found that, contrary to Asch’s own findings, increases
+in the size of the group of confederates usually do increase conformity.81</p>
+      <p>More significantly, a modest variation in the experimental conditions
+made all the difference: the existence of at least one compatriot, or voice of
+sanity, dramatically reduced both conformity and error. When one confederate
+74 See Daniel Goldstein et al., Why and When Do Simple Heuristics Work?, in Bounded
+Rationality, supra note, at 174.
+75 See id.
+76 Baron et al., supra note, at 925.
+77 Id. at 925.
+78 See Hardin, supra note.
+79 See below.
+80 Asch, supra note.
+81 Baron, supra note, at 119-20.
+made a correct match, errors were reduced by three-quarters, even if there was a
+strong majority the other way.82 There is a clear implication here: If a group is
+embarking on an unfortunate course of action, a single dissenter might be able to
+turn it around, by energizing ambivalent group members who would otherwise
+follow the crowd. It follows that affective ties among members, making even a
+single dissent less likely, might well undermine the performance of groups and
+institutions. Consider here a study of the performance of investment clubs—
+small groups of people who pool their money to make joint decisions about stock
+market investments.83 The worst-performing clubs were built on affective ties
+and primarily social; the best-performing clubs limited social connections and
+were focused on increasing returns. Dissent was far more frequent in the
+highperforming clubs. The low performers usually had unanimous votes, with little
+open debate. The problem is that the votes in low performing groups were “cast
+to build social cohesion rather than to make the best financial choice.”84 In short,
+conformity resulted in significantly lower returns.</p>
+      <p>3. Much depends on the subject’s perceived relationship to the
+experimenters’ confederates and in particular on whether the subject considers
+himself part of the same group in which those confederates fall. If the subject
+identified himself as a member of a different group from the majority, the
+conformity effect is greatly reduced.85 People are especially likely to conform
+when the group consists of people whom subjects like or admire, or otherwise
+identify with.86 The general point explains why group membership is often
+emphasized by those who seek to increase or decrease the influence of a certain
+point of view. Perhaps an advocate can be discredited, without the relevant
+group, by showing that he is a “conservative” or a “liberal,” prone to offer
+unacceptable views.</p>
+      <p>Thus conformity—and hence error—is dramatically increased, in public
+statements, when the subject perceives himself as part of a reasonably discrete
+82 Id. at 18. The finding here is reminiscent of the tale of The Emperor’s New Clothes, in which a
+single voice of sanity was necessary and sufficient to expose the truth. See Hans Christian
+Anderson, The Emperor’s New Suit, in Hans Christian Anderson, Shorter Tales (Jean Hersholt
+trans. 1948; originally published 1837).
+83 Brooke Harrington, Cohesion, Conflict and Group Demography (unpublished manuscript
+2000),
+84 Id.
+85 Dominic Abrams et al., Knowing What To Think By Knowing Who You Are, 29 Brit J Soc Psych
+97, 104-110 (1990).
+86 Baron et al., supra, at 66. The point is stressed at various places in Turner, supra note; see, e.g.,
+pp. 151-170.
+group that includes the experimenter’s confederates (all, like himself, psychology
+majors, for example).87 By contrast, conformity is dramatically decreased, and
+hence error is also dramatically decreased, in public statements when the subject
+perceives himself as in a different group from the experimenter’s confederates
+(all but himself ancient history majors, for example).88 Notably, private opinions,
+expressed anonymously afterwards, were about the same whether or not the
+subject perceived himself as a member of the same group as others in the
+experiment. And people who thought that they were members of the same group
+as the experimenter’s confederates gave far more accurate answers, and far less
+conforming answers, when they were speaking privately.89 In the real world,
+would-be dissenters might silence themselves partly when and because they
+trust group members to be right, partly because they do not want to risk the
+opprobrium of like-minded others, and partly because they fear that they will,
+through their dissent, weaken the effectiveness and reputation of the group to
+which they belong. There is a large lesson here. Publicly expressed statements,
+showing agreement with a majority view, may be both wrong and insincere,
+especially when relevant speakers identify themselves as members of the same
+group as the majority.90 The finding of heightened conformity is linked with
+evidence of poor performance by groups whose members are connected by
+87 Dominic Abrams et al., Knowing What To Think By Knowing Who You Are, 29 Brit J Soc Psych
+97, 106-08 (1990).
+88 Id.
+89 See Abrams et al., supra note, at 108. By contrast, people who thought that they were members
+of a different group actually gave more accurate, nonconforming answers when speaking
+publicly, which creates an interesting puzzle: Why was there more accuracy in public than in
+private statements? The puzzle is solved if we consider the likelihood that subjects could consider
+it an affirmative good to disagree with people from another group (even if they secretly
+suspected that those people might be right). In the real world, this effect may well be heightened
+when people are asked whether they agree with opponents or antagonists; they might well say
+“no” even when the answer is “yes,” simply because agreement carries costs, either to reputation
+or to self-conception.</p>
+      <p>There is a noteworthy finding about the nature of minority influences: They have a
+larger impact on people’s privately expressed views than on their publicly expressed views. See
+Baron et al., supra note, at 79-80. For example, minority members who express enthusiasm for
+gay rights, or opposition to gay rights, affect anonymous opinions more than publicly stated
+opinions. See id. at 80. This point has obvious implications for the effects of secret votes and
+ballots.
+90 Consider the fact that the least conformity, and the greatest accuracy, was found when people
+who thought of themselves in a different group were speaking publicly. At the same time, the
+largest number of conforming, inaccurate responses came when people thought of themselves in
+the same group and were speaking publicly -- even though the number of inaccurate private
+responses in that experimental condition was not notably higher than in other conditions. See
+Abrams et al., supra note, at 108.
+arguments from both sides, and polarization followed this presentation, as it has
+elsewhere.355 Notice in this regard that for polarization hypothesis to hold, it is
+not necessary to know whether judges spend a great deal of time offering
+reasons to one another. Mere exposure to a conclusion is enough.356 A system of
+simple votes, unaccompanied by reasons, should incline judges to polarize. Of
+course reasons, if they are good ones, are likely to make those votes especially
+persuasive.</p>
+      <p>2. The normative issue. It remains to investigate the normative issues. If
+like-minded judges go to extremes, should we be troubled? Is it good if a large
+effect is found from a single judge from a different party? More generally: Is
+there reason to attempt to ensure diversity on the federal courts? To promote a
+degree of diversity on panels? There is a widespread view that judges appointed
+by presidents of different political parties are not fundamentally different and
+that once on the bench, judges frequently surprise those who nominated them.357
+The view is not entirely baseless, but it is misleading. Some appointees do
+disappoint the Presidents who nominated them, but the availability heuristic
+should not fool us into thinking that these examples are typical. Judges
+appointed by Republican presidents are quite different from judges appointed by
+Democratic presidents. “Partisanship clearly affects how appellate courts review
+agency discretion.”358</p>
+      <p>But it seems difficult to evaluate the underlying issues without taking a
+stand on the merits—without knowing what we want judges to do. Suppose that
+three Republican judges are especially likely to uphold criminal convictions, and
+that three Democratic judges are especially likely to reverse those convictions. At
+first glance, one or the other is troubling only if we know whether we approve of
+one or another set of results. In the punitive damage study discussed above, the
+movement toward increased awards might be something to celebrate, not to
+deplore, if we conclude that the median of predeliberation awards is too low and
+that the increase, produced by group discussion, ensures more sensible awards.
+And if a view about what judges should do is the only possible basis for
+evaluation, we might conclude that those who prefer judges of a particular party
+should seek judges of that party, and that group influences are essentially beside
+the point.
+355 Schkade, supra note, at 1150 and 1150 n. 44.
+356 See Robert Baron et al., supra note, at 74.
+357 See, e.g., Jeffrey Rosen, New York Times Magazine; others.
+358 See Revesz, supra note, at 2175.</p>
+      <p>But the conclusion is too strong. In some cases, the law, properly
+interpreted, really does argue strongly for one or another view. The existence of
+diversity on a panel is likely to bring that fact to light and perhaps to move the
+panel’s decision in the direction of what the law requires. The existence of
+politically diverse judges, and of a potential dissent, increases the probability
+that the law will be followed. The Chevron study, referred to above, strongly
+supports this point.359 The presence of a potential dissenter—in the form of a
+judge appointed by a president from another political party—creates a possible
+whistleblower who can reduce the likelihood of an incorrect or lawless
+decision.360 Through an appreciation of the nature of group influences, we can
+see the wisdom in an old idea: A decision is more likely to be right, and less
+likely to be political in a pejorative sense, if it is supported by judges with
+different predilections.</p>
+      <p>There is a further point. Suppose that in many areas, it is not clear, in
+advance, whether the appointees of Democratic or Republican presidents are
+correct. Suppose that we are genuinely uncertain. If so, there is reason to favor a
+situation in which the legal system has both, simply on the ground that through
+that route, more (reasonable) opinions are likely to be heard. And if we are
+genuinely uncertain, there is reason to favor a mix of views merely by virtue of
+its moderating effect. In the face of uncertainty, sensible people choose between
+the poles.361</p>
+      <p>3. An analogy. Consider an analogy. Modern law and policy is often made
+by independent regulatory commissions, such as the Federal Trade Commission,
+the Securities and Exchange Commission, the National Labor Relations Board,
+and the Federal Communications Commission. Much of the time, such agencies
+act through adjudication. They function in the same fashion as federal courts.
+And under federal statutes, Congress has attempted to ensure that these agencies
+are not monopolized by either Democrats or Republicans. The law requires that
+no more than a bare majority of agency members may be from a single party.362
+An understanding of group influences helps explain this requirement. An
+independent agency that is all-Democratic, or all-Republican, might move
+toward an extreme position, indeed a position that is more extreme than that of
+359 See Cross and Tiller, supra note.
+360 This is the explanation in Cross and Tiller, supra note, at 2173.
+361 For evidence, see Mark Kelman et al., Context-Independence in Legal Decisionmaking, in
+Behavioral Law and Economics (Cass R. Sunstein ed. 2000).
+362 See, e.g., 15 U.S.C. § 78d (1994).
+the median Democrat or Republican, and possibly more extreme than that of any
+agency official standing alone. A requirement of bipartisan membership can
+operate as a check against movements of this kind. Congress was apparently
+aware of this general point. Closely attuned to the policymaking functions of the
+relevant institutions, it was careful to provide a safeguard against extreme
+movements.</p>
+      <p>Why do we fail to create similar safeguards for courts? Part of the answer
+must lie in a belief that unlike heads of independent regulatory commissions,
+judges are not policymakers. Their duty is to follow the law, not to make policy.
+An attempt to ensure bipartisan composition would seem inconsistent with the
+commitment to this belief. But the evidence I have discussed shows judges are
+policymakers of an important kind, and that their political commitments very
+much influence their votes. In principle, there is good reason to attempt to ensure
+a mix of perspectives within courts of appeals.</p>
+      <p>Of course the idea of diversity, or of a mix of perspectives, is hardly
+selfdefining. It would not be appropriate to say that the federal judges should
+include people who refuse to obey the Constitution, or who refuse to exercise the
+power of judicial review, or who think that the Constitution allows suppression
+of political dissent and racial segregation. Here as elsewhere, the domain of
+appropriate diversity is limited. What is necessary is reasonable diversity, or
+diversity of reasonable views, and not diversity as such. People can certainly
+disagree about what reasonable diversity entails in this context. All that I am
+suggesting here is that there is such a thing as reasonable diversity, and that it is
+important to ensure that judges, no less than anyone else, are exposed to it, and
+not merely through the arguments of advocates.</p>
+      <p>4. The Senate’s role. These points cast fresh light on a much disputed
+issue: the legitimate role of the Senate in giving “advice and consent” to
+presidential appointments to the federal judiciary. Above all, an understanding
+of social influences suggests that the Senate has a responsibility to exercise its
+constitutional authority in order to ensure a reasonable diversity of view. The
+Constitution’s history fully contemplates an independent role for the Senate in
+the selection of Supreme Court Justices.363 That independent role certainly
+authorizes the Senate to consider the general approach, and likely pattern of
+votes, of potential judges. There can be no doubt that the President considers the
+363 See David A. Strauss and Cass R. Sunstein, The Senate, the Constitution, and the Confirmation
+Process, 101 Yale L.J. 1491 (1992).
+general approach of his nominees; the Senate is entitled to do so as well. Under
+good conditions, these simultaneous powers would bring about a healthy form
+of checks and balances, permitting each branch to counter the other. Indeed, that
+system is part and parcel of social deliberation about the direction of the federal
+judiciary.</p>
+      <p>Why might this view be rejected? It could be urged that there is only one
+legitimate approach to constitutional or statutory interpretation—that, for
+example, some version of originalism or textualism is the only such approach,
+and that anyone who rejects that view is unreasonable. For true believers, it is
+pointless to argue for diverse views.364 Diversity is not necessary, or even
+valuable, if we already know what should be done, and if competing views
+would simply cloud the issue. (In a scientific dispute, it is not helpful to include
+those who believe that the earth is flat.) Or it might be urged that a deferential
+role for the Senate, combined with natural political competition and cycles, will
+produce a sensible mix over time. I do not deny this possibility. My only
+suggestions are that a high degree of diversity on the federal judiciary is
+desirable, that the Senate is entitled to pursue diversity, and that without such
+diversity, judicial panels are will inevitably go in unjustified directions.</p>
+    </sec>
+    <sec id="sec-11">
+      <title>D. Affirmative Action in Higher Education</title>
+      <p>Countless educational institutions pursue the goal of diversity. Most of
+America’s large private and public institutions seek a wide range of views,
+faculty, and students. There are some prominent exceptions; some institutions
+pride themselves on a high degree of homogeneity.365 And here as elsewhere, the
+idea of diversity needs to be clarified. Colleges and universities do not make
+special efforts to include students who collect Britney Spears memorabilia, hate
+America, smell bad, or have low SAT’s. Such institutions are committed to
+diversity, but only to a certain degree and of a certain kind. It remains possible to
+urge, as many do, that they give excessive attention to diversity of some kinds
+and insufficient attention to diversity of other kinds. The only point I am making
+here is that they tend to be committed to diversity of a recognizable sort.
+364 Note, however, that even if it would be appropriate for all judges to share a certain approach,
+it is also desirable to have diversity with respect to the application of that approach. Textualists
+do not all agree with one another; there is internal diversity in the world of originalism. Diversity
+is appropriate here to ensure an airing of reasonable views.
+365 See the discussion of Brigham Young University in Martha Nussbaum, Cultivating Humanity
+(1999).</p>
+      <p>There are many reasons for this commitment. One involves simple market
+pressures; a school that has different sorts of students is more likely to be able to
+attract good faculty and good students.366 Of course people’s preferences and
+values vary, and some people want to go to places that are relatively
+homogeneous. But this seems to be the exception rather than the rule.367 And
+there is another justification for diversity, one that has received considerable
+attention within courts368 and that is closely related to my topic here. The idea is
+that education is simply likely to be better if the school has people with different
+views, perspectives, and experiences. In the context of affirmative action, this
+justification was approved in Justice Powell’s decisive opinion in the Bakke
+case,369 an opinion that has the unusual distinction of having settled, for a period
+of decades, the constitutionality of affirmative action in higher education without
+having been embraced by any other justice on the Supreme Court. My goal here
+is to offer a qualified defense of Justice Powell’s view. I urge that in some
+educational settings, racial diversity is important for ensuring a broad array of
+experiences and ideas, and that in those settings, narrowly tailored affirmative
+action programs should be constitutionally permissible.</p>
+      <p>Justice Powell insisted that a diverse student body is a constitutionally
+acceptable goal for higher education.370 The central reason is that universities
+should be allowed to ensure a “robust exchange of ideas,” an interest connected
+with the first amendment itself.371 Justice Powell acknowledged that this interest
+seemed strongest in the context of undergraduate education, where views are
+formed on a large number of topics. But even in a medical school, “the
+contribution of diversity is substantial.”372 A medical student having a particular
+background, including a particular ethnic background, “may bring to a
+366 Note that this justification is most unlikely to be legitimate as a constitutional matter. A public
+institution is not permitted to justify discrimination by claiming, or even showing, that many of
+its constituents call for it. Brown v. Bd. of Education itself requires that conclusion; see also
+Palmore v. Sadoti, 466 US 429, 441 (1984), suggesting that private “biases may be outside the
+reach of the law, but the law cannot, directly or indirectly, give them effect.”
+367 Recall the prior qualifications about the definition of diversity. Even apparently diverse
+institutions are homogenous in certain ways and along certain dimensions, and this is what
+students and faculty seem to prefer.
+368 See Hopwood v. Texas, 78 F.3d 932, 944 (5th Cir. 1996); Grutter v. Bollinger, 288 F.3d 732 (6th
+Cir. 2002).
+369 See 438 US 265 (1978 (opinion of Powell, J.).
+370 438 US at 311-12.
+371 Id. at 313.
+372 Id.
+professional school of medicine experiences, outlooks, and ideas that enrich the
+training of its student body and better equip its graduates to render with
+understanding their vital service to humanity.”373 Justice Powell also emphasized
+that doctors “serve a heterogeneous population,” and suggested that graduate
+admissions decisions are concerned with contributions that follow formal
+education.374</p>
+      <p>Thus Justice Powell concluded that the crucial question was whether a
+race-conscious admission program, giving benefits to people because they are
+members of racial minority groups, was a necessary means of promoting the
+legitimate goal of diversity. Here he reached his famous conclusion that racial or
+ethnic background could be a “plus” in the admissions decision, though quotas
+would not be allowed.375 For Justice Powell, a legitimate admissions program
+should be “flexible enough to consider all pertinent elements of diversity in light
+of the particular qualifications of the applicant, and to place them on the same
+footing for consideration, although not necessarily according to them the same
+weight.”376 Thus it would be acceptable to promote “beneficial educational
+pluralism” by considering a range of factors, including “demonstrated
+compassion, a history of overcoming disadvantage, ability to communicate with
+the poor, or other qualifications deemed important.”377</p>
+      <p>My central concern here is the principal378 basis for Justice Powell’s
+conclusion: the value of ensuring a “robust exchange of ideas” in the classroom,
+and the legitimacy of promoting racial diversity in order to ensure that
+exchange. To understand the contemporary relevance of Justice Powell’s opinion,
+it is necessary to outline the recent developments in the constitutional principles
+governing affirmative action programs. The Court has now settled on the view
+that affirmative action programs, like all other programs embodying racial
+discrimination, should be subject to “strict scrutiny” from courts, and invalidated
+unless they are the least restrictive means of achieving a compelling state
+373 Id. at 314.
+374 Id.
+375 Id. at 316-320.
+376 Id. at 317.
+377 Id.
+378 This is not the exclusive basis for Justice Powell’s opinion; he was also concerned with what
+will happen after graduation – with the possibility that members of minority groups will serve
+their communities, in a way that confers significant social benefits on populations that might
+otherwise be underserved. Id. For evidence that this does happen, see John Bowen and Derek
+Bok, The Shape of the River (1998).
+interest.379 It is also clear that past “societal discrimination,” meaning
+discrimination in the nation’s past, is not a legitimate basis for discrimination
+against whites.380 It is equally clear that narrow, remedial affirmative action
+programs are acceptable if they are specifically designed to correct for proven
+past discrimination by the institution that is acting affirmatively.381</p>
+      <p>What remains unclear is when, if ever, a public institution is permitted to
+justify affirmative action by reference to “forward-looking” justifications, not
+involving a remedy for past discrimination.382 A state might, for example, try to
+defend affirmative action in hiring police by urging that a police force will
+simply be more effective if it contains African-Americans among others—
+especially in a community that contains people of multiple races.383 Justice Powell
+was really offering a similar claim about higher education: Whether or not a
+college or university has itself discriminated against African-Americans or
+others, it should permitted to discriminate in favor of them if it is doing so as a
+means of ensuring a “robust exchange of ideas.” But current justices have given
+conflicting signals about the legitimacy and strength of forward-looking
+justifications.384
+379 See, e.g., City of Richmond v. Croson, 488 US 469 (1989); Adarand Constructors v. Pena, 515
+US 200 (1995).
+380 City of Richmond v. Croson, 488 US 469, 477 (1989).
+381 United States v. Paradise, 480 US 149 (1987); Local No. 93, International Association of
+Firefighters v. Cleveland, 478 US 616 (1987).
+382 For general discussion, see Kathleen M. Sullivan, Sins of Discrimination: Last Term's
+Affirmative Action Cases, 100 Harv. L. Rev. 78, 96 (1986): "Public and private employers might
+choose to implement affirmative action for many reasons other than to purge their own past sins
+of discrimination. The Jackson school board, for example, said it had done so in part to improve
+the quality of education in Jackson -- whether by improving black students' performance or by
+dispelling for black and white students alike any idea that white supremacy governs our social
+institutions. Other employers might advance different forward-looking reasons for affirmative
+action: improving their services to black constituencies, averting racial tension over the allocation
+of jobs in a community, or increasing the diversity of a work force, to name but a few examples.
+Or they might adopt affirmative action simply to eliminate from their operations all de facto
+embodiment of a system of racial caste. All of these reasons aspire to a racially integrated future,
+but none reduces to 'racial balancing for its own sake.'"
+383 Id.
+384 For one view, see Johnson v. Transportation Agency, 480 U.S. 616, 647 (1987) (Stevens,
+concurring): “Instead of retroactively scrutinizing his own or society's possible exclusions of
+minorities in the past to determine the outer limits of a valid affirmative-action program -- or
+indeed, any particular affirmative-action decision -- in many cases the employer will find it more
+appropriate to consider other legitimate reasons to give preferences to members of
+underrepresented groups. Statutes enacted for the benefit of minority groups should not block
+these forward-looking considerations.” For a contrasting view, see Justice O'Connor, in Metro</p>
+      <p>There can be no doubt that universities are permitted to promote diversity
+and dissent by seeking a mix of faculty and students. Efforts of this kind are
+pervasive; this is what most admissions offices try to do. To be sure, some
+serious free speech issues might be raised if an admissions office discriminates in
+favor of, or against, particular points of view.385 But even if public institutions are
+barred from pursuing diversity of ideas by discriminating directly against some
+points of view, such institutions are surely permitted, without offending the first
+amendment, to seek a variety of backgrounds and experiences, in the hope that
+better discussions will result. If Justice Powell is right, affirmative action
+programs can be similarly justified. The simple idea here is that diverse
+populations are likely to increase the range of thoughts and perspectives, and to
+reduce the risks of conformity, cascades, and polarization associated with group
+influences.386 We have seen that on the judiciary, judges with diverse views can
+act as “whistleblowers,” correcting ill-considered views of the law. In
+educational institutions, a high degree of diversity, including racial diversity,
+often has the same effect. A racially uniform class is all too likely to polarize to an
+unjustified position, simply because students’ antecedent views are not subject to
+critical scrutiny.</p>
+      <p>For example, we can easily imagine all-white classrooms, discussing the
+issue of racial profiling, in which the absence of racial diversity is a serious
+problem. Those who have not had bad experiences, as a result of such profiling,
+will lack crucial information. Return here to Justice O’Connor’s comments on
+Justice Marshall: “Justice Marshall brought a special perspective. . . . His was the
+mouth of a man who knew the anguish of the silenced and gave them a voice. . . .
+Broadcasting v. FCC, 497 US 547, 612 (1990), joined by Justices Rehnquist, Scalia, and Kennedy:
+“Modern equal protection has recognized only one [compelling state] interest: remedying the
+effects of racial discrimination. The interest in increasing the diversity of broadcast viewpoints is
+clearly not a compelling interest. It is simply too amorphous, too insubstantial, and too unrelated
+to any legitimate basis for employing racial classifications.”
+385 I am unaware of any first amendment challenge to a university’s efforts to promote diversity
+by promoting a range of views, even though such efforts would necessarily involve
+discrimination against some views and in favor of others. But there are some hard questions
+lurking here. One set of questions involve the sheer difficulty of proof: In a case in which a
+student is or is not denied admission, the applicant’s political view will undoubtedly be one of a
+range of factors, and it will be hard to isolate, in a challenge, point of view as the decisive factor.
+In a case of discharge or suspension as a result of political view, there would indeed be a
+constitutional problem. See Pickering v. Bd. of Educ., 391 US 563, 568 (1968).
+386 For supportive evidence, see Patricia Gurin, Reports Submitted on Behalf of the University of
+Michigan: the Compelling Need for Diversity in Higher Education, 5 Mich J Race &amp; Law 363
+(1999).
+I have been perhaps most personally affected by Justice Marshall as a raconteur .
+. . . Occasionally, at Conference meetings, I still catch myself looking expectantly
+for his raised brow and his twinkling eye, hoping to hear, just once more, another
+story that would, by and by, perhaps change the way I see the world.”387 What
+was true for Justice O’Connor is true for white students in many educational
+settings. In the context of racial profiling, and in many other imaginable cases, a
+degree of racial diversity is likely to bring to bear valuable information and
+perspectives. These may change how the group sees the world, whether or not it
+leads to a different conclusion on the merits.</p>
+      <p>To say this is of course not to make the absurd claim that white people all
+agree with one another about racial profiling, or that African-Americans have the
+same experiences and opinions about that complex issue. And in light of the fact
+that members of all races contain people with a range of both favorable and
+unfavorable views about racial profiling, it would be possible to respond that
+any problem, if it exists, is not because the group is all-white, but if and because
+its members begin with a uniform view of racial profiling. And if this is so, what,
+if anything, is added by promoting diversity not of views but of racial
+background? The answer must be that African-Americans, by virtue of their
+experience, are able to add something to the discussion as such. And this seems
+far from implausible. If students need to know something about the magnitude
+and the experience of racial profiling, those who have been subject to such
+profiling will be able to offer novel insights. And if African-Americans do, in
+fact, have an unusually high degree of hostility to racial profiling, that is by itself
+a point worthwhile to know and to try to understand. So too if they do not show
+such hostility. Of course supplemental readings could be used to expose people
+to diverse views. The value of diversity lies not simply in learning about facts,
+but also in seeing a range of perspectives, including the emotions attached to
+them—and in being in the actual physical presence of those who have those
+perspectives, and perhaps cannot be easily dismissed.</p>
+      <p>These points might be used by a purportedly nondiscriminatory institution
+to defend a set of policies designed to ensure a reasonable diversity of view in
+classroom discussions. Because of the importance of a wide range of ideas to the
+educational enterprise, the goal seems both legitimate and compelling. Are
+affirmative action programs the least restrictive means of promoting that goal?
+The answer depends on the nature of those programs. It is easy to imagine
+387 See Sandra Day O’Connor, Thurgood Marshall: The Influence of a Reconteur, 44 Stan. L. Rev.
+1217, 1217, 1220 (1992).
+cautious efforts, using race as a factor, in which the “least restrictive means” test
+is indeed satisfied.388 And that point is sufficient to suggest that Justice Powell’s
+approach is essentially correct.</p>
+      <p>To be sure, the same arguments about the importance of diverse views
+might be enlisted very broadly, and in circumstances that might seem
+unattractive. Imagine, for example, an effort, by a mostly African-American
+university, to point to the need for diversity as a way of defending
+discrimination against African-Americans and in favor of whites. Such a
+university might claim that it wants significant representation by whites in order
+to reduce the risks from group influences and to improve the quality of
+discussion. It does indeed follow, from what I have said thus far, that this
+argument is legitimate. A classroom that is entirely African-American might well
+suffer from conformity effects and polarization; and a educational institution
+might want to correct the situation. If courts should be suspicious of the
+argument in this context, it is because they do not trust the sincerity of those who
+make it. Courts might believe that the reference to diversity is actually a pretext
+for an illicit discriminatory motive. But it is easy to imagine cases in which
+diversity is the real concern and no pretext is involved.</p>
+      <p>There is a further complexity. Suppose that a university claims that it is
+pursuing the goal of high-quality education. Suppose that it insists that its
+admissions policies, which place a premium on many forms of diversity, are a
+legitimate means of pursuing that goal. Such a university might well be willing
+to discriminate in favor of members of racial minorities—and might well claim
+that this form of discrimination is part of the neutral pursuit of high-quality
+education. Is this illegitimate? Outside the context of affirmative action, the
+Court has come very close to holding that it is.389 In making decisions about child
+custody, courts are prohibited from taking account of the possible prejudice to be
+faced by children of racially mixed couples. The prohibition applies even if it is
+defended as part of a neutral mechanism for promoting the welfare of the
+child.390 A racially-based system of child custody cannot be justified on the
+ground that in light of existing social values, children do better in a family that is
+all-white or all-African-American. This decision suggests that an institution is not
+permitted to defend otherwise illegitimate discrimination by suggesting that it is
+388 This was the conclusion of the court of appeals about the program used by the University of
+Michigan Law School. See Grutter v. Bollinger, 288 F.3d 732 (6th Cir. 2002).
+389 See Palmore v. Sadoti, 466 US 429 (1984).
+390 See id.
+neutrally pursuing a more abstract goal.391 But I am not claiming here that
+affirmative action fails to count as discrimination. I am urging instead that
+affirmative action can be adequately justified, in some contexts, as a way of
+ensuring that educational institutions do what they are supposed to do.</p>
+      <p>It is important to emphasize the narrowness of the argument I am making.
+In some cases, racial diversity is important for improving the educational process
+within the relevant school. But in some cases, the claim seems extremely weak.
+Would a mathematics class, or a course in physics, be improved if it contained a
+degree of racial diversity? This seems unlikely. In principle, I do not believe that
+courts should use the Constitution to scrutinize affirmative action programs with
+great care.392 But the law is otherwise, and if courts are going to do so, they
+should not offer a blanket ruling for or against a diversity rationale in higher
+education. They should accept that rationale in the context of undergraduate
+education, but not for programs for which racial diversity is not necessary to
+promote a “robust exchange of ideas.” In the context of law school, the centrality
+of racial issues to important aspects of legal education should be enough to allow
+narrowly tailored affirmative action programs to survive constitutional
+scrutiny.393</p>
+    </sec>
+    <sec id="sec-12">
+      <title>Conclusion</title>
+      <p>Human beings pay close attention to the informational and reputational
+signals sent by others. These signals produce conformity, even in cases in which
+many people have reason to believe, on the basis of their private information,
+that others are mistaken or worse. Informational and reputational influences also
+produce cascades, in which people do not rely on, and fail to disclose, the
+information that they themselves have. Cascades and errors occur spontaneously
+when people rationally take account of the decisions and statements of their
+predecessors. Errors are magnified when people are rewarded for conformity—
+and minimized when people are rewarded, not for correct individual decisions,
+but for correct decisions at the group level.</p>
+      <p>Cascades, like conformity, are not a problem in themselves. Sometimes
+cascades produce good outcomes, at least compared to a situation in which
+391 On some of the complexities here, see David A. Strauss, The Myth of Colorblindness, 1986
+Supreme Court Review 99.
+392 See Cass R. Sunstein, Designing Democracy: What Constitutions Do (2002).
+393 See Grutter v. Bollinger, 288 F.3d 732 (6th Cir. 2002).
+people rely solely on their own information. The real problem is that when
+cascades are occurring, people do not disclose information from which others
+would benefit. The result is that both individuals and groups can blunder,
+sometimes catastrophically. Institutions involved in making, enforcing, and
+interpreting the law are subject to conformity and cascade effects. The executive
+branch has been shown to blunder as a result.394 We have seen that within courts,
+precedential cascades are highly likely, especially in complex areas; and in such
+areas, cascades tend to be both self-perpetuating and self-insulating.</p>
+      <p>The general lesson is clear. It is extremely important to devise institutions
+that attempt to promote disclosure of private views and private information.
+Institutions that reward conformity are prone to failure to the extent that they do
+not do that; institutions are far more likely to prosper if they create a norm of
+openness and dissent. The point very much bears on the risks of group
+polarization. Groups of like-minded people are likely to go to extremes, simply
+because of limited argument pools and reputational considerations. The danger
+is that the resulting movements in opinion will be unjustified. It is extremely
+important to create “circuit breakers”395 and to devise institutional arrangements
+that will serve to counteract movements that could not be supported if people
+had a wider range of information.</p>
+      <p>These points have implications for numerous issues in law and policy. I
+have focused on a small subset of those issues here. We have seen that an
+appreciation of social influences casts new light on the expressive function of
+law. Simply by virtue of what it says, and even if it is rarely enforced, law can
+affect the behavior of those who are unsure whether to engage in certain
+conduct—and also the behavior of those who are unsure whether to challenge
+those who engage in that conduct. Bans on smoking in public and on sexual
+harassment are cases in point. Law’s effectiveness, in this regard, lies in its power
+to give a signal about what it is right to do, and also to dissipate pluralistic
+ignorance, by providing information about what other people think that it is
+right to do. A legal enactment can operate in the same fashion as Asch’s
+confederates and Milgram’s experimenter. Because people care about the
+reactions of others, law’s expressive function will be heightened if the relevant
+conduct is visible; bans on smoking in public places are an obvious example. For
+the same reason, that function will be weakened if prospective law-breakers live
+in a supportive subcommunity; consider bans on the use of narcotics. With an
+394 See Janis, Groupthink, supra note, for a collection of examples.
+395 See Eric Posner, supra note.
+understanding of social influences, we can therefore make some predictions
+about when law is likely to be effective merely by virtue of what it says—and
+about when law will be ineffective unless it is accompanied by vigorous
+enforcement activity.</p>
+      <p>I have suggested that many of the Constitution’s institutions serve to
+reduce the likelihood of bad consequences from conformity, cascades, and group
+polarization. Such institutions increase the likelihood that important information,
+and alternative points of view, will receive a public airing. The system of
+bicameralism is the most obvious example, producing a system in which
+lawmaking is done by two institutions with different cultures, thus creating a
+potential check on unjustified movements. I have also urged that the framers’
+most distinctive contribution consisted not in their endorsement of deliberative
+democracy, which was uncontroversial, but in their commitment to
+heterogeneity in government, seeing (in Hamilton’s words) the “jarring of
+parties” as a method for “promoting deliberation.”</p>
+      <p>More controversially, I have suggested that an understanding of social
+influences suggests the importance of ensuring a high degree of diversity on the
+federal bench. It is foolish to pretend that Republican appointees do not, as a
+class, differ from Democratic appointees; and we have reason to appreciate the
+value, on any panel, of having a potential “whistleblower,” in the form of one
+judge of a different party from the other two. Of course judges are rarely lawless,
+but a group of like-minded judges is prone to go to extremes. An appreciation of
+social influences on belief and behavior also supports the legitimacy of efforts to
+promote racial diversity in higher education, at least where such diversity is
+likely to improve learning.</p>
+      <p>Even if occasionally alarming, much of the behavior discussed here attests
+to the reasonableness and good sense of ordinary people. In the face of doubt, we
+do well to pay attention to the views of others.396 After all, they might know
+better than we do. It is prudent to be cautious about challenging other people,
+not only because they might be right, but also because people do not always like
+to be challenged. Even in the most freedom-loving societies, people dissent at
+their peril. A reluctance to disagree is not merely prudent; it is often courteous
+too. But conformity creates serious dangers. Behavior that is sensible, prudent,
+396 Note the suggestion, in Goldstein et al., supra note, at 174, that conformity operates as a
+sensible heuristic, one that often works well but that sometimes misfires, see Henrich et al., supra
+note, at 356–57.
+and courteous is likely to lead individuals and societies to blunder, simply
+because people fail to learn about facts or opinions from which they would
+benefit.</p>
+      <p>It is usual to think that those who conform are serving the general interest
+and that dissenters are antisocial, even selfish. In a way this is true. In some
+settings, conformists strengthen social bonds, whereas dissenters imperil them,
+or at least introduce tension. But in an important respect, the usual thought has
+things backwards. Much of the time, it is in the individual’s interest to follow the
+crowd, but in the social interest for the individual to say and do what he thinks
+best. Well-functioning systems of law and politics take steps to discourage
+conformity and to promote dissent, partly to protect the rights of dissenters, but
+mostly to protect interests of their own.</p>
+      <sec id="sec-12-1">
+        <title>Readers with comments should address them to:</title>
+      </sec>
+      <sec id="sec-12-2">
+        <title>Cass R. Sunstein</title>
+        <p>University of Chicago Law School
+1111 East 60th Street
+Chicago, IL 60637
+csunstei@midway.uchicago.edu
+10.
+28.
+53.</p>
+        <p>Richard A. Posner, Values and Consequences: An Introduction to Economic
+Analysis of Law (March 1998)
+Denise DiPasquale and Edward L. Glaeser, Incentives and Social Capital: Are
+Homeowners Better Citizens? (April 1998)
+Christine Jolls, Cass R. Sunstein, and Richard Thaler, A Behavioral Approach to
+Law and Economics (May 1998)
+John R. Lott, Jr., Does a Helping Hand Put Others At Risk?: Affirmative Action,
+Police Departments, and Crime (May 1998)
+Cass R. Sunstein and Edna Ullmann-Margalit, Second-Order Decisions (June
+1998)
+Jonathan M. Karpoff and John R. Lott, Jr., Punitive Damages: Their Determinants,
+Effects on Firm Value, and the Impact of Supreme Court and Congressional
+Attempts to Limit Awards (July 1998)
+Kenneth W. Dam, Self-Help in the Digital Jungle (August 1998)
+John R. Lott, Jr., How Dramatically Did Women=s Suffrage Change the Size and
+Scope of Government? (September 1998)
+Kevin A. Kordana and Eric A. Posner, A Positive Theory of Chapter 11 (October
+1998)
+David A. Weisbach, Line Drawing, Doctrine, and Efficiency in the Tax Law
+(November 1998)
+Jack L. Goldsmith and Eric A. Posner, A Theory of Customary International Law
+(November 1998)
+John R. Lott, Jr., Public Schooling, Indoctrination, and Totalitarianism (December
+1998)
+Cass R. Sunstein, Private Broadcasters and the Public Interest: Notes Toward A
+AThird Way@ (January 1999)
+Richard A. Posner, An Economic Approach to the Law of Evidence (February
+1999)
+Yannis Bakos, Erik Brynjolfsson, Douglas Lichtman, Shared Information Goods
+(February 1999)
+Kenneth W. Dam, Intellectual Property and the Academic Enterprise (February
+1999)
+Gertrud M. Fremling and Richard A. Posner, Status Signaling and the Law, with
+Particular Application to Sexual Harassment (March 1999)
+Cass R. Sunstein, Must Formalism Be Defended Empirically? (March 1999)
+Jonathan M. Karpoff, John R. Lott, Jr., and Graeme Rankine, Environmental
+Violations, Legal Penalties, and Reputation Costs (March 1999)
+Matthew D. Adler and Eric A. Posner, Rethinking Cost-Benefit Analysis (April
+1999)
+John R. Lott, Jr. and William M. Landes, Multiple Victim Public Shooting,
+Bombings, and Right-to-Carry Concealed Handgun Laws: Contrasting Private
+and Public Law Enforcement (April 1999)
+74.</p>
+        <p>Lisa Bernstein, The Questionable Empirical Basis of Article 2=s Incorporation
+Strategy: A Preliminary Study (May 1999)
+Richard A. Epstein, Deconstructing Privacy: and Putting It Back Together Again
+(May 1999)
+William M. Landes, Winning the Art Lottery: The Economic Returns to the Ganz
+Collection (May 1999)
+Cass R. Sunstein, David Schkade, and Daniel Kahneman, Do People Want
+Optimal Deterrence? (June 1999)
+Tomas J. Philipson and Richard A. Posner, The Long-Run Growth in Obesity as a
+Function of Technological Change (June 1999)
+David A. Weisbach, Ironing Out the Flat Tax (August 1999)
+Eric A. Posner, A Theory of Contract Law under Conditions of Radical Judicial
+Error (August 1999)
+David Schkade, Cass R. Sunstein, and Daniel Kahneman, Are Juries Less Erratic
+than Individuals? Deliberation, Polarization, and Punitive Damages (September
+1999)
+Cass R. Sunstein, Nondelegation Canons (September 1999)
+Richard A. Posner, The Theory and Practice of Citations Analysis, with Special
+Reference to Law and Economics (September 1999)
+Randal C. Picker, Regulating Network Industries: A Look at Intel (October 1999)
+Cass R. Sunstein, Cognition and Cost-Benefit Analysis (October 1999)
+Douglas G. Baird and Edward R. Morrison, Optimal Timing and Legal
+Decisionmaking: The Case of the Liquidation Decision in Bankruptcy (October
+1999)
+Gertrud M. Fremling and Richard A. Posner, Market Signaling of Personal
+Characteristics (November 1999)
+Matthew D. Adler and Eric A. Posner, Implementing Cost-Benefit Analysis When
+Preferences Are Distorted (November 1999)
+Richard A. Posner, Orwell versus Huxley: Economics, Technology, Privacy, and
+Satire (November 1999)
+David A. Weisbach, Should the Tax Law Require Current Accrual of Interest on
+Derivative Financial Instruments? (December 1999)
+Cass R. Sunstein, The Law of Group Polarization (December 1999)
+Eric A. Posner, Agency Models in Law and Economics (January 2000)
+Karen Eggleston, Eric A. Posner, and Richard Zeckhauser, Simplicity and
+Complexity in Contracts (January 2000)
+Douglas G. Baird and Robert K. Rasmussen, Boyd=s Legacy and Blackstone=s
+Ghost (February 2000)
+David Schkade, Cass R. Sunstein, Daniel Kahneman, Deliberating about Dollars:
+The Severity Shift (February 2000)
+Richard A. Posner and Eric B. Rasmusen, Creating and Enforcing Norms, with
+Special Reference to Sanctions (March 2000)
+97. Douglas Lichtman, Property Rights in Emerging Platform Technologies (April
+2000)
+98. Cass R. Sunstein and Edna Ullmann-Margalit, Solidarity in Consumption (May
+2000)
+99. David A. Weisbach, An Economic Analysis of Anti-Tax Avoidance Laws (May
+2000, revised May 2002)
+100. Cass R. Sunstein, Human Behavior and the Law of Work (June 2000)
+101. William M. Landes and Richard A. Posner, Harmless Error (June 2000)
+102. Robert H. Frank and Cass R. Sunstein, Cost-Benefit Analysis and Relative</p>
+        <p>Position (August 2000)
+103. Eric A. Posner, Law and the Emotions (September 2000)
+104. Cass R. Sunstein, Cost-Benefit Default Principles (October 2000)
+105. Jack Goldsmith and Alan Sykes, The Dormant Commerce Clause and the</p>
+        <p>Internet (November 2000)
+106. Richard A. Posner, Antitrust in the New Economy (November 2000)
+107. Douglas Lichtman, Scott Baker, and Kate Kraus, Strategic Disclosure in the Patent</p>
+        <p>System (November 2000)
+108. Jack L. Goldsmith and Eric A. Posner, Moral and Legal Rhetoric in International</p>
+        <p>Relations: A Rational Choice Perspective (November 2000)
+109. William Meadow and Cass R. Sunstein, Statistics, Not Experts (December 2000)
+110. Saul Levmore, Conjunction and Aggregation (December 2000)
+111. Saul Levmore, Puzzling Stock Options and Compensation Norms (December
+2000)
+112. Richard A. Epstein and Alan O. Sykes, The Assault on Managed Care: Vicarious</p>
+        <p>Liability, Class Actions and the Patient=s Bill of Rights (December 2000)
+113. William M. Landes, Copyright, Borrowed Images and Appropriation Art: An</p>
+        <p>Economic Approach (December 2000)
+114. Cass R. Sunstein, Switching the Default Rule (January 2001)
+115. George G. Triantis, Financial Contract Design in the World of Venture Capital
+(January 2001)
+116. Jack Goldsmith, Statutory Foreign Affairs Preemption (February 2001)
+117. Richard Hynes and Eric A. Posner, The Law and Economics of Consumer</p>
+        <p>Finance (February 2001)
+118. Cass R. Sunstein, Academic Fads and Fashions (with Special Reference to Law)
+(March 2001)
+119. Eric A. Posner, Controlling Agencies with Cost-Benefit Analysis: A Positive</p>
+        <p>Political Theory Perspective (April 2001)
+120. Douglas G. Baird, Does Bogart Still Get Scale? Rights of Publicity in the Digital</p>
+        <p>Age (April 2001)
+121. Douglas G. Baird and Robert K. Rasmussen, Control Rights, Priority Rights and
+the Conceptual Foundations of Corporate Reorganization (April 2001)
+122. David A. Weisbach, Ten Truths about Tax Shelters (May 2001)
+123.
+149.
+150.
+156.
+157.
+158.
+160.
+161</p>
+        <p>David A. Weisbach, Thinking Ouside the Little Boxes (March 2002, forthcoming
+Texas Law Review)
+Eric A. Posner, Economic Analysis of Contract Law after Three Decades: Success
+or Failure (March 2002)
+Randal C. Picker, Copyright as Entry Policy: The Case of Digital Distribution
+(April 2002, forthcoming The Antitrust Bulletin)
+David A. Weisbach, Taxes and Torts in the Redistribution of Income (April 2002,
+Coase Lecture February 2002)
+Cass R. Sunstein, Beyond the Precautionary Principle (April 2002)
+Robert W. Hahn and Cass R. Sunstein, A New Executive Order for Improving
+Federal Regulation? Deeper and Wider Cost-Benefit Analysis (April 2002)
+Douglas Lichtman, Copyright as a Rule of Evidence (May 2002)
+Richard A. Epstein, Steady the Course: Property Rights in Genetic Material (May
+2002)
+Jack Goldsmith and Cass R. Sunstein, Military Tribunals and Legal Culture:
+What a Difference Sixty Years Makes (June 2002)
+William M. Landes and Richard A. Posner, Indefinitely Renewable Copyright
+(July 2002)
+Anne Gron and Alan O. Sykes, Terrorism and Insurance Markets: A Role for the
+Government as Insurer? (July 2002)
+Cass R. Sunstein and Adrian Vermeule, Interpretation and Institutions (July 2002)
+Cass R. Sunstein, The Rights of Animals: A Very Short Primer (August 2002)
+Cass R. Sunstein, Avoiding Absurdity? A New Canon in Regulatory Law (with
+Notes on Interpretive Theory) (August 2002)
+Randal C. Picker, From Edison to the Broadcast Flag: Mechanisms of Consent
+and Refusal and the Propertization of Copyright (September 2002)
+Eric A. Posner, A Theory of the Laws of War (September 2002)
+Eric A. Posner, Probability Errors: Some Positive and Normative Implications for
+Tort and Contract Law (September 2002)
+Lior Jacob Strahilevitz, Charismatic Code, Social Norms, and the Emergence of
+Cooperation on the File-Swapping Networks (September 2002)
+David A. Weisbach, Does the X-Tax Mark the Spot? (September 2002)
+Cass R. Sunstein, Conformity and Dissent (September 2002)</p>
+      </sec>
+    </sec>
+  </body><script/>
+  <back>
+    <ref-list/>
+  </back>
+</article>
