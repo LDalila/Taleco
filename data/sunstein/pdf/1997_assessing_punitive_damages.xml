@@ -1,0 +1,1911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta />
+    <article-meta>
+      <title-group>
+        <article-title>Assessing Punitive Damages...</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Economics</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Cass R. Sunstein, Daniel Kahneman &amp; David Schkade, "Assessing Punitive Damages...", Coase-Sandor Institute for Law &amp; Economics Working Paper No.</institution>
+          <addr-line>50, 1997</addr-line>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Coase-Sandor Institute for Law and Economics</institution>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <fpage>86</fpage>
+      <lpage>127</lpage>
+      <kwd-group>
+        <kwd>Follow this and additional works at</kwd>
+        <kwd>https</kwd>
+        <kwd>//chicagounbound</kwd>
+        <kwd>uchicago</kwd>
+        <kwd>edu/law_and_economics</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>(WITH NOTES ON COGNITION AND VALUATION IN LAW)</p>
+    </sec>
+    <sec id="sec-2">
+      <title>I. INTRODUCTION</title>
+      <p>This Article has two goals. The first is to investigate the
+sources of arbitrariness in punitive damage awards.4 This
+investigation, which we believe to be the first of its kind, helps
+to answer an important question: What are the sources of
+unpredictability in punitive damage awards?5 On the basis of
+1 Karl N. Llewellyn Distinguished Service Professor, Law School and
+Department of Political Science, University of Chicago.</p>
+      <p>2 Eugene Higgins Professor of Psychology and Professor of Public
+Affairs, Princeton University.</p>
+      <p>3 Professor of Management and William W. Spriegel Fellow, Graduate
+School of Business, University of Texas, Austin. The authors are grateful
+to Exxon Corporation for financial support of the empirical study contained
+in this Article; Exxon Corporation bears no responsibility for our analysis or
+our conclusions. We are grateful to Richard Craswell, Richard Epstein,
+Dan Kahan, William Landes, Tracey Meares, Martha Nussbaum, Eric
+Posner, and Richard Posner for valuable comments. We are also grateful
+to participants in the rationality workshop at the University of California,
+Berkeley and the law and economics and legal theory workshops at the
+University of Chicago. J.B. Heaton provided research assistance and
+excellent comments.</p>
+      <p>4 A technical version of the survey and study, accompanied with more
+detailed statistical analysis, is reported in Daniel Kahneman, David
+Schkade, and Cass R. Sunstein, Shared Outrage and Erratic Awards: The
+Psychology of Punitive Damages, J. of Risk and Uncertainty (forthcoming
+1998). This paper provides a nontechnical summary of our findings and
+develops, as that paper does not, its implications for law and legal reform.</p>
+      <p>5 We do not contend that we have identified the only source. See TAN
+infra. There are also questions about the difference between experimental
+and real-world conditions. See TAN infra.
+responses from 899 jury-eligible citizens, we estimate the
+results of deliberations consisting of all-white juries,
+allAfrican-American juries, all-female juries, all-male juries,
+allwealthy juries, all-poor juries, and juries of widely diverse
+degrees of age and education.</p>
+      <p>Our principal conclusions, stated briefly, are that people’s
+moral judgments are remarkably widely shared, but that
+people have a great deal of difficulty in mapping their moral
+judgments onto an unbounded scale of dollars. Erratic,
+unpredictable, and arbitrary awards, possibly even
+meaningless awards, are a potential product of this difficulty.
+Since participants in law are frequently asked to map their
+judgments onto an unbounded dollar scale, this answer
+relates not only to punitive damage reform but also to a
+number of other positive and normative questions now faced
+by the legal system, including the law governing libel, awards
+for pain and suffering, sexual harassment and other civil
+rights violations, intentional infliction of emotional distress,
+administrative penalties, and contingent valuation. In addition
+to identifying serious problems in current practices, our study
+points in the direction of a large and potentially fruitful
+research agenda.</p>
+      <p>Our second goal involves what might be called the
+behavioral analysis of law. In the last three decades, a great
+deal of progress has come from the application, to legal
+problems, of a certain understanding of economics.6 Within
+economics and psychology, but outside law, that
+understanding has been under sustained attack.7 Within
+social science generally, the attack has produced insights that
+supplement, and sometimes undermine, those versions of
+economics that have undergirded economic analysis of law.8
+6 See Richard Posner, Economic Analysis of Law (5th ed. 1997) for a
+wide range of relevant discussions.</p>
+      <p>7 A good recent collection is William Goldstein and Robin Hogarth,
+Research on Judgment and Decisionmaking (1997).</p>
+      <p>8 There are some important exceptions. See, e.g., Edward McCaffery,
+Matthew Spitzer, and Daniel Kahneman, Framing the Jury, 81 Va. L Rev
+These insights very much bear on law. Our study helps show
+what might be missing, impractical, or wrong in standard
+economic approaches to punitive damage awards, and in a
+way that bears on a range of additional issues as well.9</p>
+      <sec id="sec-2-1">
+        <title>B. Shared Outrage and Erratic Awards</title>
+        <p>The award of punitive damages has become one of the
+most controversial and important uses of the tort law,
+extending well beyond the common law to such statutory
+areas as environmental protection and employment
+discrimination.10 Punitive damages are allowed in forty-seven
+of the fifty states,11 and over sixty federal statutes now permit
+the award of punitive damages, making judicial review of
+punitive awards a significant part of federal law.12</p>
+        <p>The purposes of such awards are not obscure. Sometimes
+compensatory awards provide insufficient deterrence of
+1341 (1995); Mark Kelman, Yuval Rottenstreich, and Amos Tversky,
+Context-Dependence in Legal Decisionmaking, 25 J. Legal Stud. 287
+(1996); George Loewenstein and Linda Babcock, Explaining Bargaining
+Impasse, 11 J. Econ. Persp. 109 (1997).</p>
+        <p>9 See A. Michell Polinsky and Steven Shavell, Punitive Damages: An
+Economic Analysis, Harv L Rev (1997) (forthcoming). In brief, the
+difficulty with the Polinsky/Shavell suggestion— that juries should decide
+punitive damage problems by reference to the likelihood that the
+defendant’s acts will go undetected— is that it does not deal with
+psychological and institutional problems that sharply limit jurors’capacity
+and willingness to analyze the punitive damage problem in the way they
+suggest. Thus a reader might conclude from the Polinsky/Shavell analysis
+that punitive damages should be assessed by an administrative agency, or
+some other expert body, and not by juries or even judges. See TAN infra.
+10 See the Civil Rights Act of 1991, 42 U.S.C. 1977A.</p>
+        <p>11 See Richard Blatt et al., Punitive Damages: A State by State Guide
+to Law and Practice (1991).</p>
+        <p>
+          12 See, e.g., 7 U.S.C. (a)(
+          <xref ref-type="bibr" rid="ref30">11</xref>
+          )(
+          <xref ref-type="bibr" rid="ref22">3</xref>
+          ); 7 U.S.C. 18(a)B); 7 U.S.C. 21 (b)
+(
+          <xref ref-type="bibr" rid="ref29">10</xref>
+          ); 7 U.S.C. 25(a)(
+          <xref ref-type="bibr" rid="ref22">3</xref>
+          )(B); 10 USC 2207 (a)(
+          <xref ref-type="bibr" rid="ref21">2</xref>
+          ); 10 USC 2409(c)(C)(
+          <xref ref-type="bibr" rid="ref21">2</xref>
+          ); 15
+USC 1681n(
+          <xref ref-type="bibr" rid="ref21">2</xref>
+          ); 15 USC 1681u(i) 15 USC 2622((b)(
+          <xref ref-type="bibr" rid="ref21">2</xref>
+          )(B); 18 USC
+248(cc)(1)(B)); 18 USC 25209(b)(
+          <xref ref-type="bibr" rid="ref21">2</xref>
+          ); 18 USC 2724 (b)(
+          <xref ref-type="bibr" rid="ref21">2</xref>
+          ); 42 USC 300j-9;
+42 USC 300a-23; 42 USC 1981a; 42 USC 3613; 42 USC 7622; 42 USC
+9607; 42 USC 13981.
+private behavior, simply because injured parties do not detect
+and seek compensation for all injuries. Punitive damages can,
+in theory, take account of the infrequency of private suits by
+penalizing the defendant to the point where it will undertake
+optimal precautions.13 Moreover, punitive damages may have
+a retributive or expressive function, designed to embody
+social outrage at the actions of serious wrongdoers.14 They
+may reflect the “sense of the community”about the egregious
+character of the defendant’s action.
+        </p>
+        <p>Understood in these terms, however, punitive awards raise
+several puzzles. Such awards interact in complex ways with
+public law— with the elaborate network of regulatory
+requirements and criminal prohibitions that overlap with the
+tort law. These requirements and prohibitions also have
+deterrent, retributive, and expressive functions. It is not clear
+how they can best be brought together with tort law to
+produce a coherent whole.</p>
+        <p>In recent years, the most important concern is that
+whatever their purposes, punitive damages are unpredictable,
+even “out of control.”15 One study of 47 counties in eleven
+states over a several-year period showed a high degree of
+variability:16 Punitive damages were awarded in about 25% of
+the successful verdict cases in some counties and not
+awarded at all in others.17 Median verdicts ranged from less
+than $10,000 in some areas to as much as $204,000 in San
+Diego.18 Another study showed increasingly large awards
+against businesses, from a total of $1.1 million in five large
+states from 1968 to 1971 to $343 million from 1988 to 1991,
+an 89-fold increase.19 A recent study finds that in San
+Francisco, California and Cook County, Illinois, punitive
+damage awards increased from about $1 million during
+196064, to $147 million during 1985-1989, and $215 million during
+1990-94.20</p>
+        <p>On the basis of evidence of this kind, many people have
+complained that punitive awards have a “lottery-like”
+character21 and require legislative or judicial remedy.22 Thus it
+is said, in well-publicized documents, that the arbitrary
+character of punitive damage awards is “news to no one,”that
+they produce an affront to the rule of law by “distributing
+awards in a random and capricious manner,”23 and that they
+should be subject to a cap of three times the actual harm.24
+Congress continues to debate bills that would limit the
+availability and amount of punitive damages.25</p>
+        <p>It is not difficult to understand the widespread concern with
+erratic punitive damage awards. If similarly situated people—
+plaintiffs and defendants alike— are not treated similarly,
+erratic awards are unfair. As a matter of fairness, the
+evidence suggests that some awards are too low, while others
+are too high. From the standpoint of economic efficiency,
+unpredictable awards need not be troublesome; perhaps
+individual awards cannot be calculated in advance, but if
+people can calculate the expected value of the relevant risks,
+there should be no efficiency loss. If awards are
+unpredictable, however, resources are likely to be wasted on
+that calculation, and as a practical matter a risk of extremely
+high awards is likely to produce excessive caution in
+riskaverse managers and companies.26 Hence unpredictable
+awards create both unfairness and (on reasonable
+assumptions) inefficiency, 27 in a way that may create
+overdeterrence of desirable activity.28</p>
+        <p>25 See, e.g., H.R. 956, 104th Cong, section 2(a) (1995); H.R. 955,
+104th Cong, section 8(a), (C) (1995).</p>
+        <p>26 See Kenneth MacCrimmon and Donald Wehrung, Taking Risks:
+The Management of Uncertaity (1986).</p>
+        <p>27 These concerns about punitive damage awards have not produced
+a consensus that punitive damages are unpredictable. Some empirical
+work suggests that the aggregate data show a reasonably orderly pattern,
+though the relevant data can be interpreted in different ways. See
+Theodore Eisenberg et al., The Predictability of Punitive Damages, 26 J.
+Legal Stud. 623 (1997). A response, coming to a different conclusion on
+the basis of the same data, is A. Mitchell Polinsky, Are Punitive Damages
+Really Insignificant, Predictable, and Rational?, 26 J. Legal Stud. 663
+(1997).</p>
+        <p>In their careful analysis, Eisenberg et al. show that the logarithmic
+transformation yields a distribution that is almost normal. They also show
+that the log of awards is predicted rather well from a set of objective
+characteristics of cases in which such awards were made. Eisenberg et al.
+conclude that the unpredictability of punitive awards has been overstated.
+We find no inconsistency between their analyses of real jury awards and
+our experimental data. Indeed, we agree with their conclusion that log</p>
+        <p>Our principal interest here is in identifying some of the
+sources of unpredictability in jury judgments. On the basis of a
+study of 899 jury-eligible citizens, we offer the following major
+findings.</p>
+        <p>1. People have a remarkably high degree of moral
+consensus on the degree of outrage and punishment that are
+appropriate for punitive damage cases.29 At least in the
+products liability cases we offer, this moral consensus, on
+what might be called outrage and punitive intent, cuts across
+differences in gender, race, income, age, and education. For
+example, our study shows that all-white, all-female,
+allHispanic, all-male, all-poor, all-wealthy, all-black juries, all-old
+juries, and all-young juries are likely to come to similar
+conclusions about how to rank a range of cases.</p>
+        <p>2. This consensus fractures when the legal system uses
+dollars as the vehicle to measure moral outrage. Even when
+there is a consensus on punitive intent, there is no consensus
+about how much in the way of dollars is necessary to produce
+appropriate suffering in a defendant. Under existing law,
+widely shared and reasonably predictable judgments about
+awards are fairly predictable. But defendants and plaintiffs live in a world
+of dollars, not of log dollars. In terms of dollars the judgments of our
+respondents and of the juries examined by Eisenberg et al. are correctly
+described as erratic and unpredictable, because the severe skewness
+creates the possibility of either modest or disastrous losses in identical
+cases. This produces unfairness, because the similarly situated are treated
+differently, and also might induce risk aversion even in very large firms.</p>
+        <p>28 For relevant evidence see Paul H. Rubin et al., BMW v. Gore:
+Mitigating the Punitive Economics of Punitive Damages, 5 Supreme Court
+Economic Review 179, 192-96 (1997); Richard L. Manning, Products
+Liability and Prescription Drug Prices in Canada and the United States, 40
+J. L. &amp; Economics 203, 210-34 (1997).</p>
+        <p>29 Two qualifications are necessary. First, this conclusion is restricted
+to the area we investigate, involving products liability suits. It is an open
+question whether the moral consensus would operate in areas involving,
+for example, sexual harassment and discrimination on the basis of race.
+Second, there is a greater consensus on how to rank the scenarios than on
+the “absolute”numbers for outrage and punishment. See below.
+punitive intent are turned into highly erratic judgments about
+appropriate dollar punishment. A basic source of arbitrariness
+with the existing system of punitive damages (and a problem
+not limited to the area of punitive damages) is the use of an
+unbounded dollar scale.</p>
+        <p>
+          3. A modest degree of additional arbitrariness is created
+by the fact that juries have a hard time making appropriate
+distinctions among cases in what we call “a no-comparison
+condition.” When one case is seen apart from other cases,
+people show a general tendency to place it toward the
+midpoint of any bounded scale. It is therefore less likely that
+sensible discriminations will be made among diverse cases.
+This effect is, however, far less important than the effect
+identified in (
+          <xref ref-type="bibr" rid="ref21">2</xref>
+          ) in producing arbitrary awards.
+        </p>
+        <p>The principal purpose of this Article is to set out and to
+elaborate these findings and to use them to develop some
+policy reforms in the area of punitive damages. Our basic
+suggestion is that the legal system should enable juries to
+engage in tasks that they are capable of performing, and
+should not require juries to carry out tasks that they cannot
+perform well. Juries are likely to produce erratic judgments
+about dollar amounts; their judgments are likely to be much
+less erratic when they are asked to rank cases or to assess
+the degree to which a defendant should be punished on a
+bounded rating scale.30 Thus there is reason to ask whether
+the civil justice system ought not to be brought more closely in
+line with the criminal justice system, where juries of course
+decide questions of liability, and judges decide questions
+30 Of course there is a large question about the importance of
+predictability in an assessment of punitive damage awards. Such awards
+may be predictable but nonetheless problematic, because (for example)
+they are too high or too low to produce optimal deterrence, or they do not
+reflect the right theory of retribution. Our focus here is on the problem of
+unpredictability, which is an affront to the rule of law and a particular
+problem under the due process clause and associated principles. See TAN
+infra. But we discuss below the relationship between unpredictability and
+other possible problems with damage awards.
+about punishment, subject to guidelines and constraints. If
+juries cannot consistently or sensibly “map” their judgments
+onto an unbounded dollar scale, might it follow that judges,
+rather than juries, should be making decisions about punitive
+awards? Should the legal system shift to a system of civil
+sentencing? Might the same conclusion make sense for
+compensatory awards in cases in which dollar awards are
+also likely to be arbitrary? Might the current system of civil
+liability, both punitive and compensatory, sometimes be
+displaced by an administrative process, one that can aspire to
+more in the way of coherence and rationality?</p>
+        <p>The choice of reform of course depends on an assessment
+of precisely what defects ought to be corrected, and thus on a
+set of normative judgments about the problems with punitive
+awards in their current form. We attempt to disaggregate
+three possible judgments here, partly as thought experiments,
+and partly to raise some questions about the appropriate
+domain of populist elements in the legal system.</p>
+        <p>If the basic problem is simple unpredictability, the legal
+system might reduce that problem by asking juries not to
+come up with dollar amounts, but to rank the case at hand
+among a preselected set of exemplar cases, or by using a
+bounded scale of numbers rather than an unbounded scale of
+dollars. A conversion formula, based on previously compiled
+population-wide data, might be used to generate
+populationwide judgments about dollar amounts. Through this route, it
+would be possible to reduce variability and to ensure that jury
+judgments about appropriate dollar punishments do not reflect
+the likely unrepresentative views of twelve randomly selected
+people, but those of the population as a whole. The result
+would be a form of predictable populism.</p>
+        <p>If the basic problem is that people cannot sensibly map
+their moral judgments onto dollar awards, the legal system
+should provide a mechanism by which judges or
+administrators, rather than jurors, can translate the relevant
+moral judgments into dollar amounts. It is reasonable to
+question whether ordinary people can know what a given
+dollar amount would mean for, or do to, the defendant or
+those in the position of the defendant. On this view, the jury
+should also rank the case at hand in comparison to
+preselected cases or come up with a number on a bounded
+scale. A conversion formula, based not on population-wide
+data but on expert judgments about what various awards
+would actually mean or do, would be used to produce rational
+judgments about dollar amounts. The result would be a form
+of technocratic populism— populist in the sense that normative
+judgments of the jury would be the foundation of decision,
+technocratic in the sense that experts would translate those
+judgments into legal awards.</p>
+      </sec>
+      <sec id="sec-2-2">
+        <title>If the basic problem is that people’s moral judgments are</title>
+        <p>not the proper basis for punitive awards, judges might, in
+some or all contexts, use those moral judgments as one factor
+to be considered among others, or the legal system might
+dispense with jury judgments entirely in some or all contexts.
+If, for example, it is believed that existing social norms are not
+the appropriate basis for punishment, or if deterrence rather
+than retribution is the appropriate goal of punitive damages,
+an expert body might decide on appropriate awards, or it
+could offer general guidance to trial court judges. The result
+would be a form of bureaucratic rationality.</p>
+        <p>We discuss these points in some detail. We also compare
+these reform proposals with other alternatives, including
+punitive damage “caps,” simple multipliers, greater judicial
+control of awards, and monetary schedules building on the
+workers’ compensation model. We suggest that caps and
+multipliers have serious problems, but that firmer judicial
+control would likely be a desirable and easily administrable
+step, at least if judges can produce or work from monetary
+schedules or otherwise attempt to work from comparison
+cases. A more radical reform, with much promise but also
+some risk, would involve a shift from juries to administrators,
+operating from a set of guidelines produced by specialists in
+the areas at hand, subject of course to democratic
+safeguards.</p>
+        <p>Both the empirical findings and the policy
+recommendations have implications well beyond the problem
+of punitive damages. The problem of “mapping” onto a dollar
+scale arises not only in the setting of punitive damages, but
+also in damages for “pain and suffering,” libel actions, sexual
+harassment cases, intentional infliction of emotional distress,
+administrative penalties, and judgments about the appropriate
+focus of the regulatory state. About one-half of tort law
+involves monetary awards for injuries that are hard to
+monetize.31 From our findings, it is reasonable to infer that the
+phenomenon of shared judgments and erratic or arbitrary32
+dollar amounts create a serious and unaddressed problem in
+many areas. Very typically, juries and judge are mapping
+judgments onto an unbounded dollar scale; the phenomenon
+of widespread and predictable judgments, combined with the
+demonstrable cognitive difficulty of translating preferences
+and values into dollar amounts, has wide-ranging implications
+for the operation of both private and public law.</p>
+        <p>Most generally, our findings raise a simple question: How
+can the normative goals of the legal system be made to mesh
+with what is, or might be, known about human psychology?
+This is a large and unanswered question. We attempt to make
+some progress on it here.</p>
+        <p>This Article comes in six parts. Part II outlines existing
+understandings about punitive damages, showing how the
+sources of variable judgments are relevant to constitutional
+issues and also to existing theories of deterrence and
+retribution. Part III outlines our study and the basic
+conclusions. Part IV presents policy recommendations
+designed to provide a role for community judgments without
+the “noise” and arbitrariness that accompany the current
+system. What is important is not the details of the proposals
+31 See W. Kip Viscusi, Reforming Products Liability 102-104 (1993).
+32 They may be arbitrary either in the sense of erratic or in the sense
+of a product of a normatively questionable “anchor” on which the jury has
+seized. See TAN infra.
+but their basic goal and direction: to provide juries with an
+opportunity to do what they are capable of doing relatively
+well, without requiring juries to do what they are bound to do
+badly.</p>
+        <p>Part V briefly discusses some analogies and implications,
+dealing above all with the general problem of jury
+determination of dollar amounts in contexts in which
+monetization is unfamiliar and difficult. We show how an
+evaluation of appropriate reforms with respect to
+compensatory awards call for an ambitious decision about
+role of populist and technocratic ingredients of
+“compensation” judgments— or, in other words, a decision
+about what the vexing idea of “compensation”should be taken
+to mean. We also outline a possible research agenda to see
+how actual or potential descriptive findings in psychology
+might bear on the normative goals of the legal system. Part VI
+is a conclusion.</p>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>II. DETERRENCE, RETRIBUTION, AND THE CONSTITUTION</title>
+      <sec id="sec-3-1">
+        <title>A. Policy Notes</title>
+        <p>It is not our purpose to resolve the debate about whether
+and why a court should award punitive damages.33 Our
+modest goal is to outline some of the relevant arguments by
+way of introduction. It is important to provide those arguments
+here, since they provide the foundation for the constitutional
+law governing punitive damage awards, and because the
+arguments play a large role in our empirical study.</p>
+        <p>33 Relevant discussions include Polinsky and Shavell, supra note;
+Dorsey Ellis, Fairness and Efficiency in the Law of Punitive Damages, 56
+Southern Cal. L. Rev. 1 (1982); Robert Cooter, Economic Analysis of
+Punitive Damages, 56 S. Cal. L. Rev. 79 (1982); Robert Cooter, Punitive
+Damages for Deterrence, 40 Alabama L. Rev. 1143 (1989); David Owen,
+The Moral Foundations of Punitive Damages, 40 Ala. L. Rev. 705 (1989);
+Marc Galanter and David Luban, Poetic Justice, 42 Am. L. Rev. 1393
+(1993).</p>
+        <p>The traditional view is that punitive awards serve deterrent
+and retributive goals. Thus a standard jury instruction says,
+“In determining whether or not you should award punitive
+damages, you should bear in mind that the purpose of such
+an award is to punish the wrongdoer and to deter that
+wrongdoer from repeating such wrongful acts. In addition,
+such damages are also designed to serve as a warning to
+others, and to prevent others from committing such wrongful
+acts.”34</p>
+      </sec>
+      <sec id="sec-3-2">
+        <title>1. Deterrence</title>
+        <p>(a) Conventional arguments. With respect to the goal of
+deterrence, there is a simple and standard economic
+argument for punitive damages: Compensatory damages work
+well for deterrence if and only if it is easy to identify and to
+bring suit against the injurer, and to collect full damages.
+Under these conditions, the wrongdoer faces liability for the
+full social costs of the wrong. Thus there is no need for
+additional damages if the probability of detection and
+successful suit for compensation is 100%. But sometimes it is
+difficult to identify the injurer, perhaps because the tort has
+occurred surreptitiously. In such cases, adequate deterrence
+will not be provided, since wrongdoers will be able to continue
+to engage in conduct whose social costs exceed social
+benefits. Punitive damages are necessary to pick up the slack
+for undetected wrongdoers.35</p>
+        <p>Under this view, the goal of punitive damages is to
+ensure that the award of compensatory damages is
+supplemented by an amount reflecting the fact that the
+probability of that award is less than 100%. The simplest
+conclusion is that total damages should be the harm
+multiplied by the reciprocal of the probability than the
+defendant will be found liable when he should be found
+liable; punitive damages would then consist of the excess of
+total damages over compensatory damages.36 We will
+suggest some institutional and psychological reasons to
+doubt that jurors can or will make judgments of this kind; let
+us continue the simple account for now.</p>
+        <p>With some torts— medical malpractice is an obvious
+example— it is very plausibly the case that many defendants
+will be able to avoid compensatory damages. When the
+defendant has been able to conceal his identity, or otherwise
+to escape being sued, there is therefore good reason to
+award punitive damages. Interestingly, this analysis supports
+a relatively high punitive damages award in the BMW case
+(discussed below), because it is not easy to detect fraudulent
+repaintings of cars. But in cases in which the probability of
+detection and suit is extremely high, punitive damages make
+far less sense. This may be true, for example, of certain
+homicides and assaults.</p>
+        <p>From the standpoint of optimal deterrence, there is a
+second possible reason to award punitive damages. There
+may be cases in which a social judgment has been, and
+should be, made that certain subjective gains ought not to be
+allowed to count at all.37 If someone has gained utility from
+murder, rape, assault, or sexual harassment, it might be
+thought— reasonably enough— that that gain should not be
+permitted to count. Of course the argument that such gains
+should not count is not itself an economic judgment, but it is
+not hard to imagine defenses of that argument.38 Punitive
+damages are necessary to offset the utility gain that is judged
+illicit. Compensatory damages are inadequate, in such cases,
+36 See Polinsky &amp; Shavell, Punitive Damages: An Economic Analysis,
+Harv. L. Rev., forthcoming.</p>
+        <p>37 Some utilitarians make just this argument. See the discussion of the
+exclusion of sadistic or malicious preferences in John Harsanyi, Morality
+and the Theory of Rational Behavior, in Utilitarianism and Beyond 39
+(Amartya Sen and Bernard Williams eds. 1982)</p>
+        <p>38 See id.
+because they do not have this effect; they require the
+defendant to internalize the victim’s costs without also
+eliminating the hedonic effects of the defendant’s benefits.</p>
+        <p>A third possible reason for punitive damages stems from
+the fact that sometimes compensatory damages may be lower
+than they should be, and sometimes it is especially costly for
+courts to calculate compensatory damages. If compensatory
+awards are systematically low, and if calculation costs are
+high, the amount awarded for punitive damages may move
+the legal system closer to optimal deterrence.39 Of course this
+argument has a degree of speculativeness and also
+crudeness, because it is unlikely that punitive damages can
+be calibrated with sufficient precision to make up for the
+shortfall in compensatory damages. But perhaps it is
+reasonable to think that punitive damages bring the incentives
+of wrongdoers closer to where they should be.</p>
+        <p>On this view, intentional torts, involving deliberate infliction
+of an injury, may well provide good cases for punitive
+damages. Of course it is in such cases that socially illicit
+gains are most likely to be involved. In such cases, the
+probability of obtaining damages from the injurer may well be
+less than 100%; intentional torts frequently (though not
+always) involve a form of concealment. But an important
+implication is that punitive damages generally do not make
+sense for highly visible torts where the probability of detection
+and compensation is extremely high; there, compensatory
+damages are all that is required.40</p>
+        <p>(b) Puzzles and problems. Even from the economic point
+of view, these arguments for punitive damages raise some
+serious puzzles. An important question, not yet taken up in
+the economic literature, is the relation between this rationale
+for punitive damages and the existence of other regulatory
+controls, for example those created by administrative and
+criminal law. Both administrative and criminal law are often
+39 See Landes and Posner, supra note, at 160.</p>
+        <p>40 See id.; Polinsky and Shavell, supra note.
+defended as an effort to compensate for private
+underenforcement of law;41 if the tort system also attempts to
+pick up the slack via punitive damages, overdeterrence may
+well result. A system containing compensatory and punitive
+damages may be both necessary and sufficient taken by
+itself, but if it is complemented by administrative and criminal
+law, it is likely to become incoherent.</p>
+        <p>There is an independent point, closely related to our
+findings here. Even without administrative and criminal law,
+efforts to impose punitive damages may well misfire because
+of the inevitable confusion or cognitive and motivational errors
+of jurors and judges. There is thus a question whether
+realworld institutions should or can reliably engage in the
+enterprise of seeking to obtain optimal deterrence even if they
+seek to do so. That enterprise is very costly, and the costs of
+decision may argue in favor of some other system for
+calculating punitive damages. Perhaps juries will not
+understand the inquiry into optimal deterrence; perhaps it will
+be too costly to give them the relevant understanding;
+perhaps they will refuse to undertake that inquiry even if they
+are asked to do so. We return to these issues below.</p>
+        <p>A general problem is that if juries are not thinking in
+economic terms, they may award large punitive damages in a
+way that deters desirable activity (or award small punitive
+damages in a way that produces insufficient deterrence). With
+large awards, activity that produces benefits as well as costs
+may be stopped or significantly reduced, with possible
+adverse effects on safety and health itself.42 It is for this
+41 See, e.g., Richard A. Posner, Economic Analysis of Law 220 (4th
+ed. 1994). A general discussion is Edward Rubin, Punitive Damages:
+Reconceptualizing the Runcible Remedies of Common Law, Wisconsin
+Law Review (forthcoming 1997).</p>
+        <p>42 Thus there is a possibility here of health-health tradeoffs, which
+occur when a strategy designed to reduce health risks actually increases
+health risks. Some punitive damage awards may actually have adverse
+health effects, if they serve to increase prices. For a recent discussion,
+see Richard L. Manning, Products Liability and Prescription Drug Prices in
+reason that the strongest cases involve intentional torts, and
+the weakest case involves negligence. In cases involving
+negligence, punitive damages would be likely to reduce
+desirable activity. This is much less likely for intentional
+wrongdoing, where desirable activity by hypothesis is not at
+issue. Reckless behavior is of course an intermediate case.</p>
+        <p>For those interested in optimal deterrence, a particularly
+important dispute is whether, on economic grounds, the
+wealth or income of the defendant should matter.43 As we will
+explain, our findings suggest that the defendant’s wealth is
+likely to be an important variable in actual damage awards,
+though it plays little or no role in people’s judgments about
+outrageousness or appropriate punishment on a bounded
+numerical scale.44 The Supreme Court has said that wealth
+and income can be taken into account.45 On a conventional
+view about optimal deterrence, however, wealth and income is
+irrelevant. Properly calculated by reference to the probability
+of punishment and the need to counteract illicit gains, a
+punitive damages award should encourage a defendant to
+Canada and the United States, 40 J. L. &amp; Economics 203, 210-34 (1997).
+For general discussion, see John Graham and Jonathan Weiner, Risk vs.
+Risk (1996); Cass R. Sunstein, Health-Health Tradeoffs, 63 U. Chi. L.
+Rev. 1533 (1996). Evidence of such effects, in the particular context of
+punitive damages, can be found in Paul Rubin, John Calfee, and Mark
+Grady, BMW v. Gore: Mitigating the Punitive Economics of Punitive
+Damages, 1997 Supreme Court Review 179, 192-96.</p>
+        <p>43 For the view that wealth should be irrelevant, see Kemezy v.
+Peters, 79 F.3d 22 (7th Cir. 1996); Kenneth Abraham and John Jeffries,
+Punitive Damages and the Rule of Law, 18 J. Legal Stud. 415 (1989);
+Ellis, supra note, at 61-63; Polinsky and Shavell, supra note. For an
+argment the other way, see Jennifer Arlen, Should Defendants’ Wealth
+Matter?, 21 J. Legal Stud. 413, 414 (1992) (discussing deterrence of
+riskaverse people).</p>
+        <p>44 See TAN supra. Compare Robert MacCoun, infra note 45.
+45 See infra. Cf. Robert MacCoun, Differential Treatment of Corporate
+Defendants by Juries, 30 Law &amp; Society Review 121, 133-39 (1996)
+(finding effects from corporate identity and commercial activity, but not
+from wealth per se).
+engage in optimal behavior, whatever its wealth (assuming
+risk neutrality).46 But there is a question whether this is
+realistic; we take up this issue below.</p>
+      </sec>
+      <sec id="sec-3-3">
+        <title>2. Retribution</title>
+        <p>Thus far we have spoken in terms of deterrence; but under
+conventional noneconomic analysis, punitive damages also
+have an expressive or retributive purpose. They are designed
+to punish as well as to deter. Juries believe that such awards
+express the community’s outrage at certain forms of behavior,
+and judges’instructions encourage juries to think in precisely
+these terms. In fact empirical evidence, including that
+provided here,47 suggests that juries are not attempting to
+promote optimal deterrence but instead to punish wrongdoing
+with, at most, a signal designed to ensure that certain
+misconduct “will not happen again.”</p>
+        <p>Regrettably, the legal culture lacks a careful normative
+account of the relationship between retributive goals and
+punitive damages. Those who emphasize retribution are
+seeking to ensure that the community’s outrage about certain
+acts is reflected in punishment. Probably the retributive idea
+would focus on two principal factors: the defendant’s state of
+mind and the degree of harm actually caused or likely to be
+caused by defendant’s behavior. The first point is especially
+important. Retributists who are moral egalitarians48 attempt,
+through civil or criminal punishment, to capture the intuition
+that certain intentional states are especially bad because they
+reflect abhorrent and false views about the moral worth of
+persons.49 In cases where one person murders another, or
+46 See Landes and Posner, supra note, at 163-64; Polinsky and
+Shavell, supra note.</p>
+        <p>47 See TAN infra.</p>
+        <p>48 Of course retributivists need not be egalitarians; we could imagine
+retributists who thought that harms against some persons deserve less
+punishment than harms against other persons.</p>
+        <p>49 See Jean Hampton, The Retributive Idea, in Jean Hampton and
+Jeffrie Murphy, Forgiveness and Mercy 111 (1988).
+acts with gross negligence that produces another’s death, the
+wrongdoer reveals a belief that some people do not matter
+very much.50 Public outrage is the appropriate response.</p>
+        <p>In this sense retribution, properly understood, embodies a
+principle of moral equality. The award of punitive damages
+can also be taken to have an expressive function; it expresses
+the community’s outrage at certain kinds of conduct, in a way
+that is intended both to reflect and to entrench the relevant
+social norms. This idea connects the award of punitive
+damages with their historical origins in affronts to the honor of
+the victims.51 With this understanding it is not surprising that
+punitive damages have come to be awarded for sexual
+harassment and for other violations of civil rights statutes;52
+the relevant community now believes that these kinds of
+illegality reflect an especially bad state of mind, and hence
+that punitive damages are a necessary supplement to other
+sanctions. The defendant must be punished accordingly. In
+any event the retributive idea suggests that the most serious
+cases for punitive damage awards thus involve harms that are
+both grave in degree and affirmatively desired by the
+defendant, as, for example, in examples of homicide or
+assault.</p>
+        <p>We connect these factors to the psychology of punitive
+damage awards in the discussion below. The central point is
+that if retribution is the goal of punitive damage awards, it is
+important to ensure that juries are asked questions that allow
+them to express, in a rational and coherent manner, their
+comparison cases219— especially because, as we have
+shown, the dollar awards of any particular jury are not likely to
+reflect the population’s judgment about appropriate dollar
+awards. A more dramatic approach— probably the best for the
+long term, though not without risks of its own— would involve
+the development of a system of administrative penalties for
+serious misconduct, based on judgments made in advance
+and subject to democratic control.</p>
+        <p>Our findings have implications well beyond the area of
+punitive damages. Three implications are of special
+importance. First, there is, in the personal injury cases studied
+here, a high degree of agreement within diverse demographic
+groups with respect to both outrage and punishment. It is
+possible that there is a similar consensus across other
+domains; thus ample room remains for further related work. It
+would be valuable to see, for example, whether such a
+consensus exists across gender with respect to compensatory
+damage awards, or punitive damage awards, for pain and
+suffering or sexual harassment; it would be valuable too to
+see whether there are substantive areas in which race,
+education, age, and wealth have measurable effects.
+Relatively simple studies could produce evidence on some
+much-disputed questions.</p>
+        <p>Second, our study raises serious doubts about whether
+jurors are able to make sensible judgments about dollar
+219 See Klein v. Grynberg, 44 F. 3d 1497 (10th Cir. 1995); Stafford v.
+Puro, 63 F.3d 1436 (7th Cir. 1995): Allahar v. Zahora, 59 F.3d 693 (7th
+Cir. 1995): Ross v. Black and Decker, Inc., 977 F.2d 1178 (7th Cir. 1992):
+Vasbinder v. Scott, 976 F.2d 118 (2nd Cir. 1992); Kimzey v. Wal-Mart
+Stores, Inc., 107 F.3d 568 (8th Cir. 1997): Lee v. Edwards, 101 F.3d 805
+(2nd Cir. 1996): King v. Macri, 993 F.2d 294 (2nd Cir. 1993): Michelson v.
+Hamada, 36 Cal.Rptr.2d 343 (Cal. Ct. App. 1994): Wollersheim v. Church
+of Scientology, 6 Cal.Rptr.2d 532 (Cal. Ct. App. 1992): Baume v. 212 E.
+10 N.Y. Bar Ltd., 634 N.Y.S. 2d 478 (N.Y. App. Div. 1995); Parkin v.
+Cornell University Inc., 581 N.Y.S.2d 914 (N.Y. App. Div. 1992). As noted,
+our evidence suggests that if community-wide judgments are the goal, it is
+important to have a mechanism for additur as well as remittitur.
+awards in cases in which market measures are unavailable,
+and it throws into sharp relief the question whether this task
+should not be given to judges or to some other institution. The
+legal system is not occasionally but pervasively in the
+business of requiring people to map their judgments onto
+dollar amounts, and outside of the context of punitive
+damages, the translation is likely to suffer from the same
+problems found here. In particular, difficulties with mapping
+probably affect jury awards of damages for libel, pain and
+suffering, sexual harassment and other civil rights violations,
+and intentional infliction of emotional distress— all of which
+notoriously suffer from unpredictability, in part, we believe, as
+a result of unbounded dollar scales. The consequence is that
+rule of law values are badly compromised. Reform proposals
+might ensure against unfairness (in the form of dissimilar
+treatment of the similarly situated) and unpredictability for
+both individuals and firms, plaintiffs and defendants alike.
+More particularly, reforms involving “compensatory”awards in
+these controversial areas must be evaluated by an
+assessment of the appropriate place of purely factual
+judgments, for which juries are not especially well-suited.
+Thus the three kinds of punitive damage reforms may well
+have parallels in each of these areas.</p>
+        <p>Third, our findings support the general proposition, on
+which there is growing consensus, that both values and
+preferences are often constructed, rather than elicited, by
+social situations.220 In their various social roles, people lack a
+preexisting “master list”of values and preferences from which
+to make selections in situations of choice. This is true for
+consumer choices, which depend on context and alternative
+options, as well as for medical decisions,221 politics, and
+law.222 It is true as well for judgments made by jurors, judges,
+representatives, and citizens generally. Rather than emerging
+from some menu in the mind, these judgments are a function
+of procedure, description, and context. In the legal context in
+particular, participants are pervasively in the business of
+constructing procedures, descriptions, and contexts.
+Frequently they have not been self-conscious about that
+point.</p>
+        <p>To be sure, there is no uncontroversial way to develop the
+context and frames for eliciting, or constructing, social
+preferences and values. But some ways are worse than
+others, because they make people perform tasks for which
+they are ill-equipped— or, more specifically, produce poor
+translation of some plausible “bedrock” set of normative
+judgments, generate arbitrariness, aggravate the problem of
+selective attention, exploit heuristic devices that produce
+error, or provide people with too little understanding to yield
+sensible or consistent decisions. We have suggested some
+ways to handle these problems with the award of punitive
+damages, where bedrock judgments do seem discoverable
+through the right methods, and where the legal system allows
+those judgments to be transformed into dollar amounts in
+erratic ways. Both the problem and the potential solutions
+bear on many issues now facing the legal system.</p>
+      </sec>
+    </sec>
+    <sec id="sec-4">
+      <title>APPENDIX 1. EXCERPTS FROM INSTRUCTIONS</title>
+      <p>In this study we would like you to imagine that you are a
+juror for a legal case in a civil court. Civil law suits can involve
+disputes between private individuals, companies, or
+individuals and companies, in which the plaintiff alleges that
+the defendant harmed them or their property in some way. A
+civil suit is brought by a plaintiff for the purpose of gaining
+compensation from the defendant for the alleged harm.</p>
+      <p>
+        Civil suits involve two different types of penalties that
+could be imposed upon a defendant that is found liable for
+damages. Compensatory damages are intended to fully
+compensate a plaintiff for the harm suffered as a result of the
+defendant’s actions. Punitive damages are intended to
+achieve two purposes: (1) to punish the defendant for unusual
+misconduct, and (
+        <xref ref-type="bibr" rid="ref21">2</xref>
+        ) to deter the defendant and others from
+committing the same actions in the future.
+      </p>
+      <p>In the cases you will consider, the defendant has already
+been ordered to pay compensatory damages to the plaintiff.
+This does not necessarily mean that punitive damages must
+also be awarded. Whether or not punitive damages should be
+awarded and, if so, how large they should be, is completely
+separate from compensatory damages.</p>
+      <p>Punitive damages should be awarded if a preponderance
+of the evidence shows that the defendants either acted
+maliciously or with reckless disregard for the welfare of
+others. Defendants are considered to have acted maliciously
+if they intended to injure or harm someone. Defendants are
+considered to have acted with reckless disregard for the
+welfare of others if they were aware of the probable harm to
+others but disregarded it, and their actions were a gross
+deviation from the standard of care that a normal person
+would use.</p>
+      <p>Civil suits differ from criminal cases, in which the
+government prosecutes an individual or a company for
+alleged violations of the law. Plaintiffs in a civil trial must
+prove their claim by “a preponderance of the evidence,”which
+means that it is more likely than not that the plaintiff’s claim is
+justified. This differs from criminal trials, where the
+prosecution must prove the defendant’s guilt “beyond a
+reasonable doubt.”</p>
+      <p>In each of the cases you will consider, the jury (of which
+you are a member) has already decided to accept the
+plaintiff's claim. As a consequence the jury has ordered the
+defendant to pay $200,000 in compensatory damages to the
+plaintiff as full compensation. The defendants are large
+[medium-sized] companies with profits of $100-200 [$10-20]
+million per year.</p>
+    </sec>
+    <sec id="sec-5">
+      <title>APPENDIX 2. PERSONAL INJURY SCENARIOS</title>
+      <sec id="sec-5-1">
+        <title>Mary Lawson</title>
+        <p>Mary Lawson, a manufacturing worker, developed chronic
+anemia. Although after a hospital stay she is now better, the
+condition has not been fully cured. She believes that
+exposure to benzene in her work place caused the condition
+and sued her employer, TGI International. The jury (of which
+you are a member) ordered TGI International to pay her
+$200,000 in compensation.</p>
+        <p>TGI International is a large company (with profits of
+$100200 million per year) that manufactures high-tech machine
+parts. Some years ago the scientists at TGI International
+discovered that manufacturing workers at Mary Lawson’s
+plant were often exposed to benzene, a substance that can
+cause anemia, leukemia and cancer. Internal documents
+show that the top management at TGI International decided
+not to do anything about the problem, because benzene
+levels in the plant were slightly below the maximum level
+allowed by OSHA regulations. They thought that the risk was
+worth taking and that “with any luck no one will get sick”. They
+also decided against warning the workers, because “warnings
+would just create panic”.</p>
+      </sec>
+      <sec id="sec-5-2">
+        <title>Frank Williams</title>
+        <p>Frank Williams suffered serious internal injuries when the
+braking system on his motorcycle failed to work at a traffic
+light. He felt that that the brakes were defective, and sued
+National Motors, the company that manufactures and sells his
+motorcycle. The jury (of which you are a member) ordered
+National Motors to pay him $200,000 in compensation.</p>
+        <p>National Motors is a large company (with profits of
+$100200 million per year) that makes motorcycles, scooters, and
+other motorized single person vehicles. The evidence showed
+that the braking system used by National Motors has a basic
+design defect. National Motors was aware that “there might be
+a problem with our brakes,” because in pre-market tests, the
+defect appeared on several occasions. But the pre-market
+tests were not extensive, despite the fact that auto industry
+regulations require elaborate testing. Internal company
+documents show National Motors’belief that “it would be quite
+expensive for us to do much more now, we can't be certain we
+have a serious problem here, and anyway we can fix the
+problem afterwards if it really does turn out to be serious.”</p>
+      </sec>
+      <sec id="sec-5-3">
+        <title>Thomas Smith</title>
+        <p>While he was visiting the circus, Thomas Smith was shot
+in the arm by a security guard who mistakenly thought that
+Smith had threatened another customer with bodily harm. The
+security guard was drunk at the time. Smith sued Public
+Entertainment, the company that operates the circus. The jury
+(of which you are a member) ordered Public Entertainment to
+pay him $200,000 in compensation.</p>
+        <p>Public Entertainment is a large company (with profits of
+$100-200 million per year) which operates circuses and public
+fairs. Fred Williams, the security guard who was involved in
+the incident, is an alcoholic with a history of incidents of
+drunkenness on the job. During one of these incidents
+Williams took out his gun and started waving it around wildly,
+but he did not shoot anyone. Public Entertainment had
+repeatedly warned Williams to “clean up his act” but took no
+other action. In his company personnel file Williams was
+described as “basically a good guy with a bit of a drinking
+problem, but not enough of a risk to fire him.”</p>
+      </sec>
+      <sec id="sec-5-4">
+        <title>Susan Douglas</title>
+        <p>Susan Douglas suffered significant injuries to her legs and
+neck when an airbag in her car opened unexpectedly while
+she was driving the vehicle. She believes that the airbag was
+defective and sued the manufacturer, Coastal Industries. The
+jury (of which you are a member) ordered Coastal Industries
+to pay her $200,000 in compensation.</p>
+        <p>Coastal Industries is a large company (with profits of
+$100-200 million per year) that specializes in parts and
+accessories that can be added to existing vehicles, such as
+adding the latest safety equipment to older cars. While its
+airbag conforms to the requirements stated in government
+regulations, it does not include certain additional “fail-safe”
+systems that are used in other airbags to ensure against
+accidental opening. Internal documents show that most but
+not all of the Coastal Industries designers believed that their
+system “is certainly safe enough, even if it does not include all
+possible safeguards”and that their marketing department said
+that “there will be no market for our airbag if we raise its price
+by adding more safety bells and whistles.”</p>
+      </sec>
+      <sec id="sec-5-5">
+        <title>Carl Sanders</title>
+        <p>Carl Sanders used Nalene, an over-the-counter baldness
+treatment available at drugstores. While a small amount of
+hair did grow back, he also developed severe side-effects,
+including open sores on the scalp and permanent brown spots
+over his forehead. He sued the manufacturer, A&amp;G
+Cosmetics. The jury (of which you are a member) ordered
+A&amp;G Cosmetics to pay him $200,000 in compensation.</p>
+        <p>A&amp;G Cosmetics is a large company (with profits of
+$100200 million per year) that sells many different cosmetic
+products, including wigs, “weaves” and chemical solutions
+designed to combat baldness. Nalene has proven effective in
+promoting hair growth in 30% of people in clinical trials.
+However, Nalene caused unpleasant side effects in some
+cases, although none were as severe as those Carl Sanders
+experienced. When marketing Nalene, A&amp;G Cosmetics did
+not fully disclose these findings. It only said “minor side
+effects have been observed in a very small number of people
+tested.” While this amount of disclosure was within legal
+limits, other companies that make hair products voluntarily
+disclosed more about their products.</p>
+      </sec>
+      <sec id="sec-5-6">
+        <title>Sarah Stanley</title>
+        <p>Sarah Stanley, a seventy-five year old woman, suffered
+serious back injuries as a result of following an exercise
+video, “Good Health For All,”that she purchased through her
+local community health center. When Stanley attempted to
+perform the exercises, she found herself unable to do so, but
+she pressed on beyond her physical capacities. She claimed
+that she was not adequately warned of these dangers and
+sued the producer of the video, Gersten Productions. The jury
+(of which you are a member) ordered Gersten Productions to
+pay her $200,000 in compensation.</p>
+        <p>Gersten Productions is a large company (with profits of
+$100-200 million per year) that produces informational
+materials in health-related fields, including videos on many
+topics concerning healthy lifestyles. The “Good Health for All”
+video contains a series of exercises suitable mostly for people
+in good shape and good health. The exercise coaches and
+models in the video are all relatively young, and no federal or
+state law requires exercise videos to come with any special
+warning for elderly people. The witnesses in the case testified
+that Gersten Productions believed that most people would be
+able to tell when the exercises were beyond their capacities,
+that Good Health for All has produced good results for almost
+all people who have seen it, and that very few people had
+reported injuries of any type from doing so.</p>
+      </sec>
+      <sec id="sec-5-7">
+        <title>Jack Newton</title>
+        <p>Jack Newton, a five year old child, was playing with
+matches when his cotton flannel pajamas caught fire. He was
+severely burned over a significant portion of his body and
+required several weeks in the hospital and months of physical
+therapy. His parents sued the manufacturer of the pajamas,
+Novel Clothing. The jury (of which you are a member) ordered
+Novel Clothing to pay the Newtons $200,000 in
+compensation.</p>
+        <p>Novel Clothing is a large company (profits of $100-200
+million per year) that specializes in making clothes for
+children. Before marketing the pajamas, Novel conducted the
+tests normally used in the industry for problems like
+flammability, and observed no incidents like the Newtons
+experienced. Companies in the industry as well as federal
+regulators have known for a while that it is possible to add
+extra fire-retardant chemicals to their fabrics (in addition to
+those specified in current regulations), but these extra
+measures are not required. The process is very expensive,
+and no other manufacturers currently use it. Internal
+documents show that the management of Novel Clothing had
+decided that “when it comes to costly safety innovations we
+will follow our competitors. We don't want to be less safe than
+anyone else but we don't have to lead the way either.”</p>
+      </sec>
+      <sec id="sec-5-8">
+        <title>Low Harm version:</title>
+        <p>Jack Newton, a five year old child, was playing with
+matches when his cotton flannel pajamas caught fire. His
+hands and arms were badly burned, and required regular
+professional medical treatment for several weeks.</p>
+      </sec>
+      <sec id="sec-5-9">
+        <title>Joan Glover</title>
+        <p>Joan Glover, a six year old child, ingested a large number
+of pills of Allerfree, a non-prescription allergy medicine, and
+required an extensive hospital stay. The overdose weakened
+her respiratory system, which will make her more susceptible
+to breathing-related diseases such as asthma and
+emphysema for the rest of her life. The Allerfree bottle used
+an inadequately designed child-proof safety cap. The Glovers
+sued the manufacturer of Allerfree, the General Assistance
+company. The jury (of which you are a member) ordered
+General Assistance to pay the Glovers $200,000 in
+compensation.</p>
+        <p>General Assistance is a large company (with profits of
+$100-200 million per year) that manufactures a variety of
+nonprescription medicines. A federal regulation requires
+“childproof”safety caps on all medicine bottles. General Assistance
+has systematically ignored the intent of this regulation by
+selling tens of thousands of bottles of medicines with a
+childproof safety cap that was generally effective, but had a failure
+rate much higher than any others in the industry. An internal
+company document says that “this stupid, unnecessary
+federal regulation is a waste of our money”; it acknowledges
+the risk that Allerfree may be punished for violating the
+regulation but says, “the federal government has many other
+things to worry about and probably won't bother us on this”
+and in any case “the punishments for violating the regulation
+are extremely mild; basically we'd be asked to improve the
+safety caps in the future.” An official at the Food and Drug
+Administration had previously warned a vice president of
+General Assistance that they were “on shaky ground” but the
+company decided not to take any corrective action.</p>
+      </sec>
+      <sec id="sec-5-10">
+        <title>Low Harm version:</title>
+        <p>Joan Glover, a six year old child, ingested a large number
+of pills of Allerfree, a non-prescription allergy medicine. She
+had to spend several days in a hospital, and is now deeply
+traumatized by pills of any kind. When her parents try to get
+her to take even beneficial medications such as vitamins,
+aspirin, or cold remedies, she cries uncontrollably and says
+that she is afraid.</p>
+      </sec>
+      <sec id="sec-5-11">
+        <title>Martin West</title>
+        <p>Martin West, a right-handed disabled veteran who lived in
+a two story house, was seriously injured in a fall when the
+chain broke on his electric lift-chair (a device that allows
+someone to be carried up stairs in a chair that moves up and
+down an angled track). He fell from near the top of the stairs
+and tumbled awkwardly all the way to the bottom landing,
+damaging his spinal cord in the process. As a result he now
+has only partial control of his right arm, a condition which
+doctors believe is permanent. He sued the manufacturer of
+the lift-chair, MedTech Products. The jury (of which you are a
+member) ordered MedTech to pay him $200,000 in
+compensation.</p>
+        <p>MedTech Products is a large company (profits of $100-200
+million per year) that manufactures many types of medical
+equipment, including wheelchairs, car-lifts, and other devices
+used by the disabled. The lift-chair is a new product for
+MedTech, and instead of producing a new design, company
+engineers decided to adapt the design of the hydraulic lifts for
+cars already on the market. Unfortunately, there are several
+unique problems in designing a safe and effective lift-chair
+that are beyond the experience of the company’s engineers.
+Product managers said that hiring new engineers with the
+proper expertise was “too expensive, and would take too long”
+and ordered current engineers to “just do the best you can,
+but be sure you meet our deadline for announcing the
+product.” The inexperience of the engineers and the rush to
+meet the product announcement date led to testing
+procedures that were less rigorous than those required by
+federal medical product regulations.</p>
+      </sec>
+      <sec id="sec-5-12">
+        <title>Low Harm version:</title>
+        <p>Martin West, a left-handed disabled veteran who lived in a
+two story house, was injured in a fall when the chain broke on
+his electric lift-chair (a device that allows someone to be
+carried up stairs in a chair that moves up and down an angled
+track). He fell from near the bottom of the stairs and tumbled
+to the bottom landing, injuring his spinal cord in the process.
+His right arm was paralyzed for several weeks, after which
+doctors were able to repair most of the injury, and he was
+able to regain most of the previous range of motion in the
+arm.</p>
+      </sec>
+      <sec id="sec-5-13">
+        <title>Janet</title>
+        <p>Janet Windsor, a secretary who works on computer
+equipment, developed a rare form of skin cancer. After a long
+course of painful chemotherapy, doctors were able to cure the
+cancer, although they cannot be sure that it will not return.
+She believed that it had been caused by the computer
+monitors that she worked on and sued the manufacturer,
+International Computers. The jury (of which you are a
+member) ordered International Computers to pay her
+$200,000 in compensation.</p>
+        <p>International Computers is a large company (profits of
+$100-200 million per year) that manufactures components of
+computer systems. The type of International Computers
+monitor that Ms. Windsor used emits an unusually high level
+of radiation compared to other similar monitors, a level that
+pushes the limit in government safety guidelines. Internal
+company documents cite experts who concluded that “the
+evidence that this level of radiation could create any serious
+risk to health and life is weak and tentative”. The company
+was not legally required to disclose the unusual level of
+radiation, and it did not do so.</p>
+      </sec>
+      <sec id="sec-5-14">
+        <title>Low Harm version:</title>
+        <p>Janet Windsor, a secretary who works on computer
+equipment, suffered from frequent and severe migraine
+headaches. As a result, for several years she often
+experienced nausea, insomnia and depression, and missed
+many workdays and family events.</p>
+      </sec>
+    </sec>
+    <sec id="sec-6">
+      <title>APPENDIX 3. RESPONSE MODE MANIPULATION</title>
+      <sec id="sec-6-1">
+        <title>Outrage</title>
+        <p>Which of the following best expresses your opinion of the
+defendant’s actions? (please circle your answer)</p>
+      </sec>
+    </sec>
+    <sec id="sec-7">
+      <title>Objectionable</title>
+    </sec>
+    <sec id="sec-8">
+      <title>Shocking</title>
+      <sec id="sec-8-1">
+        <title>Punishment</title>
+        <p>In addition to paying compensatory damages, how much
+should the defendant be punished? Please circle the number
+that best expresses your opinion of the appropriate level of
+punishment.</p>
+        <p>No
+Punishmen
+t</p>
+      </sec>
+    </sec>
+    <sec id="sec-9">
+      <title>Mild Punishmen t</title>
+    </sec>
+    <sec id="sec-10">
+      <title>Severe Punishmen t</title>
+    </sec>
+    <sec id="sec-11">
+      <title>Extremely Severe</title>
+      <p>Punishment
+0
+1
+2
+3
+4
+$ Damages</p>
+      <p>In addition to paying compensatory damages, what
+amount of punitive damages (if any) should the defendant be
+required to pay as punishment and to deter the defendant and
+others from similar actions in the future? (please write your
+answer in the blank below)</p>
+      <p>$ _____________________</p>
+      <sec id="sec-11-1">
+        <title>Samples and Procedures</title>
+        <p>The sample had good representation from various
+demographic and socio-economic groups. For example,
+respondents were 44% male; 64% Caucasian, 16%
+AfricanAmerican, 15% Hispanic; median income = $30K-$50K;
+median education = some college; median age = 30-39.
+Thirty-two respondents were dropped from the sample
+because they gave incomplete responses or failed to
+understand the task.</p>
+        <p>The survey was conducted at a downtown hotel.
+Participants were run in large groups at pre-arranged times
+over a four day period. Most respondents completed their task
+in 30 to 45 minutes.</p>
+        <p>
+          Each respondent received three pages of general
+instructions and four numbered envelopes. The first three
+envelopes contained the materials for Parts 1, 2 and 3 of the
+study, as described below. The fourth envelop contained
+demographic question and debriefing information. The
+instructions (which are excerpted in Appendix 1)included (1)
+an overview of the survey procedure, (
+          <xref ref-type="bibr" rid="ref21">2</xref>
+          ) an explanation of the
+task of jurors in civil (as opposed to criminal) trials, (
+          <xref ref-type="bibr" rid="ref22">3</xref>
+          )
+definitions of and distinctions between compensatory and
+punitive damages, including the fact that compensatory
+damages had already been awarded in the cases they would
+consider, (
+          <xref ref-type="bibr" rid="ref23">4</xref>
+          ) a summary of standard legal conditions for
+punitive damages (maliciousness or reckless disregard for the
+welfare of others), and (
+          <xref ref-type="bibr" rid="ref24">5</xref>
+          ) a reminder about the standard of
+evidence required in this situation (preponderance of the
+evidence).
+        </p>
+      </sec>
+      <sec id="sec-11-2">
+        <title>Design and Stimuli</title>
+        <p>Ten scenarios describing personal injury cases were
+constructed. The first six were used in Parts 1 and 2 of the
+procedure and the other four in Part 3. Each respondent rated
+some version of all ten scenarios. Envelope #1 contained
+material about one of the scenarios. Envelope #2 contained
+five other scenarios. Envelope #3 contained the four
+scenarios used in Part 3 of the experiment.</p>
+        <p>In Parts 1 and 2, between-subjects manipulations were
+response mode (Outrage, Punishment or $ Damages) and
+firm size (annual profits of $10-$20 million (Medium) or
+$100$200 million (Large)), and scenario sequence, including which
+scenario was evaluated first, in isolation from the others (in
+Part 1 of the procedure). Scenario order was counterbalanced
+using a Latin square so that each scenario appeared in each
+ordinal position with equal frequency. Table 2 shows the
+wording of the evaluation questions in the three response
+modes. Instructions in all scenarios stated that compensatory
+damages of $200,000 had already been awarded.</p>
+        <p>Part 3 had the same structure as Parts 1 and 2, except
+that the isolation manipulation was replaced by a
+manipulation in which the degree of harm suffered by the
+plaintiff was varied. For each of the four scenarios used in
+Part 3, we formulated a high-harm and a low-harm version.
+For example, in the case in which a child playing with
+matches was burned when his pajamas caught fire, the
+injuries were described as “He was severely burned over a
+significant portion of his body and required several weeks in
+the hospital and months of physical therapy” (high harm) or
+“His hands and arms were badly burned, and required regular
+professional medical treatment for several weeks”(low harm).</p>
+      </sec>
+    </sec>
+    <sec id="sec-12">
+      <title>Chicago Working Papers in Law and Economics</title>
+      <p>(Second Series)
+15. Richard A. Posner, What Do Judges and Justices
+Maximize? (The Same Thing Everyone Else Does) (April
+1993).
+16. Lucian Arye Bebchuk and Randal C. Picker, Bankruptcy
+Rules, Managerial Entrenchment, and Firm-Specific
+Human Capital (August 1993).
+17. J. Mark Ramseyer, Explicit Reasons for Implicit Contracts:
+The Legal Logic to the Japanese Main Bank System
+(August 1993).
+18. William M. Landes and Richard A. Posner, The
+Economics of Anticipatory Adjudication (September
+1993).
+19. Kenneth W. Dam, The Economic Underpinnings of Patent</p>
+      <p>Law (September 1993).
+20. Alan O. Sykes, An Introduction to Regression Analysis
+(October 1993).
+21. Richard A. Epstein, The Ubiquity of the Benefit Principle
+(March 1994).
+22. Randal C. Picker, An Introduction to Game Theory and
+the Law (June 1994).
+23. William M. Landes, Counterclaims: An Economic Analysis
+(June 1994).
+24. J. Mark Ramseyer, The Market for Children: Evidence
+from Early Modern Japan (August 1994).
+25. Robert H. Gertner and Geoffrey P. Miller, Settlement</p>
+      <p>Escrows (August 1994).
+26. Kenneth W. Dam, Some Economic Considerations in the
+Intellectual Property Protection of Software (August
+1994).
+27. Cass R. Sunstein, Rules and Rulelessness, (October
+1994).
+28. David Friedman, More Justice for Less Money: A Step</p>
+      <p>Beyond Cimino (December 1994).
+29. Daniel Shaviro, Budget Deficits and the Intergenerational</p>
+      <p>Distribution of Lifetime Consumption (January 1995).
+30. Douglas G. Baird, The Law and Economics of Contract</p>
+      <p>Damages (February 1995).</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          13
+          <string-name>
+            <given-names>See</given-names>
+            <surname>William</surname>
+          </string-name>
+          <string-name>
+            <surname>Landes</surname>
+          </string-name>
+          &amp; Richard Posner,
+          <source>The Economic Structure of Tort Law 160-65</source>
+          ,
+          <fpage>184</fpage>
+          -
+          <lpage>85</lpage>
+          ,
+          <fpage>223</fpage>
+          -
+          <lpage>24</lpage>
+          (
+          <year>1993</year>
+          ); Polinsky &amp; Shavell, supra note.
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          14
+          <string-name>
+            <given-names>See</given-names>
+            <surname>David Owen</surname>
+          </string-name>
+          ,
+          <source>The Moral Foundations of Punitive Damages, 40 Ala L Rev</source>
+          <volume>705</volume>
+          (
+          <year>1989</year>
+          )
+          <article-title>; Marc Galanter</article-title>
+          and David Luban, Poetic Justice,
+          <volume>42</volume>
+          Am. U. L. Rev.
+          <volume>1393</volume>
+          (
+          <year>1993</year>
+          )
+          <article-title>; Jean Hampton, The Retributive Idea</article-title>
+          , in Jean Hampton and
+          <string-name>
+            <given-names>Jeffrie</given-names>
+            <surname>Murphy</surname>
+          </string-name>
+          ,
+          <source>Forgiveness and Mercy</source>
+          <volume>111</volume>
+          (
+          <year>1988</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          15
+          <string-name>
+            <given-names>John</given-names>
+            <surname>Jeffries</surname>
+          </string-name>
+          ,
+          <source>A Comment on the Constitutionality of Punitive Damages, 72 Va L Rev</source>
+          <volume>139</volume>
+          ,
+          <issue>139</issue>
+          (
+          <year>1986</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          16
+          <string-name>
+            <given-names>Stephen</given-names>
+            <surname>Daniels</surname>
+          </string-name>
+          and Joane Martin,
+          <source>Myth and Reality in Punitive Damages, 75 Minn L Rev</source>
+          <volume>1</volume>
+          (
+          <year>1990</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>17 Id. at 32.</mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>18 Id. at 42.</mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          19
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Turner</surname>
+          </string-name>
+          et al.,
+          <source>Punitive Damages Explosion</source>
+          , Washington Legal Foundation, Working Paper Series No.
+          <volume>50</volume>
+          (
+          <issue>Nov</issue>
+          .
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          20
+          <string-name>
+            <given-names>Deborah</given-names>
+            <surname>Hensler</surname>
+          </string-name>
+          and
+          <string-name>
+            <given-names>Erik</given-names>
+            <surname>Moller</surname>
+          </string-name>
+          , Trends in Punitive Damages:
+          <article-title>Preliminary Data from Cook County, Illinois</article-title>
+          and San Francisco, California (
+          <article-title>RAND Institute for Civil Justice unrestricted draft series</article-title>
+          ,
+          <year>March 1995</year>
+          ).
+          <article-title>See also Rand Institute for Civil Justice, Punitive Damages in Financial Injury Verdicts (</article-title>
+          <year>1997</year>
+          )
+          <article-title>(showing substantial variability and growth in punitive awards).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          21
+          <string-name>
+            <given-names>Peter</given-names>
+            <surname>Huber</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>No-Fault</surname>
+            <given-names>Punishment</given-names>
+          </string-name>
+          , 40 Ala L Rev
+          <volume>1037</volume>
+          ,
+          <issue>1037</issue>
+          (
+          <year>1989</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          22
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Paul</surname>
+          </string-name>
+          <string-name>
+            <surname>Rubin</surname>
+          </string-name>
+          , John Calfee, and Mark Grady, BMW v.
+          <source>Gore: Mitigating the Punitive Economics of Punitive Damages</source>
+          ,
+          <source>1997 Supreme Court Economic Review</source>
+          <volume>179</volume>
+          , 184; E. Donald Elliott,
+          <source>Why Punitive Damages Don't Deter Corporate Misconduct Effectively</source>
+          ,
+          <volume>40</volume>
+          Ala. L. Rev.
+          <volume>1053</volume>
+          ,
+          <issue>1057</issue>
+          (
+          <year>1989</year>
+          ).
+          <article-title>See the attempted response in the Product Liability Reform Act of 1997, S. 5</article-title>
+          ,
+          <string-name>
+            <given-names>105th</given-names>
+            <surname>Cong</surname>
+          </string-name>
+          .,
+          <source>1st Sess</source>
+          .
+          <article-title>(</article-title>
+          <year>1997</year>
+          )
+          <article-title>(proposing to require a clear and convincing evidence standard and also to cap punitive damage awards).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <article-title>23 Contract with America: The Bold Plan by Rep</article-title>
+          .
+          <source>Newt Gingrich, Rep. Dick Armey, and The House Republicans to Change the Nation</source>
+          <volume>154</volume>
+          (Ed Gillespie and Bob Schellhas eds.,
+          <year>1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>24 Id. at 147.</mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          34
+          <string-name>
+            <given-names>Ronald</given-names>
+            <surname>Eades</surname>
+          </string-name>
+          ,
+          <source>Jury Instructions of Damages in Tort Actions</source>
+          <volume>98</volume>
+          (3d ed.
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          35
+          <string-name>
+            <given-names>See</given-names>
+            <surname>William</surname>
+          </string-name>
+          Landes and Richard A. Posner,
+          <source>The Economic Structure of Tort Law 160-65</source>
+          (
+          <year>1987</year>
+          )
+          <article-title>; Polinsky &amp; Shavell, Punitive Damages: An Economic Analysis</article-title>
+          , Harv L. Rev, forthcoming.
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          50 See id.; Jean Hampton,
+          <source>Correcting Harms Versus Righting Wrongs: The Goal of Retribution</source>
+          , 39 UCLA
+          <string-name>
+            <given-names>L</given-names>
+            <surname>Rev</surname>
+          </string-name>
+          <article-title>1659 (</article-title>
+          <year>1992</year>
+          ).
+          <article-title>Hampton discusses punitive damage awards in particular in id</article-title>
+          . at 1687-89;
+          <article-title>see also the illuminating discussion in Marc Galanter</article-title>
+          and David Luban,
+          <source>Poetic Justice: Punitive Damages and Legal Pluralism, 42 Am Univ L Rev</source>
+          <volume>1393</volume>
+          (
+          <year>1993</year>
+          )
+          <article-title>(connecting punitive awards with retributive goals and community outrage).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          51
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Dorsey</surname>
+          </string-name>
+          <string-name>
+            <surname>Ellis</surname>
+          </string-name>
+          ,
+          <source>Fairness and Efficiency in the Law of Punitive Damages, 56 S Cal L Rev</source>
+          <volume>2</volume>
+          ,
+          <fpage>14</fpage>
+          -
+          <lpage>15</lpage>
+          (
+          <year>1982</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          52 See, e.g., 42 U.S.C.
+          <year>1977A</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          220
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Amos</surname>
+          </string-name>
+          <string-name>
+            <surname>Tversky</surname>
+          </string-name>
+          ,
+          <source>Rational Theory and Constructive Choice, in The Rational Foundations of Economic Behavior</source>
+          <volume>185</volume>
+          (
+          <string-name>
+            <given-names>Kenneth</given-names>
+            <surname>Arrow</surname>
+          </string-name>
+          et al. eds.
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <article-title>221 See A. Bastardi and Eldar Shafir, On the search for and misuse of useless information</article-title>
+          (forthcoming
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          222
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Mark</surname>
+          </string-name>
+          <string-name>
+            <surname>Kelman</surname>
+          </string-name>
+          , Yuval Rottenstreich, and Amos Tversky, Context-Dependence in Legal Decisionmaking, 25
+          <string-name>
+            <given-names>J Legal</given-names>
+            <surname>Stud</surname>
+          </string-name>
+          .
+          <volume>287</volume>
+          (
+          <year>1996</year>
+          ).
+          <article-title>APPENDIX 4: EXPERIMENT DESIGN 1</article-title>
+          .
+          <string-name>
+            <surname>William</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Landes</surname>
+          </string-name>
+          ,
+          <source>Copyright Protection of Letters, Diaries and Other Unpublished Works: An Economic Approach (July</source>
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          2.
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Epstein</surname>
+          </string-name>
+          , The Path to The T. J.
+          <article-title>Hooper: The Theory and History of Custom in the Law of Tort (August</article-title>
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          3.
+          <string-name>
+            <surname>Cass</surname>
+            <given-names>R.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Sunstein</surname>
+          </string-name>
+          ,
+          <source>On Property and Constitutionalism (September</source>
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          4.
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Posner</surname>
+          </string-name>
+          , Blackmail, Privacy, and Freedom of Contract (
+          <year>February 1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          5.
+          <string-name>
+            <surname>Randal</surname>
+            <given-names>C.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Picker</surname>
+          </string-name>
+          , Security Interests, Misbehavior, and
+          <string-name>
+            <surname>Common Pools</surname>
+          </string-name>
+          (
+          <year>February 1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          6.
+          <string-name>
+            <surname>Tomas</surname>
+            <given-names>J.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Philipson</surname>
+          </string-name>
+          &amp; Richard A. Posner, Optimal Regulation of AIDS (April
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          7.
+          <string-name>
+            <surname>Douglas</surname>
+            <given-names>G</given-names>
+          </string-name>
+          . Baird,
+          <source>Revisiting Auctions in Chapter 11 (April</source>
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          8.
+          <string-name>
+            <surname>William</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Landes</surname>
+          </string-name>
+          ,
+          <source>Sequential versus Unitary Trials: An Economic Analysis (July</source>
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          9.
+          <string-name>
+            <surname>William</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Landes</surname>
+          </string-name>
+          &amp;
+          <article-title>Richard A. Posner, The Influence of Economics on Law: A Quantitative Study</article-title>
+          (
+          <year>August 1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          10.
+          <string-name>
+            <surname>Alan O. Sykes</surname>
+          </string-name>
+          ,
+          <article-title>The Welfare Economics of Immigration Law: A Theoretical Survey With An Analysis of U.S. Policy</article-title>
+          (
+          <year>September 1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          11.
+          <string-name>
+            <surname>Douglas</surname>
+            <given-names>G.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Baird</surname>
+          </string-name>
+          ,
+          <source>1992 Katz Lecture: Reconstructing Contracts (November</source>
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          12.
+          <string-name>
+            <surname>Gary</surname>
+            <given-names>S.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Becker</surname>
+          </string-name>
+          , The Economic Way of Looking at Life (
+          <year>January 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          13.
+          <string-name>
+            <surname>J. Mark</surname>
+            <given-names>Ramseyer</given-names>
+          </string-name>
+          , Credibly Committing to Efficiency
+          <source>Wages: Cotton Spinning Cartels in Imperial Japan (March</source>
+          <year>1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          14.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Endogenous Preferences, Environmental
+          <string-name>
+            <surname>Law</surname>
+          </string-name>
+          (
+          <year>April 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+

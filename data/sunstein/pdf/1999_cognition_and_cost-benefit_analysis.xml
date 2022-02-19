@@ -1,0 +1,1542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Cass R. Sunstein, "Cognition and Cost-Benefit Analysis" ( John M. Olin Program in Law and Economics Working Paper No.</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Cognition and Cost-Benefit Analysis</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Coase-Sandor Working Paper Series in Law</string-name>
+          <email>unbound@law.uchicago.edu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <string-name>Recommended Citation</string-name>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>1999</year>
+      </pub-date>
+      <volume>85</volume>
+      <issue>1999</issue>
+      <fpage>3</fpage>
+      <lpage>44</lpage>
+      <abstract>
+        <p>Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>JOHN M. OLIN LAW &amp; ECONOMICS WORKING PAPER NO. 85</p>
+      <p>(2D SERIES)
+COGNITION AND COST-BENEFIT ANALYSIS</p>
+      <p>Cass R. Sunstein
+The Social Science Research Network Electronic Paper Collection:
+http://papers.ssrn.com/paper.taf?abstract_id=186669</p>
+      <p>Cass R. Sunstein*
+“The American people have no doubt that more people die from coal dust
+than from nuclear reactions, but they fear the prospect of a nuclear reactor more
+than they do the empirical data that would suggest that more people die from coal
+dust, having coal-fired burners. They also know that more lives would be saved if
+we took that 25 percent we spend in the intensive care units in the last few months
+of the elderly’s lives, more children would be saved. But part of our culture is that
+we have concluded as a culture that we are going to rightly, or wrongly, we are
+going to spend the money, costing more lives, on the elderly. . . . I think it’s
+incredibly presumptuous and elitist for political scientists to conclude that the
+American people’s cultural values in fact are not ones that lend themselves to a
+cost-benefit analysis and presume that they would change their cultural values if in
+fact they were aware of the cost-benefit analysis.”1 Joseph Biden</p>
+      <p>Many people have argued for cost-benefit analysis on economic grounds.2
+On their view, a primary goal of regulation is to promote economic efficiency,
+and cost-benefit analysis is admirably well-suited to that goal. Arguments of this
+kind have met with sharp criticism from those who reject the efficiency criterion3
+or who believe that in practice, cost-benefit analysis is likely to produce a kind of
+regulatory paralysis.4</p>
+      <p>In this essay I offer support for cost-benefit analysis, not from the standpoint
+of conventional economics, but on grounds associated with cognitive psychology
+and behavioral economics. My basic suggestion is that cost-benefit analysis is
+best defended as a means of overcoming predictable problems in individual and
+social cognition. Most of these problems might be collected under the general
+heading of selective attention. Cost-benefit analysis should be understood as a
+method for putting “on screen” important social facts that might otherwise
+escape private and public attention. Thus understood, cost-benefit analysis is a
+* Karl N. Llewellyn Distinguished Service Professor of Jurisprudence, University of Chicago Law School. I
+am grateful to Matthew Adler, Jill Hasday, Eric Posner, and Richard Posner for helpful comments on a
+previous draft; special thanks to Eric Posner for many helpful discussions. Brian Lehman and Brooke May
+provided excellent research assistance and valuable comments and criticisms.
+1 Confirmation Hearings for Stephen G. Breyer, to be an Associate Justice of the United States Supreme
+Court, Senate Committee on the Judiciary, 103d Cong., 2d Sess. 42 (July 14, 1994) (Miller Reporting
+transcript).
+way of ensuring better priority-setting and of overcoming predictable obstacles
+to desirable regulation, whatever may be our criteria for deciding the hardest
+questions about that topic.</p>
+      <p>Of course much of the controversy over cost-benefit analysis stems from the
+difficulty of specifying, with particularity, what that form of analysis entails.
+None of the cognitive points made here supports any particular understanding
+of cost-benefit analysis. Certainly I do not mean to embrace the controversial and
+indeed implausible proposition that all regulatory decisions should be made by
+aggregating private willingness to pay, as if economic efficiency is or should be
+the goal of all regulation.5 I will attempt instead to provide an understanding of
+cost-benefit analysis that is agnostic on large issues of the right and the good, and
+that can attract support from people with diverse theoretical commitments, or
+with uncertainty about the appropriate theoretical commitments.6 In this sense I
+attempt to produce an incompletely theorized agreement on a certain form of
+costbenefit analysis—an agreement on a form of cost-benefit analysis to which many
+different people, with diverse and competing views, should be willing to
+subscribe. This is partly an attempt to respond to the most natural objection to
+my principal claim here, an objection that would stress the possibility that
+cognitive problems would reappear in the values that end up being associated
+with various states of affairs.</p>
+      <p>The paper is organized as follows. In sections I, II, and III, I seek to defend
+the general idea of cost-benefit analysis, not as embodying any sectarian
+conception of value, but as a way of overcoming predictable problems in
+understanding risks to life and health at both the individual and social levels. In
+section IV, I briefly attempt to specify what cost-benefit analysis might be
+understood to entail. My goal is to show how this method, conceived in a
+particular way, might attract support from people with varying conceptions of
+the good and the right, including, for example, neoclassical economists and those
+who are quite skeptical about some normative claims in neoclassical economics,
+and including those who do and who do not take private preferences, and
+willingness to pay, as the proper foundation for regulatory policy. In other
+5 See Matthew Adler and Eric A. Posner, Rethinking Cost-Benefit Analysis, 109 Yale L.J. (forthcoming 1999);
+Cass R. Sunstein, Free Markets and Social Justice ch. 9 (1997); Amartya Sen, The Discipline of Cost-Benefit
+Analysis, J. Legal Stud. (forthcoming 2000) ; Matthew Adler and Eric A. Posner, J. Legal Stud. (forthcoming
+2000). See, in particular, Amartya Sen, Rationality and Social Choice, 85 Am. Eon. Rev. 1, 17 (1995) (“There
+are plenty of social choice problems in all this, but in analyzing them, we have to go beyond looking only
+for the best reflection of given individual preferences, or the most acceptable procedures for choices based
+on those preferences.”) (emphasis in original).
+6 See Adler &amp; Posner, Rethinking Cost-Benefit Analysis, supra note, which is in the same general spirit as
+this essay, and from which I have learned a great deal. See also Amartya Sen, The Discipline of Cost-Benefit
+Analysis, J. Legal Stud. (forthcoming 2000), which seems to me in the same basic family.
+words, I try to show how a certain understanding of cost-benefit analysis might
+contain considerable appeal precisely because it overcomes problems in
+individual cognition, and do so without taking a stand on controversial issues
+about the ultimate goals of regulation and law.</p>
+    </sec>
+    <sec id="sec-2">
+      <title>A. A Tale of Two Tables</title>
+      <p>Let us begin with two simple tables. It is well known that there is a great deal
+of variability in national expenditures per life saved. Consider the following,
+which has come to define many discussions of these problems7:
+7 Based on data from Office of Management and Budget, Budget of the United States Government Fiscal
+Year 1992 Pt 2, 370 Tbl C-2 (GPO 1991).
+Regulation
+Traffic Alert and Collision Avoidance (TCAS) Systems
+Hazard Communication Standard
+Side-Impact Standards for Trucks, Buses, and MPVs (Proposed)
+Grain Dust Explosion Prevention Standards
+Rear Lap/Shoulder Belts for Autos
+Standards for Radionuclides in Uranium Mines
+Benzine NESHAP (Original: Fugitive Emissions)
+Ethylene Dibromide Drinking Water Standard
+Benzene NESHAP (Revised: Coke Byproducts)
+Asbestos Occupational Exposure Limit
+Benzene Occupational Exposure Limit
+Electrical Equipment Standards (Coal Mines)
+Arsenic Emission Standards for Glass Plants
+Ethylene Oxide Occupational Exposure Limit
+Arsenic/Copper NESHAP
+Hazardous Waste Listing for Petroleum Refining Sludge
+Cover/Move Uranium Mill Tailings (Inactive Sites)
+Benzene NESHAP (Revised: Transfer Operations)
+Cover/Move Uranium Mill Tailings (Active Sites)
+Acrylonitrile Occupational Exposure Limit
+Coke Ovens Occupational Exposure Limit
+Lockout/Tagout
+Asbestos Occupational Exposure Limit
+Arsenic Occupational Exposure Limit
+Asbestos Ban
+Diethylstilbestrol (DES) Cattlefeed Ban
+Benzene NESHAP (Revised: Waste Operations)
+1,2 Dichloropropane Drinking Water Standard
+Hazardous Waste Land Disposal Ban (1st 3rd)
+Municipal Solid Waste Landfill Standards (Proposed)
+Formaldehyde Occupational Exposure Limit
+Atrazine/Alachlor Drinking Water Standard
+Hazardous Waste Listing for Wood-Preserving Chemicals</p>
+      <p>This table should be taken with many grains of salt.8 It does not contain
+nearly all of the benefits from regulation, including those that fall short of
+mortalities averted (including illnesses averted, benefits for animals, and
+aesthetic and recreational gains). An adequate cost-benefit analysis would
+certainly take those benefits into account. We will shortly see that the table
+depends on many contentious assumptions, above all involving the appropriate
+discount rate; modest changes in the discount rate can greatly reduce the
+expenditures and the disparities. But at the very least, the table creates a
+presumption that the current system of regulation suffers from serious
+misallocation of resources. It also suggests that with better allocations, we could
+obtain large gains. Indeed, a recent study finds that it would be possible to save
+the same number of lives that we now save with tens of billions of dollars left
+over—and that better priority-setting could save 60,000 lives, and 636,000
+lifeyears, annually at the same price.9</p>
+      <p>What is the source of the misallocations? Interest-group power undoubtedly
+plays a substantial role, as well-organized groups are able to obtain measures in
+their interest or to fend off measures that would harm them, and as poorly
+organized ones typically fail. Indeed, cost-benefit analysis might be defended
+partly as a corrective to interest-group power, operating as it might as a kind of
+technocratic check on measures that would do little good or even produce net
+harm (and also on measures that do much less good than they should).10 But
+officials are of course responsive not only to interest groups but also to general
+public pressures, and thus part of the answer must lie in the distinctive
+judgments of ordinary people, who do not assess risks through a well-informed
+cost-benefit lens. Indeed, divergences between expert and lay assessments of
+risks have been demonstrated in many places. Consider this comparison.11
+10 Of course it is possible that the content of the cost-benefit test will reflect interest-group power.
+11 See Stephen G. Breyer, Breaking the Vicious Circle: Toward Effective Risk Regulation 21 (1993).
+Public
+4. Nuclear accident radiation
+5. Radioactive waste
+6. Chemical leaks from underground storage tanks
+7. Pesticides
+8. Pollution from industrial accidents
+9. Water pollution from farm runoff
+10. Tap water contamination
+11. Industrial air pollution
+12. Ozone layer destruction
+13. Coastal water contamination
+14. Sewage-plant water pollution
+15. Vehicle exhaust
+16. Oil spills
+17. Acid rain
+18. Water pollution from urban runoff
+19. Damaged wetlands
+20. Genetic alteration
+21. Non-hazardous waste sites
+22. Greenhouse effect
+23. Indoor air pollution
+24. X-ray radiation
+25. Indoor radon
+26. Microwave oven radiation</p>
+      <p>The EPA itself has found that EPA policies are responsive not to expert
+judgments, but to lay assessments of risks.12 Indeed, EPA policies track ordinary
+judgments extremely well.</p>
+      <p>If we put together these two tables, we can suggest a general hypothesis. The
+government currently allocates its limited resources poorly, and it does so partly
+because it is responsive to ordinary judgments about the magnitude of risks. A
+government that could insulate itself from misinformed judgments could save
+tens of thousands of lives and tens of billions of dollars annually. Let us attempt
+to be more specific about the cognitive problems that help account for current
+problems.</p>
+      <sec id="sec-2-1">
+        <title>I. Six Problems in the Public Demand for Regulation</title>
+        <p>For the moment, I attempt no controversial specification of cost-benefit
+analysis and understand the term broadly to refer to a regulatory method that
+calls for regulators to identify, and make relevant for purposes of decision, the
+good effects and the bad effects of regulation, and to quantify those as much as
+possible in terms of both dollar equivalents and life-years saved, hospital
+admissions prevented, workdays gained, and so forth. Let us also assume that
+cost-benefit analysis, thus understood, can accommodate distributional factors,
+by, for example, giving distributional weights to certain adverse effects, or by
+assuming uniform numbers for various goods (such as increased longevity) so as
+to ensure that they do not vary in accordance with wealth.</p>
+        <p>It is obvious that people, including government officials, often lack
+riskrelated information; they may not know the nature of the health risks at issue,
+nor may they know the adverse consequences of risk reduction. By itself this
+point argues for cost-benefit analysis, simply as a means of producing the
+relevant information. The public demand for regulation is often be based on
+misunderstandings of facts.13 But put this obvious point to one side. Why,
+exactly, might people’s judgments about risk and risk regulation go badly
+wrong?14 There are six points here.</p>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>A. The Availability Heuristic</title>
+      <p>The first problem is purely cognitive: the use of the availability heuristic in
+thinking about risks.15 It is well-established that people tend to think that events
+are more probable if they can recall an incident of its occurrence.16 Consider, for
+example, the fact that people typically think that more words, on any given page,
+will end with the letters “ing,” than have “n” as the second-to-last letter (though
+a moment’s reflection shows that this is not possible).17 With respect to risks,
+13 A colorful discussion is Barry Glassner, The Culture of Fear: Why Americans are Afraid of the Wrong
+Things (1999).
+14 Some of these problems may infect market behavior as well, and when this is so there is a problem with
+using private willingness to pay as the basis for regulation, since private willingness to pay will (by
+hypothesis) be based on a misunderstanding of the facts. But markets contain some safeguards against these
+errors, through the budget constraint and opportunities for learning, and in any case the form of cost-benefit
+analysis that I support would not rest on mistaken factual judgments, as discussed in more detail below.
+15 See Roger G. Noll &amp; James E. Krier, Some Implications of Cognitive Psychology for Risk Regulation, 19 J.
+Legal Stud. 747, 749-760 (1990).
+16 See Amos Tversky &amp; Daniel Kahneman, Judgment Under Uncertainty: Heuristics and Biases, in
+Judgment Under Uncertainty: Heuristics and Biases 3, 11 (Daniel Kahneman, Paul Slovic &amp; Amos Tversky
+eds., 1982) (describing the availability heuristic).
+17 Amos Tversky &amp; Daniel Kahneman, Extensional Versus Intuitive Reasoning: The Conjunction Fallacy in
+Probability Judgment, 90 Psychol. Rev. 293, 295 (1983).
+judgments are typically affected by the availability heuristic, so that people
+overestimate the number of deaths from highly publicized events (motor vehicle
+accidents, tornadoes, floods, botulism), but underestimate the number from less
+publicized sources (stroke, heart disease, stomach cancer).18 Similarly, much of
+the concern with nuclear power undoubtedly stems from its association with
+memorable events, including Hiroshima, Chernobyl, and Three-Mile Island.</p>
+      <p>To the extent that people lack information, or base their judgments on
+mental short-cuts that produce errors,19 a highly responsive government is likely
+to blunder. Cost-benefit analysis is a natural corrective, above all because it
+focuses attention on the actual effects of regulation, including, in some cases, the
+existence of surprisingly small benefits from regulatory controls. To this extent
+cost-benefit analysis should not be taken as undemocratic, but, on the contrary,
+should be seen as a means of fortifying (properly specified) democratic goals, by
+ensuring that government decisions are responsive to well-informed public
+judgments.</p>
+    </sec>
+    <sec id="sec-4">
+      <title>B. Aggravating Social Influences: Informational and Reputational Cascades</title>
+      <p>The availability heuristic does not, of course, operate in a social vacuum. It
+interacts with emphatically social processes, and in particular with informational
+and reputational forces.20 When one person says, through words or deeds, that
+something is or is not dangerous, he creates an informational externality.21 A signal
+by some person A will provide relevant data to others. When there is little
+private information, such a signal may initiate an informational cascade, with
+significant consequences for private and public behavior, and with possibly
+distorting effects on regulatory policy.22</p>
+      <p>Imagine, for example, that A says that abandoned hazardous waste sites are
+dangerous, or that A initiates protest activity because such a site is located
+nearby. B, otherwise skeptical or in equipoise, may go along with A; C, otherwise
+an agnostic, may be convinced that if A and B share the relevant belief, the belief
+18 Jonathan Baron, Thinking and Deciding 218 (2d ed. 1994).
+19 Other heuristics are likely to be at work, such as the representativeness heuristic, but availability is the
+most important source of distorted public judgments. See generally Amos Tversky &amp; Daniel Kahneman,
+Judgment Under Uncertainty: Heuristics and Biases (Daniel Kahneman, Paul Slovic &amp; Amos Tversky eds.,
+1982).
+20 I draw in this section on Timur Kuran &amp; Cass R. Sunstein, Availability Cascades and Risk Regulation, 51
+Stan. L. Rev. 683 (1999).
+21 See Andrew Caplin &amp; John Leahy, Miracle on Sixth Avenue: Information Externalities and Search, 108
+Econ. J. 60 (1998).
+22 See Timur Kuran &amp; Cass R. Sunstein, Availability Cascades and Risk Regulation, 51 Stan. L. Rev. 683, 720
+(1999).
+must be true; and it will take a confident D to resist the shared judgments of A, B,
+and C. The result of this set of influences can be social cascades, as hundreds,
+thousands, or millions of people come to accept a certain belief simply because of
+what they think other people believe.23 There is nothing fanciful to the idea.
+Cascade effects help account for the existence of widespread public concern
+about abandoned hazardous waste dumps (a relatively trivial environmental
+hazard), and in more recent years, they spurred grossly excessive public fears of
+the pesticide Alar, of risks from plane crashes, and of dangers of shootings in
+schools in the aftermath of the murders in Littleton, Colorado. Such effects
+recently helped produce massive dislocations in beef production in Europe in
+connection with “mad cow disease”; they are currently giving rise to growing
+European fear of genetic engineering of food.</p>
+      <p>On the reputational side, cognitive effects may be amplified as well.24 If
+many people are alarmed about some risk, you may not voice your doubts about
+whether the alarm is merited, simply in order not to seem obtuse, cruel, or
+indifferent. And if many people believe that a certain risk is trivial, you may not
+disagree through words or deeds, lest you appear cowardly or confused. The
+result of these forces can be cascade effects, mediated by the availability heuristic.
+Such effects can produce a public demand for regulation even though the
+relevant risks are trivial. At the same time, there may be little or no demand for
+regulation of risks that are, in fact, quite large in magnitude. Self-interested
+private groups can exploit these forces, often by using the availability heuristic.
+Consider the fact that European companies have tried to play up fears of
+genetically engineered food as a way of fending off American competition.</p>
+      <p>Cost-benefit analysis has a natural role here. If it is made relevant to
+decision, it can counteract cascade effects induced by informational and
+reputational forces, especially when the availability heuristic is at work. The
+effect of cost-benefit analysis is to subject a public demand for regulation to a
+kind of technocratic scrutiny, to ensure that the demand is not rooted in myth,
+and to ensure as well that government is regulating risks even when the public
+demand (because insufficiently informed) is low. And here too there is no
+democratic problem with the inquiry into consequences. If people’s concern is
+fueled by informational forces having little reliability, and if people express
+concern even though they are not fearful, a governmental effort to “cool”
+popular reactions is hardly inconsistent with democratic ideals. Similarly, there is
+23 See David Hirshleifer, The Blind Leading the Blind: Social Influence, Fads, and Informational Cascades,
+in The New Economics of Human Behavior 188 (Mariano Tommasi &amp; Kathyrn Ierulli eds., 1995).
+nothing undemocratic about a governmental effort to divert resources to serious
+problems that have not been beneficiaries of cascade effects.</p>
+    </sec>
+    <sec id="sec-5">
+      <title>C. Dangers On-Screen, Benefits Off-Screen</title>
+      <p>Why are people so concerned about the risks of nuclear power, when experts
+tend to believe that the risks are quite low—lower, in fact, than the risks from
+competing energy sources, such as coal-fired power plants, which produce
+relatively little public objection? Why do they believe that small risks from
+pesticides should be regulated, even if comparatively small risks from X-rays are
+quite tolerable?</p>
+      <p>Suggestive answers come from research suggesting that for many activities
+that pose small risks but that nonetheless receive public concern, people perceive
+low benefits as well as high risks.25 For example, nuclear power itself is seen as a
+low-benefit, high-risk activity. Similar findings appear for some activities that are
+in fact relatively high-risk: a judgment of “low risk” accompanies a judgment of
+“high benefits.” The very fact that they are known to have high benefits skews
+judgment in their favor, and hence makes people understate the costs as well.</p>
+      <p>The obvious conclusion is that sometimes people favor regulation of some
+risks because the underlying activities are not seen to have compensating
+benefits.26 Thus for some activities, tradeoffs are not perceived at all. Dangers are
+effectively on-screen, but benefits are off-screen. Note that this is not because
+such activities do not, in fact, have compensating benefits. It is because of a kind
+of perceptual illusion.</p>
+      <p>An important factor here is loss aversion. People tend to be loss averse, which
+means that a loss from the status quo is seen as more undesirable than a gain is
+seen as desirable.27 In the context of risk regulation, the consequence is that any
+newly introduced risk, or any aggravation of existing risks, is seen as a serious
+problem, even if the accompanying benefits (a gain from the status quo and
+hence perceived as less salient and less important) are considerable.28 Thus when
+25 The fact that nuclear power, and application of pesticides, produce benefits as well as risks may not
+“register” on the lay viewscreen, and this may help produce a “high risk” judgment. See Ali Siddiq
+Alhakami and Paul Slovic, A Psychological Study of the Inverse Relationship Between Perceived Risk and
+Perceived Benefit, 14 Risk Analysis 1085, 1088 (1994).
+26 See Howard Margolis, Dealing With Risk (1996), for a detailed discussion of how this point bears on the
+different risk judgments of experts and lay people.
+27 See Richard H. Thaler, The Psychology of Choice and the Assumptions of Economics, in Quasi Rational
+Economics 137, 143 (Richard H. Thaler ed., 1991) (arguing that “losses loom larger than gains”); Daniel
+Kahneman, Jack L. Knetsch, and Richard H. Thaler, Experimental Tests of the Endowment Effect and the
+Coase Theorem, 98 J. Pol. Econ. 1325, 1328 (1990); Colin Camerer, Individual Decision Making, in John H.
+Kagel and Alvin E. Roth, eds, The Handbook of Experimental Economics 665-670 (1995).
+28 For some policy implications of loss aversion, see Jack L. Knetsch, Reference States, Fairness, and Choice
+a new risk adds danger, people may focus on the danger itself, and not on the
+benefits that accompany the danger. And an important problem here is that in
+many cases where dangers are on-screen and benefits off-screen, the magnitude
+of the danger is actually quite low. Cost-benefit analysis can be a corrective here,
+by placing the various effects on-screen.</p>
+    </sec>
+    <sec id="sec-6">
+      <title>D. Systemic Effects and “Health-Health Tradeoffs”</title>
+      <p>Often people focus on small pieces of complex problems, and causal changes
+are hard to trace. Consider an analogy. The German psychologist Dietrich Dorner
+has done some illuminating computer experiments designed to see whether
+people can engage in successful social engineering.29 Participants are asked to
+solve problems faced by the inhabitants of some region of the world. Through
+the magic of the computer, many policy initiatives are available to solve the
+relevant problems (improved care of cattle, childhood immunization, drilling
+more wells). But most of the participants produce eventual calamities, because
+they do not see the complex, system-wide effects of particular interventions.
+Only the rare participant can see a number of steps down the road—to
+understand the multiple effects of one-shot interventions on the system.</p>
+      <p>Often regulation has similar systemic effects. A decision to regulate nuclear
+power may, for example, increase the demand for coal-fired power plants, with
+harmful environmental consequences.30 A decision to impose fuel economy
+standards on new cars may cause a “downsizing” of the fleet, and in that way
+increase risks to life. A decision to ban asbestos may cause manufacturers to use
+less safe substitutes. Regulation of tropospheric ozone may control the health
+dangers of ozone, but ozone has various benefits as well, including protection
+against cataracts and skin cancer; hence regulation of ozone may cause health
+problems equal to those that it reduces.31 Indeed, regulation of ozone will
+of Measure to Value Environmental Changes, in Environment, Ethics, and Behavior: The Psychology of
+Environmental Valuation and Degradation 52, 64-65 (Max H. Bazerman, David M. Messick, Ann E.
+Tenbrunsel &amp; Kimberly A. Wade-Benzoni eds., 1997).
+29 See Dietrich Dorner, The Logic of Failure: Why Things Go Wrong and What We Can Do to Make Them
+Right (1996).
+30 See Stephen Breyer, Vermont Yankee and the Court’s Role in the Nuclear Energy Controversy, 91 Harv.
+L. Rev. 1833, 1835-90 (1978). See generally Peter Huber, Electricity and the Environment: In Search of
+Regulatory Authority, 100 Harv. L. Rev. 1002 (1987).
+31 See Randall Lutter &amp; Christopher Wolz, UV-B Screening by Tropospheric Ozone: Implications for the
+NAAQS, 31 Envtl. Sci. &amp; Tech. 142A, 144A (1997) (estimating that the EPA’s new ozone NAAQS could
+cause 25 to 50 more melanoma skin cancer deaths and increase the number of cataract cases by 13,000 to
+28,000 each year). See also Ralph L. Keeney &amp; Kenneth Green, Estimating Fatalities Induced by Economic
+Impacts of EPA’s Ozone and Particulate Standards 8 (Reason Public Policy Institute, Policy Study No. 225,
+June 1997) (calculating that if attainment of the new standards costs $10 billion annually, a number well
+within EPA’s estimated cost range, it will contribute to 2,200 premature deaths annually). On the general
+increase electricity prices, and because higher electricity prices will deprive poor
+people of air conditioning or lead them to use it less, such regulation may
+literally kill people.32</p>
+      <p>These are simply a few examples of situations in which a government agency
+is inevitably making “health-health tradeoffs” in light of the systemic effects of
+one-shot interventions. Indeed, any regulation that imposes high costs will, by
+virtue of that fact, produce some risks to life and health, since “richer is safer.”33
+A virtue of cost-benefit analysis is that it tends to overcome people’s tendency to
+focus on parts of problems, by requiring them to look globally at the
+consequences of apparently isolated actions.</p>
+    </sec>
+    <sec id="sec-7">
+      <title>E. Emotions and Alarmist Bias</title>
+      <p>A set of data now suggests that people are subject to “alarmist bias.”34 The
+mere existence of discussions of new risks can aggravate concern, even when the
+discussions take the form of assurances that the risk level is relatively low. And
+when presented with information suggesting that a risk may range from A (low)
+to Z (high), the high risk number is especially salient, and it appears to have a
+disproportionate effect on behavior.</p>
+      <p>A recent paper by George Loewenstein et al. suggests that risk-related
+concerns are often based on “feelings” rather than judgments.35 Thus risk-related
+objections can be a product not so much of thinking as of intense emotions, often
+produced by extremely vivid images of what might go wrong. This point is
+supported by evidence that reported feelings of worry are sometimes sensitive
+not to the probability of the bad outcome, but only to the severity of the bad
+outcome.36 Vivid mental pictures of widespread death or catastrophe can drive a
+demand for risk regulation. Consider, for example, the motivations of those who
+press for regulation of airplane safety in the aftermath of an airplane crash, even
+though such regulation may increase travel risks on balance (by driving up the
+phenomenon, see John D. Graham and Jonathan Baert Wiener, Risk Versus Risk (1995).
+32 See C. Boyden Gray, The Clean Air Act Under Regulatory Reform, 11 Tulane Envt’l L.J. 235 (1998).
+33 John D. Graham, Bei-Hung Chang, &amp; John S. Evans, Poorer Is Riskier, 12 Risk Analysis 333, 333-35
+(1992); Frank B. Cross, When Environmental Regulations Kill: The Role of Health-Health Analysis, 22 Ecol.
+L. Q. 729 (1995); Ralph L. Keeney, Mortality Risks Induced by the Costs of Regulations, 8 J. Risk &amp;
+Uncertainty 95 (1994); Aaron Wildavsky, Richer is Safer, 60 Pub. Interest 23 (1980); Aaron Wildavsky,
+Searching for Safety 59-75 (1988).
+34 See W. Kip Viscusi, Alarmist Decisions with Divergent Risk Information, 107 Econ. J.1657, 1657-58 (1997)
+(studying situations under which “[n]ew information about risks may generate alarmist actions that are not
+commensurate with the magnitude of the risks”).
+35 See Loewenstein, G. F., Weber, E. U., Hsee, C. K. &amp; Welch, E. S., Risk as Feelings (unpublished draft
+5/4/99).
+price of flying and causing a shift to driving, a more dangerous form of
+transportation).37</p>
+      <p>It is important to be careful with the relevant categories here. There is no
+sharp distinction between “cognition” and “emotion.”38 Emotions are generally
+the products of beliefs, and hence an emotional reaction to risk—terror, for
+example—is generally mediated by judgments.39 But this is not always true;
+sometimes the operation of the brain allows intense emotional reactions with
+minimal cognitive activity.40 In any case the judgments that fuel emotions may be
+unreliable. We need not venture into controversial territory in order to urge not
+that emotions are free of cognition, but that some risks seem to produce
+extremely sharp, largely visceral reactions. These reactions are sometimes largely
+impervious to argument. Indeed, experience with “mass panics” has shown
+exactly this structure, as assurances based on statistical evidence have little effect
+in the face of vivid images of what might go wrong.41 Some fears even appear to
+have a genetic foundation; consider, as a possible example, fear of snakes, which
+appears in people who have no reason to think that snakes are dangerous.</p>
+      <p>The role of cost-benefit analysis is straightforward here. Just as the Senate
+was designed to have a “cooling effect” on the passions of the House of
+Representatives, so cost-benefit analysis might ensure that policy is driven not by
+hysteria or alarm, but by a full appreciation of the effects of relevant risks and
+their control. If the hysteria survives an investigation of consequences, then the
+hysteria is fully rational, and an immediate and intensive regulatory response is
+entirely appropriate.</p>
+      <p>Nor is cost-benefit analysis, in this setting, only a check on unwarranted
+regulation. It can and should serve as a spur to regulation as well. If risks do not
+produce visceral reactions, partly because the underlying activities do not yield
+vivid mental images, cost-benefit analysis can show that they nonetheless
+warrant regulatory control. The elimination of lead in gasoline is a case in point.42
+37 See Robert W. Hahn, The Economics of Airline Safety and Security: An Analysis of the White House
+Commission’s Recommendations, 20 Harv. J.L. &amp; Pub. Pol’y 791 (1997).
+38 See Dan M. Kahan &amp; Martha C. Nussbaum, Two Conceptions of Emotion in the Criminal Law, 96 Colum.
+L. Rev 269 (1996); Jon Elster, Alchemies of the Mind (1999).
+39 See Martha Nussbaum, Upheavals of Thought (forthcoming); Elster, supra note.
+40 See Loewenstein et al., supra.
+41 See the discussion of Love Canal in Timur Kuran &amp; Cass R. Sunstein, Availability Cascades and Risk
+Regulation, 51 Stan. L. Rev. 683, 691-98 (1999).
+42 See Economic Analyses at EPA: Assessing Regulatory Impact (Richard D. Morgenstern ed., 1997).</p>
+    </sec>
+    <sec id="sec-8">
+      <title>F. Separate Evaluation and Incoherence</title>
+      <p>Suppose that you are asked to say, without reference to any other problem,
+how much you would be willing to pay to protect certain threats to coral reefs.
+Now suppose that you are asked to say, without reference to any other problem.
+how much you would pay to protect against skin cancer among the elderly.
+Suppose, finally, that you are asked to say how much you would be willing to
+pay to protect certain threats to coral reefs and how much you would be willing
+to pay to protect against skin cancer among the elderly. Empirical evidence
+suggests that people’s answers to questions, taken in isolation, are very different
+from their answer to questions when they are asked to engage in cross-category
+comparisons.43 It appears that when people assess problems in isolation, they do
+so by reference to other problems in the same basic category—and that this
+intuitive process is dramatically altered when people are explicitly told to assess
+problems from other categories as well. The result of assessing individual
+problems, taken in isolation, is to produce what people would themselves
+consider a form of incoherence.</p>
+      <p>The forms of regulatory spending shown in Table I undoubtedly reflect, in
+part, the kinds of irrationality that follow from judgments that are made without
+close reference to other problems from different categories. Incoherence is the
+natural result of the relevant cognitive processes. The argument for a form of
+cost-benefit analysis is straightforward: It operates as a built-in corrective to
+some of the distortions that come from taking problems in isolation. The point
+applies to “contingent valuation” assessments; but it operates more broadly with
+respect to expenditure decisions that otherwise risk incoherence, simply by
+virtue of the fact that they operate without looking at other problems, including
+those from other categories.</p>
+    </sec>
+    <sec id="sec-9">
+      <title>G. General Implications</title>
+      <p>The cognitive argument for cost-benefit analysis, thus understood, is now in
+place. It is true but obvious to say that people lack information and that their lack
+of information can lead to an inadequate or excessive demand for regulation, or a
+form of “paranoia and neglect.”44 What is less obvious is that predictable features
+of cognition will lead to a demand for regulation that is unlikely to be based on
+the facts. When people ask for regulation because of fears fueled by availability
+cascades, and when the benefits from the risk-producing activity are not
+43 See Daniel Kahneman, David Schkade, Iliana Ritov, &amp; Cass R.Sunstein, Reversals of Judgment: The Effect
+of Cross-Category Comparisons on Intendedly Absolute Responses (unpublished manuscript 1999).
+44 See John D. Graham, Making Sense of Risk: An Agenda for Congress, in Risks, Costs, and Lives Saved:
+Getting Better Results from Regulation 183 (Robert W. Hahn ed., 1996).
+registering, it would be highly desirable to create cost-benefit filters on their
+requests. When interest-groups exploit cognitive mechanisms to create
+unwarranted fear or diminish concern with serious problems, it is desirable to
+have institutional safeguards. When people fail to ask for regulation for related
+reasons, it would be desirable to create a mechanism by which government
+might nonetheless act if the consequences of action would be desirable. Here too
+cost-benefit balancing might be desirable, as in fact it has proved to be in
+connection not only with the phase-out of lead but also with the Reagan
+Administration’s decision to phase-out CFC’s, motivated by a cost-benefit
+analysis suggesting that the phase-out would do far more good than harm.45</p>
+      <p>A caveat: It is entirely possible that the public demand for regulation will
+result from something other than cognitive errors, even if the relevant risk seems
+low as a statistical matter. People may think, for example, that it is especially
+important to protect poor children from a certain risk in a geographically isolated
+area, and they may be willing to devote an unusually large amount to ensure
+that protection. What seems to be a cognitive error may turn out, on reflection, to
+be a judgment of value, and a judgment that can survive reflection. I will return
+to this point. For the moment note two simple points. Whether an error is
+involved is an empirical question, subject, at least in principle, to empirical
+testing. And nothing in cost-benefit analysis would prevent people from
+devoting resources to projects that they consider worthy, even if the risk is
+relatively low as a statistical matter.</p>
+      <p>I have not yet discussed what cost-benefit analysis might specifically entail,
+and there are potentially serious controversies here. But it will be best to discuss
+that question after dealing with some direct objections.</p>
+      <sec id="sec-9-1">
+        <title>II. Objections: Populism, Quantification, and Rival Rationalities</title>
+        <p>The argument made thus far, cautious though it may seem, runs into three
+obvious objections. The first involves democratic considerations; the second
+points to the limitations of quantification; the third involves the possibility that
+ordinary people’s judgments are based not on cognitive limitations, but on a kind
+of “rival rationality.”
+45 See Economic Analysis at EPA, supra note 33. See also Richard Elliot Benedick, Ozone Diplomacy: New
+Directions in Safeguarding the Planet 63 (1991) (Reagan administration supported aggressive regulation
+largely because cost-benefit analysis from the Council of Economic Advisers demonstrated that “despite the
+scientific and economic uncertainties, the monetary benefits of preventing future deaths from skin cancer far
+outweighed costs of CFC controls as estimated either by industry or by EPA”).</p>
+      </sec>
+    </sec>
+    <sec id="sec-10">
+      <title>A. Populism</title>
+      <p>The first objection, populist in character, is captured by the opening
+quotation from Senator Biden. The objection would be that in a democracy,
+government properly responds to the social “demand” for law. Government
+does not legitimately reject that demand on the ground that cost-benefit analysis
+suggests that it should not act. On this view, a democratic government should be
+accountable. Any approach that uses efficiency, or technocratically-driven
+judgments, as a brake on accountability is fatally undemocratic.</p>
+      <p>The problem with this objection is that it rests on a controversial and even
+unacceptable conception of democracy, one that sees responsiveness to citizens’
+demands, whatever their factual basis, as the foundation of political legitimacy. If
+those demands are uninformed, it is perfectly appropriate for government to
+resist them. Indeed, it is far from clear that reasonable citizens want, or would
+want, their government to respond to their uninformed demand. The analysis
+thus far suggests that the relevant demands are, in fact, uninformed or
+unreflective. If this is so, they should be subject to deliberative constraints of the
+sort exemplified by cost-benefit analysis. After that analysis has been generated,
+and public officials have taken it into account, democratic safeguards continue to
+be available, and electoral sanctions can be brought to bear against those who
+have violated the public will. The simple point is that if, once informed if the
+cost-benefit tradeoff, people continue to seek some particular regulation, then
+democratic considerations require government to restrict their choice.46 At the
+very least, cost-benefit analysis should be an ingredient in the analysis, showing
+people that the consequences of various approaches might be different from
+what they seem.</p>
+    </sec>
+    <sec id="sec-11">
+      <title>B. Quantification and Expressive Rationality</title>
+      <p>I have noted that the cost-benefit chart described above raised many
+questions. Those questions might be made into a thoroughgoing challenge to
+cost-benefit analysis. In an extensive discussion, Lisa Heinzerling has attempted
+to do precisely that.47 Heinzerling argues that many of the values depend on
+controversial judgments of value, and that the table itself masks those judgments.
+Her first point is that the table includes many regulations that were in fact
+rejected. Some of them were not issued on the ground that their benefits would
+exceed their costs. The table is also underinclusive, for many regulations have
+been issued that impose dramatically lower costs than many of those included on
+the table. But by itself this is no indictment of cost-benefit analysis. Indeed, it
+46 At least assuming the decisions involve nothing peculiar or invidious, such as racial animus.
+provides support for cost-benefit analysis insofar as it suggests that the tool has
+resulted in a rejection of undesirable regulations.</p>
+      <p>But Heinzerling goes further. She contends that many of these numbers
+depend on controversial judgments about how to discount future benefits.
+Above all, the charts depend on a 10% discount rate, whereas the agencies
+tended to use a lower discount rate, or not to discount at all. Heinzerling also
+suggests that the charts depend on downward adjustment of the agency’s
+estimates of risk. Her own estimates result in the following risk table, adjusted
+for inflation.</p>
+      <p>This table may be more accurate than Table I; certainly there are problems
+with any approach that assumes a 10% discount rate. But even if Heinzerling’s
+table is better, it offers an ironic lesson, serving largely to confirm the point that
+current regulatory policy suffers from poor priority-setting. The disparities here
+are not as dramatic, and they certainly do not establish pervasive overregulation;
+but they do support the view that resources are being misallocated.</p>
+      <p>Heinzerling does not, however, conclude that this revised table is the
+appropriate basis for evaluating regulatory policy. Her aim is not to come up
+with a better table from which to reassess government behavior. On the contrary,
+she takes her argument to be a basis for rejecting cost-benefit analysis altogether.
+dreaded too—consider the extremely unpleasant idea of dying in an airplane
+crash. But the dread here stems from some factor (perhaps terror) different from
+and much shorter than the extended period of suffering that precedes some
+deaths. Thus it might be concluded that dreaded deaths deserve special attention
+in accordance with the degree of suffering that precedes them. A special problem
+with cancer deaths is that at least some of the time, people like to have
+upwardsloping utility. It is particularly bad to be in a situation in which things will
+constantly get worse.60 With cancer deaths, the slope goes downward fairly
+consistently until the point of death.</p>
+    </sec>
+    <sec id="sec-12">
+      <title>2. Voluntariness</title>
+      <p>People seem to perceive voluntarily incurred risks as less troublesome than
+involuntarily incurred risks. Consider diverse public reactions to airplane crashes
+and automobile crashes. Or consider the fact that tobacco is by far the largest
+source of preventable deaths in the United States. Why do we not devote much
+more of our regulatory effort to reducing smoking? The reason seems to lie in a
+judgment that smoking is a voluntary activity and hence the resulting deaths are
+less troublesome than other sorts of deaths. Here—it might be said—people have
+voluntarily assumed the relevant risks.
+a. Puzzles: high cost of avoidance rather than involuntariness?</p>
+      <p>It is tempting to think that the apparent lay preference for according greater
+weight to “involuntary” risks to life requires significant qualification of the
+criterion of lives or life-years saved. But a simple reference to voluntariness, if
+taken to suggest something special about “lay rationality,” raises many puzzles.
+The most important problem is that it is not simple to know when a risk is
+voluntarily incurred. “Voluntariness” may be entirely absent in the case of an
+unforeseeable collision with an asteroid; but voluntariness is not, in the cases
+under consideration, an all-or-nothing matter. Instead it is a matter of degree.
+Return to the conventional thought that airplane crashes are “involuntary” and
+automobile crashes more “voluntary.” Certainly it would be possible to see the
+risks from air travel as voluntarily run; people have a choice about whether to
+fly, and when they do fly, they pay a certain amount for a certain package,
+including risks of various sorts. The same is true of automobile safety—and it is
+not in any way less true, however disparately the two kinds of risks may “seem.”
+Perhaps people are responding to the perceived fact that they have no control
+over the pilot’s behavior, whereas they have considerable control over
+automobile safety since they are themselves drivers. But airlines respond to
+60 See George Loewenstein &amp; Nachom Sicherman, Do Workers Prefer Increasing Wage Profiles?, 9 J. Lab.
+Econ. 67, 71-75 (1991); George Loewenstein &amp; Drazen Prelec, Negative Time Preference, 81 Am. Econ. Rev.
+(Papers &amp; Proc.) 347, 347 (1991).
+market forces, including the market for safety, and many people injured in
+automobile accidents are not at fault, and thus along the dimension of
+voluntariness this is hardly a crisp distinction. The difference between the two
+risks is hardly so categorical as to justify an assessment that they fall on poles of
+some voluntariness-involuntariness divide. Indeed, it is not clear even what is
+meant by the suggestion that one is voluntary and the other is not. Something
+else appears to underlie that suggestion.
+b. Three cases</p>
+      <p>To shed some light on the issue, let us consider three classes of cases. First,
+consider the question whether workers exposed to cancer risks are voluntarily or
+involuntarily so exposed. If workers do not know about such risks—if they lack
+relevant information—we seem to have an easy case of involuntariness. Thus it
+makes sense to say that risks are run involuntarily when the people running
+them do not know about them. Lack of adequate information provides a
+legitimate case for a judgment of involuntary exposure to risk. But of course
+information itself can be obtained at some cost, pecuniary or otherwise. We are
+thus dealing, in cases of this kind, with high costs of risk avoidance, in the
+distinctive form of high costs of acquiring relevant information.</p>
+      <p>Second, suppose that people who are exposed to a certain risk are aware of
+the risk, but are not in an actual or potential contractual relation with the
+riskproducer. Many victims of pollution are in this position; recall that in surveys air
+pollution is a particular source of public concern., People in Los Angeles may
+well know that they face high levels of smog. Are they exposed involuntarily? If
+we conclude that they are, we may mean that a risk is incurred involuntarily
+when and in the sense that it is typically very expensive for people to avoid it—
+and when someone else can reduce the risks more cheaply. Here a claim that the
+risk is faced “involuntarily” may mean that those who “run” the risk can reduce
+it only at very high cost, at least compared to those who “produce” the risk. (The
+quotation marks are necessary for obvious Coasian reasons.) Or it is possible that
+we mean that on nonutilitarian grounds, the people exposed to the risk have a
+moral entitlement to be free from it, at least if they have not explicitly sold it.</p>
+      <p>But turn now to a third class of cases, involving a wage package or contract
+that does include compensation for the relevant risks. Assuming that point, we
+might want to distinguish between two different possibilities. In a case of a
+highlevel scientist, knowledgeable about relevant risks and involved in work that he
+finds rewarding, people may well conclude that we have an instance of
+voluntariness. (In the same category can be found the case of an astronaut.) But
+people might not say the same about a low-level worker who does not like his
+work at all (cf. Anderson, 1993). What distinguishes the two cases? If knowledge
+is present, or if the compensation package includes payment for the relevant risk,
+it is not clear how the two differ. The underlying judgment must be that the
+compensation is inadequate, perhaps because background inequality has
+produced a wage package that seems unfair even if voluntarily chosen by the
+parties.</p>
+      <p>From this discussion it seems reasonable to speculate that any judgment that
+a risk is run “involuntarily” is probably based on 1) a lack of knowledge of the
+risk, or, more accurately, high costs of obtaining information about the risk, 2) a
+belief that information to one side, it would be very costly for people to avoid the
+risk, or 3) a belief that the risk is unaccompanied by compensating benefits,
+notwithstanding their belief that the contract is in some sense worth signing. It
+may seem hard to make sense of 3); what might be at work is a judgment that
+background inequalities are producing the relevant bargain (not by itself a good
+reason to disrupt the deal), or perhaps a belief that workers are competing to
+their collective detriment, and an agreement not to compete would be in their
+best interests. On this view, the question whether a risk is run voluntarily or not
+is often not a categorical one but instead a question of degree, associated with
+information cost, risk-reduction cost, and the existence or not of accompanying
+benefits. Of course there are interesting background questions about why and
+when a risk “codes” as voluntary or involuntary; undoubtedly the answer
+depends a great deal on heuristic devices and selective attention.
+c. The purpose for which the risk is incurred and problems of responsibility and blame</p>
+      <p>Death-risks may seem “voluntarily” run when people do not approve of the
+purpose for which people run the relevant risks, and involuntarily run when
+people think that the purpose for which the risk is run is laudable. It is
+predictable that people will not want to pour enormous taxpayer resources into
+lowering the risks associated with sky-diving, even if the dollars/life-years saved
+ratio is quite good. By contrast, it is doubtful that people think that it is wrong to
+spend enormous resources on the prevention of death from childbirth or being a
+police officer, even though the decision to have a child is (with appropriate
+qualifications) voluntary, and so too with the decision to become a police officer.
+People may think that when the appeal or purpose of the activity is associated
+with its very riskiness, resources should not be devoted to risk-reduction. At
+least this is plausible when the risk is an independent good or part of the benefit
+of the activity. And it is easy to imagine a belief that some activities—unsafe sex,
+cigarette smoking—are like the sky-diving case, perhaps because the risk is
+sometimes part of the benefit, perhaps because the risks are not incurred for a
+purpose that observers find worthy or valuable.</p>
+      <p>It might seem that this consideration—the purpose for which the risk is
+incurred—overlaps with or is even identical to the question whether there are
+high costs of risk-avoidance. When the costs are low, as in sky-diving, the
+purpose might seem inadequate. But on reflection the two ideas are hardly the
+same. It may well be that failing to sky-dive, or sky-diving with some
+safetyincreasing technology, imposes high costs on sky-divers. There seems to be an
+objective judgment, not necessarily connected with subjective costs, in the claim
+that some risks are voluntary, or deserve less attention, because they are run for
+inadequate purposes.</p>
+      <p>Relatedly, airplane accidents may seem different from automobile accidents
+not because the former are less voluntary, and not because of diverse costs of risk
+avoidance, but because the victims of airplane accidents are less blameworthy
+than the victims of automobile accidents, in the sense that the death is not a
+product of their own negligence or misconduct. In the case of an airplane
+disaster, weather conditions, mechanical failure, or pilot error are likely causes;
+in the case of an automobile accident, it is more likely (though not of course
+certain) that the victim could have avoided death through more careful driving.
+The point is crude, since many victims of automobile accidents are not drivers,
+and many drivers in accidents do not behave negligently. But the perceived
+difference, in a significant number of cases, may underlie an apparent judgment
+of “voluntariness” that is really a judgment about responsibility and
+blameworthiness. In any case judgments are likely to be affected, and distorted,
+by the fact that drivers seem to be risk optimists—with 90% ranking themselves
+as safer than the average driver and less likely to be involved in an accident.61
+This is another place—illusions of control and risk optimism—where cognitive
+psychology argues in favor of cost-benefit analysis.
+d. Underlying questions and assumption of risk</p>
+      <p>We might therefore conclude that whether a risk qualifies as involuntary
+raises many of the questions raised by the question whether government should
+regulate the market at all. A risk might be characterized as involuntarily run
+because affected people lack relevant information; because the transactions costs
+of bargaining are high; because the risks should be seen to amount to
+externalities; because collective action problems make market outcomes
+unsatisfactory since (for example) workers are in a prisoner’s dilemma best
+solved through law; or because some motivational or cognitive defect makes
+successful solutions through markets unlikely. These of course are among the
+conventional grounds for regulation in the first instance. When a risk seems
+voluntary, and not worthy of substantial regulatory resources, the term
+“voluntary” is serving as a placeholder for an argument that there is no sufficient
+ground for government action, because the accompanying benefits are high or
+61 See Shelley E. Taylor, Positive Illusions 10 (1994).
+the risk-reduction costs are low, and because market arrangements take adequate
+account of these facts.</p>
+      <p>
+        Should voluntarily run risks of death receive no public attention, on the
+ground that the relevant people have already received compensation? We might
+imagine a death-risk to be incurred voluntarily when an informed person
+decided to incur it in light of its costs and benefits. Suppose, for example, that
+someone purchases a small car with fewer safety features, or decides to become a
+boxer, an astronaut, or a police officer in a dangerous neighborhood. If a death
+results from such a choice, it might seem that the chooser has no legitimate
+ground for complaint; there has been ex ante compensation for the risk. But even
+in such cases, it is not clear that government lacks a role. If government can
+reduce a serious risk at low cost, and thus eliminate deaths, it should do so even
+if there was ex ante compensation for the relevant risk. There is a general point
+here. Sometimes observers confuse two quite different questions: (1) Should
+people be banned from running a certain risk, when they have run that risk
+voluntarily? (
+        <xref ref-type="bibr" rid="ref1">2</xref>
+        ) Should government attempt to reduce a certain risk, when
+people have run that risk voluntarily? A negative answer to question (1) does not
+answer question (
+        <xref ref-type="bibr" rid="ref1">2</xref>
+        ).
+      </p>
+      <p>From this point we should conclude that a lay judgment that a risk is
+“voluntary” should not be decisive. A better understanding of what factors
+underlie and support that judgment should be used for purposes of regulatory
+policy. The basic criterion of decently livable life years might, then, be adjusted
+upward when those at risk lack relevant information or when the costs of
+riskavoidance are especially high—or downward when those at risk have the
+information and when the costs of risk-avoidance are low.</p>
+    </sec>
+    <sec id="sec-13">
+      <title>3. Ripple Effects</title>
+      <p>The psychological evidence suggests, thought it does not squarely identify,
+an important and relevant fact: Some deaths produce unusually high
+externalities, in the sense that they generate widespread losses, including those
+stemming from empathy and fear, in a way that leads to predictable pecuniary
+and nonpecuniary costs. Consider, for example, the death of the President of the
+United States, a death that imposes a wide range of costs and that taxpayers
+invest significant resources to prevent. Part of the reason for allocating those
+resources is undoubtedly the greater risk that the President will be murdered;
+but the external costs associated with his death are undoubtedly important too. A
+parallel can be found in the relatively large level of resources devoted to prevent
+the assassination of many important public officials. But the point is hardly
+limited to the highest public officials. An airplane hijacking or crash, partly
+because it is likely to be well-publicized, may produce large externalities in the
+form of empathy and fear. It may even deter air travel by making people
+unusually frightened of air travel, simply because of heuristic devices
+(availability) and other predictable factors that make people’s probability
+assessments go awry. This fear may be damaging because it is itself a utility loss
+and because it may lead people to use less safe methods of transportation, such
+as automobiles. Or an airplane crash might be especially disturbing because the
+sudden loss of dozens or hundreds of people seems so unusually and senselessly
+tragic, in a way that produces large empathetic reactions, or because it signals the
+further possibility of random, apparently inexplicable events in which large
+numbers of people die.</p>
+      <p>Some catastrophes are especially disturbing because they appear to produce
+pointless and especially unnatural deaths. A recent airplane crash in Israel,
+killing over seventy soldiers, is an example, producing an extended period of
+national mourning—stemming from the youth of those who were killed, the fact
+that they were serving their country, and the highly unusual character of the
+accident, apparently stemming from preventable human error. These
+considerations suggest that special attention might justifiably be devoted to air
+safety in the time following a crash even if the relevant precautions do not cause
+a significant drop in deaths. The same idea may justify special safeguards of
+nuclear reactors. Even a minor and harmless accident may produce a kind of
+day-to-day fearfulness that properly places a role in an official calculus, at least if
+educative efforts cannot work against public fears to the extent that they are
+irrational or based on error-producing heuristic.</p>
+      <p>Special public concern about catastrophic events may thus reflect a judgment
+that certain kinds of deaths have ancillary effects, well beyond the deaths
+themselves. Consider in this regard the “Buffalo Creek Syndrome,” documented
+several times in the aftermath of major disasters. Nearly two years after the
+collapse of a dam that left 120 dead and 4000 homeless, psychiatric researchers
+continued to find significant psychological and sociological changes; survivors
+were characterized by a loss of direction and energy, other disabling character
+changes, and a loss of communality.62 One evaluator attributed this loss of
+direction specifically to “the loss of traditional bonds of kinship and
+neighborliness.”63 The non-linearity of lay evaluations of risk in the context of
+potential disasters may thus reflect a high premium on avoiding the distinctive
+kinds of losses distinctly associated with catastrophes. If so, differences between
+62 Daniel Fiorino, Technical and Democratic Values in Risk Analysis, 9 Risk Analysis 293 (1989).
+63 Daniel Fiorino, Technical and Democratic Values in Risk Analysis, 9 Risk Analysis 293, 295 (1989). See
+also J.D. Robinson, M.D. Higgins, &amp; P.K. Bolyard, Assessing Environmental Impacts on Health: A Role for
+Behavioral Science, 4 Envir. Impact Assessment Rev. 41 (1983).
+lay and expert assessments rest on genuine value differences (four times as many
+deaths may be much more than four times as bad) rather than on factual errors in
+cognitive processes of ordinary people.</p>
+      <p>These various points raise a number of questions. We do not yet have a full
+understanding of the basis for special public concern with catastrophes.
+Moreover, the argument for devoting special resources to deaths with
+externalities is strongest when the externalities do not reflect irrationality or
+cannot be reduced through other means. For example, some of the fear that
+follows certain widely reported deaths is based on confusion or ignorance about
+actual probabilities; if it is possible to dispel the confusion, the fear should
+dissipate as well. Here the question is whether government can legitimately
+spend extra resources to avert the harms associated with irrational public
+attitudes. Perhaps information-based strategies would be preferable to allocating
+additional resources to deaths whose occurrence produces widespread panic. On
+the other hand, there are undoubtedly instances in which information is
+ineffective, and there are also cases in which high externalities, in the form of
+special fear, are not a product of factual ignorance. In such cases government is
+justified in giving additional resources to death-prevention.</p>
+    </sec>
+    <sec id="sec-14">
+      <title>4. Inequitable Distribution</title>
+      <p>Some risks might be, or be thought to be, inequitably distributed, above all
+because the victims are disproportionately members of socially disadvantaged
+groups. Certain deaths might, for example, be concentrated among poor people,
+African-Americans, or homosexuals. Consider the risk of lead paint poisoning
+suffered by inner city children, or the risk of AIDS, faced disproportionately by
+African-Americans as well as homosexuals. Citizens or elected representatives
+may think that inequitably distributed risks of death deserve special attention
+from government. Here the relevant deaths are bad not because each one is
+especially bad to experience, but because there is social concern about the fact
+that a certain cause of death falls disproportionately on members of certain social
+groups.</p>
+      <p>When such social concern exists, and when it is not objectionable on
+constitutional or other grounds, it is entirely legitimate for officials to respond.64
+Thus regulators should be permitted to use a uniform number per life or
+lifeyears saved; this is itself a (modest) redistributive strategy, because wealthy
+people (simply because they are wealthy) are willing to pay more to reduce risks
+than nonwealthy people. Regulators might also be permitted to give distributional
+64 It is inadequate to response that potential compensation could be made to losers in the context of efficient
+programs; if the compensation is only potential, the concern remains.
+weights to risks whose distributional incidence is especially troublesome.65 These
+weights might take a technical form (through adding numbers to the ones that
+would otherwise be used) or appear via the official judgment about how to
+proceed after the cost-benefit analysis has been supplied (through deciding in
+favor of a strategy not strictly suggested by the numbers). The distributional
+concern supports special efforts to control AIDS; environmental risks like
+asthma, which are concentrated among inner city children; and perhaps the
+spread of diseases whose incidence is concentrated among women. My minimal
+claim is that if there is a public judgment in favor of according a distributional
+weight to a certain death-reduction policy, and if that judgment is not
+unconstitutional or otherwise illegitimate, policy makers should not be barred
+from respecting that judgment.</p>
+    </sec>
+    <sec id="sec-15">
+      <title>5. No Rival Rationality</title>
+      <p>I conclude that there is no “rival rationality,” and that people are willing to
+depart from the “lives saved” criterion for reasons that cast a clearer light on
+what it is that they are attempting to maximize. More particularly:
+a. People are willing to pay a premium to avoid deaths that involve
+a high degree of pain and suffering. At least presumptively, this desire,
+or judgment, should be respected by government regulators; the
+presumption might be rebutted if, for example, the “premium” seems so
+high as to suggest that some kind of irrationality is at work.</p>
+      <p>b. People are willing to devote more resources to protect children.
+This judgment may depend on a belief that children are typically more
+vulnerable to risk, in the sense that they cannot protect themselves, or on
+a belief that more life-years are at stake when children are in jeopardy. In
+either case, this judgment too deserves respect.</p>
+      <p>c. People are willing to pay a premium to avert catastrophes. This
+may depend on a belief that catastrophes have “ripple effects” that
+outrun lives actually lost. A plane crash killing 100 people may be worse
+than 100 deaths from poor diet, if the consequence of the former is to
+create pervasive fear and anxiety. A shooting in a high school may
+warrant special attention, keeping lives saved constant, if only in order
+to ensure that students and parents are not constantly fearful about the
+safety of schools. These “ripple effects” qualify as social costs and at first
+65 See the critical comments about willingness to pay in Amartya Sen, The Discipline of Cost-Benefit
+Analysis, J. Legal Stud. (forthcoming 2000), and in Matthew Adler and Eric A. Posner, J. Legal Stud.
+(forthcoming 2000).
+glance seem to deserve special attention. The major qualification is that it
+may be possible to address them directly, rather than to cater (pander?)
+to them. Suppose, for example, that education can assure the public that
+flying is generally quite safe. If information can accomplish this end, it is
+better to provide it than to engage in regulation that is costly and that
+has no purpose other than to reassure.</p>
+      <p>d. People are willing to devote more resources to protect against
+dangers when the costs of risk avoidance are high. Perhaps people do
+not have information about certain risks, and perhaps information is
+costly to obtain. Perhaps third parties are in danger, and perhaps it is
+costly for them to avoid the danger. This point may involve fairness; it
+may involve efficiency. It involves fairness if people believe that those
+who bear high costs from risk avoidance should not, in principle, have to
+bear those costs. If this is the underlying belief, then it may follow that
+those who can easily avoid the cost of some risk should, in principle, do
+exactly that. The point involves efficiency if the judgment is that the best
+means of reducing aggregate costs (public as well as private) is to
+regulate the entity that is imposing the relevant risk.</p>
+      <p>e. People may believe that it is especially important to protect
+vulnerable or traditionally disadvantaged groups against certain risks.
+If, for example, AIDS is concentrated among African-Americans and
+homosexuals, there may be a special reason to devote resources to its
+prevention, even if quantitatively identical risks receive less attention.</p>
+      <p>These various points suggest that there is no “rival rationality.” The question
+is whether people believe that some dangers deserve more attention than
+(quantitatively identical) others, and if so, whether that belief can survive critical
+scrutiny. But these points also suggest that it is wrong to think that policy should
+follow the judgments of experts focussed on the single question of “lives at
+stake.”66 This is not the social maxim and for reflective citizens. Such citizens
+have a different view about what their government ought to be doing. That
+different view does not embody any exotic conception of rationality.
+66 This is the apparent recommendation in Margolis, supra note, though I am not sure that Margolis would
+agree with what I am suggesting here.</p>
+      <p>III. An Incompletely Theorized Agreement on Cost-Benefit Analysis?</p>
+    </sec>
+    <sec id="sec-16">
+      <title>A. Problems With Aggregated Willingness to Pay</title>
+      <p>Thus far I have suggested that cost-benefit analysis is a sensible approach to
+cognitive problems faced by ordinary people in the assessment of risk. I have
+also suggested that there is no democratic objection to using cost-benefit analysis
+as an ingredient in decisions, even a crucial ingredient, and that cost-benefit
+analysis can be understood in a way that responds to reasonable concerns about
+quantification and about the idea that the only thing to be maximized is total
+lives saved (or, somewhat better, life-years saved).</p>
+      <p>But none of this deals with the general question how cost-benefit analysis
+should be understood. In the least contentious formulation—the formulation that
+I have used here—cost-benefit analysis is simply a form of open-ended
+consequentialism, an invitation to identify the advantages and disadvantages of
+regulation,67 an invitation that does not say anything about appropriate weights.
+The virtue of this formulation is that it is uncontentious; the vice is that it is
+vacuous. People can agree with it, but it does not mean anything. In its most
+contentious formulation, cost-benefit analysis depends on asking people how
+much they are “willing to pay” for various goods, and making decisions depend
+on the resulting numbers.68 Problems with this approach lie in a possible lack of
+private information; its possible distributional unfairness (since willingness to
+pay depends on ability to pay); potential differences between private willingness
+to pay and public aspirations69; and collective action problems of various sorts
+that might draw into doubt the privately-expressed amounts.70 It will be
+worthwhile to spell out these points in a bit more detail.</p>
+      <p>“Willingness to pay” is a simple way to capture people’s valuations, and for
+this reason it has practical advantages. Indeed, it is a good place to start,
+especially in the absence of anything better. But it also suffers from several
+problems. First, willingness to pay may be a product of cognitive and
+motivational distortions of various kinds. Willingness to pay judgments may be
+insufficiently informed or reflective with respect to both facts and values. For
+67 See Amartya Sen, The Discipline of Cost-Benefit Analysis, J. Legal Stud. (forthcoming 2000); compare the
+notion of cost-benefit analysis as a decision procedure in Matthew Adler and Eric A. Posner, Rethinking
+Cost-Benefit Analysis, 109 Yale L.J. (forthcoming 1999).
+68 See Richard A. Posner, Economic Analysis of Law (5th ed. 1998).
+69 See Daphna Lewinson-Zamir, Consumer Preferences, Citizen Preferences, and the Provision of Public
+Goods, 108 Yale L.J. 377 (1999); Cass R. Sunstein, Free Markets and Social Justice ch. 2 (1997).
+70 See Daphna Lewinson-Zamir, Consumer Preferences, Citizen Preferences, and the Provision of Public
+Goods, 108 Yale L.J. 377 (1999); Amartya Sen, Environmental Evaluation and Social Choice: Contingent
+Valuation and the Market Analogy, 46 Japanese Econ. Rev. 23, 29 (1995).
+example, people may overstate the risks from various hazards that receive
+disproportionate media attention. If this is so, it seems odd to base government
+policy on those judgments.</p>
+      <p>It is also possible that people will be willing to pay little to avoid some bad X
+simply because they are used to it and their preferences have adapted
+accordingly.71 For example, people may not care about scenic areas simply
+because they have not been exposed to them. Preferences based on lack of
+information or adaptation to deprivation are hardly a good basis for regulatory
+policy. They need not be taken as given and translated into law. In any case
+private preferences may be a product of social norms over which individuals
+have little control, by which they live, but which they would like to change if
+they could. If people are willing to pay little to avoid some risk (for example, of
+smoking) because of prevailing norms that they would wish changed,
+willingness to pay is unjustified as a basis for policy, since the norm could be
+changed through collective action.72</p>
+      <p>Second, willingness to pay is imperfectly correlated with utility—at best
+the first is a proxy for the second—and the two should not be confused in
+principle. One problem is that poor people are willing to pay less than wealthy
+people simply by virtue of being poor, and their willingness to pay for something
+(eg, a reduced mortality risk) is crudely connected with the utility that they
+would gain from it. In the face of disparities in wealth, willingness to pay should
+not be identified with expected utility or with the value actually placed on the
+good in question.73 Third, there is a purely distributive concern.74 Because poor
+people have less money than wealthy people, they are willing to pay less for
+equivalent goods (such as reduced risks to life). The result of the use of
+willingness to pay would be to produce greater expenditures to protect wealthy
+people than poor people, a controversial result to say the least.75 Fourth, the
+willingness to pay criterion will produce losers as well as winners, and many of
+the losers will go uncompensated; it is scant comfort to say that they could be
+71 See Sen, supra; Jon Elster, Sour Grapes (1983).
+72 See Cass R. Sunstein, Free Markets and Social Justice ch. 2 (1997).
+73 This seems to me a mistake in Viscusi’s illuminating discussion, W. Kip Viscusi, Risk Equity, J. Legal
+Stud. (forthcoming 2000).
+74 This is a standard point in economic discussions of cost-benefit analysis, though it is ignored in many
+discussions by economic analysts of law. See, e.g., Richard Tresch, Public Finance: A Normative Theory 541
+(1981): “In our opinion the distributive question is the single most important issue in all of cost-benefit
+analysis.” Tresch discusses how distributional considerations might be incorporated. See also A. Allan
+Schmid, Benefit-Cost Analysis 157-190 (1989), with a discussion of distributive weights at pp. 170-72.
+75 At least unless poor people are compensated for any losses via side payments.
+compensated with side payments or a system of optimal taxation. Hence an
+attempt to defend cost-benefit analysis by reference to the efficiency criterion, as
+measured by private willingness to pay, runs into great difficulties, at least
+unless steps are taken to ensure against distributional bias.76</p>
+      <p>Fifth, and finally, there may be differences between the choices people make
+as consumers and the choices that they make as citizens, and it is not clear that
+the former should be preferred. The context of citizenship may evoke
+otherregarding or altruistic values, or preferences, that are not reflected in private
+choices. This is partly because aggregating private willingness to pay can
+replicate various collective action problems faced in the private domain; people
+may be willing to pay more simply because they know that other people are
+contributing as well.77 If this is so, it makes no sense to base policy on private
+willingness to pay, where the collective action problem arises.</p>
+      <p>In any case we might think that government policy should be based on the
+reasons given for one or another outcome, and the fact that people are “willing to
+pay” a lot or a little for some outcome tells us too little about whether good
+reasons exist. Before discussion, for example, people may be willing to pay a fair
+bit to discriminate on the basis of sex, and they may be willing to pay little to
+protect large populations of animals that are at risk. These judgments may
+change as a result of reason-giving in the public domain. In other words,
+government is a place for exchanging reasons for one or another course or action.
+It is not simply a maximizing machine, taking private willingness to pay as the
+foundation, whatever the source or the grounds of pre-discussion preferences.</p>
+      <p>A particular problem here is that people may not want to spend a great deal
+to protect (for example) environmental amenities because they seek to protect
+their (relative) financial position.78 A regulatory program supported by all might
+maintain relative position, which may be what people care about. Current
+willingness to pay numbers do not take account of this possibility. There is thus
+good reason for an empirical speculation here, one that suggests that current
+76 There are some complexities here. Of course markets are ordinarily based on willingness to pay, and
+poor people are willing to pay less for safety, simply because they have less. Poor people are willing to pay
+less, as a class and other things equal, for safer cars, safer neighborhoods, and so forth. The aggregated
+willingness to pay approach simply generalizes this phenomenon; there is nothing unusual about it. Thus a
+system that assigns uniform values to life embeds a kind of subsidy, or redistribution, to people with
+relatively less resources or, more precisely, to people with less willingness to pay. A system of uniform
+values might be thought sufficient to correct any distributional bias in cost-benefits analysis.
+77 See Robert H. Frank, Choosing the Right Pond: Human Behavior and the Quest for Status (Oxford
+University Press) (1985); Lewinsohn-Zamir, supra; Amartya Sen, supra; Cass R. Sunstein, Free Markets and
+Social Justice (1997).
+78 See Frank, supra note.
+numbers are far too low. Much further work remains to be done to test whether
+people would in fact be willing to spend more for safety, or for environmental
+amenities, if the result would be significant decreases in absolute income but the
+same relative income.</p>
+      <p>Nor would it be sensible to disregard the presence of tragic choices, as when
+cost-benefit analysis leads to a choice of course A over course B, but course A
+leads to uncompensated losers (a group whose members may suffer from serious
+illnesses and even death).79 Perhaps it is possible, in such cases, to restructure
+social arrangements so as to reduce or eliminate the tragedy. But even if this is
+so, a cost-benefit analysis, of the sort to be described, can help inform a decision
+about what tragedy-reducing course to take, and whether such a course is
+worthwhile at all.</p>
+    </sec>
+    <sec id="sec-17">
+      <title>B. Incomplete Theorization: Cost-Benefit Analysis As Political, Not Metaphysical</title>
+      <p>Often it is possible to resolve hard questions of law and policy without
+resolving deeply contested issues about justice, democracy, or the appropriate
+aims of the state.80 Often it is possible to obtain an incompletely theorized
+agreement on a social practice, and even on the social or legal specification of the
+practice. In many areas of law and public policy, people can reach closure about
+what to do despite their disagreement or uncertainty about why, exactly, that
+ought to do it. Thus people who disagree about the purposes of the criminal law
+can agree that rape and murder should be punished, and punished more
+severely than theft and trespass. Thus people can support an Endangered Species
+Act amidst disagreement about whether the protection of endangered species is
+desirable for theological reasons, or because of the rights of animals, plants, and
+species, or because of the value of animals, plants, and species for human beings.
+A great advantage of incompletely theorized agreements is that they allow
+people of diverse views to live together on mutually advantageous terms. An
+even greater advantage is that they allow people of diverse views to show one
+another a high degree of both humility and mutual respect.</p>
+      <p>I believe that incompletely theorized agreement is possible here; at least this
+should be the goal of those attempting to understand the uses of cost-benefit
+analysis in regulatory policy. For reasons just discussed, it would be difficult to
+obtain agreement on the view (which seems to me implausible) that all questions
+of regulatory policy should be resolved by asking how much people are “willing
+79 See Martha C. Nussbaum, The Fragility Of Goodness: Luck and Ethics In Greek Tragedy and Philosophy
+(1983); Martha Nussbaum, J. Legal Stud. (forthcoming 2000).
+80 See Cass R. Sunstein, Legal Reasoning and Political Conflict (1996); Cass R. Sunstein, One Case At A
+Time (1999).
+to pay” for various social goods.81 But my basic claims here are that it should be
+possible for diverse people to agree on presumptive floors and ceilings for
+regulatory expenditures, and that the presumptions can do a great deal of useful
+work for policymaking and for law. In short, a great deal can be done without
+confronting the hardest theoretical questions raised by contentious specifications
+of cost-benefit analysis.</p>
+      <p>An obvious question here is: Who could join this incompletely theorized
+agreement? Who would reject it? My principal claim is that the agreement could
+be joined by a wide range of reasonable people, including utilitarians and
+Kantians, perfectionist and political liberals, and those who accept and those who
+doubt the idea that private willingness to pay is the appropriate foundation for
+regulatory policy. There is room here for deliberative democrats who emphasize
+the need for government to reflect on private preferences, rather than simply to
+translate them into law.82 A prime purpose of the approach is to ensure more in
+the way of reflection; cost-benefit analysis, as understood here, is a guarantee of
+greater deliberation, not an obstacle to it. Nor is the approach rigid. Under the
+proposed approach, agencies have the authority to abandon the floors and
+ceilings if there is reason for them to do so. If, for example, agencies want to
+spend a great deal to protect African-American children from a risk
+disproportionately faced by them, they are entitled to do so, as long as they
+explain that this is what they are doing, and so long as what they are doing in
+reasonable.</p>
+    </sec>
+    <sec id="sec-18">
+      <title>C. Eight Propositions</title>
+      <p>Here, then, are eight propositions, offered in the hope that they might attract
+support from diverse theoretical standpoints. I do not attempt to defend them in
+detail here; The goal is to provide a starting point for the effort to anchor
+costbenefit analysis in an incompletely theorized agreement about regulatory
+policies.
+81 See Matthew Adler and Eric A. Posner, Rethinking Cost-Benefit Analysis, 109 Yale L.J. (forthcoming
+1999).
+82 Absolutists of various kinds might refuse to join an agreement on these principles. Perhaps their refusal
+would be most reasonable in the case of the Endangered Species Act, where nothing said below explains
+why millions of dollars should be spent (at least in opportunity costs) to say members of ecologically
+unimportant species. It would be possible, however, to imagine a kind of “meta” cost-benefit analysis that
+would point in this direction, perhaps on the ground that it greatly simplifies decision without imposing
+high costs overall. For the regulatory issues dealt with here, an absolutist approach seems hard to justify,
+not least because there are dangers to life and health on both sides of the equation. Note that I am dealing
+here with environmental and related risks, and hence many of the most contentious issues (e.g., how to treat
+the wrongdoer’s motivation, or how to deal with rights violators) do not arise. See Sen, The Discipline of
+Cost-Benefit Analysis, supra.
+1. Agencies should identify the advantages and disadvantages of proposed
+courses of action, and also attempt to quantify the relevant effects to the extent
+that this is possible. When quantification is not possible, agencies should
+discuss the relevant effects in qualitative terms, and also specify a range
+of plausible outcomes, e.g., annual savings of between 150 and 300 lives,
+or savings of between $100 million and $300 million, depending on the
+rate of technological change. The statement should include the full
+range of beneficial effects. The problem of particulates and ozone
+regulation poses some serious difficulties to challengers to cost-benefit
+analysis (CBA); if the EPA is not to do a form of CBA, what is it to do,
+concretely?
+2. The quantitative description should supplement rather than displace a
+qualitative description of relevant effects. Both qualitative and quantitative
+descriptions should be provided. It is important to know the nature of
+the relevant effects, e.g., lost workdays, cancers averted, respiratory
+problems averted. To the extent possible, the qualitative description
+should give a concrete sense of who is helped and who is hurt, e.g.,
+whether the beneficiaries are mostly or partly children, whether the
+regulation will lead to lost jobs, higher prices, more poverty, and so
+forth. Where the only possible information is speculative, this should be
+noted, along with the most reasonable speculations.</p>
+    </sec>
+    <sec id="sec-19">
+      <title>3. Agencies should attempt to convert nonmonetary values (involving, for example, lives saved, health gains, and aesthetic values) into dollar equivalents.</title>
+      <p>This is not because a statistical life and (say) $5 million are the same
+thing, but to promote coherence and uniformity and to ensure sensible
+priority-setting. There is nothing magical or rigid about the dollar
+equivalents; the conversion is simply a pragmatic tool to guide analysis
+and to allow informed comparisons.
+4. Agencies entrusted with valuing life and health should be controlled, by
+statute or Executive Order, via presumptive floors and ceilings. For example,
+a statute might say that a statistical life will ordinarily be valued at no
+less than $2 million and no more than $10 million. Evidence of worker
+and consumer behavior, suggesting a valuation of between $5 million
+and $7 million per statistical life saved, is at least relevant here. The fact
+that the willingness to pay numbers are in this range is hardly decisive,
+but it is supplemented by the fact that similar numbers appear to
+represent the midpoint of agency practice. Thus both market and
+governmental measures point in the same basic direction.83 OMB
+should establish presumptive floors and ceilings for various regulatory
+benefits. If an agency is going to spend (say) no more than $500,000 per
+life saved, or more than $20 million, it should have to explain itself.
+Actual agency practice reveals a mixed record. EPA now values a life at
+$4.8 million; some agencies go as high as $5.6 or as low as $1; and some
+agencies do not provide specific numbers at all.</p>
+    </sec>
+    <sec id="sec-20">
+      <title>5. Agencies should be permitted to adjust the ceilings and floors, or to choose a low or high end of the range, on the basis of a publicly articulated and reasonable judgment that such an adjustment or such a choice is desirable.</title>
+      <p>Perhaps adjustments could be made if, for example, poor people are
+especially at risk. There should be no adjustments “downwards” for
+poor people; in other words, the fact that poor people are willing to
+spend less to protect their own lives (because they are poor) should not
+call for a correspondingly lower expenditures by government. The
+principal danger here is that well-organized groups will be able to use
+equitable arguments on behalf of their preferred adjustments. It is
+important to ensure a degree of discipline here, and perhaps the
+dangers of interest-group manipulation are serious enough to suggest
+that uniform numbers or ranges might be used, or that the
+presumptions are strong and rebuttable only in the most compelling
+cases.84
+6. Agencies should be permitted to make adjustments on the basis of the
+various “qualitative” factors discussed above. For example, they might add
+a “pain and suffering premium,” or increase the level of expenditure
+because children are disproportionately affected or because the victims
+are members of a disadvantaged group. It would be reasonable to
+conclude that because AIDS has disproportionate adverse effects on
+homosexuals and poor people, special efforts should be made to ensure
+against AIDS-related deaths. To the extent possible, they should be
+precise about the nature of, and grounds for, the relevant adjustments,
+especially in light of the risk that interest-group pressures will convert
+allegedly qualitative adjustments in illegitimate directions.85
+83 Note, however, that if relative position is what matters, these numbers may be too low, for reasons stated
+above.
+84 See Viscusi, Risk Equity, supra note.
+85 See id.; see also James Hamilton and W. Kip Viscusi, Calculating Risks (1999) (showing that allegedly
+equitable shifts are driven by political pressures not mapping onto any sensible conception of equity).</p>
+    </sec>
+    <sec id="sec-21">
+      <title>7. The appropriate response to social fear not based on evidence, and to related “ripple effects,” is education and reassurance rather than increased regulation.</title>
+      <p>Sometimes public concern about certain risks is general and intense,
+even though the concern is not merited by the facts.86 The best response
+is educational; the government should not expend significant resources
+merely because an uninformed public believes that it should. But if
+education and reassurance fail, increased regulation may be defensible
+as a way of providing a kind of reassurance in the face of intense fears,
+which can themselves impose high costs of various kinds. (Consider, for
+example, the possibility that people who afraid of risks of plane crashes
+will shift to driving, a more risky method of transportation; consider
+also the fact that the fear is itself a cost.)
+8. Unless the statute requires otherwise, judicial review of risk regulation
+should require a general showing that regulation has produced more good than
+harm, on a reasonable view about valuation of both benefits and costs.87 On
+this view, courts should generally require agencies to generate and to
+adhere to ceilings and floors. But they should also allow agencies to
+depart from conventional numbers (by, for example, valuing a life at
+less than $1 million, or more than $10 million) if and only if the agency
+has given a reasonable explanation of why it has done so. The ultimate
+task would be develop a kind of “common law” of cost-benefit analysis,
+authorizing agencies to be law-making institutions in the first instance.88</p>
+      <sec id="sec-21-1">
+        <title>IV. Conclusion</title>
+        <p>I have suggested that cost-benefit analysis, often defended on economic
+grounds, can be urged less contentiously on cognitive grounds. Cost-benefit
+analysis, taken as an inquiry into the consequences of varying approaches to
+regulation,89 is a sensible response not only to interest-group power, but also to
+limited information and to predictable problems in the public demand for
+regulation. These problems include the use of the availability heuristic; social
+amplification of that heuristic via cascade effects; a failure to see the benefits that
+86 See Timur Kuran &amp; Cass R. Sunstein, Availability Cascades and Risk Regulation, 51 Stan. L. Rev. 683
+(1999).
+87 See Margolis, supra note.
+88 This has started to happen in various areas. See the development of a common law of “risk significance”
+under OSHA, discussed in Cass R. Sunstein, Is the Clean Air Act Unconstitutional?, Michigan Law Review
+(forthcoming 1999).
+89 There is no alternative to regulation. What is sometimes described as deregulation, or a failure to
+regulate, is actually regulation via the common law.
+accompany certain risks; a misunderstanding of systemic effects, which can lead
+to unanticipated bad (and good) consequences; and certain emotional reactions
+to risks. In all of these areas, an effort to identify costs and benefits can properly
+inform analysis.</p>
+        <p>These points do not show how cost-benefit analysis should be specified.
+Here I have raised questions about the willingness to pay criterion and suggested
+that at least in principle, it would be obtuse to attempt to assess regulatory
+proposals via a uniform number for lives saved; but I have also suggested that
+presumptive ranges, for life as well as other beneficial effects on health and other
+values, would be an excellent way to clarify and order regulatory policy, in a
+way that should lead both to greater consistency and more overall protection. If
+ordinary market behavior and ordinary government behavior point to a similar
+basic range (e.g., $3 million to $7 million per life saved), that is an excellent place
+to start.</p>
+        <p>My ultimate hope is that it would be possible to produce a convergence on a
+form of cost-benefit analysis that should be understood as a pragmatic
+instrument and that ought not to be terribly contentious—a form of cost-benefit
+analysis that does not take a stand on highly controversial questions about what
+government ought to do, and that promises to attract support from people with
+diverse conceptions of the right and the good. I have suggested here that the
+most promising source of such an agreement is not only or even mostly
+neoclassical economics, but also behavioral economics and cognitive psychology.
+Preliminary draft dated 09/04/99.</p>
+        <p>Forthcoming in the Journal of Legal Studies.</p>
+        <p>All rights reserved.</p>
+        <p>Readers with comments should address them to:
+Cass R. Sunstein
+Karl N. Llewellyn Distinguished Service Professor
+University of Chicago Law School
+1111 East 60th Street
+Chicago, IL 60637</p>
+      </sec>
+      <sec id="sec-21-2">
+        <title>Chicago Working Papers in Law and Economics</title>
+        <p>(Second Series)
+1. William M. Landes, Copyright Protection of Letters, Diaries and Other</p>
+        <p>Unpublished Works: An Economic Approach (July 1991).
+2. Richard A. Epstein, The Path to The T. J. Hooper: The Theory and History of</p>
+        <p>Custom in the Law of Tort (August 1991).
+3. Cass R. Sunstein, On Property and Constitutionalism (September 1991).
+4. Richard A. Posner, Blackmail, Privacy, and Freedom of Contract (February
+1992).
+5. Randal C. Picker, Security Interests, Misbehavior, and Common Pools
+(February 1992).
+6. Tomas J. Philipson &amp; Richard A. Posner, Optimal Regulation of AIDS (April
+1992).
+7. Douglas G. Baird, Revisiting Auctions in Chapter 11 (April 1992).
+8. William M. Landes, Sequential versus Unitary Trials: An Economic Analysis
+(July 1992).
+9. William M. Landes &amp; Richard A. Posner, The Influence of Economics on Law:</p>
+        <p>A Quantitative Study (August 1992).
+10. Alan O. Sykes, The Welfare Economics of Immigration Law: A Theoretical</p>
+        <p>Survey With An Analysis of U.S. Policy (September 1992).
+11. Douglas G. Baird, 1992 Katz Lecture: Reconstructing Contracts (November
+1992).
+12. Gary S. Becker, The Economic Way of Looking at Life (January 1993).
+13. J. Mark Ramseyer, Credibly Committing to Efficiency Wages: Cotton</p>
+        <p>Spinning Cartels in Imperial Japan (March 1993).
+14. Cass R. Sunstein, Endogenous Preferences, Environmental Law (April 1993).
+15. Richard A. Posner, What Do Judges and Justices Maximize? (The Same Thing</p>
+        <p>Everyone Else Does) (April 1993).
+16. Lucian Arye Bebchuk and Randal C. Picker, Bankruptcy Rules, Managerial</p>
+        <p>Entrenchment, and Firm-Specific Human Capital (August 1993).
+17. J. Mark Ramseyer, Explicit Reasons for Implicit Contracts: The Legal Logic to
+the Japanese Main Bank System (August 1993).
+18. William M. Landes and Richard A. Posner, The Economics of Anticipatory</p>
+        <p>Adjudication (September 1993).
+19. Kenneth W. Dam, The Economic Underpinnings of Patent Law (September
+1993).
+20. Alan O. Sykes, An Introduction to Regression Analysis (October 1993).
+21. Richard A. Epstein, The Ubiquity of the Benefit Principle (March 1994).
+22. Randal C. Picker, An Introduction to Game Theory and the Law (June 1994).
+23. William M. Landes, Counterclaims: An Economic Analysis (June 1994).
+24. J. Mark Ramseyer, The Market for Children: Evidence from Early Modern</p>
+        <p>Japan (August 1994).
+25. Robert H. Gertner and Geoffrey P. Miller, Settlement Escrows (August 1994).
+26. Kenneth W. Dam, Some Economic Considerations in the Intellectual Property</p>
+        <p>Protection of Software (August 1994).
+27. Cass R. Sunstein, Rules and Rulelessness, (October 1994).
+28. David Friedman, More Justice for Less Money: A Step Beyond Cimino
+(December 1994).
+29. Daniel Shaviro, Budget Deficits and the Intergenerational Distribution of</p>
+        <p>Lifetime Consumption (January 1995).
+30. Douglas G. Baird, The Law and Economics of Contract Damages (February
+1995).
+31. Daniel Kessler, Thomas Meites, and Geoffrey P. Miller, Explaining
+Deviations from the Fifty Percent Rule: A Multimodal Approach to the
+Selection of Cases for Litigation (March 1995).
+32. Geoffrey P. Miller, Das Kapital: Solvency Regulation of the American</p>
+        <p>Business Enterprise (April 1995).
+33. Richard Craswell, Freedom of Contract (August 1995).
+34. J. Mark Ramseyer, Public Choice (November 1995).
+35. Kenneth W. Dam, Intellectual Property in an Age of Software and</p>
+        <p>Biotechnology (November 1995).
+36. Cass R. Sunstein, Social Norms and Social Roles (January 1996).
+37. J. Mark Ramseyer and Eric B. Rasmusen, Judicial Independence in Civil Law</p>
+        <p>Regimes: Econometrics from Japan (January 1996).
+38. Richard A. Epstein, Transaction Costs and Property Rights: Or Do Good</p>
+        <p>Fences Make Good Neighbors? (March 1996).
+39. Cass R. Sunstein, The Cost-Benefit State (May 1996).
+40. William M. Landes and Richard A. Posner, The Economics of Legal Disputes</p>
+        <p>Over the Ownership of Works of Art and Other Collectibles (July 1996).
+41. John R. Lott, Jr. and David B. Mustard, Crime, Deterrence, and
+Right-to</p>
+        <p>Carry Concealed Handguns (August 1996).
+42. Cass R. Sunstein, Health-Health Tradeoffs (September 1996).
+43. Douglas G. Baird, The Hidden Virtues of Chapter 11: An Overview of the la
+and Economics of Financially Distressed Firms (March 1997).
+44. Richard A. Posner, Community, Wealth, and Equality (March 1997).
+45. William M. Landes, The Art of Law and Economics: An Autobiographical</p>
+        <p>Essay (March 1997).
+46. Cass R. Sunstein, Behavioral Analysis of Law (April 1997).
+47. John R. Lott, Jr. and Kermit Daniel, Term Limits and Electoral
+Competitiveness: Evidence from California’s State Legislative Races (May
+1997).
+48. Randal C. Picker, Simple Games in a Complex World: A Generative</p>
+        <p>Approach to the Adoption of Norms (June 1997).
+49. Richard A. Epstein, Contracts Small and Contracts Large: Contract Law
+through the Lens of Laissez-Faire (August 1997).
+50. Cass R. Sunstein, Daniel Kahneman, and David Schkade, Assessing Punitive</p>
+        <p>Damages (with Notes on Cognition and Valuation in Law) (December 1997).
+51. William M. Landes, Lawrence Lessig, and Michael E. Solimine, Judicial
+Influence: A Citation Analysis of Federal Courts of Appeals Judges (January
+1998).
+52. John R. Lott, Jr., A Simple Explanation for Why Campaign Expenditures are</p>
+        <p>Increasing: The Government is Getting Bigger (February 1998).
+53. Richard A. Posner, Values and Consequences: An Introduction to Economic</p>
+        <p>Analysis of Law (March 1998).
+54. Denise DiPasquale and Edward L. Glaeser, Incentives and Social Capital: Are</p>
+        <p>Homeowners Better Citizens? (April 1998).
+55. Christine Jolls, Cass R. Sunstein, and Richard Thaler, A Behavioral Approach
+to Law and Economics (May 1998).
+56. John R. Lott, Jr., Does a Helping Hand Put Others At Risk?: Affirmative</p>
+        <p>Action, Police Departments, and Crime (May 1998).
+57. Cass R. Sunstein and Edna Ullmann-Margalit, Second-Order Decisions (June
+1998).
+58. Jonathan M. Karpoff and John R. Lott, Jr., Punitive Damages: Their
+Determinants, Effects on Firm Value, and the Impact of Supreme Court and
+Congressional Attempts to Limit Awards (July 1998).
+59. Kenneth W. Dam, Self-Help in the Digital Jungle (August 1998).
+60. John R. Lott, Jr., How Dramatically Did Women’s Suffrage Change the Size
+and Scope of Government? (September 1998)
+61. Kevin A. Kordana and Eric A. Posner, A Positive Theory of Chapter 11
+(October 1998)
+62. David A. Weisbach, Line Drawing, Doctrine, and Efficiency in the Tax Law
+(November 1998)
+63. Jack L. Goldsmith and Eric A. Posner, A Theory of Customary International</p>
+        <p>Law (November 1998)
+64. John R. Lott, Jr., Public Schooling, Indoctrination, and Totalitarianism
+(December 1998)
+65. Cass R. Sunstein, Private Broadcasters and the Public Interest: Notes Toward</p>
+        <p>A “Third Way” (January 1999)</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          2 See, e.g., W. Kip Viscusi, Fatal Tradeoffs:
+          <article-title>Public &amp; Private Responsibilities for Risk (</article-title>
+          <year>1992</year>
+          ); W. Kip Viscusi,
+          <string-name>
+            <given-names>Risk</given-names>
+            <surname>Equity</surname>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>J. Legal</given-names>
+            <surname>Stud</surname>
+          </string-name>
+          . (forthcoming
+          <year>2000</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          3
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Elizabeth</surname>
+          </string-name>
+          <string-name>
+            <surname>Anderson</surname>
+          </string-name>
+          ,
+          <source>Value in Ethics and Economics</source>
+          (
+          <year>1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          4 See, e.g.,
+          <string-name>
+            <surname>Thomas O. McGarity</surname>
+          </string-name>
+          , Reinventing Rationality:
+          <article-title>The Role of Regulatory Analysis in the Federal Bureaucracy (</article-title>
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+

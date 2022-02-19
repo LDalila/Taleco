@@ -1,0 +1,2048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta />
+    <article-meta>
+      <title-group>
+        <article-title>Probability Neglect: Emotions, Worst Cases, and Law</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Coase-Sandor Working Paper Series in Law</string-name>
+          <email>unbound@law.uchicago.edu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Cass R. Sunstein, "Probability Neglect: Emotions</institution>
+          ,
+          <addr-line>Worst Cases, and Law"</addr-line>
+          ,
+          <institution>John M. Olin Program in Law and Economics Working Paper No.</institution>
+          <addr-line>138, 2001</addr-line>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Coase-Sandor Institute for Law and Economics</institution>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <abstract>
+        <p>Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics Part of the Law Commons Recommended Citation</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>JOHN M. OLIN LAW &amp; ECONOMICS WORKING PAPER NO. 138 (2D SERIES)</title>
+      <sec id="sec-1-1">
+        <title>Probability Neglect:</title>
+      </sec>
+      <sec id="sec-1-2">
+        <title>Emotions, Worst Cases, and Law</title>
+        <p>Cass R. Sunstein</p>
+      </sec>
+    </sec>
+    <sec id="sec-2">
+      <title>THE LAW SCHOOL</title>
+    </sec>
+    <sec id="sec-3">
+      <title>THE UNIVERSITY OF CHICAGO</title>
+      <p>This paper can be downloaded without charge at:</p>
+      <p>The Chicago Working Paper Series Index:
+http://www.law.uchicago.edu/Lawecon/index.html
+The Social Science Research Network Electronic Paper Collection:
+http://papers.ssrn.com/paper.taf?abstract_id=292149</p>
+      <sec id="sec-3-1">
+        <title>Probability Neglect:</title>
+      </sec>
+      <sec id="sec-3-2">
+        <title>Emotions, Worst Cases, and Law</title>
+        <p>Cass R. Sunstein*</p>
+        <p>When strong emotions are triggered by a risk, people show a remarkable tendency to neglect a
+small probability that the risk will actually come to fruition. Experimental evidence, involving
+electric shocks and arsenic, supports this claim, as does real-world evidence, involving responses
+to abandoned hazardous waste dumps, the pesticide Alar, and anthrax. The resulting “probability
+neglect” has many implications for law and policy. It suggests the need for institutional
+constraints on policies based on ungrounded fears; it also shows how government might
+effectively draw attention to risks that warrant special concern. Probability neglect helps to
+explain the enactment of certain legislation, in which government, no less than ordinary people,
+suffers from that form of neglect. When people are neglecting the fact that the probability of harm
+is small, government should generally attempt to inform people, rather than cater to their
+excessive fear. But when information will not help, government should respond, at least if
+analysis suggest that the benefits outweigh the costs. The reason is that fear, even if it is
+excessive, is itself a significant problem, and can create additional significant problems.</p>
+        <p>“If someone is predisposed to be worried, degrees of unlikeliness seem to
+provide no comfort, unless one can prove that harm is absolutely impossible,
+which itself is not possible.”1</p>
+        <p>“[A]ffect-rich
+probabilities . . . .”2
+outcomes
+yield
+pronounced
+overweighting
+of small
+“On Sept. 11, Americans entered a new and frightening geography, where
+the continents of safety and danger seemed forever shifted. Is it safe to fly? Will
+terrorists wage germ warfare? Where is the line between reasonable precaution
+and panic? Jittery, uncertain and assuming the worst, many people have
+answered these questions by forswearing air travel, purchasing gas masks and
+radiation detectors, placing frantic calls to pediatricians demanding vaccinations
+against exotic diseases or rushing out to fill prescriptions for Cipro, an antibiotic
+most experts consider an unnecessary defense against anthrax.”3
+*Karl N. Llewellyn Distinguished Service Professor, University of Chicago, Law School and
+Department of Political Science. I am grateful to Christine Jolls, Eric Posner, Richard Posner, and
+Adrian Vermeule for helpful comments on a previous draft, and to Martha Nussbaum for
+valuable discussion.</p>
+        <p>1See John Weingart, Waste Is A Terrible Thing To Mind 362 (2001).</p>
+        <p>2Yuval Rottenstreich and Christopher Hsee, Money, Kisses, and Electric Shocks: On the
+Affective Psychology of Risk, 12 Psych Rev. 185, 188 (2001).</p>
+        <p>3Erica Goode, Rational and Irrational Fears Combine in Terrorism's Wake, The New York
+Times, Oct. 2, 2001.</p>
+      </sec>
+    </sec>
+    <sec id="sec-4">
+      <title>I. Preface: Terrorism’s Aftermath</title>
+      <p>This is an essay about the role of the emotions in producing responses to
+risks, and in particular about how strong emotions lead people to neglect the
+probability that a risk will come to fruition. I started writing the essay a few days
+before the terrorist attacks on Washington, DC and New York City on September
+11, 2001. It goes without saying that in the immediate aftermath of those attacks,
+people became exceedingly frightened. Many people were saying, “you cannot
+be safe anywhere.” They were especially afraid to fly. In response to the attacks,
+new security measures at airports were imposed at airports. There was a
+significant reduction in flying. One reason was simple fear. Another reason was
+the increased inconvenience (and to that extent cost, monetary and otherwise) of
+flying. Many people drove who would have flown; many others stayed at home.</p>
+      <p>For those who study the topic of risk regulation, there are many things to
+say about this state of affairs. First, safety is a matter of degree; it is foolish to
+worry, as people seemed to be doing, about whether they are “safe” or “not
+safe.” As a statistical matter, most people, in most places (not excluding airports),
+were not at significantly more risk after the attacks than they were before.
+Second, the result of the new security measures might have been to increase
+deaths on balance.4 It is entirely possible that the new measures saved no lives at
+all. In addition, any substitution of driving for flying is likely to cause deaths,
+because driving is a less safe method of transportation.5 Perhaps hundreds of
+lives, on balance, will ultimately be lost as a result of the new security measures.6
+Third, the costs of the new measures might well outweigh the benefits. As noted,
+there might be no benefits at all. Once monetized, the various costs are likely to
+be huge, undoubtedly in the billions. The sensible technocrat asks: Should we
+not, therefore, reject at least some of the new security measures, on the ground
+that they fail both health-health balancing and cost-benefit balancing?</p>
+      <p>It is not at all clear that the sensible technocrat is wrong. But things are not
+so obvious. People were afraid to fly, and they demanded stringent security
+measures. Indeed few people publicly objected to them; it is hard to find a single
+person who was willing to launch a public objection on technocratic grounds. (It
+is an interesting question whether people objected to them privately and were
+4See Robert W. Hahn, The Economics of Airline Safety, 20 Harv. L. &amp; Pub. Policy 791 (1997).
+5Id.
+6Id.
+silencing themselves, and if so exactly why.7) Perhaps fewer people would fly,
+and more people would die, without those measures. This too is a technical
+question. But the demand for stringent security measures itself reflected the fact
+that people would have felt distressed, or upset, or fearful if government did not
+respond. A failure to respond would itself have imposed costs. One point seems
+clear: An effort to assess the costs of airplane crashes, and terrorism, will be
+ludicrously incomplete if it does not take account of the consequences of
+emotional reactions, which are themselves costs, and which will impose
+significant additional costs. I flew myself, about a week after the attacks, and
+while I believed that that the probability of danger was very low, I was not at all
+comfortable about flying, and the day before the flight was pretty miserable.</p>
+    </sec>
+    <sec id="sec-5">
+      <title>II. Emotions, Probability Neglect, and the Worst Case</title>
+      <p>On the conventional view of rationality, emotions, as such, are not assessed
+independently; they are not taken to play a distinctive role.8 Of course people
+might be risk-averse or risk-inclined. It is possible, for example, that people will
+be willing to pay $100 to eliminate a 1/1000 risk of losing $900. But analysts do
+not generally ask, or care, whether these dispositions are a product of emotions
+or something else.</p>
+      <p>What can be said for the conventional view of rationality can also be said for
+prospect theory, a less conventional view about decision under risk.9 Prospect
+theory emphasizes a number of anomalies in people’s reactions to risks. For
+present purposes, what is most important is that prospect theory offers an
+explanation for simultaneous gambling and insurance.10 When given the choice,
+many people will reject a certain gain of X in favor of a gamble with an expected
+value below X, if the gamble involves a small probability of riches. At the same
+time, people prefer a certain loss of X to a gamble with an expected value less
+than X, if the gamble involves a small probability of catastrophe.11 If expected
+utility theory is taken as normative, then people depart from the normative
+theory of rationality in giving excessive weight to low-probability outcomes
+when the stakes are high. But in making these descriptive claims, prospect theory
+does not set out a special role for emotions. Nor is this a puzzling oversight, if it
+counts as an oversight at all. For many purposes, what matters is what people
+choose, and it is unimportant to know whether their choices depend on cognition
+or emotion, whatever may be the difference between these two terms.</p>
+      <p>No one doubts, however, that in many domains, emotions have a large effect
+on judgment and decisionmaking.12 With some low-probability events,
+anticipated and actual emotions help to determine choice. Those who buy lottery
+tickets, for example, often fantasize about the goods associated with a lucky
+outcome.13 With respect to risks of harm, many of our ordinary ways of speaking
+suggest strong emotions: panic, hysteria, terror. People might refuse to fly, for
+example, not because they are currently frightened, but because they anticipate
+their own anxiety, and they want to avoid it. It is well known that people often
+decide as they do because they anticipate their own regret.14 The same is true for
+fear. Knowing that they will be afraid, people may refuse to travel to the Israel or
+South Africa, even if they would much enjoy seeing those nations and even if
+they believe, on reflection, that their fear is not entirely rational. Recent evidence
+is quite specific.15 It suggests that people’s aversion to a small probability of an
+especially bad outcome is heightened when the outcome is “affect rich” – when it
+involves not simply a serious loss, but one that produces strong emotions,
+including fear.16</p>
+      <p>Drawing on and expanding this evidence, I will emphasize a single
+phenomenon here. Sometimes people focus on the worst possible case, which
+triggers strong emotions. When this is so, people fail to inquire into the
+probability that the worst case will occur. In such cases, emotions lead to what I
+will call probability neglect, which is properly treated as a form of
+quasirationality.17 From the normative point of view, it is not fully rational to treat a
+1% chance of X as equivalent, or nearly equivalent, to a 99% chance of X, or even
+a 10% chance of X. Because people suffer from probability neglect, and because
+neglecting probability is not fully rational, the phenomenon I identify casts
+additional doubt on the widespread idea that ordinary people have a kind of
+“richer rationality” superior to that of experts.18 Most of the time, experts are
+concerned principally with the number of lives at stake,19 and for that reason
+they will be closely attuned, as ordinary people are not, to the issue of
+probability.</p>
+      <p>It is not at all clear how the law should respond to this form of
+quasirationality. I will suggest that at a minimum, an understanding of probability
+neglect will help to understand how government and law might accomplish
+shared social goals. If government wants to insulate itself from probability
+neglect, it will create institutions designed to ensure that genuine risks, rather
+than tiny ones, receive the most concern. Such institutions will not require
+agencies to discuss the worst-case scenario.20 And if government is attempting to
+increase public concern with a genuine danger, it should not emphasize statistics
+and probabilities, but should instead draw attention to the worst case scenario.
+An understanding of probability neglect will also help us to make better
+predictions about the public “demand” for law. When a bad outcome is highly
+salient and triggers strong emotions, government will be asked to do something
+about it, even if the probability of the bad outcome is low.</p>
+      <p>For law, the most difficult questions seem to be normative in character.
+Should government respond to intense fears that involve statistically remote
+risks? When people suffer from probability neglect, should law and policy do the
+same thing? I suggest that if it can, government should attempt to educate and
+inform people, rather than capitulating to unwarranted public fear. On the other
+hand, public fear, however unwarranted, may be intractable, in the sense that it
+is impervious to efforts at reassurance. And if public fear is intractable, it will
+cause serious problems, because fear is itself extremely unpleasant, and because
+fear is likely to influence conduct, producing (for example) wasteful and
+excessive private precautions. If so, a governmental response, via regulatory
+safeguards, would appear to be justified if the benefits, in terms of fear
+reduction, justify the costs.</p>
+    </sec>
+    <sec id="sec-6">
+      <title>III. Probability Neglect: The Basic Phenomenon</title>
+      <p>Many experiments suggest that when it comes to risk, a key question is
+whether people can imagine or visualize the “worst case” outcome.21 When the
+worst case produces intense fear, little role is played by the stated probability
+that that outcome will occur.22 An important function of strong emotions is thus
+to drive out quantitative judgments, including judgments about probability, by
+making the best case or the worst case seem highly salient.23 By way of preface,
+however, it is important to note that a great deal of evidence shows that whether
+or not emotions are involved, people are relatively insensitive to differences in
+probabilities, at least when the relevant probabilities are low.</p>
+    </sec>
+    <sec id="sec-7">
+      <title>A. Insensitivity to Variations among Low Probabilities</title>
+      <p>Do people care about probability at all? Of course they do. But some people,
+some of the time, show a remarkable unwillingness to attend to that issue.
+Several studies show that when people are seeking relevant information, they
+often do not try to learn about the issue of probability. One study, for example,
+finds that in deciding to purchase warranties for consumer products, people do
+not spontaneously point to the probability of needing repair as a reason for the
+purchase.24 Another study finds that those making hypothetical risky managerial
+decisions rarely ask for data on probabilities.25 Perhaps these findings reflect
+people’s implicit understanding that in these settings, the relevant probability
+“low, but not zero,” and that finer distinctions are unhelpful. And indeed, many
+studies find that significant differences in (low) probabilities have little impact on
+decisions. This finding is in sharp conflict with the standard view of rationality,
+which suggests that people’s willingness to pay for small risk reductions ought
+to be nearly proportional to the size of the reduction.26 In an especially striking
+study, Kunreuther and his coauthors found that mean willingness to pay
+insurance premiums did not vary among risks of 1 in 100,000, 1 in 1 million, and
+1 in 10 million.27 They also found basically the same willingness to pay for
+insurance premiums for risks ranging from 1 in 650, to 1 in 6300, to 1 in 68,000.28</p>
+      <p>The study just described involved a “between subjects” design; subjects
+considered only one risk, and the same people were not asked to consider the
+several risks at the same time. But several studies have a “within subjects”
+design, and even here, differences in low probabilities have little effect on
+decisions. An early study examined people’s willingness to pay (WTP) to reduce
+travel fatality risks. The central finding was that the mean WTP to reduce fatality
+risk by 7/100,000 was merely 15% higher than the mean WTP to reduce the risk
+by 4/100,000.29 A later study found that for serious injuries, WTP to reduce the
+risk by 12/100,000 was only 20% higher than WTP to reduce the same risk by
+4/100,000.30 These results are not unusual. Lin and Milon attempted to elicit
+people’s willingness to pay to reduce the risk of illness from eating oysters.31
+There was little sensitivity to variations in probability of illness.32 A similar study
+found little change in WTP across probability variations involving exposure to
+pesticides residues on fresh produce.33 A similar anomaly was found in a study
+involving hazardous wastes, where WTP actually decreased as the stated fatality
+risk reduction decreased.34</p>
+      <p>There is much to say about the general insensitivity to significant variations
+within the category of low-probability events. It would be difficult to produce a
+rational explanation for this insensitivity; recall the standard suggestion that
+WTP for small risk reductions should be roughly proportional to the size of the
+reduction.35 Why don’t people think in this way? An imaginable explanation is
+that in the abstract, most people simply do not know how to evaluate low
+probabilities. A risk of 7/100,000 seems “small”; a risk of 4/100,000 also seems
+“small.”36 These figures can be evaluated better if they are placed in the context
+of one another; everyone would prefer a risk of 4/100,000 to a risk of 7/100,000,
+and joint evaluation improves evaluability.37 But even when the preference is
+clear, both risks seem “small,” and hence it is not at all clear that a proportional
+increase in WTP will follow. As noted, most of the studies described above were
+“within subjects” rather than “between subjects” and hence evaluability was
+promoted by the process of comparison. As suggested by the findings of
+Kunreuther and his coauthors, it is likely that in a between-subjects design, WTP
+to eliminate a risk of 4/100,000 would be about the same as WTP to eliminate a
+risk of 7/100,000, simply because the small difference would not matter when
+each risk is taken in isolation.</p>
+      <p>Note also that the studies just described involve contingent valuation, not
+real-world choices. A significant question is whether and when actual behavior,
+in consumer choice or political judgment, shows a general neglect of differences
+among low probabilities. In labor markets, for example, are risks of 4/100,000
+compensated at about the same level as risks of 7/100,000? This would be a
+serious market failure. I am aware of no data on the question.38 But we might
+expect that risk markets will reduce the problem of neglect, if only because some
+number of people will appreciate the relevant differences, and drive wage and
+prices in the appropriate direction. Quite apart from market behavior, some
+imaginative studies attempt to overcome probability neglect through visual
+aids39 or through providing a great deal of information about comparison
+scenarios located on a probability scale.40 Without these aids, it is not so
+surprising that differences in low probabilities do not much matter to people. For
+most of us, most of the time, the relevant differences—between, say, 1/100,000
+and 1/1,000,000—are not pertinent to our decisions, and by experience we are not
+well-equipped to take those differences into account.</p>
+      <p>My topic here, however, is not the general neglect of differences in low
+probabilities, but the particular role of strong emotions in crowding out any
+assessment of probability, both low and less low. My central claim is that when
+strong emotions are involved, large-scale variations in probabilities will matter
+little – even when the variations unquestionably matter when emotions are not
+triggered. More generally, probability neglect is dramatically heightened when
+emotions are involved. The point applies to hope as well as fear; vivid images of
+good outcomes will crowd out consideration of probability too.41 Lotteries are
+successful partly for this reason.42 But the subject here is fear rather than hope.</p>
+    </sec>
+    <sec id="sec-8">
+      <title>B. A Simple Demonstration</title>
+      <p>The basic point has received its clearest empirical confirmation in a striking
+study of people’s willingness to pay to avoid electric shocks.43 The central
+purpose of the study was to test the relevance of probability in “affect rich”
+decisions. The experiment of central importance here attempted to see whether
+varying the probability of harm would matter more, or less, in settings that
+trigger strong emotions than in settings that seem relatively emotion-free. In the
+“strong emotion” setting, participants were asked to imagine that they would
+participate in an experiment involving some chance of a “short, painful, but not
+dangerous electric shock.”44 In the relatively emotion-free setting, participants
+were told that the experiment entailed some chance of a $20 penalty. Participants
+were asked to say how much they would be willing to pay to avoid participating
+in the relevant experiment. Some participants were told that there was a 1%
+chance of receiving the bad outcome (either the $20 loss or the electric shock);
+others were told that the chance was 99%; and still others were told that the
+chance was 100%.</p>
+      <p>The central result was that variations in probability affected those facing the
+relatively emotion-free injury, the $20 penalty, far more than they affected people
+facing the more emotionally evocative outcome of an electric shock. For the cash
+penalty, the difference between the median payment for a 1% chance and the
+median payment for a 99% chance was predictably large and indeed consistent
+with the standard model: $1 to avoid a 1% chance, and $18 to avoid a 99%
+chance.45 For the electric shock, by contrast, the difference in probability made
+little difference to median willingness to pay: $7 to avoid a 1% chance, and $10 to
+avoid a 99% chance!46 Apparently people will pay a significant amount to avoid a
+small probability of a hazard that is affectively-laden – and the amount that they
+will pay will not vary greatly with changes in probability.</p>
+    </sec>
+    <sec id="sec-9">
+      <title>C. A More Complex Demonstration</title>
+      <p>To investigate the role of probability and emotions in responses to risk, I
+conducted an experiment asking about one hundred University of Chicago law
+students to describe their maximum willingness to pay to reduce levels of arsenic
+in drinking water. The questions had a high degree of realism. They were based
+on actual choices confronting the Environmental Protection Agency, involving
+cost and benefit information within the ballpark of actual figures used by the
+agency itself.47</p>
+      <p>Participants were randomly sorted into four groups, representing the four
+conditions in the experiment. In the first condition, people were asked to state
+their maximum willingness to pay to eliminate a cancer risk of one in 1,000,000.48
+In the second condition, people were asked to state their maximum willingness
+to pay to eliminate a cancer risk of one in 100,000. In the third condition, people
+were asked the same question as in the first, but the cancer was described in
+vivid terms, as “very gruesome and intensely painful, as the cancer eats away at
+the internal organs of the body.” In the fourth condition, people were asked the
+same question as in the second, but the cancer was described in the same terms
+as in the third condition. In each condition, participants were asked to check off
+their willingness to pay among the following options: $0, $25, $50, $100, $200,
+$400, and $800 or more. Notice that the description of the cancer, in the “highly
+emotional” conditions, was intended to add little information, consisting simply
+45Id.
+46Id.
+47See Cass R. Sunstein, The Arithmetic of Arsenic, Georgetown L.J (forthcoming).
+48Note that the phrasing of the question ensures that participants would think of the reduction
+of the risk to zero, rather than to some fraction of what it was before. People are willing to pay far
+more to eliminate risks than to reduce them, even if the savings are identical. See Kahneman and
+Tversky, supra note.
+of a description of many cancer deaths, though admittedly some participants
+might well have thought that these were especially horrific deaths.</p>
+      <p>The central hypothesis was that the probability variations would matter far
+less in the highly emotional conditions than in the less emotional conditions.
+More specifically, it was predicted that differences in probability would make
+little or no difference in the highly emotional conditions -- and that such
+variations would have real importance in the less emotional conditions. This
+prediction was meant to describe a substantial departure from expected utility
+theory, which predicts that an ordinary, risk-averse person should be willing to
+pay more than 10X to eliminate a risk that is ten times more likely than a risk that
+he is willing to pay X to eliminate.49</p>
+      <p>Here are the results in tabular form:
+1/100,000
+1/1,000,000</p>
+    </sec>
+    <sec id="sec-10">
+      <title>Unemotional</title>
+    </sec>
+    <sec id="sec-11">
+      <title>Description, Median (Mean in Parentheses)</title>
+      <p>$100 ($194.44)
+$25 ($71.25)</p>
+    </sec>
+    <sec id="sec-12">
+      <title>Emotional</title>
+    </sec>
+    <sec id="sec-13">
+      <title>Description, Median (Mean in</title>
+    </sec>
+    <sec id="sec-14">
+      <title>Parentheses)</title>
+      <p>$100 ($241.30)
+$100 ($132.95)</p>
+      <p>In short, the central hypothesis was confirmed. In the highly emotional
+condition with a 1/100,000 risk, the median willingness to pay was $100. In the
+highly emotional condition with a 1/1,000,000 risk, the median WTP was exactly
+the same. In sharp contrast, variations in probability made a significant
+difference in the less emotional conditions. For a 1/100,000 risk, the median WTP
+was $100. But for a 1/1,000,000 risk, it was merely $25. If we investigate the
+means, the central finding is reduced but in the same direction: The difference in
+probability had a far greater impact in the less emotional condition (an increase
+from $71.25 to $194.44, or about 180%, as opposed to an increase from $132.95 to
+$241.30, or about 80%).</p>
+      <p>From this experiment, there are several other noteworthy findings. By itself,
+the highly emotional description of the cancer had a substantial effect on WTP,
+holding probability constant. For the 1/1,000,000 risk, the emotional description
+increased median WTP fourfold, from $25 to $100, and nearly doubled the mean,
+from $71.25 to $132.95. For the 1/100,000 risk, the median stayed constant ($100),
+49See Corso et al., supra.
+but the mean was significantly affected, rising from $194.44 to $241.30.50 At the
+same time, and basically consistent with other work on probability neglect,
+varying the probability had a relatively weak effect on WTP in both conditions.
+In the emotional conditions, the tenfold increase in the risk had no effect on the
+median and did not even double the mean, which increased merely from $132.95
+to $241.30. In the less emotional conditions, that tenfold increase moved the
+median from $25 to $100, while moving the mean from $71.25 to $194.44. But
+note that in this experiment, the relatively sophisticated participants in the study
+showed far more susceptibility to probability information than in the studies,
+described above, by Kunreuther et al.; but even so, the susceptibility was far less
+than conventional (normative) theory would predict.51</p>
+      <p>Indeed, the effect of the more emotional description of the outcome was
+essentially the same as the effect of the tenfold increase in its probability. My
+principal emphasis, however, is on the fact that when the question was designed
+to trigger especially strong emotions, variations in probability had little effect on
+WTP, far less of an effect than when the question was phrased in less emotional
+terms. This is the kind of probability neglect that I am emphasizing here.</p>
+    </sec>
+    <sec id="sec-15">
+      <title>D. Other Evidence</title>
+      <p>Probability neglect, when strong emotions are involved, has been confirmed
+in many studies.52 Consider, for example, experiments designed to test levels of
+anxiety in anticipation of a painful electric shock of varying intensity, to be
+administered after a “countdown period” of a stated length. In these studies, the
+stated intensity of the shock had a significant effect on physiological reactions.
+But the probability of the shock had no effect. “Evidently, the mere thought of
+receiving a shock was enough to arouse subjects, and the precise likelihood of
+being shocked had little impact on their arousal level.”53 A related study asked
+people to provide their maximum buying prices for risky investments, which
+contained different stated probabilities of losses and gains of different
+50This relatively small effect might be a product of the fact that the less emotional description
+did, after all, involve a cancer death, which is known to produce strong reactions. See Richard
+Revesz, Environmental Regulation, Cost-Benefit Analysis, and the Discounting of Human Lives,
+99 Col L Rev 941 (1999). A more pronounced effect might be expected if the death was simply
+described as a death.</p>
+      <p>51See id.</p>
+      <p>52For an overview see George Loewenstein et al., Risk As Feelings, 127 Psych Bulletin 267, 276
+(2001).</p>
+      <p>53Id.
+magnitudes.54 Happily for the standard theory, maximum buying prices were
+affected by the size of losses and gains and also by probabilities. (Note that for
+most people, this experiment did not involve an affect-rich environment.) But –
+and this is the key point -- reported feelings of worry were not much affected by
+probability levels.55 In this study, then, probability did affect behavior, but it did
+not affect emotions. In most of the cases dealt with here, intense emotions drive
+out concern with probability, and hence both behavior and worry are affected.</p>
+      <p>It should not be surprising, in this light, that visualization or imagery matters
+a great deal to people’s reactions to risks.56 When an image of a bad outcome is
+easily accessible, people will become greatly concerned about a risk, holding
+probability constant.57 Consider the fact that the fact that when people are asked
+how much they will pay for flight insurance for losses resulting from
+“terrorism,” they will pay more than if they are asked how much they will pay
+for flight insurance from all causes.58 The evident explanation for this peculiar
+result is that the word “terrorism” evokes vivid images of disaster, thus
+crowding out probability judgments. Note also that when people discuss a
+lowprobability risk, their concern rises even if the discussion consists mostly of
+apparently trustworthy assurances that the likelihood of harm really is
+infinitesimal.59 The reason is that the discussion makes it easier to visualize the
+risk and hence to fear it.</p>
+      <p>Note that this is not a point about the availability heuristic, which leads not to
+neglect probability, but answer the question of probability by substituting a hard
+question (what is the statistical risk?) with an easy question (do salient examples
+readily come to mind?).60 My point here is not that visualization makes an event
+seem more probable (though this is also often true), but that visualization makes
+the issue of probability less relevant or even irrelevant. In theory, the distinction
+should not be obscure. In practice, of course, it will often be hard to know
+whether the availability heuristic or probability neglect is driving behavior.</p>
+      <p>Emotional reactions to risk, and probability neglect, also account for “alarmist
+bias.” 61 When presented with competing accounts of danger, people tend to
+move toward the more alarming account.62 In the key study, W. Kip Viscusi
+presented subjects with information from two parties, industry and government.
+Some subjects were given low-risk information from government, and high-risk
+information from industry; other subjects were given high-risk information from
+government, and low-risk information from industry. The basic result was that
+people treated “the high risk information as being more informative.”63 This
+pattern held regardless of whether the low risk information came from industry
+or from government. Thus people show “an irrational asymmetry: respondents
+overweight the value of a high risk judgment.”64 If the discussion here is correct,
+one reason is that the information, whatever its content, makes people focus on
+the worst case. There is a lesson for policy here: It might not be helpful to present
+people with a wide range of information, containing both assuring and less
+assuring accounts.</p>
+      <p>The most sensible conclusion is that with respect to risks of injury of harm,
+vivid images and concrete pictures of disaster can “crowd out” other kinds of
+thoughts, including the crucial thought that the probability of disaster is really
+small.65 “If someone is predisposed to be worried, degrees of unlikeliness seem to
+provide no comfort, unless one can prove that harm is absolutely impossible,
+which itself is not possible.”66 With respect to hope, those who operate gambling
+casinos and state lotteries are well-aware of the underlying mechanisms. They
+play on people’s emotions in the particular sense that they conjure up palpable
+pictures of victory and easy living. With respect to risks, insurance companies
+and environmental groups do exactly the same. The point explains “why societal
+concerns about hazards such as nuclear power and exposure to extremely small
+amounts of toxic chemicals fail to recede in response to information about the
+very small probabilities of the feared consequences from such hazards.”67
+61W. Kip Viscusi, Alarmist Decisions With Divergent Risk Information, 107 Ec. Journal 1657,
+1657–59 (1997)
+62Id.
+63Id. at 1666.
+64Id at 1668.</p>
+      <p>65It would be tempting to venture a sociobiological explanation for probability neglect. While
+plausible, such an explanation would be highly speculative: We could imagine sociobiological
+explanations both for probability neglect and for intense concern with probability. I emphasize
+empirical evidence here, not theoretical accounts.</p>
+      <p>66See Weingart, supra note 1, at 362.</p>
+      <p>67See Paul Slovic et al., The Affect Heuristic, forthcoming in Intuitive Judgment: Heuristics and
+Biases (Tom Gilovich et al. eds, forthcoming), unpublished manuscript at 11.</p>
+    </sec>
+    <sec id="sec-16">
+      <title>E. Notes on the Media and on Heterogeneity</title>
+      <p>From what has been said thus far, it should be clear that news sources can do
+a great deal to trigger fear, simply by offering examples of situations in which the
+“worst case” has actually come to fruition. For crime, the point is well
+established.68 Media coverage of highly unusual crimes makes people fearful of
+risks that they are most unlikely to face.69 When newspapers and magazines are
+emphasizing deaths from anthrax or mad cow disease, we should expect a
+significant increase in public concern, not only because of the operation of the
+availability heuristic, but because people will not naturally make sufficient
+adjustments from the standpoint of probability. In fact there is a large warning
+here. If newspapers, magazines, and news programs are stressing certain harms
+from remote risks, people’s concern is likely to be out of proportion to reality.
+Significant changes should therefore be expected over time.70 Across nations, it is
+also easy to imagine substantial differences, in social fear, if small initial
+differences are magnified as a result of media influences.71</p>
+      <p>It is also true that individuals and even societies differ in their susceptibility
+to probability neglect. Though experiments have not been conducted on the
+precise point, it is clear that some people take probability information into
+account even when the context ordinarily engages human emotions. It also
+seems clear that some people neglect probability information much of the time,
+focusing insistently on the worst case (or for that matter the best). The arsenic
+experiment, mentioned above, displays a great deal of individual heterogeneity
+in taking account of probability.72 Those who are peculiarly insensitive to
+probability information are likely to do poorly in many domains, including
+economic markets; those who are unusually attentive to that information are
+likely to do well for just that reason. Perhaps there are demographic differences
+here; it is well-known that some groups are less concerned about most risks than
+are others,73 and that the difference in concern may stem, in part, from the fact
+that some groups are less likely to neglect probability.</p>
+      <p>On the social level, institutions can make a great deal of difference in
+decreasing or increasing susceptibility to probability/neglect. Highly responsive
+68See Joel Best, Random Violence: How We Talk About New Crimes and New Victims (1999).
+69Id.
+70See the account of fears of criminal violence in id.
+71See the discussion of multiple equilibria in Kuran and Sunstein, supra note, at 743–46.
+72Unpublished data on file, University of Chicago Law School.
+73See Slovic, supra note, at 396–402.
+democratic institutions, automatically translating public fear into law, will
+neglect probabilities when emotions are running high. A more deliberative
+democracy would attempt to create institutions that have a degree of immunity
+from short-turn public alarm.74 Cost-benefit analysis might, for example, serve as
+a check on regulation that would accomplish little good, or less good than is
+justified by the facts.75 The point raises the general question of the relationship
+between probability neglect and law.</p>
+      <p>IV. Law</p>
+      <p>If emotionally charged outcomes produce intense reactions even though they
+are highly unlikely to occur, how might our understanding of law be improved?
+To answer this question, it is important to separate law’s prescriptive, positive,
+and normative tasks.76 With prescriptive analysis, we seek to find effective ways
+to achieve shared goals; positive analysis attempts to explain why law takes the
+form that it does; normative analysis explores what law should do. I take these
+up in sequence.</p>
+    </sec>
+    <sec id="sec-17">
+      <title>A. Prescriptions: Obtaining Agreed-Upon Goals</title>
+      <p>Suppose that government is seeking to lead people to achieve goals on which
+there is a social consensus. Government might, for example, want to encourage
+people to avoid large risks and to worry less over small risks. If so, it would do
+well to attempt not to provide information about probabilities, but to appeal to
+people’s emotions and to attend to the worst case. With respect to the risks on
+which it wants people to focus, government should use vivid images of alarming
+scenarios. For cigarette smoking, abuse of alcohol, reckless driving, and abuse of
+drugs, this is exactly what government occasionally attempts to do. It should be
+no surprise that some of the most effective efforts to control cigarette smoking
+appeal to people’s emotions, by making them feel that if they smoke, they will be
+dupes of the tobacco companies or imposing harms on innocent third parties—
+and they do so especially by providing vivid images of illness or even death.77</p>
+      <p>Because of probability neglect, it should not be terribly difficult to trigger
+public fear (terrorism is effective in part for exactly that reason). But there are
+serious ethical issues here. Government ought to treat its citizens with respect78;
+it should not treat them as objects to be channeled in government’s preferred
+directions. Perhaps government ought not to manipulate or to trick them, by
+taking advantage of their limitations in thinking about risk. A skeptic might
+think that the use of worst-case scenarios, or dramatic images of harm, consists of
+unacceptable manipulation. While I cannot fully resolve the issue here, the
+charge seems to me unwarranted. So long as the government is democratically
+accountable, and attempting to discourage people from running genuinely
+serious risks, there should be no objection in principle. Those who want people
+to run risks, for economic or other purposes, use similar techniques,79 and
+government should probably be permitted to meet fire with fire. Democratic
+accountability is important because it is a check on manipulative behavior; if
+government is manipulating people in an objectionable way, citizens are likely to
+rebel. Of course the issue is not simple. In the context of state lotteries, state
+governments use dramatic images of “easy street” in order to lead people to
+spend money for tickets whose actuarial value is effectively zero, and this
+strategy, exploiting probability neglect in the domain of hope, does raise ethical
+issues.80 My suggestion is only that if government wants people not to run risks,
+it is likely to do well if it appeals to their emotions.</p>
+      <p>There is also a striking asymmetry between increasing fear and decreasing it.
+If people are now alarmed about a low-probability hazard, is there anything that
+government can do to provide assurance and to dampen concern? This is an
+unanswered question. The only clear point is that if government is unlikely to be
+successful if it simply emphasizes the low probability that the risk will occur.
+There appears to be no evidence that any particular strategy will succeed. But the
+best approach seems to be simple: change the subject. We have seen that
+discussions of low-probability risks tend to heighten public concern, even if
+those discussions consist largely of reassurance. Perhaps the most effective way
+of reducing fear of a low-probability risk is simply to discuss something else and
+to let time do the rest. Of course media attention can undermine this approach.</p>
+      <p>78See the discussion of the publicity condition in John Rawls, A Theory of Justice (1971), a
+condition that raises some questions about any governmental effort to enlist probability neglect
+in its preferred directions.</p>
+      <p>
+        79See Smoking
+        <xref ref-type="bibr" rid="ref13">(Paul Slovic ed. 2001)</xref>
+        .
+80See Philip Cook and Charles T. Clotfelter, Selling Hope (1991).
+      </p>
+      <p>As I have suggested, institutional safeguards might well be the best way of
+ensuring against the harmful consequences of probability neglect. The Office of
+Information and Regulatory Affairs, within the Office of Management and
+Budget, monitors agency action to ensure that it is directed against significant
+problems.81 A general requirement of cost-benefit balancing should provide a
+check on regulations that cannot be grounded in objective fact.82 If government
+wants to protect itself against the pattern of “paranoia and neglect” 83 that now
+characterizes regulatory policy, analytic requirements and institutional checks
+will provide a start.</p>
+    </sec>
+    <sec id="sec-18">
+      <title>B. Positive Analysis: What Drives the Demand For Law?</title>
+      <p>If probability neglect characterizes individual judgment under certain
+circumstances, might government and law be neglecting probability under those
+same circumstances? There is good reason for an affirmative answer. In the
+domain of risk regulation as elsewhere, public officials are highly responsive to
+the public demand for law. If people insist on government protection against
+risk, government is likely to provide that protection. If people show unusually
+strong reactions to low-probability catastrophes, government is likely to act
+accordingly. Of course interest groups are involved as well. When their
+selfinterest is at stake, we should expect them to exploit people’s emotions, in
+particular by stressing the worst case. In the environmental area, for example,
+there has been an intense debate about whether the National Environmental
+Policy Act requires agencies to discuss the worst-case scenario in environmental
+impact statements.84 Environmental groups sought to ensure discussion of that
+scenario.85 They did so in part to stimulate public concern, with the knowledge
+that the worst case might well have a great deal of salience, even if it is highly
+unlikely. For its part, the government originally required discussion of the worst
+case, but changed in its mind, with the apparent understanding that people are
+too likely to overreact. Hence the current approach, upheld by the Supreme
+Court,86 requires consideration of low-probability events, but only if they are not
+entirely remote and speculative.</p>
+      <p>A good deal of legislation and regulation can be explained partly by reference
+to probability neglect when emotions are running high. In this space, I cannot
+demonstrate the point rigorously. But consider a few examples87:
+! In the aftermath of the adverse health effects allegedly caused by abandoned
+hazardous waste in Love Canal, the government responded with an
+aggressive program for cleaning up abandoned hazardous waste cites,
+without examining the probability that illness would actually occur. In fact
+little was accomplished by early efforts to assure people of the low probability
+of harm.88 When the local health department publicized controlled studies
+showing little evidence of adverse effects, the publicity did not dampen
+concern, because the numbers “had no meaning.”89 In fact the numbers
+seemed to aggravate fear, insofar as they discussed the problem at all: “One
+woman, divorced and with three sick children, looked at the piece of paper
+with numbers and started crying hysterically: ‘No wonder my children are
+sick. Am I doing to die? What’s going to happen to my children?’”90 Questions
+of this sort contributed to the enactment of new legislation to control
+abandoned hazardous waste sites, legislation that did not embody careful
+consideration of the probability of significant health or environmental
+benefits.91 Even now, the government does not take much account of the
+probability of significant harm in making clean-up decisions.92
+! During a highly publicized campaign designed to show a connection between
+Alar, a pesticide, and cancer in children, the public demand for action was not
+much affected by the EPA’s cautionary notes about the low probability of
+getting that disease.93
+87The catalogue in Aaron Wildavsky, But Is It True (1997), offers many illustrations of
+inadequately founded health and safety scares, many of which might be analyzed in the terms
+used here,</p>
+      <p>88See Timur Kuran and Cass R. Sunstein, Availability Cascades and Risk Regulation, 51 Stan.
+L. Rev. 683, 691–98 (1999).</p>
+      <p>89 ois Marie Gibbs, Love Canal: The Story Continues 25 (1998).
+90Id.</p>
+      <p>91See Kuran and Sunstein, supra note; James Hamilton and W. Kip Viscusi, Calculating Risks
+(2000).</p>
+      <p>92See Hamilton and Viscusi, supra note (discussing lack of government interest in size of
+population affected).</p>
+      <p>93See Robert Percival et al., supra note, at 524.
+! In the fall of 2001, vivid images of shark attacks created a public outcry about
+new risks for ocean swimmers.94 Consider the fact that a NEXIS search found
+no fewer than 940 references to shark attacks between August 4, 2001, and
+September 4, 2001,95 with 130 references to "the summer of the shark."96 This
+was so notwithstanding the exceedingly low probability of a shark attack, and
+the absence of any reliable evidence of an increase in shark attacks in the
+summer of 2001.97 Predictably, there was considerable discussion of new
+legislation to control the problem,98 and eventually such legislation was
+enacted.99 Public fear seemed relatively impervious to the fact that the
+underlying risk was tiny.
+! Jury behavior is not likely to be greatly affected by assurance that the risk was
+unlikely to come to fruition, even if the issue of probability is legally
+relevant.100 In cases involving low-probability risks of emotionally gripping
+harms, it should be relatively easy to convince jurors to offer high damage
+awards. Litigators therefore do well to try to engage jurors’ emotions by
+pointing to the worst case. There is a strong implication here for the law of
+negligence: Even if the law asks the jury to balance the benefits of the
+defendant’s action against the costs, the jury is likely to disregard the issue of
+probability if its attention is focused on an outcome that triggers strong
+emotions. Along the same lines, an understanding of probability neglect helps
+explain the finding, in both experimental and real-world settings, that juries
+do not respond favorably to a demonstration that the defendant performed a
+cost-benefit analysis before proceeding, even if the analysis places a high value
+on human life.101 The reason is that jurors will be focusing on the badness of
+the outcome, not the low (ex ante) probability that it would have occurred.
+! The anthrax scare of October, 2001 was based on exceedingly few incidents.</p>
+      <p>Only four people died of the infection; only about a dozen others fell ill. The
+probability of being infected was exceedingly low. Nonetheless, fear
+proliferated, with people focusing their attention on the outcome rather than
+the low probability of the harm. The government responded accordingly,
+investing massive resources in ensuring against anthrax infections. Private
+institutions reacted the same way, asking people to take extraordinary care in
+opening the mail even though the statistical risks were tiny (see appendix for
+an example). To say this is not to suggest that extensive precautions were
+unjustified in this case. Private and public institutions faced an unknown
+probability of a major health problem, and it was appropriate to respond. My
+point is that public fear was disproportionate to its cause, and that the level of
+response was disproportionate too.</p>
+    </sec>
+    <sec id="sec-19">
+      <title>C. Normative Issues: Capitulating to Fear?</title>
+      <p>For law, the hardest questions might well be normative ones: How should
+law and government respond to a quasi-rational public panic, based on an
+intense emotional reaction to a low-probability risk? Let us distinguish two
+possible positions. The technocrat would want to ignore public irrationality, and
+to respond to risks if and to the extent that they are real. The populist would
+want to respond to public concerns, simply because they are public concerns. In
+my view, both positions are far too simple, though the populist is closer to the
+mark.</p>
+      <p>Suppose that people are greatly concerned about a risk that has a small or
+even miniscule probability of occurring -- shark attacks, or anthrax in the mail, or
+terrorism on airplanes. If government is confident that it knows the facts, and if
+people are far more concerned than the facts warrant, should the government
+101See W. Kip Viscusi, Corporate Risk Analysis: A Reckless Act?, 52 Stan. L. Rev. 547 (2000).
+respond, via regulation, to their concerns? Or should it ignore them, on the
+ground that the concerns are irrational? Consider the individual analogy first.
+Even if people’s fear is itself irrational, it might well be rational for them to take
+account of that fear in their behavior. If I am afraid to fly, I might decline to do
+so, on the ground that my fear will make the experience quite dreadful (not only
+while flying but in anticipating it). At the same time, the fear itself might be
+irrational, and I might even recognize that fact. If the fear exists, but if I cannot
+eliminate it, the most rational decision might be not to fly. So too at the social
+level. Suppose, for example, that people are afraid of arsenic in drinking water,
+and that they demand steps to provide assurance that arsenic levels will not be
+hazardous. Suppose too that the risks from existing levels of arsenic are
+infinitesimal. Is it so clear that government should refuse to do what people want
+it to do? The fear is by hypothesis real. If people are scared that their drinking
+water is “not safe,” they are, simply for that reason, experiencing a significant
+loss. In many domains, widespread fear helps produce an array of additional
+problems. It may, for example, make people reluctant to engage in certain
+activities, such as flying on airplanes or eating certain foods. The resulting costs
+can be extremely high.102 Why shouldn’t government attempt to reduce fear, just
+as it attempts to produce other gains to people’s well-being?</p>
+      <p>
+        The simplest answer here is that if government is able to inform and educate
+people, it should do that instead. It should not waste resources on steps that will
+do nothing other than to reduce fear. But the simplest answer is too pat. Whether
+information and education will work is an empirical question on which we lack
+definitive evidence. If these do not work, government should respond, just as
+individuals do, to fears that are quasi-rational, but real and by hypothesis
+difficult to eradicate. Suppose, for example, that government could cheaply
+undertake a procedure that would reduce a tiny risk to zero – and equally
+important, be seen to reduce the relevant risk to zero. It seems clear that
+government should take this step, which may be more effective, and less
+expensive, than education and information. Recall that fear is a real social cost,
+and it is likely to lead to other social costs.103 If, for example, people are afraid to
+102The mad cow disease scare is an example, producing many millions of dollars in losses.
+103My point here is not that all subjective perceptions and losses should be counted in law.
+Many people, for example, like to discriminate on the basis of race and sex, and they suffer a
+genuine loss, for which they might be willing to pay, as a result of the legal prohibition on
+discrimination. I do not believe that their loss should be counted, though I cannot defend the
+point here. See Matthew Adler and Eric Posner, Implementing Cost-Benefit Analysis when
+Preferences Are Distorted, in Cost-Benefit Analysis 269
+        <xref ref-type="bibr" rid="ref3">(Matthew Adler and Eric Posner eds.
+2001)</xref>
+        , for a helpful discussion. Although the fear discussed in the text is not fully rational, it
+fly, the economy will suffer in multiple ways; so too if people are afraid to send
+or to receive mail. The reduction of even baseless fear is a social good.
+      </p>
+      <p>Even if it is clear that government should respond, many questions remain.
+How and how much should government respond? The answer must depend in
+large part on the extent of the fear and the cost of the response. If people are
+extremely fearful, a substantial response is of course easier to justify; if the cost of
+response is very high, a refusal to respond might well make sense. With this
+point, the analysis of appropriate action becomes similar to the analysis in many
+other settings. We need to know how much good, and how much harm, would
+be done by the action in question. A special difficulty here consists in the
+problem of quantifying and monetizing fear and its consequences, a problem
+that has yet to be seriously engaged in the relevant literature.104</p>
+    </sec>
+    <sec id="sec-20">
+      <title>V. What’s an Emotion?</title>
+      <p>Thus far I have been writing as if there is a clear distinction between
+cognition and emotion. But actually the distinction is complex and contested.105
+In the domain of risks, and most other places, emotional reactions are usually
+based on thinking; they are hardly cognition-free. When a negative emotion is
+associated with a certain risk – pesticides or nuclear power, for example –
+cognition is playing a central role. In fact there are large debates about whether
+an emotion is a form of thought, or whether thoughts are necessary and
+sufficient conditions for emotions, or whether emotions is a sense precede or
+outrun cognition.106 But it is clear that no simple line can be drawn between
+emotions and cognition in most social domains. Whatever they are, emotions can
+lead us astray; but the same is true for math, biology, and animal experiments.</p>
+      <p>There are several ways to make progress here. Some research suggests that
+the brain has special sectors for emotions, and that some types of emotions,
+including some fear-type reactions (my emphasis here), can be triggered before
+the more cognitive sectors become involved at all.107 Those who hear sudden,
+unexplained noises are fearful before they are able to identify the source of the
+cannot be said to be invidious or vicious, and hence cannot be “impeached” in the same way as
+discriminatory preferences.</p>
+      <p>104For a good overview, see W. Kip Viscusi, Rational Risk Regulation (2000).</p>
+      <p>105For varying views, see Ronald deSousa, The Rationality of Emotion (1993); Jon Elster,
+Alchemies of the Mind (1999); Martha Nussbaum, Upheavals of Thought (2001).
+106See id.
+107See Joseph LeDoux, The Emotional Brain (1996).
+noise.108 People who have been given intravenous injections of procaine, which
+stimulates the amygdala, report panic sensations.109 In research with human
+beings, electrical stimulation of the amygdala leads to reported feelings of fear
+and foreboding, even without any reason for these things, leading people to say,
+for example, that they feel as if someone were chasing them.110 It is not true,
+however, that fear in human beings is generally pre-cognitive or noncognitive,
+and even if it is in some cases, it is not clear that noncognitive fear would be
+triggered by most of the risks faced in everyday human lives.</p>
+      <p>For purposes of the analysis here, it is not necessary to say anything
+especially controversial about the nature of the emotion of fear. I do think that
+when that emotion is involved, some kind of arousal is necessary; we would not
+say that someone is really afraid without some kind of arousal.111 But if people
+have a negative reaction to the prospect of electric shocks, or flying, or anthrax,
+thinking is emphatically involved. The only suggestion is that when emotions are
+intense, calculation is less likely to occur, or at least that form of calculation that
+involves assessment of risks in terms of not only the badness but also the
+probability of the outcome. That point is sufficient for my arguments here.</p>
+    </sec>
+    <sec id="sec-21">
+      <title>VI. Conclusion</title>
+      <p>In this Essay, my central claim has been that the probability of harm will be
+neglected when people’s emotions are activated, especially if people are thinking
+about the worst-case scenario. If that scenario is vivid and easy to visualize,
+large-scale changes in thought and behavior are to be expected. The point helps
+explain public overreaction to highly publicized, low-probability risks, including
+those posed by abandoned hazardous waste dumps and anthrax. Because
+rational people focus on the probability as well as the severity of harm,
+probability neglect is a form of quasi-rationality.</p>
+      <p>It follows that if a private or public actor is seeking to produce public
+attention to a neglected risk, it is best to provide vivid, even visual images of the
+108R.B. Zajonc, On the Primacy of Affect, 39 Am Psych 117 (1984); R.B. Zajonc, Feeling and
+Thinking: Preferences Need No Inferences, 35 Am Psych 151 (1980).</p>
+      <p>109Servan-Schreiber and Perlstein, Selective Limbic Activation and its Relevance to Emotional
+Disorders, 12 Cognition &amp; Emotion 331 (1998).</p>
+      <p>
+        110J. Panksepp, Mood Changes, in Handbook of Clinical Neurology
+        <xref ref-type="bibr" rid="ref23">(P.J. Vinken et al. eds.
+1985)</xref>
+        .
+      </p>
+      <p>111See Elster, supra note (urging that emotions and especially fears are accompanied by
+arousal); but see Nussbaum, supra note (denying that claim).
+worst that might happen. It also follows that government regulation, affected as
+it is by the public demand for law, will neglect probability too. At first glance, the
+government should not respond if the public is demanding attention to a
+statistically miniscule risk, and doing so simply because people are visualizing
+the worst that can happen. The best response is information and education. But
+public fear is itself a concern and sometimes a quite serious one. If that fear
+cannot be alleviated without risk reduction, then government should engage in
+risk reduction, at least if the relevant steps are justified by an assessment of costs
+and benefits.112
+112I have not said anything here about the difficult issue of how to monetize public fear.</p>
+    </sec>
+    <sec id="sec-22">
+      <title>Appendix A</title>
+      <p>The following provides the experimental materials for the study described in
+part IIIB.</p>
+      <p>Assume that you live in an area whose drinking water contains 50 parts per billion
+of arsenic. Assume also that at this level of arsenic, 1 in 100,000 people who drink this
+water over a period of years will die of cancer. The Environmental Protection is
+considering whether to reduce the permissible level of arsenic in drinking water from 50
+to 5 parts per billion, which would essentially eliminate the cancer risk. What is the most
+that you would be willing to pay, in increases in annual water bills, for this reduction?</p>
+      <p>Assume that you live in an area whose drinking water is contaminated by 50 parts
+per billion of arsenic, a known carcinogen. Assume also that this level of arsenic will kill
+1 in 100,000 people who drink this water over a period of years. Assume finally that the
+death from arsenic-induced cancer is very gruesome and intensely painful, as the cancer
+eats away at internal organs of the body. The Environmental Protection is considering
+whether to reduce the permissible level of arsenic in drinking water from 50 to 5 parts
+1) 0
+2) $25
+3) $50
+4) $100
+5) $200
+6) $400
+7) $800 or more
+3) 0
+4) $25
+3) $50
+4) $100
+5) $200
+6) $400
+7) $800 or more</p>
+      <p>Assume that you live in an area whose drinking water contains 50 parts per billion
+of arsenic. Assume also that at this level of arsenic, 1 in 1,000,000 people who drink this
+water over a period of years will die of cancer. The Environmental Protection is
+considering whether to reduce the permissible level of arsenic in drinking water from 50
+to 5 parts per billion, which would essentially eliminate the cancer risk. What is the most
+that you would be willing to pay, in increases in annual water bills, for this reduction?
+per billion, which would essentially eliminate the cancer risk. What is the most that you
+would be willing to pay, in increases in annual water bills, for this reduction?
+5) 0
+6) $25
+3) $50
+4) $100
+5) $200
+6) $400
+7) $800 or more</p>
+      <p>Assume that you live in an area whose drinking water is contaminated by 50 parts
+per billion of arsenic, a known carcinogen. Assume also that this level of arsenic will kill
+1 in 1,000,000 people who drink this water over a period of years. Assume finally that
+the death from arsenic-induced cancer is very gruesome and intensely painful, as the
+cancer eats away at internal organs of the body. The Environmental Protection is
+considering whether to reduce the permissible level of arsenic in drinking water from 50
+to 5 parts per billion, which would essentially eliminate the cancer risk. What is the most
+that you would be willing to pay, in increases in annual water bills, for this reduction?
+1) 0
+2) $25
+3) $50
+4) $100
+5) $200
+6) $400
+7) $800 or more
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•
+•</p>
+    </sec>
+    <sec id="sec-23">
+      <title>Appendix B</title>
+      <p>The following memorandum consists of a memorandum sent to a university
+community in the midst of the anthrax threat. I include it here not because it is
+idiosyncratic, but because it captures a kind of “best practices” approach at the
+time. Note the breadth of the concern, calling on people to wear latex gloves
+while opening mail and including in the category of “suspicious mail” anything
+from “someone unfamiliar to you” (a large percentage of the mail received by
+most people), and advising those in receipt of such mail to notify the police, to
+isolate the mail, and to leave the area.</p>
+      <p>Re:</p>
+      <p>Updated Procedures for Handling Mail Suspected of Anthrax Contamination</p>
+      <p>In light of recent events in which the United States mail was used to distribute anthrax, we recommend
+that you follow the up-dated guidelines below when handling mail.</p>
+      <p>General Mail Handling
+•
+•
+•
+•
+•
+•
+•
+•</p>
+      <p>Be observant for suspicious envelopes or packages.</p>
+      <p>Open all mail with a letter opener or method that is least likely to disturb contents.</p>
+      <p>Open packages/envelopes with a minimum amount of movement.</p>
+      <p>Do not blow into envelopes.</p>
+      <p>Do not shake or pour out contents.</p>
+      <p>Keep hands away from nose, and mouth while opening mail.</p>
+      <p>Wash hands after handling mail.</p>
+      <p>We also recommend that you wear latex gloves when opening mail.</p>
+      <p>(If you are allergic to latex, hypoallergenic gloves are available).</p>
+      <p>What constitutes suspicious mail or parcels?</p>
+      <p>The mail or parcel is considered suspicious when it is/has:
+a powdery substance on the outside;
+excessive postage, tape, a handwritten or poorly typed address, incorrect titles, or titles with no
+names, or misspelling of common words;
+unexpected or from someone unfamiliar to you;
+from a foreign country and is not expected;
+addressed to someone no longer with the organization or otherwise outdated;
+no return address, or has one that cannot be verified as legitimate;
+an unusual weight, given its size, or is lopsided or oddly shaped;
+marked with restrictive language, such as “Personal “ or “Confidential”;
+protruding wires, strange odors or stains;
+a postmark that does not match the return address.</p>
+      <p>What should I do if I receive suspicious mail or a suspicious parcel?</p>
+      <p>Do not handle the mail or parcel.</p>
+      <p>Notify your supervisor immediately.</p>
+      <p>Make sure that the suspicious mail or parcel remains isolated.</p>
+      <p>Leave the area of the suspicious mail or parcel and do not let others into the area until appropriate
+authorities have indicated that it is safe to do so.</p>
+      <p>Ensure that each person who touched the suspicious mail or parcel washes his or her hands with
+soap and water.</p>
+      <p>List all persons who have touched the suspicious mail or parcel.</p>
+      <p>Readers with comments should address them to:
+Professor Cass R. Sustein
+University of Chicago Law School
+1111 East 60th Street
+Chicago, IL 60637
+csunstei@midway.uchicago.edu
+10.
+11.
+12.
+13.
+William M. Landes, Copyright Protection of Letters, Diaries and Other
+Unpublished Works: An Economic Approach (July 1991).</p>
+      <p>Richard A. Epstein, The Path to The T. J. Hooper: The Theory and History of
+Custom in the Law of Tort (August 1991).</p>
+      <p>Cass R. Sunstein, On Property and Constitutionalism (September 1991).
+Richard A. Posner, Blackmail, Privacy, and Freedom of Contract (February 1992).
+Randal C. Picker, Security Interests, Misbehavior, and Common Pools (February
+1992).</p>
+      <p>Tomas J. Philipson &amp; Richard A. Posner, Optimal Regulation of AIDS (April 1992).
+Douglas G. Baird, Revisiting Auctions in Chapter 11 (April 1992).</p>
+      <p>William M. Landes, Sequential versus Unitary Trials: An Economic Analysis (July
+1992).</p>
+      <p>William M. Landes &amp; Richard A. Posner, The Influence of Economics on Law: A
+Quantitative Study (August 1992).</p>
+      <p>Alan O. Sykes, The Welfare Economics of Immigration Law: A Theoretical
+Survey With An Analysis of U.S. Policy (September 1992).</p>
+      <p>Douglas G. Baird, 1992 Katz Lecture: Reconstructing Contracts (November 1992).
+Gary S. Becker, The Economic Way of Looking at Life (January 1993).</p>
+      <p>J. Mark Ramseyer, Credibly Committing to Efficiency Wages: Cotton Spinning
+Cartels in Imperial Japan (March 1993).</p>
+      <p>Cass R. Sunstein, Endogenous Preferences, Environmental Law (April 1993).
+Richard A. Posner, What Do Judges and Justices Maximize? (The Same Thing
+Everyone Else Does) (April 1993).</p>
+      <p>Lucian Arye Bebchuk and Randal C. Picker, Bankruptcy Rules, Managerial
+Entrenchment, and Firm-Specific Human Capital (August 1993).</p>
+      <p>J. Mark Ramseyer, Explicit Reasons for Implicit Contracts: The Legal Logic to the
+Japanese Main Bank System (August 1993).</p>
+      <p>William M. Landes and Richard A. Posner, The Economics of Anticipatory
+Adjudication (September 1993).</p>
+      <p>Kenneth W. Dam, The Economic Underpinnings of Patent Law (September 1993).
+Alan O. Sykes, An Introduction to Regression Analysis (October 1993).</p>
+      <p>Richard A. Epstein, The Ubiquity of the Benefit Principle (March 1994).
+Randal C. Picker, An Introduction to Game Theory and the Law (June 1994).
+William M. Landes, Counterclaims: An Economic Analysis (June 1994).
+J. Mark Ramseyer, The Market for Children: Evidence from Early Modern Japan
+(August 1994).</p>
+      <p>Robert H. Gertner and Geoffrey P. Miller, Settlement Escrows (August 1994).
+Kenneth W. Dam, Some Economic Considerations in the Intellectual Property
+Protection of Software (August 1994).</p>
+      <p>Cass R. Sunstein, Rules and Rulelessness, (October 1994).
+28.</p>
+      <p>David Friedman, More Justice for Less Money: A Step Beyond Cimino (December
+1994).</p>
+      <p>Daniel Shaviro, Budget Deficits and the Intergenerational Distribution of Lifetime
+Consumption (January 1995).</p>
+      <p>Douglas G. Baird, The Law and Economics of Contract Damages (February 1995).
+Daniel Kessler, Thomas Meites, and Geoffrey P. Miller, Explaining Deviations
+from the Fifty Percent Rule: A Multimodal Approach to the Selection of Cases for
+Litigation (March 1995).</p>
+      <p>Geoffrey P. Miller, Das Kapital: Solvency Regulation of the American Business
+Enterprise (April 1995).</p>
+      <p>Richard Craswell, Freedom of Contract (August 1995).</p>
+      <p>J. Mark Ramseyer, Public Choice (November 1995).</p>
+      <p>Kenneth W. Dam, Intellectual Property in an Age of Software and Biotechnology
+(November 1995).</p>
+      <p>Cass R. Sunstein, Social Norms and Social Roles (January 1996).</p>
+      <p>J. Mark Ramseyer and Eric B. Rasmusen, Judicial Independence in Civil Law
+Regimes: Econometrics from Japan (January 1996).</p>
+      <p>Richard A. Epstein, Transaction Costs and Property Rights: Or Do Good Fences
+Make Good Neighbors? (March 1996).</p>
+      <p>Cass R. Sunstein, The Cost-Benefit State (May 1996).</p>
+      <p>William M. Landes and Richard A. Posner, The Economics of Legal Disputes
+Over the Ownership of Works of Art and Other Collectibles (July 1996).
+John R. Lott, Jr. and David B. Mustard, Crime, Deterrence, and Right-to-Carry
+Concealed Handguns (August 1996).</p>
+      <p>Cass R. Sunstein, Health-Health Tradeoffs (September 1996).</p>
+      <p>G. Baird, The Hidden Virtues of Chapter 11: An Overview of the Law and
+Economics of Financially Distressed Firms (March 1997).</p>
+      <p>Richard A. Posner, Community, Wealth, and Equality (March 1997).</p>
+      <p>William M. Landes, The Art of Law and Economics: An Autobiographical Essay
+(March 1997).</p>
+      <p>Cass R. Sunstein, Behavioral Analysis of Law (April 1997).</p>
+      <p>John R. Lott, Jr. and Kermit Daniel, Term Limits and Electoral Competitiveness:
+Evidence from California’s State Legislative Races (May 1997).</p>
+      <p>Randal C. Picker, Simple Games in a Complex World: A Generative Approach to
+the Adoption of Norms (June 1997).</p>
+      <p>Richard A. Epstein, Contracts Small and Contracts Large: Contract Law through
+the Lens of Laissez-Faire (August 1997).</p>
+      <p>Cass R. Sunstein, Daniel Kahneman, and David Schkade, Assessing Punitive
+Damages (with Notes on Cognition and Valuation in Law) (December 1997).
+William M. Landes, Lawrence Lessig, and Michael E. Solimine, Judicial Influence:
+A Citation Analysis of Federal Courts of Appeals Judges (January 1998).
+John R. Lott, Jr., A Simple Explanation for Why Campaign Expenditures are
+Increasing: The Government is Getting Bigger (February 1998).
+53.
+74.</p>
+      <p>Lisa Bernstein, The Questionable Empirical Basis of Article 2’s Incorporation
+Strategy: A Preliminary Study (May 1999)
+Richard A. Epstein, Deconstructing Privacy: and Putting It Back Together Again
+(May 1999)
+William M. Landes, Winning the Art Lottery: The Economic Returns to the Ganz
+Collection (May 1999)
+Cass R. Sunstein, David Schkade, and Daniel Kahneman, Do People Want
+Optimal Deterrence? (June 1999)
+Tomas J. Philipson and Richard A. Posner, The Long-Run Growth in Obesity as a
+Function of Technological Change (June 1999)
+David A. Weisbach, Ironing Out the Flat Tax (August 1999)
+Eric A. Posner, A Theory of Contract Law under Conditions of Radical Judicial
+Error (August 1999)
+David Schkade, Cass R. Sunstein, and Daniel Kahneman, Are Juries Less Erratic
+than Individuals? Deliberation, Polarization, and Punitive Damages (September
+1999)
+Cass R. Sunstein, Nondelegation Canons (September 1999)
+Richard A. Posner, The Theory and Practice of Citations Analysis, with Special
+Reference to Law and Economics (September 1999)
+Randal C. Picker, Regulating Network Industries: A Look at Intel (October 1999)
+Cass R. Sunstein, Cognition and Cost-Benefit Analysis (October 1999)
+Douglas G. Baird and Edward R. Morrison, Optimal Timing and Legal
+Decisionmaking: The Case of the Liquidation Decision in Bankruptcy (October
+1999)
+Gertrud M. Fremling and Richard A. Posner, Market Signaling of Personal
+Characteristics (November 1999)
+Matthew D. Adler and Eric A. Posner, Implementing Cost-Benefit Analysis When
+Preferences Are Distorted (November 1999)
+Richard A. Posner, Orwell versus Huxley: Economics, Technology, Privacy, and
+Satire (November 1999)
+David A. Weisbach, Should the Tax Law Require Current Accrual of Interest on
+Derivative Financial Instruments? (December 1999)
+Cass R. Sunstein, The Law of Group Polarization (December 1999)
+Eric A. Posner, Agency Models in Law and Economics (January 2000)
+Karen Eggleston, Eric A. Posner, and Richard Zeckhauser, Simplicity and
+Complexity in Contracts (January 2000)
+Douglas G. Baird and Robert K. Rasmussen, Boyd’s Legacy and Blackstone’s
+Ghost (February 2000)
+David Schkade, Cass R. Sunstein, Daniel Kahneman, Deliberating about Dollars:
+The Severity Shift (February 2000)
+Richard A. Posner and Eric B. Rasmusen, Creating and Enforcing Norms, with
+Special Reference to Sanctions (March 2000)
+97. Douglas Lichtman, Property Rights in Emerging Platform Technologies (April
+2000)
+98. Cass R. Sunstein and Edna Ullmann-Margalit, Solidarity in Consumption (May
+2000)
+99. David A. Weisbach, An Economic Analysis of Anti-Tax Avoidance Laws (May
+2000)
+100. Cass R. Sunstein, Human Behavior and the Law of Work (June 2000)
+101. William M. Landes and Richard A. Posner, Harmless Error (June 2000)
+102. Robert H. Frank and Cass R. Sunstein, Cost-Benefit Analysis and Relative</p>
+      <p>Position (August 2000)
+103. Eric A. Posner, Law and the Emotions (September 2000)
+104. Cass R. Sunstein, Cost-Benefit Default Principles (October 2000)
+105. Jack Goldsmith and Alan Sykes, The Dormant Commerce Clause and the</p>
+      <p>Internet (November 2000)
+106. Richard A. Posner, Antitrust in the New Economy (November 2000)
+107. Douglas Lichtman, Scott Baker, and Kate Kraus, Strategic Disclosure in the Patent</p>
+      <p>System (November 2000)
+108. Jack L. Goldsmith and Eric A. Posner, Moral and Legal Rhetoric in International</p>
+      <p>Relations: A Rational Choice Perspective (November 2000)
+109. William Meadow and Cass R. Sunstein, Statistics, Not Experts (December 2000)
+110. Saul Levmore, Conjunction and Aggregation (December 2000)
+111. Saul Levmore, Puzzling Stock Options and Compensation Norms (December
+2000)
+112. Richard A. Epstein and Alan O. Sykes, The Assault on Managed Care: Vicarious</p>
+      <p>Liability, Class Actions and the Patient’s Bill of Rights (December 2000)
+113. William M. Landes, Copyright, Borrowed Images and Appropriation Art: An</p>
+      <p>Economic Approach (December 2000)
+114. Cass R. Sunstein, Switching the Default Rule (January 2001)
+115. George G. Triantis, Financial Contract Design in the World of Venture Capital
+(January 2001)
+116. Jack Goldsmith, Statutory Foreign Affairs Preemption (February 2001)
+117. Richard Hynes and Eric A. Posner, The Law and Economics of Consumer</p>
+      <p>Finance (February 2001)
+118. Cass R. Sunstein, Academic Fads and Fashions (with Special Reference to Law)
+(March 2001)
+119. Eric A. Posner, Controlling Agencies with Cost-Benefit Analysis: A Positive</p>
+      <p>Political Theory Perspective (April 2001)
+120. Douglas G. Baird, Does Bogart Still Get Scale? Rights of Publicity in the Digital</p>
+      <p>Age (April 2001)
+121. Douglas G. Baird and Robert K. Rasmussen, Control Rights, Priority Rights and
+the Conceptual Foundations of Corporate Reorganization (April 2001)
+122. David A. Weisbach, Ten Truths about Tax Shelters (May 2001)
+127.
+128.
+129.
+132.
+133.
+135.
+136.</p>
+      <p>
+        William M. Landes, What Has the Visual Arts Rights Act of 1990 Accomplished?
+(May 2001)
+Cass R. Sunstein, Social and Economic Rights? Lessons from South Africa (May
+2001)
+Christopher Avery, Christine Jolls, Richard A. Posner, and Alvin E. Roth, The
+Market for Federal Judicial Law Clerks (June 2001)
+Douglas G. Baird and Edward R. Morrison, Bankruptcy Decision Making (June
+2001)
+Cass R. Sunstein, Regulating Risks after ATA (June 2001)
+Cass R. Sunstein, The Laws of Fear (June 2001)
+Richard A. Epstein, In and Out of Public Solution: The Hidden Perils of Property
+Transfer (July 2001)
+Randal C. Picker, Pursuing a Remedy in Microsoft: The Declining Need for
+Centralized Coordination in a Networked World (July 2001)
+Cass R. Sunstein, Daniel Kahneman, David Schkade, and Ilana Ritov, Predictably
+Incoherent Judgments (July 2001)
+Eric A. Posner, Courts Should Not Enforce Government Contracts (August 2001)
+Lisa Bernstein, Private Commercial Law in the Cotton Industry: Creating
+Cooperation through Rules, Norms, and Institutions (August 2001)
+Richard A. Epstein, The Allocation of the Commons:Parking and Stopping on the
+Commons (August 2001)
+Cass R. Sunstein, The Arithmetic of Arsenic (September 2001)
+Eric A. Posner, Richard Hynes, and Anup Malani, The Political Economy of
+Property Exemption Laws (September 2001)
+Eric A. Posner and George G. Triantis, Covenants Not to Compete from an
+Incomplete Contracts Perspective (September 2001)
+Cass R. Sunstein, Probability Neglect: Emotions, Worst Cases, and Law
+        <xref ref-type="bibr" rid="ref61">(November 2001)</xref>
+      </p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>7See Timur</surname>
+            <given-names>Kuran</given-names>
+          </string-name>
+          , Private Truths, Public
+          <string-name>
+            <surname>Lies</surname>
+          </string-name>
+          (
+          <year>1997</year>
+          ),
+          <article-title>for an account</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          8See, e.g., Richard Posner,
+          <source>Economic Analysis of Law ch</source>
+          .
+          <volume>1</volume>
+          (5th ed.
+          <year>1999</year>
+          ); J.
+          <string-name>
+            <surname>Von Neumann</surname>
+            and
+            <given-names>O.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Morgenstern</surname>
+          </string-name>
+          ,
+          <source>Theory of Games and Economic Behavior</source>
+          (
+          <year>1944</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          9See
+          <string-name>
+            <given-names>Daniel</given-names>
+            <surname>Kahneman</surname>
+          </string-name>
+          and Amos Tversky, Prospect Theory:
+          <article-title>An Analysis of Decision Under Risk</article-title>
+          , in Choices, Values, and Frames 17 (Daniel Kahneman and Amos Tversky eds.
+          <year>2001</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>10Id. at 14-15.</mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <article-title>11A lucid discussion, with applications to litigation</article-title>
+          , is Chris Guthrie, Framing Frivolous Litigation, 67
+          <string-name>
+            <given-names>U.</given-names>
+            <surname>Chi</surname>
+          </string-name>
+          . L. Rev.
+          <volume>163</volume>
+          (
+          <year>2000</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <source>12George Loewenstein, Risk As Feelings, 127 Psych Bull</source>
+          <volume>267</volume>
+          (
+          <year>2001</year>
+          )
+          <article-title>; Eric Posner, Law and the Emotions, 89</article-title>
+          <string-name>
+            <surname>Geo. L. J.</surname>
+          </string-name>
+          <year>1977</year>
+          ,
+          <fpage>1979</fpage>
+          -
+          <lpage>84</lpage>
+          (
+          <year>2001</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          13Philip Cook and Charles T. Clotfelter, Selling
+          <string-name>
+            <surname>Hope</surname>
+          </string-name>
+          (
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <given-names>14G.</given-names>
+            <surname>Loomes</surname>
+          </string-name>
+          and
+          <string-name>
+            <given-names>R.</given-names>
+            <surname>Sugden</surname>
+          </string-name>
+          ,
+          <source>Regret Theory: An Alternative Theory of Rational Choice under Uncertainty, 92 Ec. Journal</source>
+          <volume>805</volume>
+          (
+          <year>1982</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          15See
+          <string-name>
+            <given-names>Yuval</given-names>
+            <surname>Rottenstreich and Christopher Hsee</surname>
+          </string-name>
+          , Money, Kisses, and Electric Shocks:
+          <article-title>On the Affective Psychology of Probability Weighting, supra</article-title>
+          , at 186-88; Loewenstein et al., supra, at 276-78.
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>16Id.</mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <article-title>17For the term</article-title>
+          , see Richard Thaler, Quasi-Rational
+          <string-name>
+            <surname>Economics</surname>
+          </string-name>
+          (
+          <year>1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          18See
+          <string-name>
+            <given-names>Clayton</given-names>
+            <surname>Gillette and James Krier</surname>
+          </string-name>
+          , Risk, Courts, and Agencies, 138 U Pa L Rev
+          <volume>1027</volume>
+          ,
+          <fpage>1061</fpage>
+          -
+          <lpage>1085</lpage>
+          (
+          <year>1990</year>
+          )
+          <article-title>(defending the idea of competing rationalities). I do not mean to deny that some of the time, ordinary people care, rationally, about values that experts disregard. All I mean to suggest is that insofar as people focus on the badness of the outcome but not on its likelihood, they are thinking less clearly than experts, who tend to focus on the statistical deaths at stake</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          19See
+          <string-name>
+            <given-names>Paul</given-names>
+            <surname>Slovic</surname>
+          </string-name>
+          ,
+          <source>The Perception of Risk</source>
+          <volume>113</volume>
+          (
+          <year>2001</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>20See Edward</surname>
+            <given-names>Fitzgerald</given-names>
+          </string-name>
+          ,
+          <source>The Rise and Fall of Worst Case Analysis, 18 Dayton L Rev</source>
+          <volume>1</volume>
+          (
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          21Loewenstein et al., supra note, at
+          <volume>275</volume>
+          -76.
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          22See Loewenstein, supra note; Yuval Rottenstreich and
+          <string-name>
+            <given-names>Christopher</given-names>
+            <surname>Hsee</surname>
+          </string-name>
+          , Money, Kisses, and Electric Shocks:
+          <article-title>On the Affective Psychology of Probability Weighting, supra</article-title>
+          , at 186-
+          <fpage>88</fpage>
+          .
+          <article-title>The availability heuristic is obviously relevant here, interacting in interesting ways with affect</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <article-title>23For a general argument that strong emotions can drive out other considerations, see George Loewenstein, A Visceral Account of Addiction, in Smoking: Risk, Perception,</article-title>
+          and Policy 188,
+          <fpage>189</fpage>
+          -
+          <lpage>95</lpage>
+          (Paul Slovic ed.
+          <year>2001</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          24Robin Hogarth and
+          <string-name>
+            <given-names>Howard</given-names>
+            <surname>Kunreuther</surname>
+          </string-name>
+          ,
+          <source>Decision Making Under Ignorance, 10 J Risk and Uncertainty</source>
+          <volume>15</volume>
+          (
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          25O.
+          <string-name>
+            <surname>Hober</surname>
+          </string-name>
+          et al.,
+          <source>Active Information Search and Complete Information Presentation, 95 Acta Psychologica</source>
+          <volume>15</volume>
+          (
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          26Phaedra Corso et al.,
+          <article-title>Valuing Morality Risk Reduction: Using Visual Aids to Improve the Validity of Contingent Valuation, 23</article-title>
+          <source>J. Risk and Uncertainty</source>
+          <volume>165</volume>
+          ,
+          <fpage>166</fpage>
+          -
+          <lpage>68</lpage>
+          (
+          <year>2001</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          27Howard Kunreuther et al.,
+          <source>Making Low Probabilities Useful, 23 J Risk and Uncertainty</source>
+          <volume>103</volume>
+          ,
+          <issue>107</issue>
+          (
+          <year>2001</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>28Id. at 108-09.</mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <string-name>
+            <surname>29Jones Lee</surname>
+          </string-name>
+          et al.
+          <source>The Value of Safety: Results of a National Survey</source>
+          , 95 Ec J.
+          <volume>49</volume>
+          (
+          <year>1985</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <string-name>
+            <surname>30Jones Lee</surname>
+          </string-name>
+          et al.,
+          <source>Valuing the Prevention of Non-Fatal Road Injuries, 47 Oxford Economic Papers</source>
+          <volume>676</volume>
+          (
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          <article-title>31Lin and Milon, Contingent Valuation of Health Risk Reductions for Shellfish Products, in Valuing Food Safety and Nutrition 83 (J.A</article-title>
+          . Caswell ed.
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>32Id.</mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          33Y.
+          <string-name>
+            <given-names>S</given-names>
+            <surname>Eom</surname>
+          </string-name>
+          ,
+          <article-title>Pesticide Residue Risk and Food Safety Valuation: A Random Utility approach, 76 Am</article-title>
+          .
+          <source>J. of Agric. Economics</source>
+          <volume>760</volume>
+          (
+          <year>1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          34V.
+          <string-name>
+            <given-names>K.</given-names>
+            <surname>Smith</surname>
+          </string-name>
+          and
+          <string-name>
+            <given-names>W. H.</given-names>
+            <surname>Desvouges</surname>
+          </string-name>
+          ,
+          <source>An Empirical Analysis of the Economic Value of Risk Changes, 95 J Polit Economy</source>
+          <volume>89</volume>
+          (
+          <year>1987</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          35Phaedra Corso et al.,
+          <article-title>Valuing Morality Risk Reduction: Using Visual Aids to Improve the Validity of Contingent Valuation, 23</article-title>
+          <source>J. Risk and Uncertainty</source>
+          <volume>165</volume>
+          ,
+          <fpage>166</fpage>
+          -
+          <lpage>68</lpage>
+          (
+          <year>2001</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          36Kunreuther et al., supra note, at
+          <volume>105</volume>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          37Christopher Hsee, Attribute Evaluability, in Choices, Values, and Frames, supra, at
+          <volume>543</volume>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          <string-name>
+            <given-names>38W. Kip</given-names>
+            <surname>Viscusi</surname>
+          </string-name>
+          , Fatal
+          <string-name>
+            <surname>Tradeoffs</surname>
+          </string-name>
+          (
+          <year>1992</year>
+          ),
+          <article-title>reports a number of studies showing a wage premium for risky jobs, and these studies suggest, though they do not prove, that differences in low probabilities will be reflected in wages.</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          39See Corso et al.,
+          <source>supra.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          40Howard Kunreuther et al.,
+          <source>Making Low Probabilities Useful, 23 J Risk and Uncertainty</source>
+          <volume>103</volume>
+          (
+          <year>2001</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          41See
+          <string-name>
+            <given-names>Yuval</given-names>
+            <surname>Rottenstreich and Christopher Hsee</surname>
+          </string-name>
+          , Money, Kisses, and Electric Shocks:
+          <article-title>On the Affective Psychology of Probability Weighting, supra</article-title>
+          , at 176-
+          <fpage>88</fpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          <string-name>
+            <surname>42See Phillip</surname>
+            <given-names>Cook</given-names>
+          </string-name>
+          , Selling
+          <string-name>
+            <surname>Hope</surname>
+          </string-name>
+          (
+          <year>1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          <source>43Yuval Rottenstreich and Christopher Hsee</source>
+          , Money, Kisses, and Electric Shocks:
+          <article-title>On the Affective Psychology of Probability Weighting, supra</article-title>
+          , at 176-88.
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>44Id. at 181.</mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>54Id.</mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>55Id.</mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>
+          56See
+          <string-name>
+            <given-names>Paul</given-names>
+            <surname>Slovic</surname>
+          </string-name>
+          et al.,
+          <source>Violence Risk Assessment and Risk Communication, 24 Law and Human Behavior</source>
+          <volume>271</volume>
+          (
+          <year>2000</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>57See Loewenstein et al., supra, at 275-76.</mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation>
+          <string-name>
+            <given-names>58See E.J.</given-names>
+            <surname>Johnson</surname>
+          </string-name>
+          et al.,
+          <string-name>
+            <surname>Framing</surname>
+            ,
+            <given-names>Probability</given-names>
+          </string-name>
+          <string-name>
+            <surname>Distortions</surname>
+            , and Insurance Decisions, 7
+            <given-names>H.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Risk</surname>
+          </string-name>
+          and Uncertainty
+          <volume>35</volume>
+          (
+          <year>1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation>
+          <string-name>
+            <given-names>59See A.S.</given-names>
+            <surname>Alkahami</surname>
+          </string-name>
+          and
+          <string-name>
+            <given-names>Paul</given-names>
+            <surname>Slovic</surname>
+          </string-name>
+          ,
+          <source>A Psychological Study of the Inverse Relationship Between Perceived Risk and Perceived Benefit, 14 Risk Analysis</source>
+          <volume>1086</volume>
+          ,
+          <fpage>1094</fpage>
+          -
+          <lpage>94</lpage>
+          (
+          <year>1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <mixed-citation>
+          <article-title>60See Amos Tversky and Daniel Kahneman, Availability: A Heuristic for Judging Frequency</article-title>
+          and Probability, 5
+          <source>Cognitive Psychology</source>
+          <volume>207</volume>
+          (
+          <year>1973</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <mixed-citation>
+          <source>74See Kuran and Sunstein</source>
+          , supra note;
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Risk and Reason (forthcoming
+          <year>2002</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <mixed-citation>
+          <source>75Matthew Adler and Eric Posner, Rethinking Cost-Benefit Analysis, 109 Yale LJ</source>
+          <volume>167</volume>
+          (
+          <year>1999</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <mixed-citation>
+          <string-name>
+            <surname>76See Christine Jolls</surname>
+          </string-name>
+          et al.,
+          <source>A Behavioral Approach to Law and Economics</source>
+          , 50 Stan L Rev
+          <volume>1471</volume>
+          ,
+          <issue>1474</issue>
+          (
+          <year>1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <mixed-citation>
+          77See
+          <string-name>
+            <given-names>Lisa</given-names>
+            <surname>Goldman and Stanton Glantz</surname>
+          </string-name>
+          ,
+          <source>Evaluation of Antismoking Advertising Campaigns, 279 Journal of the American Medical Association</source>
+          <volume>772</volume>
+          (
+          <year>1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref50">
+        <mixed-citation>
+          <article-title>81For an overview</article-title>
+          , see http://www.whitehouse.gov/omb/inforeg/regpol.html
+        </mixed-citation>
+      </ref>
+      <ref id="ref51">
+        <mixed-citation>
+          <source>82See Kuran and Sunstein</source>
+          , supra note.
+        </mixed-citation>
+      </ref>
+      <ref id="ref52">
+        <mixed-citation>
+          83John
+          <string-name>
+            <given-names>D.</given-names>
+            <surname>Graham</surname>
+          </string-name>
+          ,
+          <article-title>Making Sense of Risk: An Agenda for Congress</article-title>
+          , in Risks, Benefits, and
+          <source>Lives Saved</source>
+          <volume>183</volume>
+          ,
+          <fpage>183</fpage>
+          , Robert Hahn ed. (New York: Basic Books,
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref53">
+        <mixed-citation>
+          84See Robertson v.
+          <source>Methow Valley Citizens Council</source>
+          ,
+          <volume>490</volume>
+          US 332 (
+          <year>1989</year>
+          )
+          <article-title>; Robert Percival et al</article-title>
+          .,
+          <source>Environmental Regulation 903</source>
+          <volume>-04</volume>
+          (3d ed.
+          <year>2000</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref54">
+        <mixed-citation>
+          <string-name>
+            <surname>85See Edward</surname>
+            <given-names>Fitzgerald</given-names>
+          </string-name>
+          ,
+          <source>The Rise and Fall of Worst Case Analysis, 18 Dayton L Rev</source>
+          <volume>1</volume>
+          (
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref55">
+        <mixed-citation>86Id.</mixed-citation>
+      </ref>
+      <ref id="ref56">
+        <mixed-citation>
+          <string-name>
+            <surname>94See Howard</surname>
+            <given-names>Kurtz</given-names>
+          </string-name>
+          , Shark Attacks Spark Increased Coverage, Washington Post On-Line,
+          <source>Sept. 5</source>
+          ,
+          <year>2001</year>
+          , available at http://www.washingtonpost.com/wp-dyn/articles/A44720-2001Sep5.
+          <article-title>html: “A maritime expert said on last night's 'NBC Nightly News' that more people die from bees, wasps, snakes or alligators than from shark attacks. But there's no ratings in bees. Unpleasant little critters, but not scary-looking enough. With 'Jaws' music practically playing in the background, the media have turned this into the Summer of the Shark</article-title>
+          .
+          <article-title>Never mind that the number of attacks has actually dropped since last year</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref57">
+        <mixed-citation>
+          <source>95NEXIS search, Sept. 4</source>
+          ,
+          <year>2001</year>
+          .
+          <article-title>In fact Time Magazine offered a widely discussed cover story on sharks and shark attacks under a screaming cover entitled, Summer of the Shark, see Terry McCarthy, Why Can't We Be Friends?; A horrific attack raises old fears, but new research reveals surprising keys to shark behavior</article-title>
+          ,
+          <source>Time Magazine, July</source>
+          <volume>30</volume>
+          ,
+          <year>2001</year>
+          , at p.
+          <fpage>34</fpage>
+          .
+          <article-title>The story itself suggested that the probability of being attacked by a shark is about 1/30 the probability of being struck by lightning</article-title>
+          .
+          <source>Id.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref58">
+        <mixed-citation>
+          <source>96NEXIS search, Sept. 4</source>
+          ,
+          <year>2001</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref59">
+        <mixed-citation>
+          <article-title>97For data on shark attacks</article-title>
+          , see http://www.flmnh.ufl.edu/fish/Sharks/ISAF/ISAF.htm.
+          <article-title>The cite offers comparative risk data, showing, for example, that while there were 18 shark injuries and deaths in the United States in 1996, there were 10,000 injuries and deaths from buckets and pails, over 1,500 injuries and deaths from toilet bowl products</article-title>
+          ,
+          <source>and over 198</source>
+          ,
+          <article-title>000 injuries and deaths from nails, tacks, screws, and bolts</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref60">
+        <mixed-citation>
+          <string-name>
+            <surname>98See Maya</surname>
+            <given-names>Bell</given-names>
+          </string-name>
+          ,
+          <article-title>Divers Defend Courting the Fish So Many Fear; a Wave of Recent Shark Attacks Has Brought South Florida Shark-Feeding Groups under State Scrutiny; Making Friends with the Toothy Terrors Destroys Their Aversion to People and Encourages Aggression</article-title>
+          , Other Experts Say,
+          <source>The Orlando Sentinel</source>
+          , p.
+          <fpage>A1</fpage>
+          ,
+          <year>August 29</year>
+          ,
+          <year>2001</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref61">
+        <mixed-citation>
+          <article-title>99See Florida commission bans shark feeding</article-title>
+          ,
+          <source>November</source>
+          <volume>1</volume>
+          ,
+          <year>2001</year>
+          , posted:
+          <volume>2</volume>
+          :
+          <string-name>
+            <surname>20</surname>
+            <given-names>PM</given-names>
+          </string-name>
+          <string-name>
+            <surname>EST</surname>
+          </string-name>
+          <article-title>(1920 GMT)</article-title>
+          , available at http://www.cnn.com/2001/TRAVEL/NEWS/11/01/shark.feeding.ap/index.html.
+        </mixed-citation>
+      </ref>
+      <ref id="ref62">
+        <mixed-citation>
+          <article-title>100See Phantom Risk: Scientific Inference and the Law (Kenneth Foster et</article-title>
+          al. eds
+          <year>2000</year>
+          ).
+          <volume>130</volume>
+          . 131. 134. 137. 138.
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+

@@ -1,0 +1,3030 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Cass R. Sunstein, "Is the Clean Air Act Unconstitutional?,"</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Chicago Unbound</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <string-name>Recommended Citation</string-name>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Faculty Scholarship</institution>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>This Article is brought to you for free and open access by the Faculty Scholarship at Chicago Unbound. It has been accepted for inclusion in Journal Articles by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>1990</year>
+      </pub-date>
+      <volume>303</volume>
+      <issue>1999</issue>
+      <fpage>1999</fpage>
+      <lpage>2000</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>* Karl N. Llewellyn Distinguished Service Professor of Jurisprudence, University of
+Chicago Law School and Department of Political Science. A.B. 1975, J.D. 1978, Harvard.
+Ed. I am grateful to Bruce Ackerman, E. Donald Elliot, Joseph Feller, Elizabeth Garrett,
+John Graham, Robert Hahn, Lisa Heinzerling, Jeffrey Knight, William Pederson, Eric
+Posner, Richard Posner, David Strauss, Jonathan Wiener, and participants in a work in
+progress lunch at the University of Chicago Law School for valuable comments on a previous
+draft. I am also grateful to Robert Hahn for organizing two panel discussions at the
+Brookings-American Enterprise Institute - Brookings Joint Center for Regulatory Studies,
+where I learned a great deal from the comments of my co-panelists - at the first session,
+Boyden Gray, Carol Browner, and Edward Warren, and at the second, Christopher
+DeMuth, Lisa Heinzerling, and Jonathan Wiener. Brooke May provided superb research
+assistance. Thanks also to Robert Gasaway and attorneys at the Environmental Protection
+Agency for providing valuable information.</p>
+    </sec>
+    <sec id="sec-2">
+      <title>A. Kenneth Culp Davis'sInterestingInnovation..................... 340</title>
+      <p>B. The (Early)Life ofan Idea .................................................. 342</p>
+    </sec>
+    <sec id="sec-3">
+      <title>C. The Rise of the New NondelegationDoctrine..................... 344</title>
+      <p>D. Particulatesand Ozone in Court.......................................... 347
+V. EVALUATING THE NEW NONDELEGATION DOCTRINE ........... 349
+A. Is This a NondelegationDoctrineatAll? ............................ 349</p>
+    </sec>
+    <sec id="sec-4">
+      <title>1. The Appeal of the New Doctrine: Surrogate</title>
+      <p>Safeguards........................................................................ 349
+2. Problems........................................................................... 350</p>
+    </sec>
+    <sec id="sec-5">
+      <title>B. The Placeof the NondelegationDoctrinein</title>
+      <p>AdministrativeLaw ............................................................... 356
+1. Invalidationsin Extreme Cases ...................................... 356
+2. Statutory Construction.................................................... 357</p>
+    </sec>
+    <sec id="sec-6">
+      <title>3. Democracy-PromotingMinimalism: Clear</title>
+    </sec>
+    <sec id="sec-7">
+      <title>StatementPrinciplesas NondelegationCanons............ 357</title>
+    </sec>
+    <sec id="sec-8">
+      <title>C. Why the CleanAir Act Is Constitutional(and WhatIt</title>
+      <p>Means) .................................................................................... 359
+VI. OPTIONS, FUTURES, AND CLEAN AIR ....................................... 361
+A. A Twenty-first Century EPA: Ceilings,Floors,
+and "BenefitsAnalysis"........................................................ 362
+1. The Problem..................................................................... 362
+2. TowardBenefits Analysis ............................................... 363</p>
+    </sec>
+    <sec id="sec-9">
+      <title>3. Difficulties, Uncertainty,ContentiousAssumptions..... 365</title>
+    </sec>
+    <sec id="sec-10">
+      <title>4. An Analogy: From Health to the Environment........... 366</title>
+    </sec>
+    <sec id="sec-11">
+      <title>5. Toward a (New) Common Law ofRegulatory</title>
+      <p>Protection......................................................................... 367</p>
+    </sec>
+    <sec id="sec-12">
+      <title>B. Ordinary(NotExtraordinary)JudicialReview:</title>
+    </sec>
+    <sec id="sec-13">
+      <title>Democracy-PromotingMinimalism in Practice................. 369</title>
+      <p>1. Failingthe HardLook .................................................... 369
+2. Surviving a Softer Look .................................................. 370</p>
+    </sec>
+    <sec id="sec-14">
+      <title>3. The Problemof Ossificationand the Tyranny of the</title>
+      <p>Status Quo Revisited........................................................ 370</p>
+    </sec>
+    <sec id="sec-15">
+      <title>4. ProceduralInnovations: AdministrativeLaw</title>
+      <p>Minimalism ...................................................................... 372
+5. A Health-HealthWrinkle................................................ 374
+6. A FinalContrast.............................................................. 375
+C. Congress: Safety andIts Cost............................................... 376
+1. How Safe Is Safe Enough? ............................................. 376
+2. More Flexible Tools ........................................................ 377
+3. Costs andBenefits............................................................ 377
+CONCLUSION............................................................................................. 379
+The American people are suffering from what can be called "a syndrome
+of paranoia and neglect" about potential dangers to their health, safety,
+and the environment. This leads to a paradox that is becoming
+increasingly recognized. Large amounts of resources are devoted to slight or
+speculative dangers while substantial and well-documented dangers
+remain unaddressed.
+-John Graham'
+The last third of the twentieth century is not too late a time for turning
+the rule of law and the non-delegation doctrine into effective and useful
+legal tools for minimizing injustice from improper discretionary power.
+-Kenneth Culp Davis2</p>
+      <sec id="sec-15-1">
+        <title>ADMINISTRATIVE LAW</title>
+        <p>This Article deals with two linked questions. The first involves the
+future of the Clean Air Act.' The particular concern is how the
+Environmental Protection Agency ("EPA") might be .encouraged, with
+help from reviewing courts, to issue better ambient air quality
+standards, and in the process to shift from some of the anachronisms of
+1970s environmentalism to a more fruitful approach to environmental
+protection. The second question involves the role of the
+nondelegation doctrine in American public law, a doctrine that shows
+unmistakable signs of revival. I will suggest that improved performance by
+EPA and agencies in general, operating in tandem with a new
+approach to judicial review, would make it altogether unnecessary to
+revive the nondelegation doctrine. Indeed, the nondelegation doctrine
+would emerge as a crude and unhelpful response to existing problems
+in modern regulation, even a form of judicial usurpation. Far better
+responses are available.</p>
+        <p>In issuing and revising a national ambient air quality regulation
+under the Clean Air Act, EPA should provide a detailed "benefits
+analysis." To this end, it should undertake two tasks. First,it should
+1. John D. Graham, Making Sense of Risk- An Agenda for Congress,in RISKS, COSTS,
+AND LIVES SAVED: GETrING BETrER RESULTS FROM REGULATION 183,183 (Robert W.
+Hahn ed., 1996).</p>
+        <p>2. KENNETH CULP DAVIS, DISCRETIONARY JUSTICE: A PRELIMINARY INQUIRY 51
+(1969).</p>
+        <p>3. Clean Air Act, 42 U.S.C. §§ 7401-7671q (1994).
+specify the range of benefits that it believes are likely to result from
+the regulation, along with a specification of the range of benefits that
+it believes would result from at least two reasonable alternative
+approaches, one stricter and one more lenient. In the process EPA
+should identify the residualrisk left under the competing regulatory
+regimes; it should also acknowledge scientific uncertainty, to the
+extent that uncertainty exists and requires guesswork. This proposal is
+an effort to strengthen the role of sound science in environmental
+protection.</p>
+        <p>Second, EPA should explain why it believes that the chosen rule is
+preferable to the less and more stringent alternatives - why the set of
+benefits to be received from the selected rule justify that rule, whereas
+the set of benefits to be received from the less and more stringent
+rules do not. In the process it should explain why the residual risk left
+by the selected rule is acceptable, while the residual risk left by the
+less stringent rule is not. This proposal is an effort to strengthen the
+role of democratic forces in environmental protection.4</p>
+        <p>If necessary, reviewing courts should require EPA to perform
+these tasks. Taken together, the two proposals should increase the
+level of consistency across regulations, reduce the power of
+wellorganized private groups, and diminish the risks associated with both
+insufficient and excessive environmental regulation. If EPA has
+undertaken the two tasks, and carried them out in a reasonable way,
+judicial review is at an end; courts should uphold EPA's decision.</p>
+        <p>Ideas of this kind have potentially broad implications, extending
+well beyond the Clean Air Act and even EPA, to the work of the
+Occupational Safety and Health Administration ("OSHA"), the
+Consumer Product Safety Commission, and the National Highway Traffic
+and Safety Administration as well. They would mark a key moment in
+the movement toward a system of environmental protection that is at
+once more democratic and better informed. At the same time, they
+would accelerate the continuing shift from 1970s environmentalism
+and indeed 1970s regulation in general, away from recognizing the
+existence of problems of safety and health and toward assessing their
+magnitude, in such a way as to reduce both regulatory paranoia and
+regulatory neglect, and to put a premium on the acquisition of
+information</p>
+        <p>4. Of course costs are important too; the two proposals are based on the current
+understanding that benefits, but not costs, may be taken into account in issuing primary standards.
+The question of costs is taken up later. See infra Section VI.C.</p>
+        <p>5. For general discussion in this vein, see STEPHEN BREYER, BREAKING THE VICIOUS
+CIRCLE: ToWARD EFFECTIVE RISK REGULATION (1993), and NEIL GUNNINGHAM &amp;
+PETER GRABOSKY, SMART REGULATION: DESIGNING ENVIRONMENTAL POLICY (1998).</p>
+        <p>If agencies undertook tasks of this kind, there would be little point
+to the recent resurgence of interest in the nondelegation doctrine.
+The sensible impulses that underlie that interest - impulses that
+involve accountability, deliberation, and sound policymaking - can be
+handled through other means, a point that casts a more general light
+on the proper role of the nondelegation doctrine in American public
+law. I suggest that the proper role of that doctrine consists in statutory
+construction that imposes floors and ceilings on agency action, and in
+a set of "nondelegation canons" that prevent agencies from acting
+without clear congressional authorization. Taken together, judicial
+requirements of this kind would constitute a form of
+"democracypromoting minimalism"' in the distinctive context of administrative
+law - and a partial step toward a better and more sophisticated
+approach to environmental protection. These are the basic claims that I
+will attempt to defend in this Article.</p>
+        <p>B.</p>
+      </sec>
+    </sec>
+    <sec id="sec-16">
+      <title>The CleanAir Act</title>
+      <p>The Clean Air Act may well be the most important of all
+environmental statutes. Its effects include a wide range of beneficial
+consequences for human health and well-being and high costs on the private
+sector. The Environmental Protection Agency estimates overall
+compliance costs at $0.5 trillion.7 The Act's claim to success rests on
+enormous improvements in ambient air quality and corresponding
+health benefits. EPA estimates that the Act prevents at least 45,000
+deaths annually and that it also prevents a minimum of 13,000 heart
+attacks and 7,000 annual strokes! On a standard (though not
+undisputed) view, the benefits of the Act, ranging between $5.6 trillion and
+$49.4 trillion, far exceed its costs.9</p>
+      <p>6. See CASS R. SUNSTEIN, ONE CASE AT A TIME: JUDICIAL MINIMALISM ON THE
+SUPREmE COURT (1999), on the general topic ofjudicial minimalism.</p>
+      <p>7. See J. CLARENCE DAVIES &amp; JAN MAZUREK, POLLUTION CONTROL IN THE UNITED
+STATES: EVALUATING THE SYSTEM 130 (1998).</p>
+      <p>8. See id.Judgments about benefits, nonmonetized but especially monetized, are highly
+sensitive to contentions assumptions, and hence the "bottom line" numbers should be taken
+with many grains of salt. See RANDALL LUrrER, AN ANALYSIS OF THE USE OF THE EPA'S
+BENEFIT ESTIMATES IN OMB's DRAFT REPORT ON THE COSTS AND BENEFITS OF
+REGULATION (1998) (urging the use of plausible alternative assumptions and asserting that
+EPA's benefit calculations are inflated); see also Lisa Heinzerling, Regulatory Costs of
+Mythic Proportions,107 YALE LJ.1981 (1998) (urging that costs per lives saved are inflated,
+also because of contentious assumptions). Though coming from different directions, Lutter
+and Heinzerling both argue, convincingly, that characterization of both benefits and costs
+can shift dramatically with small changes in assumptions, an argument that much bears on
+the central claims of this Article. See Randall Lutter &amp; Christopher DeMuth, Ozone and the
+Constitutionatthe EPA, ON THE ISSUES, July 1999, at 3.</p>
+      <p>9. See DAVIES &amp; MAZUREK, supranote 7, at 130,147.</p>
+      <p>The Act has nonetheless been subject to telling criticism. The
+foundation of clear air regulation consists of EPA's issuance of
+nationally uniform ambient air quality standards;" but in light of the
+extraordinary diversity of the fifty states, it is not clear that the idea of
+national standards can be rationally defended." In addition, both
+lower courts and EPA seem to think that the standard-setting process
+does not and cannot involve consideration of costs.12 But does it make
+sense, or is it even feasible, to say that national standards will be
+founded on an assessment of benefits alone, conducted in a cost
+vacuum? 3 If an improvement in ambient air quality would produce
+health benefits that are small but not trivial, isn't it clear that the
+improvement is justified if compliance costs are trivial, but not if the
+costs are extremely high? There is reason to think that at least in
+some cases, an understanding of costs has affected EPA's decision
+about appropriate standards - but that the cost-benefit balancing has
+been left implicit and free from public scrutiny and review. 4</p>
+      <p>Perhaps the largest question involves the criteria by which EPA
+decides whether one or another level of regulation is (in the statutory
+phrase) "requisite to protect the public health."15 For most pollutants,
+air quality at various levels is not either "safe" or "not safe"; there are
+diminishing degrees of risk associated with diminishing degrees of
+exposure. On what basis is a particular level of residual risk said to be
+the appropriate one? What judgments do, or should, enter into that
+conclusion? EPA has been criticized for sometimes suggesting, in an
+unhelpful and conclusory fashion, that it chooses the "safe" level, as if
+this were solely a technocratic judgment and as if "safety" were an
+onoff switch, 6 when its decision about permissible levels rests instead on
+a series of political, scientific, and economic judgments and
+compromises.</p>
+      <p>There are two problems with this state of affairs. The first involves
+democratic deliberation. 7 If EPA does not give a clear sense of the
+range of adverse effects, and if it does not say why one set of such
+effects calls for regulation and another does not, the public and its
+representatives are not informed of the nature of the underlying
+questions, and they are unable to evaluate the choices actually made.
+Under EPA's articulated position, a purely technical issue (would a
+certain level be safe?) is sometimes substituted, at least publicly, for
+the real and more complicated ones (what level of safety is
+appropriate in light of all the relevant factors? why should one level of
+regulation be preferred to another?).</p>
+      <p>The second problem involves sound regulatory policy. Any
+proposed national standard could be loosened or tightened, and the
+question is whether the agency has chosen the optimal, or at least a
+reasonable, regulatory "point." Without a clear and (to the extent
+possible) quantified presentation of the expected environmental
+benefits of the various alternatives," there can be no assurance that the
+agency has chosen that point, rather than one that is too strict or too
+lenient.</p>
+      <p>C.</p>
+    </sec>
+    <sec id="sec-17">
+      <title>A Remarkable Decisionand a New Doctrine</title>
+      <p>In its extraordinary decision in American Trucking Ass'ns v.
+EPA,9 the United States Court of Appeals for the District of
+Columbia Circuit responded to this last concern in the strongest possible
+terms. It held that as interpreted by EPA, the key provisions of the
+Clean Air Act - those that give EPA authority to issue national air
+quality standards - represent an unconstitutional delegation of
+legislative power.10 The decision announces the birth of a new
+nondelegation doctrine, one with potentially large implications for regulatory
+policy. Under the new doctrine, open-ended statutory terms will be
+invalidated unless agencies are able to specify the governing legal
+criteria - to discipline their own authority through narrowing
+interpretations.</p>
+      <p>17. See id.</p>
+      <p>18. Costs are of course important too. As discussed below, the prevailing view forbids
+EPA from considering costs, and my basic proposal does not challenge that prevailing view.
+I do, however, raise some doubts about it below. See infra Section VI.C.</p>
+      <p>19. 175 F.3d 1027 (D.C. Cir. 1999) (per curiam), rehearingen banc denied, Nos. 97-1440,
+97-1441,1999 WL 979463 (D.C. Cir. Oct. 29,1999).</p>
+      <p>20. See American Trucking,175 F.3d at 1033.</p>
+      <p>The new nondelegation doctrine is remarkable for many reasons.
+First, the Supreme Court has not used the doctrine to invalidate a
+federal statute since (or for that matter before) 1935,1 and hence any
+such decision by a court of appeals is reasonably taken to mark a fresh
+departure. Second, the new doctrine does not require Congress to
+legislate with clarity. It says instead that if Congress has not been
+clear, agencies must act on their own, to set out limits on their own
+legal authority. Third, there now appears to be a genuine doctrine in
+place; American Trucking represents no isolated decision, but the
+culmination of a line of lower court cases, one of which was a similar
+decision about the Occupational Safety and Health Act.' The
+decision therefore signals a distinctive approach to judicial review of
+agency action. Fourth, the doctrine is conspicuously responsive to
+what the court of appeals saw (and often sees) as a general problem in
+federal regulation: the difficulty of knowing why an agency chooses
+one level of regulation rather than another that is somewhat higher or
+somewhat lower.</p>
+      <p>The new doctrine raises a number of questions. The narrowest
+(though far from unimportant) issue has to do with the fate of EPA
+rulemaking with respect to national ambient air quality standards
+("NAAQS"). What, if anything, can EPA do in the future? The
+question is significant both because of its consequences for implementation
+of the Clean Air Act and because of its implications for regulatory
+policy in general. On its face, the American Trucking decision would
+seem to draw into serious constitutional question not only EPA's
+ozone and particulates regulations, but also a wide range of other
+regulations by EPA, and indeed a wide range of decisions by many
+other agencies involved in the protection of health and welfare (and
+other areas as well; consider the Federal Communications
+Commission). And what, exactly, is the relationship between the new doctrine
+and ordinary judicial review to test whether agency action has been
+"arbitrary" or "capricious"? An especially large question, and the
+central focus here, has to do with how American Trucking exposes
+continuing problems with the design and implementation of
+environmental regulation as a whole and the Clean Air Act in particular, a
+statute whose key provisions seem to depend on implausible
+assumptions, and under which EPA has sometimes hidden crucial questions
+of value with uninformative platitudes.</p>
+    </sec>
+    <sec id="sec-18">
+      <title>D. Goals and Plans</title>
+      <p>In this Article, my most general goal is to understand current
+difficulties with environmental policy, the Clean Air Act, and EPA
+promulgation of ambient air quality standards, and to see how EPA and
+courts might perform a constructive role in making things better
+rather than worse. My simplest claim is that EPA should undertake
+the two tasks identified above; it should specify the range of benefits
+that it believes will follow from the regulation it seeks to impose,
+including a discussion of the benefits from more lenient and more
+stringent alternatives and a treatment of the residual risks under the
+various regulatory regimes. It should also explain why it believes that the
+chosen regulation is preferable to the alternatives.</p>
+      <p>Steps in these directions would satisfy the legitimate concerns of
+most critics of EPA's performance under the Clean Air Act and also
+of the court of appeals in American Trucking. Such steps also have
+broad applicability and would represent a new departure of their own
+in administrative law, covering the activities of EPA under a wide
+range of statutes and also the activities of (for example) the
+Occupational Safety and Health Administration, the Consumer Product
+Safety Commission, and the National Highway Traffic Safety
+Administration. Steps of this sort would not amount to a nondelegation
+doctrine, new or old. But they are designed to promote both rule-of-law
+values and sound regulatory policy, in a way that should respond to
+growing understandings about current problems in environmental
+policy and the administrative state.</p>
+      <p>I have three more particular goals. The first is to reject the
+nondelegation doctrine, both old and new, as a way of ensuring better and
+more transparent policy analysis by EPA and other agencies. That
+issue raises large questions about democratic accountability and about
+the appropriate role of courts in reviewing agency action. I suggest
+that although the new doctrine has considerable appeal, this is not
+really a nondelegation doctrine at all, and the relevant goals would be
+better accomplished through a form of more conventional (but better
+informed) judicial review of agency action. The Clean Air Act is
+hardly unconstitutional, for it is possible to generate an interpretation
+of the Act that imposes both "floors" and "ceilings" on agency action.</p>
+      <p>My second goal is to propose a contemporary role for the
+nondelegation doctrine in American public law. I claim that the doctrine is
+properly held in reserve for extreme cases - that it serves as a
+genuine, but judicially underenforced, constitutional norm - and that it
+operates as a legitimate tool of statutory construction. More
+importantly, I contend that the doctrine is not so much dead as relocated.
+Its current home can be found not in cases invalidating open-ended
+grants of authority, but in the many decisions using various "clear
+statement" principles to discipline legislative and administrative
+action.z3 When courts require Congress to speak clearly in order to
+authorize an agency to raise a serious constitutional problem, or to
+apply a statute extraterritorially or retroactively, they are applying a
+narrower and more targeted version of the nondelegation doctrine
+a version that requires Congress to focus, with particularity, on certain
+especially sensitive questions. By requiring congressional rather than
+merely executive deliberation on those questions, the various "clear
+statement" principles operate as a nondelegation doctrine in another
+guise. As such, the principles are easily defended, for they promote
+the key functions of the nondelegation doctrine without carrying the
+risks of the old and new versions.</p>
+      <p>My third goal is to discuss possible improvements in the operation
+of the Clean Air Act, at the legislative, administrative, and judicial
+levels, improvements that might respond to various concerns about
+EPA performance, including the concerns expressed in American
+Trucking. I attempt to explain how the Act seems based on the (false)
+assumption that pollutants generally have "safe thresholds," and how
+this assumption has seriously impaired both regulatory policymaking
+and democratic deliberation. I also suggest that the Act should be
+interpreted, or if necessary amended, to allow and require EPA to
+engage in "health-health tradeoffs" - and also to take account of costs
+in setting national standards. In particular, I emphasize that EPA
+should engage in more specific and quantitative assessments of the
+hazardous effects of pollution at various levels, so as to increase the
+transparency of its decisions. It could even make sense for EPA to
+move in the direction of the "quality-adjusted life years" approach,
+designed to provide a concrete sense of the benefits of regulatory
+alternatives.2 4 Under such an approach, EPA would attempt to specify
+the range of "quality-adjusted life years" likely to be saved by a
+regulation, and it would also indicate the degree of savings that would
+justify a regulation. But because of the harmful side effects of aggressive
+judicial review, courts should play only a secondary and catalytic role
+- embodied in certain recent and quite innovative procedural
+developments in administrative law, above all the "remand without
+invalidation." As we will see, this procedural route is administrative law's
+newest species of minimalism, indeed a form of democracy-promoting
+minimalism.2 The central point is that EPA should undertake such
+inquiries on its own.</p>
+      <p>23. See Cass R. Sunstein, Nondelegation Canons,U. CHI. L. REV. (forthcoming 2000),
+for a catalogue. See also 'WilliamN. Eskridge, Jr. &amp; Philip P. Frickey, Quasi-Constitutional
+Law: Clear Statement Rules as ConstitutionalLawmaking, 45 VAND. L. REv. 593 (1992)
+(discussing clear statement principles in general).</p>
+      <p>24. See American Trucking,175 F.3d at 1039-40 &amp; n.5.
+25. For a general discussion ofjudicial minimalism, see SUNSTEIN, supranote 6.</p>
+      <p>This Article comes in six parts. Part II deals with the Clean Air
+Act and in particular with the artificiality of the inquiries that it
+appears to make central to EPA's task. Part III explores the old
+nondelegation doctrine, the development of the new nondelegation
+doctrine, and the use of the doctrine in American Trucking and related
+cases. Part IV evaluates the new doctrine, explains why the Clean Air
+Act is constitutionally unproblematic, and suggests an alternative
+approach. Part V discusses the proper approaches to the Act from
+Congress, EPA, and reviewing courts. Part VI is a brief conclusion.</p>
+      <sec id="sec-18-1">
+        <title>THE CLEAN AIR Acr</title>
+        <p>Overall, the benefits of the Clean Air Act since its enactment in 1970
+clearly outweigh the costs.
+-J. Clarence Davies and Jan MazurekO
+Congress should not preclude decisionmakers from considering the
+economic costs and benefits of different policies in the development of
+regulations.</p>
+        <p>Most environmental initiatives of the past seemed expensive and
+questionable at the time, and today every one of them appears a bargain in
+retrospect. Looking back on the present a few decades hence, society
+will consider every environmental program running now to have been a
+bargain, and wish more programs had been started sooner.</p>
+        <p>-Gregg Easterbrook
+-Kenneth Arrow et al.V</p>
+      </sec>
+    </sec>
+    <sec id="sec-19">
+      <title>A. SettingNationalStandards 1.</title>
+    </sec>
+    <sec id="sec-20">
+      <title>The Key Provisions</title>
+      <p>The Clean Air Act was enacted in 1970. Though many hundreds
+of pages in length, some of them mind-numbingly specific and
+detailed, 9 the Act offers two remarkably brief provisions designed to set
+the statutory program in motion.</p>
+      <p>26. DAVIES &amp; MAZUREK, supra note 7, at 147.</p>
+      <p>27. KENNETH J. ARRow ET AL., BENEFrr-CosT ANALYSIS IN ENVIRONMENTAL,
+HEALTH, AND SAFETY REGULATION: A STATEMENT OF PRINCIPLES 6 (1996).</p>
+      <p>28. GREGG EAsTERaROOK, A MOMENT ON THE EARTH: THE COMING AGE OF
+ENVIRONMENTAL OPTIMISM 210 (1995).</p>
+      <p>29. Consider the acid deposition program, which goes so far as to list, by name, every
+plant entitled to emit sulfur dioxide and its permitted emissions level (a flavor: 13,570 tons
+for the Colbert plant, generator number one, in Alabama; 15,430 tons for the Armstrong
+plant, generator number two, in Pennsylvania), see Clean Air Act, 42 U.S.C. § 7651(c)
+(1994), alongside an exceptionally specific program for the granting and trading of emissions
+rights, see 42 U.S.C. § 7651(b).</p>
+      <p>The first of these provisions, and the central focus here, involves
+national primary ambient air quality standards.' Here EPA is asked
+to set standards "the attainment and maintenance of which in the
+judgment of the Administrator," based on air quality criteria
+documents "and allowing an adequate margin of safety, are requisite to
+protect the public health."31 The second of these provisions involves
+national secondary ambient air quality standards, which EPA must set
+at levels "requisite to protect the public welfare from any known or
+anticipated adverse effects associated with the presence of such air
+pollutant in the ambient air."'32 "Welfare" is defined to include
+"effects on soils, water, crops, vegetation, manmade materials, animals,
+wildlife, weather, visibility, and climate, damage to and deterioration
+of property, and hazards to transportation, as well as effects on
+economic values and on personal comfort and well-being .... I For
+secondary standards, involving welfare rather than health, there is no
+provision for an "adequate margin of safety." But the secondary
+standards are anticipated to be more stringent than the primary ones;
+notice in particular the statutory emphasis on plant and animal life.</p>
+      <p>These provisions have three especially noteworthy features. First,
+they seem at first glance not to contemplate any consideration of cost
+in the standard-setting process.' Primary standards are based on
+health, apparently to be assessed in a cost vacuum, while secondary
+standards are based on welfare, also apparently to be assessed without
+regard to cost. This is not at all an inevitable reading of the relevant
+provisions; perhaps the level "requisite to protect the public health"
+and "welfare" is a function of cost, not only benefit; but the prevailing
+interpretation is otherwise.35 Second, the standards are fully national
+- even though political judgments about air quality vary greatly from
+state to state, and even though the effects of improved air quality (on
+the cost and benefit sides) are highly variable from one state to
+another. Finally, both provisions appear to contemplate the existence of
+"safe thresholds." The basic idea is that EPA should ensure that air is
+"safe" and that public welfare is "protected."</p>
+      <p>
+        What makes this last idea distinctive is its artificiality. To be sure,
+we could imagine pollutants for which the evidence indicated a point
+30. See 42 U.S.C. §7409(a)-(b).
+31. 42 U.S.C. § 7409(b)(
+        <xref ref-type="bibr" rid="ref12 ref16 ref52 ref64 ref7">1</xref>
+        ) (emphasis added).
+32. 42 U.S.C. § 7409(b)(
+        <xref ref-type="bibr" rid="ref13 ref17 ref53 ref70 ref8">2</xref>
+        ) (emphasis added).
+33. 42 U.S.C. § 7602(h).
+      </p>
+      <p>35. See LeadIndus., 647 F.2d at 1148-56.
+of "no risk" or "de minimis risk." At least in theory; it is possible to
+construct a dose-response curve for which risks effectively vanish at a
+certain defined point. But for most pollutants, there are diminishing
+degrees of risk, associated with diminishing degrees of pollution. 6
+"Safety" is not an off-on switch; it is a matter of degree. When it is
+said that a certain level of pollution is "safe," what is really meant is
+that the residual risk is acceptable or tolerable - not that there is no
+risk at all. Consider, for example, this commendably direct testimony
+from the Chair of EPA's Scientific Advisory Committee's panel on
+ozone and particulates, unambiguously confessing the impossible
+nature of the task imposed on EPA by the Act:</p>
+      <p>Based on information now available, it appears that ozone may elicit a
+continuum of biological responses down to background concentrations.
+It is critical to understand that a biological response does not necessarily
+imply an adverse health effect. Nevertheless, this means that the
+paradigm of selecting a standard at the lowest-observable-effects-level and
+then providing an "'adequate margin of safety"' is not possible. It
+further means that risk assessments must play a central role in identifying an
+appropriate level3 7</p>
+      <p>How might we explain the enactment of provisions that seem at
+once so vague, rigid, and artificial? Much of the answer lies in the
+distinctive political dynamic of environmental debates in the late 1960s
+and early 1970s, in which citizens wanted air to be "safe" and
+politicians who failed to respond were at great risk." We might even
+describe the result as "1970s environmentalism," a form of thinking that
+accomplished a great deal of good, by producing rapid decreases in
+pollution levels, but that also seems increasingly anachronistic, even
+counterproductive. In the 1970s in particular, politicians would
+proceed at their peril if they asserted that "safety" could be compromised
+by other goals3 9 At the same time, politicians were affected by, and
+doubtless catered to, the pervasive psychological urge for certainty, as
+confirmed by evidence that people are willing to pay a great deal for
+"no risk" and much less for "substantially less risk."' Thus, for
+exam36. See, e.g., LANDY ETAL, supra note 13, at 55-56,78-79.
+ple, people are willing to pay more for a reduction of a risk from 0.1 to
+0.0 than from 0.3 to 0.1.41 The idea that the Clean Air Act would
+produce "safety" rather than "reduced risk" made it far easier to support
+and far harder to challenge.</p>
+      <p>Undoubtedly Congress believed that it was delegating to EPA the
+power to be reasonable rather than unreasonable, and in any case the
+Act allowed various safeguards in the event that compliance proved to
+be excessively costly.42 The most important safeguard has consisted in
+a form of (implicitly authorized) civil disobedience on the part of all
+relevant actors, including EPA. The result has been a complex
+program for nonattainment areas43 and a number of illuminating episodes;
+thus EPA was simply not prepared to shut down automobile traffic in
+Los Angeles, a step that would have been necessary to produce
+compliance with national air quality standards.'</p>
+    </sec>
+    <sec id="sec-21">
+      <title>Problemsand Puzzles</title>
+      <p>All of these points have created serious difficulties for EPA in
+practice. The first problem has to do with expense. For nonthreshold
+pollutants,45 it seems both natural and sensible to assess further
+reductions in terms of their cost. If, for example, the expense of reducing
+sulfur dioxide from 0.3 ppm to 0.2 ppm is trivial, then the reduction is
+almost certainly worthwhile (unless the dose-response curve has a
+most peculiar shape ). Even if there is little direct evidence of
+adverse human health effects at 0.2 ppm, this is likely to be because of
+the limited data, rather than because of an absence of such effects.
+But matters look very different if the cost would run into the tens of
+billions of dollars. When benefits are highly uncertain, it is peculiar to
+say that EPA cannot consider cost, especially since health gains are
+almost inevitable as permissible exposure levels decline.47
+41. See Kahneman &amp; Tversky, supranote 40, at 268-69.
+42. For an outline, see Union ElectricCo. v. EPA, 427 U.S. 246,266-69 (1976).
+43. See Clean Air Act, 42 U.S.C. §§ 7501-15 (1994).</p>
+      <p>44. See Krier, supranote 11, at 335-41 (describing EPA's abandonment of a 1973 plan to
+ration gasoline in the Los Angeles area).</p>
+      <p>45. These are pollutants that have some possibility of some adverse health impact at any
+exposure level above zero.</p>
+      <p>46. For example, one that would show no health benefits from a reduction from 0.3 ppm
+to 0.2 ppm, notwithstanding health benefits from a reduction from 0.4 ppm to 0.3 ppm.</p>
+      <p>47. As noted below, it seems that cost considerations were relevant to EPA's decision
+not to reduce the particulates standard further than it did, since some data indicated possibly
+significant benefits from further reductions. See infra app. tbl.11.</p>
+      <p>In light of this point, some critics have suggested that some kind of
+cost-benefit balancing inevitably occurs at EPA.' At least publicly,
+EPA denies this claim 9 Consider Administrator Browner's
+suggestion:</p>
+      <p>Costs of meeting the standards and related factors have never been
+considered in setting the national ambient air quality standards themselves
+....[T]he focus has been entirely on health, risk, exposure and damage
+to the environment .... And the American public deserves to know
+whether the air in its cities and counties is unsafe or not; that question
+should never be confused with the separate issues of how long it may
+take or how much it may cost to reduce pollution to safe levels. Indeed,
+to allow costs and related factors to influence the determination of what
+levels protect public health would be to mislead the American public in a
+very fundamental way5</p>
+      <p>Only insiders know for certain whether EPA does in fact consider
+costs in issuing national ambient air quality standards 1 But consider,
+by way of contrast and as a possible clue, the Administrator's
+explanation of the 1979 revision of the ozone standard:</p>
+      <p>The Clean Air Act, as the Administrator interprets it, does not permit
+him to take factors such as cost of attainment or attainability into
+account in setting the level of the standard; the standard is to be one that
+will adequately protect public health ....[He] recognizes... that
+controlling CO to very low levels is a task that can have significant impact on
+economic and social activity. This recognition causes [him] to reject as
+an option the setting of a zero-level standard ....However, it is public
+health, and not economic impact, that must be the compelling factor in
+the decision.52
+48. See, e.g., George Eads, The Confusion of Goals andInstruments: The Explicit
+Considerationof Cost in Setting NationalAmbientAir QualityStandards,in To BREATHE
+FREELY: RISK, CONSENT, AND AiR 223,227-29 (Mary Gibson ed., 1985). See also the
+suggestion in Farber, supranote 11, at 315-18, about the distinctive "slippage" between law and
+reality in the context of environmental law.</p>
+      <p>51. As noted, EPA's failure to require more stringent regulation of particulates provides
+some evidence of cost consideration. On EPA's own numbers, more stringent regulation
+might have provided $4 billion in increased benefits. See infra app. tbl.11. If these benefits
+were possible, why did EPA not require greater stringency, if not because of some cost
+consciousness?</p>
+      <p>52. Carbon Monoxide: Proposed Revisions to the National Ambient Air Quality
+Standards and Announcement of Public Meetings, 45 Fed. Reg. at 55,072.</p>
+      <p>This explanation, difficult to follow though it is, is most naturally
+taken as a suggestion that despite the nominal irrelevance of cost,
+costs do matter in the context of standard-setting for nonthreshold
+pollutants.</p>
+      <p>The second problem has to do with federalism. The Act requires
+uniform national standards; but in practice, EPA authorizes a
+considerable amount of variation among states. For example, there is little
+question that the exceedingly high costs of attainment will, for many
+states, produce frequent violations of national requirements - and
+this has in fact turned out to be the case5 Several decades after the
+initial issuance of ambient air quality standards for ozone, for
+example, over 50 million people live in areas that are frequently in violation
+of national standards? 4 Smaller numbers - but still many millions
+of people live in nonattainment areas for other pollutants.</p>
+      <p>The upshot is that national standards have mostly served not as
+real law, but as targets or aspirations6 - flexible goals to which the
+federal government can point without, however, insisting on
+compliance unless or until it is reasonable. This aspirational quality of
+national standards has led Congress to enact an increasingly complex set
+of provisions for nonattainment areas, provisions that anticipate
+compliance in certain areas over a period of many years and that, in
+practice, therefore recognize the existence of reasonable variations across
+states5. 7 Indeed it is contemplated, by the 1990 revision of the Act,
+that one of the nation's largest urban areas, Los Angeles, will not be in
+compliance until 2010 at the earliest5.</p>
+      <p>This point leads to a more general one, bearing on cost-benefit
+balancing as well as on federalism. EPA's official position that
+standard-setting is cost-blind is complemented by explicit statements
+to the effect that cost, efficiency, and feasibility are relevant in making
+45.</p>
+      <p>57. The Clean Air Act, 42 §§7401-7671q (1994), contains these nonattainment
+provisions at 42 U.S.C. §§ 7501-15, especially at § 7511.</p>
+      <p>58. See 42 U.S.C. § 7511.
+choices about compliance.5 9 In a way these statements are puzzling,
+for the Supreme Court has held that cost, and infeasibility, are
+irrelevant to EPA's decision whether to approve state implementation
+plans.' But EPA appears to acknowledge that state implementation
+plans will themselves consider costs, and also that cost will be relevant
+in setting schedules for compliance.61</p>
+      <p>Finally, EPA must make hard choices about how safe is safe
+enough, an important question in light of the artificiality of the idea
+that air is either "safe" or "unsafe." EPA's choices involve not merely
+the facts, but also evaluative judgments about acceptable degrees of
+risk. A central question has to do with the ingredients of any
+judgment that a certain risk is too high. There are many important
+questions here, which include:6'
+*The size of the population at risk, that is, whether 100,000, a
+million, or tens of millions of people are at risk.63
+*The nature of the population at risk - for example, whether it
+involves a large number of children, whether only elderly people
+are affected, whether those affected have a preexisting condition,
+such as asthma.' An important question is whether any "lives
+saved" number would involve young people or old people; there
+is less need for a policy that would (say) increase life expectancy
+by one year for those over 80 than for a policy that would
+increase life expectancy by sixty years for those under 10. This
+point suggests that EPA might reasonably concern itself not with
+lives saved, but with life-years saved, a point to which I will
+return.6
+*The likelihood of harm for particular members of the affected
+population, that is, whether the likelihood of incurring harm is 1
+in 1,000, 1 in 10,000, or 1 in a million.' Thus, for example, the
+plurality of the Supreme Court held in Industrial Union
+Depart59. See Clean Air Hearings,supra note 50, at 282-83 (statement of Carol M. Browner,
+Administrator, EPA).</p>
+      <p>60. See Union Electric Co. v. EPA, 427 U.S. 246,265 (1976).</p>
+      <p>61. See ROBERT PERCIVAL ET AL., ENVIRONMENTAL REGULATION 123-24 (Supp.
+1998) (outlining EPA's "Common Sense Implementation Plan").</p>
+      <p>62. See American Trucking Ass'n v. EPA, 175 F3d 1027,1039 (D.C. Cir. 1999) (per
+curiam).</p>
+      <p>63. See, e.g., R. SHEv MELNICK, REGULATION AND THE COURTS: THE CASE OF THE
+CLEAN AIR Acr 275-76 (1983) (discussing lead). The importance of considering population
+size is stressed in JAMES T. HAMILTON &amp; W. KIP VISCUSI, CALCULATING RISKS? 91-108
+(1999).</p>
+      <p>64. See MELNICK, supra note 63, at 275-76.
+65. See infraSection VLA.4.</p>
+      <p>66. See Clean Air Hearings,supra note 50, at 280-81 (statement of Carol M. Browner,
+Administrator, EPA).
+ment v. American Petroleum Institute ("Benzene Case")67 that
+OSHA may regulate only "significant risks," and that a risk of
+one in a billion could not count as significant.' OSHA now
+concludes that a lifetime annual risk of 1.64/1,000 would count as
+significant. 9 But undoubtedly the importance of addressing such a
+risk will depend on other factors, notably including the size of the
+affected population.
+oThe severity of the risk - for example, whether it involves cancer
+or mortality risks, or increased hospital admissions, bronchitis,
+respiratory symptoms, lost work days, or what EPA calls minor
+restricted activity days."</p>
+      <p>Although EPA considers all of these questions in issuing national
+standards,71 it has developed no clear guidelines to discipline its
+judgment about when one or another level of regulation is appropriate. It
+has not said, for example, that if 100,000 people face a cancer risk of
+1/1,000, regulation is presumptively desirable, but if 10,000 face a
+1/1,000 chance of minor respiratory problems, regulation is
+presumptively not desirable.7 2 A reading of EPA's voluminous documents on
+the major air pollutants provides an enormous amount of data, but
+little information on the answers that would trigger a decision to
+increase or decrease regulation. As we will see, all of the various points
+noted above might reasonably be turned into a kind of global figure,
+for example "quality-adjusted life years," designed to quantify the
+various benefits from regulation.73</p>
+      <p>One final note: An obvious and important question has to do with
+the distributional effects of national ambient air quality standards.
+Who bears the costs? Who receives the benefits? Full information is
+not available. But an early study finds that under the Act, poor
+people, and African Americans, are net gainers, whereas wealthy people,
+and whites, are net losers74 - perhaps not a shocking finding in light
+of the fact that many of the adverse effects of air pollution are
+concentrated in large cities.</p>
+      <p>In sum: The Act has produced many improvements in air quality,
+but the questions about federalism, cost-benefit analysis, and the
+concept of "safety" raise serious concerns about the Act and about EPA
+performance. As we will see, these criticisms have implications for the
+constitutionality of the Act and the resurgence of the nondelegation
+doctrine, as well as for more general concerns of democracy and
+accountability.</p>
+    </sec>
+    <sec id="sec-22">
+      <title>B. Revising NationalStandards- and the Tyranny of the Status Quo</title>
+      <p>In 1971, EPA issued six national standards, governing ozone,
+particulates, sulfur oxides, nitrogen oxides, carbon monoxide, and total
+suspended particulates IV' In 1978, EPA issued a seventh standard,
+involving lead; it did so as a result of a court order.76 These seven
+regulations amount to the centerpiece of EPA's regulatory system for
+the control of national ambient air quality.</p>
+      <p>Of course it would be extremely surprising if the standards
+originally adopted in 1971 and 1978 turn out to survive new scientific
+evidence, and many people have urged that adjustments are desirable, in
+the direction of both tightening and loosening existing requirements.
+Congress has thus created an "agency-forcing" mechanism designed to
+require EPA reconsideration of primary and secondary standards.
+Under the Act, EPA is required to review the relevant criteria and
+standards at least once every five years, and to revise them "as
+appropriate" under the statutory guidelines.' EPA is specifically required
+to consider, and to explain any significant departures from, the
+recommendations of the Clean Air Scientific Advisory Committee
+("CASAC"), an independent committee established specifically in
+order to advise the Administrators on air quality criteria and standards.78
+A great deal of time and expense is necessary to respond to new
+scien74. See Henry M. Peskin, EnvironmentalPolicy and the Distribution of Benefits and
+Costs, in CuRRENT IssuEs IN ENVIRONMENTAL POLIcY 144, 147-59 (Paul Portney ed.,
+1978).</p>
+      <p>
+        75. See infraapp. for details.
+76. See id
+77. See CleanAir Act, 42 U.S.C. § 7409(d)(
+        <xref ref-type="bibr" rid="ref12 ref16 ref52 ref64 ref7">1</xref>
+        ) (1994).
+78. See 42 U.S.C. §§ 7409(d)(
+        <xref ref-type="bibr" rid="ref13 ref17 ref53 ref70 ref8">2</xref>
+        )(B), 7607(d)(
+        <xref ref-type="bibr" rid="ref18 ref60 ref63 ref87">3</xref>
+        ).
+the agency can show that without such rules, people will face serious
+risks of one kind or another; the "remand without vacating" approach
+makes best sense when the agency may well be able to justify its action
+on remand. Both of these ideas are designed to ensure that rules that
+are highly likely to be reasonable are not struck from the books, in a
+way that could produce serious problems. Properly understood, they
+do not allow agencies to proceed with inadequately justified rules if it
+appears unlikely that those rules could be lawfully explained, or if it
+appears that little will be lost with invalidation.
+      </p>
+      <p>Hence we arrive at an appropriate approach to these cases, one
+with general application: The rules should be held unlawful, and
+remanded to the agency; but they should not be vacated, at least when
+the agency can show (a) that it may be able to generate a justification
+that will satisfy judicial review, and (b) that invalidation of the rule
+may generate significant risks (by, for example, allowing people to be
+exposed to nontrivial dangers, or by preventing the agency from
+initiating a program for reducing such risks)?'° After the agency attempts
+to justify its regulation on remand, its decision may be appealed to the
+court, which can evaluate the new justification and uphold or
+invalidate the regulation as appropriate. An approach of this kind seems
+especially sensible for the particulates regulation, which is designed to
+counteract what, on a reasonable reading of the evidence, count as
+quite serious risks to life and health. The problem with invalidation is
+that it would prevent the agency from beginning implementation and
+require the agency to start largely from scratch, a process that may
+require years or more of rulemaking activity. A remand without
+invalidation would allow the agency to proceed if (as appears quite
+possible) the regulation can be adequately defended by reference to the
+criteria I have outlined. Things are more difficult for ozone, because
+the risks are far lower, and because nonregulation may actually
+produce health benefits; 1' but here as well, a remand without invalidation
+would probably be the best way to proceed.</p>
+      <p>It would be possible to object that the technique of "remand
+without invalidation" creates unfortunate incentives for administrators,
+above all because it permits the continued legality and even the
+enF.3d 1129,1135 (D.C. Cir. 1995); ChemicalMfrs. Ass'n, 28 F.3d at 1268; Checkosky, 23 F.3d
+at 462-65; Allied-Signal, Inc. v. NRC, 988 F.2d 146,150-51 (D.C. Cir. 1993) (announcing that
+court will not vacate rules because of inadequacy in agency reasoning if agency has a serious
+possibility of correcting the deficiency on remand and vacation may be disruptive); Mid-Tex
+Elec Coop., 822 F.2d at 1132-34.</p>
+      <p>300. Some support for EPA's choices here, though to be sure not decisive, comes from
+the fact that California made quite similar decisions not less than a decade ago. See James
+M. Lents, A Review of NationalOzone and ParticulateMatterAir Quality StandardsIn Light
+of Long-Standing CaliforniaAir QualityStandards,11 TUL. ENViL. L.J. 415,421-23 (1998).
+301. See infraSection VI.A.5.
+forcement of rules that have been found to be inadequately justified
+(and that may not ultimately survive review). The enforcement of
+these rules may cost millions and even billions of dollars. If so, isn't
+invalidation preferable? To be sure, a system in which inadequately
+justified rules are invalidated would create more pressure to produce
+adequate justifications in the first instance. But the proper response
+to this concern is not to invalidate all inadequately justified rules, but
+to restrict the "remand without invalidation" technique to special
+circumstances, above all (a) to rules that might well turn out to be valid
+(b) in conditions in which invalidation would produce serious
+problems for the legitimate policies that underlie the rules in question. The
+court of appeals for the D.C. Circuit has made considerable progress
+in drawing the necessary lines.'</p>
+      <p>There is a broader point in the background here. The techniques
+of remand without invalidation, and of allowing interim rules, can be
+seen as a form of administrative law "minimalism," akin to judicial
+minimalism in constitutional law generally." 3 Such techniques do no
+more than is necessary to resolve a case. Indeed, these forms of
+minimalism are democracy-reinforcing insofar as they attempt to ensure
+that agency decisions are based on grounds that are both transparent
+to the public and sufficient to justify the regulation in light of statutory
+criteria.</p>
+    </sec>
+    <sec id="sec-23">
+      <title>A Health-HealthWrinkle</title>
+      <p>A difficult question, not addressed thus far, is raised by a particular
+claim with respect to EPA's ozone regulation: that ground-level
+ozone has health benefits, and that these benefits were not taken into
+account by the agency. There is evidence that ozone reduces the risk
+of both cataracts and cancers.3" If taken into account, the health
+benefits of ozone at current levels may well be roughly equivalent to
+the health costs. But EPA refused to consider those health benefits.
+In an interesting application of "health-health" analysis, the court of
+appeals held that the refusal was unlawful. 5</p>
+      <p>In general, it is right to say that agencies should be required to take
+account of the health problems sometimes produced by regulation
+de302. See Davis County, 108 F.3d at 1457; AMA, 57 F.3d at 1135; Allied Signal, 988 F.2d
+at 150-51 (announcing that a court will not vacate rules because of inadequacy in agency
+reasoning if agency has a serious possibility of correcting the deficiency on remand and vacation
+may be disruptive).</p>
+      <p>303. See SUNSTEIN, supranote 6, at 3-72.
+304. See Lutter &amp; DeMuth, supranote 8, at 10.</p>
+      <p>305. See American Trucking Ass'ns v. EPA, 175 F.3d 1027, 1051-52 (D.C. Cir. 1999)
+(per curiam).
+signed to reduce health problems. This kind of health-health tradeoff
+can take many different forms.' In typical cases, the regulation of
+one risk, like that associated with asbestos, may give rise to further
+risks as a result of the substituted products. The most adventurous
+claims for "health-health" comparisons arise when a costly regulation
+imposes health risks simply by virtue of its cost2l If a regulation
+produces less employment and more poverty, it may result in worse
+health as well. But these are adventurous claims, because they depend
+on contentious projections about the disemployment effects of
+particular regulations.</p>
+      <p>For the ozone rule, the argument for taking health-health tradeoffs
+into account seemed especially insistent, for the claim was far from
+indirect, and there was nothing speculative or abstruse about the causal
+chain. If ozone protects against cancers and cataracts, it is possible
+that a regulation of ozone will cause serious health problems. The text
+of the Act is quite ambiguous on the point, and the court was wrong to
+say that it unambiguously required the agency to address the
+beneficial effects of air pollutants.RE But the court was right to hold that
+even if it was ambiguous, the agency interpretation was unreasonable.
+The rule was properly found inadequately justified on this ground, and
+it may well be that after remand, the agency will be unable to explain
+any failure to take account of the effects of ozone in combating
+cataracts and cancer.</p>
+      <p>There is of course a commonality between the approach taken by
+the American Trucking court and the approach I am suggesting.
+Where the American Trucking court said that the ambient air quality
+standards provisions of the Clean Air Act are unconstitutional unless
+EPA imposes limits on its own discretion, I have argued that ambient
+air quality standards are valid if, and only if, EPA is able to generate a
+"benefits analysis" that operates to constrain EPA discretion and to
+promote interregulation consistency. The goals of the two approaches
+are quite close. The disadvantage of the American Trucking approach
+is that it involves unnecessary, even reckless, use of the Constitution
+- and does so in a way that threatens to raise too many questions
+about too many statutes. By contrast, the approach I have suggested
+has firm roots in the APA and in existing doctrine, and promises to
+306. See JOHN D. GRAHAM &amp; JONATHAN B. WIENER, RISK vs. RISK 247-68 (1995);
+CASS R. SUNsTEIN, Health-HealthTradeoffs, in FREE MARKETS AND SOCIAL JuSTICE 298,
+298-317 (1997).</p>
+      <p>307. See SUNSTEIN, supranote 306, at 298-317.
+308. SeeAmerican Trucking,175 F.3d at 1051-52.
+improve regulatory practice without calling for an excessive judicial
+role.</p>
+    </sec>
+    <sec id="sec-24">
+      <title>Congress: Safety and Its Cost</title>
+      <p>Should Congress amend the national ambient air quality provisions
+of the Clean Air Act? This is not the place for an extended discussion
+of that question; but the analysis thus far suggests three possibilities.</p>
+    </sec>
+    <sec id="sec-25">
+      <title>How Safe Is Safe Enough?</title>
+      <p>As emphasized throughout, a crucial defect of the national
+ambient air quality provisions is that they seem to assume that whether air
+is "safe" can be assessed solely on the basis of the facts. The truth is
+that the facts might be able to show the degree of risk (at least within a
+range), but they cannot show whether any particular degree of safety
+is "safe enough." Whether or not pollutants lack safe thresholds, "the
+paradigm of selecting a standard at the lowest-observable-effects-level
+and then providing an 'adequate margin of safety' is not possible."3" 9
+The result of the statutory framework is to misframe the key question
+and also to give EPA little guidance for answering and asking that
+question. As we have seen, EPA has greatly struggled with the
+resulting difficulties.</p>
+      <p>Congress should amend the statute to identify the factors for EPA
+to consider in making the judgment about appropriate national
+standards. Congress might offer substantive guidance by saying, for
+example, that EPA must consider risk severity, size of affected
+population, and likelihood of adverse effects at various exposure levels. On
+the procedural side, it might require EPA to identify, to the extent
+possible, the nature of the risks that it is reducing, and at the same
+time to attempt to quantify the relevant risk reductions. The strongest
+argument against an amendment to this effect is that it is unnecessary;
+if EPA moved in the directions suggested above, it would essentially
+be interpreting the current statute as if it contained instructions of
+exactly this sort. But an amendment of this kind would at least provide a
+clear legislative signal, and move EPA judgments in the direction of
+greater transparency.</p>
+      <p>309. See EPA's Rulemakings on the NationalAmbient Air Quality Standardsfor
+Particulate Matterand Ozone: HearingsBefore the Subcomm. on CommercialandAdmin. Law
+of the House Comm. on theJudiciary,105th Cong. 89 (1997) (prepared statement of George
+T. Woolf, Former Chairman, EPA's Clean Air Scientific Advisory Committee).</p>
+      <p>We now know that significant cost savings can be achieved by
+using more flexible, market-oriented instruments, such as tradable
+pollution permits rather than uniform national requirements?10 Sometimes,
+however, EPA does not choose such instruments even when it is
+legally authorized to do so.31 It would make sense to amend the statute
+to require EPA, wherever feasible, to use economic incentives rather
+than a "command-and-control" approach? 2</p>
+      <p>It is clear that an approach of this kind could save substantial
+resources, and if the instruments are properly chosen, it should do so
+without at the same time compromising air quality goals."3 An effort
+to encourage EPA to select less burdensome alternatives could send a
+desirable signal to attempt the least-cost methods of obtaining
+regulatory goals, and might in addition spur creative experimentation.
+3.</p>
+    </sec>
+    <sec id="sec-26">
+      <title>Costs and Benefits</title>
+      <p>A possible lesson of EPA experience with national standards is
+that EPA should be required or at least permitted to consider costs
+when setting such standards. Indeed, it is not entirely clear that the
+statute should be construed to forbid cost-benefit analysis from
+EPA, 14 though lower courts have unanimously concluded otherwise.1 5
+If the Supreme Court does not reject the lower courts' view, it is worth
+giving serious consideration to a statutory change.</p>
+      <p>The basic reasoning here is straightforward. If a reduction from
+0.08 to 0.07 would be a trivial expense, surely it should be required; if
+it would cost billions of dollars, there had better be good grounds to
+believe very substantial health benefits would follow. A possible
+argument to the contrary is that national standards operate as
+aspirations, not ordinary law, and aspirations, at least, should be set on a
+health-only basis - not because there is a magic place where air
+quality is "safe," but because it is valuable to obtain, and use, a
+technocratic judgment that people should have air quality of a certain
+specified sort 16 The problem is that it is impossible to assess "safety" in a
+cost vacuum. In general, cost-benefit analysis should be followed,
+acknowledging that it will raise some hard questions of value.317</p>
+      <p>The best argument against an amendment to require cost-benefit
+analysis is that the statute, complex as it is, actually embodies a better
+accommodation of costs and benefits than would a statute that
+required cost-benefit analysis at the level of standard-setting.31 On this
+view, the optimal system is one in which EPA makes an initial, purely
+health-based judgment, and then the process of implementation allows
+costs to play a role at various stages, emphatically including an
+expectation that implementation will not be immediate and will in fact be a
+product of a continuing inquiry into whether compliance is
+worthwhile, P things considered.1 9 A possible virtue of this state of affairs
+is precisely the aspirational quality of the health-based standard,
+setting a target against which various state performances can be
+measured. The aspirational quality can also contribute to
+technology316. See the quotation from Administrator Browner, supra text accompanying note 50.
+Administrator Browner goes on to say:</p>
+      <p>While cost-benefit analysis is a tool that can be helpful in developing strategies to implement
+our nation's air quality standards, we believe it is inappropriate for use to set the standards
+themselves. In many cases, cost-benefit analysis has overstated costs. In addition, many
+kinds of benefits are virtually impossible to quantify - how do I put a dollar value on
+reductions in a child's lung function or the premature aging of lungs or increased susceptibility to
+respiratory infection?
+CleanAir Hearings,supra note 50, at 282 (statement of Carol M. Browner, Administrator,
+EPA). Ironically, the Regulatory Impact Analysis required by President Clinton engages in
+monetization of just this kind. See generallyinfraapp.</p>
+      <p>317. See Sunstein, supra note 274. A good treatment of some of the questions of value
+can be found in recent testimony of Richard Revesz. See Clean Air Act Authorizations:
+HearingsBefore the Subcomm. on CleanAir, Wetlands, PrivateProperty,and NuclearSafety,
+106th Cong. (1999) (Testimony of Richard L. Revesz), availablein LEXIS.COM, Legislation
+&amp; Politics Library, U.S. Congress Folder, Federal Document Clearing House Congressional
+Testimony File.</p>
+      <p>318. This seems to be the conclusion of William F. Pedersen, Science and PublicPolicy:
+A Case Study of the CleanAirAct, 16 PACE ENVT'L L. Rnv. 15 (1998). Pedersen argues that
+a purely health-based standard can force technological innovation, see id. at 23-24, and also
+stimulate and focus public debate, see id. at 22-23; he ends with the interesting suggestion
+that EPA should be required to set standards "tight enough to protect against all clearly
+demonstrated health or welfare effects," but that EPA should be allowed to consider costs
+and technical feasibility in choosing the "margin of safety," id. at 30.</p>
+      <p>319. See Farber, supra note 11, at 315-18, for an illuminating discussion of this point.
+forcing, an important and often highly desirable phenomenon in
+environmental protection,3" and a phenomenon to which cost-benefit
+analysis is, at least in practice,321 unlikely to contribute.</p>
+      <p>In the abstract, it is hard to know whether this pragmatic argument
+is valid.31 What is clear is that the statutory scheme, pragmatically
+defensible as it may be, is far from transparent, and provides a set of
+confusing signals to the American public.</p>
+      <p>CONCLUSION</p>
+      <p>Whenever an agency issues a regulation designed to diminish risks
+to health, safety, or the environment, it should attempt to identify the
+gains sought by the particular regulation it has chosen, and it should
+compare these gains to those under at least two reasonable alternative
+regimes, one stricter and one more lenient. In this light, the most
+serious problem with EPA's performance in issuing national air quality
+standards is that it usually fails to explain, in simple, concise terms, its
+decision to require a particular level of ambient air quality.
+Sometimes EPA acts as if it were pursuing "safety" and ensuring "safe
+levels," without sufficiently acknowledging that for most pollutants, the
+serious question is what degree of safety. To its credit, EPA
+invariably offers extensive discussions of the underlying data, demonstrating
+that there is a genuine health risk at current levels. But to the extent
+that it provides an explanation of its particular choices, the discussion
+often involves little more than evidence of nontrivial adverse effects at
+those current levels - evidence that may well argue for a reduction
+from current levels, but does not by itself call for any particular
+regulatory standard.</p>
+      <p>In this Article, I have argued that EPA (and other agencies
+involved in similar tasks) should offer a detailed "benefits analysis."
+The central goal of this approach would be to create a kind of federal
+common law of environmental protection, generated in the first
+in320. Technology-forcing is not desirable if the costs of the forcing exceed the benefits
+if, for example, the new technology contributes little to air quality, but substantially
+increases prices and diminishes wages.</p>
+      <p>321. In principle, a competent cost-benefit analysis would include the costs (and
+benefits) of new technological developments, and indeed this issue is discussed in the particulates
+and ozone regulatory impact analysis. See RIA, supra note 70, ch. 11. The problem is that
+government is likely to have very little information about the cost of technological
+innovation, and industry is likely to overstate those costs by a significant amount. See W. Kip
+Viscusi, FATAL TRADEOFFS 161-80 (1993) (discussing substantial overstatement of
+compliance costs).</p>
+      <p>322. See the valuable article by James E. Krier, On the Topology of NationalStandards
+in a FederalSystem -And Why It Matters,54 MD. L. REV. 1226 (1995), a staunch and
+longtime defender of cost-benefit analysis for the Clean Air Act, who acknowledges the
+pragmatic possibility.
+stance by administrative agencies, and designed to promote
+consistency and rationality in the protection of health and safety. I have also
+defended a form of democracy-promoting minimalism for
+administrative law - the particular form of minimalism that is embodied in the
+remand, often (and increasingly) unaccompanied by invalidation.</p>
+      <p>The Clean Air Act should not be held unconstitutional, and EPA
+should not be required, on pain of constitutional invalidation, to come
+up with a "generic unit of harm" to encompass population affected,
+severity, and probability. The new nondelegation doctrine is a large
+mistake. On the other hand, ordinary judicial review should require
+any national ambient air quality standard to be accompanied by an
+adequate explanation of why that level, rather than one more or less
+stringent, has been selected. By itself, this requirement calls (to the
+extent feasible) for a high degree of quantification from EPA; it also
+bears on the performance of other regulatory agencies entrusted with
+the task of protecting health, safety, and the environment. It calls for
+invalidation, and not merely remand, where the agency is unable to
+offer an explanation of its choice of one level of regulation rather than
+another. A requirement of this kind would mark a key moment in the
+shift from the rigidity and simplicity of 1970s environmentalism
+toward a new and more promising approach - one that places a high
+premium on assessing the magnitude of problems, ensuring
+consistency across regulations, limiting interest-group power, acquiring
+better information, and authorizing democratic control of regulatory
+choices.</p>
+      <p>My principal claim here is that both courts and EPA should
+construe the Act so as to prevent regulation of small risks and so as to
+require regulation of substantial risks - and EPA should explain, as
+quantitatively as possible, what must be shown in order for a risk to
+qualify, or not to qualify, as substantial. It is excessive, a form of
+rhetoric, to say that on EPA's view, it is entitled to choose any level
+between zero risk and a level slightly below "London's Killer Fog."
+But it is not a form of rhetoric to think that if EPA has not limited its
+own discretion by speaking in less conclusory terms, the Clean Air Act
+raises problems for both regulatory policy and democratic
+selfgovernment. The ultimate goal of the forms of the
+democracypromoting minimalism that I have endorsed here would be to ensure
+better policy analysis and greater transparency of decision, in a way
+that should simultaneously promote democratic, economic, and air
+quality goals.</p>
+      <p>APPENDIX
+not to be exceeded more than once per year. 36 Fed. Reg.
+8186, 8187 (1971).
+b. September 13, 1985: EPA retains the primary standard and
+revokes the secondary standard. 50 Fed. Reg. 37,484
+(1985).
+c. August 1, 1994: EPA announces its decision to retain the
+current primary standard for carbon monoxide. There is no
+secondary standard for carbon monoxide. 59 Fed. Reg.
+38,906,38909-11 (1994).
+6. Lead:
+a. October 5, 1978: EPA promulgates standards for lead at
+the level of 1.5 jig Pb/M3. 43 Fed. Reg. 46,246 (1978).
+b. November 5, 1997: EPA publishes final rule for lead, 62
+Fed. Reg. 59,813, 59,813-14 (1997), but withdraws it on Dec.
+23, 1997, due to adverse comments, 62 Fed. Reg. at 67,009.
+c. January 20, 1999: EPA issues final rule. 64 Fed. Reg. 3030,
+3030-31 (1999).
+(Note: The following tables are taken verbatim from the EPA's</p>
+      <p>Regulatory Impact Analysis, as noted in the text.)
+323. RIA, supra note 70, at 12-45, tbl.12.6. Numbers may not completely agree due to
+rounding.</p>
+      <p>324. Only endpoints denoted with an * are aggregated into total benefits estimates.
+325. Mortality estimates must be aggregated using either short-term exposure or
+longterm exposure but not both, due to double-counting issues.</p>
+      <sec id="sec-26-1">
+        <title>INCIDENCE REDUCIONS32</title>
+        <p>Estimates are incremental to the current ozone NAAQS (year = 2010)
+Ozone Health:</p>
+        <p>*1.Mortality
+Hospital Admissions
+*2. all respiratory (all ages)
+all respiratory (ages 65+)
+pneumonia (ages 65+)
+COPD (ages 65+)
+620
+1
+60
+180
+400
+70
+50
+20
+10
+10
+10
+290</p>
+        <p>Low- to
+Highend Est.</p>
+        <p>0-80
+300 -300
+2,330 - 2,330
+870 - 870
+260 -260
+130 - 130
+29,840 - 29,840
+60 -60
+650-650
+1-1
+0-80
+0-250
+0 -530
+0-90
+0 -60
+0-20
+0 -20
+0-20
+0-20
+0-400</p>
+        <p>Max
+High-end</p>
+        <p>Est.
+120
+420
+1,570
+600
+200
+180
+42,070
+90
+920
+2
+110
+340
+690
+120
+80
+30
+20
+20
+20
+530
+326. RIA, supra note 70, at 12-47, tbl.12.8. Numbers may not completely agree due to
+rounding.</p>
+        <p>327. Only endpoints denoted with an * are aggregated into total benefits estimates.
+328. PM mortality estimates must be aggregated using either short-term exposure or
+long-term exposure but not both, due to double-counting issues.</p>
+        <p>ENDPOINTV327
+*7. Lower Respiratory Symptoms
+*8. Upper Respiratory Symptoms
+shortness of breath
+asthma attacks
+*9. Work Loss Days
+*10. Minor Restricted Activity Days
+("MIRADs")
+$2.50 per household per jig/m3
+*See the Benefits TSD for citations (U.S. EPA, 1997a).
+329. RIA, supranote 70, at 12-41, tb.123.</p>
+      </sec>
+      <sec id="sec-26-2">
+        <title>INCIDENCE REDUCTIONS330</title>
+        <p>Annual PM,, (pgm)
+Daily PM., (pgm)</p>
+        <sec id="sec-26-2-1">
+          <title>ENDPOINV 31</title>
+          <p>*L Mortaity332: short-term exposure
+330. RIA, supra note 70, at 12-46, tbl.12.7. Numbers may not completely agree due to
+rounding.</p>
+          <p>331. Only endpoints denoted with an * are aggregated into total benefits estimates.
+332. Mortality estimates must be aggregated using either short-term exposure or
+longterm exposure but not both, due to double-counting issues.
+TABLE 6: OZONE: NATIONAL ANNUAL MONETIZED HEALTH</p>
+          <p>BENEFITS ESTIMATES333
+Estimates are incremental to the current ozone NAAQS
+(0.12 ppm, 1-hour)
+(billions of 1990 $; year = 2010)</p>
+          <p>ENDPOINT
+$0.370
+$0.004
+$0.029
+$0.014
+$0.004
+$0.001
+$0.001
+$0
+$0
+$0.003
+$0.300
+$0.870
+$0.110
+$0.001
+$0.001
+$0
+$0
+$0
+$0
+$0
+$0
+$0.000 - $0.380
+$0.004 - $0.004
+$0.029 - $0.029
+$0.014 - $0.014
+$0.004 - $0.004
+$0.001 - $0.001
+$0.001 - $0.001
+$0 - $0.400
+$0- $1.210
+$0- $0.140
+$0- $0.001
+$0 - $0.001
+$0- $0
+$0 -$0
+$0 - $0
+$0- $0
+$0 - $0
+$0-s
+$0.570
+$0.006</p>
+          <p>$0
+$0.010
+$0.003
+$0.002
+$0.001
+$0
+$0
+$0.011
+$0.520
+$1.640
+$0.180
+$0.001
+$0.001
+$0
+$0
+$0
+$0
+$0
+$0
+333. RIA, supra note 70, at 12-48, tbl.12.9. Numbers may not completely agree due to
+rounding.</p>
+          <p>334. Only endpoints denoted with an * are aggregated into total benefits estimates.
+335. PM mortality estimates must be aggregated using either short-term exposure or
+long-term exposure but not both, due to double-counting issues.</p>
+          <p>ENDP
+*8. Upper Respiratory Symptoms
+shortness of breath
+asthma attacks
+*9. Work Loss Days
+*10. Minor Restricted Activity Days
+("MRADs")
+$0.790
+$1.400
+$0 - $0
+$0 - $0
+$0 - $0
+$0- $0.004
+$0-$0.016
+$0.056
+$1.785
+$0.020
+$1.300
+$2.400</p>
+          <p>Annual PM2 , (pg/m3)
+Daily PM. (pg/m)</p>
+          <p>Partial Attainment Scenario</p>
+        </sec>
+      </sec>
+      <sec id="sec-26-3">
+        <title>High-end Est. d</title>
+        <p>16
+65
+$83
+$7.5
+$90</p>
+        <p>Low- to
+HigEhs-te.nd
+15
+65
+$15 to $96
+$4.3 to $8.1
+$19 to $104
+igh-end</p>
+        <p>Est.
+50
+$99
+$9
+$107
+336. RIA, supra note 70, at 12-69, tbl.12.17. Numbers may not completely agree due to
+rounding.
+99TH
+PERCENTILE) SUMMARY OF NATIONAL ANNUAL MONETIZED</p>
+        <p>HEALTH AND WELFARE BENEFITS337</p>
+        <p>Annual PM0 (pgm 3)</p>
+      </sec>
+      <sec id="sec-26-4">
+        <title>Daily PM10 (pgm)</title>
+        <p>337. RIA, supra note 70, at 12-69, tbl.12.18. Numbers may not completely agree due to
+rounding.</p>
+        <p>338. RIA, supra note 70, at 12-70, tbl.12.19. Numbers may not completely agree due to
+rounding.</p>
+      </sec>
+      <sec id="sec-26-5">
+        <title>INCIDENCE REDUCTIONS339</title>
+        <p>Annual PM,. (pgm)</p>
+      </sec>
+      <sec id="sec-26-6">
+        <title>ENDPONl[r Daily PM[ (pg/m)</title>
+        <p>*1. Mortality1: short-term exposure
+150
+360
+340
+6,800
+339. RIA, supra note 70, at 12-45, tbl.12.6. Numbers may not completely agree due to
+rounding.</p>
+        <p>340. Only endpoints denoted with an * are aggregated into total benefits estimates.
+341. Mortality estimates must be aggregated using either short-term exposure or
+longterm exposure but not both, due to double-counting issues.</p>
+      </sec>
+    </sec>
+    <sec id="sec-27">
+      <title>Nondelegation and EPA</title>
+      <p>ALTERNATIVES IN 2010 (1990 $)342
+(high-end estimate)
+Annual
+Benefits of Partial</p>
+      <sec id="sec-27-1">
+        <title>Attainment4 3</title>
+        <p>(billion$)
+(A)</p>
+        <p>Annual Costs</p>
+        <p>of
+Partial
+Attainment
+(billion $)
+(B)</p>
+        <p>Net Benefits</p>
+        <p>of
+Partial
+Attainment
+(billion $)
+(A - B)</p>
+        <p>Number of
+Residual
+Nonattainment
+Counties
+19-104
+5.5
+8.6
+10-95
+342. RIA, supra note 70, at 13-3, tbl.13.1. All estimates are measured incremental to
+partial attainment of the current PM, standard (PM, 501150, 1 expected exceedance per
+year). The results for 16165 and 15/50 are only for the high-end assumptions ranges. The
+low-end estimates were not calculated for these alternatives.</p>
+        <p>343. Partial attainment benefits based upon post-control air quality as defined in the
+control cost analysis.
+0.7- 1.0
+12
+17
+27
+344. RIA, supra note 70, at 13-4, tbl.13.2 All estimates are measured incremental to
+partial attainment of the current ozone standard (0.12 ppm, 1 expected exceedance per
+year). The results for 0.08, 5th max., and 0.08, 3rd max., are only for the high-end
+assumptions. The low-end estimates were not calculated for these alternatives.</p>
+        <p>345. Partial attainment benefits based upon post-control air quality as defined in the
+control cost analysis.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>ADMINISTRATIVE LAW .............................3.05............</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>A. BasicProposalsandFirstPrinciples...............</surname>
+          </string-name>
+          <year>3</year>
+          .
+          <issue>0</issue>
+          .
+          <fpage>5</fpage>
+          <string-name>
+            <surname>..........</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>B. The ClearAir Act ...........................3.07...........</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>C. A RemarkableDecision anda New</surname>
+            <given-names>Doctrine.........</given-names>
+          </string-name>
+          <year>3</year>
+          .
+          <issue>0</issue>
+          .
+          <fpage>9</fpage>
+          <string-name>
+            <surname>..........</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>D. GoalsandPlans............................</surname>
+          </string-name>
+          <year>3</year>
+          .
+          <issue>1</issue>
+          .
+          <fpage>1</fpage>
+          <string-name>
+            <surname>.......... II. THE CLEAN AIR ACT .................................</surname>
+          </string-name>
+          <year>3</year>
+          .
+          <issue>1</issue>
+          .
+          <fpage>3</fpage>
+          <string-name>
+            <surname>..............</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>A. SettingNationalStandards.....................</surname>
+          </string-name>
+          <year>3</year>
+          .
+          <issue>1</issue>
+          .
+          <fpage>3</fpage>
+          <string-name>
+            <surname>...........</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          1.
+          <string-name>
+            <given-names>The</given-names>
+            <surname>Key</surname>
+          </string-name>
+          <string-name>
+            <surname>Provisions.......................</surname>
+          </string-name>
+          <year>3</year>
+          .
+          <issue>1</issue>
+          .
+          <fpage>3</fpage>
+          <string-name>
+            <surname>...........</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          2.
+          <string-name>
+            <surname>ProblemsandPuzzles......................</surname>
+          </string-name>
+          <year>31</year>
+          .
+          <fpage>6</fpage>
+          <string-name>
+            <surname>...........</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Status Quo ................................</surname>
+          </string-name>
+          <year>32</year>
+          .
+          <fpage>1</fpage>
+          <string-name>
+            <surname>...........</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>C. The Record...............................</surname>
+          </string-name>
+          <year>3</year>
+          .
+          <issue>2</issue>
+          .
+          <fpage>2</fpage>
+          <string-name>
+            <surname>...........</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <given-names>D.</given-names>
+            <surname>Particulatesand</surname>
+          </string-name>
+          <article-title>Ozone at EPA: A Casein Point</article-title>
+          ......
+          <volume>3</volume>
+          .
+          <issue>2</issue>
+          .
+          <fpage>4</fpage>
+          ......
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          1. The New Standards: Massive ScientificEvidence....
+          <volume>3</volume>
+          .
+          <fpage>24</fpage>
+          ...
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          2.
+          <string-name>
+            <surname>Insufficient</surname>
+            <given-names>Considerationof the Alternatives.......</given-names>
+          </string-name>
+          <year>32</year>
+          .
+          <fpage>7</fpage>
+          <string-name>
+            <surname>....... IH.</surname>
+          </string-name>
+          <article-title>THE PATH OF THE LAW .</article-title>
+          <string-name>
+            <surname>...........................</surname>
+          </string-name>
+          <year>3</year>
+          .
+          <issue>3</issue>
+          .
+          <fpage>0</fpage>
+          <string-name>
+            <surname>............</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <given-names>Two</given-names>
+            <surname>Hundredand Two Bad</surname>
+          </string-name>
+          <string-name>
+            <surname>Years................3.30...........</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <given-names>B.</given-names>
+            <surname>What</surname>
+          </string-name>
+          ,If Anything,
+          <source>Is the NondelegationDoctrineFor?..3.3.5</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          1.
+          <string-name>
+            <surname>NondelegationValues ......................</surname>
+          </string-name>
+          <year>33</year>
+          .
+          <fpage>5</fpage>
+          <string-name>
+            <surname>...........</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          2.
+          <string-name>
+            <surname>Againstthe</surname>
+            <given-names>NondelegationDoctrine............</given-names>
+          </string-name>
+          <year>3</year>
+          .
+          <issue>3</issue>
+          .
+          <fpage>7</fpage>
+          <string-name>
+            <surname>...........</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          3.
+          <string-name>
+            <given-names>The</given-names>
+            <surname>Centralityof</surname>
+          </string-name>
+          <string-name>
+            <surname>Floorsand Ceilings............</surname>
+          </string-name>
+          <year>33</year>
+          .
+          <fpage>9</fpage>
+          <string-name>
+            <surname>........... IV.</surname>
+          </string-name>
+          <article-title>THE NEW NONDELEGATION DOcTRINE ..</article-title>
+          <string-name>
+            <surname>..............</surname>
+          </string-name>
+          <year>3</year>
+          .
+          <issue>4</issue>
+          .
+          <fpage>0</fpage>
+          <string-name>
+            <surname>............</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          10. See 42 U.S.C. §
+          <volume>7409</volume>
+          (a) (
+          <year>1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          11.
+          <string-name>
+            <surname>See James E. Krier</surname>
+          </string-name>
+          ,
+          <article-title>The IrrationalNationalAir Quality Standards: Macro-</article-title>
+          and
+          <string-name>
+            <surname>Micro-Mistakes</surname>
+          </string-name>
+          ,22 UCLA L. REV.
+          <volume>323</volume>
+          (
+          <year>1974</year>
+          ).
+          <article-title>For an instructive recent discussion of how the "slippage" between law on the books and law in the world actually allows a degree of flexibility, and converts seemingly rigid standards into a basis for negotiation and pragmatism, see Daniel A. Farber, Taking Slippage Seriously: Noncompliance and Creative Compliancein EnvironmentalLaw, 23 HARv</article-title>
+          . ENVTL. L. REv.
+          <volume>297</volume>
+          (
+          <year>1999</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          12.
+          <article-title>See American Trucking Ass'ns v</article-title>
+          .
+          <source>EPA</source>
+          ,
+          <volume>175</volume>
+          F.3d
+          <volume>1027</volume>
+          ,
+          <fpage>1040</fpage>
+          -41
+          <string-name>
+            <surname>(D.C. Cir</surname>
+          </string-name>
+          .
+          <year>1999</year>
+          )
+          <article-title>(per curiam); Lead Indus. Ass'n v</article-title>
+          .
+          <source>EPA</source>
+          ,
+          <volume>647</volume>
+          F.2d
+          <volume>1130</volume>
+          ,
+          <fpage>1148</fpage>
+          -56
+          <string-name>
+            <surname>(D.C. Cir</surname>
+          </string-name>
+          .
+          <year>1980</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          13.
+          <string-name>
+            <surname>See MARC K. LANDY</surname>
+          </string-name>
+          ET AL.,
+          <article-title>THE ENVIRONMENTAL PROTECTION AGENCY: ASKING THE WRONG QUESTIONS FROM NIXON</article-title>
+          TO CLINTON 49-
+          <issue>82</issue>
+          ,
+          <fpage>282</fpage>
+          -
+          <lpage>84</lpage>
+          (
+          <year>1994</year>
+          )
+          <article-title>(examining EPA's 1979 effort to revise the air quality standards for ozone and the Bush administration's attempt to win the support of the Science Advisory Board)</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          14. See id.;
+          <string-name>
+            <surname>C. Boyden Gray</surname>
+          </string-name>
+          ,
+          <source>The Clean Air Act Under Regulatory Reform</source>
+          ,
+          <volume>11</volume>
+          TUL. ENvrL. L.J.
+          <volume>235</volume>
+          ,
+          <issue>235</issue>
+          (
+          <year>1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          15. 42 U.S.C. §
+          <volume>7409</volume>
+          (
+          <article-title>b)(1).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          16.
+          <string-name>
+            <surname>See</surname>
+            <given-names>LANDY</given-names>
+          </string-name>
+          ET AL.,
+          <year>supranote</year>
+          13, at 282-
+          <fpage>84</fpage>
+          .
+          <article-title>The criticism is not sound as applied to the particulates and ozone regulations, where EPA noted diminishing risk with diminishing exposure levels; but here too, EPA's explanation leaves many open questions</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          21.
+          <string-name>
+            <surname>See</surname>
+            <given-names>A.L.A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Schechter Poultry</surname>
+          </string-name>
+          <article-title>Corp</article-title>
+          . v.
+          <source>United States</source>
+          ,
+          <volume>295</volume>
+          U.S.
+          <volume>495</volume>
+          (
+          <year>1935</year>
+          )
+          <article-title>; Panama Refining Co</article-title>
+          . v. Ryan, 293 U.S.
+          <volume>388</volume>
+          (
+          <year>1935</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          22. See International Union v.
+          <source>OSHA</source>
+          ,
+          <volume>938</volume>
+          F.
+          <year>3d</year>
+          1310
+          <string-name>
+            <surname>(D.C. Cir</surname>
+          </string-name>
+          .
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          34. American Trucking confirms this reading.
+          <source>See 175 F.3d 1027</source>
+          ,
+          <fpage>1040</fpage>
+          -41
+          <string-name>
+            <surname>(D.C. Cir</surname>
+          </string-name>
+          .
+          <year>1999</year>
+          )
+          <article-title>(per curiam). For the initial holding to this effect, see Lead Indus. Ass'n v</article-title>
+          .
+          <source>EPA</source>
+          ,
+          <volume>647</volume>
+          F.
+          <year>2d</year>
+          1130
+          <string-name>
+            <surname>(D.C. Cir</surname>
+          </string-name>
+          .
+          <year>1980</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          37.
+          <string-name>
+            <surname>EPA</surname>
+          </string-name>
+          <article-title>'s Rulemakings on the NationalAmbient Air Quality Standardsfor Particulate Matterand Ozone: HearingsBefore the Subcomm</article-title>
+          .
+          <source>on Commercial and Admin. Law of the House Comm. on the Judiciary, 105th Cong</source>
+          .
+          <volume>89</volume>
+          (
+          <year>1997</year>
+          )
+          <article-title>(prepared statement of George T</article-title>
+          . Woolf, Former Chairman,
+          <source>EPA's Clean Air Scientific Advisory Committee).</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          38.
+          <string-name>
+            <surname>See E. Donald</surname>
+          </string-name>
+          Elliott et al.,
+          <article-title>Toward a Theory of Statutory Evolution: The Federalization of EnvironmentalLaw, 1</article-title>
+          <string-name>
+            <surname>J.L. ECON.</surname>
+          </string-name>
+          &amp;
+          <source>ORG</source>
+          .
+          <volume>313</volume>
+          ,
+          <fpage>333</fpage>
+          -
+          <lpage>38</lpage>
+          (
+          <year>1985</year>
+          )
+          <article-title>(describing a "Politicians' Dilemma" that forced lawmakers to pass more stringent statutes than they originally wanted).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          39.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          , e.g., ida.t
+          <volume>336</volume>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          40. See Daniel Kahneman &amp; Amos
+          <string-name>
+            <surname>Tversky</surname>
+          </string-name>
+          ,
+          <source>Prospect Theory: An Analysis of Decision Under Risk</source>
+          ,
+          <volume>47</volume>
+          ECONOMETRIcA 263 (
+          <year>1979</year>
+          )
+          <article-title>; George Loewenstein et al</article-title>
+          .,
+          <source>Risk as Feelings</source>
+          (
+          <year>1999</year>
+          )
+          <article-title>(unpublished manuscript, on file with author).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          49. See Carbon Monoxide:
+          <article-title>Proposed Revisions to the National Ambient Air Quality Standards</article-title>
+          and Announcement of Public Meetings,
+          <volume>45</volume>
+          Fed. Reg.
+          <volume>55</volume>
+          ,
+          <issue>066</issue>
+          (
+          <year>1980</year>
+          )
+          <article-title>(to be codified at 40 C.F</article-title>
+          .R. pt.
+          <volume>50</volume>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          50. CleanAir Act:
+          <article-title>Ozone and ParticulateMatter Standards: HearingsBefoie the Subcomm</article-title>
+          . on CleanAir, Wetlands, PrivateProperty,and
+          <article-title>NuclearSafety of the Senate Env't and Pub</article-title>
+          .
+          <source>Works Comm, 105th Cong</source>
+          .
+          <volume>282</volume>
+          (
+          <year>1997</year>
+          )
+          <article-title>[hereinafter Clean Air Hearings] (statement of Carol M. Browner</article-title>
+          , Administrator, EPA).
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          53.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          , e.g.,
+          <source>Eads, supra note 48</source>
+          , at 1228-
+          <fpage>35</fpage>
+          ; John Dwyer,
+          <source>The Practiceof Federalism Under the Clean Air Act</source>
+          ,
+          <volume>54</volume>
+          MD. L. REV.
+          <volume>1183</volume>
+          (
+          <year>1995</year>
+          ); Farber, supra note 11, at 303-04; James Krier,
+          <article-title>On the Topology of Uniform EnvironmentalStandardsin a FederalSystem -</article-title>
+          And
+          <string-name>
+            <surname>Why It</surname>
+          </string-name>
+          Matters,
+          <volume>54</volume>
+          MD. L. REV.
+          <volume>1226</volume>
+          (
+          <year>1995</year>
+          )
+          <article-title>; see alsoJames A</article-title>
+          .
+          <string-name>
+            <surname>Henderson</surname>
+          </string-name>
+          , Jr. &amp;
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>N.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Pearson</surname>
+          </string-name>
+          , Implementing FederalEnvironmentalPolicies:
+          <source>The Limits of Aspirational Commands</source>
+          ,
+          <volume>78</volume>
+          COLJM. L. REV.
+          <volume>1429</volume>
+          (
+          <year>1978</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          54.
+          <string-name>
+            <surname>See</surname>
+            <given-names>J. CLARENCE DAVIES</given-names>
+          </string-name>
+          &amp;
+          <article-title>JAN MAZUREK, REGULATING POLLUTION: DoEs THE U</article-title>
+          .S.
+          <source>SYSTEM WoRK? 17 fig.1</source>
+          (
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          55.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          <article-title>iL (showing that about nine million people live in areas not meeting national standards for particulates, about eleven million live in areas not meeting national standards for carbon monoxide, and about five million live in areas not meeting standards for lead)</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          56. See Eads,supranote
+          <volume>48</volume>
+          , at 226; Henderson &amp; Pearson, supra note 53, at
+          <volume>1429</volume>
+          ,
+          <fpage>1442</fpage>
+          -
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          67. 448 U.S.
+          <volume>607</volume>
+          (
+          <year>1980</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>
+          68.
+          <string-name>
+            <surname>See</surname>
+            <given-names>IndustrialUnion</given-names>
+          </string-name>
+          ,448 U.S. at 612.
+        </mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>
+          69.
+          <string-name>
+            <surname>See</surname>
+            <given-names>Building</given-names>
+          </string-name>
+          &amp; Constrs. Trade Dep't v.
+          <source>Brock</source>
+          ,
+          <volume>838</volume>
+          F.2d
+          <volume>1258</volume>
+          ,
+          <string-name>
+            <surname>1265 (D.C. Cir</surname>
+          </string-name>
+          .
+          <year>1988</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>
+          70.
+          <string-name>
+            <surname>See U.S. EPA INNOVATIVE</surname>
+            <given-names>STRATEGIES</given-names>
+          </string-name>
+          &amp;
+          <article-title>ECONOMICS GROUP, OFFICE OF AIR QUALITY PLANNING &amp; STANDARDS, REGULATORY IMPAcT ANALYSES FOR THE PARTICULATE MATTER</article-title>
+          AND
+          <string-name>
+            <surname>OZONE NATIONAL AMBIENT AIR QUALITY STANDARDS AND PROPOSED REGIONAL HAZE RULE</surname>
+          </string-name>
+          12-
+          <fpage>43</fpage>
+          (
+          <year>1997</year>
+          )
+          <article-title>[hereinafter RIA]</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation>
+          71.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          , e.g.,
+          <article-title>The Science Behind EPA'sProposedRevisions to the NationalAmbient Air Quality Standardsfor Ozone and ParticulateMatter,PartsI-III: HearingsBefore the Subcomm</article-title>
+          .
+          <source>on Energy and Environment of the House Comm. on Science, 105th Cong</source>
+          .
+          <fpage>455</fpage>
+          -
+          <lpage>56</lpage>
+          (
+          <year>1997</year>
+          )
+          <article-title>("I determined that setting an appropriate air quality standard for a pollutant for which there is no discernible threshold means that factors such as the nature and severity of the health effects involved, and the nature and size of the sensitive populations exposed, are very important."); see also LADY</article-title>
+          ET AL.,
+          <source>supra note 13</source>
+          , at 44-82 (discussing ozone);
+          <source>MELNICK, supra note 63</source>
+          , at 269-76 (discussing lead).
+        </mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation>
+          72.
+          <string-name>
+            <surname>Compare</surname>
+            <given-names>OSHA</given-names>
+          </string-name>
+          ,
+          <article-title>which has said that if a risk is 1.64/1,000, regulation will be presumed desirable and the risk will be found significant</article-title>
+          .
+          <source>See infra note 243.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <mixed-citation>
+          73. See Richard Zeckhauser &amp; Donald
+          <string-name>
+            <surname>Shepard</surname>
+          </string-name>
+          ,
+          <article-title>Where Now for Saving Lives?, LAW &amp; CONTEMP</article-title>
+          . PROBS.,
+          <source>Autumn</source>
+          <year>1976</year>
+          , at 5, 11; see also American Trucking Ass'
+          <article-title>ns v</article-title>
+          .
+          <source>EPA</source>
+          ,
+          <volume>175</volume>
+          F.3d
+          <volume>1027</volume>
+          ,
+          <fpage>1039</fpage>
+          -
+          <lpage>40</lpage>
+          &amp; n.5
+          <string-name>
+            <surname>(D.C. Cir</surname>
+          </string-name>
+          .
+          <year>1999</year>
+          )
+          <article-title>(per curiam). 1</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <mixed-citation>
+          310.
+          <article-title>See generally NATIONAL ACADEMY OF PUBLIC ADMINISTRATION, THE ENVIRONMENT GOES TO MARKET (</article-title>
+          <year>1994</year>
+          ).
+          <source>See also supratext accompanying notes 88-90.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <mixed-citation>
+          311. See Gray,
+          <source>supra note 14</source>
+          , at 235-36.
+        </mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <mixed-citation>
+          312.
+          <string-name>
+            <surname>Cf Regulatory</surname>
+          </string-name>
+          <article-title>Reform: HearingsBefore the Senate Comm</article-title>
+          .
+          <source>on GovernmentalAffairs,104th Cong</source>
+          .
+          <volume>194</volume>
+          (
+          <year>1995</year>
+          )
+          <article-title>(statement of Jonathan B</article-title>
+          . Wiener)
+          <article-title>(urging general amendment to allow agencies to choose incentive-based regulation)</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <mixed-citation>
+          313.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          generally Robert W. Hahn &amp;
+          <string-name>
+            <surname>Gordon L. Hester</surname>
+          </string-name>
+          , Marketable Permits:
+          <source>Lessons for Theory and Practice</source>
+          ,16 ECOLOGY L.Q.
+          <volume>361</volume>
+          (
+          <year>1989</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref50">
+        <mixed-citation>
+          314.
+          <string-name>
+            <given-names>After</given-names>
+            <surname>Chevron</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>U.S.A.</surname>
+          </string-name>
+          , Inc. v. National Resources Defense Council, Inc., 467 U.S.
+          <volume>837</volume>
+          (
+          <year>1984</year>
+          ),
+          <article-title>ambiguities in the statute are to be resolved by the agency, and there is a good argument that the key provision of the Act is ambiguous. Recall that the statute requires standards to be set at a level "requisite to protect the public health," and it is not unreasonable to say that that level is at least partly a function of the costs of the regulation</article-title>
+          .
+          <article-title>What level is "requisite" may well depend on the costs as well as benefits of getting there. Ironically, however, the view that the agency can choose, or fail to choose, cost-benefit analysis seems to aggravate rather than to diminish the old nondelegation doctrine, even though an agency choice of that kind would seem to satisfy the new nondelegation doctrine. See Industrial Union v</article-title>
+          .
+          <source>OSHA</source>
+          ,
+          <volume>37</volume>
+          F.3d
+          <volume>665</volume>
+          ,
+          <fpage>669</fpage>
+          -70
+          <string-name>
+            <surname>(D.C. Cir</surname>
+          </string-name>
+          .
+          <year>1994</year>
+          )
+          <article-title>(concluding that the nondelegation problem would be eliminated if OSHA chose cost-benefit analysis).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref51">
+        <mixed-citation>315. See supranotes 34-35 and accompanying text</mixed-citation>
+      </ref>
+      <ref id="ref52">
+        <mixed-citation>
+          1.
+          <string-name>
+            <given-names>Particulate</given-names>
+            <surname>Matter</surname>
+          </string-name>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref53">
+        <mixed-citation>PM2.5:</mixed-citation>
+      </ref>
+      <ref id="ref54">
+        <mixed-citation>
+          <source>a. July</source>
+          <volume>18</volume>
+          ,
+          <year>1997</year>
+          :
+          <article-title>EPA sets a public health standard for fine</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref55">
+        <mixed-citation>
+          <source>particle pollution. 62 Fed. Reg</source>
+          .
+          <volume>38</volume>
+          ,
+          <issue>652</issue>
+          (
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref56">
+        <mixed-citation>
+          <string-name>
+            <surname>TotalSuspended Particulatesand PM10:</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref57">
+        <mixed-citation>
+          a.
+          <source>April</source>
+          <volume>28</volume>
+          ,
+          <year>1971</year>
+          :
+          <article-title>EPA promulgates the primary and secon-</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref58">
+        <mixed-citation>
+          <article-title>dary standards for particulate matter</article-title>
+          . Primary:
+          <volume>75</volume>
+          <fpage>micro</fpage>
+          -
+        </mixed-citation>
+      </ref>
+      <ref id="ref59">
+        <mixed-citation>
+          <article-title>grams per cubic meter - annual geometric mean; 260</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref60">
+        <mixed-citation>
+          <source>pg/m3</source>
+          , 24
+          <article-title>-hour average not to be exceeded more than once</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref61">
+        <mixed-citation>
+          <article-title>per year</article-title>
+          .
+          <source>Secondary: 150pg/m3 maximum 24-hour concen-</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref62">
+        <mixed-citation>
+          <article-title>tration not to be exceeded more than once per year; 60</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref63">
+        <mixed-citation>
+          <source>pg/m3 annual geometric mean. 36 Fed. Reg</source>
+          .
+          <volume>8186</volume>
+          ,
+          <fpage>8187</fpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref64">
+        <mixed-citation>
+          <source>b. July 1</source>
+          ,
+          <year>1987</year>
+          :
+          <article-title>EPA changes the indicator for PM from total</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref65">
+        <mixed-citation>
+          <article-title>suspended particles to PM10. 24-hour PM 0 of 150 ptg/n 3</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref66">
+        <mixed-citation>
+          <article-title>nual PM0 standard of 50 pg/m3 expected annual arithmetic</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref67">
+        <mixed-citation>
+          52 Fed. Reg.
+          <volume>24</volume>
+          ,
+          <issue>634</issue>
+          (
+          <year>1987</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref68">
+        <mixed-citation>
+          c.
+          <source>July</source>
+          <volume>18</volume>
+          ,
+          <year>1997</year>
+          :
+          <article-title>EPA promulgates regulation which is later</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref69">
+        <mixed-citation>
+          added,
+          <source>set at 15 pg/in and 65 pg/na3. 62 Fed. Reg. at 38</source>
+          ,
+          <fpage>652</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref70">
+        <mixed-citation>2. Ozone:</mixed-citation>
+      </ref>
+      <ref id="ref71">
+        <mixed-citation>
+          a.
+          <source>April</source>
+          <volume>30</volume>
+          ,
+          <year>1971</year>
+          :
+          <article-title>EPA promulgates first NAAQS for photo-</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref72">
+        <mixed-citation>
+          <source>chemical oxidants. 160 pg/m; 0</source>
+          .08 ppm maximum 1-hour
+        </mixed-citation>
+      </ref>
+      <ref id="ref73">
+        <mixed-citation>36 Fed. Reg. at 8187.</mixed-citation>
+      </ref>
+      <ref id="ref74">
+        <mixed-citation>
+          b.
+          <source>April 20</source>
+          ,
+          <year>1977</year>
+          :
+          <article-title>EPA reviews and updates criteria docu-</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref75">
+        <mixed-citation>
+          <source>ment. 42 Fed. Reg</source>
+          .
+          <volume>20</volume>
+          ,
+          <issue>493</issue>
+          (
+          <year>1977</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref76">
+        <mixed-citation>
+          <source>c. February 8</source>
+          ,
+          <year>1979</year>
+          :
+          <article-title>EPA revises primary standard to 0.12</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref77">
+        <mixed-citation>
+          <article-title>ppm and sets secondary standard identical to primary</article-title>
+          . 44
+        </mixed-citation>
+      </ref>
+      <ref id="ref78">
+        <mixed-citation>
+          <string-name>
+            <surname>Fed</surname>
+          </string-name>
+          . Reg.
+          <volume>8202</volume>
+          (
+          <year>1979</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref79">
+        <mixed-citation>
+          <source>d. March 9</source>
+          ,
+          <year>1993</year>
+          :
+          <article-title>EPA reviews air quality standards</article-title>
+          and de-
+        </mixed-citation>
+      </ref>
+      <ref id="ref80">
+        <mixed-citation>
+          <article-title>cides not to revise standards</article-title>
+          .
+          <source>58 Fed. Reg</source>
+          .
+          <volume>13</volume>
+          ,
+          <issue>008</issue>
+          (
+          <year>1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref81">
+        <mixed-citation>
+          <source>e. February 3</source>
+          ,
+          <year>1994</year>
+          :
+          <article-title>EPA announces it will review standards</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref82">
+        <mixed-citation>
+          59 Fed. Reg.
+          <volume>5164</volume>
+          (
+          <year>1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref83">
+        <mixed-citation>
+          f.
+          <source>July</source>
+          <volume>18</volume>
+          ,
+          <year>1997</year>
+          :
+          <article-title>EPA promulgates new standards which are</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref84">
+        <mixed-citation>
+          <article-title>later struck down by the D.C. Circuit Court</article-title>
+          . Primary:
+          <fpage>8</fpage>
+          -
+        </mixed-citation>
+      </ref>
+      <ref id="ref85">
+        <mixed-citation>
+          <article-title>hour standard at a level of 0.08 ppm</article-title>
+          . Secondary: identical
+        </mixed-citation>
+      </ref>
+      <ref id="ref86">
+        <mixed-citation>
+          0.08 ppm standard.
+          <source>62 Fed. Reg</source>
+          .
+          <volume>38</volume>
+          ,
+          <issue>856</issue>
+          (
+          <year>1997</year>
+          ).
+          <article-title>(A more complete history of ozone is presented in Section ll.B of the U.S. EPA OFFICE OF AIR QUALITY PLANNING AND STANDARDS, REVIEW OF NATIONAL AMBIENT AIR QUALITY STANDARDS FOR OZONE: ASSESSMENT OF SCIENTIFIC</article-title>
+          AND
+          <string-name>
+            <surname>TECHNICAL INFORMATION</surname>
+          </string-name>
+          (
+          <year>1996</year>
+          ).)
+        </mixed-citation>
+      </ref>
+      <ref id="ref87">
+        <mixed-citation>
+          3.
+          <string-name>
+            <given-names>Sulfur</given-names>
+            <surname>Oxides</surname>
+          </string-name>
+          (Sulfur Dioxides):
+        </mixed-citation>
+      </ref>
+      <ref id="ref88">
+        <mixed-citation>
+          a.
+          <source>April</source>
+          <volume>30</volume>
+          ,
+          <year>1971</year>
+          :
+          <article-title>EPA promulgates primary</article-title>
+          and secondary
+        </mixed-citation>
+      </ref>
+      <ref id="ref89">
+        <mixed-citation>
+          <article-title>NAAQS for sulfur oxides</article-title>
+          .
+          <source>Primary: 80 pg/m3, 0.03 ppm an-</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref90">
+        <mixed-citation>
+          <source>nual arithmetic mean; 365 pg/m3; 0</source>
+          .14 ppm maximum 24-
+        </mixed-citation>
+      </ref>
+      <ref id="ref91">
+        <mixed-citation>
+          year.
+          <source>Secondary: 1300 pg/i 3; 0</source>
+          .
+          <article-title>5 ppm maximum 3-hour</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref92">
+        <mixed-citation>
+          <source>60 pg/n 3; 0.02 ppm annual arithmetic mean; 260 pag/n; 0</source>
+          .
+          <fpage>1</fpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref93">
+        <mixed-citation>
+          <article-title>ppm maximum 24-hour concentration not to be exceeded</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref94">
+        <mixed-citation>
+          <source>more than once per year. 36 Fed. Reg</source>
+          .
+          <volume>8186</volume>
+          ,
+          <issue>8187</issue>
+          (
+          <year>1971</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref95">
+        <mixed-citation>
+          b.
+          <source>April 26</source>
+          ,
+          <year>1988</year>
+          :
+          <article-title>EPA decides not to revise the existing pri-</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref96">
+        <mixed-citation>
+          <source>mary and secondary standards. 53 Fed. Reg</source>
+          .
+          <volume>14</volume>
+          ,
+          <issue>926</issue>
+          (
+          <year>1988</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref97">
+        <mixed-citation>
+          c.
+          <source>April</source>
+          <volume>21</volume>
+          ,
+          <year>1993</year>
+          :
+          <article-title>EPA decides not to revise the existing sec-</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref98">
+        <mixed-citation>
+          <source>ondary standards. 58 Fed. Reg</source>
+          .
+          <volume>21</volume>
+          ,
+          <issue>351</issue>
+          (
+          <year>1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref99">
+        <mixed-citation>
+          <source>d. November 15</source>
+          ,
+          <year>1994</year>
+          :
+          <article-title>EPA publishes a second proposal re-</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref100">
+        <mixed-citation>
+          <article-title>garding revision of primary standards for sulfur oxides</article-title>
+          .
+          <source>59</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref101">
+        <mixed-citation>
+          <string-name>
+            <surname>Fed</surname>
+          </string-name>
+          . Reg.
+          <volume>58</volume>
+          ,
+          <issue>958</issue>
+          (
+          <year>1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref102">
+        <mixed-citation>
+          e. May 22,
+          <year>1996</year>
+          :
+          <article-title>EPA reviews and revises the air quality cri-</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref103">
+        <mixed-citation>
+          <source>several minor technical changes. 61 Fed. Reg</source>
+          .
+          <volume>25</volume>
+          ,
+          <fpage>566</fpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref104">
+        <mixed-citation>4. Nitrogen Oxides:</mixed-citation>
+      </ref>
+      <ref id="ref105">
+        <mixed-citation>
+          a.
+          <source>April</source>
+          <volume>30</volume>
+          ,
+          <year>1971</year>
+          :
+          <article-title>EPA issues identical primary and secondary</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref106">
+        <mixed-citation>
+          <article-title>standards for NO2 set at 0.05 ppm (100 pg/n 3) annual</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref107">
+        <mixed-citation>
+          <source>arithmetic average. 36 Fed. Reg</source>
+          .
+          <volume>8186</volume>
+          ,
+          <issue>8187</issue>
+          (
+          <year>1971</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref108">
+        <mixed-citation>
+          b.
+          <source>December 12</source>
+          ,
+          <year>1978</year>
+          :
+          <article-title>EPA announces the first review and</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref109">
+        <mixed-citation>
+          <source>update. 43 Fed. Reg</source>
+          .
+          <volume>58</volume>
+          ,
+          <issue>1117</issue>
+          (
+          <year>1978</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref110">
+        <mixed-citation>
+          c. June 19,
+          <year>1985</year>
+          :
+          <article-title>EPA decides to retain the same standard</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref111">
+        <mixed-citation>
+          50 Fed. Reg.
+          <volume>25</volume>
+          ,
+          <issue>532</issue>
+          (
+          <year>1985</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref112">
+        <mixed-citation>
+          <source>d. April 26</source>
+          ,
+          <year>1988</year>
+          :
+          <article-title>EPA publishes a second proposal regarding</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref113">
+        <mixed-citation>
+          <source>revision of primary standards. 53 Fed. Reg</source>
+          .
+          <volume>14</volume>
+          ,
+          <issue>926</issue>
+          (
+          <year>1988</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref114">
+        <mixed-citation>
+          e.
+          <source>October</source>
+          <volume>11</volume>
+          ,
+          <year>1995</year>
+          :
+          <article-title>EPA proposes to retain national stan-</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref115">
+        <mixed-citation>
+          <article-title>dards for nitrogen dioxide</article-title>
+          .
+          <source>60 Fed. Reg</source>
+          .
+          <volume>52</volume>
+          ,
+          <issue>874</issue>
+          ,
+          <issue>52</issue>
+          ,
+          <fpage>875</fpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref116">
+        <mixed-citation>
+          <source>f. October 8</source>
+          ,
+          <year>1996</year>
+          :
+          <article-title>EPA issues its final decision retaining</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref117">
+        <mixed-citation>
+          <article-title>standard for nitrogen dioxide</article-title>
+          .
+          <source>61 Fed. Reg</source>
+          .
+          <volume>52</volume>
+          ,
+          <issue>852</issue>
+          (
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref118">
+        <mixed-citation>5. Carbon Monoxide:</mixed-citation>
+      </ref>
+      <ref id="ref119">
+        <mixed-citation>
+          a.
+          <source>April</source>
+          <volume>30</volume>
+          ,
+          <year>1971</year>
+          :
+          <article-title>EPA promulgates the initial standard for</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref120">
+        <mixed-citation>
+          <article-title>carbon monoxide at the level of 10 pg/n 3, 9 ppm maximum</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref121">
+        <mixed-citation>
+          <article-title>8-hour concentration not to be exceeded more than once</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref122">
+        <mixed-citation>
+          <source>per year; 40 pg/ 3, 35 ppm maximum 1-hour concentration 1.6 2.9 0.9 1.1 1.4 0.7 1</source>
+          .
+          <fpage>5</fpage>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
