@@ -1,0 +1,2624 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Surrogacy),"</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Neutrality in Constitutional Law (with Special Reference to Pornography, Abortion, and Surrogacy)</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Pornography</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Abortion</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Surrogacy)</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <string-name>Recommended Citation</string-name>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Cass R. Sunstein, "Neutrality in Constitutional Law (with Special Reference to Pornography</institution>
+          ,
+          <addr-line>Abortion</addr-line>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Faculty Scholarship</institution>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>1992</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>1992</issue>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>JANUARY 1992</title>
+      <p>NO. 1</p>
+      <p>Much of modem constitutional law and theory is organized around
+two ideas. Both of them are associated with prominent strands in
+contemporary legal and political thought.</p>
+      <p>The first idea is a general principle of neutrality. On that principle,
+government may not play favorites; it must be impartial. It may not, for
+example, take resources or opportunities from one person solely for
+the benefit of another. Nor may it make social outcomes depend
+entirely on the exercise of political influence.</p>
+      <p>The second idea refines this principle by distinguishing between
+neutrality and partisanship.' It does so by treating existing
+distributions of wealth, opportunities, preferences, and natural endowments as
+the baseline against which assessments of neutrality and partisanship
+* Karl N. Llewellyn Professor ofJurisprudence, University ofChicago, Law School
+and Department of Political Science. This Article was originally prepared for a panel on
+The Future of Liberal Constitutionalism, at the annual meeting of the American Political
+Science Association, held in September 1990. I am grateful to my copanelists, Don
+Herzog, Michael Sandel, and Rogers Smith, for their helpful comments on that
+occasion. Stephen Holmes, a copanelist on that occasion as well, has been an invaluable
+source of ideas, criticism, and encouragement.</p>
+      <p>For helpful comments on an earlier draft, I am also grateful to Bruce A. Ackerman,
+Albert Alschuler, Mary E. Becker, Anne-Marie Burley, Jean Cohen, Sean Donahue,
+Rochelle Dreyfuss, Abner Greene, Larry Lessig, William Miller, Martha Nussbaum,
+Richard A. Posner, Margaret Jane Radin, Eric Rakowski, Simon Steel, Katherine van
+Wetzel Stone, Kathleen Sullivan, Mark Tushnet, Robin West, and Elisabeth Wood; to
+participants in workshops at the University of Chicago, Columbia University, and the
+University of Toronto; to those who attended and commented on my lectures on this
+subject at the Notre Dame Law School and the University of Cincinnati, where this
+Article was presented as the Marx Lecture; and to Mr. Steel for research assistance as well.</p>
+      <p>Parts of this essay also appear in a forthcoming book, Cass R. Sunstein, The Partial
+Constitution (forthcoming 1992).</p>
+      <p>1. I do not at all suggest, however, that the second of these ideas represents
+"liberalism." Indeed, the most prominent exposition of liberalism in the 20th century is a
+sustained rejection of this second idea. See John Rawls, A Theory of Justice (1971),
+which, time and again, argues against conceptions of government that treat the existing
+distribution of resources, entitlements, natural endowments, and preferences as the
+basis for social choice. Bruce A. Ackerman, Social Justice in the Liberal State (1980), is
+another contemporary illustration. Indeed, I would go so far as to suggest that rejection
+of a conception of neutrality founded on existing distributions is compelled by a proper
+understanding of liberalism; but a justification of that proposition would take me far
+beyond the scope of the present discussion.</p>
+      <p>HeinOnline -- 92 Colum. L. Rev. 1 1992
+will be made. On this view, government decisions that disturb existing
+distributions raise the spectre of constitutionally questionable
+partisanship. Decisions that respect existing distributions are neutral and
+constitutionally unobjectionable. A close examination of those
+distributions-or of what may be the same thing, the context and history of
+the practice in question-is thought likely to produce impermissible
+partiality.</p>
+      <p>According to this view, existing distributions serve as the baseline
+against which to measure not only partisanship and neutrality, but also
+the very categories of government "action" and "inaction." Decisions
+that upset existing distributions are treated as "action"; decisions that
+do not are thought to stay close to nature and thus to amount to no
+action at all. We might therefore understand the prevailing
+conceptions of neutrality and government action to be ones that treat as
+legally uncontroversial any decision to respect the existing set of
+distributions and preferences, and as legally suspect any decision that
+disrupts them.</p>
+      <p>All this is very abstract. But this conception of neutrality plays
+itself out quite concretely in legal understandings. Consider, for
+example, the idea that the democratic process should be seen as a process of
+aggregating private interests; 2 the opposition to paternalism in public
+and private law;3 the view that the purpose of law is to facilitate and
+never to constitute private arrangements; 4 and even notions of formal
+equality in the area of race and sex discrimination. These notions see
+discrimination only in explicit legal distinctions based on race and sex,
+and never in legal rules that operate to disadvantage blacks and women
+because they are rooted in white or male norms. 5</p>
+      <p>All of these positions tend to depend on a conception of neutrality
+rooted in existing distributions. Both aggregative conceptions of
+politics and opposition to paternalism are usually rooted in the idea that
+current preferences should be taken as prepolitical or as defining
+individual welfare, and therefore used as the basis for social choice. Purely
+2. See, e.g., Robert H. Bork, Neutral Principles and Some First Amendment
+Problems, 47 Ind. L.J. 1, 10 (1971).</p>
+      <p>3. See, e.g., Richard A. Epstein, In Defense of the Contract at Will, 51 U. Chi. L.
+Rev. 947, 954-55 (1984).</p>
+      <p>4. Some such understanding underlies much of Richard A. Posner, Economic
+Analysis of Law (3d ed. 1986), which relies on a facilitative conception oflaw, that is, one that
+sees the purpose of legal rules as the satisfaction of private desires. This understanding
+is often extremely fruitful. But sometimes private desires might themselves be a
+function of legal rules, in which case the legal rules cannot be chosen by reference to the
+desires.</p>
+      <p>5. See Mary E. Becker, Prince Charming: Abstract Equality, 1987 Sup. Ct. Rev.
+201, 207-08, 211, 223, 229, 238; infra text accompanying note 63. Of course, to say a
+practice is rooted in white or male norms is not to make a decisive argument against it.
+The question remains whether the use of those norms can bejustified on
+nondiscriminatory grounds.</p>
+      <p>HeinOnline -- 92 Colum. L. Rev. 2 1992
+facilitative conceptions of law attempt to build on existing distributions
+and preferences; 6 such approaches disregard the multiple ways in
+which legal rules help constitute the very distributions and preferences
+under which "facilitation" takes place. Of course, notions of formal
+equality are based on norms that are usually unarticulated and indeed
+reflexive but that are part and parcel of existing distributions-as in, for
+example, the use of the physical capacities of men as the baseline from
+which to decide whether women have been treated unequally.</p>
+      <p>Still more concretely, the prevailing conception of neutrality helps
+to shape many of the particular debates in contemporary constitutional
+law: the role of government in redistributing wealth by interfering with
+private property and freedom of contract, the problem of affirmative
+action, and government regulation of campaign finance. These
+problems, and many more, revolve around competing ideas about
+neutrality and the line between state action and inaction.</p>
+      <p>In this Article, I have two goals. The first is simply to show how a
+conception of neutrality rooted in existing distributions helps structure
+discussion in a wide range of constitutional disputes. The second goal
+is to explain why the prevailing conception of neutrality is often a poor
+foundation for constitutional theory and practice.</p>
+      <p>In Part I, I describe the general conception of neutrality, famously
+set out by Herbert Wechsler in Toward Neutral Principles of Constitutional
+Law, 7 and reflected in many areas of constitutional law. My principal
+claim is that neutrality, understood in the way that has become
+prominent, depends on a belief that existing distributions are prepolitical and
+just, a belief that is sometimes unsound.8 It also depends on a closely
+6. See, e.g., Posner, supra note 4, at 20-22.
+7. 73 Harv. L. Rev. 1 (1959).</p>
+      <p>8. Four qualifications are necessary here. First, sometimes the belief in taking
+existing distributions as the baseline stems from the perception that alterations in
+market outcomes will be counterproductive-as in, for example, the view that the minimum
+wage increases unemployment. These more pragmatic concerns, see Richard A. Posner,
+The Problems ofJurisprudence (1990), do not posit a natural orjust private sphere, but
+instead claim that efforts to change existing distributions will hurt the very people one
+wants to help or will have ancillary adverse effects. In some contexts, this view does
+indeed argue in favor of respect for existing distributions. I do not deal with these
+concerns here.</p>
+      <p>Second, nothing I say in this Article is intended to deny that some constitutional
+provisions-the Takings Clause being the most obvious example-are best interpreted
+as using existing distributions as the baseline for deciding cases. (The Equal Protection
+Clause, challenging those distributions, is a sharp contrast.)</p>
+      <p>Third, a system that keeps constant institutions and distributions is likely, other
+things being equal, to create far more stability than a system that does not. That kind of
+stability is an important individual and collective good. A system in which existing
+distributions are continually reexamined is likely to break down along factional lines and
+also to undermine both security and planning. Coherent reform requires selectivity;
+most things (at any single time) must be left unreformed. Moreover, the status quo,
+whether or not natural, may well be a basis for legitimate expectations. See Jon Elster,</p>
+      <p>HeinOnline -- 92 Colum. L. Rev. 3 1992</p>
+      <sec id="sec-1-1">
+        <title>COLUMBIA L4 W REVIEW</title>
+        <p>related belief in the need for a certain kind of abstraction and
+generality, a belief that turns out to produce a set of biases of its own.</p>
+        <p>In Part II, I devote special attention to the questions raised by
+pornography, abortion, and surrogacy-disputes that have perhaps
+surprising linkages. The legal treatment of all of these problems, I argue,
+is dominated by a conception that posits a natural, just, and prepolitical
+sphere of sexuality and reproduction, a sphere that is used as the
+baseline for distinguishing between partisanship and neutrality, or action
+and inaction. Indeed, that baseline is present in both the most
+prominent version of the view that the law should limit access to
+pornography, surrogacy, and abortion, and the most prominent version of the
+view that it should not.</p>
+        <p>Thus, for example, those who oppose government regulation in
+these areas often argue that such regulation would illegitimately
+interfere with natural drives as expressed in the private realm;9 and those
+proposing regulation often contend that government must protect
+natural drives from artificial external influences that debase and diminish
+them.' 0 In either case, the use of the baseline rules out an alternative
+view. That alternative view sees the problem in all three areas not only
+or principally in the interference with a private sphere, but in the
+decision to turn women's sexuality and reproductive capacities into objects
+for the control and use of others."</p>
+        <p>I suggest that this view supplies a secure justification for the
+abortion right. It also provides worthy competition to the now dominant
+positions on pornography and surrogacy, although I do not attempt to
+resolve these issues here.</p>
+        <p>My goal is emphatically not to mount a general challenge to
+neuIntroduction, in Constitutionalism and Democracy 1, 14-17 Uon Elster &amp;Rune Slagstad
+eds., 1988).</p>
+        <p>Finally, I do not deal here with the view that existing distributions contain a kind of
+rich complexity and rationality that no critic of those distributions is likely to be in a
+position to appreciate. See, e.g., Edmund Burke, Reflections on the Revolution in
+France 348 (Gateway Editions 1962) (1790);Robert C. Clark, Contracts, Elites, and
+Traditions in the Making of Corporate Law, 89 Colum. L. Rev. 1703, 1729-31 (1989). It is
+implicit in what follows that this view, while providing a valuable cautionary note, is too
+broad and general, or undifferentiated, to generate a useful approach to constitutional
+law. Under the Constitution, it is always necessary to have reasons for practices, rather
+than practices themselves. Cf. Posner, supra, at 286-312 (criticizing
+"neotraditionalism" on similar grounds).</p>
+        <p>9. See infra notes 42-46 and accompanying text.
+10. See infra notes 47-50 and accompanying text.</p>
+        <p>11. This general concern lies at the heart of liberal thought, in its opposition to
+slavery and in its emphasis on freedom generally. See especially Locke's denial that "we
+were made for one another's uses," in John Locke, Two Treatises of Government 311
+(Cambridge University Press 1988) (1689). The denial carries particular force in a
+context in which legal and social control of women's sexual and reproductive capacities has
+been and remains a means ofproducing a system with caste-like features, although those
+features of contemporary sex discrimination are of course far less severe than in
+traditional caste societies.</p>
+        <p>HeinOnline -- 92 Colum. L. Rev. 4 1992
+trality as an important aspiration in constitutional decisions. On the
+contrary, a large part of my effort is to identify a different and stronger
+conception of neutrality. In Part III, I conclude with some brief
+remarks about the appropriate content of an ideal of neutrality in
+constitutional law.</p>
+      </sec>
+    </sec>
+    <sec id="sec-2">
+      <title>I. NEUTRALITY AND THE BASELINE PROBLEM</title>
+      <p>Before getting down to cases, it will be useful to say something
+general about neutrality as a constitutional imperative.12 The most
+celebrated essay in all of constitutional law is probably the place to begin.
+In TowardNeutralPrinciplesof ConstitutionalLaw, 13 Herbert Wechsler
+criticized the Supreme Court's opinion in Brown v. Board of Education14 on
+the ground that the Court had not supplied a "neutral" justification for
+its decision. For Wechsler, the problem of segregation involved a
+conflict between two sorts of associational preferences: the desire of blacks
+to attend school with whites and the desire of whites to attend school
+without blacks. As far as Wechsler was concerned, the Court had
+established no neutral principle to permit a choice between these two sets of
+desires. Wechsler was unable to come up with any such principle on his
+own. The decision was therefore not shown to be permissibly
+neutral.15</p>
+      <p>For current observers, Wechsler's demand for neutrality, as he
+understood that concept, seems to have an otherworldly quality. 16 The
+notion that the associational desires of whites and blacks should be put
+on the same plane, and given the same status, appears exceedingly
+peculiar. Those desires have entirely different origins and consequences.
+The idea that neutrality demands that the desires be "equally"
+respected disregards the historical context of inequality, that is, the
+system of racial segregation that reflected and helped create and
+perpetuate those desires.</p>
+      <p>Wechsler's principle of neutrality was thus built on a substantive
+conception of the baseline from which partisanship would be measured:
+the racial status quo. His conception of neutrality depended on a form
+of abstraction that would prohibit legal actors from examining the
+particular setting-the purposes and the effects-of the practices in
+question. The decision to take the racial status quo as the baseline was a
+consequence of that abstraction, which treated an exploration of
+history and context as impermissibly partisan. It is for this reason that
+much of the entire article seems to be playing out, on a grand scale,</p>
+      <p>HeinOnline -- 92 Colum. L. Rev. 5 1992
+Wechsler's claim-in a brief digression from his criticism of
+Brownthat as a result of the racially based exclusion of the famous black
+lawyer Charles Hamilton Houston from the restaurants of the District of
+Columbia, Houston "did not suffer more than" Wechsler himself.17</p>
+      <p>The problem is a general one. In a nutshell, it is this: For
+purposes of constitutional law, the question whether there is partisanship
+always depends on the baseline from which measurements are made.
+In the cases, and in ordinary legal or political discussion, the baseline
+frequently consists of existing distributions of wealth and entitlements.
+Existing distributions are treated as natural and exogenous to the legal
+system, and the normal role of government is thus seen as the
+ratification and protection of these distributions, based in part on existing
+preferences. These preferences are in turn at least to some extent a
+function of existing distributions and hence of law; but they are also
+treated as entirely independent of law.</p>
+      <p>Take, for example, the problem of state action. It is often said, and
+rightly so, that the Constitution operates only against government, and
+not against private actors. But by itself, the point is uninformative. To
+give content to the state action requirement, one needs to know what,
+as a matter of substantive constitutional law, the state is required to do.
+The question whether the government is "acting" can be answered
+only by reference to (frequently tacit and unarticulated) substantive
+ideas about what it is that government normally or naturally does.',</p>
+      <p>Nothing else explains the fact that governmental repeal of a
+trespass law, or refusal to enforce a contract, counts as state action
+19whereas a repeal of an antidiscrimination law probably does not. 20 Or
+consider the fact that enforcement of an antidiscrimination law is
+17. Wechsler, supra note 7, at 34; see also Martha Nussbaum, The Rosenthal
+Lectures, Lecture 3: It Has Nothing to Do with the Law 36-37 (1991) (unpublished
+manuscript, on file with the Columbia Law Review) (comparing the Aristotelian view of
+neutrality with that used by Wechsler).</p>
+      <p>18. It would be possible to ask whether government officials are formally involved,
+but that would be too broad. State officials are always implicated in property and
+contract law, and it would be odd to say that the enforcement or backdrop of contract and
+property for that reason makes all agreements or exercises of powers of ownership
+subject to the Constitution. Such a conclusion would mean that every assertion of property
+and contract rights-including a decision, for example, to contract only with
+Republicans-would be potentially unconstitutional.</p>
+      <p>Here and elsewhere, I am not challenging the distinction between action and
+inaction, or suggesting that the distinction has no moral or legal weight. Instead, I am
+arguing that whether there is action or inaction is often decided by reference to a baseline
+rooted in existing distributions, even though existing distributions are a function of
+what is, on inspection, action. It need not follow that genuine inaction is an
+unintelligible or irrelevant category.</p>
+      <p>19. See, e.g., PruneYard Shopping Ctr. v. Robins, 447 U.S. 74, 79-80 (1980)
+(limitation of the right to exclude others from private shopping center constitutes state
+action); Allied Structural Steel Co. v. Spannaus, 438 U.S. 234, 240 (1978) (state law
+preempting existing contractual relation constitutes state action).</p>
+      <p>20. See, e.g., Crawford v. Board of Educ., 458 U.S. 527 (1982); Reitman v. Mulkey,</p>
+      <p>HeinOnline -- 92 Colum. L. Rev. 6 1992
+clearly state action (although, of course, lawful on the merits) while, in
+general, enforcement of a trespass law or invocation of the courts to
+enforce a contract is not.2 1 Results of this sort can be attributed not to
+the requirement of state action, but to a substantive theory that defines
+(constitutionally troublesome) action and partisanship, and their
+(constitutionally invulnerable) corollaries, inaction and neutrality, by
+reference to existing practices and distributions.</p>
+      <p>Governmental enforcement of trespass laws and contractual
+arrangements is frequently thought simply to ratify existing distributions.
+Rather than interfering with them, legal enforcement of property and
+contract rights is built into and indistinguishable from existing
+distributions. By contrast, government enforcement of antidiscrimination law
+is thought to disrupt existing distributions-that is one of its principal
+purposes-and to amount to government intervention into an
+otherwise well-defined, regulation-free, and voluntary private sphere.</p>
+      <p>These ideas, and not the requirement of state action itself, account
+for the results in the cases. And of course these ideas, based on
+reflexive use of the common law, are misconceived. Trespass law intrudes no
+less than antidiscrimination law. To say this is not at all to say that the
+state action requirement should be abandoned. Indeed, I have said
+that it is unexceptionable. It is not even to say that repeal or
+nonenforcement of a trespass law should be treated the same as repeal or
+nonenforcement of an antidiscrimination law.2 2 But it is to say that
+whether the state is acting cannot be decided without a theory of what
+government normally does, or should do.</p>
+      <p>Another example is affirmative action. Without purporting to
+settle that difficult issue, we might observe that the constitutional assault
+on the practice of affirmative action often rests on the claim that
+whether discrimination is permissible should not be made to turn on
+which claimants are claiming discrimination, or on "whose ox is
+gored." 28 Discrimination is discrimination. To allow government to
+387 U.S. 369, 376 (1967) (suggesting that a "mere" repeal of an antidiscrimination
+statute is not state action).</p>
+      <p>21. To be sure, Shelley v. Kraemer, 334 U.S. 1 (1948), holds that enforcement of a
+racially restrictive covenant is state action. But the decision remains extremely
+controversial, and it has not been understood to mean that the invocation of trespass law raises
+constitutional doubts. See Hudgens v. NLRB, 424 U.S. 507 (1976); Lloyd Corp. v.
+Tanner, 407 U.S. 551 (1972).</p>
+      <p>22. That depends on the relevant constitutional principles, which could quite
+plausibly require trespass law but not antidiscrimination law. Perhaps the takings clause
+requires the government to protect against private invasion of property but not private
+discrimination. This is a question on the merits, not one of state action.</p>
+      <p>23. See, e.g., City of Richmond v. J.A. Croson, Co., 109 S.Ct. 706, 721 (1989);
+William Van Alstyne, Rites of Passage: Race, the Supreme Court, and the Constitution,
+46 U. Chi. L. Rev. 775, 808-10 (1979). Some such idea is very much at work in Charles
+Fried, Comment: Metro Broadcasting,Inc. v. FCC: Two Concepts of Equality, 104 Harv.
+L. Rev. 107, 111-12 (1990). Fried relies heavily on an opposition between collectivism
+and individualism; but the opposition seems misplaced in the context ofan argument for</p>
+      <p>HeinOnline -- 92 Colum. L. Rev. 7 1992
+discriminate against whites but not blacks represents impermissible
+partisanship. It reveals the commitment to the antidiscrimination
+principle to be merely contingent and strategic, even hypocritical and
+cynical-no principle at all.</p>
+      <p>When phrased in these terms, however, the attack on affirmative
+action is identical to Wechsler's attack on Brown, and it suffers from the
+same infirmity. It takes as given and exogenous, or as uncontroversial,
+existing distributions of benefits and burdens between blacks and
+whites. The attack rips the notion of discrimination out of the context
+that gave that word its social meaning and made it a term of
+opprobrium. The attack treats attention to context and history as
+unprincipled; it identifies racial differentiation with invidious treatment, and
+does so not byjustifying the identification, but by playing on an
+ambiguity in the word "discrimination." 24 It sees efforts to benefit blacks at
+the expense of whites as a kind of "taking"; and the notion of taking
+depends on acceptance of existing distributions, which, in this context,
+seem anything but prepolitical and just.</p>
+      <p>Even more than all this, the prevailing conception of neutrality
+defines the presence of government action by reference to existing
+distributions. The very term "affirmative action" suggests that reliance on
+market measures, operating against the backdrop set by existing
+distributions, is inaction, or negative, or part of the, state of nature, and is
+therefore permissibly neutral. But if existing distributions are a
+product of law, and hardly neutral, market measures are in turn a
+mechanism, actually chosen publicly and made possible only through law, for
+giving those distributions certain predictable effects. Strategies having
+the purpose and effect of combatting the social subordination of blacks
+need hardly be treated the same as strategies designed to perpetuate it.</p>
+      <p>There are many legitimate reasons for serious concerns about
+affirmative action programs. But in its most prominent form, the
+objection from neutrality seems misplaced. That objection is the
+contemporary version of Wechsler's challenge to Brown.</p>
+      <p>Consider, as a final example, the frequently repeated view that the
+Constitution protects only negative rights and not positive ones.2 5
+centralized judicial invalidation of an important aspect of employment policy for
+thousands and perhaps millions of employers, schools, and others. It seems quite
+"collectivist" to advocate centralized judicial preclusion ofprograms set out by widely
+divergent individuals and groups. In fact Fried's argument, treating all forms of
+discrimination "the same," depends not on "individualism" but on a claim from
+neutrality.</p>
+      <p>24. See Thomas Hill, The Message of Affirmative Action, in Reassessing Civil
+Rights 108, 112-13 (Ellen Frankel Paul et al. eds., 1991).</p>
+      <p>25. See, e.g., DeShaney v. Winnebago County Dep't of Social Servs., 109 S. Ct.
+998, 1003 (1989); see also Rust v. Sullivan, 111 S. Ct. 1759, 1772-75 (1991) (using this
+idea to give government broad power to fund speech as it chooses). The approach in
+Rust similarly depends on a sharp split between government "intervention" into
+common-law rights (treated as prepolitical and therefore protected) and governmental
+"re</p>
+      <p>HeinOnline -- 92 Colum. L. Rev. 8 1992
+Under this rubric, the Constitution affords no right to welfare, medical
+care, or protection against violence. 26 As it operates in the cases,
+however, the description of a right as positive or negative depends on the
+baseline. The right to private property and protection of contractual
+freedom are uncontroversial, and properly so;27 but they are fully
+positive. Their existence depends on the willingness of state officials to
+enforce trespass laws and contractual arrangements. 28</p>
+      <p>These relatively uncontroversial constitutional rights are thus
+positive in character. The rejection of a right to welfare or to freedom from
+private discrimination cannot rest on a claim that all constitutional
+rights are "negative" in the sense that they do not require
+governmental involvement. The line between constitutionally protected rights and
+unprotected interests depends not on the distinction between negative
+and positive rights, but on substantive ideas about what government
+normally or naturally does. It remains entirely possible that existing
+law is sound. The point is that its soundness must depend on
+something other than the claim that the Constitution protects only negative
+rights.</p>
+      <p>Disagreements about the relationship between law and preferences
+raise an identical issue. Neutrality is often said to require respect for
+subjectively held views;2 9 but those views will often be in part a
+function of existing practice, including, most notably, the legal rules initially
+allocating entitlements. Whether people have a preference for
+something often depends at least in part on the legal rules of initial
+allocation.3 0 If subjective conceptions of welfare are in part a product of
+legal rules, and are not exogenous to them, it is hard to see how
+government could even try to remain neutral or fail to act-unless, again,
+respect for existing practice, and its accompanying legal rules, is
+defined as neutrality and inaction. But there is no neutrality in respect for
+existing desires as subjectively perceived when those desires are in part</p>
+      <p>HeinOnline -- 92 Colum. L. Rev. 9 1992
+a function of law and existing social institutions.3 1 And it is hardly clear
+that notions of freedom and autonomy, rightly understood, argue in
+favor of respect for existing preferences, whatever their context,
+origins, and consequences, and whatever the reasons that might be
+offered in their support.3 2</p>
+      <p>These ideas come together in one of the most important general
+questions in free speech law, which involves the power of government
+to regulate the speech "market" in the interest of a well-functioning
+deliberative democracy. The issue has arisen frequently during
+discussions of campaign finance legislation and efforts to regulate television
+and radio.3 3 According to one view, any government regulation of
+speech is impermissible partisanship.3 4 If government removes speech
+power from some people because, for example, they are rich, it takes
+from them for the benefit of others.</p>
+      <p>The Supreme Court invalidated campaign finance regulation in
+Buckley v. Valeo under precisely this rationale.3 5 In its key passage, the
+Court said that "the concept that government may restrict the speech
+of some elements of our society in order to enhance the relative voice
+of others is wholly foreign to the First Amendment." 36 It is critical that
+the Court did not say that the effort to promote deliberation among
+political equals was insufficiently weighty or inadequately promoted by
+the legislation at hand. Instead, the Court said, far more broadly, that
+the effort itself was constitutionally illegitimate.</p>
+      <p>The Buckley outcome turned on a particular conception of
+constitutional neutrality. On this view, existing distributions of wealth, at least
+insofar as they create speech, are off-limits to government. Efforts to
+31. This is a familiar argument within the liberal tradition. The great expositors of
+liberalism in the 19th and 20th centuries are insistent on the point. See, e.g., John
+Stuart Mill, The Subjection of Women 4-6 (Susan M. Okin ed., 1988) (1869) (refusing
+to view the subjugation of women as a natural institution simply because of existing
+desires and its long existence); Rawls, supra note 1, at 260-63.</p>
+      <p>32. I argue the point in After the Rights Revolution: Reconceiving the Regulatory
+State chs. 1 &amp; 2 (1990) and Preferences and Politics, 20 Phil. &amp; Pub. Aff. 3 (1991). See
+also Elster, supra note 30, at 125-33 (discussing adaptation of preferences to the status
+quo).</p>
+      <p>The arguments I am now making, and the general claims to follow about
+pornography, abortion, and surrogacy, do not turn on any commitment to priority of the good
+over the right, or vice-versa. All of these arguments and claims can be justified by
+reference to a particular conception of the right, which could be thought prior to any kinds of
+consequential considerations.</p>
+      <p>33. See Geoffrey R. Stone et al., Constitutional Law 1310-26, 1422-31 (2d ed.
+1991).</p>
+      <p>34. I put to one side the question of how "regulation" should be defined; but as
+commonly used in these discussions, the term does not include market arrangements.
+Of course, this usage replicates the baseline problem discussed throughout this Article.</p>
+      <p>35. 424 U.S. 1, 44-59 (1976) (per curiam); see also First Nat'l Bank v. Bellotti, 435
+U.S. 765, 788-92 (1978) (invalidating Massachusetts statute as a legislative suppression
+of corporate participation in discussion of referendum issue).</p>
+      <p>36. Buckley, 424 U.S. at 48-49.
+redistribute speech are impermissibly partisan. But if existing
+distributions were seen as neither prepolitical nor just-at least as a basis for
+the power to speak-the First Amendment would not be understood as
+a guarantor of unrestricted speech "markets," and much less as a
+vehicle for the translation of economic into political inequalities. Instead,
+the free speech guarantee would be treated as an effort to ensure a
+process of deliberation that might well, under current conditions, be
+promoted rather than undermined through regulatory measures. 37</p>
+      <p>The same ideas are played out in the debate over the increasingly
+prominent view that the government should not concern itself with the
+airwaves and that total reliance on private markets and consumer
+preferences is the appropriate strategy for government with respect to
+broadcasting.38 Despite the emerging consensus, it is hardly clear that
+neutrality lies in respect for a system in which access to the media is a
+product of private willingness to pay. At least in principle, rights of
+private access to the media for differing positions, and other regulatory
+controls, might be thought congenial to the free speech guarantee.
+Especially in light of the consequences of broadcasting for beliefs and
+preferences, it is far from clear that government acts properly when it
+allows existing distributions of wealth to be translated into access to the
+media. Here, as in many other cases, a conception of neutrality that
+begins with existing distributions, and denominates disturbance of
+those distributions as "action" and "partisanship," plays a large role.</p>
+      <p>It is important to understand, however, the many complexities in
+the use of "nature" or "the natural" as the basis for evaluating social
+practices. In classical philosophy, nature was a normative notion; it
+connoted human flourishing in connection with a certain kind of
+activity, and the lack of obstacles to that flourishing. 39 Nature did not refer
+to the absence of social or legal intervention. In modern political and
+legal theory, this normative notion of nature is sometimes conflated
+with an altogether different conception of the natural, one that is based
+on an inquiry into what would happen without social or legal action.</p>
+      <p>37. SeeJohn Rawls, The Basic Liberties and Their Priority, in Liberty, Equality, and
+Law: Selected Tanner Lectures on Moral Philosophy 76 (Sterling M. McMurrin ed.,
+1987). As Rawls states:</p>
+      <p>The Court fails to recognize the essential point that the fair value of the
+political liberties is required for a just political procedure, and that to insure their
+fair-value it is necessary to prevent those with greater property and wealth, and
+the greater skills of organization which accompany them, from controlling the
+electoral process to their advantage.</p>
+      <p>Id.</p>
+      <p>This conflation creates serious confusion. It would be hard indeed
+to defend a normative conception of the natural rooted in an absence
+of social or legal action. Practices that are natural in the prepolitical
+sense do not warrant approval for that reason. For many people poor
+eyesight is natural, but this is not a reason to refuse to wear eyeglasses.
+Criminal violence may well be natural, but this is not an argument
+against the criminal law. So too, the fact that a practice or distribution
+is not prepolitical or natural in the descriptive sense does not count as
+an argument against it. A system of racial equality, or one of private
+property and freedom of contract, requires for its existence a large role
+for law; but this does not mean that such a system is a bad idea.</p>
+      <p>Naturalness is, then, neither a necessary nor a sufficient condition
+for approval or disapproval of any particular system of social ordering;
+and a demonstration that a practice requires a political structure is not
+an argument against that practice. 40 On the other hand, a perception
+of naturalness sometimes makes a system seem strongly resistant to
+change; an effort to reveal the presence of government in practices
+often taken as prepolitical can help dislodge a belief that those
+prac40. Both Mill and Rousseau disposed of claims of justificatory power for nature,
+notwithstanding the persistence of those claims in some surprising places:
+If the artificial is not better than the natural, to what end are all the arts of life?
+To dig, to plough, to build, to wear clothes, are direct infringements on the
+injunction to follow nature.</p>
+      <p>... All praise of Civilization, or Art, or Contrivance, is so much dispraise of
+Nature; an admission of imperfection, which it is man's business, and merit, to
+be always endeavouring to correct or mitigate.</p>
+      <p>In sober truth, nearly all the things which men are hanged or imprisoned
+for doing to one another, are nature's every day performances.</p>
+      <p>[I]t remains true that nearly every respectable attribute of humanity is the
+result not of instinct, but of a victory over instinct; and that there is hardly
+anything valuable in the natural man except capacities-a whole world of
+possibilities, all of them dependent upon eminently artificial discipline for being
+realized. [T]he duty of man is the same in respect to his own nature as in
+respect to the nature of all other things, namely not to follow but to amend it.</p>
+      <p>Conformity to nature, has no connection whatever with right and
+wrong.... That a thing is unnatural, in any precise meaning which can be
+attached to the word, is no argument for its being blamable....</p>
+      <p>John Stuart Mill, Nature, in 10 Collected Works ofJohn Stuart Mill 373, 381-401 (J.M.
+Robson ed., 1969); see also Jean-Jacques Rousseau, On the Social Contract 56 (Roger
+D. Masters ed., 1978) (when society passes from state of nature to civil state, man is
+transformed "from a stupid limited animal to an intelligent being and a man").</p>
+      <p>In several recent essays, an emphasis on the situated or contingent character of
+legal rules has been taken to be a reason for large-scale social change. See, e.g.,
+Anthony E. Cook, Beyond Critical Legal Studies: The Reconstructive Theology of Dr.
+Martin Luther King, Jr., 103 Harv. L. Rev. 985, 1042-44 (1990); Allan C. Hutchinson,
+Reading Rorty Radically, 103 Harv. L. Rev. 555, 569-73 (1989) (book review). In fact,
+however, to say that existing baselines are postpolitical, or that legal rules help construct
+the social world, argues in no direction at all. By itself, it is hardly a reason for change.
+tices must be taken as the baseline for decision. To replace the
+baseline, however, it is necessary to make a substantive argument rather
+than to inquire into nature.</p>
+      <p>PORNOGRAPHY, ABORTION, AND SURROGACY</p>
+      <p>I now turn to the three areas that will receive principal attention in
+this essay. As we will see, there are strong parallels in the debates over
+pornography, abortion, and surrogacy. In these three debates, the
+prevailing conception of neutrality rules out of bounds, as partisan, an
+argument that is at least highly plausible and that might indeed have a
+claim to ultimate support. In these three debates, an exploration of the
+context of the history and practice under attack is often identified with
+impermissible partisanship.4 1</p>
+      <p>It will be useful to summarize the general argument before
+applying it to each area. Much of the debate in all of these contexts consists
+of a conflict between two well-known positions. According to one view,
+the government should not repress or interfere with natural drives,
+especially as these are expressed through sexual and reproductive
+processes. These drives have special claims, arising out of the need to
+permit intimacy with respect to practices that are central both to
+individual development and mutual recognition. 42 The law should respect
+the privacy of those who wish to see or read'sexually explicit material,43
+terminate pregnancies, 44 or enter into surrogacy arrangements; 45 and
+all these for essentially the same reason, having to do with the
+individual's right to self-determination in matters of sexuality and
+reproduction. 46</p>
+      <p>Under the second view, the law properly controls sexual and
+reproductive behavior in order to ensure that sexuality and reproduction, in
+their natural or best forms, are not polluted or altered through artificial
+external influences. 47 The profane should not intrude on the sacred.
+The law properly ensures the separation of the private sphere of
+sexuality from the public sphere of the marketplace, by controlling
+obscenity;4 8 properly protects against abortion, most fundamentally to protect
+the interest in fetal life, but also to ensure that sexuality is for purposes
+of reproduction; 49 and properly protects reproduction and sexuality
+from the commodification produced by surrogacy. 50</p>
+      <p>For all their differences, these positions share important premises.
+Both of them posit a currently just private sphere of reproduction and
+sexuality. 5 1 Sometimes, though not always, advocates of both of them
+posit a natural or prepolitical sexual and reproductive sphere.5 2 The
+first position, with its neo-Freudian foundations, tends to stress the
+need to free up drives from the repressive arm of the state. The second
+position, with its neo-religious roots, usually relies on the need to
+protect drives, also in their natural form, from harmful external
+influences. 53</p>
+      <p>Because of this commonality, advocates of both positions are
+critical of a third, which they deem impermissibly partisan or selective.5 4
+("Civil society cannot afford to be neutral toward the various forms and degrees of
+human sensuality which may emerge within it.").</p>
+      <p>48. See Clor, supra note 47, at 176-201.</p>
+      <p>49. This position plays a large role in the antiabortion movement, although it is
+logically separable from it. See Kristin Luker, Abortion and the Politics of Motherhood
+163-68 (1984).</p>
+      <p>50. See Surrogate Parenting Assocs., Inc. v. Commonwealth, 704 S.W.2d 209,
+214-16 (Ky. 1986) (Wintersheimer, J., dissenting).</p>
+      <p>51. As discussed below, a belief in sexual privacy need not be based on this idea.
+See infra note 81 and accompanying text.</p>
+      <p>52. See Clor, supra note 47, at 186-90.</p>
+      <p>53. John Dewey emphasizes the same linkage in challenging the theory of
+"selfexpression" in the political and economic spheres:</p>
+      <p>The theory assigns a certain intrinsic rightness in this original structure,
+rightness in the sense of conferring upon them a title to pass into direct action,
+except when they directly and evidently interfere with similar self-manifestation
+in others. The idea thus overlooks the part played by interaction with the
+surrounding medium, especially the social, in generating impulses and desires.
+They are supposed to inhere in the "nature" of the individual when that is
+taken in a primal state, uninfluenced by interaction with an environment. The
+latter is thus thought of as purely external to an individual, and as irrelevant to
+freedom except when it interferes with the operation of native instincts and
+impulses. A study of history would reveal that this notion.., is a "faint rumor"
+left on the air of morals and politics by disappearing theological dogmas, which
+held that "nature" is thoroughly good as it comes from the creative hand of
+God, and that evil is due to corruption through artificial interference and
+oppression exercised by external or "social" conditions.</p>
+      <p>John Dewey, Philosophies of Freedom, in Freedom in the Modem World 236, 246
+(Horace M. Kallen ed., 1928). Much of this Article might be seen as an application of this
+argument. John Stuart Mill makes a quite similar claim. See Mill, supra note 40, at
+381-82.</p>
+      <p>54. See American Booksellers Ass'n v. Hudnut, 771 F.2d 323 (7th Cir. 1985), aff'd
+mem., 475 U.S. 1001 (1986). For a discussion of Hudnut, see infra text accompanying
+notes 102-103.
+This third position does not stress privacy, a broad or acontextual
+"right to choose," or the general need to maintain control over one's
+body. Even less does it rest on the state interest in promoting
+traditional or conventional morality. Instead, it invokes the interest in
+ensuring that women's sexuality and reproductive functions are not
+turned into something for the use and control of others. 55</p>
+      <p>This principle is grounded in a familiar conception of equality. 56
+At a minimum, this principle means that a legislature may take steps to
+ensure that morally irrelevant characteristics-most conspicuously race
+and sex-are not translated into systemic sources of social
+disadvantage. A systemic disadvantage is one that operates along standard and
+predictable lines, in multiple important spheres of social life, and that
+applies in such crucial realms as education, freedom from violence,
+wealth, political representation, and political influence. The claim that
+women's sexual and reproductive capacities may not be turned into
+objects for the control and use of third parties is simply a particular
+application of this general idea.</p>
+      <p>It follows, for example, that a legislature may properly attempt to
+counteract the subjection of blacks and women to private violence.
+Restrictions on rape, sexual assault, sexual harassment, and pornography
+containing violence against women (assuming tfiat the First
+Amendment objection has been overcome) can be justified on this general
+ground. 57 Legislative regulation of surrogacy arrangements may be
+supported on the related idea that such arrangements contribute, even
+if mildly, to discrimination against women, by allowing women's
+reproductive capacities to be objects owned and used by others. 58
+This general conception of equality has strong roots in the history
+55. See Catharine A. MacKinnon, Toward a Feminist Theory of the State 244-45
+(1989).</p>
+      <p>56. It was set out long ago by John Stuart Mill:
+[T]he principle which regulates the existing social relations between the two
+sexes-the legal subordination of one sex to the other-is wrong in itself, and
+now one of the chief hindrances to human improvement; and.., it ought to be
+replaced by a principle of perfect equality, admitting no power of privilege on
+the one side, nor disability on the other.</p>
+      <p>Mill, supra note 31, at 2. This is an anticaste principle, defended as such in Cass
+Sunstein, Three Civil Rights Fallacies, 79 Cal. L. Rev. 751, 770-73 (1990). Mill's comments
+on his own argument remain relevant:</p>
+      <p>And there are so many causes tending to make the feelings connected with this
+subject the most intense and most deeply-rooted of all those which gather
+round and protect old institutions and customs, that we need not wonder to
+find them as yet undermined and loosened than any of the rest by the progress
+of the great modem spiritual and social transition; nor suppose that the
+barbarisms to which men cling longest must be less barbarisms than those which they
+earlier shake off.</p>
+      <p>See Mill, supra, note 31, at 2.</p>
+      <p>57. See the Violence Against Women Act, S. 2754, 101st Cong., 2d Sess., 136
+Cong. Rec. S8263-69 (daily ed. June 19, 1990).</p>
+      <p>58. See infra text accompanying notes 160-63.
+of the Fourteenth Amendment,5 9 For the most part, however, the
+principle is for legislative and executive enforcement. Courts are quite
+illsuited to respond to any general attack on the translation of morally
+irrelevant characteristics into systemic sources of social disadvantage. 60
+But the equality principle, thus understood, will on occasion call for a
+judicial role under the Equal Protection Clause. At a minimum, it
+requires a powerful sex-neutral justification for laws that are aimed, on
+their face or in their motivation, at women.6 1 For this reason laws
+restricting abortion, which contain a sex-based classification, 62 raise a
+serious equal protection problem.</p>
+      <p>On this third view, the sexual and reproductive status quo is,
+sometimes, a locus of inequality; it is for this reason that the practices at
+issue are troublesome. Indeed, legal and social control of women's
+sexual and reproductive capacities has been a principal historical
+source of sexual inequality. 63 It remains a critical vehicle for creating
+inequality, even under contemporary conditions.</p>
+      <p>Now, as before, the inequality is often justified as a response to real
+differences or to nature. 64 In fact, however, legal practices often help
+create the very differences that supposedly justify those practices.
+Consider laws ensuring that women will not be rewarded as well as men in
+the workplace, 65 and that encourage women to engage in the care of
+children, and discourage men from doing so. Even when the
+differences are not a function of law, legal-practices can turn biological
+differences, which need have no social consequences, into a source of
+social disadvantage. Here an objection from equality is perfectly
+plausible. It should not be obscured by references to "nature.'!</p>
+      <p>In the context at hand, a restriction on access to abortion turns
+women's reproductive capacities into something to be used by fetuses.
+Surrogacy arrangements do the same, but here the users are strangers
+seeking a child, and the vehicle is the market rather than the
+government.66 Finally, the production and consumption of pornography are
+troublesome because and to the extent that they allow women's
+sexuality to be used by strangers, often through violence.</p>
+      <p>The third view should not be understood as an effort to oppose
+equality to liberty and to declare that the former has precedence over
+the latter. Indeed, those who accept the third view will probably reject
+the conception of liberty spoken for by those who think that the liberty
+principle, rightly understood and standing by itself, entails free
+availability of pornography, abortion, and surrogacy. For those with
+sympathy for this third view, liberty does not entail respect for all "choices"
+viewed acontextually and made pursuant to existing distributions of
+wealth and entitlements. 6 7 Choices might be a function of those
+distributions and of unjust background conditions. 68 If choices are
+constrained by injustice, their protection need not represent liberty at all.
+For present purposes, however, it is neither necessary nor useful to
+attempt a broad new conception of liberty. Instead, an approach defined
+in terms of sex equality better captures central aspects of the social
+dynamics of all three issues.</p>
+      <p>Nor does this third view rest on a distinction between "negative"
+and "positive" liberty.69 If the first section of this essay is persuasive,
+the distinction is highly misleading as usually understood. 70 There is
+nothing "negative" about negative liberty, whose existence depends on
+a state apparatus willing to become actively involved in some matters
+and not others. Instead of distinguishing negative from positive liberty,
+constitutional law might focus more directly on what sorts of liberties
+are protected by particular constitutional provisions. Of course, it
+might well be that the class of constitutionally protected liberty,
+properly conceived, overlaps a good deal with what is conventionally
+described as negative liberty, and little or not at all with what is
+conventionally described as positive liberty.</p>
+      <p>I do not mean to resolve the question whether the third view must
+ultimately be found persuasive. Whether or not this view is entitled to
+support depends on a range of considerations that its mere statement
+inadequately addresses. 7 1 Instead, I suggest that in all three areas, the
+prevailing conception of neutrality, which makes these claims seem
+impermissibly partisan, depends on an unarticulated and unjustifiable
+baseline, that is, the sexual and reproductive status quo. In all three
+areas, the prevailing conception of neutrality forbids attention to
+his67. This third view might be thought to embody an anticaste principle, one that
+insists that existing choices are sometimes an outgrowth of unjust background
+conditions. See Sunstein, supra note 56, at 770-73.</p>
+      <p>68. See Elster, supra note 30, at 109-40; Amartya Sen, Commodities and
+Capabilities 69-70 (1985).</p>
+      <p>69. See Isaiah Berlin, Two Concepts of Liberty, in Four Essays on Liberty 118,
+122-34 (1969).</p>
+      <p>70. See supra text accompanying notes 25-28.</p>
+      <p>71. I specify some of those considerations below. See infra text accompanying note
+111, text following note 161.
+tory and context; which is necessary to make sense of the relevant legal
+claims. In all three instances, it is the objection from neutrality that is
+now dominant. It is this objection, I contend, that cannot be sustained.</p>
+      <sec id="sec-2-1">
+        <title>A. Pornography</title>
+        <p>With respect to pornography, two positions, mirroring the first two
+views outlined above, have captured the current constitutional
+landscape, at least in the courts. According to the first, some categories of
+expression are simply excluded from the category of protected
+"speech." In the well-known formulation, "obscenity" is defined to
+include materials that appeal to the prurient interest, are patently
+offensive by contemporary community standards, and lack serious social
+value. 72 Obscenity does not count as speech; the Supreme Court treats
+it as sex rather than expression.</p>
+        <p>The exclusion of obscenity from the category of protected
+expression is often associated with the idea that sexuality is private or sacred.
+For this reason, sexuality ought not to be permitted to intrude into the
+public space, and the public space should not intrude into it. 3
+Separated, sexuality and the public space are unobjectionable in their
+current or traditional forms. The problem is their intermingling, which
+debases both. On this view, sexuality and reproduction should be
+immunized from the effects of commercialization and in particular from
+the exploitative and degrading depictions of the marketplace, which
+can easily spill into and adversely affect the private realm. In a
+democratic society, the public should be permitted to police this process.</p>
+        <p>Legal enforcement of the division between public and private
+spheres, aiming to protect the current or traditional versions of the
+two, is on this view hardly problematic. Indeed, it represents a form of
+impartiality. To be sure, a decision to regulate obscenity is not entirely
+neutral, since it makes regulation turn on the content of the speech and
+even on existing social norms. But as long as contemporary community
+standards serve as the basis for regulation, controls on obscenity may
+be seen as neutral at least with respect to point of view, and are
+therefore nonpartisan in the crucial sense that the views of the speaker are
+not the trigger for the imposition of governmental controls.74</p>
+        <p>The alternative view is that all speech stands on the same ground
+and that government has no business censoring speech merely because
+some people, or some officials, are puritanical or offended by it.75
+According to this view, obscenity is speech, not sex-just as a movie filled
+with violence is a representation rather than the thing itself. And on
+this view, government must remain neutral among different
+conceptions of the good, above all, among those conceptions as they are
+expressed through words and pictures. A decision to single out obscenity
+for special treatment is a conspicuous violation of the neutrality
+requirement of the First Amendment. It might be stressed here that
+sexuality, as described in obscene speech, is part of existing social practice.
+Surely existing practice ought to be protected insofar as it is merely
+depicted, however offensive it may be to some.</p>
+        <p>In some of its incarnations, this position has relatively
+straightforward neo-Freudian roots.76 It rests on the perceived naturalness of
+sexual drives, and it emphasizes the need to liberate those drives from
+the constraining arm of the state. This position could and sometimes
+does have different foundations. It need not rest on any form of
+naturalism, but might instead invoke the need to respect divergent
+conceptions of the good, whatever the source of those conceptions. 77
+Alternatively, it might recognize that sexuality, like speech, is partly or
+even largely a social construct,78 but still insist that sexuality is an
+important human good entitled to immunity from government.</p>
+        <p>The foundations of the first position, in many of its incarnations,
+can be found in some religious teaching. 7 9 It also tends to depend on a
+belief in the naturalness of sexual drives, here understood as
+unpolluted by obscenity, which, on this account, depicts sexuality in a
+debased and unnatural way. The link between the two positions lies in
+their shared reliance on a private sphere of sexuality, usually taken as
+natural or neutral. That private sphere is to be the starting point for
+assessing proposed legal controls.</p>
+        <p>In some contexts, much can be said on behalf of both of these
+positions. For both men and women, suppression or channeling of sexual
+drives and sexuality through law or social norms has sometimes been a
+vehicle for injustice and for the infliction of extremely serious personal
+harms.8 0 The liberation of such drives from law or social constraint is
+in some contexts an important individual and collective good. There is,
+Both views reflect a "prochoice" position. Both views stem from the
+belief that government ought not to be able to interfere with private
+liberty. Both views posit a private, natural, and largely unproblematic
+sphere of sexual and reproductive autonomy.1 1 7 Both views suggest
+that the private realm of sexuality and reproduction ought to be placed
+off limits to the State. Rights of access to pornography and abortion
+are protected for closely analogous reasons.</p>
+        <p>There are serious difficulties, however, in treating the abortion
+right as one of privacy, not least because the Constitution does not
+refer to privacy and because the abortion decision does not involve
+conventional privacy at all.1 18 In any case, the two views on the subject
+seem to have reached stalemate, with no possibility of developing
+criteria for mediating between them that might be acceptable to both sides.</p>
+        <p>We might therefore explore another argument on behalf of the
+relevant right, one that sounds in principles of equal protection. 19 This
+argument sees a prohibition on abortion as invalid because it involves a
+cooptation of women's bodies for the protection of fetuses.120 It claims
+that abortion restrictions selectively turn women's reproductive
+capacities into something for the use and control of others.' 2 1 No parallel
+117. For reasons suggested above, however, there is no need for privacy arguments
+to be based on this ground. See supra text accompanying notes 77-81.</p>
+        <p>118. See John H. Ely, The Wages of Crying Wolf: A Comment on Roe v. Wade, 82
+Yale L.J. 920, 932 (1973). Perhaps the right should be understood as involving liberty
+or autonomy. Liberty is of course protected by the Due Process Clause, and the notion
+that that Clause has a substantive component, though textually and historically
+controversial, is well-engrained in American law. But if the argument that follows in the text is
+correct, that understanding inadequately captures the dynamics of the abortion
+question. To say this is not to say that the fact that a form of liberty is involved is irrelevant,
+nor is it to deny the possibility of developing an argument that would rely on liberty
+rather than equality. See infra note 143 and accompanying text.</p>
+        <p>119. There appears to be a mounting consensus that equality arguments are better
+than liberty arguments with respect to abortion generally. See MacKinnon, supra note
+82, at 93-102; Tribe, supra note 104, at 1353-56; Ruth B. Ginsburg, Some Thoughts
+on Autonomy and Equality in Relation to Roe v. Wade, 63 N.C. L. Rev. 375, 382-83
+(1985); Kenneth L. Karst, Foreword: Equal Citizenship Under the Fourteenth
+Amendment, 91 Harv. L. Rev. 1, 57-59 (1977); Catharine A. Mackinnon, Reflections on Sex
+Equality Under Law, 100 Yale L.J. 1281, 1307-24 (1991); Frances Olsen, Unraveling
+Compromise, 103 Harv. L. Rev. 105, 117-26 (1989); Frederick Schauer, Easy Cases, 58
+S. Cal. L. Rev. 399, 431 n.83 (1985); David A. Strauss, Discriminatory Intent and the
+Taming of Brown, 56 U. Chi. L. Rev. 935, 990-92 (1989). An especially helpful recent
+treatment, overlapping with that presented here, is Guido Calabresi, Foreword:
+Antidiscrimination and Constitutional Accountability (What the Bork-Brennan Debate
+Ignores), 105 Harv. L. Rev. 80, 146-49 (1991).</p>
+        <p>120. An argument of this general sort is made in Donald H. Regan, Rewriting Roe v.
+Wade, 77 Mich. L. Rev. 1569 (1979) andJudithJarvis Thomson, A Defense of Abortion,
+1 Phil. &amp; Pub. Aff. 47 (1971). I am much indebted to these treatments; but they do not
+sufficiently emphasize issues of sexual inequality.</p>
+        <p>121. Of course, this argument itself depends on a baseline: women's reproductive
+capacities are just that-women's. If this argument depends on a belief in a natural or
+prepolitical right of ownership, it may well run afoul of the considerations introduced
+disability is imposed on men. Unlike the privacy view, this argument
+does not and need not take a position on the status of the fetus. It
+acknowledges the, possibility that fetuses are in important respects
+human beings. It is entirely comfortable with the claim that the
+destruction of a fetus is at least a morally problematic act. But it asserts
+that under current conditions, the government cannot impose on
+women alone the obligation to protect fetuses through a legal act of bodily
+cooptation.</p>
+        <p>On this view, abortion should be seen not as murder of the fetus
+but instead as a refusal to continue to permit one's body to be used to
+provide assistance to it. The failure to see it in this way is simply a
+product of the perceived naturalness of the role of women as
+childbearers-whether they want to assume that role or not. And even
+if a general legal obligation of bodily assistance to the vulnerable might
+be constitutionally acceptable, such an obligation cannot be permitted
+if it is imposed solely on women. This is so especially because of the
+close real-world connection between selectivity of this sort and
+constitutionally illegitimate stereotypes about the appropriate role of women.</p>
+        <p>In its fullest form, the argument from equality is supported by four
+different points: (1) prohibiting abortion is a form of prima facie or de
+jure sex discrimination; (2) it is impermissibly selective; (3) it results
+from constitutionally unacceptable stereotypes; and (4) it fails
+sufficiently to protect fetal lives. Standing alone, any one of these points is
+probably insufficient. They derive force by their cumulative effect.</p>
+        <p>The first point is that restrictions on abortion should be seen as a
+form of sex discrimination. The proper analogy here is to a law that is
+targeted solely at women, and thus contains a de jure distinction on the
+basis of sex. A statute that is explicitly addressed to women is of course
+a form of sex discrimination. A statute that involves a defining
+characteristic or a biological correlate of being female should be treated in
+precisely the same way.' 22 If a law said that "no woman" may obtain an
+supra text accompanying notes 17-23. The argument should be seen instead as rooted
+most straightforwardly in a norm of equality on the basis of sex: a right on the part of
+women not to have their bodies used by others when men's bodies are not similarly
+used. It would be most surprising if a general right of bodily ownership could not also
+be justified for both men and women, see infra note 143, but I need not explore that
+question here.</p>
+        <p>122. I am grateful to David Strauss for help with this point. The Supreme Court
+held otherwise in Geduldig v. Aiello, 417 U.S. 484 (1974), but the context involved a
+disability insurance program from which pregnancy was excluded. It is by no means
+clear that Geduldig would be extended to a case in which pregnant people were (for
+example) forced to stay indoors in certain periods, or subjected to some other unique
+criminal or civil disability.</p>
+        <p>An argument that discrimination on the basis of pregnancy should not be treated
+the same as discrimination on the basis of sex might stress that statutes directed at
+biological correlates of sex are less likely to reflect prejudice and stereotyping. There is,
+after all, a real difference here, and the legislation might be responding sensibly to it.
+But it is doubtful whether an approach to sex discrimination should be based on an
+abortion, it should readily be seen as a sex-based classification. A law
+saying that "no person" may obtain an abortion has the same meaning.</p>
+        <p>The fact that some men may also be punished by abortion
+lawsfor example, male doctors-does not mean that restrictions on
+abortion are sex-neutral. Laws calling for racial segregation make it
+impermissible for whites as well as blacks to desegregate, and this does not
+make such laws race-neutral. Nor would it be correct to say12 3 that
+restrictions on abortion merely have a discriminatory impact on
+women, and that they should therefore be treated in the same way as
+neutral weight and height requirements having disproportionate effects on
+women. With such requirements, men and women are on both sides of
+the legal line; but abortion restrictions exclusively target women. A law
+that prohibited pregnant women, or pregnant people, from appearing
+on the streets during daylight would readily be seen as a form of dejure
+sex discrimination. A restriction on abortion has the same sex-based
+features.</p>
+        <p>It may well be a sufficient response that what is plausibly another
+life-that of the fetus, who is defenseless, politically and otherwise-is
+involved. But that fact goes to the issue ofjustification, not to the
+question whether there is discrimination in the first instance.</p>
+        <p>It is important to recall here that the biological capacity to bear
+children, frequently taken as the basis for women's natural role, has the
+social consequence of involuntary childbearing only as a result of
+governmental decisions, significant among them the legal prohibition of
+abortion. The question at hand is whether government has the power
+to turn that capacity or difference, limited as it is to one gender, into a
+source of social disadvantage. The recognition of the abortion right
+might be rooted in a belief that the biological capacity has no necessary
+social consequences, and that the role of motherhood for women
+should be chosen rather than given.124</p>
+        <p>If we suppose that a restriction on the abortion right is a form of
+sex discrimination, the problem is hardly resolved. The question
+remains whether the interest in protecting the life of the fetus allows the
+state to compel women to bring the fetus to term. The second point in
+defense of an equality right to abortion would not devalue that interest,
+or refer generally to the right to control one's body, but would stress
+instead the selectivity of the compulsion. The basic problem is that an
+inquiry into whether there are real differences. Whether a "real difference" justifies
+social disadvantage is the question to be decided. See UAW v. Johnson Controls, Inc.,
+111 S. Ct. 1196, 1204 (1991); MacKinnon, supra note 82, at 32-45. And even if it does,
+pregnancy is a particular kind of real difference, one whose exclusive targeting is in fact
+likely to reflect prejudice.</p>
+        <p>123. As is said in Michael W. McConnell; How Not to Promote Serious
+Deliberation About Abortion, 58 U. Chi. L. Rev. 1181, 1187 (1991) (reviewing Laurence H.
+Tribe, Abortion: The Clash of Absolutes (1990)).</p>
+        <p>124. Cf. Virginia Held, Birth and Death, 99 Ethics 362, 364-67 (1989) (arguing that
+decision to give birth should be seen as a choice).
+act of abortion is not an ordinary killing, but instead a refusal to allow
+one's body to be devoted to the protection of another. Government
+never imposes an obligation of this sort on its citizens-even when
+human life is uncontroversially at stake. 12 5 Parents are not compelled
+to devote their bodies to the protection of children, even if, for
+example, a risk-free kidney transplant is necessary to prevent the death of
+their child-and even though it could be said in such cases that the
+parents "assumed the risk" of the bodily imposition by conceiving the
+child in the first instance.126</p>
+        <p>Indeed, it seems clear that a proposal to impose duties of bodily
+imposition on parents or others would be treated as a frightening and
+unacceptable intrusion on personal autonomy-even when life is at
+stake, even when death would result from refusal to carry out the
+relevant duty, and even when the people to be protected owe their
+existence and vulnerability to the people on whom the imposition would be
+placed. It is striking that no American legislature has imposed such a
+duty and that courts have refused to do so as well. 12 7 The fact that
+similar impositions are not made in cases in which men are
+involvedthe existence of facial discrimination in the imposition of the
+burdensuggests that the prohibition of abortion is a form of impermissible
+selectivity. It indicates that a discriminatory purpose is ultimately at
+work.</p>
+        <p>To be sure, nothing is quite like pregnancy. It is plausible that
+there are relevant differences between a prohibition on abortion and
+other forms of legally compelled use of bodies for the protection of
+others. 128 But the fact that the burden of bodily cooptation is imposed
+125. See Tribe, supra note 104, at 1354.
+126. See Thomson, supra note 120, at 57-59.</p>
+        <p>127. See, e.g., Curran v. Bosze, 566 N.E.2d 1319 (Ill. 1990); McFall v. Shimp, 10
+Pa. D. &amp; C.3d 90 (1978).</p>
+        <p>128. The brute facts of abortion are often taken to make the procedure morally
+analogous to murder rather than refusal to aid; but the brute facts cannot settle the
+moral question. An abortion is indeed different from a refusal to aid in the sense that it
+involves a physical operation as a result of which a living being will be removed from its
+habitat in a way that will produce its death. In this sense, abortion really is not like
+anything else. But it is also true that the person seeking abortion is refusing to allow her
+body to be conscripted for the use ofanother; here the parallel to refusal to aid becomes
+very close, and the assimilation of abortion to murder becomes puzzling.</p>
+        <p>The argument in the text works most simply with pregnancies produced by rape and
+incest. It is more complex with pregnancies resulting from sexual relations that are
+voluntary. But consent to intercourse is not consent to pregnancy, and the question is
+therefore not whether intercourse is voluntary, but whether the decision to engage in
+intercourse, even if voluntary, is a sufficient reason to allow governmental cooptation of
+bodies during any resulting pregnancy. Cf. Thomson, supra note 120, at 57-59
+(arguing that voluntary exposure to risks need not be a basis for imposing burdens when risks
+come to fruition). Note also that the conditions under which pregnancies occur
+frequently involve coercion ofvarious sorts, though this is of course a disputed question of
+both fact and theory. For more discussion of these points, see infra text accompanying
+note 146.
+in this setting alone at least suggests that the interest in protection of
+human life is found adequate only as a result of impermissible sex role
+stereotypes.' 2 9 The fact that an abortion is treated as a killing, whereas
+other refusals to allow one's body to be used are treated as mere
+refusals to protect, suggests precisely the same thing.</p>
+        <p>More particularly, we may speculate that an abortion is seen as a
+killing rather than a failure to allow conscription only because of the
+perceived naturalness of the role of women as child-bearers, whether
+they seek that role or not. The distinction between murder and failure
+to aid is a special case of the general distinction between acts and
+omissions, a distinction that usually turns on the identification of a baseline,
+that is, the natural or ordinary state of affairs. 3 0° The carrying of a
+child to term is, for those who consider abortion to be murder, the
+implicit (but undefended and reflexive) baseline. An abortion is thus
+seen as a murder for the same reason that a trespass law is seen as
+government inaction.13 1 The advantage of the analogies-compulsory
+blood transfusions or bone marrow transplants-is that they reveal that
+abortion is viewed as a killing, rather than a failure to assist, largely
+because of constitutionally unacceptable stereotypes about women's
+natural or appropriate role.</p>
+        <p>There is a plausible counterexample here: the military draft, from
+which women have traditionally been excluded. The male-only draft
+seems to suggest that the state does indeed impose on the bodies of
+both men and women when necessary, and even that there is a kind of
+equality in the imposition of the relevant burden. Women's
+compulsory role in the protection of unborn children might be thought to find
+a parallel in men's compulsory role in the protection of the nation.</p>
+        <p>In fact, the male-only draft does require a more precise statement
+of my basic claim, but when so restated the example turns out not to be
+129. Cf. UAW v.Johnson Controls, Inc., 111 S. Ct. 1196, 1203, 1208 (1991)
+(company's fetal protection policy not neutral because it does not apply to reproductive
+capacity of male employees; Title VII prohibits sex-specific fetal protection policies).</p>
+        <p>The equality argument in the text does not depend on the counterfactual question:
+How would abortion be treated if men could become pregnant? The question has the
+usual problem of counterfactuals: It can work only if one isolated part of current reality
+is changed and the rest held constant-an extremely artificial strategy, since the change
+of that one isolated part of reality changes the rest of it as well. See David K. Lewis,
+Counterfactuals 9 (1973). It is tempting to think that abortion would be freely available
+if men could become pregnant, because mostly male legislatures would be unlikely to
+support a law that would so severely constrain them in the event that sexual intercourse
+produced an unwanted child. But if men could become pregnant, they would not be
+men (indeed no one would be a man as we understand that term), and to ask how
+abortion would be treated in so fundamentally different a world is to ask a question that is
+not subject to meaningful evaluation. Cf. Strauss, supra note 119, at 992-95 (discussing
+conceptual incoherence of "reverse the groups" test).</p>
+        <p>130. See supra notes 17-23 and accompanying text.
+131. See id.
+a counterexample but instead a confirmation of that claim.1 3 2 The
+central point is that legal provisions ensuring that only men are drafted are
+part of a system of sex role stereotyping characterized by a sharp,
+legally produced split between the domestic and public spheres-with
+women occupying the first and men occupying the second. In this light,
+legal restrictions on abortion are an element in the legal creation of a
+domestic sphere in which women occupy their traditional role, and
+principally or exclusively that role. Male-only drafts are part of the
+legal creation of a public sphere in which men occupy their traditional
+role, and principally or exclusively that role.</p>
+        <p>The point suggests that from the standpoint of equal protection,
+the problem with restrictions on abortion is not merely that they
+impose on women's bodies but also that they do so in a way that is
+inextricably intertwined with the prescription, by the law and thus the state, of
+different roles for men and women, different roles that are part of
+second-class citizenship for women. Far from undermining it, the fact that
+only men are drafted helps to confirm the claim that abortion laws
+represent a form of unacceptable selectivity.1 3 3</p>
+        <p>The third point, buttressing the second, is that the notion that
+women should be compelled in this way is a product of constitutionally
+unacceptable stereotypes about the proper role of women in society.
+The connection is not a matter of logic but of past and current practice;
+it is fully possible to reject these stereotypes and the practice of
+abortion. But the history of abortion restrictions unambiguously supports
+the claim that in fact, such restrictions are closely tied up with, indeed
+in practice driven by, traditional ideas about women's proper role.' 3 4
+132. Note also that the draft is in an important sense less or at least differently
+invasive than a prohibition on abortion, because the imposition on the body is wholly
+external. During wartime the draft may subject a conscript to a serious and potentially
+fatal bodily invasion, but internal bodily cooptation is not a requirement of the draft.</p>
+        <p>133. All this does not mean that male-only registration or male-only combat
+necessarily violates the Equal Protection Clause, a question that turns on issues ofjustification
+that I cannot discuss here.</p>
+        <p>134. This is of course an empirical claim; but it is one with ample support. See
+James C. Mohr, Abortion in America: The Origins and Evolution of National Policy,
+1800-1900 (1978), demonstrating that the physicians largely responsible for bringing
+about abortion restrictions
+were among the most defensive groups in the country on the subject of
+changing traditional sex roles.... To many doctors the chief purpose of women was
+to produce children; anything that interfered with that purpose, or allowed
+women to "indulge" themselves in less important activities, threatened ... the
+future of society itself. Abortion was a supreme example of such an
+interference for these physicians.</p>
+        <p>Id. at 168-69; accord id. at 105 (quoting a 19th century doctor complaining that "the
+tendency to force women into men's places" was creating insidious "new ideas of
+women's duties," and including among such ideas the view "that her ministrations.., as a
+mother should be abandoned for the sterner rights of voting and law making.").</p>
+        <p>See also Gordon, supra note 63 at 3-25 (showing sex-discriminatory roots of
+abortion restrictions); Smith-Rosenberg, supra note 63 at 236-37 (same). Smith-Rosenberg
+To be sure, some people oppose with equal fervor both abortion and
+those traditional ideas. But the restrictions that do or could exist in this
+world would in all probability have failed to pass without the
+involvement and support of people holding and relying on unacceptable
+stereotypes.</p>
+        <p>There is in this sense an analogy between restrictions on abortion
+and seemingly neutral tests for police officers, the existence of which is
+partly attributable to a racially discriminatory motive, 135 or seemingly
+neutral height and weight requirements that would not have existed
+without sex discrimination.' 3 6 The evidence strongly suggests that a
+discriminatory purpose lies behind abortion restrictions, even though
+they, like neutral tests, can be justified on nondiscriminatory grounds.
+The analogy lies in the fact that prohibitions on abortion would not be
+enacted if not for their connection with, and their role in perpetuating,
+constitutionally unacceptable stereotypes.</p>
+        <p>The fourth and final factor is that in the real world, the
+consequence of a restriction on abortion is not materially to save fetal lives,
+but instead to force women to seek dangerous abortions, with increased
+risks to women themselves. Indeed, some estimates suggest that before
+Roe, 5,000 to 10,000 women died per year as a result of incompetently
+performed abortions, and thousands more were admitted to hospitals
+for the same reason.13 7 Since Roe, abortion-related maternal deaths
+have dropped by no less than 90%, falling by 40% in the year after Roe
+1 38
+alone.
+quotes an 1871 statement of the influential Committee on Criminal Abortion of the
+American Medical Association, describing the woman seeking an abortion: "She
+becomes unmindful of the course marked out for her by Providence, she overlooks the
+duties imposed on her by the marriage contract.... Let not the husband of such a wife
+flatter himself that he possesses her affection. Nor can she in turn ever merit even the
+respect of a virtuous husband." Id.</p>
+        <p>The best recent sources are Luker, supra note 49, at 192-215, and Kristin Luker,
+Abortion and the Meaning of Life, in Abortion: Understanding Differences 25, 31-33
+(Sidney Callahan &amp; Daniel Callahan eds., 1984), which deal with abortion laws passed
+within the last generation and bear on abortion laws likely within the next generation.
+Luker shows that those involved in antiabortion activities "concur that men and women,
+as a result of... intrinsic differences, have different roles to play: Men are best suited to
+the public world of work, whereas women are best suited to rearing children, managing
+homes, and loving and caring for husbands.... Mothering, in their view, is itself a
+fulltime job, and any woman who cannot commit herself fully to mothering should eschew it
+entirely. In short, working and mothering are either-or choices; one can do one or the
+other, but not both." Id. at 31.</p>
+        <p>135. See Washington v. Davis, 426 U.S. 229, 239 (1976) (indicating that such a test
+would be invalidated).</p>
+        <p>136. Cf. Personnel Adm'r v. Feeney, 442 U.S. 256, 274 (1979) (indicating that
+veterans' preference would be invalidated if and only if motivated by sex discrimination).</p>
+        <p>137. See Lawrence Lader, Abortion 3 (1966); Richard H. Schwarz, Septic Abortion
+7 (1968).</p>
+        <p>138. See Brief of the American Medical Association, et al., as Amici Curiae, in
+Support of Appellees at 9, Webster v. Reproductive Health Services, 109 S. Ct. 3040 (No.</p>
+        <p>Moreover, the abortion rate appears not to have increased
+dramatically as a result of the decision in Roe. Even the rate of legal abortions
+increased more in the three years before Roe than in the three years
+after that decision.' 3 9 Indeed, some studies show that nearly as many
+abortions were performed before Roe as now. 140 The abortion rate has
+increased from between 20% and 25%o to about 28%; the total annual
+number has gone from between 1 million and 1.5 million to between
+1.5 and 1.6 million. 14 1</p>
+        <p>Even if these statistics are overstated, and even if the number and
+rate of abortions has increased more substantially as a result of Roe, at
+least it seems clear that the principal effect of the decision was not to
+increase fetal deaths, but instead to produce a shift from dangerous to
+safe abortions. If this is so, restrictions on abortion do not materially
+advance the goal of protecting life at all. Instead, they increase
+maternal deaths while decreasing the termination of fetal lives much less than
+might be expected or hoped. 142</p>
+        <p>The evidence on the futility of antiabortion restrictions also
+suggests, though it certainly does not demonstrate, the presence of a
+dis88-605) (1989), reprinted in 11 Women's Rts. L. Rep. 443, 454 (1989); Abortion
+Related Deaths Down 40 Percent Since 1973 Supreme Court Rulings Overturning
+Restrictive State Abortion Laws, 7 Family Planning Perspectives 54 (1975).</p>
+        <p>139. See Gerald N. Rosenberg, The Hollow Hope 179-80 (1991).
+140. See id. at 179-80, 353-55.</p>
+        <p>141. For pre-Roe figures, see Lader, supra note 137, at 2 (1.5 million);Jean van der
+Tak, Abortion, Fertility, and Changing Legislation: An International Review 72-73
+(1974) (1 million). For post-Roe figures, see Hyman Rodman et al., The Abortion
+Question 65-67 (1987) (1.5 million); Rosenberg, supra note 139, at 180, 353-55 (1.6
+million). For estimates of the abortion rate before and after Roe, see Brief for the National
+Coalition Against Domestic Violence as Amicus Curiae Supporting Appellees, Webster
+v. Reproductive Health Services, 109 S. Ct. 3040 (No. 88-605) (1989), reprinted in 11
+Women's Rts. L. Rep. 281, 292 (1989). See also Posner, supra note 94, at 277 (death
+rate fell from 72 per 100,000 to 0.8 per 100,000); Willard Cates,Jr., &amp; Roger W. Rochat,
+Illegal Abortion in the United States: 1972-74, 8 Family Planning Perspectives 86, 92
+(1976) (illegal abortion death rate is eight times higher than the legal abortion rate).</p>
+        <p>142. I do not suggest that ineffective laws are unconstitutional. Instead the
+argument-quite a conventional one-is that those laws that intrude on fundamental
+interests or discriminate on the basis of sex must show a strong means-ends connection. See
+Griswold v. Connecticut, 381 U.S. 479, 507 (1965) (White, J., concurring) ("At most the
+broad ban is of marginal utility to the declared objective."). Of course, for some the
+symbolic gain-the affirmation of human life produced by a prohibition on
+abortionmight be sufficient. But that symbolic gain is probably inadequate to survive heightened
+scrutiny. Cf. id. at 496-98 (Goldberg, J., concurring); 505-07 (White, J., concurring)
+(refusing to invoke symbolic goals in case in which statute inadequately serves its other
+legitimate purposes).</p>
+        <p>It is possible that new abortion restrictions would be more effective or less
+dangerous than old ones, because of greater enforcement activity and technological changes.
+But the severe difficulties of policing the practice without unacceptable costs suggests
+that this is unlikely. Moreover, the technological changes that might decrease the
+danger of unlawful abortions-to those who have access to the relevant technology-would
+simultaneously decrease the efficacy of the legal prohibitions.
+criminatory purpose. The failure of advocates of abortion laws to come
+to terms with that evidence suggests the possibility that at least a part of
+the antiabortion movement stems from punitive goals rather than an
+interest in protecting fetal life.</p>
+        <p>The argument for an abortion right built on principles of sex
+equality is thus straightforward. Restrictions on abortion burden only
+women, and are therefore impermissible unless persuasively justified in
+sex-neutral terms. Adequate justifications might be available for sex
+discrimination in some settings. But here they are not, in light of the
+fact that the burden of bodily cooptation, properly understood, is
+imposed only on women, could not under current conditions be enacted
+without unacceptable stereotypes about women's appropriate role, and
+does not operate in practice sufficiently to save fetal lives. Such
+arguments do not posit an abstract right to privacy or to control of one's
+body.143</p>
+        <p>Moreover, these arguments have a large advantage in that unlike
+privacy or liberty arguments, they do not devalue the legitimate interest
+in protecting the fetus, and indeed make it unnecessary to take any
+po143. I do not mean to suggest that such an argument is necessarily unpersuasive or
+that it is impossible to argue that an interest in autonomy or in freedom from bodily
+invasion justifies an abortion right. But one of several difficulties with those arguments
+is that they must come to terms with the moral or political status of the fetus, a problem
+that the equality argument successfully avoids. And the presence of a strong claim from
+liberty joins with the equality argument to increase the power of the basic position: It is
+not as if the abortion context involves an inequality with respect to something trivial.</p>
+        <p>Indeed, there is some artificiality in separating the equality and liberty claims in this
+setting, since the matter treated unequally-control over reproductive processes-is
+simultaneously a central ingredient in a denial of both liberty and equality to women. The
+social and legal control ofwomen's reproductive capacities is a defining characteristic of
+systems of caste based on gender; and a serious commitment to both liberty and equality
+calls for a legal attack on those systems in all their various forms.</p>
+        <p>In fact, it may be ventured that the understanding of the equal protection principle
+as an attack on irrational differentiation-treating likes differently-has been a large
+mistake for constitutional law, which might instead have understood the principle as an
+attack on caste legislation. This understanding draws firm support from history. See
+Fairman, supra note 59, at 15-18.</p>
+        <p>I do not mean to say that an abortion right would necessarily be unavailable in a
+world of sexual equality. No one is likely to be in a good position to answer that
+question. It may be that the biological difference creates a relevant inequality that would be
+at stake in any restriction on abortion. It may be that the autonomy interest is sufficient
+no matter how much there is in the way of sexual equality. Nonetheless, movements in
+the direction of sexual equality-before, during, and after conception, including after
+birth-unquestionably weaken the case for an abortion right by removing one of the
+factors that supports its existence. See Calabresi, supra note 119, at 146-47.</p>
+        <p>Ironically, it is the privacy argument, not the equality argument, that forces
+proponents to ask bizarre and unresolvable counterfactual questions. The argument from
+equality stresses the context, well-springs, and consequences of abortion restrictions; it
+is solidly anchored in existing practices. The autonomy argument requires an
+assessment of how abortion would or should be treated if those practices were changed in a
+fundamental way. It is doubtful if that assessment can be made into a sensible one.
+sition on the moral and political status of unborn life. Even if the fetus
+has all of the status of human life, the bodies of women cannot, under
+current conditions, be conscripted in order to protect it. The
+(admittedly imperfect) analogy here would be to a case in which black people
+were required to become blood donors to ensure that certain people
+needing blood did not die. Even if the protection of those who need
+blood were a compelling state interest, selectivity of this sort could not
+be tolerated. Even if the people in question were parents of children
+needing blood, the racial selectivity would be impermissible. Even if
+only black people had the right blood, it is doubtful that this would be
+permitted. It does not matter if people's lives are at stake, since a
+selective imposition on one class of people, even to protect others who need
+them, cannot be justified under the equal protection clause. 144</p>
+        <p>There are two possible challenges to the line of argument thus far:
+first, that pregnancy results from a voluntary activity that creates a
+special duty; and second, that the equal protection argument fails to
+address legitimate claims of the fetus. Neither argument, however,
+responds sufficiently to the equality argument.</p>
+        <p>Because the existence and vulnerability of the fetus result from a
+voluntary choice, it might be thought that a special duty is properly
+placed on the woman to protect it, even if that duty requires bodily
+cooptation. In circumstances in which the fetus exists by virtue of
+voluntary actions, and cannot live without bodily cooptation, the proper
+analogy is to murder rather than to failure to assist.1 45 Moreover, what
+makes the abortion context distinctive is that selectivity in the
+imposition of bodily cooptation is the only available option for those
+concerned about fetal life. Because of biology, government cannot make
+men bear the relevant burden even it wants to do so. If fetuses are to
+survive, impositions on women are required. Selectivity is ordained by
+biology.</p>
+        <p>Even if this argument is accepted on its own terms, it would not
+work in cases in which pregnancy has resulted from involuntary
+intercourse, such as rape and incest. Certainly the argument from equality
+is secure in such cases. Moreover, the fact that individualized proof of
+rape or incest is so difficult even in criminal cases reveals that it is
+extraordinarily hard to make pleading and proof of rape or incest a
+predicate for abortion. If the right exists in rape or incest cases, the only
+realistic way to protect that right seems to be to create a general right
+to abortion. Such protection would be far too broad in that it would
+protect abortions to which there is (on the argument offered thus far)
+144. A large puzzle lies beneath the surface here: why are admittedly
+discriminatory measures not upheld if the interest is strong, even when the interest is tied up with
+discrimination? I do not attempt to answer that question here. Instead I build on
+conventional legal principles. (I am indebted to Michael Sandel for raising this point.)
+145. Cf.Jones v. United States, 308 F.2d 307, 310 (D.C. Cir. 1962) (criminal
+liability may be based on failure to act where there is a legal duty to act).
+no constitutional right; but the fact that a general right may be
+necessary to protect those abortions that are constitutionally safeguarded
+seems at least a consideration counting in favor of the general right.</p>
+        <p>More broadly, the fact that intercourse, is voluntary hardly means
+that pregnancy is. Voluntary intercourse does not mean, as a matter of
+simple fact, voluntary pregnancy, any more than the decision to walk at
+night in a certain neighborhood means voluntary mugging. Even
+reasonable efforts at contraception may fail. The question is instead the
+(always and inevitably normative) one of assumption of risk: whether
+the decision to engage in intercourse, when voluntary, should be taken
+to allow the state to impose on women a duty of bodily cooptation in
+cases of pregnancy. 14 6</p>
+        <p>If the argument thus far is correct, the answer to that'question
+must be negative. As we have seen, the imposition of that duty is
+deeply implicated in violations of the equality guarantee in terms of its
+wellsprings. Moreover, it remains impermissibly selective despite the
+genuine fact that the state cannot, as a biological matter, conscript men
+to protect fetuses. The reason is that even in cases in which men's
+bodies could be conscripted to protect children-for whose existence they
+are in part responsible, and for whom they therefore could well be said
+to have assumed the risk-the state imposes no such obligations. The
+selectivity comes in the state's across-the-board failure to impose on
+men a duty of bodily use to protect children. Blood transfusions are
+never required by law. Finally, antiabortion restrictions serve their own
+purposes too poorly to be acceptable, even if the voluntariness of
+pregnancy could be established, and could be shown to distinguish the
+situation from others.</p>
+        <p>The second response would be that the argument I have made fails
+to come to terms with the legitimate claims of the fetus. No group is as
+politically weak or generally vulnerable as unborn children, and
+perhaps they themselves have a claim of inequality sufficient to override
+the imposition on women.1 4 7 According to this view, any objection
+from inequality or selectivity comes even more powerfully from fetuses
+than from women.</p>
+        <p>This response properly points to the fact that politically vulnerable
+groups are on both sides of this question. Indeed, it suggests that in
+some contexts the government may be under some sort of
+constitutional duty to protect the unborn, at least if it can do so without
+coopting the body of the mother.148 It is not, however, a persuasive
+146. Cf. Thomson, supra note 120, at 57-59, 65 (rejecting assumption of risk
+argument).</p>
+        <p>147. See Ely, supra note 118, at 933-35.</p>
+        <p>148. See Tribe, supra note 104, at 1357. The major obstacle to such a claim is the
+fact that under current law, there is generally no constitutional right to protection by the
+government, at least in the absence of a claim that one has been treated unequally. See
+DeShaney v. Winnebago County Dep't of Social Servs., 489 U.S. 189, 195 (1989). For
+rejoinder to the claim of impermissible sex discrimination. Even if
+fetuses are a vulnerable group, and even if they are entitled to special
+protection against discrimination, they do not have a claim to conscript
+bodies of another vulnerable group on their behalf. The analogy
+here-an imprecise one, to be sure 4 9-would be a law requiring
+Hispanic people to devote their bodies (through blood donations and
+compulsory kidney transplants, for example) to the protection ofvulnerable
+black children, or imposing such a duty on the parents of black children
+alone. Even if the group to be protected has a special claim to
+protection, the state cannot selectively impose the relevant duty on another
+vulnerable group.</p>
+        <p>An argument from sex equality seems preferable to one that posits
+a general or acontextual privacy right, and also to the view that
+restrictions on abortion simply do not raise constitutional questions. In
+particular, the equality argument has a large advantage over the
+"prochoice" position in that it does not rest on privacy; freely
+acknowledges and, indeed, insists on the strength of the interest in protecting
+fetal life; and stresses rather than disregards the fact that women alone
+become pregnant and the existence of discrimination and coercion in
+the realm of reproduction. The reasons for these advantages closely
+parallel those in the antipornography context.</p>
+        <p>The equality argument has advantages over the "prolife" position
+as well, insofar as the equality argument stresses both that restrictions
+on abortion are unlikely to protect life at all and the selectivity of the
+imposition on women. Indeed, it seems reasonable to conclude that an
+argument from sex discrimination is not merely a worthy competitor to
+the two alternatives, but on balance correct.</p>
+        <p>As far as current constitutional law is concerned, however, the
+argument from sex discrimination is the least well-represented, having
+appeared not once in a Supreme Court opinion. The reason is that
+there is a crisp answer to that argument, one that is strikingly
+reminiscent of the answer provided in the case of pornography. In the
+Supreme Court's view, laws restricting abortion cannot amount to
+discrimination because only women can become pregnant. 150 A denial of
+equality means a refusal to treat the similarly situated similarly. With
+respect to the capacity to become pregnant, women and men are not
+similarly situated. An equality argument is therefore unavailable.
+criticism of this view, see Jack M. Beerman, Administrative Failure and Local
+Democracy: The Politics of DeShaney, 1990 Duke LJ. 1078; David A. Strauss, Due Process,
+Government Inaction, and Private Wrong, 1989 Sup. Ct. Rev. 53.</p>
+        <p>149. It is imprecise because the selectivity is at first glance biologically
+foreordained; if government wants to protect fetuses, it cannot proceed on a sex-neutral basis.
+But as noted above, the first glance is misleading, since no other duties of bodily
+imposition are imposed by law, and since sex-neutrality would in that sense be possible with
+respect to the protection of fetuses, infants, and children generally.</p>
+        <p>150. See Harris v. McRae, 448 U.S. 297, 322-23 (1980); Geduldig v. Aiello, 417
+U.S. 484, 496 n.20 (1974).</p>
+        <p>This conception of equality turns out also to be a conception of
+neutrality. According to that conception, the government's duty of
+impartiality is violated when, and only when, it distinguishes between
+those who are the same, by, for example, treating blacks differently
+from whites, or women differently from men. But this conception of
+neutrality rules out of bounds a perfectly plausible claim of inequality.
+It does so precisely because it embodies a controversial substantive
+baseline. Here the baseline is not existing distributions of wealth and,
+opportunities; it is not as if the social status quo, in that sense, is taken
+as prepolitical and just. Something quite similar is, however, at work.
+Women's biological differences "from the norm" are treated as a social
+given, and legal rules directed at those differences are said not to
+implicate equality.</p>
+        <p>The problem here is that the norm itself is defined as the physical
+capacities of men. 15 1 Sex discrimination is perceived when, and only
+when, women are the same as men. As currently understood, the
+equality principle requires only that women must be treated the same
+as men insofar as they are the same as men. 152</p>
+        <p>This approach takes male biological capacities as the baseline
+against which to assess the equality issue. 15 3 This is the parallel in the
+abortion context to the use, in other contexts I have discussed, of
+existing social practices as the baseline from which to assess deviations
+from neutrality. In fact, it is a version of the same phenomenon. Of
+course, there is no obvious reason to ask the equality question in this
+way. Indeed, if we do so, we will fail to see inequality in cases where it
+plausibly exists (and see equality in cases in which it is plausibly
+absent1 5 4). Surely a law that turns a biological capacity into a social and
+legal disability for a part of the population, and for only that part,
+should be seen as raising questions of discrimination. If a biological
+capacity limited to one gender is made a basis for social disadvantage
+151. See MacKinnon, supra note 82, at 32-34; Martha Minow, Making All the
+Difference 56-60 (1990). It might be useful to explore a legal system taking female
+biological capacities as the norm: Imagine, for example, a state giving every citizen the choice
+of either bearing a child or giving the government nine months in salary. Such a law
+should readily be seen as a form of discrimination against men, even though it is a far
+weaker case for invalidation than laws burdening female reproductive capacity in light of
+(a) the fact that the burdened class consists of infertile women as well as men and (b) the
+fact that laws that burden female reproductive capacity are part of a system of
+subordination on the basis of sex, something that cannot be said for laws that burden male
+capacities.</p>
+        <p>152. See MacKinnon, supra note 82, at 32-45.</p>
+        <p>153. See generally MacKinnon, supra note 82, at ch.2 (discussing inadequacy of
+"differences" approach to sex equality).</p>
+        <p>154. The problem here is that sometimes legal distinctions between men and
+women might in fact promote equality, as in the case of alimony laws that recognize
+women's contributions to housework. See Becker, supra note 5, at 218-21 (showing that
+cases invalidating sex-based alimony law have hurt women).
+through law, one might think that the relevant law creates a problem of
+inequality.</p>
+        <p>The failure to see this point in the context of abortion is a product
+of a peculiar notion of neutrality and a derivative, and similarly
+peculiar, notion of what equality means. I conclude that laws restricting
+abortion violate the Equal Protection Clause and that the response
+from neutrality embodies an unjustified baseline.</p>
+      </sec>
+      <sec id="sec-2-2">
+        <title>C. Surrogacy</title>
+        <p>Many courts and state legislatures are in the process of deciding
+whether and how to regulate arrangements by which women sell their
+reproductive capacities, and the children who result, to couples who are
+infertile or otherwise unwilling to adopt children or to have a biological
+child between them. Thus far, the Constitution has played little role in
+this setting. But freedom of choice, and indeed contractual liberty, is
+the rallying cry for advocates of surrogacy agreements.15 5 At least one
+lower court has suggested that constitutional liberty forbids
+government restrictions on such agreements.1 56</p>
+        <p>On this view, surrogacy arrangements are acceptable for the same
+reason that Roe is right. Freedom of choice and control over one's
+body and reproductive processes are the governing principles. What
+matters is not that the choice be correct, but that it be remitted to
+individuals rather than to the state. This view is espoused by many who
+believe that Roe was right, and who support surrogacy arrangements for
+the same reason that they accept Roe.157</p>
+        <p>As in the case of abortion and pornography, there is a familiar
+competing position. According to this view, reproductive capacities
+and babies should be thought sacrosanct in the sense that they cannot
+be purchased and sold. To trade reproductive capacities-or
+peoplefor money is to diminish and degrade them. Sexuality and
+reproduction should be protected from hedonism and profit-making. In this
+respect, surrogacy arrangements are wrong for the same reason that Roe
+is wrong. Both are insufficiently respectful of the special claims of
+sexuality and reproductive processes, in their traditional forms, to
+protection from various forms of debasement. Similar ideas underlie the
+antiobscenity position. 158</p>
+        <p>Advocates of surrogacy arrangements might well be prompted to
+ask (perhaps tendentiously) why women ought not to be permitted to
+sell their offspring if, under Roe, they are permitted to kill them. They
+155. See Carmel Shalev, Birth Power 16-19, 102-04, 120-45 (1989).</p>
+        <p>156. In re Baby M, 525 A.2d 1128, 1165-66 (N.J. Super. Ct. Ch. Div.), rev'd, 537
+A.2d 1227 (NJ. 1987). This is an unusual position. For a catalogue, see Martha A.
+Field, Surrogate Motherhood 155-69 (expanded ed. 1990).</p>
+        <p>157. See the elaboration of this position in Field, supra note 156, at 46-53; Shalev,
+supra note 155, at 128-29.</p>
+        <p>158. See supra text accompanying notes 73-74.
+might well be prompted to add that it is plausible to be for Roe and for
+surrogacy, or against Roe and against surrogacy-but impossible or
+even hypocritical to be, as some are, both for Roe and against
+surrogacy. If the abortion right finds its justification in a right to control
+one's body, then it follows that surrogacy arrangements are
+unobjectionable. 159 They are similarly a result of individual control over
+reproductive choice.</p>
+        <p>In either case, it might be thought extremely ironic that advocates
+of a right to abortion are frequently disturbed by free markets in
+reproduction. If the right is one to autonomy-or to control over one's own
+affairs with respect to issues of reproduction-surely the right to sell
+gestational services stands on at least as firm ground as the right to
+have an abortion.</p>
+        <p>If the conception of neutrality that I have been discussing here is a
+constitutional command, the answer is not easy to come by. As in the
+context of pornography and abortion, however, the most plausible
+response turns to principles of equal protection rather than privacy. We
+have seen that the problem with pornography (as defined here) is that it
+treats one group of people as objects for the sexual use of another or,
+more particularly, for sexual violence.</p>
+        <p>In the case of abortion, the problem is similar: the reproductive
+capacities of one class of people are turned, by law, into something for
+the use of others. If surrogacy is troublesome, it is for the same
+reason. 160 The practice of surrogacy also turns the reproductive capacities
+of one group of citizens into objects for other people's use.</p>
+        <p>The problem arises even if the bargains that result are in an
+important sense voluntary. The problem is especially severe in light of the
+fact that social and legal institutions have frequently turned women's
+reproductive capacities into something for other people's use and
+con159. A qualification is necessary here. Perhaps the privacy right means only that
+bodies cannot be literally invaded, not that there is a general right to autonomy with
+respect to reproduction. On this view, the abortion right is more secure than the right
+to participate in surrogacy arrangements, since literal invasion of the body by the state is
+not involved in the latter context. (This formulation does answer some hard questions
+in contestable ways.)</p>
+        <p>160. There is also, perhaps, a distinctive autonomy concern here as well. A unique
+intrusion is imposed on people who are forced to give up a child that they have borne
+through pregnancy. That intrusion may be sufficient for allowing the relevant contracts
+to be voidable even without an equality dimension.</p>
+        <p>If the argument in the text is persuasive, it would not matter whether the surrogate
+mother's egg is involved. What is crucial is that she carried the baby to term. The
+problem with surrogacy arrangements is in the commodification of women's gestational
+services, a problem that exists even if the fetus is biologically connected to both mother
+and father. I might suggest, speculatively, that the view that the fetus "is" the father's,
+or "is not" the surrogate mother's, is connected in all cases with an old and
+still-pervasive view, notwithstanding its biological implausibility: children are in a deep sense the
+product of the father alone, and the mother is a mere vehicle for the act of production.
+See Tom Laqueur, Making Sex 57-59 (1990).
+trol, and that this process is closely associated with the use, by those
+institutions, of women's reproductive capacities as a basis for creating
+second-class citizenship for women.' 6 1</p>
+        <p>In the context of surrogacy, this argument faces serious difficulties.
+A decision to constrain surrogacy might itself be seen as a mechanism
+for social control of the reproductive choices of women. In light of the
+fact that surrogacy agreements are (by hypothesis) voluntary and thus
+provide benefits for the women involved, it is necessary to explain why
+a decision to allow this voluntary choice should be seen as a form of
+harmful discrimination. It is plainly inadequate to invoke the term
+"exploitation," or (what may be the same thing) to refer to the background
+conditions faced by women who participate in such agreements.
+Disallowance of the agreement does nothing to eliminate those conditions.
+It simply eliminates one mechanism by which women might try to
+counteract them. These are altogether different strategies. Elimination
+of the most-preferred option is hardly a sensible way of dealing with
+background injustice or hardship.</p>
+        <p>The basic problem with the sale of reproductive capacities is not
+the background conditions, but the fact that the sale may have adverse
+consequences for those who participate in these arrangements and for
+women and children in general. The first difficulty is that
+notwithstanding subjective ex ante conceptions of welfare, the process of selling
+reproductive capacities can be harmful for the women involved. It may
+be hard to understand in advance exactly what it means to hand over a
+child that one has brought to term. Many illustrations, some highly
+publicized, can be found.' 6 2</p>
+        <p>The second problem is that there will be some inevitable external
+effects from social legitimation of the practice of exchanging women's
+reproductive capacities, and the children who result, in return for cash.
+A choice to allow these to be treated as objects for sale and use may
+affect how men perceive women, how womeh perceive themselves, and
+how both perceive children. Here the questions of surrogacy and
+prostitution become closely allied.163
+161. See supra notes 63-66 and accompanying text.
+162. See Field, supra note 156, at 1-4.</p>
+        <p>163. See MargaretJane Radin, Market-Inalienability, 100 Harv. L. Rev. 1849, 1929
+(1987).</p>
+        <p>For those who doubt the systemic and external effects of commodification, it might
+be useful to consider a revealing and frequently repeated joke attributed to George
+Bernard Shaw. As the story goes, Shaw, then an old man, encountered an attractive
+young woman at a party, and asked her, "Would you sleep with me for $1 million?" The
+woman answered in the affirmative, and Shaw responded, "Well, how about for $10?"
+The woman answered, "Mr. Shaw, what kind of a woman do you think I am?" Shaw
+responded, "We've already established that. Now we're just haggling over the price."</p>
+        <p>The real meaning of the story is confirmed by the fact that it would make absolutely
+no sense if the genders were reversed. If an old woman were soliciting a young man in
+this way, the story would not seem funny, but instead puzzling and meaningless; and any</p>
+        <p>In particular, a world in which female sexual and reproductive
+services are freely traded on markets would legitimate and reinforce a
+pervasive form of inequality-one that sees the social role of women as
+that of breeders, and that uses that role to create second-class
+citizenship. Surrogacy arrangements, if widespread, could affect attitudes, on
+the part of both men and women, about appropriate gender roles.
+Social stigmatization of the sale of those services might therefore
+bejustified on antidiscrimination grounds. There is no parallel problem for
+men. In view of the social (and to some extent biological) differences
+between men and women, a decision to allow male reproductive
+capacities to be bought and sold has no such consequences. To treat the sale
+of male and female reproductive capacities in the same way is thus not
+required by neutrality, in view of the vastly different purposes and
+effects of such sales.</p>
+        <p>I have not offered anything like a complete argument against
+surrogacy arrangements. A final resolution of that issue depends on a
+range of factors not mentioned here.16 The effects I have described
+might occur only a little or not at all. Many or most women who
+participate in these arrangements may be pleased to have done so, and this is
+surely relevant (though not decisive). A prohibition on surrogacy
+might involve an unacceptable form of protectionism, one that would
+help erase the fact that the process of carrying fetuses to term is
+actually a form of work. The external effects of allowing such arrangements
+might be small. In any case, an assessment of their magnitude is quite
+speculative. Social attitudes about the appropriate roles of men and
+women are affected by numerous factors, of which surrogacy
+arrangejoke would be on the old woman who is soliciting. What makes the story repeatable, in
+its current form, is that it trades on the institution of female prostitution and thus on the
+social commodification of female sexuality. In view of those things, Shaw is able to
+establish that all women are prostitutes; only the price is in doubt. The humor of the story
+results from Shaw's cleverness in being able to establish this. The joke is emphatically
+on her.</p>
+        <p>The general point in the text casts some doubt on the basic approach in Posner,
+supra note 95. Posner treats various "outlets" for sexual drives as largely
+interchangeable. To a significant degree, however, the outlets are nonfungible. There is a huge
+difference between what a person seeks through sex with a prostitute-basically, a form
+of use-and what a person seeks through sex in an intimate relationship. To treat
+various expressions of sexuality as if they were interchangeable is to erase crucial
+differences.</p>
+        <p>164. There are possible effects on children as well: to know that one has been sold,
+or might have been sold, could have harmful consequences. It would be necessary to
+evaluate this issue in order to come fully to terms with the surrogacy problem.</p>
+        <p>Moreover, issues of race are in the background here. There is a shortage of white
+children available for adoption, and a large number of unwanted black children. The
+appeal ofsurrogacy must be understood in this context. See Elizabeth Bartholet, Where
+Do Black Children Belong? The Politics of Race Matching in Adoption, 139 U. Pa. L.
+Rev. 1163 (1991). If black children were sought by white parents, there would be less
+need for surrogacy arrangements. Issues of this sort are of course a part of the
+surrogacy problem.
+ments might well be a quite minor one. The countervailing benefits to
+infertile couples and the women involved may outweigh any harms. Of
+course, some kinds of commodification exist here already. Much will
+depend on the details.' 6 5 The argument for outlawing these
+arrangements, rather than refusing to enforce them when the birth mother
+refuses to proceed, seems particularly weak.' 6 6</p>
+        <p>If surrogacy arrangements are troublesome, however, it is for
+reasons that argue for, rather than against, the outcome in Roe v. Wade. If
+those reasons are persuasive, there is no inconsistency in simultaneous
+approval of the abortion right and rejection of surrogacy arrangements.
+That position will seem inconsistent only to those who have already set
+forth the premises on which the discussion is to be conducted. Those
+premises have everything to do with a certain conception of neutrality.</p>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>NEuTALTrry: CONCLUDING NoTEs</title>
+      <p>If the arguments I have offered thus far are sound, the prevailing
+conception of neutrality often operates as a device for ruling out of
+bounds, as impermissibly partisan, views that see existing distributions
+of entitlements, wealth, and preferences as partisan and a product of
+law. Moreover, the very category of government action is defined by
+reference to existing distributions and to a correlative notion of what
+partisanship is.</p>
+      <p>There is simply no other way to explain the state action doctrine,
+which turns out not to be about action or inaction at all, but is instead
+rooted in a substantive and controversial view about what government
+normally or naturally does. One version of the constitutional assault on
+affirmative action, 167 and the closely related attacks on "affirmative
+rights,"' 68 campaign finance regulation, 69 and the right of access to
+the broadcasting media,' 7 0 turn on the same constellation of ideas. 17 1
+165. The point suggests a far broader one. In constitutional law, as elsewhere,
+there are severe limits to how much can be accomplished through conceptual analysis
+and through even plausible speculations about likely effects. To reach closure, a large
+amount of empirical evidence is often necessary.</p>
+      <p>166. See Jonathan Glover, Fertility and the Family: The Glover Report on New
+Reproductive Technologies 77-78, 151 (1989).</p>
+      <p>167. See Van Alstyne, supra note 23, at 792-803.
+168. See text accompanying notes 25-28.
+169. See text accompanying notes 33-37.</p>
+      <p>170. See Syracuse Peace Council v. F.C.C., 867 F.2d 654 (D.C. Cir. 1989)
+(upholding repeal of fairness doctrine), cert. denied, I10 S. Ct. 717 (1990).</p>
+      <p>171. It may well be that existing interpretive practice is a holdover from models of
+adjudication that are built on principles of compensatory justice. On the compensatory
+model, A injures B, and A must pay; there is no inquiry into existing distributions, which
+are held constant for purposes of tort law. The notion that adjudication should take
+existing distributions as a given seems fully plausible in many and perhaps most areas of
+private law, and the extension of that notion to adjudication in general is hardly
+surprising. In the contexts at hand, however, the extension appears reflexive, and is often hard
+to defend in substantive terms. See Sunstein, supra note *,at ch. 11.</p>
+      <p>The point suggests reasons to be skeptical of the conventional
+division of constitutional arguments over the issues of pornography,
+abortion, and surrogacy. The conventional division relies on
+understandings that assume, as the baseline for decision, the naturalness and
+justice of existing sexual and reproductive practices. These
+understandings are thought to be neutral precisely because they indulge this
+assumption.</p>
+      <p>A highly plausible set of alternative arguments, in all three
+settings, has been ruled out of bounds because it rejects this assumption.
+Such arguments do not point broadly and acontextually to freedom of
+choice, or to the appropriate role of government in maintaining a
+distinction between public and private spheres. Instead, they look much
+more concretely at the causes and effects of legal controls in the three
+settings. In all three areas, the basic problem is that the practice at
+issue turns women's sexuality and reproductive functions into objects
+for the control and use of others. On this view, the sexual and
+reproductive status quo is sometimes a locus of unjustified inequality, and
+the law should protect against that inequality.</p>
+      <p>Regulation of pornography might therefore be founded on
+realworld harms to women rather than community mores. Such regulation
+would target not sexually explicit speech in general, but speech that
+mingles sex with violence against women. It would stress that sexuality
+ought not to be something for the use and control of others, at least
+where violence is involved; it would connect the antipornography
+movement with general efforts to combat sex-related violence.</p>
+      <p>The principal obstacle to this argument rests on the supposed
+partiality of antipornography laws, which target materials that contain
+sexual violence against women. But the claim of partiality would make
+sense only if sexual violence by women against men were a problem of
+anything like the same magnitude as sexual violence by men against
+women, which of course it is not.</p>
+      <p>The best argument for protection of abortion stresses not
+privacy 172 but freedom from discrimination-here in the form of a
+governmental requirement that women's reproductive capacities be used,
+uniquely and against their will, for protection of the lives of others.
+The existence of that requirement owes a great deal to traditional
+stereotypes about the natural role of women, and it has the effect of
+helping to maintain those stereotypes. The principal obstacle to this
+position also sounds in neutrality. It sees discrimination only when one
+group has been treated differently from another to which it is similarly
+situated. But this is a peculiar conception of neutrality, since it treats
+the legal translation of biological differences into legal and social
+disabilities as entirely unobjectionable.</p>
+      <p>The principal question raised by surrogacy is closely related. If
+sur172. See supra notes 114-118 and accompanying text.
+rogacy is troublesome, it is largely because it treats women's
+reproductive capacities as objects for sale to and use by others. There is thus no
+inconsistency between approval of an abortion right and unease with
+surrogacy arrangements. Indeed the two are perfectly compatible.</p>
+      <p>To say all this justifies, I believe, recognition of a constitutional
+right to abortion on equal protection grounds. It does not resolve the
+questions of pornography and surrogacy, which turn in part on
+considerations that I have been unable to discuss here. 173 But it does suggest
+that the objection from neutrality cannot be sustained. The reason is
+that the relevant conception relies on an unjustified substantive
+baseline, one that is peculiarly ill-suited to these three settings.</p>
+      <p>In recent years some people have treated a commitment to any
+conception of neutrality as an unfortunate disguise for contestable
+substantive theories, so that neutrality is, in any form, something that
+judges and lawyers should avoid in the interest of simple candor. 174
+But this does not follow. Neutrality is indeed a futile aspiration if the
+term is intended to refer to legal decisions not informed by value
+judgments or commitments of some sort. In questions involving the proper
+organization of human affairs, that form of neutrality is unavailable,
+and obviously so. All approaches to social life depend on some
+substantive view about the right or the good. Neutrality cannot generate
+the relevant view.17 5</p>
+      <p>This point need not, however, be taken to suggest that other, less
+ambitious conceptions of neutrality are similarly impossible goals.
+These less ambitious conceptions are not the'source of appropriate
+baselines, in the sense that they do not provide the substantive
+foundations for legal decisions. But they are nonetheless of great importance.</p>
+      <p>I want to conclude by outlining several uses of the notion of
+neutrality in law. There are a number of distinct conceptions here, and it is
+possible and, I think, desirable to hold them simultaneously. None of
+them is wedded to existing distributions of any kind. All of them
+recognize the role of human beings in creating the background against which
+norms of neutrality must operate.</p>
+      <p>First, the requirement of neutrality is unobjectionable insofar as it
+is a call for internal consistency.' 7 6 The idea that one should order
+173. See supra notes 11, 164 and accompanying text.
+174. See, e.g., MacKinnon, supra note 82, at 162-67.</p>
+      <p>175. But see Ackerman, supra note 1, which is an effort to build a set of outcomes
+from a neutrality principle. For a response, seeJames S. Fishkin, Can There Be a
+Neutral Theory ofJustice?, 93 Ethics 348 (1983). To reject the idea that neutrality can
+generate a set of substantive results-is not to say that respect for disparate conceptions of
+the good cannot be defended, substantively, as a neutrality principle. But this idea
+would take me well beyond the present discussion.</p>
+      <p>176. This idea plays a role in Wechsler, supra note 7, as %elI. See Kent Greenawalt,
+The Enduring Significance of Neutral Principles, 78 Colum. L. Rev. 982 (1978), which
+elaborates this conception of neutrality.
+one's intuitions through an effort to reach "reflective equilibrium,"' 77
+or through a kind of internal socratic dialogue, is an indispensable one.
+It is hardly to be disparaged. It is part and parcel of the rule of law, and
+it affects substantive outcomes in many settings. The process of
+reasoning by analogy-central to legal interpretation-is best understood
+as a method of producing the necessary consistency across cases, in an
+effort to develop principles that do not conflict with one another, and in
+that sense embody an important principle of impartiality.</p>
+      <p>Second, the neutrality constraint is appropriate insofar as it
+requires public-regarding justifications for legal outcomes, or for the
+distribution of social benefits and burdens. Sometimes the demand for
+neutrality is actually a demand for justifications that can be phrased in
+public terms-the general principle of neutrality described at the outset
+of this Article. As a means of flushing out pure political power, or
+unarticulated, illegitimate, or unarticulable considerations, there is
+everything to be said in defense of that concept of neutrality. This is
+what distinguishes deliberative democracy from authoritarianism,
+majoritarian or otherwise. Indeed, much of constitutional law consists
+of a requirement of public-regarding justifications for what might
+otherwise be seen as naked wealth transfers. 178</p>
+      <p>Third, the idea of neutrality is unobjectionable insofar as it
+imposes, in certain contexts, a requirement of impersonality or
+abstraction on certain decisionmakers. In this view, neutrality restricts the
+kinds of considerations to which those in a position of authority may
+point. Ajudge in a tort case ordinarily pays no attention to the religion
+or race of the parties. If she does, she is violating her duty of
+impartiality. So too, a legislator distributing defense department grants should
+pay no attention to attempted bribes, personal friendships, political
+affiliation, or even campaign contributions.</p>
+      <p>Neutrality might therefore refer to a form of institutional division
+of labor, that is, a principle that certain actors must be indifferent to
+certain considerations. The division between law and politics can often
+be understood in these terms. If that division is to be accepted, and it
+should be, it can only be for straightforwardly political reasons. The
+division is thus justified on the ground that distinctly legal actors
+should not look to certain factors that have been-and this is the key
+point-deemed irrelevant for them. It is highly revealing that in most
+well-functioning legal systems, judges cannot consider factors that are
+properly part of the day-to-day work of administrators and
+legislators. 179 Judges are thus barred from referring to considerations that
+have been publicly made irrelevant for those who hold their particular
+offices. For example, a contracts case cannot ordinarily turn on the
+rel177. See Rawls, supra note 1, at 20.</p>
+      <p>178. Cass R. Sunstein, Naked Preferences and the Constitution, 84 Colum. L. Rev.
+1689 (1984), is a catalogue.</p>
+      <p>179. See Don Herzog, Happy Slaves 129 (1989).
+ative wealth of the parties, even though relative wealth is important for
+other government officials in other settings.</p>
+      <p>Thus understood, neutrality imposes a requirement of generality.
+It forbids bias or selectivity in the form of reliance on particular factors
+that have been deemed to be legally irrelevant. The content of this
+requirement of course has to be justified on the basis of good reasons,
+and there is a risk that generality, like neutrality, will sometimes conceal
+an indefensible substantive theory. Any division of labor must be
+justified in substantive terms; neutrality, by itself, will not explain which
+considerations should be placed off limits. But the notion that in some
+contexts certain considerations will be deemed irrelevant is a perfectly
+uncontroversial conception of neutrality. 80</p>
+      <p>Fourth, neutrality might refer to decisions made in accordance
+with the appropriate baseline. For example, a decision to exclude from
+the workplace those who require wheelchairs, or care for children,
+might seem objectionable because it turns morally irrelevant
+differences into a source of systemic social disadvantage.' 8 ' Objections
+about selectivity, made against the reflexive use of biased norms, are a
+familiar and indispensable part of legal and political argument. In this
+usage, the development of the appropriate baseline is doing the serious
+work. Notions of neutrality are derivative in the sense that they depend
+on that baseline, which is rooted in substantive ideas having a source
+independent of neutrality itself. Those substantive ideas, of course,
+should cohere with one another, both in their mode of derivation and
+in their content. To say all this is hardly to disparage the use of a
+certain conception of neutrality.</p>
+      <p>In many areas of constitutional law, however, a different
+conception is at work. According to that conception, the status quo-existing
+practices, distributions of wealth, opportunities, preferences, and
+natural assets-is the baseline from whichjudgments about partiality will be
+made. A departure from those practices and distributions signals both
+action and partisanship; adherence signals inaction and neutrality.
+Ideas of this sort are of course unobjectionable if the status quo can be
+defended in substantive terms, or if it does not itself embody injustice,
+whether social, biological, or otherwise. But sometimes existing
+practice is partial or at least the subject of controversy, and here a
+conception of neutrality that takes it as natural or just is at best reflexive and
+often serves as a mask for substantive theories that cannot be defended
+if brought into the open. That conception of neutrality is surprisingly
+pervasive. We would be better off without it.182
+180. See id. at 171-75.</p>
+      <p>181. Rawls, supra note 1, famously uses the device of the original position to
+overcome the baseline problem and to put to one side morally irrelevant differences.
+182. For some qualifications, see supra note 8.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          12.
+          <article-title>Some of the ideas in this section are discussed from a somewhat different angle in Cass R</article-title>
+          . Sunstein,
+          <source>Lochner's Legacy</source>
+          ,
+          <volume>87</volume>
+          Colum. L. Rev.
+          <volume>873</volume>
+          ,
+          <fpage>883</fpage>
+          -
+          <lpage>902</lpage>
+          (
+          <year>1987</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          13.
+          <string-name>
+            <surname>Wechsler</surname>
+          </string-name>
+          , supra note 7.
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          14. 347 U.S.
+          <volume>483</volume>
+          (
+          <year>1954</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          15.
+          <string-name>
+            <surname>Wechsler</surname>
+          </string-name>
+          , supra note 7, at 31-34.
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          16.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          , e.g.,
+          <string-name>
+            <surname>Charles</surname>
+            <given-names>L. BlackJr.</given-names>
+          </string-name>
+          ,
+          <source>The Lawfulness of the Segregation Decisions, 69 Yale LJ</source>
+          .
+          <volume>421</volume>
+          ,
+          <fpage>427</fpage>
+          -
+          <lpage>28</lpage>
+          (
+          <year>1960</year>
+          ).
+          <article-title>fusal to subsidize" those rights. This split also treats existing distributions-the prewelfare state status quo-as natural and just</article-title>
+          .
+          <source>See Chapter 10 of Sunstein</source>
+          , The Partial Constitution, supra note *.
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          26.
+          <string-name>
+            <surname>See</surname>
+            <given-names>DeShaney</given-names>
+          </string-name>
+          , 109
+          <string-name>
+            <given-names>S.</given-names>
+            <surname>Ct</surname>
+          </string-name>
+          .
+          <volume>998</volume>
+          ,
+          <fpage>1002</fpage>
+          -
+          <lpage>04</lpage>
+          ; Harris v.
+          <source>McRae</source>
+          ,
+          <volume>448</volume>
+          U.S.
+          <volume>297</volume>
+          ,
+          <fpage>316</fpage>
+          -
+          <lpage>17</lpage>
+          (
+          <year>1980</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          27. See U.S. Const. art. I, §
+          <volume>10</volume>
+          , cl. 1; U.S. Const. amend. V.
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          28.
+          <article-title>A qualification is necessary here: To some extent the institutions of property and contract operate through norms rather than law</article-title>
+          .
+          <source>See Robert Ellickson, Order Without Law 123-36</source>
+          (
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          29.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          , e.g.,
+          <source>Epstein, supra note 3</source>
+          , at 954-55 ; Ackerman, supra note 1, at 10-12.
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          30.
+          <article-title>This is the "endowment effect" frequently observed by economists and social psychologists</article-title>
+          . See, e.g.,
+          <string-name>
+            <surname>Jack</surname>
+            <given-names>L.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Knetsch</surname>
+            &amp;
+            <given-names>J.A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Sinden</surname>
+          </string-name>
+          ,
+          <article-title>Willingness to Pay and Compensation Demanded: Experimental Evidence of an Unexpected Disparity in Measures of Value, 99</article-title>
+          <string-name>
+            <given-names>Q.J.</given-names>
+            <surname>Econ</surname>
+          </string-name>
+          .
+          <volume>507</volume>
+          ,
+          <fpage>516</fpage>
+          -
+          <lpage>20</lpage>
+          (
+          <year>1984</year>
+          ); Richard Thaler,
+          <article-title>Toward a Positive Theory of Consumer Choice, IJ</article-title>
+          . Econ. Behav. &amp;
+          <string-name>
+            <surname>Org</surname>
+          </string-name>
+          .
+          <volume>39</volume>
+          ,
+          <fpage>43</fpage>
+          -
+          <lpage>47</lpage>
+          (
+          <year>1980</year>
+          )
+          <article-title>; see also Jon Elster</article-title>
+          ,
+          <source>Sour Grapes 109-40</source>
+          (
+          <year>1983</year>
+          )
+          <article-title>(discussing adaptation ofpreferences to status quo); Martha Nussbaum, Aristotelian Social Democracy</article-title>
+          ,
+          <source>in Liberalism and the Good</source>
+          <volume>203</volume>
+          ,
+          <fpage>213</fpage>
+          -17
+          <string-name>
+            <surname>(R. Bruce</surname>
+          </string-name>
+          Douglass et al. eds.,
+          <year>1990</year>
+          )
+          <article-title>(same).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          38. See Syracuse Peace Council, 2 F.C.C.R.
+          <volume>5043</volume>
+          ,
+          <issue>5055</issue>
+          (
+          <year>1987</year>
+          ).
+          <article-title>The issue is discussed in detail in Cass R</article-title>
+          . Sunstein, Free Speech Now, 59
+          <string-name>
+            <given-names>U.</given-names>
+            <surname>Chi</surname>
+          </string-name>
+          . L. Rev. (forthcoming
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          39.
+          <string-name>
+            <surname>See</surname>
+            <given-names>Aristotle</given-names>
+          </string-name>
+          ,
+          <source>Aristotle's Physics 25-27</source>
+          <string-name>
+            <surname>(Book B) (Hippocrates</surname>
+            <given-names>G.</given-names>
+          </string-name>
+          <article-title>Apostle trans</article-title>
+          .,
+          <year>1980</year>
+          ).
+          <article-title>I am grateful to Martha Nussbaum for help with the points discussed in this paragraph</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          41.
+          <source>See infra notes 107-110</source>
+          ,
+          <fpage>150</fpage>
+          -
+          <lpage>52</lpage>
+          ,
+          <fpage>159</fpage>
+          -
+          <lpage>63</lpage>
+          and accompanying text.
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          42.
+          <source>See infra notes 75-78</source>
+          , 81 and accompanying text.
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          43.
+          <source>See infra notes 75-78 and accompanying text.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          44.
+          <source>See infra notes 114-17 and accompanying text.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          45.
+          <source>See infra notes 155-157 and accompanying text.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          46. See Roe v.
+          <source>Wade</source>
+          , 410 U.S.
+          <volume>113</volume>
+          ,
+          <fpage>152</fpage>
+          -
+          <lpage>56</lpage>
+          (
+          <year>1973</year>
+          )
+          <article-title>; David</article-title>
+          <string-name>
+            <given-names>A.J.</given-names>
+            <surname>Richards</surname>
+          </string-name>
+          ,
+          <source>Toleration and the Constitution</source>
+          <volume>269</volume>
+          -
+          <fpage>80</fpage>
+          (
+          <year>1986</year>
+          );
+          <article-title>Philip B</article-title>
+          .
+          <string-name>
+            <surname>Heymann</surname>
+          </string-name>
+          &amp; Douglas G.
+          <article-title>Barzelay, The Forest and the Trees: Roe v</article-title>
+          .
+          <source>Wade and Its Critics</source>
+          ,
+          <volume>53</volume>
+          B.U. L. Rev.
+          <volume>765</volume>
+          ,
+          <fpage>769</fpage>
+          -
+          <lpage>75</lpage>
+          (
+          <year>1973</year>
+          ).
+          <article-title>The identification is made explicit in a statement by Kathy Keeton, the president of Penthouse magazine: "I think if a woman has a right to an abortion and to control her body, then she has the right to exploit her body and make money from it. We have had it hard enough. Why give up one of our major assets?" Overheard, Newsweek</article-title>
+          , Dec.
+          <volume>16</volume>
+          ,
+          <year>1991</year>
+          , at 15.
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <article-title>A belief in sexual autonomy need not, however, rest on the view that sexual drives are prepolitical or natural</article-title>
+          .
+          <source>See infra notes 77-81 and accompanying text.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          47.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          , e.g.,
+          <string-name>
+            <surname>Walter</surname>
+            <given-names>Bems</given-names>
+          </string-name>
+          ,
+          <source>The First Amendment and the Future of American Democracy</source>
+          <volume>47</volume>
+          (
+          <year>1976</year>
+          )
+          <string-name>
+            <surname>; Harry M. Clor</surname>
+          </string-name>
+          ,
+          <source>Obscenity and Public Morality</source>
+          <volume>175</volume>
+          -
+          <fpage>209</fpage>
+          (
+          <year>1969</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          59.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          <article-title>Charles Fairman, Does the Fourteenth Amendment Incorporate the Bill of Rights?, 2</article-title>
+          <string-name>
+            <given-names>Stan. L.</given-names>
+            <surname>Rev</surname>
+          </string-name>
+          .
+          <volume>5</volume>
+          ,
+          <fpage>163</fpage>
+          -
+          <lpage>70</lpage>
+          (
+          <year>1949</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          60.
+          <string-name>
+            <surname>See Gerald N. Rosenberg</surname>
+          </string-name>
+          , The Hollow Hope: Can Courts Bring About Social Change?
+          <volume>338</volume>
+          (
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          61. See Personnel Adm'r v.
+          <source>Feeney</source>
+          , 442 U.S.
+          <volume>256</volume>
+          ,
+          <issue>257</issue>
+          (
+          <year>1979</year>
+          )
+          <article-title>(14th Amendment requires "exceedingly persuasive justification" of state laws designed overtly or covertly to prefer males to females).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          62.
+          <source>See infra text accompanying notes 122-124.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          63. See Linda Gordon,
+          <article-title>Woman's Body, Woman's Right: A Social History of Birth Control in America 3-25 (</article-title>
+          <year>1976</year>
+          ); Carroll
+          <string-name>
+            <surname>Smith-Rosenberg</surname>
+          </string-name>
+          ,
+          <source>Disorderly Conduct 236-37</source>
+          (
+          <year>1985</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          64.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          , e.g.,
+          <article-title>Rust v</article-title>
+          .
+          <source>Sullivan</source>
+          , 111
+          <string-name>
+            <given-names>S.</given-names>
+            <surname>Ct</surname>
+          </string-name>
+          .
+          <volume>1759</volume>
+          ,
+          <fpage>1776</fpage>
+          -
+          <lpage>77</lpage>
+          (
+          <year>1991</year>
+          );
+          <article-title>Harris v</article-title>
+          .
+          <source>McRae</source>
+          ,
+          <volume>448</volume>
+          U.S.
+          <volume>297</volume>
+          ,
+          <fpage>313</fpage>
+          -
+          <lpage>18</lpage>
+          (
+          <year>1980</year>
+          );
+          <article-title>Geduldig v</article-title>
+          .
+          <source>Aiello</source>
+          , 417 U.S.
+          <volume>484</volume>
+          ,
+          <fpage>489</fpage>
+          -
+          <lpage>91</lpage>
+          (
+          <year>1974</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          65.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          , e.g.,
+          <article-title>Muller v</article-title>
+          .
+          <source>Oregon</source>
+          , 208 U.S.
+          <volume>412</volume>
+          (
+          <year>1908</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          66.
+          <article-title>Of course, the existence and form of the market are products of government.</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          72.
+          <string-name>
+            <surname>Miller</surname>
+          </string-name>
+          v.
+          <source>California</source>
+          , 413 U.S.
+          <volume>15</volume>
+          ,
+          <issue>24</issue>
+          (
+          <year>1973</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          73. I draw here on Clor,
+          <source>supra note 47.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          74.
+          <article-title>Some understanding of this sort must undergird the claim that viewpoint discrimination is impermissible but that contemporary community standards are a legitimate basis for regulation</article-title>
+          .
+          <article-title>See American Booksellers Ass'n v</article-title>
+          .
+          <source>Hudnut</source>
+          ,
+          <volume>771</volume>
+          F.2d
+          <volume>323</volume>
+          ,
+          <fpage>328</fpage>
+          -
+          <lpage>30</lpage>
+          (
+          <issue>7th</issue>
+          <year>Cir</year>
+          .
+          <year>1985</year>
+          ),
+          <article-title>aff'd mem</article-title>
+          ., 475 U.S.
+          <volume>1001</volume>
+          (
+          <year>1986</year>
+          ).
+          <article-title>I question this understanding below</article-title>
+          .
+          <source>See infra text accompanying notes 108-10.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          75.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          , e.g.,
+          <string-name>
+            <surname>Ronald</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Dworkin</surname>
+          </string-name>
+          ,
+          <article-title>Do We Have a Right to Pornography?, in A Matter of Principle 335 (</article-title>
+          <year>1985</year>
+          ); Barry W. Lynn,
+          <article-title>"Civil Rights" Ordinances and the Attorney General's Commission, 21</article-title>
+          <string-name>
+            <surname>Harv. C.R.-C.L. L. Rev</surname>
+          </string-name>
+          .
+          <volume>27</volume>
+          ,
+          <fpage>48</fpage>
+          -
+          <lpage>56</lpage>
+          (
+          <year>1986</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          76. See Lynn,
+          <source>supra note 75</source>
+          , at 52-53.
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          77. See Dworkin,
+          <source>supra note 75</source>
+          , at 353.
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          78.
+          <article-title>On sexuality as postpolitical, see David F. Greenberg, The Construction of Homosexuality 6-8</article-title>
+          .(
+          <year>1988</year>
+          ); MacKinnon, supra note 55, at 127-54.
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          79. See Clor,
+          <source>supra note 47</source>
+          , at 193.
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          80. See Bowers v.
+          <source>Hardwick</source>
+          , 478 U.S.
+          <volume>186</volume>
+          ,
+          <fpage>205</fpage>
+          -
+          <lpage>06</lpage>
+          (
+          <year>1986</year>
+          )
+          <article-title>(Blackmun</article-title>
+          , J., dissenting);
+          <article-title>Brief of Amicus Curiae of Feminist Anti-Censorship Task Force, American Booksellers Ass'n v</article-title>
+          .
+          <source>Hudnut</source>
+          ,
+          <volume>771</volume>
+          F.2d
+          <volume>323</volume>
+          (
+          <issue>7th</issue>
+          <year>Cir</year>
+          .
+          <year>1985</year>
+          ), reprinted in 21 U. Mich.
+          <source>J.L. Reform</source>
+          <volume>69</volume>
+          ,
+          <fpage>76</fpage>
+          -
+          <lpage>136</lpage>
+          (
+          <year>1988</year>
+          ),
+          <article-title>which, however, too quickly uses this idea as a basis for rejecting measures directed at sexual violence</article-title>
+          .
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+

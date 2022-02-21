@@ -1,0 +1,2456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>U. Chi. L. Rev.</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Reinventing the Regulatory State</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Richard H. Pildes</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Cass R. Sunstein &amp; Richard H. Pildes, "Reinventing the Regulatory State," 62 University of Chicago Law</institution>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Faculty Scholarship</institution>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>1995</year>
+      </pub-date>
+      <volume>3</volume>
+      <issue>1995</issue>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>Volume 62</title>
+    </sec>
+    <sec id="sec-2">
+      <title>Winter 1995</title>
+      <p>© 1995 by The Universityof Chicago</p>
+    </sec>
+    <sec id="sec-3">
+      <title>Number 1</title>
+      <p>Reinventing the Regulatory State</p>
+      <p>RichardH. Pildest
+CassR. Sunsteintt</p>
+      <p>TABLE OF CONTENTS
+t Professor of Law, University of Michigan Law School.</p>
+      <p>if Karl N. Llewellyn Professor of Jurisprudence, The University of Chicago Law
+School and Department of Political Science. We are grateful to Bruce Ackerman, Steven
+Croley, Richard Fallon, Elizabeth Foote, Lisa Heinzerling, Jim Krier, Kyle Logue, Richard
+Posner, Sophie Clark, and Peter Strauss for helpful comments. For research assistance,
+we thank Deborah Hamilton.</p>
+      <p>HeinOnline -- 62 U. Chi. L. Rev. 1 1995</p>
+      <p>HeinOnline -- 62 U. Chi. L. Rev. 2 1995</p>
+      <p>INTRODUCTION</p>
+    </sec>
+    <sec id="sec-4">
+      <title>A. The Past</title>
+      <p>Probably the most important development in administrative
+law in the 1980s came not from federal courts, nor even from
+Congress, but from Presidents Ronald Reagan and George Bush.
+In two executive orders, President Reagan asserted vigorous
+centralized control over the regulatory process. The first such
+order, Executive Order 12291, laid out a set of substantive
+principles, most notably cost-benefit analysis, and said that these
+principles would be binding on executive agencies to the extent
+permitted by law.' This Order also contained an important
+procedural provision. It required all major regulations to be
+accompanied by a "regulatory impact analysis," which would be submitted
+for review and approval to the Office of Information and
+Regulatory Affairs ("OIRA"), an institution within the Office of
+Management and Budget ("OMB"). 2 The order amounted to an effort to
+promote centralized OMB control of the regulatory process, to be
+conducted in accordance with presidential policies favoring
+deregulation and close attention to cost.</p>
+      <p>President Reagan's second relevant executive order,
+Executive Order 12498, went a step further. It required each agency to
+submit an "annual regulatory plan," consisting of proposed
+actions for the next year, that was to be included in a publicly
+available annual document, the Regulatory Program of the
+United States.3 Under this order, all agencies were required to
+submit their proposals to OIRA for review and approval.4 New
+initiatives not included in the annual plan were permitted only
+under a narrow set of circumstances.5 The Order placed OIRA in
+the center of regulatory planning.</p>
+      <p>The Reagan initiatives were defended with several
+theoretical and empirical arguments. National bureaucracies are
+numerous, even chaotic, and regulations that are nominally
+independent of one another may produce considerable inconsistency in
+practice. Some degree of presidential review of the regulatory
+process is probably necessary to promote political accountability
+and to centralize and coordinate the regulatory process. These
+1 Exec Order No 12291 § 2, 3 CFR 128 (1981), reprinted in 5 USC § 601 note (1988).
+2 Id § 3 at 128-30.
+' Exec Order No 12498, 3 CFR 323 (1985), reprinted in 5 USC § 601 note (1988).
+4 Id at 324.
+6 Id at 324-35.
+are important goals, particularly in light of the need for sensible
+priority setting in a nation that devotes extraordinary resources
+to some minor problems and low levels of funding to some major
+problems.'</p>
+      <p>In addition, the cost of regulation-perhaps as high as $400
+billion annually,7 with up to $124 billion spent on environmental
+regulation alone--is too high for the benefits received.9 We
+could obtain the same level of benefits far more cheaply. Perhaps
+centralized presidential control could diminish some of the
+characteristic pathologies of modern regulation-myopia,
+interestgroup pressure, draconian responses to sensationalist anecdotes,
+poor priority setting, and simple confusion. In theory, OMB
+control promised to bring about not only greater political
+accountability, but also more in the way of technocratic competence, thus
+returning to the original New Deal goal of combining democratic
+and technocratic virtues. ° Many people thought that the new
+system of OMB oversight was admirably well suited to
+overcoming the difficulties in the regulatory process."</p>
+      <p>Despite these points, the Reagan orders were extremely
+controversial. The criticisms fell into four basic categories:
+1. Some people said that the orders involved an unlawful and
+counterproductive transfer of authority from regulatory agencies
+to OMB. This transfer of authority, it was said, disregarded the
+cgoavmepathraetiPvereesixdpeenrttisneo opfotwheeragtoenbcriiensganabdovuitolaanteydstuhcehlatrwan,swfehric.h2
+The transfer was especially controversial in light of the
+perception that OMB would be unduly biased against regulation. 3
+2. Some people complained that the process of regulatory
+oversight was too secretive. In their view, the lack of public
+visibility disguised a new system in which well-organized private
+groups-particularly regulated industries-were allowed to
+dictate national policy.'4 Especially during the period of Vice
+President Quayle's Council on Competitiveness, some feared that
+regulatory policy was being made by a "shadow government"
+operating at the behest of private factions and accountable, in
+practice, to no one with an adequate claim to public
+legitima15
+cy.</p>
+      <p>3. Some people complained that the reviewing process
+dwarfed OMB's limited resources and resulted in excessive delay.
+The few officials at OIRA lacked the time and capacities to
+engage in truly expert assessment of regulation and its complex
+costs and benefits. Because OMB was unable effectively to assess
+the wide range of regulations submitted to it, its principal
+function was to slow things down. The result was to deprive the
+public of desirable or necessary regulations and, on occasion, to
+violate the law. 6</p>
+      <p>4. Some people complained about the substantive principles
+reflected in the Reagan orders. In their view, cost-benefit analysis
+was too partisan a standard to capture the full array of
+considerations properly invoked by regulatory agencies. In practice and
+perhaps in principle, critics urged, the idea of cost-benefit
+analysis was a device not for producing the right kind and amount of
+regulation, but for diminishing the role of regulation even when
+it was beneficial. This substantive agenda, it was said, violated
+"' See Erik D. Olson, The QuietShift ofPower: Office ofManagement&amp; BudgetSupervi.
+sion of EnvironmentalProtectionAgency Rulemaking UnderExecutive Order12,291, 4 Va
+J Nat Resources L 1, 31-35 (1984).</p>
+      <p>' See Role of the Council on Competitiveness in Regulatory Review, Hearings before
+the Senate Committee on Governmental Affairs, 102d Cong, 1st Sess 2 (1991) (statement
+of Sen Glenn).</p>
+      <p>
+        1" See McGarity, ReinventingRationality at 282-88 (cited in note 13). In 1986, a court
+concluded that OMB delayed EPA regulations that were subject to statutory deadlines for
+ninety-one days on average. EnvironmentalDefense Fund v Thomas, 627 F Supp 566, 571
+(D DC 1986). Although § 8(a)(
+        <xref ref-type="bibr" rid="ref11">2</xref>
+        ) of Executive Order 12291 explicitly exempted from OMB
+review regulations "for which consideration or reconsideration under the terms of this
+Order would conflict with deadlines imposed by statute or by judicial order," the court
+concluded that this section of the Order was "simply ignored." Id at 570-71.
+      </p>
+      <p>An article from the same time period asserts that the average time for all regulatory
+reviews by OMB was sixteen days. DeMuth and Ginsburg, 99 Harv L Rev at 1088 (cited
+in note 11). For an illuminating discussion of agency-OIRA interactions, see E. Donald
+Elliott, TQM-ing OMB: Or Why RegulatoryReview UnderExecutive Order 12,291 Works
+Poorly and What President Clinton Should Do About It, 57 L &amp; Contemp Probs 167
+(1994).
+the President's duty under the Take Care Clause and also was
+unjustified in light of the need for regulation in many areas of
+modern life.'</p>
+    </sec>
+    <sec id="sec-5">
+      <title>B. The Present</title>
+      <p>In light of the extraordinary importance of OMB oversight to
+so much of American government, many observers were
+extremely curious to see how President Clinton would reform the Reagan
+initiatives. The process of reform was surprisingly slow. Whereas
+President Reagan had issued the first of the two executive orders
+within one week of assuming office, President Clinton did not
+respond for many months. On September 30, 1993, however,
+President Clinton issued his long-awaited repeal and replacement
+of Executive Orders 12291 and 12498.18</p>
+      <p>President Clinton's Order, Executive Order 12866, is a
+dramatic and in many ways quite surprising step. First and in some
+ways foremost, it maintains the basic process inaugurated by
+President Reagan, including the essential procedural provision of
+Executive Order 12291: the requirement that major regulations
+be submitted to OMB for general review and oversight.'9 It also
+includes the essential procedural provision of Executive Order
+12498: the requirement that agencies submit an annual
+regulatory plan, compiled in conjunction with OMB."</p>
+      <p>At least equally important, Executive Order 12866 also
+maintains much of the substantive focus of the Reagan orders,
+including the emphasis on cost-benefit analysis as the basic
+foundation of decision.2' President Clinton thus rejected the view
+that an assessment of costs and benefits is an unhelpful or
+unduly sectarian conception of the basis of regulation.</p>
+      <p>At the same time, the Clinton Order marks a number of
+important substantive and procedural shifts. Executive Order
+12866 includes a set of innovations specifically designed to
+overcome the problems faced in the Reagan and Bush
+administrations. In particular, it addresses unnecessary conflicts between
+agencies and OMB, and the appearance (or perhaps the reality)
+of factional influence over the review processY It also places the
+Vice President squarely in charge of the regulatory processY It
+reduces the number of rules that OMB will review, perhaps by as
+much as one-half. It seeks to overcome the "ossification" of rule
+making, in part by encouraging negotiated rule making.'</p>
+      <p>The Order also includes a new, complex, and somewhat
+unruly set of substantive principles to govern agency decisions.
+Some of these principles are an outgrowth of the commitment to
+"reinventing government" in the service of more flexible
+management.' Some of them qualify the commitment to cost-benefit
+analysis, though in ambiguous ways. Some of them point in the
+direction of comparative risk assessment." Apart from their
+merits as policy reforms, some of these innovations are of
+uncertain legality.</p>
+    </sec>
+    <sec id="sec-6">
+      <title>C. The Plan</title>
+      <p>This Article evaluates Executive Order 12866 as part of
+President Clinton's program for "reinventing government." We do
+this in an effort to help point the way toward procedural and
+substantive reforms that might increase coordination and
+rationality in federal regulation, and in this way diminish currently
+excessive costs, while at the same time promoting the democratic
+character of regulatory processes through methods that will take
+advantage of appropriately informed public judgments about risk.</p>
+      <p>To introduce some of our themes in advance: The modern
+regulatory state delivers insufficient benefits at unnecessarily
+high costs. A range of imaginable improvements could decrease
+= See text accompanying notes 81-87.</p>
+      <p>
+        ' ISdee§E6x(eacX1O) rdaetr6N44o-4152.86S6ee§ a2l(sco), M3eCmFRoraantd6u4m0-4o1f (Sceiptetdeminbenrot3e01,81).993, Negotiated
+Rulemaking, 3 CFR 776 (
+        <xref ref-type="bibr" rid="ref23">1993</xref>
+        ).
+      </p>
+      <p>' This is the major theme of David Osborne and Ted Gaebler, Reinventing
+Government:How the EntrepreneurialSpiritis Transformingthe PublicSector (Addison-Wesley,
+1991), which has obviously had an enormous influence on the Clinton administration. See
+Vice President Al Gore, From Red Tape To Results: Creatinga Government that Works
+Better and Costs Less, Reportof the NationalPerformanceReview (US GPO, 1993).
+' See text accompanying notes 155-59.
+the costs of regulation and thus reduce prices, increase
+employment, and promote international competitiveness. Through such
+steps, reduced costs could also reduce poverty and thus risks to
+life and health." Through similar steps, reforms could reallocate
+regulatory resources to places where they will do the most good.
+In this way, regulatory programs could deliver greater protection
+of safety and health and, in the process, save many lives.</p>
+      <p>The modem regulatory state should also be more democratic.
+Currently, regulation is far too inaccessible to public control.
+Instead, it is enshrouded in technocratic complexities not subject
+to public debate, affected by misleading, sensationalist anecdotes,
+or, even worse, subject to the influence of well-organized private
+groups with personal stakes in the outcome. A range of
+improvements could make the democratic process work better. The key
+task for those interested in regulatory performance is to find
+ways of simultaneously promoting economic and democratic
+goals.'</p>
+      <p>We offer a range of proposals designed to accomplish this
+task. A special goal is to incorporate public judgments about risk
+so long as they are appropriately informed and reasonable, even
+when those judgments diverge from expert understandings. We
+spend considerable space on this complex subject, contending
+that public judgments often reflect a distinctive kind of
+rationality, one that rejects some conventional forms of cost-benefit
+balancing. Executive Order 12866 might well be administered in a
+way that takes advantage of this insight. In short, we offer the
+following recommendations:</p>
+      <p>1. OIRA should see, as one of its principal missions, the goal
+of rationalizing regulatory policy by ensuring good priority
+setting, comparison of risks in terms of seriousness, and careful
+attention to the most important problems. To this end, it should
+issue guidelines and recommendations for the best use of limited</p>
+      <p>See generally Ralph Catalano, The Health Effects of Economic Insecurity,81 Am J
+Pub Health 1148 (1991); Ralph L. Keeney, MortalityRisks Induced by Economic
+Expenditures, 10 Risk Analysis 147 (1990); Aaron Wildavsky, Searchingfor Safety 61-75
+(Transaction, 1988).</p>
+      <p>'8 It is too soon for any real conclusions about the actual implementation ofExecutive
+Order 12866. We note, however, that the first major report on the Order was concerned
+almost exclusively with procedural issues of internal governmental management; it said
+nothing about whether the Order was actually making for better or worse regulation. See
+Office of Management and Budget, Report on Executive Order No 12866, Regulatory
+Planning and Review, 59 Fed Reg 24276 (1994). There appears to be a risk that OIRA will
+be unduly concerned with procedural issues and fail to focus on what is most important,
+the substance of regulation.
+public and private resources, together with information about the
+concrete, actual consequences of current efforts and about ways
+of improving them.' The ultimate goal should be neither to stop
+nor to spur regulation, but instead to make sure that regulation
+works well.</p>
+      <p>2. There should be early coordination between OIRA and
+other federal officials, based on shared goals and on a clear
+understanding ofjurisdictional lines. OIRA should not operate as a
+last-minute obstacle to agency proposals.</p>
+      <p>3. OIRA should allow a form of "national performance
+review" in which it demonstrates in concrete terms how, and at
+what cost, regulation under its supervision has promoted
+particular social goals. To this end, OIRA should publicize its
+shortterm and long-term goals for regulation in relatively concrete
+terms and show whether and how the government has made
+progress in meeting those goals. It should do this as part of a
+general effort to encourage public trust and public understanding
+of regulatory outcomes and choices. It should also attempt to
+promote, to the extent feasible, citizen participation in the
+process of setting regulatory priorities.</p>
+      <p>4. Regulations should be evaluated not only in terms of
+aggregate costs and benefits, but also in terms that reflect
+democratic judgments about qualitative differences among
+qualitatively different risks. By qualitative differences, we mean
+to include an understanding of whether a risk is voluntarily
+incurred, especially dreaded, equitably distributed, potentially
+irreversible or catastrophic, faced by future generations, or
+incurred by discrete groups within the population. To incorporate
+an understanding of these factors, OIRA and relevant agencies
+might experiment with three approaches: (a) develop formulas
+that assign numbers to, and thus incorporate, qualitative
+differences; (b) offer a two-stage analytic process, the first based on
+conventional cost-benefit balancing, the second introducing
+qualitative differences in order to produce a final judgment; and (c)
+use different forms of citizen participation so as to build into the
+regulatory process an understanding of informed public
+judg</p>
+      <p>Many proposals in Congress suggest this approach by requiring comparative risk
+assessment. See the Johnston Amendment, S 171 § 123, 103d Cong, 1st Sess (May 4,
+1993), in 139 Cong Rec S5362 (May 4, 1993). See also the important discussion of
+"riskrisk" trade-offs in John Graham and Jonathan Wiener, Risk vs. Risk (Harvard,
+forthcoming 1995).
+ments about how different risks should be treated. We offer
+comments on all three proposals below. 0</p>
+      <p>5. The government should shift from command-and-control
+regulation to more experimentation with information disclosure
+as a remedy for risk and with economic incentives. Informational
+remedies should be based on a careful understanding of how
+people process information and develop trust, a key ingredient of
+successful risk communication. If methods ofinformation
+processing are not kept in view, informational remedies can be futile or
+even counterproductive. Moreover, the use of incentives should be
+limited to certain specific circumstances that we identify.</p>
+      <p>6. The President or the Vice President must take a serious
+interest in improving health and safety regulation. Without a
+firm signal from the highest levels of government, OIRA is
+unlikely to be able to accomplish much of its mission, and the
+potential advantages of centralized control will be lost.</p>
+      <p>This Article is organized into five parts. Part I describes the
+history of presidential oversight of the regulatory process,
+showing that such oversight has been a steady development in the
+twentieth century and that it can now be said to be permanent,
+or at least as permanent as any procedural innovation not
+required by the Constitution itself. Part H deals with institutional
+issues, in particular with those procedures designed to bring
+about greater openness and visibility. This self-conscious effort at
+democratization is one of the most distinctive features of
+Executive Order 12866. Part II also discusses the fact that the Order
+contains an apparent presidential (and vice-presidential) veto on
+agency regulations-a bold step that goes well beyond anything
+that Presidents Reagan or Bush endorsed, at least publicly. It
+concludes with a discussion of the Order's partial and
+unprecedented inclusion of the independent regulatory commissions.</p>
+      <p>Parts III, IV, and V are the heart of the Article. Part III
+turns to substance and, in particular, to the question of
+regulatory ends. It focuses on cost-benefit analysis, comparative risk
+assessment, and the problem of regulatory rationality in general.
+There is good reason for enthusiasm about some basic goals and
+possibilities of these technologies-to increase sensible priority
+setting, to limit the unnecessarily high costs of regulation, and to
+make sure that government controls actually improve people's
+lives. But it is important to ensure a form of these analytic
+techSee Part IV.F.
+niques that is attuned to some of the complexities of social
+valuation of different risks in different contexts of social life.</p>
+      <p>Part IV offers a number of suggestions on this score. It tries
+to make sense of the evident ambivalence in Executive Order
+12866 toward cost-benefit analysis. We suggest that there are
+conceptions of rationality that resist the effort to align diverse
+social goods along a single metric, and that cost-benefit analysis
+disregards what we call the expressive dimension of regulation.
+Part IV also urges possible modifications to conventional
+costbenefit analysis, designed specifically to make a place for
+adequately informed and rational public judgments about risks.</p>
+      <p>Part V discusses the question of regulatory means. Its
+principal topic is the conspicuous effort in Executive Order 12866 to go
+beyond command-and-control regulation in the interest of
+providing less costly means for achieving regulatory goals. Here we
+emphasize an unmistakable trend in federal regulation:
+information disclosure as a remedy for risk. We also deal with the
+replacement of command-and-control approaches with economic
+incentives. We discuss the ways in which new strategies should
+take account of ordinary understandings of risk and also attempt
+to build public trust. Through this discussion of means, as
+through the earlier discussion of ends, we suggest reforms that
+will simultaneously promote economic and democratic goals.</p>
+      <p>I. BACKGROUND: A NEW AND PROBABLY PERMANENT FEATURE</p>
+      <p>OF AMERICAN GOVERNMENT</p>
+      <p>Almost since the birth of the modern administrative agency,
+American presidents have struggled to assert more centralized
+control over the regulatory state. Indeed, a recent study asserts
+that "the history of the presidency in the twentieth century has
+been the history of presidents' attempts to gain control of the
+sprawling federal bureaucracy."3' Typically, these attempts have
+generated sharp congressional resistance.</p>
+      <p>The first step in this direction can probably be traced to
+President Theodore Roosevelt's creation, in 1903, of a commission
+designed to study the scientific work done by government
+agencies in order to recommend more efficient coordination. The
+results presaged those of similar reform efforts to follow. The
+commission recommended that the thirty scientific agencies be
+con"1Forrest McDonald, The American Presidency:An IntellectualHistory 329 (Kansas,
+1994).
+solidated into one, in order to minimize duplication and
+inefficwiehnicchy.deRcolionseedvetlot afcotrwonardite.3d2 this recommendation to Congress,</p>
+      <p>Roosevelt then created a second commission, the Keep
+Commission, to study a broader array of administrative reforms. In
+some ways a precursor of Vice President Gore's recent National
+Performance Review, the Keep Commission found that many civil
+servants were underemployed and resistant to new technologies,
+such as typewriters and adding machines. It also concluded that
+the system of supply acquisition was hopelessly chaotic. 3 The
+Keep Commission forwarded eleven formal reform proposals to
+Congress. When it did so, the century's first major battle between
+Congress and the White House over control of administration
+was joined. Congress not only declined to act on any of the
+proposals, but also expressed outrage at the Executive's effort to
+seize "an authority previously the exclusive and unchallenged
+domain of Congress."' In addition, Congress prohibited the use
+of government funds for such commissions in the future and even
+refused to appropriate funds to publish the Keep Commission's
+report.35</p>
+      <p>At Congress's invitation, President Taft attempted to
+centralize and coordinate the budgetary process. Although Congress
+rejected Taft's particular proposals, by 1921 Congress granted the
+President effective oversight control of agency fiscal requests by
+enacting the Budget and Accounting Act.38 This was an
+extraordinary development, in many ways a precursor of current efforts
+to centralize the regulatory process. For the first time, the
+President would be given statutory authority to submit an annual
+budget to Congress. Wilson's wartime presidency aggressively set
+into motion the vision of a more managerial presidency.37</p>
+      <p>In the period after the war, the ideas of consolidation and
+efficiency-motivated reorganization swept the business
+community. Congress eventually followed suit in 1932 with the
+Government Reorganization Act,38 which granted the President
+unilateral authority, subject to legislative veto,39 to reorganize the
+administrative branch. Franklin Roosevelt's Brownlow Commission
+revived Wilson's famous distinction between policy and
+administration;' the Commission saw "policy" as the joint domain of the
+President and Congress, whereas "administration," it asserted,
+must be under the direct and exclusive command of the
+President. Despite an initial congressional outcry, most of the
+Committee's proposals were enacted.4 A key reform, with
+lasting consequences, was the creation of the Executive Office of the
+President.'</p>
+      <p>In 1949, the Hoover Commission produced yet another effort
+to create a more coordinated and managerial presidency. It
+issued 277 specific proposals for reorganizing and consolidating
+agencies. More than half of these were adopted via statute or
+executive order, with the purpose of creating a "clear line of
+command from the top to the bottom, and a return line of
+responsibility and accountability from the bottom to the top."43</p>
+      <p>The most direct precursor to the current structure of
+executive oversight of regulation was the Nixon Administration's
+system of "Quality of Life" reviews. Nixon's response to the
+expanding administrative bureaucracy was to create a
+"counter-bureaucracy" in the White House. He doubled the executive office staff,
+created the modern OMB, and established the Domestic Council
+(chaired by a top aide, John Ehrlichman). The Council met with
+representatives of different departments having jurisdiction over
+a problem and tried to develop coordinated policy positions for
+presidential approval.' In the "Quality of Life" review process,
+agencies were required to submit significant rules to OMB in
+advance of publication in the Federal Register. OMB's principal
+duty was to circulate the agency draft to other agencies for
+review and comment. Although the process was intended to apply
+' Act of June 30, 1932, §§ 401-08, Pub L No 72-212, 47 Stat 382, 413-15, codified at 5
+USC §§ 124-31 (Supp 1932).</p>
+      <p>'9 The constitutionality of the legislative veto was not litigated until INS v Chadha,
+462 US 919, 959 (1983), when it was invalidated.</p>
+      <p>" See Woodrow Wilson, Congressional Government: A Study in American Politics
+(Houghton Mifflin, 1925).</p>
+      <p>41 McDonald, The American Presidencyat 333 (cited in note 31).
+42 Arnold, Making the ManagerialPresidency at 114 (cite in note 35).
+4' McDonald, The American Presidencyat 335 (cited in note 31).</p>
+      <p>4 Richard P. Nathan, The Plot That Failedand the Administrative Presidency45-49
+(Wiley, 1975).
+to all agencies, only EPA and OSHA were actually subject to the
+reviewing process. OMB's goal was rarely substantive; it served
+instead a coordinating function.45</p>
+      <p>President Ford continued the interagency review process and
+added to it a process designed to control the effects of regulation
+on inflation. Most important, the Council on Wage and Price
+Stability ("CWPS") reviewed regulations to assess these effects.
+In addition,- OMB promulgated a circular to agencies arguing
+that the inflationary impact of a proposed rule could best be
+assessed through a quantitative cost-benefit comparison." The
+Council's role was principally technical, consultative, and
+advisory. It was understood that the relevant agency might well persist
+in the face of CWPS disagreement. Despite often antagonistic
+relationships between the agencies and CWPS, many observers
+believed that CWPS enhanced both public participation and the
+agencies' analytical capabilities.' Congress ultimately enacted a
+statute allowing CWPS to participate in rule making and to
+explore adverse effects on inflation.48</p>
+      <p>President Carter,built on the Ford precedent through a
+successor to CWPS, the Regulatory Analysis Review Group
+("RARG"). RARG consisted of representatives from major
+agencies, OMB, CWPS, and the Council of Economic Advisors. The
+purpose of this fifteen-agency group was to conduct interagency
+review of cost-effectiveness analyses, which were required of
+"significant" rules from relevant agencies. Notably, the Executive
+Order establishing the RARG review process did not require
+costbenefit analysis.49 In fact RARG reviewed relatively few rules,
+though the President did resolve a few highly controversial
+issues.</p>
+      <p>
+        All of these efforts were designed to increase interagency
+dialogue, coordination, and analytical precision, as well as to
+reduce regulatory costs. But a decisive step came within a week
+of President Reagan's inauguration, with the formal creation of a
+mechanism for OMB review of major regulations. The most
+important of the new innovations, contained in Executive Order
+12291, were (1) a set of substantive principles for all agencies to
+follow, "to the extent permitted by law," including a commitment
+to cost-benefit analysis; (
+        <xref ref-type="bibr" rid="ref11">2</xref>
+        ) a requirement that a Regulatory
+Impact Analysis, including a cost-benefit analysis, accompany all
+"major" rules; and (3) a formal mechanism for OMB oversight,
+with a general understanding that OMB had some (undefined)
+substantive control. President Reagan considered subjecting the
+independent agencies to the new Order, but ultimately declined
+to do so, partly because of concerns about legal authority, but
+mostly because of fears of an adverse congressional reaction.50
+The independent agencies were asked voluntarily to comply with
+Executive Order 12291, but not one of them formally
+acknowledged their willingness to do so.
+      </p>
+      <p>Executive Order 12291 proved extremely controversial.
+Nonetheless, President Reagan expanded on the basic idea four years
+later with Executive Order 12498. As noted above, that Order
+established a requirement that agencies submit "annual
+regulatory plans" to OMB for review.5 The result is an annual
+publication, the Regulatory Program of the United States, which
+contains a discussion of all proposed actions that might be either
+costly or controversial. Executive Order 12498 served to increase
+the authority of agency heads over their staffs by exposing
+proposals to top-level review at an early stage. But it also increased
+the authority of OMB by allowing OMB supervision over basic
+plans and by making it hard for agencies to proceed without
+OMB preclearance.</p>
+      <p>The Bush Administration continued the Reagan procedures.
+Its principal innovation was the Council on Competitiveness,
+chaired by the Vice President. The Council engaged in occasional
+review of agency rules, operating as a kind of supervisor of OMB
+itself. It also set out a number of principles and proposals for
+regulatory reform."</p>
+      <p>President Clinton's Executive Order 12866 is the latest step
+in this process; we will investigate it shortly. Our current point is
+more general. From the recent evidence, it seems clear that
+presidential oversight of the regulatory process, though relatively new,
+has become a permanent part of the institutional design of
+American government. This new institutional arrangement has
+occurred for reasons parallel to the development of a centralized
+'o Peter M. Shane and Harold M. Bruff The Law of PresidentialPower 358-60
+(Carolina Academic, 1988).</p>
+      <p>5' See text accompanying notes 3-5.</p>
+      <p>5 See Office of Management and Budget, Regulatory Programof the United States
+Government,April 1, 1990-March31, 1991 5 (US GPO, 1990).
+budget in the 1920s. Any president is likely to seek assurance
+that an unwieldy federal bureaucracy conforms its actions to his
+or her basic principles. Any president is likely to be concerned
+about excessive public and private costs. And any president is
+likely to want to be able to coordinate agency activity so as to
+ensure consistency and coherence and to guard against the
+imposition of conflicting duties on people who must comply with the
+law. The result of these forces is that a centralizing and
+rationalizing body, housed within OMB and devoted to regulation, has
+emerged as an enduring, major, but insufficiently appreciated
+part of the national government.</p>
+    </sec>
+    <sec id="sec-7">
+      <title>II. REGULATORY INSTITUTIONS</title>
+      <p>Executive Order 12866 makes three major institutional
+changes from the Reagan-Bush procedures. It imposes new
+disclosure requirements. It attempts to sort out the allocation of
+authority among agencies, the White House, and OIRA. Finally,
+it includes the independent agencies within some aspects of
+presidential oversight.</p>
+    </sec>
+    <sec id="sec-8">
+      <title>A. In General</title>
+      <p>As we have said, there are strong reasons for creating and
+maintaining an executive office entrusted with the job of
+coordinating modern regulation, promoting sensible priority setting,
+and ensuring conformity with the President's basic mission.53 In
+view of the wide array of regulatory programs administered by
+modern government, the absence of such an office would probably
+guarantee duplication, parochial perspectives, and inefficiency. A
+number of separate agencies and programs deal with
+environmental and other risks, and it is therefore important to share
+information, to reduce inconsistency, and to devote scarce
+resources to places where they will do the most good.</p>
+      <p>The past process of OIRA review has been imperfectly
+equipped to carry out these tasks. Too often OIRA has become
+involved at very late stages, operating as a kind of last-minute
+barrier to action at a point when cooperation and trust are nearly
+impossible." Too often relations between OIRA and the agencies
+have been adversarial, with considerable distrust and even a
+' See Carnegie Commission, Risk and the Environment (cited in note 6); Breyer,
+Breaking the Vicious Circleat 61-68 (cited in note 6).</p>
+      <p>4 See Elliott, 57 L &amp; Contemp Probs at 171-74 (cited in note 16).
+degree of "guerilla warfare."55 What is needed instead is a
+definition of shared goals and objectives, accompanied by good and
+continuous working relations, clear jurisdictional authority, and
+mutual investment in the basic goals of improving regulatory
+performance according to agreed-upon criteria.</p>
+      <p>Executive Order 12866 is designed in part to achieve these
+goals, though some of the evidence for this conclusion lies outside
+the four corners of the document. The Order establishes the
+agencies as the principal decision makers, and in this way it
+insists, more than its predecessors, on agency autonomy." In
+general, the process appears to involve a government-wide
+system of priority setting, rather than one concentrated in OMB.
+Thus the Order contemplates an annual agency policy meeting to
+set priorities and coordinate activities. 7 The Order also requires
+each agency head to designate a Regulatory Policy Officer, who is
+to be involved "at each stage of the regulatory process."8</p>
+      <p>Following this provision, the Clinton Administration has
+created a set of Regulatory Policy Officers within each agency.59
+These officers are specifically charged with improving the
+regulatory process by ensuring conformity with Executive Order 12866.
+The officers work with a new Regulatory Working Group created
+by the Order, chaired by the OIRA Administrator, and attended
+by specially appointed White House Regulatory Policy
+Advisors.60 The purpose of this system is to promote early interaction
+and cooperation by coordinating agency and OIRA behavior, and
+also to ensure exchange of information among agencies, with a
+particular eye toward sensible treatment of problems that cut
+across agencies.6 In a similar attempt to limit conflicts and to
+reduce unnecessary layers of bureaucratic oversight, Executive
+Order 12866 also attempts to reduce the number of rules to be
+reviewed by OIRA, cutting the number in half from previous
+years. 2 The Order seeks to promote democratization as well by
+Id at 171.</p>
+      <p>See Exec Order No 12866 § 2(a), 3 CFR at 640 (cited in note 18).
+57 Id § 4(a) at 642.</p>
+      <p>
+        Id § 6(a)(
+        <xref ref-type="bibr" rid="ref11">2</xref>
+        ) at 645.
+      </p>
+      <p>See Report on Executive Order No 12866, 59 Fed Reg at 24290 (cited in note 28).
+o Id. See Exec Order No 12866 § 4(d), 3 CFR at 643 (cited in note 18), for the Order's
+creation of the Regulatory Working Group.</p>
+      <p>c' See the helpful discussions in Carnegie Commission, Risk and the Environment at
+19-20, 71-72 (cited in note 6).</p>
+      <p>' See id.
+requiring the OIRA Administrator to meet with members of the
+public and to convene conferences to this end.'</p>
+      <p>It is impossible to tell at this stage whether these
+institutional innovations will accomplish a great deal. Much of the
+evidence will come from the regulations that eventually emerge. If
+cooperation is an end in itself, it is a limited one, and the success
+of the new process will be measured principally by
+substance-what emerges from it. Two early reasons for concern are
+the apparent absence of clear OIRA focus on regulatory
+consequences, and the apparent failure to develop a close sense of
+regulatory priorities through general publicity about the nature
+of various risks and the costs of eliminating them.Y It would be
+highly desirable for OIRA to attempt to place problems in broad
+risk categories and to attempt to regulate risks that are of the
+highest priority.' For democratic reasons, it would also be
+desirable for OIRA to make information about risk categories
+broadly available to the public and to be responsive to the weight
+that the public places on various risks. The EPA undertook an
+early effort to this effect and updated it in 1990.' The 1990
+study identified a number of "relatively high-risk problems,"
+including habitat alteration and destruction, species extinction
+and loss of biological diversity, ozone depletion, and global
+climate change. It also found a number of "relatively medium-risk
+problems," including pesticides, surface water toxins, acid
+deposition, and airborne toxins. And it identified a number of
+"relatively low-risk" problems, including oil spills, radionuclides,
+groundwater pollution, and thermal pollution.' A 1994 report of the
+National Academy of Sciences basically approved the EPA's
+ranking and approach.' This might serve as a model for the federal
+government as a whole.</p>
+      <p>Finally, and perhaps most importantly, it would be desirable
+for the executive branch to identify its long-term risk-reduction
+goals, at least in broad terms, and to report on its progress
+toward reaching those goals. Executive Order 12866 contains no
+mechanism of this kind.</p>
+      <p>In general, however, there is reason for optimism both in the
+maintenance of the OIRA reviewing process and in the steps to
+limit antagonism between the agencies and OIRA and to promote
+attention to shared regulatory goals. We now turn to some
+institutional details.</p>
+    </sec>
+    <sec id="sec-9">
+      <title>B. Disclosure Requirements</title>
+      <p>The Reagan orders contained no provisions governing
+disclosure or regulation of communications between private parties
+and OIRA, or within the executive branch itself. The absence of
+formal procedures was itself a cause of considerable
+controversy.69 Many people alleged that private communications had
+occurred and that OIRA was basing its decisions on pressure from
+business groups with self-interested stakes in the outcome.7"</p>
+    </sec>
+    <sec id="sec-10">
+      <title>1. Policy and law.</title>
+      <p>As a matter of policy, the rules governing disclosure of
+communications with OIRA are quite important. Informal
+communications between the executive branch and affected citizens may
+be "the lifeblood of the administrative process,"7 in the sense
+that they may well be crucial to the development of sound
+regula</p>
+      <p>See text accompanying notes 14-15.</p>
+      <p>70 See Olson, 4 Va J Nat Resources L at 31-35 (cited in note 14); Percival, 54 L &amp;
+Contemp Probs at 168-72 (cited in note 17). Early in the Reagan administration, the
+Department of Justice advised OMB to make public all substantive communications between
+OMB and private parties. See Stephen G. Breyer and Richard B. Stewart, Administrative
+Law and Regulatory Policy 684 (Little, Brown, 3d ed 1992), summarizing Memorandum
+from Larry Simms, Acting Assistant Attorney General, Office of Legal Counsel, to
+Director of the Office of Management and Budget (1981). An implementing memorandum from
+OIRA offered a complex set of guidelines. See Memorandum, Additional Procedures
+Concerning QIRA Reviews Under Executive OrderNos 12291 and 12498, from Wendy L.
+Gramm, Administrator, Office of Information and Regulatory Affairs, published in Office
+of Management and Budget, Regulatory Programof the United States Government,April
+1, 1990-March 31, 1991 605 (US GPO, 1990). Congress held many hearings about the
+absence of disclosure of communications between OIRA and private groups, or between
+OIRA and the agency itself. See Clean Air Act Implementation (Part 2): Hearings before
+the Subcommittee on Health and the Environment of the House Committee on Energy
+and Commerce, 102d Cong, 1st &amp; 2d Sess (1991-92). Informal agreements were reached
+between the White House and Congress, without formal legislation, requiring disclosure of
+most substantive communications from private parties. The understandings are published
+in the Congressional Record. See 136 Cong Rec S17608-10 (Oct 27, 1990). They did not,
+however, cover the Council on Competitiveness, which became the focal point of concern.
+See id.</p>
+      <p>71 Home Box Office, Inc. v FCC, 567 F2d 9, 57 (DC Cir 1977).
+sue. Perhaps those background beliefs are already understood. If
+they are not, interviews can be helpful, but structured
+questionnaires might be used where the former are not feasible. The
+process of eliciting views should be at least somewhat open
+ended; investigators should not force the process into predetermined
+channels. The process might start with questions like "tell me
+about radon" and seek elaboration of the responses. Studies of
+different risk problems suggest that after twelve interviews or so,
+few new concepts emerge in the answers."o</p>
+      <p>Second, initial material should be designed to provide the
+relevant information in a way that responds to those background
+beliefs. To the extent that the elicitation process reveals gaps and
+errors in these beliefs, the material should address them. In
+addition, rather than providing bare information, the material
+should provide it in a form directed to taking action. Third, the
+initial material should be tested empirically with potential users.
+Iterations of this process yield the most effective forms of
+information disclosure.</p>
+      <p>Applying this approach in 1987, experts were able to
+generate a highly effective brochure for addressing the radon problem,
+a brochure that was far more effective than the widely
+distributed EPA brochure on that topic. The elicitation process revealed
+that, in addition to holding many accurate beliefs about radon
+exposure, people also held many inaccurate beliefs: that radon
+contamination of surfaces is permanent (39 percent); that radon
+affects plants (58 percent); that it contaminates blood (38
+percent); and that it causes breast cancer (29 percent).38' Few
+people understood that radon decays quickly (13 percent).382 The
+combination of some of these beliefs would make the radon
+problem seem severe and unsolvable; consider the lack of knowledge
+of the fact that radon decays quickly.</p>
+      <p>On the basis of this information, brochures were designed
+that specifically addressed the flaws and gaps in people's
+background beliefs. The unsuccessful EPA brochure had been
+prepared through traditional methods; scientific experts were asked
+what information was relevant and it was then packaged
+attractively. The initial version of EPA's "Citizen's Guide to Radon," for
+example, did not discuss whether radon contamination is
+perma</p>
+      <p>Id at 2052.</p>
+      <p>331 Id. The permanent contamination figure is from written surveys; the other figures
+are based on interviews.</p>
+      <p>3" Id.
+nent. When empirically tested, this EPA brochure performed
+significantly worse than the brochures prepared through the
+alternative method. When people were asked to recall simple
+facts, they did equally well with all the brochures. But when
+faced with tasks requiring inference, the new brochures
+"dramatically outperformed" the EPA material.' For example, when
+asked what a homeowner could do to reduce high radon levels in
+the house, 43 percent of EPA readers answered "don't know" and
+9 percent said "there is no way to fix the problem." In contrast,
+100 percent of the readers of the brochure designed on the basis
+of risk communication studies, and 96 percent of the readers of
+another, answered "hire a contractor to fix the problem."384</p>
+      <p>This approach stands in sharp contrast to that reflected in
+one of the most carefully prepared and broadly circulated
+manuals on risk information and its communication. This manual,
+produced for the Chemical Manufacturers Association, sought to
+provide advice to plant managers on the most effective means to
+make public comparisons between different kinds of risks. The
+chemical industry drew on literature concerning effective
+communication, but it did not test its manual empirically. When that
+was done, it turned out that the advice was flatly wrong. There
+was no correlation between actual public assessments of the risks
+and those the manual predicted.385</p>
+      <p>Informational remedies should also respond to various
+heuristics and anomalies that can affect how people "hear"
+warnings and advice. For example, it matters a great deal whether a
+health effect is framed as a loss or a gain. People are far more
+willing to forego gains than to accept losses; they are persistently
+"loss averse,"1 6 and loss aversion affects people's reaction to
+information about risk. Thus, real-world experiments show that
+pamphlets describing the positive consequences of breast
+selfexaminations (for example, women who undertake such
+examinations have a greater chance of finding a tumor at a treatable
+stage) are ineffective, whereas there are significant changes in
+behavior from pamphlets that stress the negative consequences of
+a refusal to undertake self-examinations (women who fail to
+perform such examinations have a decreased chance of finding a
+tumor at a treatable stage)." Similar results were found for
+efforts to inform people of the advantages of energy insulation:
+an emphasis on the gains from insulation produced far less
+change than an emphasis on the losses from noninsulation.'</p>
+      <p>Vivid and personal information can also be more effective
+than statistical evidence. The same study of energy conservation
+showed that it was not helpful for auditors to point to the cracks
+around homeowners' doors and to recommend weatherstripping.
+But striking results followed from a simple statement to the
+effect that the cracks, added together, would equal a hole the size
+of a basketball, combined with the question: "And if you had a
+hole that size in your wall, wouldn't you want to patch it up?
+That's what weatherstripping does." 89 So, too, the "availability"
+heuristic, discussed above,3" means that certain events that
+can be easily recalled will seem more probable than they are in
+fact; regulators should respond to and take advantage of this
+heuristic in attempting to convey accurate information.</p>
+      <p>Finally, there is evidence that people sometimes try to
+reduce cognitive dissonance by discounting certain risks.39' When
+dissonance is at work, information about risk may be discounted,
+and hence information campaigns can fail. In order to convey
+information effectively, regulators should attempt to respond to
+danger posed by dissonance reduction. Efforts to convey
+information about the risk of AIDS, for example, appear to be adversely
+affected by a frequent tendency of people to assume that the risk
+does not apply to them.392 In many cases, this appears to be an
+irrational form of denial, spurred in part by a perception that
+condom use detracts from sexuality.393 It has been suggested
+that private and public actors concerned about the spread of
+AIDS should attempt to convey information not merely by stating
+the facts, but also by doing so in a way that is intentionally
+tar' Beth E. Meyerowitz and Shelly Chaiken, The Effect of Message Framingon Breast
+Self-Examination,Attitudes, Intentions, and Behavior, 52 J Personality &amp; Soc Psych 500
+(1987).</p>
+      <p>' Marti Hope Gonzales, Elliot Aronson, and Mark A. Costanzo, Using Social
+Cognition and Persuasionto PromoteEnergy Conservation:A Quasi-Experiment,18 J Applied
+Soc Psych 1049 (1988).</p>
+      <p>9 Id.
+m See text accompanying notes 210-11.
+...See Aronson, The SocialAnimal at 85-92, 175-245 (cited in note 257).
+"9 Id at 91-92.</p>
+      <p>Id. See also Lawrence Lessig, The Regulationof Social Meaning, 62 U Chi L Rev
+(forthcoming Summer 1995).
+geted at this negative (and by no means inevitable) image of
+condom use.394</p>
+      <p>Effective regulatory emphasis on information disclosure
+should learn from these risk-communication investigations. To
+provide meaningful information about risk, regulators should
+learn what people already know and assume, as well as what
+they need to know. Appropriate information must then be
+developed, tested, and refined until empirical investigation
+demonstrates that the intended information is, in fact, being
+conveyed. 95 The next step in information- and education-based
+regulatory strategies is to incorporate these insights.</p>
+    </sec>
+    <sec id="sec-11">
+      <title>C. Economic Incentives</title>
+      <p>By economic incentives, we mean financial penalties imposed
+on harm-producing behavior, and financial rewards attached to
+harm-reducing behavior. Such penalties or rewards might
+supplement and sometimes even displace command-and-control
+regulation. The Clinton Order firmly and specifically endorses economic
+incentives; it favors performance standards over design standards
+and specifies "user fees or marketable permits" as remedies of
+choice. Economic incentives appear to be playing a role in the
+regulatory policy of the Clinton Administration.39</p>
+    </sec>
+    <sec id="sec-12">
+      <title>1. Efficiency.</title>
+      <p>The supporting work behind Executive Order 12866
+recognizes that it is often inefficient for government to prescribe the
+means for achieving social objectives. 97 Often it would be far
+better, on economic grounds, for government (a) to create
+economic incentives to engage in socially desirable conduct, and (b) to
+permit the market to decide how companies respond to those
+incentives. It is especially inefficient for government to dictate
+technology. A far better approach is to impose a fee or a tax on
+harmful behavior,398 and to let market forces determine the
+re</p>
+      <p>See Aronson, The Social Animal at 237-42 (cited in note 257), for a series of
+interesting remarks on the relation between background beliefs and regulatory problems.</p>
+      <p>' Compare the discussion of the confusion induced by California's Proposition 65, in
+W. Kip Viscusi, Predictingthe Effects of Food Cancer Warnings on Consumers, 43 Food
+Drug Cosmetic L J 283 (1988).</p>
+      <p>' See Lubbers, 43 Duke L J at 1171 (cited in note 136). See also the discussion of the
+Clinton Administration's proposals for reforming the Clean Water Act in text
+accompanying notes 429-36.</p>
+      <p>'" See Lubbers, 43 Duke L J at 1170 (cited in note 136).
+"' See Breyer, Regulation and its Reform at 164-71 (cited in note 284). A Coasian
+sponse to the increased cost. Another good approach is for
+government to set the total quantity of a pollutant that will be
+permitted, then grant or sell a fixed number of tradable allowances
+or permits to discharge that substance. Government should
+generally impose fees on those who put pollutants into the
+atmosphere-instead of (for example) mandating a particular
+substance for use in motor vehicles. Consumption of the
+harm-producing good will decline. Producers will shift to less harmful
+methods of production.</p>
+      <p>More generally, government might adopt a simple, two-step
+reform policy in the area of social risks and social harms. 99
+First, those who impose harm should be required to pay for
+it-by purchasing permission to do so, perhaps through a
+licensing procedure. Second, those who obtain the resulting permission
+should be able to trade their "licenses" with other people. In the
+pollution context, this would mean that people who reduce their
+pollution below a specified level could trade their "pollution
+rights" for cash. In one move, such a system would create
+market-based disincentives to pollute and market-based incentives
+for pollution control. Such a system would also reward rather
+than punish technological innovation in pollution control, and do
+so with the aid of private markets. Very generally, and quite
+outside the environmental area, it makes sense to think about
+programs of this sort for regulation of harmful behavior."°°</p>
+      <p>An idea of this kind might be made part and parcel of a
+system of "green taxes." With such a system, government might
+impose taxes rather than mandates on people who impose
+externalities on others-users of dirty automobiles, smokers,
+farmers who employ undesirable pesticides, coal-fired power
+plants, and users of other products that contribute to destruction
+of the ozone layer or to the greenhouse effect. Tax levies of
+various sorts are used by many nations already, though they have
+qualification is necessary here: Sometimes the apparent victim of the harmful conduct is
+in the best position to avoid the harm, and in such cases it is possible to say that the
+apparent victim should be charged with taking preventive or remedial measures. An
+example would be a case in which workers could cheaply prevent the costs of a chemical
+in the workplace by wearing masks or clothing that prevent the harm from occurring. Of
+course, there may be moral or other grounds for deciding not to place the responsibility to
+avoid harm on the cheapest cost avoider.</p>
+      <p>' Here we generalize from the helpful discussion in Ackerman and Stewart, 13
+Colum J Envir L 171 (cited in note 348).</p>
+      <p>'4 The most controversial application would be civil rights, but some have taken the
+proposal seriously even there. See Jerry L. Mashaw, Implementing Quotas, 79 Georgetown
+L J 1769 (1991).
+been slow in coming to the United States."' These levies have
+had, or are projected to have, good results. Thus a higher tax on
+leaded gasoline in Great Britain increased the market share of
+unleaded gas from 4 percent to 30 percent within less than a
+year.4 2 It is estimated that a tripling of pesticide prices would
+cut pesticide use in half4.0 3 It is also estimated that a fee of
+$110 per ton on carbon would decrease carbon dioxide emissions
+by 20 percent from previous 1988 levels by 2005.' An added
+advantage of such strategies is that they generate government
+revenues, thus reducing public deficits.4 5</p>
+      <p>Economic incentives could be applied in other areas as well.
+Workers' compensation plans, for example, operate to enhance
+workplace safety. According to a careful study, "If the safety
+incentives of workers' compensation were removed, fatality rates
+in the United States economy would increase by almost 30
+percent. Over 1,200 more workers would die from job injuries every
+year in the absence of the safety incentives provided by workers'
+compensation."4 6 This contrasts with a mere 2-4 percent
+reduction in injuries from OSHA, an amount that links up well with
+the fact that annual workers' compensation premiums are more
+than one thousand times as large as total annual OSHA
+penalties.40 7 The tax system could be used to punish employers who
+provide dangerous workplaces.</p>
+    </sec>
+    <sec id="sec-13">
+      <title>2. Democracy.</title>
+      <p>It is well understood that economic incentives have
+advantages from the standpoint of efficiency, and thus far we have seen
+that a shift to incentives would probably be efficient and
+effective. What consequences would such a shift have for democratic
+government?</p>
+      <p>The answer is that it could have significant beneficial
+consequences."° The current system puts public attention in the
+41 A study by the Organization for Economic Co-operation and Development found
+over ffty environmental charges among fourteen of its members. See Lester R. Brown,
+Christopher Flavin, and Sandra Postel, Saving the Planet:How to Shape an
+Environmentally SustainableGlobalEconomy 143 (Norton, 1991).</p>
+      <p>2 Id.
+40 Id at 146.
+4 Id at 148.
+' The suggested carbon tax would generate an estimated $120 billion. Id at 145.
+4' W. Kip Viscusi, Reforming ProductsLiability 178 (Harvard, 1991).</p>
+      <p>Id at 178-79.</p>
+      <p>The point is nicely treated in Ackerman and Stewart, 13 Colum J Envir L 171
+(cited in note 348), and we draw on their discussion here.
+wrong places. Imagine, for example, that Congress and the
+citizenry-following the contemporary model-are focusing on
+whether ethanol, or some other gasoline substitute, should be
+required in new cars. It is perfectly predictable that in answering
+this question, well-organized groups with significant stakes in the
+outcome will bring their influence to bear. It is also predictable
+that producers of the competing products may seek and actually
+obtain regulatory benefits, and for reasons bearing little or no
+relationship to environmental protection.</p>
+      <p>At the same time, the underlying substantive
+question-whether ethanol is actually an environmentally superior
+product-will have to be resolved on the basis of technological
+complexities not easily addressed by the public or its
+representatives. If this is the issue on which the political process focuses,
+there is likely to be a series of laws that represent not
+publicspirited deliberation with a measure of broad accountability, but
+instead trade-offs among well-organized private groups, or, in
+Madisonian terms, government by faction. By directing attention
+to means, this system creates strong incentives for interest
+groups to ensure that they are favored in the legislature or the
+bureaucracy.</p>
+      <p>Compare a system of economic incentives. Here the issue is
+not one of means, but the amount of sulfur dioxide that will be
+allowed into the atmosphere-an issue to be resolved in the
+process of deciding how many licenses to be given out, and for how
+much pollution. An advantage of this shift is that it would ensure
+that citizens and representatives would be focusing on how much
+pollution reduction there should be, and at what cost. The right
+question would be put squarely before the electorate. No longer
+would it be possible to pretend that environmental protection is
+costless. No longer would the central issue be displaced by the
+largely incidental question of means.</p>
+      <p>Moreover, a system of financial penalties or rewards allows
+less room for interest-group maneuvering. The large
+question-how much environmental protection at what cost-does not
+permit legislators to favor a well-organized, narrow group, such
+as the agricultural lobby or the coal lobby. Special favors cannot
+be provided so readily through a system of economic incentives.
+The very generality of the question will work against narrow
+favoritism. To be sure, the ultimate question of pollution
+reduction may be answered in a way that reflects sustained political
+pressure rather than democratic deliberation. But the risks are
+reduced, certainly as compared with the existing system.</p>
+      <p>There are other democratic advantages as well. Economic
+incentives should simultaneously promote coordination and
+rationality in regulation by giving government an incentive to attend
+closely, and for the first time, to how other risks are treated. This
+should bring a salutary measure of structure and sense to risk
+regulation in general. As an important by-product, the new
+system should create a powerful incentive to obtain information
+about the actual effects of pollution and pollution control. If
+members of Congress are deciding on the level of risk reduction,
+they will not want to do so in a vacuum, especially in light of the
+significant costs of large reductions. Affected groups will
+therefore be encouraged to engage in research about real-world
+consequences.</p>
+      <p>As we have seen, information about consequences frequently
+remains in its most preliminary stages. The new premium placed
+on information should be a particularly important gain. There is
+every reason to design a regulatory strategy that puts a premium
+on greater research, so that when we act, we know what we are
+getting, and at what price.</p>
+      <p>All these considerations suggest that economic
+incentives-favored so firmly on economic grounds-have as one of
+their principal justifications a series of democracy-reinforcing,
+faction-limiting characteristics. 9</p>
+    </sec>
+    <sec id="sec-14">
+      <title>3. Pre-Clinton initiatives.</title>
+      <p>The movement toward economic incentives is preliminary but
+real. Thus far, it has occurred mostly in the environmental area.
+An important series of administrative initiatives have brought
+about "emissions trading," especially under the Clean Air Act.41
+Under EPA's policy, a firm that reduces its emissions below legal
+requirements may obtain "credits" that can be used against
+higher emissions elsewhere. Through the "offset" policy, which is
+formally codified in the Clean Air Act,41' a company may locate
+in an area not in compliance with national air quality standards
+if and only if it can offset the new emissions by reducing existing
+emissions, either from its own sources or from other firms.</p>
+      <p>4r But see Heinzerling, 62 U Chi L Rev at 471-72 (cited in note 190), for cautionary
+note4s1.0 See Environmental Protection Agency, Emissions Trading Policy Statement;
+General Principles for Creation, Banking and Use of Emission Reduction Credits, 51 Fed
+Reg 43814 (1986).</p>
+      <p>411 42 USC § 7503(c) (1988 &amp; Supp 1992).
+Through the "banking" policy, firms are permitted to store
+emission credits for their own future use.412 Companies may also
+engage in "netting," by which a firm modifies a source, but avoids
+otherwise-applicable emissions limits by reducing emissions from
+another source within the same plant. Existing sources may also
+place an imaginary "bubble" over their plants, allowing increased
+emissions levels for some emitting devices, so long as the total
+emissions level meets the aggregate requirements.</p>
+      <p>We now have a good deal of evidence about the emissions
+trading program. For various reasons, the program's use has
+been quite limited.41 A 1989 study showed forty-two federal
+bubbles, ninety state bubbles, two thousand federal offsets,
+between five thousand and twelve thousand acts of netting, and one
+hundred acts of banking.414 Despite this limited activity, there
+is considerable evidence that this policy has been successful.
+Overall, the program has produced savings of between $525
+million and $12 billion.415 By any measure, this is a large gain. On
+balance, moreover, the environmental consequences have been
+neutral or better. Offsets must, by definition, produce
+environmental gains. The preliminary evidence shows favorable effects
+from bubbles as well.4"6 There may be modest beneficial effects
+from banking and modest adverse effects from netting4.1 ' The
+overall environmental effect is therefore neutral or even good,
+cost entirely to one side. Consider the following table by way of
+summary:</p>
+      <p>See outline of emissions trading program in Tietenberg, Emissions Tradingat 7-9
+(cited in note 338).</p>
+      <p>41 See Daniel J. Dudek and John Palmisano, Emissions Trading: Why is this
+Thoroughbred Hobbled?, 13 Colum J Envir L 217 (1988).</p>
+      <p>...Robert W. Hahn and Gordon L. Hester, Marketable Permits: Lessons for Theory
+and Practice,16 Ecol L Q 361, 374 table 2 (1989).</p>
+      <p>45 Id at 374 &amp; table 2.
+41 Id at 375.
+417 Id at 374 table 2.</p>
+    </sec>
+    <sec id="sec-15">
+      <title>Activity</title>
+    </sec>
+    <sec id="sec-16">
+      <title>Netting</title>
+    </sec>
+    <sec id="sec-17">
+      <title>Estimated</title>
+      <p>number of*
+internal
+transactions
+5,000 to
+12,000</p>
+    </sec>
+    <sec id="sec-18">
+      <title>Estimated number of external transactions</title>
+    </sec>
+    <sec id="sec-19">
+      <title>None</title>
+    </sec>
+    <sec id="sec-20">
+      <title>Offsets</title>
+      <p>1,800</p>
+    </sec>
+    <sec id="sec-21">
+      <title>Federally</title>
+      <p>approved
+bubbles</p>
+    </sec>
+    <sec id="sec-22">
+      <title>State</title>
+      <p>approved
+bubbles</p>
+    </sec>
+    <sec id="sec-23">
+      <title>Banking</title>
+      <p>40
+&lt;100
+2
+0</p>
+    </sec>
+    <sec id="sec-24">
+      <title>Estimated</title>
+      <p>cost savings
+(millions)</p>
+      <p>Environmental
+quality impact
+$25 to $300 Insignificant
+in permitting in individual
+costs; $500 cases; probably
+to $12,000 in insignificant
+emissions in aggregate
+control costs</p>
+    </sec>
+    <sec id="sec-25">
+      <title>Probably large, but not easily measured</title>
+      <p>$300
+$135</p>
+    </sec>
+    <sec id="sec-26">
+      <title>Small</title>
+    </sec>
+    <sec id="sec-27">
+      <title>Insignificant</title>
+    </sec>
+    <sec id="sec-28">
+      <title>Insignificant</title>
+    </sec>
+    <sec id="sec-29">
+      <title>Insignificant</title>
+      <p>EPA has also permitted emissions trading for lead. Under
+this policy, a refinery that produced gasoline with
+lower-thanrequired lead levels could earn credits. These could be traded
+with other refineries or banked for future use.419 Until the
+program's termination in 1987, when the phasedown of lead
+ended, emissions credits for lead were widely traded. EPA concluded
+that there had been cost savings of about 20 percent over
+alternative systems, making total savings in the hundreds of millions</p>
+      <p>Reinventing the RegulatoryState
+of dollars.42 There have been initial administrative efforts as
+well with respect to water pollution and ozone depletion.42'</p>
+      <p>The most dramatic program of economic incentives can be
+found in the 1990 amendments to the Clean Air Act. The Act now
+explicitly creates an emissions trading system for the control of
+sulfur dioxide and nitrogen oxide emissions, major contributors to
+acid deposition. In these amendments, Congress has made an
+explicit decision about the aggregate emissions level for a
+pollutant.' The goal is to reduce sulfur dioxide emissions by ten
+million tons each year, with initial standards going into place in
+1995 and much tighter standards coming into effect by 2000.'
+Whether the particular decision about the size of the reduction is
+the correct one may well be disputed. But there are large
+democratic benefits from ensuring that public attention is focused on
+that issue.</p>
+      <p>The acid deposition provisions have other beneficial features.
+Congress has said that polluters may obtain allowances for
+emissions avoided through energy conservation and renewable energy.
+In this way, conservation strategies are made privately
+profitable.424 This provision creates an incentive to shift to
+conservation and renewable sources, without providing further
+environmental degradation.</p>
+      <p>Moreover, polluters are explicitly permitted to trade their
+allowances; this is a first in national legislative policy.' In this
+way, entities that are able to reduce their pollution below the
+specified level receive economic benefits. An especially intriguing
+provision allows spot and advance sales of sulfur dioxide
+allowances, to be purchased at $1,500 per ton.426 Through this route,
+polluters must-for the first time-pay a fee for their pollution.</p>
+      <p>"' Environmental Protection Agency, Costsand Benefits ofReducingLead in Gasoline,
+FinalRegulatoryImpactAnalysis viii-31 (1985). See also Hahn and Hester, 16 Ecol L Q at
+387-88 (cited in note 414).</p>
+      <p>421 On ozone depletion, see Environmental Protection Agency, Protection of
+Stratospheric Ozone, 53 Fed Reg 30566 (1988); on water pollution, see Robert W. Hahn and
+Robert N. Stavins, Ineentive-Based Environmental Regulation:A New Era from an Old
+Idea?, 18 Ecol L Q 1, 18-19 (1991). See also text accompanying notes 429-36.</p>
+      <p>Clean Air Act Amendments of 1990 § 406, Pub L No 101-549, 104 Stat 2399,
+263233, codified at 42 USC § 7651 note (Supp 1993).</p>
+      <p>" Clean Air Act Amendments of 1990 §§ 401(b), 404-05, 104 Stat at 2585, 2592-613,
+codified at 42 USC §§ 7651(b), 7651c, 7651d (Supp 1993).</p>
+      <p>
+        "' Clean Air Act Amendments of 1990 § 404(f)(
+        <xref ref-type="bibr" rid="ref11">2</xref>
+        ), 104 Stat at 2602-03, codified at 42
+USC § 7651c(f)(
+        <xref ref-type="bibr" rid="ref11">2</xref>
+        ) (Supp 1993).
+      </p>
+      <p>Clean Air Act Amendments of 1990 § 403, 104 Stat at 2589, codified at 42 USC §
+7651b (Supp 1993).</p>
+      <p>4 42 USC § 7651b(b).
+Equally intriguing is a provision calling for auction sales of
+specified numbers of sulfur dioxide allowances.4"7 Here the market is
+permitted to set the price for polluting activity. For example, in
+the first auction of these rights, in 1993, the average price for the
+right to discharge one ton of sulfur dioxide in 1995 was $156; by
+1994, the market price had risen to $159 per ton.428</p>
+      <p>For the most part, however, the Clean Air Act does not
+require polluters to pay for their "licenses." Instead, government is
+granting initial marketable pollution allowances to existing
+sources for free. This might be a short-term measure to protect
+reliance interests underlying existing uses, for political or more
+substantive reasons. As further experience with these approaches
+develops, perhaps Congress will take the next step of requiring
+dischargers to pay for their emissions by requiring polluters to
+purchase their allowances in the first place. Executive Order
+12866 holds out promise that future legislative and
+administrative initiatives will pursue regulation through incentive-altering
+structures more fully.</p>
+    </sec>
+    <sec id="sec-30">
+      <title>4. Initial Clinton initiatives.</title>
+      <p>Executive Order 12866 is already having significant effects
+on the development of alternative regulatory strategies. The
+Clean Water Act is up for reauthorization this year, and the
+Clinton Administration, through EPA, has put forward a
+comprehensive set of proposals for revamping administration of the Act
+(the Clean Water Initiative, or "CWI"). These proposals include
+measures to deal with toxic discharges; nonpoint sources of
+pollution; watersheds; and the funding, monitoring, and enforcement
+aspects of water pollution control.</p>
+      <p>The Clinton CWI reflects the Executive Order's influence at
+every turn and, more generally, the prevalent techniques by
+which regulatory policy is now made. To begin with, the CWI is
+accompanied by an extensive analysis of the benefits and costs of
+the proposed new regulatory approaches.2 9 Moreover, where
+commensurating benefits and costs would involve controversial
+value judgments, the analysis does not attempt to force a single
+metric on the problem and obscure important qualitative
+distinc4 Clean Air Act Amendments of 1990 § 416(d), 104 Stat at 2629, codified at 42 USC §
+7651o(d) (Supp 1993).</p>
+      <p>' Utilitiesgobble up air-pollutioncredits, Chi Trib § 3 at 3 (Mar 30, 1994).
+41 President Clinton's Clean Water Initiative: Analysis of Benefits and Costs,
+Environmental Protection Agency 800-R-94-002 (Mar 1994).
+tions. For example, the analysis carefully documents the physical
+water-quality benefits to be expected without attempting to
+monetize these in order to "weigh" them against costs.' ° In one
+area where some basis for attaching dollar values to the relevant
+benefits plausibly exists (the value to urban households of clean
+water for various purposes), the analysis attempts to do so."
+But the analysis does not hide the uncertainty behind these
+estimates, and it consistently makes its underlying assumptions
+clear. A strong emphasis is placed throughout on more flexible
+regulatory strategies that pursue the most cost-effective approach
+to producing a given level of benefits.</p>
+      <p>Thus, rather than requiring all municipalities (as current
+law does) to meet the same standards for combined sewer
+overflows and storm water discharges, the CWI proposes different
+regulatory regimes for large and small cities." Similarly, the
+CWI proposes building on the recent Clean Air Act approach by
+using market mechanisms, such as tradable permits, to improve
+water quality in the most efficient way. The basic concept here is
+that all sources discharging into the same body of water in a
+similar manner should be permitted to negotiate among
+themselves (through trading discharge permits) as to how to achieve a
+federal water-quality standard for that body. EPA estimates that
+about 940 bodies of water would benefit from trades between
+certain point sources and nonpoint sources, and 210 bodies of
+water would be able to benefit from trades between point
+sources. 3 In addition, EPA has identified numerous public
+treatment plants that would be able to reduce pollution more
+cheaply by negotiating reductions in inputs from the relevant
+sources. All told, EPA estimates that permitting trades of these
+sorts would achieve the same level of water-quality improvement
+at savings of between $658 million to $7.5 billion peryear.4 '
+"' Thus, EPA projects that its proposals for nonpoint source controls will produce
+measurable water-quality improvements in 7.1 million lake acres and 156,200 river miles;
+or that these proposals have a "high or medium" likelihood of producing measurable
+improvement in 52 percent of impaired or threatened rivers and 63 percent of lakes. Id at
+ES-7. Similarly, the proposals for addressing combined sewer overflows are estimated to
+reduce the average number of overflows from fifty to eighty events per year to
+approximately three to four; this would reduce the number of water-quality violations for each
+system from one hundred to two hundred days per year to ten to twenty, and reduce by
+35 to 65 percent the annual discharges of various chemicals and toxic substances. Id at
+23-24.</p>
+      <p>=' Id at ES-9 to ES-10, 48-58.</p>
+      <p>Id at viii.
+4" Id at 46.
+4 Id at 47.</p>
+      <p>This attention to more flexible, cost-effective regulatory
+strategies is evidenced in the Initiative's bottom-line summary of its
+cost consequences. The analysis projects that if the CWI were
+adopted as proposed, it would lead to additional incremental
+expenditures of $5 to $9.6 billion per year." But the analysis
+also claims that this is vastly less-amounting to savings of $29
+to $33.8 billion-than would be generated under the regulatory
+approaches required by current law. 8 The important point is
+not that these numbers are to be believed (although even if
+discounted substantially, they still suggest roughly the magnitude of
+expected savings from more flexible regulatory strategies). More
+significantly, Executive Order 12866 is already bringing about
+systematic analysis of major new regulatory initiatives by
+encouraging new means to environmental ends.</p>
+    </sec>
+    <sec id="sec-31">
+      <title>5. Qualifications.</title>
+      <p>In some areas, economic incentives are inappropriate. If
+government seeks to ban a substance entirely, a prohibition
+makes sense, rather than a high fee for marketing or use. At
+least if the benefits of the substance do not outweigh the danger,
+and if less dangerous substitutes are available, a ban is the
+preferred course.</p>
+      <p>In addition, where economic incentives are warranted, it is
+sometimes best to regulate quantity rather than price.
+Marketable permits that regulate the quantity discharged, rather than
+emission fees, may well be the better approach to market
+strategies for pollution reduction. Setting emission fees at the right
+level to achieve the desired reduction requires detailed (marginal
+cost and benefit) information, which is usually unavailable, with
+respect to an industry's demand curve for emissions. In contrast,
+once the acceptable total level of emissions is determined, it is
+much easier to determine the appropriate quantity different
+producers should be permitted to discharge. That is what
+quantity-based marketable permits or allowances do. When these
+permits are traded, the market will then set their price. Although
+emissions fees are typically the way theorists analyze incentive
+approaches to pollution regulation, these approaches are often
+more appropriately pursued through quantity-based permits or
+43 Id at ES-1.</p>
+      <p>' Id. The document refers to the larger figure that current law would require as
+being based on a "stringent interpretation" of current law. Id.
+" 1995]
+allowances." Auctions are also a promising approach, with the
+benefit of market rather than governmental setting of initial
+prices for the allowances."</p>
+      <p>On the other hand, fees or taxes may sometimes be
+preferable. An advantage of taxes as a response to (say) pollution
+problems is that the government need not even calculate the socially
+optimal level of pollution, a complex question to be sure. Rather
+than compute the tax at a level designed to achieve a
+predetermined quantity (a difficult task, for reasons described above),
+government could simply tax polluters at a level equal to the
+harm done to others from the pollution generated. On a standard
+view, this would generally equal the lower of either the cleanup
+costs, or the amount of money society is willing to accept in
+exchange for living with the pollution. Under this approach, the
+polluters would internalize the social cost of polluting, and would
+have every incentive to pollute at the socially optimal level.
+Computing the social harm done from a given unit of pollution may
+well be easier in many contexts than computing the total socially
+optimal quantity. Moreover, this approach allows the market to
+respond to fluctuations in the socially optimal quantity, which
+may frequently arise from changes in technology, market
+substitutes, increased demand, and so forth.</p>
+      <p>The main difficulty with this approach stems from the
+problem of calculating the amount of the fee or tax. Cleanup costs are
+often incalculable, and there are problems with relying on
+aggregated willingness to pay, even if it is calculable."9 Nonetheless,
+there are undoubtedly circumstances in which pollution taxes are
+better than quantity limits, because taxes are a better response
+to government's informational limits. Which approach is best
+cannot be decided in the abstract.</p>
+      <p>As we have noted, sometimes economic incentives are
+undesirable for what we have described as expressive reasons.
+Perhaps a curbside tax is a more efficient response to the problem of
+solid waste disposal than mandatory recycling, at least in the
+short term (though this could encourage people to dispose of their
+wastes in more covert, and environmentally harmful, ways)."0</p>
+      <p>See James E. Krier, MarketablePollutionAllowances, 25 U Toledo L Rev 449,
+45253 (1994).</p>
+      <p>' For a discussion of recent FCC experiences, see John McMillan, Selling Spectrum
+Rights, J Econ Perspectives 145 (Summer 1994).</p>
+      <p>See text accompanying notes 257-65.</p>
+      <p>See generally Peter S. Menell, Beyond the Throwaway Society: An Incentive
+Approachto RegulatingMunicipalSolid Waste, 17 Ecol L Q 655, 687-90 (1990).
+But mandatory recycling might affect social norms with respect
+to consumption, waste disposal, and environmental protection, in
+a way that has better long-term consequences, and that in any
+case responds better to the public's understanding of how best to
+conceive of social obligations in the area of solid waste disposal.
+The choice between curbside taxes and mandatory recycling
+cannot be resolved in the abstract. But insofar as economic
+incentives treat a public bad as a commodity, they might be
+objectionable on expressive grounds. It is rarely urged, for example, that
+the emissions trading model makes sense in the
+antidiscrimination area; a "discrimination license" would be inconsistent with
+the general effort to delegitimate racial prejudice."'</p>
+      <p>A final problem is that a system of economic incentives can
+bring about distortions that must be addressed through
+governmental action. In the environmental area, emissions trading
+programs can lead to "hot spots," which occur when trades lead
+sources to concentrate pollution in some local area."2 There are
+important equitable issues here, connected to those treated
+above: the "hot spots" may have unfortunate distributional
+effects, burdening identifiable social groups."3 This is less of a
+problem to the extent that the pollutant has no local effects and
+is troubling only when mixed in a larger environment (which
+might be true, to a significant degree, of sulfur dioxide).'" But
+where local concentration effects are a problem, controls on
+trades or location of sources will have to be reintroduced. Indeed,
+the regulatory approach to trades in nitrogen oxides already
+manifests such an approach. Unlike with sulfur dioxides, trades
+in nitrogen oxides (which cause smog) must be approved by
+environmental officials in the states where the extra pollutants will
+be admitted; in addition, such trades are supposed to be
+"directionally correct," in that sellers must be upwind of buyers."5
+41 But see Mashaw, 79 Georgetown L J 1769 (cited in note 400); the idea is proposed
+by way of satire in Derrick Bell, And We Are Not Saved. The Elusive Quest for Racial
+Justice 88-89 (Basic Books, 1987).</p>
+      <p>See Krier, 25 U Toledo L Rev at 454 (cited in note 437).</p>
+      <p>See Hornstein, 92 Colum L Rev at 592-98 (cited in note 286); Carol M. Rose,
+EnvironmentalLessons, 27 Loyola L Rev 1023, 1030 (1994).</p>
+      <p>Krier, 25 U Toledo L Rev at 454 (cited in note 437).</p>
+      <p>See Matthew L. Wald, Eastern Utilities in Unusual Pact: A Smog Tradeoff, NY
+Times Al, B2 (Mar 16, 1994). For more information on initial experiments with trading
+permits to discharge nitrogen oxide, see Northeast UtilitiesPropose NOx Trade in First
+Test ofInterstateSwap Scheme, 24 Envir Rep (BNA) 1998 (Mar 25, 1994); New Initiative
+Will Allow Companies to Trade NOx Emission Credits, EPA Says, 24 Envir Rep (BNA)
+282-83 (June 11, 1993).
+The right solution varies from context to context, but it seems
+likely that appropriate structures and policies can be developed
+to address these concerns.'</p>
+    </sec>
+    <sec id="sec-32">
+      <title>CONCLUSION</title>
+      <p>This Article has emphasized three principal points. The first
+involves regulatory institutions. The second involves regulatory
+ends. The third involves regulatory means.</p>
+      <p>We have suggested that an institution in OMB to oversee
+and coordinate regulatory policy is, at least potentially, highly
+salutary. Staffed by appropriate employees, such an entity could
+help coordinate solutions to similar problems that arise across
+different agencies. Moreover, by introducing a more
+comprehensive perspective on risk regulation, such a body could encourage
+sensible priority setting. Executive Order 12866 takes
+coordination a step further than the Reagan-Bush approaches. It does so,
+most importantly, by attempting to promote early intrabranch
+discussion of regulatory proposals and to ensure more continuous
+consultation about regulatory goals. This reform is part of a
+conspicuous effort to reduce agency-OIRA antagonism by
+encouraging cooperation at all stages of rule making. The Order also takes
+the important step of including the independent agencies, if only
+in a modest, procedurally oriented way.</p>
+      <p>Executive Order 12866 begins as well to address the conflict
+between centralization and participation. The Order requires
+disclosure of contacts with private groups. It also opens up the
+process of discussion between OMB and the agencies-a step that
+might be legally unnecessary, but is nonetheless desirable.
+Finally, the Order is plainly designed to take advantage of information
+from affected persons at early stages of agency action. 7 These
+measures reflect appreciation not only of the need for relevant
+information, but also of the central role that public trust plays in
+risk perception, evaluation, and remediation.</p>
+      <p>With respect to the current institutional framework, our
+principal suggestion is that in its implementation, Executive
+Order 12866 should be used to create better priority setting. This
+' See Howard Latin, Ideal Versus Real Regulatory Efficiency: Implementation of
+Uniform Standardsand "Fine-Tuning"Regulatory Reforms, 37 Stan L Rev 1267, 1331-32
+(1985).</p>
+      <p>"' See Exec Order No 12866 §§ 1(b)(9), 4(e), 3 CFR at 640, 643-44 (cited in note 18).
+See also the remarks of Sally Katzen, Administrator of the Office of Information and
+Regulatory Affairs, in Colloquium, 8 Admin L JAm U at 53 (cited in note 18).
+idea is only incipient in Executive Order 12866. Toward this end,
+OIRA (perhaps bolstered by the addition of employees trained in
+relevant fields in addition to economics and policy analysis)
+should generate recommendations about which risk priorities
+ought to be viewed as most pressing." As we have emphasized,
+the judgment about which risks are most pressing, and about
+which problems are most severe, does not depend solely on
+quantity or on numbers of lives saved. It depends a great deal on the
+context in which risks are imposed and on such factors as
+whether relevant risks are catastrophic, irreversible, involuntarily
+imposed, faced by future generations, or inequitably distributed.</p>
+      <p>Precisely how these recommendations might be turned into
+policy commitments requires further thought about the best mix
+of democratic and technocratic influences. Certainly, OIRA's
+efforts are unlikely to be productive without a firm commitment
+to better risk management at the presidential or vice presidential
+level. Under the right circumstances, OIRA might be given some
+substantive power to define risk priorities, or perhaps Congress
+would act on OIRA's recommendations. For now, OIRA could at
+least move the reform process forward by providing information
+and recommendations about risk priorities. As we have said, this
+view of OIRA's role is, at most, incipient in Executive Order
+12866, but we think such a role would contribute significantly to
+improving regulation.</p>
+      <p>In order to monitor OIRA activity, new mechanisms should
+be created to allow something in the way of official and private
+"performance review," through studies showing which regulations
+have been issued by the Administration, with particular
+attention to their anticipated and actual real-world consequences.
+Such a step would create good incentives for OIRA and also
+enable the public to see what, as a matter of substance, has been
+done in the regulatory arena. Thus far OIRA's attention appears
+to have been focused mostly on procedural matters,"9 and
+insufficiently on the hard (and far more important) substantive
+issues involved in improving regulation.</p>
+      <p>On the question of regulatory ends, Executive Order 12866
+is, perhaps understandably, a bit uncertain. The Order does not
+embody a clear conception of what it means for regulation to be
+rational. The Order qualifies the Reagan-Bush conception of
+costbenefit analysis, but it does not reject the technique entirely.</p>
+      <p>See Colloquium, 8 Admin L J Am U at 53 (cited in note 18).</p>
+      <p>See Report on Executive Order No 12866, 59 Fed Reg at 24290 (cited in note 28).
+Instead, it requires a modified form of cost-benefit analysis, one
+that calls on agencies to incorporate ambiguous concerns for
+"equity" and "distributive impacts" into CBA. There is evident
+doubt about the prior use of cost-benefit techniques; attenuated
+endorsement of the basic method; and vague modifications that
+leave the final outcome, in terms of actual effects on agency
+policy, quite unpredictable.</p>
+      <p>The best way to progress beyond this ambivalence is to
+recognize its causes. We have focused on three such causes:
+legitimate conflicts between expert and lay value systems and
+conceptions of rationality; the incommensurability of some benefits and
+costs that can only be compared qualitatively; and the relevance
+of expressive concerns in choosing regulatory policies. We do not
+urge a general abandonment of analytic approaches to regulatory
+policy, nor do we deny the importance of CBA or comparative
+risk assessment, especially in a period in which regulation is far
+too costly a means of achieving its own goals. We have, however,
+argued for qualifying conventional CBA, and for embodying in
+CRA an understanding of qualitative differences among risks.
+Perhaps the qualification could take place through formal
+analysis that incorporates unconventional variables. But if we attempt
+to incorporate all relevant concerns into policy analysis at the
+same time, we risk undermining the genuine benefits that more
+analytic approaches can provide.</p>
+      <p>Instead, we might split the process of CBA into two stages.
+In the first, the focus should be on a quantitative cost-benefit
+assessment of those dimensions that can properly be subject to this
+approach. To deal with incommensurability problems, the
+analysis should disaggregate benefits and costs so as to indicate how
+they are distributed over various groups and interests. In the
+second stage, agencies should take into account differences
+between expert and lay value frameworks, concerns for equity, the
+expressive dimensions of the choice, and other relevant values
+not subject to the cost-benefit approach. Perhaps mechanisms
+could be created to promote citizen evaluation of regulatory
+alternatives, though any efforts in this direction must necessarily
+be tentative and experimental. CRA might proceed similarly,
+with attention to the sorts of factors that we have emphasized
+here.</p>
+      <p>With respect to regulatory means, Executive Order 12866 is
+also a step in the right direction. A pervasive problem with
+national regulatory law is the use of rigid, highly bureaucratized
+command-and-control regulation, which dictates, at the national
+level, risk control strategies for hundreds, thousands, or millions
+of companies in an exceptionally diverse nation. Such regulation
+is highly inefficient. Even more fundamentally, such strategies
+are deficient from the standpoint of a well-functioning democratic
+process. Often they ensure that citizens and representatives will
+be devoting their attention not to general questions of
+value-what levels of risk reduction and cost trade-offs are
+appropriate-but instead to the largely incidental and publicly
+inaccessible question of what technologies are now available. They focus
+on the question of regulatory "means," a focus that increases the
+power of well-organized private groups by allowing them to press
+the law in the service of their own parochial ends.</p>
+      <p>In this light, it is no wonder that some observers think that
+our current system is a kind of Madisonian nightmare, in which
+James Madison's vision of deliberative democracy has been
+transformed into a system of government as a series of interest-group
+deals.450 Executive Order 12866 holds out much promise on this
+front. It adopts a kind of presumption against
+command-andcontrol regulation. It presages a greater shift to economic
+incentives, to informational remedies, and to performance rather than
+design standards. All of these are desirable suggestions. But we
+have cautioned that some of these new strategies are not likely to
+be effective unless they deal with the ways in which ordinary
+people process and conceive of risks.</p>
+      <p>The solution to this problem lies in strategies that respond to
+people's background assumptions and to their diverse valuations
+of diverse risks. Indeed, a principle of this kind-that risk
+evaluation should take into account informed public
+valuations-should be placed at the center of modern efforts to
+reinvent the regulatory state. We have suggested that such efforts
+could promote economic goals, by reducing the billions of dollars
+unnecessarily spent on regulation and by ensuring that resources
+are devoted to the many serious problems that remain
+inadequately addressed. Such efforts could promote democratic goals
+as well, by reducing interest-group power, poor priority setting
+unreflective of public judgments, and the role of sensationalist
+anecdotes in regulatory policy. A reinvented government could
+simultaneously increase efficiency and improve the democratic
+character of the regulatory state. This task has technocratic
+dimensions, but it is far from only technocratic. It also requires
+government to respond to public understandings and valuations
+4- See Stewart, 57 U Chi L Rev 335 (cited in note 346).</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Introduction ....................................</surname>
+          </string-name>
+          3
+          <string-name>
+            <given-names>A.</given-names>
+            <surname>The</surname>
+          </string-name>
+          <string-name>
+            <surname>Past .................................</surname>
+          </string-name>
+          3
+          <string-name>
+            <given-names>B.</given-names>
+            <surname>The</surname>
+          </string-name>
+          <string-name>
+            <surname>Present .............................. 6 C. The Plan ................................. 7</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>I.</surname>
+          </string-name>
+          <article-title>Background: A New and Probably Permanent Feature of American</article-title>
+          <string-name>
+            <surname>Government ....................... 11</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <given-names>I. Regulatory Institutions ......................... 16 A.</given-names>
+            <surname>In</surname>
+          </string-name>
+          <string-name>
+            <surname>General ...............................</surname>
+          </string-name>
+          16
+          <string-name>
+            <surname>B. Disclosure Requirements .....................</surname>
+          </string-name>
+          <article-title>19 1</article-title>
+          . Policy and
+          <string-name>
+            <surname>law ..........................</surname>
+          </string-name>
+          <article-title>19 2</article-title>
+          .
+          <string-name>
+            <surname>Innovations ............................</surname>
+          </string-name>
+          <article-title>22 C. Allocation of Authority: A White House Veto?</article-title>
+          . . . . . 24 D. Incorporating the
+          <string-name>
+            <surname>Independent Agencies ......... 28</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>III. Regulatory</surname>
+            <given-names>Ends</given-names>
+          </string-name>
+          , Regulatory Substance:
+          <string-name>
+            <given-names>Preliminary Notes ............................. 33 A.</given-names>
+            <surname>In</surname>
+          </string-name>
+          <string-name>
+            <surname>General ...............................</surname>
+          </string-name>
+          33
+          <string-name>
+            <given-names>B.</given-names>
+            <surname>Public</surname>
+          </string-name>
+          Trust and
+          <string-name>
+            <surname>Effective Regulation ........... 40</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>IV. Regulatory</surname>
+          </string-name>
+          <article-title>Ends: Costs, Benefits, Comparative Risks, and</article-title>
+          <string-name>
+            <given-names>Rationality ............................... 43 A.</given-names>
+            <surname>Competing</surname>
+          </string-name>
+          <article-title>Conceptions of Rationality and Value</article-title>
+          ..
+          <volume>46</volume>
+          1.
+          <string-name>
+            <surname>Common</surname>
+            <given-names>critiques .......................</given-names>
+          </string-name>
+          <article-title>46 2. Expert and lay judgments</article-title>
+          <string-name>
+            <surname>.................</surname>
+          </string-name>
+          48
+          <string-name>
+            <given-names>B.</given-names>
+            <surname>Expert Perspectives</surname>
+          </string-name>
+          on Risk, Rationality, and Policy 52 C.
+          <article-title>Lay Perspectives on Risk, Rationality,</article-title>
+          and Policy 55
+          <string-name>
+            <given-names>D.</given-names>
+            <surname>Incommensurability</surname>
+          </string-name>
+          and
+          <string-name>
+            <given-names>Disaggregating</given-names>
+            <surname>Costs</surname>
+          </string-name>
+          and
+          <string-name>
+            <given-names>Benefits .............................. 64 E.</given-names>
+            <surname>Expressive</surname>
+          </string-name>
+          <article-title>Dimensions of Regulatory Policies</article-title>
+          ..... 66
+          <string-name>
+            <given-names>F.</given-names>
+            <surname>Proposed</surname>
+          </string-name>
+          <string-name>
+            <surname>Modifications ...................... 72 G.</surname>
+          </string-name>
+          <article-title>Willingness to Pay or QUALYs as Solutions?</article-title>
+          . . . . .
+          <volume>75</volume>
+          1.
+          <article-title>Revealed preferences and willingness to pay</article-title>
+          ...
+          <volume>76</volume>
+          2.
+          <article-title>Contingent valuation as a surrogate for willingness to pay</article-title>
+          <string-name>
+            <surname>.......................</surname>
+          </string-name>
+          <article-title>80 3. Alternative individual valuation measures: QUALYs</article-title>
+          <string-name>
+            <surname>..............................</surname>
+          </string-name>
+          <article-title>83 4</article-title>
+          .
+          <string-name>
+            <surname>Tentative</surname>
+            <given-names>conclusions .................... 85 H.</given-names>
+          </string-name>
+          <string-name>
+            <surname>An Expert</surname>
+          </string-name>
+          <article-title>Cadre? Justice Breyer's</article-title>
+          <string-name>
+            <given-names>Proposal ...... 86 I.</given-names>
+            <surname>Further Issues about Participatory</surname>
+          </string-name>
+          <string-name>
+            <surname>Reforms ....... 89</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <given-names>V.</given-names>
+            <surname>Regulatory</surname>
+          </string-name>
+          <article-title>Means and Reinvented Government: Information and</article-title>
+          <string-name>
+            <given-names>Incentives ...................... 95 A.</given-names>
+            <surname>In</surname>
+          </string-name>
+          <string-name>
+            <surname>General ...............................</surname>
+          </string-name>
+          <article-title>96 1</article-title>
+          .
+          <string-name>
+            <surname>Inefficiency ............................</surname>
+          </string-name>
+          <article-title>96 2</article-title>
+          .
+          <string-name>
+            <surname>Democracy ............................</surname>
+          </string-name>
+          <article-title>99 3. A note on distributional considerations</article-title>
+          ....... 101
+          <string-name>
+            <surname>B. Information ...............................</surname>
+          </string-name>
+          <article-title>102 1</article-title>
+          .
+          <string-name>
+            <surname>Efficiency .............................</surname>
+          </string-name>
+          <article-title>103 2</article-title>
+          .
+          <string-name>
+            <surname>Democracy ............................</surname>
+          </string-name>
+          <article-title>105 3</article-title>
+          .
+          <string-name>
+            <surname>Pre-Clinton</surname>
+            <given-names>steps .......................</given-names>
+          </string-name>
+          <article-title>105 4. More effective communication of risk information</article-title>
+          <string-name>
+            <surname>............................ 107 C. Economic Incentives ........................</surname>
+          </string-name>
+          <article-title>112 1</article-title>
+          .
+          <string-name>
+            <surname>Efficiency .............................</surname>
+          </string-name>
+          <article-title>112 2</article-title>
+          .
+          <string-name>
+            <surname>Democracy ............................</surname>
+          </string-name>
+          <article-title>114 3</article-title>
+          .
+          <string-name>
+            <surname>Pre-Clinton</surname>
+            <given-names>initiatives ....................</given-names>
+          </string-name>
+          <article-title>116 4</article-title>
+          .
+          <string-name>
+            <surname>Initial</surname>
+            <given-names>Clinton initiatives .................</given-names>
+          </string-name>
+          <article-title>120 5</article-title>
+          .
+          <string-name>
+            <surname>Qualifications .......................... 122</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Conclusion ......................................</surname>
+          </string-name>
+          <article-title>125 6 See Stephen Breyer, Breaking the Vicious Circle: Toward Effective Risk Regulation</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <volume>19</volume>
+          ,
+          <fpage>23</fpage>
+          -
+          <lpage>28</lpage>
+          (
+          <issue>Harvard</issue>
+          ,
+          <year>1993</year>
+          ). See also Carnegie Commission on Science, Technology, and
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Government</surname>
+          </string-name>
+          ,
+          <article-title>Risk and the Environment:Improving RegulatoryDecisionMaking (</article-title>
+          <year>1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>' Thomas D. Hopkins</surname>
+          </string-name>
+          ,
+          <source>The Costs of FederalRegulation, 2 J Reg &amp; Soc Costs</source>
+          <volume>5</volume>
+          ,
+          <fpage>25</fpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <source>table 2</source>
+          (
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <source>mental Regulation, Regulation</source>
+          <volume>25</volume>
+          (No 1,
+          <year>1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <source>Review and Synthesis, 8 Yale J Reg</source>
+          <volume>233</volume>
+          ,
+          <fpage>253</fpage>
+          -
+          <lpage>54</lpage>
+          (
+          <year>1990</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          10 See
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <source>ConstitutionalismAfter the New Deal, 101 Harv L Rev</source>
+          <year>421</year>
+          ,
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <source>Review ofAgency Rulemaking, 99 Harv L Rev</source>
+          <volume>1075</volume>
+          ,
+          <issue>1088</issue>
+          (
+          <year>1986</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <source>ysis of ConstitutionalIssues That May Be Raised by Executive Order12</source>
+          ,
+          <volume>291</volume>
+          , 23 Ariz L Rev
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <article-title>13 For a full discussion of the advantages and disadvantages of OMB review, see</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <article-title>Thomas 0</article-title>
+          .
+          <string-name>
+            <surname>McGarity</surname>
+          </string-name>
+          , Reinventing Rationality:
+          <article-title>The Role of Regulatory Analysis in the</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <fpage>FederalBureaucracy274</fpage>
+          -
+          <lpage>91</lpage>
+          (Cambridge,
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          17 See, for example, Robert V.
+          <string-name>
+            <surname>Percival</surname>
+          </string-name>
+          , Checks Without Balance:Executive Office Over-
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <source>sightof the EnvironmentalProtectionAgency</source>
+          , 54
+          <string-name>
+            <surname>L</surname>
+          </string-name>
+          &amp; Contemp Probs 127,
+          <fpage>178</fpage>
+          -
+          <lpage>200</lpage>
+          (
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <source>'8 Exec Order No</source>
+          <volume>12866</volume>
+          §
+          <issue>11</issue>
+          ,
+          <string-name>
+            <surname>3</surname>
+            <given-names>CFR</given-names>
+          </string-name>
+          638,
+          <issue>649</issue>
+          (
+          <year>1993</year>
+          ),
+          <source>reprinted in 5 USC § 601 note</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <source>(Supp</source>
+          <year>1993</year>
+          ).
+          <article-title>See also Office of the Vice President</article-title>
+          , ImprovingRegulatory Systems: Accom-
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <source>panyingReport of the NationalPerformanceReview</source>
+          <volume>11</volume>
+          (
+          <year>1993</year>
+          ).
+          <article-title>An early discussion of the</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          ernment orRefining Reagan/BushInitiatives?,8
+          <string-name>
+            <surname>Admin L J Am</surname>
+            <given-names>U</given-names>
+          </string-name>
+          23 (
+          <year>1994</year>
+          ).
+          <source>19 Exec Order No 12866 § 2(b)</source>
+          ,
+          <source>3 CFR at 640 (cited in note 18)</source>
+          . 20 Id § 4(c) at
+          <volume>642</volume>
+          . 21 Id §
+          <article-title>1(b)(5</article-title>
+          ) at 639.
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          <string-name>
+            <surname>' Oscar</surname>
+            <given-names>Kraines</given-names>
+          </string-name>
+          ,
+          <source>The PresidentVersus Congress: The Keep Commission</source>
+          ,
+          <fpage>1905</fpage>
+          -
+          <lpage>1909</lpage>
+          :
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          <source>FirstComprehensivePresidentialInquiryInto Administration</source>
+          , 23
+          <string-name>
+            <given-names>W</given-names>
+            <surname>Pol</surname>
+          </string-name>
+          <string-name>
+            <surname>Q</surname>
+          </string-name>
+          5 (
+          <year>1970</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          <string-name>
+            <surname>GovernmentPerformance(AEI</surname>
+          </string-name>
+          ,
+          <year>1990</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          <string-name>
+            <surname>See</surname>
+            <given-names>McDonald</given-names>
+          </string-name>
+          ,
+          <source>The American Presidency at 330-31 (cited in note 31).</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Kraines</surname>
+          </string-name>
+          , 23 W Pol Q at 37-45 (cited in note 32)
+          <article-title>; McDonald, The American</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          <string-name>
+            <surname>Presidencyat</surname>
+          </string-name>
+          330-31 (cited in note 31); Peri E. Arnold, Making the ManagerialPresidency:
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          <string-name>
+            <surname>ComprehensiveReorganizationPlanning</surname>
+          </string-name>
+          ,
+          <fpage>1905</fpage>
+          -1980
+          <fpage>23</fpage>
+          -
+          <lpage>26</lpage>
+          (Princeton,
+          <year>1986</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          <source>' Budget and Accounting Act of</source>
+          <year>1921</year>
+          , Pub L No 67-
+          <issue>13</issue>
+          , 42 Stat 20, codified at 31
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          <string-name>
+            <surname>USC</surname>
+          </string-name>
+          §§
+          <volume>1101</volume>
+          et seq (
+          <year>1988</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          <source>' Arnold, Making the ManagerialPresidency at 26-54 (cited in note 35).</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Carnegie Commission</surname>
+          </string-name>
+          ,
+          <source>Risk and the Environment at 48-49 (cited in note 6).</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          <article-title>4 Office ofManagement</article-title>
+          and Budget, Circular No A-
+          <volume>107</volume>
+          (
+          <issue>Jan</issue>
+          28,
+          <year>1974</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          <source>47 McGarity, Reinventing Rationalityat 19 (cited in note 13).</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          <source>'a Act of December 23</source>
+          ,
+          <year>1969</year>
+          , Pub L No 91-
+          <issue>151</issue>
+          , 83 Stat 377, codified at 12 USC §
+          <year>1904</year>
+        </mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>
+          (
+          <year>1976</year>
+          ).
+          <article-title>See also Carnegie Commission, Risk and the Environment at 48 (cited in note 6).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>
+          <source>49 Exec Order No</source>
+          <volume>12044</volume>
+          ,
+          <string-name>
+            <surname>3</surname>
+            <given-names>CFR</given-names>
+          </string-name>
+          152 (
+          <year>1978</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>
+          <source>See Exec Order No 12866 § 4(e)</source>
+          ,
+          <source>3 CFR at 643-44 (cited in note 18).</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation>
+          <string-name>
+            <surname>Thus</surname>
+          </string-name>
+          ,
+          <source>the early Report on Executive Order No 12866, 59 Fed Reg</source>
+          <volume>24276</volume>
+          (cited in
+        </mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation>
+          note 28),
+          <article-title>devotes no attention to whether the regulations that have emerged are good</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <mixed-citation>
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Carnegie Commission</surname>
+          </string-name>
+          ,
+          <article-title>Risk and the Environment at 20 (cited in note 6).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <mixed-citation>
+          <string-name>
+            <given-names>Relative</given-names>
+            <surname>Risk Reduction Strategies Commission to William K Reilly</surname>
+          </string-name>
+          (
+          <year>1990</year>
+          ), in Zygmunt
+        </mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <mixed-citation>
+          <source>andPolicy:Nature</source>
+          ,Law, andSociety
+          <volume>19</volume>
+          -
+          <fpage>23</fpage>
+          (
+          <issue>West</issue>
+          ,
+          <year>1990</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <mixed-citation>67 Id at 21.</mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <mixed-citation>' Id at 23.</mixed-citation>
+      </ref>
+      <ref id="ref50">
+        <mixed-citation>
+          <string-name>
+            <surname>Morgan</surname>
+          </string-name>
+          , Scientific Am at
+          <volume>40</volume>
+          (cited in note 196).
+        </mixed-citation>
+      </ref>
+      <ref id="ref51">
+        <mixed-citation>
+          <string-name>
+            <surname>Morgan</surname>
+          </string-name>
+          , et al, 26
+          <source>Envir Sci Tech at 2054 (cited in note 379).</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref52">
+        <mixed-citation>
+          <source>Comparisons?,10 Risk Analysis</source>
+          <volume>375</volume>
+          ,
+          <issue>380</issue>
+          (
+          <year>1990</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref53">
+        <mixed-citation>
+          <source>ExperimentalTests of the Endowment Effect and the Coase Theorem, 98 J Pol Econ</source>
+          <volume>1325</volume>
+          ,
+        </mixed-citation>
+      </ref>
+      <ref id="ref54">
+        <mixed-citation>
+          1342-
+          <fpage>46</fpage>
+          (
+          <year>1990</year>
+          ). 418 Robert W. Hahn and
+          <string-name>
+            <surname>Gordon L. Hester</surname>
+          </string-name>
+          ,
+          <article-title>Where DidAll the Markets Go?An Analysis</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref55">
+        <mixed-citation>
+          <source>of EPA's Emissions TradingProgram, 6 Yale J Reg</source>
+          <volume>109</volume>
+          ,
+          <issue>138</issue>
+          (
+          <year>1989</year>
+          ).
+          <article-title>© 1989 by the Yale</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref56">
+        <mixed-citation>
+          <string-name>
+            <surname>Journal on Regulation</surname>
+            ,
+            <given-names>P.O. Box 208215</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>New</surname>
+            <given-names>Haven</given-names>
+          </string-name>
+          , CT
+          <volume>06520</volume>
+          -
+          <fpage>8215</fpage>
+          . Reprinted from
+        </mixed-citation>
+      </ref>
+      <ref id="ref57">
+        <mixed-citation>
+          <article-title>Volume 6:1 by permission</article-title>
+          .
+          <source>All rights reserved. 419 See 40 CFR § 80.20</source>
+          (
+          <year>1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+

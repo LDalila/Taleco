@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta />
+    <article-meta>
+      <title-group>
+        <article-title>Is There an Unconstitutional Conditions Doctrine?</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <string-name>Recommended Citation</string-name>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Cass R. Sunstein, "Is There an Unconstitutional Conditions Doctrine?</institution>
+          ,
+          <addr-line>" 26 San Diego Law Review 337</addr-line>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Faculty Scholarship</institution>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>1989</year>
+      </pub-date>
+      <volume>26</volume>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>This Article is brought to you for free and open access by the Faculty Scholarship at Chicago Unbound. It has been
+accepted for inclusion in Journal Articles by an authorized administrator of Chicago Unbound. For more
+information, please contact unbound@law.uchicago.edu.</p>
+      <p>Is There an Unconstitutional Conditions</p>
+      <p>I</p>
+      <p>In a number of areas of public law, a set of issues is organized
+around a "doctrine" that purports to give order and regularity to
+problems that might otherwise be treated as discrete and unrelated.</p>
+      <p>Ordinarily, organizing strategies of this sort are no cause for alarm;
+they help provide structure and direction in areas that are indeed
+closely connected. But on occasion, such strategies are highly
+misleading. By combining problems that are quite discrete, and by
+treating them at a high level of generality, they deflect attention from
+more particular considerations that ought to be the central focus of
+judicial attention.</p>
+      <p>One of the most prominent examples here is the "political question
+doctrine" - a doctrine that is said to help courts decide when to
+remove themselves from nonlegal controversies. To be sure, some
+decisions should not be subject to judicial resolution, but not because of
+a unitary or general "political question doctrine."' When decisions
+are immunized from the courts, it is because no particular
+constitutional provision forbids the governmental action at issue - a point
+t All rights reserved.</p>
+      <p>* Karl N. Llewellyn Professor of Jurisprudence, Law School and Department of
+Political Science, University of Chicago. This essay is a revised version of a presentation
+to the Constitutional Law Section of the Association of American Law Schools in
+January 1989. Akhil Amar and Michael McConnell gave helpful comments on an earlier
+draft.</p>
+      <p>Some of the ideas in this essay are discussed in more detail, and from a different angle,
+in Sunstein, Why the Unconstitutional Conditions Doctrine Is An Anachronism
+(forthcoming).</p>
+      <p>1. This is the central argument in Henkin, Is There A PoliticalQuestion
+Doctrine?, 85 YALE L.J. 597 (1976).
+recognized by Chief Justice Marshall in the original decision giving
+rise to that doctrine.2 In resolving issues of this sort, it is far better
+to attend to the nature of the constitutional disability in the
+particular case, rather than to a supposed "political question doctrine." The
+question is whether the government's action violates a constitutional
+provision, and that question is one on the merits.3</p>
+      <p>Similar considerations apply to the doctrine of "standing." Much
+of the confusion of the last generation has been a product of a belief
+that there is something called a unitary standing doctrine, one that is
+independent of the particular rights created under particular
+constitutional and statutory provisions. Whether there is standing depends
+on whether positive law has created a right to relief - sometimes a
+complex question, to be sure, but one that will yield different
+answers in different contexts.</p>
+      <p>Much of the same is true of the unconstitutional conditions
+doctrine. Whether a condition is permissible is a function of the
+particular constitutional provision at issue; on that score, anything so
+general as an unconstitutional conditions doctrine is likely to be quite
+unhelpful. The due process clause might well, for example, forbid
+states from denying Medicare benefits to those who have had
+abortions; but if this is so, it is because the best interpretation of the
+clause leads to that result, and not because of anything especially
+revealing in the idea that some conditions are unconstitutional. The
+unconstitutional conditions doctrine cannot, in short, do much of the
+work expected of it. It is far too crude and general a way to address
+the multiple possible collisions between constitutional protections
+and the modern regulatory state. Indeed, many of those collisions
+have been approached in highly misleading ways, and ironically, the
+unconstitutional conditions doctrine is the source of the difficulty.</p>
+      <p>I will be arguing, in short, for particularism in cases involving
+unconstitutional conditions: for an inquiry, not into whether the greater
+power includes the lesser, or whether the government can do
+"indirectly" what it cannot do "directly," but instead into whether the
+particular infringement affects a protected interest in a
+constitutionally troublesome way, and, if so, whether the government is able to
+justify any such effect. In order to ask and answer these questions, it
+will be necessary to venture far beyond the unconstitutional
+conditions doctrine.</p>
+      <p>2. The case is Marbury v. Madison, 5 U.S. (1 Cranch) 137 (1803).</p>
+      <p>3. To say this is not to deny that, on occasion, prudential concerns should stay the
+judicial hand even if the particular case involves an otherwise plausible legal claim.</p>
+      <p>4. See Fletcher, The Structure of Standing,98 YALE L.J. 221 (1988); Sunstein,
+Standing and the Privatizationof Public Law, 88 COLUM. L. REv. 1432 (1988).</p>
+      <p>II</p>
+      <p>We might begin to explore the confrontation between
+constitutional rights and government expenditures through three possible
+cases of unconstitutional conditions. In case one, the government
+makes welfare benefits available to those, and only those, who have
+spoken and who agree to speak favorably of the Democratic party.</p>
+      <p>In case two, the government says that it will pay for public schools
+but not for private schools. In case three, the government funds all
+medically necessary expenditures except those associated with
+abortion.</p>
+      <p>In all of these cases, government has failed to intrude on rights
+protected by the common law; in all of them, complaining citizens
+are better off with the program (even including the condition) than
+they would be if the program as a whole were eliminated. In all
+three cases, the source of the difficulty lies in the possibility that
+government might (a) be attempting to influence or (b) in fact be
+influencing the decision to exercise a constitutional right. The two
+possibilities are quite different. The first would point to an illicit
+governmental motivation: to use federal funds in a way designed to
+discourage people from availing themselves of a constitutional
+protection. The second would point to an impermissible effect: the use of
+governmental funds in a way that pressures or coerces the exercise of
+a right.</p>
+      <p>Both of these possibilities played a large role in the original
+development of the unconstitutional conditions doctrine, in which the
+Supreme Court attempted largely to protect Lochner-like rights from
+invasion through the regulatory state.' In this respect, the
+unconstitutional conditions doctrine owes its origins to a judicial effort, in a
+period of transition from the common law, to protect common-law
+rights from a new form of interference. That effort was rooted in an
+understanding that such rights could be pressured by something
+other than common-law coercion - as, for example, when
+government made licenses or other benefits available on its own terms, by
+subjecting them to conditions that led citizens not to exercise what
+would otherwise be protected rights. Thus, in all three cases, it is no
+longer sufficient to argue: (a) that the supposedly greater power not</p>
+      <p>5. The development is traced in Epstein, The Supreme Court, 1987 Term -
+Foreword: UnconstitutionalConditions, State Power, and the Limits of Consent, 102 HARV.</p>
+      <p>L. REV. 4 (1988). Epstein's own analysis is marked above all by its foundations in a
+Lochner-like conception of the relationship between the citizen and the state. For a
+discussion, see Sunstein, supra note *.
+to create or to abolish the program includes the supposedly lesser
+power to create the program with the condition; (b) that the citizen
+voluntarily accepted the condition because he willingly participated
+in the program in the first instance; and (c) that the citizen cannot
+complain because the program makes him better off than he would
+be without it.'</p>
+      <p>But in all three cases, what sort of help does the unconstitutional
+conditions doctrine offer? The doctrine operates as a shorthand
+response to these otherwise plausible arguments from the greater
+power and waiver; sometimes it provides the basis for a broadside
+attack on arguably unconstitutional conditions, on the theory that
+government cannot do "indirectly" what it cannot do "directly." But
+in order to resolve the three cases, or any other problem of this sort,
+it is necessary to ask far more particular questions about the nature
+of the constitutional right in the cases.</p>
+      <p>Case one, for example, is relatively simple. The reason is that the
+first amendment, properly interpreted, does not permit government
+to pressure the right to free expression in this way. That conclusion
+is in turn a product of two subsidiary ideas: (1) The pressure
+imposed on the right to free expression through the use of monetary
+incentives is a constitutionally significant burden, in light of the
+nature of the free expression interest, which calls for governmental
+neutrality among different points of view; and (2) the government, in
+the welfare setting, does not have available to it distinctive,
+financerelated interests that justify the imposition of that burden. It is
+therefore impermissible, under the first amendment, for government
+to make welfare available on the basis of this kind of selectivity.</p>
+      <p>Case two is also a simple one, at least under current law, and it
+goes in precisely the opposite direction. To be sure, there is, under
+Pierce v. Society of Sisters,7 a constitutional right to send one's
+children to private school. But there is no right to government funding
+of that right even if the government does in fact fund the public
+schools. For those who believe in a unitary unconstitutional
+conditions doctrine, the different results in cases one and two must be a
+puzzle. The pressure exerted on the right by the government is
+precisely the same in both settings. Why is the government able to treat
+speech rights in a way that it cannot treat the right to educate one's
+children?</p>
+      <p>If there is an answer, it lies not in anything with which the
+uncon</p>
+      <p>6. Although these arguments are insufficient, it is necessary, and not altogether
+simple, to explain why this is so. See Easterbrook, Insider Trading,Secret Agents,
+Evidentiary Privileges, and the Production of Information, 1981 Sup. CT. REV. 309. For
+discussion of and response to those arguments, see generally Sullivan, Unconstitutional
+Conditions, 102 HARV. L. REV. 1413 (1989); Epstein, supra note 5.</p>
+      <p>7. 268 U.S. 510 (1925).
+[VOL. 26: 337. 1989]
+stitutional conditions doctrine can be helpful, but instead in the
+different nature of the rights in the two cases. If current law is correct,
+it is because the right to send one's children to private schools is a
+distinctive one. It might be distinctive in the sense that it is not a
+right to governmental fneutrality in general or in the abstract, but
+instead merely a right to be free from criminal coercion in the
+private education of one's children. On this view, the right to educate
+one's children does not require governmental neutrality as between
+public and private schools, and it does not proscribe the use of
+funding to pressure that choice. This may or may not be a correct
+interpretation of the relevant right. But if it is incorrect, it is because of
+nothing in the unconstitutional conditions doctrine, but instead
+because of something in the nature of the right.</p>
+      <p>If this distinction between the right recognized in Pierce and the
+free speech right is unpersuasive, current law might nonetheless be
+correct for a quite independent reason. Perhaps the differential use
+of financial incentives in the setting of private schools is
+constitutionally troubling, and government must therefore come up with a
+powerful argument in its defense; but perhaps such an argument is
+available. The argument would go like this. Many taxpayers would have
+severe objections to the public funding of religious schools. Those
+objections are not only severe, but closely tied up with, and indeed
+are an inextricable part of, the rationale behind the establishment
+clause. In these circumstances, an interpretation of the right to
+educate one's children that would compel governmental neutrality would
+wreak havoc with the deeper logic of the constitutional text.
+Governmental neutrality would, in short, bring about violations of the
+establishment clause. One might add here that any government has strong
+and legitimate reasons to favor public over private education, in
+order (for example) to foster the development of an integrated national
+(or state) polity. These reasons may well be insufficient to permit
+prohibition of private schools without being so weak as to be
+insufficient to permit the funding of public but not private schools.'</p>
+      <p>All this should be enough to suggest that it is at least plausible to
+understand the right to educate one's children in private schools as
+not including a prohibition on the funding of public but not private
+schools. If this is so, case one and case two properly come out
+differ</p>
+      <p>8. Considerations of the sort suggested in this paragraph explain my uneasiness
+with Professor McConnell's contribution to this symposium. See McConnell
+Unconstitutional Conditions: Unrecognized Implicationsfor the Establishment Clause, 26 SAN
+DiEGO L. REv. 255 (1989).
+ently. The reason lies in the distinctive nature of the constitutional
+rights in the two cases, and the availability of unusual justifications
+in case two, justifications that permit government to invoke
+additional considerations in its support.</p>
+      <p>What of case three?9 Here an initial instinct would be to suggest
+that it necessarily falls within case one. Roe v. Wade'0 recognized a
+right to reproductive freedom, and that right, it would be argued,
+cannot exist if government is permitted to fund childbirth but not
+abortion. Such a distribution of financial incentives necessarily
+pressures the choice - particularly in the case at hand, which involves
+indigent women.</p>
+      <p>This basic argument derives support from a current staple of
+modern unconstitutional conditions arguments - the distinction between
+penalties and refusals to subsidize." A refusal to subsidize, on this
+view, amounts to a constitutionally unobjectionable unwillingness to
+ensure the exercise of a right. By contrast, a penalty represents a
+sanction exacted by making citizens worse off than they would be if
+the program were not created; a penalty is therefore constitutionally
+suspect. In case three, it might be said, there is an impermissible
+penalty since government is depriving citizens of something that they
+would otherwise receive, that is, funding for all medically necessary
+expenditures. 2</p>
+      <p>Ironically, these arguments reveal precisely what is wrong with a
+general or unitary unconstitutional conditions doctrine; and it is
+possible to reach this conclusion without thinking that the arguments
+are necessarily wrong. There are three points here. The first is that
+the asserted characterization of the right in Roe v. Wade is by no
+means self-evidently correct. Whether the right is one to
+governmental neutrality, or instead to freedom from criminal coercion, is not a
+question that can be answered on the basis of the holding or
+rationale in Roe itself.' 3 That question depends on a far more complex
+inquiry into the best argument available for the Roe outcome. There
+is nothing illogical in reading Roe more narrowly, even if such a
+reading would be incorrect on balance. On that view, the Roe right
+would be akin to the right in Pierce.</p>
+      <p>The second point is that in the setting of financial expenditures,
+government possibly has available to it distinctive finance-related
+justifications that serve to legitimate any burdens on the relevant
+9. The case is, of course, drawn from Harris v. McRae, 448 U.S. 297 (1980).
+10. 410 U.S. 113 (1973).</p>
+      <p>!1. The distinction is made central in Harris. For a general discussion, see
+Kreimer, Allocational Sanctions: The Problem of Negative Rights in a Positive State,
+132 U. PA. L. REv. 1293 (1984).</p>
+      <p>12. This is the argument in Kreimer, supra note 11.
+13. Roe, 410 U.S. at 113.
+right. Many taxpayers would severely object to the use of taxpayer
+money to fund an activity that they consider the moral analogue of
+murder. These objections do not have the weight that would ground
+a serious free exercise objection to the use of federal funds to pay for
+abortion. But the objections might well make it permissible - not
+necessary, but permissible - for government to decide not to fund
+abortions even if it cannot criminalize them.</p>
+      <p>The third point is that the question whether the denial of funds for
+abortion is a "penalty" or a "refusal to subsidize" is both difficult to
+answer and - more importantly - constitutionally irrelevant. To
+decide the penalty-subsidy question, it is necessary to identify some
+status quo, or baseline, in order to conceive of the alternative
+universe from which the current deviation is to be measured. 4 In a
+period in which governmental regulatory programs interact with
+common-law rights in complex ways, that question is almost impossible
+to sort out. More fundamentally, the question whether a denial of
+funding operates as a "penalty" or as a "refusal to subsidize" is not,
+for constitutional purposes, the important one. The question is
+instead whether the governmental action at issue intrudes on the
+relevant right in a constitutionally troublesome way, and if so, whether
+the government has available legitimate justifications that are
+sufficiently weighty to justify any such intrusion. The penalty or subsidy
+inquiry does not help to answer this question.</p>
+      <p>These considerations hardly supply a decisive argument in favor of
+government programs that subsidize childbirth but not medically
+necessary abortions. It might well be that the right in Roe should in
+fact be characterized as a right to governmental neutrality - an
+argument that would draw strength if one accepts the view that the
+Roe outcome is best understood as a case involving sex
+discrimination and predictable adverse consequences for poor women. 15 It
+might well be that taxpayers' moral objections to public funding of
+abortion are not, in view of the best characterization of the relevant
+right, sufficiently weighty to justify the intrusion. This view might be
+supported by analogy to cases involving speech, religious, and
+nondiscrimination rights, where, as a general rule, the moral objections
+of the taxpaying public are insufficient to permit selectivity in
+funding.</p>
+      <p>These are complex questions, and they cannot be answered here.</p>
+      <p>14. See Sullivan, supra note 6; Kreimer, supra note 11.</p>
+      <p>15. See Tribe, The Abortion FundingConundrum: InalienableRights, Affirmative
+Duties, and the Dilemma of Dependence, 99 HARV. L. REv. 330 (1985).
+For present purposes, the central point is that in our three cases
+involving arguably 'unconstitutional conditions - under current law,
+the first an easy call for the citizen, the second an easy call for the
+government, and the third a difficult call that produced a split
+Supreme Court - the unconstitutional conditions doctrine has been
+entirely unhelpful. Cases that fall within the general category of
+unconstitutional conditions problems require a quite particular analysis
+of the nature of the relevant right. Whether there is a penalty or a
+subsidy is immaterial. Sometimes the government may do indirectly
+what it cannot do directly. The relevant cases must be argued on the
+merits, in terms of the appropriate conception of the relevant right;
+the unconstitutional conditions doctrine cannot do any of the
+necessary work.</p>
+      <p>All this is not to suggest that the doctrine has served no function,
+and it is hardly to say that cases involving conditions on
+governmental programs do not call up distinctive considerations. The doctrine
+has been helpful in answering familiar objections to the use of
+constitutional review in this area, and those objections are indeed
+misguided.1 6 Moreover, reviews of funding programs do share distinctive
+common inquiries - as we have seen - into the nature of the right
+and the character of governmental justifications. The principal
+problem with the unconstitutional conditions doctrine is that it tends to
+focus attention away from these questions, which are the correct
+ones, to other questions altogether - questions that probably cannot
+be answered and that in any case need not be asked.</p>
+      <p>III</p>
+      <p>We have seen that the unconstitutional conditions doctrine is an
+awkward and crude effort to bring under constitutional scrutiny a
+range of measures that affect constitutional rights in serious ways,
+but that would not otherwise be subject to serious judicial review.</p>
+      <p>The doctrine does help to identify a technique of burdening
+constitutional rights,'7 and thus to alert courts that a serious constitutional
+issue may be present notwithstanding both the absence of
+commonlaw "coercion"' 8 and the possibility that the person who has
+accepted both the benefit and the burden is on balance better off as a
+result of the deal. In coming to terms with the questions raised by
+the relevant cases, however, the unconstitutional conditions doctrine
+is inadequate in two fundamental ways.</p>
+      <p>First, it focuses attention on the largely immaterial question
+16. For discussion, see Sullivan, supra note 6; Epstein, supra note 5.
+17. A point emphasized in Sullivan, supra note 6.</p>
+      <p>18. For a discussion of the unfortunate legacy and surprising persistence of this
+idea. see Sunstein, supra note *.
+whether there is a "threat" (penalty) or an "offer" (subsidy). This is
+an extraordinarily complex question that courts are unlikely to be
+able sensibly to unpack. More importantly, the question is not the
+one that, as a general rule, the Constitution tells courts to ask.</p>
+      <p>Second, and most fundamentally, the unconstitutional conditions
+doctrine tends to lead courts to disregard the extraordinary
+particularity of the settings in which problems under this rubric tend to
+arise. Whether a condition is unconstitutional depends on whether
+the relevant clause, properly interpreted, makes the particular
+burden a constitutionally troubesome one, and, if so, whether the
+government has available to it - because of the setting - distinctive
+justifications that make its action permissible. These are not simple
+questions, but they are the relevant ones. We do not need an
+unconstitutional conditions doctrine in order to ask them.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list />
+  </back>
+</article>
+
