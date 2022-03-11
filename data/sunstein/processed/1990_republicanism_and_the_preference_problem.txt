@@ -1,0 +1,1220 @@
+University of Chicago Law School 
+University of Chicago Law School 
+Chicago Unbound 
+Chicago Unbound 
+
+Journal Articles 
+
+1990 
+
+Cass R. Sunstein 
+
+Republicanism and the Preference Problem 
+Republicanism and the Preference Problem 
+
+Faculty Scholarship 
+
+Follow this and additional works at: https://chicagounbound.uchicago.edu/journal_articles 
+
+ Part of the Law Commons 
+
+Recommended Citation 
+Recommended Citation 
+Cass R. Sunstein, "Republicanism and the Preference Problem," 66 Chicago-Kent Law Review 181 (1990). 
+
+This Article is brought to you for free and open access by the Faculty Scholarship at Chicago Unbound. It has been 
+accepted for inclusion in Journal Articles by an authorized administrator of Chicago Unbound. For more 
+information, please contact unbound@law.uchicago.edu. 
+
+REPUBLICANISM  AND  THE PREFERENCE  PROBLEM
+
+CASS  R. SUNSTEIN*
+
+INTRODUCTION
+
+To  many  contemporary  observers,  the ratification  of the  American
+Constitution  marked  the  end  of classical  politics  and  the start  of a  dis-
+tinctive  modern  approach.'  On that  approach,  government  takes people
+as  they  are.  Above  all,  it is  respectful  of divergent  conceptions  of the
+good  life.  Recognizing  that  self-interest  is often  the basis of political  be-
+havior,  it  creates  institutional  arrangements  and  substantive  rights  that
+will  discipline  likely  abuses  of political power,  increase  the prospects  for
+compromise,  and  create  spheres  of private autonomy  into which  govern-
+ment  may  not enter.  Agnostic  about  the  good,  a  modern  polity  creates
+the basic  rules  by which  people  can  order their private affairs.  Its  ambi-
+tions  are  otherwise  quite  modest.
+
+This  approach  is  often  contrasted  with  another  set  of understand-
+ings,  sometimes  denominated  "republican."  For  republicans,  the  polity
+is  supposed  to  benefit  from  and  to  inculcate  civic  virtue  in  its  people.
+The  character  of both  the individual  and  the collectivity,  and  the  enjoy-
+ment  of the  good life,  properly  conceived,  are  self-conscious  concerns  of
+the  system.  From  the  standpoint  of  modern  observers,  such  systems
+threaten  totalism,  or  the imposition  of a "comprehensive  view'" 2  on  the
+population.  On  the republican  account,  however,  collective  engagement
+with  individual  character  and  the  good  life  are  crucial  parts  of politics.
+Republicans  also put a high premium  on active  citizen participation
+in  public  affairs.  The  classical  republicans  placed  little  reliance  on  the
+
+*  Karl  N.  Llewellyn  Professor  of Jurisprudence,  University of Chicago  Law  School and  De-
+partment  of Political  Science.  Some  of the  arguments  in  this  essay  are  also  set  out  in  Sunstein,
+Preferences and Politics, 20  PHIL.  & PUB.  AFF.  3 (Winter  1991)  and  in C.  Sunstein,  AFTER  THE
+RIGHTS  REVOLUTION:  RECONCEIVING  THE REGULATORY  STATE  (Harvard University  Press  1990).
+I  am  grateful  to  George  Loewenstein,  Jane  Mansbridge,  and  Frederick  Schauer  for  helpful
+comments.
+
+1. See  G.  WOOD,  THE  CREATION  OF  THE  AMERICAN  REPUBLIC  (1972);  T.  PANGLE,  THE
+SPIRIT OF  MODERN  REPUBLICANISM  (1988);  Diamond,  Ethics and Politics" The  American  Way,  in
+THE  MORAL  FOUNDATIONS  OF THE  AMERICAN  REPUBLIC  (R.  Horowitz  ed.  1979).
+
+As the  discussion below  should  make clear,  I  do not by  any means  intend  to endorse all of the
+details of this account.  There is reason  to question both  the picture of "classical  republicanism"  and
+the  claims  about  the  nature  of the  shift  in  America.  But  these  issues  raise  questions  beyond  the
+scope  of the  present  discussion.
+
+2.  See  Rawls,  The Idea of an  Overlapping Consensus, 7 OxFoRD  J. LEGAL  STUD.  1 (1987).
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 181 1990
+
+CHICAGO-KENT  LAW  REVIEW
+
+[Vol.  66:181
+
+protection  of "rights"  against  the government.  Indeed,  these  very  cate-
+gories  would  seem  a  bit  puzzling  to  the classical  tradition.
+
+The  division  between  classical  republicans  and  the American  fram-
+ers  should  not  be  drawn  too  sharply.  The  framers  of the  Constitution
+drew  a  considerable  amount  from  classical  republicanism,  especially  in-
+sofar  as  they  placed  a  high  premium  on  political  deliberation,  political
+virtue,  political  debate,  and  citizenship.  Madison  and  Hamilton  in  par-
+ticular  emphasized  the  need  for deliberation  among  the  differently  situ-
+ated.  The  basic  institutions  of representation,  checks  and  balances,  and
+federalism  are  best  understood  against  this background.  Even  the  indi-
+vidual  rights  safeguarded  by  the  Constitution-the  right  to  a jury  trial
+and  the  rights  of  assembly  and  petition,  for  example-owe  a  large
+amount  to  the  republican  tradition.  The  framers  were  hardly  interest-
+group pluralists,  welfare  economists,  or believers  in a  prepolitical  sphere
+of private  rights.  They  were  republicans,  albeit  of  a  novel  stripe;  they
+were  liberals  as  well. 3
+
+The conventional  division between the American founders  and their
+classical  predecessors  is  therefore  far  too  crude.  But  there  is  certainly
+something to  the traditional view.  Respect  for private preferences,  rather
+than  collective  deliberation  about  character,  public  values,  or  the  good
+life,  seems  to  be a  distinguishing  feature  of American  constitutionalism.
+It  is  here,  perhaps  especially  in  recent  years,  that  the  classical  legacy
+seems  most remote and  least accessible  to modern  democratic  theory and
+contemporary  constitutional  practice.
+
+In this essay  I want to explore  the  question whether  a contemporary
+democracy might  not do better  to concern itself directly  with some of the
+concerns  of republicanism.  It  is  one  thing  to  affirm  competing  concep-
+tions  of the  good;  it  is  quite  another  to  suggest  that  private  preferences
+should  always  be  off-limits  to  politics.  My  goal  is  to  see  how  a  demo-
+cratic  republic,  recognizing  the  value  and  even  the  inevitability  of  the
+American  abandonment  of classical republicanism,  might nonetheless  at-
+tempt to  take  advantage  of those  aspects  of republicanism  that have  the
+strongest  claim  to  contemporary  support.  A  large  part  of  my  concern
+here  is  the  phenomenon  of endogenous  preferences,  a  phenomenon  that
+casts  doubt  on  the  idea  that  private  desires  and  beliefs  ought  to  be pro-
+
+3.  Indeed,  participants  in  the  liberal  tradition,  in  its  classical  forms,  emphasized  the need  for
+deliberation  in  government  and placed  a high  value  on  political  virtue.  Many  liberals  do not  take
+private  preferences  for granted,  whatever  their  sources  and  consequences,  and  whatever  the reasons
+that might  be  offered  in  their  support.  See  Sunstein,  Beyond  the Republican  Revival,  97  YALE  L.J.
+1539  (1988).
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 182 1990
+
+1990]
+
+REPUBLICANISM AND  PREFERENCE PROBLEM
+
+tected  in  all  contexts. 4
+
+The  argument  is  divided  in  three  parts.  In  Part  I,  I  invoke  some
+fairly  conventional  ideas  about  welfare  and  autonomy  in  order  to  draw
+into  doubt the  claim  that  government  should base  social  choices  on  pri-
+vate  preferences.  In  Part  II, I  set  out  three  categories  of cases  in which
+private preferences,  as expressed  in consumption  choices, should be  over-
+come.  The  first,  directly  traceable  to  republican  commitments,  includes
+collective  desires,  including considered  social judgments  and  widely  held
+aspirations;  the second,  also  with republican  roots,  involves  preferences
+that  have  adapted  to  unjust  background  conditions  or undue  limitations
+in available opportunities;  the  third, building on  classical ideas of myopia
+or akrasia,  includes  intrapersonal  collective  active  problems  that, over  a
+lifetime,  decrease  personal  welfare.  A  democratic  republic,  I  argue,
+should  override  private  preferences  in  all  of  these  cases.  In  Part  III,  I
+draw  on  the  republican  tradition  to  deal  with  two  current  controversial
+issues:  government  efforts  to  promote  access  to  the  media  and  propor-
+tional  representation.
+
+I.  PREFERENCES,  DELIBERATION,  AND  POLrrIcs
+
+Should  a  constitutional  republic  take  preferences  as given?  In  con-
+temporary  politics,  law,  and  economics,  the  usual  answer  is  affirmative.
+Modern  economics, for example, is dominated by  a conception  of welfare
+based  on  the  satisfaction  of  existing  preferences;  in  politics  and  law,
+something  called  "paternalism"  is disfavored  in both the public  and  pri-
+vate  realms. 5  But  the idea  that  government  ought  to  take preferences  as
+
+4.  On  the limits of preference-based  theories,  see Sen, Rational Fools" A  Critique of the Behav-
+ioral Foundations of Welfare Economics, 6 PHIL.  & PUB.  AFP.  317  (1976);  J. ELSTER,  SOUR  GRAPES
+(1983);  Roemer,  "Rational  Choice"  Marxism,  in  ANALYTICAL  MARXISM  (J. Roemer  ed.  1986).
+
+It  might  well  be  that  literature,  in  addition  to  economics  and  political  theory,  is  fruitful  for
+exploring  this  subject.  See  M. NUSSBAUM,  LOVE'S  KNOWLEDGE  (1990);  Nussbaum,  Shame. Sepa-
+rateness, and Political Unity: Aristotle's  Criticism of Plato, in  ESSAYS  ON  ARISTOTLE'S  ETHICS  (A.
+Rorty  ed.  1980)  [hereinafter  Nussbaum,  Shame.  Separateness,  and Political Unity].  It  is  thus  no
+accident that  writers  in  politics  and  economics sometimes  draw  on  literature.  See,  e.g.,  J.  ELSTER,
+supra.
+
+5.  There are  of course criticisms within  all  of these fields.  In  economics, see  Sen, supra note 4.
+In politics,  see  J. ELSTER,  supra note  4.  See,  on  the legal  issues,  Sunstein,  Legal Interference with
+Private  Preferences, 53  U.  CH.  L.  REV.  1129  (1986).
+
+It is  notable  that the great expositors  of liberalism  in  the nineteenth  and  twentieth centuries  are
+emphatic  in  their  rejection  of the  view  that existing  preferences  should  be  taken as  given,  for  pur-
+poses  of ethics  or politics.  See  J.  MILL,  CONSIDERATIONS  ON  REPRESENTATIVE  GOVERNMENT
+(1861);  J.  MILL,  THE  SuBJEcToN  OF  WOMEN  (1869);  J.  RAwLs,  A  THEORY  OF  JUSTICE  (1971).
+Mill's  rejection  of that  view  is especially  emphatic  in  his essay  on Bentham,  when  he criticizes  Ben-
+tham  for the view  that  "[t]o  say  either that  man  should,  or that  he  should  not, take  pleasure in  one
+thing, displeasure  in  another,  appeared to him  as much an  act of despotism  in  the moralist as in  the
+political  ruler."  J.  MILL,  MILL  ON  BENTHAM  AND  COLERIDGE  68  (F.R.  Leavis  ed.  1950).  By
+contrast,  Mill  emphasized the need  to explore  the influences  "on  the regulation  of...  affections  and
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 183 1990
+
+CHICAGO-KENT  LAW  REVIEW
+
+[Vol.  66:181
+
+they are  is  a quite modem  one.  To  say this is hardly to  say  that  the idea
+is  without  foundations.  Partly  a  function  of  the  perceived  (though
+greatly overstated) difficulty  of making interpersonal  comparisons  of util-
+ity, it is also a product of the epistemological  difficulties in  assessing  pref-
+erences  in  terms  of their  true  connection  with  individual  welfare,  and,
+perhaps most  of all, the genuine political  dangers  of allowing  government
+to  engage  in  such  inquiries.
+
+Notwithstanding  these  considerations,  an  initial  objection  to  the
+view  that  government  should  take  preferences  as  they  are  might  point
+out  that  whether  people  have  a preference  for  a commodity,  a  right,  or
+anything  else  is  in  part  a  function  of whether  the government  has  allo-
+cated it to  them in the first instance.  The decision  to grant a  right to one
+person frequently  makes that person value  that right more  than he would
+if the  right  had  been  allocated  to  someone  else.  The  initial  allocation
+serves  to  reflect,  to  legitimate,  and  to  reinforce  social  understandings
+about  presumptive  rights  of ownership,  and  that  allocation  has  a  causal
+connection to  individual  perceptions  about the  good or right  in question.
+For  example,  a  decision  to  give  employees  a  right  to  organize,  or
+women  a  right  not  to be  subject  to  sexual  harassment,  will  have  an  im-
+pact  on  social  attitudes  toward  labor  organization  and  sexual  harass-
+ment.  The  allocation  therefore  has  an  effect  on  social  attitudes  toward
+the  relevant  rights  and  on  their  valuation  by  both  current  owners  and
+would-be  purchasers.  And when preferences  are a function  of legal rules,
+the  rules cannot,  without circularity,  be justified by  reference  to  the pref-
+erences. 6  Because  of the preference-shaping  effects  of the rules of alloca-
+tion,  it  is  hard  to  see  how  a  government  might  even  attempt  to  take
+preferences  "as  given"  in  any global  sense.
+
+To  some degree  this  concern  might be put  to  one side.  Surely  there
+is a  difference  between  a  government  that concerns  itself self-consciously
+and on  an ongoing  basis  with private  preferences  and  a government  that
+sets up the basic  rules of property,  contract, and tort and then  lets things
+turn  out  however  they  may.  And  if this  distinction  can  be  sustained,
+disagreements  about the relationship between  politics and preferences  ap-
+
+desires,"  and  rejected  "the deficiencies  of a system of ethics which does not pretend to aid individuals
+in the formation  of their own  character."  Id. at 70-71.  Of course  there is a difference  between what
+a  system  of ethics  and  what  a  system  of  politics  should  say  about  that  question,  as  Mill  clearly
+indicated.
+
+6.  See  J. ELSTER, supra note 4;  J. RAWiS,  supra note  5.  Compare  the  "endowment  effect"
+discussed  in  Thaler,  Toward a Positive Theory of Consumer Choice,  1 J. ECON.  BEHAV.  & ORG.  39
+(1980);  see also  Knetsch  & Sinden,  Willingess to  Pay and Compensation Demanded: Experimental
+Evidence of an  Unexpected Disparity in Measures of Value, 99 Q.J. ECON.  507  (1984);  cf  Nussbaum,
+Shame, Separateness; and Political Unity, supra note  4.
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 184 1990
+
+1990]
+
+REPUBLICANISM  AND  PREFERENCE  PROBLEM
+
+pear  to  turn  on  competing  notions  of autonomy  on  the  one  hand  and
+welfare  on  the  other.  Those  who  treat existing  preferences  as  sovereign
+argue  that  this approach  is  most  likely  to  promote  both  individual  free-
+dom,  rightly  conceived,  and  individual  or  social  welfare.
+
+It will be useful to begin with welfare.  Even if one accepted  a purely
+welfarist  view,  one  might  think  that  the  process  of  promoting  welfare
+should  take  place,  not  by  satisfying  current  preferences,  but by  promot-
+ing those  preferences  and satisfying  them  to  such  an  extent  as is  conso-
+nant with the best  or highest conception  of human  happiness.  This view
+is connected  with older (and some current) forms of utilitarianism;  it also
+has  roots  in  Aristotle.7  Here  one  does  not  take  existing  preferences  as
+given,  and  one  does  not  put all  preferences  on  the  same  plane.  A  crite-
+rion  of welfare,  at least  in  some  sense,  remains the  ultimate  one, but  on
+this view,  the system  is not  focused  solely  on preference  satisfaction.  Of
+course  a  liberal  republic,  respectful  as  it  should  be  of  the  need  to  limit
+government  and of divergent conceptions  of the good,  ought generally  to
+refrain from  seeing private  preferences  as  an object  of collective  concern.
+But the  promotion of utility, rightly understood,  does  not always  call  for
+satisfaction  of existing  preferences.
+
+A  central point  here, highly  congenial  to the republican tradition,  is
+
+that  preferences  are  shifting  and  endogenous  rather  than  exogenous-
+endogenous  to,  or  a function  of, current  information,  consumption  pat-
+terns,  legal  rules,  and  social  pressures  most  generally.  Because  prefer-
+ences  are  shifting  and  endogenous,  and  because  the  satisfaction  of
+existing  preferences  might  lead  to unhappy  or  deprived  lives,  a  political
+system  that  treats  all  preferences  as  fixed  will  lose  important  opportuni-
+ties  for  welfare  gains.  At  least  if the  relevant  cases  can  be  confidently
+identified  in  advance,  and if collective  action can  be justified by  reference
+to particular good reasons,  the argument  for democratic  interference  will
+be quite powerful.  Respect for preferences  that have  resulted from unjust
+background  conditions  and  that  will  lead  to  human  misery  appears
+hardly  the  proper  course  for  a liberal  republic.
+
+For  example,  legal  rules  prohibiting  or  discouraging  addictive  be-
+havior  may  have  significant  advantages  in  terms  of welfare.  Regulation
+of heroin or  cigarettes-at  least if the regulation  can be made  effective-
+might  well  increase  aggregate  social  welfare,  by  decreasing  harmful  be-
+havior,  removing  the  secondary  effects  of  those  harms,  and  producing
+
+7.  For  a  modem  utilitarian account  along  these  lines,  see  R.  BRANDT,  A  THEORY  OF  THE
+GOOD AND  THE  RIGHT (198 1).  For an Aristotelian  account,  see  Sen,  Well-Being  Agency, and Free-
+dom,  82  J.  PHIL.  169  (1985).
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 185 1990
+
+CHICAGO-KENT  LAW  REVIEW
+
+[Vol.  66:181
+
+more  healthful and  satisfying  lives.  Or government  regulation  of the  en-
+vironment  or broadcasting-encouraging  or requiring,  for example,  pro-
+tection  of pristine  areas, nonentertainment  broadcasting, or  high-quality
+programs--may  generate  (or, better,  prevent  obstacles  to  generation  of)
+new preferences,  providing increased  satisfaction  and in  the end  produc-
+ing  considerable  welfare  gains.  The  same  may  well  be  true  of  antidis-
+crimination  measures,  which  affect 
+the  desires  and  attitudes  of
+discriminators and victims alike.  A  system that takes  private preferences
+for  granted  will  sacrifice  large  opportunities  for  social  improvement  on
+welfarist criteria.  This  point was a crucial one in the early  stages  of utili-
+tarian  thought;  it has  been  lost more  recently  with  the shift  from  older
+forms of welfarism  to the  idea of  "revealed  preferences."
+
+Moreover,  the  satisfaction  of  private  preferences,  whatever  their
+content  and origins,  does  not respond  to a  persuasive  conception  of lib-
+erty or  autonomy.  The  notion  of autonomy  should  refer  instead  to deci-
+sions  reached  with a full  and vivid  awareness  of available  opportunities,
+with  all  relevant  information,  or,  most  generally,  without  illegitimate
+constraints  on  the process  of  preference  formation.  When  these  condi-
+tions  are  not  met, decisions  might  be described  as unfree  or  nonautono-
+mous.  If preferences  are  a  product  of available  information,  of existing
+consumption  patterns,  of social  pressures,  and  of governmental  rules, it
+seems  odd to suggest  that individual freedom  lies exclusively  or by  defini-
+tion  in  preference  satisfaction.  It  seems  even  odder  to  suggest  that  all
+preferences  should  be  treated  the  same,  independently  of  their  origins
+and  consequences,  or  of the reasons  offered  in  their  support.
+
+Consider, for example,  a decision  to purchase  dangerous  foods, con-
+sumer products,  or  cigarettes  by  someone  unaware  of the serious  health
+risks;  an employer's decision  not to deal with blacks because of the back-
+ground  of public  and  private  segregation,  or  racial  hostility  in  his  com-
+munity;  a  person  who  disparages  or  has  no interest  in  art  and  literature
+because the culture in which  he has been reared  consists  mostly of televi-
+sion;  a  decision of a woman  to adopt  a traditional  gender role because  of
+the  social  stigma  of  refusing  to  do  so;  a  decision  not  to  purchase  cars
+equipped with seatbelts  or not to wear  motorcycle  helmets because of the
+social  pressures  imposed  by  one's peer  group;  a  lack  of interest in  envi-
+ronmental  diversity  resulting  from  personal  experiences  that  are  limited
+to industrialized urban areas;  a decision  not to employ  blacks at a restau-
+rant because  of fear  of violence  from  whites.
+
+These  examples  are  different  from  one  another.  The  source  of the
+problem varies  in each.  In all of them, however,  the interest  in liberty  or
+autonomy  does  not  call  for  governmental  inaction,  even  if that  were  an
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 186 1990
+
+1990]
+
+REPUBLICANISM  AND  PREFERENCE  PROBLEM
+
+intelligible category.  Indeed, in many of these cases  regulation  removes a
+kind of coercion.
+
+One  goal  of a  democratic  republic,  in short,  is to  ensure autonomy
+not  only in  the satisfaction  of preferences,  but  also  and more fundamen-
+tally in the processes  of preference  formation.  Mill himself was  emphatic
+on this point,  going so far  as  to suggest  that government  itself should  be
+evaluated  by  its effects  on the  character  of the citizenry."  The  view  that
+freedom  requires  an  opportunity  to choose  among alternatives  is supple-
+mented  by  the  view that  people  should  not face  unjustifiable  constraints
+on the  free  development  of their  preferences  and  beliefs.  It  is  not  alto-
+gether  clear  what  such  a  view  would  require-a  point to  which  we  will
+return.  At  the very  least,  however,  it  would  see  a  failure  of autonomy,
+and  a  reason  for  collective  response,  in  beliefs  and  preferences  based  on
+the  absence  of information  or  on  insufficient  opportunities.
+
+Government  action  might  also  be justified  on grounds  of autonomy
+when  the public  seeks  to  implement,  through  democratic  processes  cul-
+minating in law, widely  held social aspirations  or collective desires.  Indi-
+vidual  consumption  choices  often  diverge  from  collective  considered
+judgments:  people  may  seek,  through  law,  to  implement  a  democratic
+decision  about what  courses  to pursue.  If so, it is ordinarily  no violation
+of  autonomy  to  allow  those  considered  judgments  to  be  vindicated  by
+governmental  action.  Consider  a  law calling  for support of the arts  or of
+high-quality  broadcasting,  sought by  a majority of the population  at large
+and  making  available  opportunities  not provided  through  market order-
+ing.  Ideas  of this  sort  can  be  connected  to  the  original  constitutional
+belief, built  on  republican  foundations,  in  deliberative  democracy.  Col-
+lective  aspirations  or considered judgments, produced  by a  process  of de-
+liberation  in which  competing  perspectives  are brought  to bear,  reflect  a
+conception  of political  freedom  having  deep  roots in  the American  con-
+stitutional  tradition.
+
+This  different  conception  of  autonomy  places  an  emphasis  on  the
+freedom  of collectivities  or  communities-a  freedom  embodied  in  deci-
+sions,  reached  by  the citizenry,  about  what  courses  to pursue.  This view
+is closely  associated  with classical  republicanism,  but it has resonances  in
+Madisonian  thought  as  well.  In  this  view,  political  autonomy  can  be
+found  in  collective  self-determination,  as  citizens  decide,  not  what  they
+"want,"  but  instead  who they are-what  their values  are and  what  those
+values  require.  What  they  "want"  must  be  supported  by  reasons.  An
+
+8.  See  J.  MILL,  CONSIDERATIONS  ON  REPRESENTATIVE  GOVERNMENT,  supra  note  5.
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 187 1990
+
+CHICAGO-KENT  LAW  REVIEW
+
+[Vol.  66:181
+
+important  form  of freedom  consists  in  precisely  these  processes  of self-
+determination.
+
+Of  course  there  are  serious  risks  of  overreaching  here,  and  there
+must  be  some  constraints-usually  denominated  "rights"--on  this  pro-
+cess.  Checks  laid  down  in advance are  an indispensable  part of constitu-
+tional  government.  Those  checks  will  include,  at  a  minimum,  basic
+guarantees  of  political  liberty  and  personal  security.  Such  guarantees
+may  not be  compromised  by  processes  of collective  self-determination,
+but  citizens  in  any  polity  would  be  likely  to  make  some  space  for
+processes  of this  sort.
+
+II.  REPUBLICAN  REJECTION  OF  REVEALED  PREFERENCES
+
+In  this  section  I attempt  to  particularize  the  claims  made  above  by
+cataloging  cases  for democratic  rejection  of private preferences.  In  all of
+these  cases,  I  claim  that  participants  in  a  liberal  republic  ought  to  be
+concerned  with whether  its  citizens  are experiencing  satisfying  lives  and
+that  the  salutary  liberal  commitment  to  divergent  conceptions  of  the
+good  ought  not  always  to  be  taken  to  disable  government  from  expres-
+sing  that  concern  through  law.  The cases  fall  in  three  basic  categories:
+collective  desires, excessive  limitations  in opportunties, and intrapersonal
+collective  action  problems.
+
+A.  Collective Desires and Aspirations
+
+Citizens  in a  democratic  polity  might  act to  embody  not  the prefer-
+ences  that  they  hold  as  private  consumers,  but  instead  what  might  be
+described  as  collective  desires,  including  aspirations,  "preferences  about
+preferences,"  or considered judgments.  Measures  of this sort are a prod-
+uct  of deliberative  processes  on the  part  of citizens  and  representatives.
+In those processes,  at least sometimes  people do not simply  ask what  they
+"want."  Such measures  cannot be understood  as  an attempt to aggregate
+or  trade-off  private  preferences.
+
+1.  Politics, Markets,  and  the Dependence  of Preferences  on  Context
+
+Frequently,  political  choices  cannot  easily  be  understood  as  a  pro-
+cess  of  aggregating  prepolitical  desires.  Some  people  may,  for  example,
+want  nonentertainment  broadcasting  on  television,  even  though  their
+own  consumption  patterns  favor situation comedies;  they may  seek strin-
+gent laws  protecting  the environment  or endangered  species  even  though
+they  do  not  use  the  public  parks  or  derive  benefits  from  protection  of
+species;  they may  approve  of laws  calling  for social  security  and welfare
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 188 1990
+
+1990]
+
+REPUBLICANISM  AND  PREFERENCE  PROBLEM
+
+even  though  they  do not  save  or  give  to  the poor;  they  may support  an-
+tidiscrimination  laws  even  though  their  own  behavior  is  hardly  race-  or
+gender-neutral.  The choices  people make as political  participants are  dif-
+ferent  from those  they make  as  consumers.  Democracy  thus calls  for  an
+intrusion  on  markets.
+
+The  widespread  disjunction  between  political  and  consumption
+choices  presents something of a puzzle.  Indeed,  it sometimes  leads  to the
+view  that  market  ordering  is  undemocratic  and  that  choices  made
+through  the  political  process  are  a preferable  basis  for  social  ordering.
+
+A  generalization  of this  sort would  be  far  too broad  in  light  of the
+multiple  breakdowns  of the political process  and the  advantages  of mar-
+ket  ordering  in  many  arenas.  Respect  for private  markets  is  an  impor-
+tant  way  of  respecting  divergent  conceptions  of  the  good  and  is  thus
+properly  associated  with  individual  liberty.  Respect  for  markets  is  also
+an  engine  of economic  productivity,  an important  individual  and  collec-
+tive goal.  But it would be a mistake  to suggest,  as some  do,  that markets
+always reflect  individual choice  more  reliably than politics, or that demo-
+cratic  choices  differ  from consumption  outcomes  only because  of confu-
+sion,  as  voters fail  to realize  that  they  must  ultimately  bear  the  costs  of
+the programs  they  favor.
+
+Undoubtedly  consumer behavior  is sometimes  a better or more  real-
+istic  reflection  of actual  preferences  than  is  political  behavior.  But  in
+light  of the  fact that  preferences  depend  on context,  the very  notion  of a
+"better  reflection"  of  a  unitary  "actual"  preference  is  a  confusing  one;
+there is  no such  thing as an  "actual"  (in  the sense  of acontextual)  prefer-
+ence  in  these  settings.  Moreover,  the  difference  might  be  explained  by
+the  fact  that  political  behavior  reflects  a  variety  of  influences  that  are
+distinctive  to  the  context  of politics.
+
+These influences  include  four closely related  phenomena.  First, citi-
+zens may  seek to implement individual and collective aspirations  in  polit-
+ical  behavior  but  not  in  private  consumption.  As  citizens,  people  may
+seek  the aid of the law  to bring about  a social  state  that they consider  to
+be  in some  sense  higher  than what  emerges  from  market  ordering.  Sec-
+ond,  people  may,  in their  capacity  as  political  actors,  attempt  to  satisfy
+altruistic  or  other-regarding  desires,  which  diverge  from  the  self-inter-
+ested  preferences  characteristic  of  markets. 9  Third,  political  decisions
+might  vindicate  what  might  be  called  meta-preferences  or  second-order
+preferences.  People  have  wishes  about their wishes,  and sometimes  they
+try  to  vindicate  those  second-order  wishes,  or  considered  judgments
+
+9.  See  H.  MARGOLIS,  SELFISHNESS,  ALTRUISM,  AND  RATIONALITY  (1982).
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 189 1990
+
+CHICAGO-KENT  LAW  REVIEW
+
+[Vol.  66:181
+
+about  what  is  best,  through  law.  Fourth,  people  may  precommit  them-
+selves,  in democratic  processes,  to  a  course  of action  they  consider  to  be
+in  the  general  interest;  the  story  of Ulysses  and  the  Sirens  is  the  model
+here.  The adoption  of a Constitution  is itself an  example of a precommit-
+ment  strategy.
+
+To  point  to  these  possibilities  is  not  at  all  to  deny  that  market  or
+private behavior  frequently  reflects meta-preferences,  altruism,  or aspira-
+tions.  There  are  countless  counterexamples  to  any  such  claim.  Diver-
+gences  between  market  and  political  behavior,  however,  will  sometimes
+be  attributable  to  phenomena  of this  sort.
+
+Consider, as a possible example  of all these phenomena,  the fact that
+people  seem  to  want  regulation  designed  to  secure  high  quality  broad-
+casting  even  though  their  consumption  patterns  favor  situation  come-
+dies-a  fact  that  helps justify  certain  controversial  regulatory  decisions
+by  the  Federal  Communications  Commission  requiring  nonentertain-
+ment  broadcasting  and  presentations  on  issues  of  public  importance.
+Consider  as  well  measures  designed  to  protect  endangered  species  and
+natural  preserves  in  the  face  of individual  behavior that  reflects  little  so-
+licitude  for  them.
+
+2.  Explanations:  Collective  Action  Problems,
+Deliberation,  and Others
+
+How  are  the  differences  between  choices  expressed  in  markets  and
+those  expressed  in  politics  to  be  explained?  There  are  a  number  of
+possibilities.
+
+First,  the  collective  character  of  politics,  permitting  a  response  to
+collective  action  problems,  is  critical  here.  People may  not want  to sat-
+isfy  their  meta-preferences,  or  to  be  altruistic,  unless  there  is  assurance
+that  others  will  be  bound  to  do  so  as  well.  More  simply,  people  may
+prefer not  to contribute  to a collective  benefit if donations  are  made indi-
+vidually,  with  no  guarantee  that  others  will  participate;  but  their  most
+favored  system,  obtainable  only or best through democratic  forms, might
+be  one  in  which  they  contribute  if (but  only  if)  there  is  assurance  that
+others  will do so.  Perhaps  people feel ashamed  if others are  contributing
+and  they  are  not;  perhaps  they  feel  victimized  if they  are  contributing
+and  others  are  not.
+
+In  any  case, the satisfaction  of aspirations,  altruistic  goals,  or  meta-
+preferences  will  sometimes  have  the  characteristics  of the  provision  of
+public  goods  or the  solution  of prisoners'  dilemmas.  Here,  however, the
+public  good  is an unconventional  one.  The need  for government  is not to
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 190 1990
+
+1990]
+
+REPUBLICANISM  AND  PREFERENCE  PROBLEM
+
+satisfy  private choices  but instead to  ensure  the expression  or satisfaction
+of desires  that, precisely because  of the  political  setting, have a distinctive
+character.  In  a democratic society,  government  controls are an appropri-
+ate response.
+
+Second,  the  collective  character  of  politics  might  overcome  the
+problem, discussed below,  of preferences  and beliefs that have  adapted  to
+an unjust  status  quo  or to  limits  in available  opportunities.  Without  the
+possibility  of collective  action,  the  status  quo  may  seem  intractable,  and
+private  behavior  will  adapt  accordingly.  If, however,  people  can  act  in
+concert,  preferences  might  take  on  a  quite  different  form.  Social  move-
+ments  involving  the environment,  labor,  and race and  sex  discrimination
+are  examples  of this phenomenon.  Possible  democratic responses  include
+recycling  programs,  energy conservation  programs,  and  contributions  to
+the  arts,  to  the  poor,  and  to  environmental  protection.  The  collective
+action  problem  thus  interacts with  aspirations,  altruistic  desires,  second-
+order  preferences,  and  precommitment  strategies.  All  of these  are  more
+likely  to  be  enacted  into  law  in  the  face  of collective  action.
+
+Third,  social  and cultural  norms might  incline  people  to  express  as-
+pirational  or altruistic  goals  more often in political behavior  than in  mar-
+kets.  Such  norms  may  press  people,  in  their  capacity  as  citizens,  in  the
+direction  of a  concern  for  others  or  for the  public  interest.
+
+Fourth,  the deliberative  aspects  of politics, bringing additional  infor-
+mation  and  perspectives  to  bear,  may  affect  preferences  as  expressed
+through  governmental  processes.  A  principal  function  of  a  democratic
+republic  is to  ensure  that  through  representative  processes,  new  or  sub-
+merged voices,  or novel  depictions  of where interests  lie  and what  they in
+fact  are,  can be heard  and  understood.  It should  hardly  be surprising  if
+preferences,  values,  and  perceptions  of both  individual  and  collective  in-
+terests  are  changed  as  a  result  of that  process.
+
+Fifth, and  finally,  consumption  decisions  are  a product  of the  crite-
+rion  of private  willingness  to  pay,  which  creates  distortions  of  its  own.
+Willingness  to  pay  is  a function  of ability  to  pay,  and  it  is  an  extremely
+crude proxy  for  utility. Political  behavior removes  this  distortion  (which
+is  not  to  say  that it  does  not  introduce  distortions  of its  own).
+
+These  general  considerations  suggest  that  citizens  in  a  republic
+might attempt to  embody in law a considered judgment  on their part that
+the  choices  reflected  in  consumption  patterns  ought  to  be  overcome.  A
+related  but  more  narrow justification  is  that  statutes  safeguard  noncom-
+modity  values-like  environmental  diversity-that  an  unregulated  mar-
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 191 1990
+
+CHICAGO-KENT  LAW  REVIEW
+
+[Vol.  66:181
+
+ket,  even  a  well-functioning  one,  might  protect  inadequately. 10  Social
+ordering  through  markets  may  have  long-term,  world  transforming  ef-
+fects  that reflect collective  myopia, an emphasis  on short-term  considera-
+tions  at the expense  of the  future.  Possible  responses  include  promotion
+of high quality  programming in broadcasting,  of the arts, and of diversity
+through  protection  of the environment  and of endangered  species.  In all
+these  respects,  political  choices  are  not  made  by  consulting given  or pri-
+vate  desires,  but instead  reflect  a deliberative  process  designed  to  shape
+and  reflect  values.
+
+3.  Qualifications:  Risks  and  Distortions
+
+Arguments  from  collective  desires  are  irresistible  if the  measure  at
+issue  is adopted  unanimously.  But more serious  difficulties  are produced
+if (as is usual)  the law imposes  on a minority  what  it regards  as  a burden
+rather  than  a  benefit.  Suppose,  for  example,  that  a  majority  wants  to
+require  high-quality  television  and  to  ban  violent  and  dehumanizing
+shows,  but  that a  significant  minority  wants  to see  the  latter.  If we  put
+the  first  amendment  questions  aside  for  now,  it  might  still  be  thought
+that those  who  perceive  a need  to bind themselves,  or to express  an  aspi-
+ration,  should not be  permitted to  do  so  if the consequence  is  to deprive
+others  of an  opportunity  to  satisfy  their  preferences.
+
+The  foreclosure  of  the  preferences  of  the  minority  is  unfortunate,
+but in  general  it is  hard  to  see  what  argument there  is  for an across-the-
+board rule  against  collective action  of this sort.  If the majority is prohib-
+ited  from  vindicating  its  second-order  or  altruistic  preferences  through
+legislation,  its  own  desires will  be  frustrated.  The  choice  is  between  the
+preferences  of  the  majority  and  those  of  the  minority.  On  the  other
+hand, the foreclosure  of the minority probably  should  be  permitted  only
+when less  restrictive alternatives,  including  private arrangements,  are un-
+available  to  serve  the same  end.
+
+The  argument  for  democratic  outcomes  embodying  collective
+desires  is  much weaker  in three  categories  of cases.  First, if the particu-
+lar choice  foreclosed  has  some  special  character,  it is  appropriately  con-
+sidered  a right, and  the majority  has no  authority to intervene.  Consider
+political  expression  or  participation;  here  the equal  rights of members  of
+the  minority  must be  respected  even  if a general  aspiration,  held  by  the
+majority,  argues  for  selective  exclusions.  So too,  other rights  fundamen-
+
+10.  See  Stewart,  Regulation  in a Liberal State:  The  Role  of Non-Commodity  Values,  92  YALE
+
+L.J.  1537  (1983).
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 192 1990
+
+1990]
+
+REPUBLICANISM  AND  PREFERENCE  PROBLEM
+
+tal  to  self-actualization  or  self-realization---consider  intimate  sexual  ac-
+tivity--ought  generally  to  be  off-limits  to  government.
+
+Second,  some  collective  desires  might be  objectionable  or distorted.
+A  social  preference  against  racial  intermarriage  could  not  plausibly  be
+justified  as  reflecting  an  aspiration  or  a precommitment  strategy.  To  ex-
+plain  why,  it  is  of course  necessary  to  offer  an  independent  argument,
+challenging  that  preference  and  sounding  in  justice.  But  the  example
+suggests  that  the  mere  fact  of  a  collective  aspiration  is  insufficient  for
+approval  of foreclosure  of private choice.  The  aspiration  itself must not
+be  objectionable  on moral  grounds.
+
+Third,  some  collective  desires  might  reflect  a  special  weakness  on
+the part  of the  majority;  consider  a  curfew  law,  or  perhaps  prohibition.
+In  such circumstances,  a legal  remedy  might remove  desirableincentives
+for private self-control,  have  unintended  side-effects  resulting from  "bot-
+tling  up"  desires,  or prove  unnecessary  in light  of the  existence  of alter-
+native  remedies.  When  any  of these  three  concerns  arise,  the  case  for
+protection of collective  desires is  weakened.  In many  contexts,  however,
+these  concerns  are  absent,  and  democratic  controls  initiated  on  these
+grounds  are justified.
+
+4.  The  Sometimes  Strange  Idea  of "Rent-seeking"
+
+If the  arguments  presented  in this  section  are  persuasive,  they  sug-
+gest  reasons  to  be  skeptical  of some  normative  work  in  the  tradition  of
+public  choice  theory.  According  to  at least some  of this  work, much  of
+the  business  of politics  should  be  seen  as  "rent-seeking,"  understood  as
+the  expenditure  of  funds  on  the  wasteful  redistribution  of  resources
+through  politics  rather  than  the  production  of resources  through  mar-
+kets.  The  notion  of "rent-seeking"  rejects  nearly  all  of the  basic  work-
+ings  of  politics.  It  treats  citizenship  itself  as  an  evil.  Efforts  to  enact
+public  aspirations,  to  counteract  discrimination,  to  protect  the  environ-
+ment-all  these  are  seen  as  the  diversion  of  productive  energies  into  a
+wasteful  place.
+
+This view represents  a peculiar  reversal  of the liberal  republican  tra-
+dition,  which  has  seen  political behavior  not  as  an evil,  but as  an  impor-
+tant  arena  for  education,  for  deliberation  and  discussion  about  the
+nation's  direction,  for the development  of the faculties,  and for  the culti-
+vation of feelings  of altruism. On all of these scores, the liberal republican
+tradition  remains extremely  vibrant in the United States, and  it continues
+to  describe  a  wide  range  of individual  and  collective  behavior.  It would
+of course  be foolish to deny that much political conduct  is an effort to use
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 193 1990
+
+CHICAGO-KENT  LAW  REVIEW
+
+[Vol.  66:181
+
+governmental  power  to  serve  selfish  ends  and  that the  concept  of "rent-
+seeking"  can  often help  in  understanding  the governmental  process.  But
+to collapse  all  political  behavior  into the category  of "rent-seeking"  is to
+devalue  grotesquely  the  activities  of citizenship.
+
+B.  Excessive Limitations in Opportunities or Unjust
+Background Conditions
+
+Citizens  in a democracy  might override  existing  preferences in order
+to foster  and promote  diverse  experiences,  with  a  view  toward  providing
+broad  opportunities  for the  formation  of preferences  and beliefs,  and  for
+distance  on  and  critical  scrutiny  of current  desires.  This  rationale  sup-
+ports private  ordering  and  freedom  of contract  as  well.  But  it calls  for
+collective  safeguards  when  those  forces  push  toward  homogeneity  and
+uniformity, as they often do in industrialized  nations.  Here the argument
+for  governmental  controls  finds  a  perhaps  ironic  origin  in  Mill.  Such
+controls are  necessary  to cultivate  divergent  conceptions  of the good  and
+to ensure  a  degree  of reflection  on those  conceptions.
+
+One might describe  a system that  took this goal  seriously as  embod-
+ying  a  mild  form  of liberal  perfectionism.  Such  a  system  would  see  the
+inculcation  of critical  and  disparate  attitudes  toward  prevailing  concep-
+tions of the  good  as  part of the framework  of a liberal  republic.  Liberal
+education  is of course  the principal  locus  of this concern.  The principles
+embodied  in  liberal education  need  not be  confined  to the  school system.
+
+Democratic  measures  with  respect  to  the  arts  and  broadcasting-
+
+subsidizing  public  broadcasting,  ensuring  a range  of disparate  program-
+ming,  or  calling  for  high-quality  programming  provided  only  a  little  or
+not at all by the marketplace--can  be understood  in these terms.  Indeed,
+the  need  to  provide  diverse  opportunities  for  preference  formation  sug-
+gests reasons  to be quite skeptical of unrestricted  markets in communica-
+tion  and  broadcasting.  There  is  a  firm  theoretical  justification  for  the
+much-criticized,  and  now  largely  abandoned  "fairness  doctrine,"  which
+required broadcasters  to  cover controversial  issues  and to ensure  compet-
+ing views.  In light of the  inevitable  effects  of programming  on character,
+beliefs,  and even  conduct,  it is hardly  clear that governmental  "inaction"
+is  always  appropriate  in a constitutional  democracy;  indeed the  contrary
+seems  true.  (I  take  up  this  issue  in more  detail  below.)
+
+Moreover,  market  behavior  is  sometimes  based  on  an  effort  to  re-
+duce  cognitive  dissonance  by  adjusting  to  undue  limitations  in  current
+practices  and  opportunities.  When  this  is  so,  respect  for  preferences
+seems  unjustified  on  grounds  of autonomy  and perhaps  welfare  as  well.
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 194 1990
+
+1990]
+
+REPUBLICANISM  AND  PREFERENCE  PROBLEM
+
+In  these  circumstances,  preferences  are  nonautonomous  insofar  as  they
+are  reflexively  adaptive"1  to  unjust  background  conditions;  collective  re-
+sponses  to  such  preferences  might yield  welfare  gains  as  well.  The  point
+has  large  implications.  For  example,  workers  appear  to  underestimate
+the  risks  of hazardous  activity  partly  in  order  to  reduce  the  dissonance
+that  would  be  produced  by  an  understanding  of the  real dangers  of the
+workplace.1 2  Democratic  controls  might produce  gains  in  terms of both
+welfare  and  autonomy.
+
+Similar  ideas  help  account  for  antidiscrimination  principles.  Most
+generally,  the beliefs of both beneficiaries  and  victims of existing injustice
+are  affected  by  dissonance-reducing  strategies.1 3  The  phenomenon  of
+blaming  the  victim  has  distinct  cognitive  and  motivational  foundations.
+A  central  point here  is that the strategy  of blaming  the victim,  or  assum-
+ing  that  an  injury  or an  inequality  was  deserved  or  inevitable,  tends  to
+permit  nonvictims  or  members  of  advantaged  groups  to  reduce  disso-
+nance  by  assuming  that  the  world  is  just-a  pervasive,  insistent,  and
+sometimes  irrationally  held  belief.' 4  The  reduction  of cognitive  disso-
+nance  is  a  powerful  motivational  force,  and  it  operates  as  a significant
+obstacle  to  the recognition  of social  injustice  or  irrationality.
+
+Victims also  participate  in  dissonance-reducing  strategies,  including
+the lowering  of self-esteem  to accommodate  both the fact of victimization
+and  the  belief  that  the  world  is  essentially  just.  Sometimes  it  appears
+easier  to  assume  that  one's  suffering  is  warranted  than  to  believe  it  has
+been  imposed  cruelly  or by  mere  chance.  Consider  here  the astonishing
+fact  that after  a  draft lottery,  those with both  favorable  and unfavorable
+results decided  that  the outcomes  of the purely  random process  were  de-
+
+11.  There  is  a difference  between  self-conscious  adaptation  to an intractable  status quo  and  the
+sorts of processes I  am describing.  If a person  without  musical talent decides  that he will  counteract
+and  revise his  desire  to be  a world-famous  pianist,  it would  be  odd to find  that  (healthy) decision  to
+be  inconsistent  with  personal  autonomy.  The  cases  under  discussion  involve  a  reflexive  process
+based  on an  absence, socially produced,  of sufficient opportunities.  Of course  the notion of sufficient
+opportunities  itself requires  a baseline;  every  system  contains  limited  opportunities.
+
+12.  See  Akerlof  &  Dickens,  The  Economic  Consequences of  Cognitive  Dissonance, 72  Am.
+
+ECON.  REv.  307  (1982).
+
+13.  On  cognitive  dissonance,  see  L.  FESTINGER,  A  THEORY  OF  COGNITIVE  DISSONANCE
+(1957);  on  its implications  for  social  theory,  welfare,  and  autonomy,  see  J. ELsTER,  supra note  4.
+See  also M.  WOLLsToNEcRAFT,  A  VINDICATION  OF  THE  RIGHTS  OF  WOMEN  (1792),  which
+can  be  seen  as  an extended  discussion  of the  social formation  of preferences  and the  phenomenon  of
+the  adaptation  of  preferences,  beliefs,  and  desires  to  an  unjust  status  quo.  Thus  Wostonecraft
+writes,  "I  will  venture  to  affirm,  that  a  girl,  whose  spirits  have  not  been  damped  by  inactivity,  or
+innocence  tainted  by  false  shame,  will  always  be  a  romp,  and  the  doll  will  never  excite  attention
+unless  confinement  allows her  no  alternative."  Id.  at  43.  Similar  points  are  made  in  J. MILL,  THE
+SUBJECTION  OF WOMEN,  supra note  5,  as against  the claim  that the  existing desires  of women  are  a
+product  of consent.
+
+14.  See  M.  LERNER,  THE  BELIEF  IN  A  JUST  WORLD:  A  FUNDAMENTAL  DELUSION  (1980).
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 195 1990
+
+CHICAGO-KENT  LAW  REVIEW
+
+[Vol.  66:181
+
+served.' 5  The  phenomenon  of blaming  the victim also  reflects the  "hind-
+sight  effect,"  through  which  people  unjustifiably  perceive  events  as  more
+predictable  than they  in  fact  were,  and  therefore  suggest  that  victims  or
+disadvantaged  groups  should  have been  able to  prevent  the  negative  out-
+come.  All  this makes  reliance  on  existing  or  revealed  preferences  highly
+problematic  in  certain  contexts.
+
+There  is  suggestive  evidence  in  the  psychological  literature  to  this
+effect.  Some work  here  reveals  that people  who engage  in cruel  behavior
+change  their  attitudes  toward  the  objects  of their  cruelty  and  thus  de-
+value  them;  observers  tend  to  do  the  same.1 6  Such  evidence  bears  on
+antidiscrimination  law  in  general.  Aspects  of American  labor  and  race
+discrimination  law  can  be  understood  as a  response  to  the basic problem
+of distorted beliefs and preferences.  7  There are  implications here  for sex
+discrimination  as well.  The movement  for the elimination  of sex discrim-
+ination  is  informed  by  an  understanding  that  many  women-as  well  as
+many  men-have  adapted  to  an  unjust  status  quo.
+
+Sometimes,  moreover,  preferences  are  only  imperfectly adapted.  At
+some  level there is a perception of an injury,  but a fear of social  sanctions
+or  a  belief that  the  cause  is intractable  prevents  people  from  seeking  re-
+dress.  Here  the  collective  character  of politics,  permitting  the organiza-
+tion  of numerous  people,  can  be  exceedingly  helpful.
+
+Standing by  itself, the  fact  that preferences  are shifting  and  endoge-
+nous  is  hardly  a  sufficient  reason  for  democratic  controls.  All  prefer-
+ences  are  to  some  degree  dependent  on  existing  law  and  current
+opportunities,  and  that  fact  cannot  be  a  reason  for  government  action
+without  creating  a  license  for  tyranny.  The  argument  for  democratic
+controls  in  the face  of endogenous  preferences  must rely  on  a belief that
+welfare  or autonomy  will thereby  be  promoted.  Usually,  of course,  gov-
+ernmental  interference  should  be  avoided.  Too often,  however,  the  salu-
+tary belief in respect  for divergent  conceptions of the good is transformed
+into  an  unwillingness  to  protect  people  from  unjust  background  condi-
+tions  or  a sheer  lack  of options.
+
+The actual  content  of democratic controls will  be controversial,  and
+it probably  should begin and usually  end with efforts  to provide  informa-
+tion  and  to  increase  opportunities.  Thus,  for example,  governmentally
+required  disclosure  of risks  in  the  workplace  is  a  highly  plausible  strat-
+
+15.  Rubin  & Peplau,  Belief in a Just World and Reaction to Another's Lot: A  Study of Partici-
+
+pants in the National Draft Lottery, 29  J. Soc.  IssuEs,  73,  84-85  (1973).
+
+16.  See  M.  LERNER,  supra note  14.
+17.  See  Gewirtz,  Choice  in  the  Transition: School Desegregation and the  Corrective Ideal, 86
+
+COLUM.  L.  REv.  728  (1986).
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 196 1990
+
+1990)
+
+REPUBLICANISM  AND  PREFERENCE  PROBLEM
+
+egy.  In a few  cases,  however,  these  milder  strategies  may be  inadequate,
+and  coercion  is  necessary.
+
+The  category  of democratic  responses  to endogenous  preferences  of
+this sort  overlaps with that of measures  that  attempt to protect  collective
+aspirations.  Frequently  aspirations  might  form  the  basis  for  laws  that
+attempt  to  influence  processes  of preference  formation.
+
+C.  Intrapersonal Collective Action  Problems
+
+There is  also  a case  for democratic  controls  on  existing  preferences
+when  such  preferences  are  a  function  of past  acts  of  consumption  and
+when such acts alter desires or beliefs in such a way as to cause  long-term
+harm.  Here  the  purpose  of collective  controls  is  to affect  the  develop-
+ment  of certain  preferences.  Preferences  are  endogenous  not  to  existing
+legal  rules  or to  limited  opportunities  but  to past consumption  decisions,
+and  in  the  cases  at  hand,  the effect  of those  decisions  on  current  prefer-
+ences  is pernicious.  For government  to act in this context, it is  important
+that  it be confident  of its conclusions.  An  absence  of information  on  the
+part  of the  private  actors  is  usually  a necessary  condition  for  collective
+controls.
+
+Regulation  of addictive  substances,  of myopia,  and of habits  are  fa-
+miliar  examples.  In  the  case  of  an  addiction,  the  problem  is  that  the
+costs  of nonconsumption  increase  dramatically  over  time, as  the benefits
+of consumption  remain  constant  or  fall  sharply.  The  result  is  that  the
+aggregate  costs,  over  time  or  over  a life,  of consumption  exceed  the  ag-
+gregate  benefits,  even  though  the  initial  consumption  choice  provides
+benefits  that  exceed  costs.  Individual  behavior  that  is  rational  for  each
+individual  consumption  choice  ultimately  leads  people  into  severely  in-
+ferior  social  states.  In  such  cases,  people,  if fully  informed,  would  in all
+likelihood  not  want  to  become  involved  with  the good  in  the first  place.
+Government  action  is  a  possible  response.
+
+Menachem  Yaari  offers  the  example  of a  group  of traders  attempt-
+ing  to  induce  alcoholism  in  an  Indian  tribe.18  At  the  outset  alcoholic
+beverages  are  not  extremely  valuable  to  consumers.  The  consumers  are
+willing  to buy only  for a low  price, which the  traders willingly  offer.  But
+as a result  of past consumption,  the value  of the beverages  to the consum-
+ers  steadily  increases,  to  the  point  where  they  are  willing  to  pay  enor-
+mous  sums  to  obtain  them.  Thus the  traders  are  able:
+
+to  manoeuvre  the  Indian  into  a  position  where  rationality  conflicts
+
+18.  Yaari,  Endogenous  Changes  in  Tastes:  A  Philosophical  Discussion,  in  DECISION  THEORY
+
+AND  SOCIAL  ETHICS:  ISSUES  IN  SOCIAL  CHOICE  59  (H.  Gottinger &  W.  Leinfellner  eds.  1978).
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 197 1990
+
+CHICAGO-KENT LAW  REVIEW
+
+[Vol.  66:181
+
+with  Pareto efficiency,  Le.,  into  a  position  where  to be  efficient  is to  be
+irrational  and  to be  irrational  is to be  efficient  ....  The  disadvantage,
+for  an economic  unit,  of having endogenously  changing  tastes  is  that,
+even  with  perfect  information  and  perfect  foresight,  the unit  may find
+itself forced to  follow  an  action  which, by  the unit's  own standards,  is
+Pareto-dominated.  19
+Because  of  the  effect  of  consumption,  over  time,  on  preferences,
+someone  who  is  addicted  to  heroin  is  much  worse  off even  though  the
+original  decision  to  consume  was  not  irrational  if one  looks  only  at  im-
+mediate  costs  and  benefits.  Statutes  that  regulate  addictive  substances
+respond  to  a  social  belief  that  the  relevant  preferences  should  not  be
+formed  in  the  first place.
+
+We  might  describe  this  situation  as  involving  an  intrapersonal  col-
+lective  action  problem,20  in  which  the costs  and benefits,  within  a partic-
+ular person,  of engaging  in the  relevant activity  change dramatically  over
+time.  Related  phenomena  were  of course  an  important  part  of classical
+philosophy,  particularly  in  the treatment  of the problems  of myopia  and
+akrasia.  A  central  point is that consumption  patterns induce a significant
+change  in preferences,  and  in  a way  that  makes  people  worse  off in  the
+long-run. 21  An  addiction  is  the  most  obvious  case, but  it is  part  of a far
+broader  category.  Consider, for  example,  myopic  behavior,  defined  as  a
+refusal-because  the short-term  costs  exceed  the short-term  benefits-to
+engage  in  activity  having  long-term benefits  that  dwarf long-term  costs.
+Another  kind  of intrapersonal  collective  action  problem  is  produced  by
+habits,  in  which  people  engage  in  behavior  because  of the  subjectively
+high short-term costs of changing their behavior notwithstanding  the fact
+that  the  long-term  benefits  exceed  the  short-term  benefits.  Akrasia,  or
+weakness  of the will,  has a related structure, and some laws respond to its
+individual  or  collective  forms.
+
+For the  most  part,  problems  of this  sort  are  best  addressed  at  the
+individual  level  or  through  private  associations,  which  minimize  coer-
+cion;  but  social  regulation  is  a  possible response.  Statutes  that subsidize
+the arts  or public  broadcasting,  or that discourage  the  formation of some
+habits  and  encourage  the  formation  of others,  are  illustrations.  So  too
+with  legal  requirements  that  manufacturers  install  seat  belts  or that  peo-
+ple  buckle  them.  The  subjective  costs  of buckling  decrease  over  time.
+
+19.  Id. at  82.
+20.  Elster,  Weakness of Will and the Free-Rider Problem,  1 ECON.  & PHIL.  231  (1985);  Schel-
+
+ling, Egonomics, or the Art of Self-Management, 68  AM.  ECON.  REv.  290  (1978).
+
+21.  Of course all  consumption  has  an  effect  on  preferences.  For example,  exposure to  classical
+music  usually  increases  appreciation.  But  the pattern  under  discussion is  a  rare  one;  it  is  that pat-
+tern,  producing  miserable  lives,  to  which  a democracy  might  respond.  To  be sure,  in  practice  the
+response  might  make  things  worse  rather  than  better.
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 198 1990
+
+19901
+
+REPUBLICANISM  AND  PREFERENCE  PROBLEM
+
+Once people are in the  habit of buckling,  the costs become  minimal.  The
+fact  that the  costs  shrink  rapidly  after  the habit  of buckling  has  formed
+counts  in  favor of regulation,  certainly  on welfare  grounds,  and  perhaps
+on  autonomy  grounds  as  well.  There  is  a similar argument  for compul-
+sory  recycling  programs  and  for  democratic  restrictions  on  smoking
+cigarettes.
+
+22
+
+The  problem with  collective  controls  in this context  is  that they  are
+unlikely  to  be  fine-tuned;  they  often  will  sweep  up  so  many  people  and
+circumstances  as to  create  serious  risks of abuse.  In  some settings,  how-
+ever,  citizens  will  be  able  to  say  with  confidence  that  the  effect  of con-
+sumption  on  preferences  will  lead  to  severe  welfare  or  autonomy  losses.
+In  such  cases  democratic  controls  are justified.
+
+III.  EXAMPLES:  OVERRIDING  PREFERENCES  IN  A
+DEMOCRATIC  REPUBLIC
+
+A.  Government and the Airwaves
+
+There  is  a  growing  consensus  that the  government  should  not con-
+cern  itself with  the  airwaves  and  that  total  reliance  on  private  markets
+and consumer  preferences  is the appropriate  strategy  for government.  In
+this  view,  broadcasting  should  be  treated  like  soap,  or  cereal,  or  any
+other commodity.  Indeed,  there is a growing  consensus  that this result is
+ordained by the first amendment.  If the claims  made here are  persuasive,
+however,  the  consensus  is  misguided.
+
+The  consequence  of market-based  strategies  in broadcasting  is a  sys-
+tem  in  which  most  viewers  see  shows  that  deal  rarely  with  serious
+problems;  are  frequently  sensationalistic,  prurient,  dehumanizing,  or ba-
+nal;  reflect  and  perpetuate  a  bland,  watered-down  version  of  the  most
+conventional views about politics  and morality;  are  influenced  excessively
+by  the concerns  of advertisers;  and  often  are  riddled  with  violence,  sex-
+ism, and racism.  It simply  defies belief to  suggest that such shows  do not
+affect the beliefs and even  the character of the  citizenry. Is  it so clear  that
+a  constitutional  democracy  ought  to  consider  itself  disabled  from  re-
+sponding  to  this situation?  Is  it so  clear  that  a  first  amendment  enacted
+in  order  to ensure  democratic  self-determination  bars  a  democratic  cor-
+rective  here?
+
+In  my view,  the considerations  marshaled  thus far  suggest  that  citi-
+zens  in a  constitutional  democracy  ought  to be  conceded  the power,  and
+ought to  exercise the power, to engage  in  a wide range of controls.  These
+
+22.  See  R.  GOODIN,  No  SMOKING:  THE  ETHICAL  ISSUEs  (1989).
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 199 1990
+
+CHICAGO-KENT  LAW  REVIEW
+
+(Vol.  66:181
+
+include the power  to  regulate advertising  on  television,  certainly  for chil-
+dren, but  for others  as  well;  to  require  broadcasters  to  pay  attention  to
+public  affairs,  as  in,  for  example,  an  hour  of compulsory  programming
+per night;  to ban  gratuitous  or  prurient violence  on  television,  especially
+when  it is  sexualized;  to require,  as a condition  for licensing,  a subsidy  to
+public television;  and to impose  a broad  fairness doctrine, in the form  not
+only of an obligation  of attention  to important issues  but also a chance  to
+speak  for divergent  sides.  There  would be a  wide range of collective  and
+external  benefits  from  such  controls,  which  would  thus  carry  forward  a
+strand  of the  liberal  tradition  that  calls  for  government  action  in  such
+cases.
+
+2 3
+
+At  least in principle,  rights of private  access to  the  media for  differ-
+ing  positions  ought to  be thought  congenial  to the free  speech guarantee.
+Surely this is  so if that guarantee  is understood  as a protection  of a delib-
+erative process  centered  on public  values  rather  than  of a mere  "market-
+place."  The  first  amendment  should  not  be  seen  as  an  obstacle  to  such
+efforts.  If anything,  the existing system  might be  thought to raise  serious
+constitutional  questions.  A  system  in  which  access  to  the  media,  with
+inevitable  consequences  for  the  shaping  of  preferences  and  beliefs,  is
+made  dependent  on  private  willingness  to  pay  raises  genuine  problems
+for  free  expression. 24
+
+B.  Proportional Representation
+
+In  recent  years,  there  has  been  a  revival  of  interest  in  systems  of
+proportional  or  group  representation.  Blacks,  women,  the  handicapped,
+and  other  disadvantaged  groups often  have  had  little success  in  the ordi-
+nary  electoral  process.  There  is  a solid  constitutional  pedigree  for  group
+representation,  notwithstanding  the constant  and  emphatic  rejections  by
+the  Supreme  Court  of  constitutionally-based  arguments  for  representa-
+tion  of  members  of racial  minority  groups.  Despite  the  rigidity  of  the
+"one  person,  one vote"  formula,  with its majoritarian  and  individualistic
+overtones,  group  representation  always  has  been  an important  feature  of
+American  constitutionalism. 25
+
+Moreover, the basic  constitutional  institutions  of federalism, bicam-
+
+23.  See,  e.g.,  J.  MILL,  PRINCIPLES  OF  POLITICAL  ECONOMY  (1871).
+24.  The Supreme  Court  seemed  to recognize  this  point  in Red  Lion  Broadcasting  Co.  v. FCC,
+
+395  U.S.  367  (1969),  but  the point  has  dropped  out  of the  current  debate.
+
+25.  At the  time  of the framing,  for example, geography  was  thought  to  define  distinct  commu-
+nities with distinct  interests;  representation  of the  states  as  such  seemed  only  natural.  It  would  not
+be impossible to  argue that racial  and  ethnic groups  (among others)  are the contemporary  analogue
+to groups  that  were  defined  in  geographical  terms  during  the  founding period.
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 200 1990
+
+REPUBLICANISM  AND  PREFERENCE  PROBLEM
+
+eralism,  and  checks  and  balances,  share  some  of the  appeal  of propor-
+tional  representation,  and  owe  their  origins  in  part  to  notions  of group
+representation.  These institutions  proliferate  the points  of access  to gov-
+ernment,  increasing  the ability of diverse  groups to influence  policy,  mul-
+tiplying  perspectives 
+in  government,  and 
+improving  deliberative
+capacities.  In  this  respect,  they  ensure  something  in  the  way  of group
+representation,  at least when  compared  with unitary  systems.  Of course
+both  the separation  of powers  and  bicameralism  grow  in  part  out  of ef-
+forts  to promote  representation  of diverse  groups:  bicameralism  allowed
+representation  of the  wealthy  and  the  masses;  the  notion  of  separation
+derived  from  notions  of  mixed  government,  which  was  designed  to  en-
+sure  a  measure  of  representation  of  groups  defined  in  social  and  eco-
+nomic  terms.
+
+Proportional  representation  might be designed  to  ensure  representa-
+tion  in  the legislature  of all  groups  able  to  attain  more  than  a  minimal
+share  of the  vote.  In another  form,  the system  might be designed  to en-
+sure  that  members  of disadvantaged  groups  are  given  the  power  to exert
+influence  on  political  outcomes.
+
+There  are  serious  problems  with both  of these  efforts,  and  I  do not
+mean  to evaluate  them  in detail  here.  I  do  suggest  that efforts  to  ensure
+proportional  representation  become  much  more plausible  if they  are jus-
+tified  on grounds that do not take  preferences as given  and if they empha-
+size  the  preference-shaping  effects  of  discussion  and  disagreement  in
+politics.2 6  The  argument  here  is  that  deliberative  processes  will  be  im-
+proved, not  undermined,  if mechanisms  are instituted to ensure that mul-
+tiple  groups  have  access  to the  process.  Group  representation,  precisely
+by having this effect,  would ensure that diverse  views are expressed  on an
+ongoing  basis  in  the  representative  process,  where  they  might  otherwise
+be  excluded.  In  this  respect,  group  representation  would  be  a  kind  of
+second-best  solution  for  the  real-world  failures  of Madisonian  delibera-
+tion.  And  the  purpose  of access  is  not primarily  to  allow  each  group  to
+have its "piece  of the action"-though  that is not entirely  irrelevant-but
+instead  to  ensure  that  the  process  of deliberation  is  not  distorted by  the
+mistaken  appearance  of a  common  set  of interests  on  the part  of all  con-
+cerned.  In  this  incarnation,  proportional  representation  is  designed  to
+increase  the likelihood  that  political  outcomes  will  incorporate  some  un-
+derstanding of the perspectives  of all those affected.  That process should
+
+26. 
+
+In part  this  is Mill's  defense of such  efforts.  See  J. MILL,  CONSIDERATIONS  ON  REPRESEN-
+TATIVE GOVERNMENT,  supra note  5.  See also Young, Polity and Group Difference: A  Critique of the
+Ideal of  Universal Citizenship, 99  ETHics  250  (1989).
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 201 1990
+
+CHICAGO-KENT  LAW  REVIEW
+
+[Vol.  66:181
+
+facilitate  the healthy  expression  of collective values  or aspirations  and the
+scrutiny  of preferences  adaptive  to  unjust background conditions  or  lim-
+ited  opportunities.
+
+For  this  reason,  proportional  representation  may  be  the  functional
+analogue  of the institutions of checks and balances  and federalism, recog-
+nizing  the  creative  functions  of  disagreement  and  multiple  perspectives
+for  the governmental  process.  In  this  sense  there  is  continuity  between
+recent  proposals  for proportional  representation  and  some  of the  attrac-
+tive features of the original  constitutional regime.  Indeed,  Hamilton him-
+self  emphasized  that  in  a  system of checks  and  balances,  the  "jarring of
+parties...  [will]  promote deliberation. ' 27  If this  is so,  proportional  rep-
+resentation  is  most  understandable  in  a  democracy  that  does  not  take
+preferences  as  given.
+
+IV.  CONCLUSION
+
+Much  of the  appeal  of the  republican  tradition  lies  in  its  emphasis
+on a  conception  of political  life  that does not treat  private preferences  as
+the  foundation  of  social  choice.  Those  who  partake  of  the  republican
+tradition-for  these  purposes,  a  capacious  category  including  writers
+from  Aristotle  to  Rawls-insist  that political  institutions have inevitable
+consequences  for  preferences  and  beliefs.  A  large  task  of constitutional
+design,  and for the development of legal rules in general,  is to  ensure that
+those  consequences  are  favorable  rather  than  unfavorable.
+
+To say  this is  not  at all  to  suggest  that a republican  polity  ought  to
+impose  on  its  citizens  a  unitary  conception  of the  good.  A  general  re-
+spect  for  diversity  in  individual  choice  is  indispensable  in  modern  sys-
+tems.  Such  respect  does  not,  however,  entail  protection  for  existing
+preferences,  regardless of their origins or  consequences,  or of the  reasons
+that  might  be  offered  in  their behalf.
+
+I have suggested that the classical tradition  continues to provide  gui-
+dance  for those interested in  the evaluation  of preferences  and beliefs and
+in the connections  between  these and existing  institutional  arrangements.
+Above  all, perhaps,  the  classical tradition suggests reasons  not to tolerate
+a system  without property  rights  or containing  systemic  poverty.  A  sys-
+tem  without property, or with  property, has  stultifying  effects  on the  free
+development  of personality  and  simultaneously  poses  a threat  to  the  in-
+dependence  and security  of its people,  which  are  prerequisites  for  repub-
+lican  citizenship.  But  the  classical  tradition  also  suggests  the  need  to
+
+27.  THE  FEDERALIST  No.  70,  at 427  (A.  Hamilton)(C.  Rossiter  ed.  1961).
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 202 1990
+
+1990]
+
+REPUBLICANISM  AND  PREFERENCE  PROBLEM
+
+respect  collective  aspirations,  to  respond  to  preferences  and  beliefs
+formed  by  unjust  background  institutions,  and  to  overcome  the sorts  of
+intrapersonal  collective action  problems  manifested  in addiction,  myopic
+behavior,  and  akrasia.
+
+To  warrant respect, such a system  should be liberal  as well  as  repub-
+lican.  Indeed,  it  should  see  its  liberalism  as  operating  in  close  alliance
+with  its republicanism.  To  say  that  preferences  ought not  always  be the
+basis of social  choice is  hardly  to  say  that  collectivities generally  should
+override  individual  choices.  It  is,  however,  to say  that government  can-
+not  avoid  the  task  of allocating  rights  and  entitlements  in  the  first  in-
+stance,  that  existing  institutions  and  allocations  will  inevitably  affect
+preferences  and  beliefs,  and  that  a  political  system  ought  to  attempt  to
+ensure  that  preferences  will  be  formed  and  expressed  under  conditions
+that promote  rather  than undermine  liberty and  welfare,  and that reflect
+the diverse  social  goods that  lie underneath both  of these,  properly  con-
+ceived.  It is on this issue,  perhaps above  all,  that the republican  tradition
+has  much  to  offer  contemporary  legal  and  political  thought.
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 203 1990
+
+HeinOnline  -- 66 Chi.-Kent L. Rev. 204 1990
+
+

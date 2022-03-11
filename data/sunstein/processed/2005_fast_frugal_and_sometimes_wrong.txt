@@ -1,0 +1,637 @@
+University of Chicago Law School
+Chicago Unbound
+
+Coase-Sandor Working Paper Series in Law and
+Economics
+
+Coase-Sandor Institute for Law and Economics
+
+2005
+
+Fast, Frugal, and (Sometimes) Wrong
+Cass R. Sunstein
+
+Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics
+
+Part of the Law Commons
+
+Recommended Citation
+Cass R. Sunstein, "Fast, Frugal, and (Sometimes) Wrong" ( John M. Olin Program in Law and Economics Working Paper No. 265,
+2005).
+
+This Working Paper is brought to you for free and open access by the Coase-Sandor Institute for Law and Economics at Chicago Unbound. It has been
+accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more
+information, please contact unbound@law.uchicago.edu.
+
+C H I C A G O 
+
+JOHN M. OLIN LAW & ECONOMICS WORKING PAPER NO. 265 
+(2D SERIES) 
+ 
+PUBLIC LAW AND LEGAL THEORY WORKING PAPER NO. 110 
+ 
+
+ 
+FAST, FRUGAL, AND (SOMETIMES) WRONG 
+ 
+Cass R. Sunstein 
+ 
+ 
+THE LAW SCHOOL 
+THE UNIVERSITY OF CHICAGO 
+ 
+ 
+November 2005 
+ 
+This paper can be downloaded without charge at the John M. Olin Program in Law and 
+Economics Working Paper Series: http://www.law.uchicago.edu/Lawecon/index.html and at the 
+Public Law and Legal Theory Working Paper Series:  
+http://www.law.uchicago.edu/academics/publiclaw/index.html 
+and 
+The Social Science Research Network Electronic Paper Collection: 
+http://ssrn.com/abstract_id=844964  
+
+Preliminary draft 11/3/05 
+forthcoming in Walter Sinnott-Armstrong, ed., The Cognitive Science of Morality 
+All rights reserved 
+ 
+ 
+ 
+ 
+
+Fast, Frugal, and (Sometimes) Wrong 
+
+ 
+Cass R. Sunstein 
+University of Chicago Law School and Department of Political Science 
+ 
+ 
+Abstract 
+ 
+
+Do  moral  heuristics  operate  in  the  moral  domain?  If  so,  do  they  lead  to  moral 
+errors?  This  brief  essay  offers  an  affirmative  answer  to  both  questions.  In  so  doing,  it 
+responds  to  an  essay  by  Gerd  Gigerenzer  on  the  nature  of  heuristics,  moral  and 
+otherwise. While focused on morality, the discussion bears on the general debate between 
+those who emphasize cognitive errors, sometimes produced by heuristics, and those who 
+emphasize the frequent success of heuristics in producing sensible judgments in the real 
+world.  General  claims  are  that  it  is  contentious  to  see  moral  problems  as  ones  of 
+arithmetic, and that arguments about moral heuristics will often do well to steer clear of 
+contentious arguments about what morality requires.  
+
+ 
+
+ 
+
+ 
+ 
+
+For many problems, Gerd Gigerenzer celebrates heuristics. He believes that they 
+
+are  simple,  fast,  frugal,  and  remarkably  accurate.  He  emphasizes  that  heuristics  can  be 
+
+prescriptive, in the sense that they may well lead to good outcomes in the real world. In 
+
+the  moral  domain,  Gigerenzer  is  properly  cautious  about  whether  heuristics  produce 
+
+moral or immoral behavior. What I would like to do here is to emphasize the imperfect 
+
+reliability  of  heuristics  in  general,  and  to  suggest  that  their  imperfect  reliability  raises 
+
+serious cautionary notes about some of Gigerenzer’s broader claims.  
+
+Let  us  begin  with  Gigerenzer’s  illuminating  remarks  about  the  "gaze  heuristic," 
+
+which  enables  baseball  players  (and  others)  to  make  otherwise  difficult  catches. 
+
+Gigerenzer, who has often explored  this  particular  heuristic,  is  quite  right  to  emphasize 
+
+that  people  who  use  heuristics  are  often  not  aware  that  they  are  doing  so.  But  even  a 
+
+casual understanding of sports requires some qualification of Gigerenzer's claims. Stupid 
+
+tennis  players  tend  to  use  fast  and  frugal  heuristics,  which  contribute  to  their  stupid 
+
+tennis.  Often  they  think,  for  example,  that  they  should  hit  the  ball  hard  and  deep 
+
+whenever the opportunity arises—an intuition, or thought, that can get them into serious 
+
+trouble. Stupid athletes adopt simple heuristics that make them dumb. By contrast, smart 
+
+tennis players are immensely flexible, and they are able to rethink their rules of thumb as 
+
+the occasion demands. The best athletes have an exceedingly complex set of heuristics, 
+
+fast but not at all simple, which they deploy as the situation requires. The moral domain 
+
+is  not  so  very  different  (see  Nussbaum,  2003).  It  is  pervaded  by  fast  heuristics,  as 
+
+Gigerenzer suggests, but they often misfire, and good moral agents are aware of that fact.  
+
+My  own  treatment  of  moral  heuristics,  criticized  by  Gigerenzer,  emphasizes  the 
+
+immense  importance  of  moral  framing  and  the  possibility  that  people  use  “simple 
+
+heuristics  that  make  us  good”  (Sunstein,  2005).  For  morality,  as  for  issues  of  fact  and 
+
+logic,  it  is  important  to  see  that  many  heuristics  do  point  us  in  the  right  direction–  and 
+
+hence to stress, as did Tversky and Kahneman (Tversky and Kahneman, 1974) and later 
+
+Gigerenzer, that heuristics can lead to excellent judgments in the actual world. If people 
+
+believe that they ought not to lie, or harm innocent  people, they will often do the right 
+
+thing—especially in light of the fact that case-by-case inquiries into the morality of lying, 
+
+or  harming  innocent  people,  could  produce  self-serving  conclusions  that  produce 
+
+grievous  moral  wrong.  (The  case  of  Nazi  massacres,  explored  by  Gigerenzer,  can  be 
+
+understood as an example.) Moral heuristics, understood as simple rules of thumb, might 
+
+well  have  a  rule-utilitarian  defense,  in  the  sense  that  they  might,  on  balance,  produce 
+
+morally preferable behavior even if they lead to unfortunate results in particular cases. 
+
+But no one should deny that in many contexts, moral and other heuristics, in the 
+
+form  of  simple  rules  of  thumb,  lead  to  moral  error  on  any  plausible  view  of  morality. 
+
+Consider, for example, the idea, emphasized by Gigerenzer, that one ought to do as the 
+
+majority does, a source of massive moral blunders (see Sunstein, 2003). Or consider the 
+
+fast  and  frugal  idea  that  one  ought  not  to  distort  the  truth—a  heuristic  that  generally 
+
+works  well,  but  that  also  leads  (in  my  view)  to  moral  error  when,  for  example,  the 
+
+distortion  is  necessary  to  avoid  significant  numbers  of  deaths.  Or  consider  the  act-
+
+omission distinction, which makes moral sense in many domains, but which can lead to 
+
+unsupportable moral judgments as well (Baron, 2004).  
+
+Gigerenzer notes, usefully, that it may be possible to modify people’s judgments, 
+
+including their moral judgments, by altering the background. The idea is hardly original 
+
+(see  Sunstein  and  Thaler,  2004),  but  it  is  true  that  a  default  rule  in  favor  of  organ 
+
+donations  might  well  increase  what,  on  one  view,  is  morally  desirable  behavior  (id.). 
+
+Indeed  there  are  many  applications  of  this  point.  If  default  rules  matter,  an  employer, 
+
+including the state qua employer, could dramatically increase charitable contributions by 
+
+presuming  that  (for  example)  each  employer  would  like  to  devote  2%  of  wages  to 
+
+charitable  causes.  Of  course  the  use  of  default  rules  to  steer  behavior  raises  normative 
+
+questions of its own (id.). The only point is that default rules greatly matter to choices, 
+
+including those with a moral component. 
+
+Thus  far,  then,  Gigerenzer’s  general  argument  seems  both  plausible  and 
+
+illuminating, and I am merely underlining the possibility that even good heuristics will go 
+
+wrong, for morality as for other questions. But on an important issue, Gigerenzer seems 
+
+to me to miss some of the complexity of moral argument. His objections to maximization 
+
+theories treat moral judgments as involving a kind of moral arithmetic, and this is a most 
+
+contentious understanding. 
+
+To be sure, Gigenenzer is correct to stress the cognitive difficulties of undertaking 
+
+a  full  ex  ante  calculation  of  the  consequences  of  social  actions.  Human  beings  do  not 
+
+have unlimited cognitive abilities, and hence they are often unable to specify the effects 
+
+of  one  or  another  course  of  action.  Gigerenzer  believes  that  satisficers,  using  moral 
+
+heuristics,  have  important  advantages  over  optimizers.  For  some  questions,  this  is 
+
+undoubtedly correct. But to understand the relationship between heuristics and the moral 
+
+domain, much more must be said. Three points are especially important here. 
+
+First:  Gigerenzer  does  not  mention  that  many  people  are  rule-consequentialists; 
+
+they  know  exactly  what  Gigerenzer  emphasizes,  and  they  favor  clear  and  simple  moral 
+
+rules  for  that  very  reason  (Hooker,  2000).  A  complex  consequentialist  calculus  might 
+
+lead to error, even if it would be preferable if properly applied. Because people are self-
+
+serving,  and  because  their  on-the-spot  judgments  are  unreliable,  they  might  do  best  to 
+
+follow  simple  moral  rules,  or  one-reason  decision  making.  There  are  interesting 
+
+relationships  between  Gigerenzer’s  understanding  of  heuristics  and  rule-utilitarian 
+
+approach to morality. 
+
+Second: Consequentialism can be specified in many different ways. Utilitarianism 
+
+is one form of consequentialism, but because it require all goods and bads to be described 
+
+along  the  metric  of  utility,  it  is  controversial,  even  among  consequentialists.  When 
+
+Gigerenzer speaks of the limits of maximization theories, and even of consequentialism, 
+
+he appears to be operating under a utilitarian framework, without exploring the problem 
+
+of  plural  and  incommensurable  goods.  We  might,  for  example,  endorse  a  form  of 
+
+consequentialism that sees rights violations (so understood on nonutilitarian grounds) as a 
+
+set  of  (very)  bad  consequences  (see  Sen,  1982).  Gigerenzer’s  exploration  of  moral 
+
+problems does not recognize the complexities in consequentialist accounts of morality. 
+
+Third:  Many  people  are  not  consequentialists  at  all  (see  Scheffler,  1994). 
+
+Consider the injunction to treat people as ends, not means, an injunction that runs afoul of 
+
+many  versions  of  consequentialism  (but  see  Sen,  1982).  Hence—and  this  is  the  most 
+
+important point—it is not enough for Gigerenzer to show that moral heuristics do a good 
+
+(enough) real-world job of achieving what we would achieve if we were optimizers with 
+
+unlimited  abilities  of  calculation.  Perhaps  some  heuristics,  in  some  contexts,  violate 
+
+deontological commands.  
+
+Return  to  Gigerenzer’s  first  example:  Should  a  Nazi  massacre  be  evaluated  in 
+
+utilitarian  or  consequentialist  terms?  To  make  the  calculation,  does  it  matter  if,  for 
+
+example,  there  were  many  more  Nazis  than  Jews,  and  that  many  Germans  had  a  great 
+
+deal  to  gain,  economically  and  otherwise,  from  mass  murders?  Many  people  would 
+
+respond that this moral atrocity counts as such whatever the outcome of a utilitarian or 
+
+consequentialist calculus—and hence that Gigerenzer’s emphasis on the impossibility of 
+
+ex ante calculations is often beside the point (or worse). Perhaps many moral heuristics, 
+
+followed  by  most  people  and  even  most  soldiers  (putting  Nazi  soldiers  to  one  side), 
+
+should  be  seen  as  fast  and  frugal  ways  not  of  satisficing  rather  than  optimizing,  but  of 
+
+ensuring that people do what is required by nonconsequentialist accounts of morality. 
+
+The  existence  of  plural  and  conflicting  accounts  of  the  foundations  of  morality 
+
+makes it all the more difficult to argue that moral heuristics function well. If certain fast 
+
+and frugal heuristics are defensible on utilitarian or consequentialist grounds, they might 
+
+still  be  objectionable  from  the  moral  point  of  view.  In  my  view,  it  is  for  this  reason 
+
+productive to explore heuristics that might be defensible, or indefensible, on the basis of 
+
+any view of what morality requires, or on the basis of the least contentious views of what 
+
+morality requires (Sunstein, 2005).  
+
+Gigerenzer seems to think that moral heuristics might be shown to be prescriptive 
+
+if  a  full  consequentialist  calculus  is  not  possible;  but  this  thought  too  quickly  treats 
+
+morality as a problem of arithmetic. If morality ought not to be so understood, as many 
+
+people  believe,  then  it  is  not  clear  what  is  shown  by  Gigerenzer’s  emphasis  on  the 
+
+cognitive problems associated with optimizing. I emphasize that prescriptive treatments 
+
+of  moral  heuristics  are  likely  to  be  productive;  but  they  should  steer  clear  of  the  most 
+
+contentious arguments about the foundations of morality. 
+
+ 
+
+ 
+
+References 
+
+ 
+Akerlof, G. The Economics of Caste and of the Rate Race and Other Woeful Tales, in An 
+Economic Theorist’s Book of Tales (1984). Cambridge University Press. 
+
+ 
+Baron, J. (1994) Nonconsequentialist decisions. Behavioral and Brain Sciences 17:1-10. 
+ 
+Hooker, B. (2000). Ideal Code, Real World: A Rule-Consequentialist Theory of Morality. 
+
+Oxford University Press. 
+
+ 
+Nussbaum. M. (2003). The Fragility of Goodness. Cambridge University Press. 
+ 
+Scheffler, S. (1994). The Rejection of Consequentialism. Oxford University Press. 
+ 
+Sen, A. (1982). Rights and Agency. Philosophy and Public Affairs 11: 3-39. 
+ 
+Sunstein, C. (2003). Why Societies Need Dissent. Harvard University Press. 
+ 
+Sunstein, C. and Thaler, R. (2003). Libertarian Paternalism Is Not An Oxymoron. 
+
+University of Chicago Law Review 70: 1159-1202. 
+
+ 
+Sunstein, C. (2005). Moral Heuristics. Behavioral and Brain Sciences 28: 531-43. 
+ 
+Tversky, A. and Kahneman, D. (1974). Judgment under uncertainty: Heuristics and   
+biases. Science, 185, 1124-1131. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Readers with comments should address them to: 
+ 
+Professor Cass Sunstein 
+University of Chicago Law School 
+1111 East 60th Street 
+Chicago, IL  60637 
+ 
+
+csunstei@uchicago.edu 
+
+Chicago Working Papers in Law and Economics 
+(Second Series) 
+
+ 
+For a listing of papers 1–174 please go to Working Papers at http://www.law.uchicago.edu/Lawecon/index.html 
+ 
+175. 
+176. 
+
+Douglas G. Baird, In Coase’s Footsteps (January 2003) 
+David A. Weisbach, Measurement and Tax Depreciation Policy: The Case of Short‐Term Assets 
+(January 2003) 
+Randal C. Picker, Understanding Statutory Bundles: Does the Sherman Act Come with the 1996 
+Telecommunications Act? (January 2003) 
+Douglas Lichtman and Randal C. Picker, Entry Policy in Local Telecommunications: Iowa Utilities 
+and Verizon (January 2003) 
+William Landes and Douglas Lichtman, Indirect Liability for Copyright Infringement: An 
+Economic Perspective (February 2003) 
+Cass R. Sunstein, Moral Heuristics (March 2003) 
+Amitai Aviram, Regulation by Networks (March 2003) 
+Richard A. Epstein, Class Actions: Aggregation, Amplification and Distortion (April 2003) 
+Richard A. Epstein, The “Necessary” History of Property and Liberty (April 2003) 
+Eric A. Posner, Transfer Regulations and Cost‐Effectiveness Analysis (April 2003) 
+Cass R. Sunstein and Richard H. Thaler, Libertarian Paternalizm Is Not an Oxymoron (May 2003) 
+Alan O. Sykes, The Economics of WTO Rules on Subsidies and Countervailing Measures (May 
+2003) 
+Alan O. Sykes, The Safeguards Mess: A Critique of WTO Jurisprudence (May 2003) 
+Alan O. Sykes, International Trade and Human Rights: An Economic Perspective (May 2003) 
+Saul Levmore and Kyle Logue, Insuring against Terrorism—and Crime (June 2003) 
+Richard A. Epstein, Trade Secrets as Private Property: Their Constitutional Protection (June 2003) 
+Cass R. Sunstein, Lives, Life‐Years, and Willingness to Pay (June 2003) 
+Amitai Aviram, The Paradox of Spontaneous Formation of Private Legal Systems (July 2003) 
+Robert Cooter and Ariel Porat, Decreasing Liability Contracts (July 2003) 
+David A. Weisbach and Jacob Nussim, The Integration of Tax and Spending Programs (September 
+2003) 
+William L. Meadow, Anthony Bell, and Cass R. Sunstein, Statistics, Not Memories: What Was the 
+Standard of Care for Administering Antenatal Steroids to Women in Preterm Labor between 1985 
+and 2000? (September 2003) 
+Cass R. Sunstein, What Did Lawrence Hold? Of Autonomy, Desuetude, Sexuality, and Marriage 
+(September 2003) 
+Randal C. Picker, The Digital Video Recorder: Unbundling Advertising and Content (September 
+2003) 
+Cass R. Sunstein, David Schkade, and Lisa Michelle Ellman, Ideological Voting on Federal Courts 
+of Appeals: A Preliminary Investigation (September 2003)  
+Avraham D. Tabbach, The Effects of Taxation on Income Producing Crimes with Variable Leisure 
+Time (October 2003) 
+Douglas Lichtman, Rethinking Prosecution History Estoppel (October 2003) 
+Douglas G. Baird and Robert K. Rasmussen, Chapter 11 at Twilight (October 2003) 
+David A. Weisbach, Corporate Tax Avoidance (January 2004) 
+David A. Weisbach, The (Non)Taxation of Risk (January 2004) 
+Richard A. Epstein, Liberty versus Property? Cracks in the Foundations of Copyright Law (April 
+2004) 
+Lior Jacob Strahilevitz, The Right to Destroy (January 2004) 
+Eric A. Posner and John C. Yoo, A Theory of International Adjudication (February 2004) 
+Cass R. Sunstein, Are Poor People Worth Less Than Rich People? Disaggregating the Value of 
+Statistical Lives (February 2004) 
+
+177. 
+
+178. 
+
+179. 
+
+180. 
+181. 
+182. 
+183. 
+184. 
+185. 
+186. 
+
+187. 
+188. 
+189. 
+190. 
+191.  
+192. 
+193. 
+194. 
+
+195. 
+
+196. 
+
+197. 
+
+198. 
+
+199. 
+
+200. 
+201. 
+202. 
+203. 
+204. 
+
+205. 
+206. 
+207. 
+
+220.  
+
+208. 
+
+209. 
+
+210. 
+211. 
+212. 
+213. 
+
+214. 
+
+215. 
+
+216. 
+217. 
+218. 
+
+219. 
+
+221. 
+222. 
+223. 
+224. 
+
+225. 
+226. 
+227. 
+228. 
+229. 
+230. 
+231. 
+232. 
+233. 
+234. 
+235. 
+
+236. 
+
+237. 
+238. 
+
+239. 
+
+240. 
+241. 
+
+242. 
+243. 
+244. 
+
+245. 
+
+Richard A. Epstein, Disparities and Discrimination in Health Care Coverage; A Critique of the 
+Institute of Medicine Study (March 2004) 
+Richard A. Epstein and Bruce N. Kuhlik, Navigating the Anticommons for Pharmaceutical Patents: 
+Steady the Course on Hatch‐Waxman (March 2004) 
+Richard A. Esptein, The Optimal Complexity of Legal Rules (April 2004) 
+Eric A. Posner and Alan O. Sykes, Optimal War and Jus Ad Bellum (April 2004) 
+Alan O. Sykes, The Persistent Puzzles of Safeguards: Lessons from the Steel Dispute (May 2004) 
+Luis Garicano and Thomas N. Hubbard, Specialization, Firms, and Markets: The Division of Labor 
+within and between Law Firms (April 2004) 
+Luis Garicano and Thomas N. Hubbard, Hierarchies, Specialization, and the Utilization of 
+Knowledge: Theory and Evidence from the Legal Services Industry (April 2004) 
+James C. Spindler, Conflict or Credibility: Analyst Conflicts of Interest and the Market for 
+Underwriting Business (July 2004) 
+Alan O. Sykes, The Economics of Public International Law (July 2004) 
+Douglas Lichtman and Eric Posner, Holding Internet Service Providers Accountable (July 2004) 
+Shlomo Benartzi, Richard H. Thaler, Stephen P. Utkus, and Cass R. Sunstein, Company Stock, 
+Market Rationality, and Legal Reform (July 2004) 
+Cass R. Sunstein, Group Judgments: Deliberation, Statistical Means, and Information Markets 
+(August 2004, revised October 2004) 
+Cass R. Sunstein, Precautions against What? The Availability Heuristic and Cross‐Cultural Risk 
+Perceptions (August 2004) 
+M. Todd Henderson and James C. Spindler, Corporate Heroin: A Defense of Perks (August 2004) 
+Eric A. Posner and Cass R. Sunstein, Dollars and Death (August 2004) 
+Randal C. Picker, Cyber Security: Of Heterogeneity and Autarky (August 2004) 
+Randal C. Picker, Unbundling Scope‐of‐Permission Goods: When Should We Invest in Reducing 
+Entry Barriers? (September 2004) 
+Christine Jolls and Cass R. Sunstein, Debiasing through Law (September 2004) 
+Richard A. Posner, An Economic Analysis of the Use of Citations in the Law (2000) 
+Cass R. Sunstein, Cost‐Benefit Analysis and the Environment (October 2004) 
+Kenneth W. Dam, Cordell Hull, the Reciprocal Trade Agreement Act, and the WTO (October 2004) 
+Richard A. Posner, The Law and Economics of Contract Interpretation (November 2004) 
+Lior Jacob Strahilevitz, A Social Networks Theory of Privacy (December 2004) 
+Cass R. Sunstein, Minimalism at War (December 2004) 
+Douglas Lichtman, How the Law Responds to Self‐Help (December 2004) 
+Eric A. Posner, The Decline of the International Court of Justice (December 2004) 
+Eric A. Posner, Is the International Court of Justice Biased? (December 2004) 
+Alan O. Sykes, Public vs. Private Enforcement of International Economic Law: Of Standing and 
+Remedy (February 2005) 
+Douglas G. Baird and Edward R. Morrison, Serial Entrepreneurs and Small Business Bankruptcies 
+(March 2005) 
+Eric A. Posner, There Are No Penalty Default Rules in Contract Law (March 2005) 
+Randal C. Picker, Copyright and the DMCA: Market Locks and Technological Contracts (March 
+2005) 
+Cass R. Sunstein and Adrian Vermeule, Is Capital Punishment Morally Required? The Relevance of 
+Life‐Life Tradeoffs (March 2005) 
+Alan O. Sykes, Trade Remedy Laws (March 2005) 
+Randal C. Picker, Rewinding Sony: The Evolving Product, Phoning Home, and the Duty of 
+Ongoing Design (March 2005) 
+Cass R. Sunstein, Irreversible and Catastrophic (April 2005)  
+James C. Spindler, IPO Liability and Entrepreneurial Response (May 2005) 
+Douglas Lichtman, Substitutes for the Doctrine of Equivalents: A Response to Meurer and Nard 
+(May 2005) 
+Cass R. Sunstein, A New Progressivism (May 2005) 
+
+Douglas G. Baird, Property, Natural Monopoly, and the Uneasy Legacy of INS v. AP (May 2005) 
+Douglas G. Baird and Robert K. Rasmussen, Private Debt and the Missing Lever of Corporate Governance 
+(May 2005) 
+Cass R. Sunstein, Administrative Law Goes to War (May 2005) 
+Cass R. Sunstein, Chevron Step Zero (May 2005) 
+Lior Jacob Strahilevitz, Exclusionary Amenities in Residential Communities (July 2005) 
+Joseph Bankman and David A. Weisbach, The Superiority of an Ideal Consumption Tax over an 
+Ideal Income Tax (July 2005) 
+Cass R. Sunstein and Arden Rowell, On Discounting Regulatory Benefits: Risk, Money, and 
+Ingergenerational Equity (July 2005) 
+Cass R. Sunstein, Boundedly Rational Borrowing: A Consumer’s Guide (July 2005) 
+Cass R. Sunstein, Ranking Law Schools: A Market Test? (July 2005) 
+David A. Weisbach, Paretian Intergenerational Discounting (August 2005) 
+Eric A. Posner, International Law: A Welfarist Approach (September 2005) 
+Adrian Vermeule, Absolute Voting Rules (August 2005) 
+Eric Posner and Adrian Vermeule, Emergencies and Democratic Failure (August 2005) 
+Douglas G. Baird and Donald S. Bernstein, Absolute Priority, Valuation Uncertainty, and the 
+Reorganization Bargain (September 2005) 
+Adrian Vermeule, Reparations as Rough Justice (September 2005) 
+Arthur J. Jacobson and John P. McCormick, The Business of Business Is Democracy (September 
+2005) 
+Adrian Vermeule, Political Constraints on Supreme Court Reform (October 2005) 
+Cass R. Sunstein, The Availability Heuristic, Intuitive Cost‐Benefit Analysis, and Climate Change 
+(November 2005) 
+Lior Jacob Strahilevitz, Information Asymmetries and the Rights to Exclude (November 2005) 
+Cass R. Sunstein, Fast, Frugal, and (Sometimes) Wrong (November 2005) 
+
+246.  
+247. 
+
+248. 
+249. 
+250. 
+251. 
+
+252. 
+
+253. 
+254. 
+255. 
+256. 
+257. 
+258. 
+259. 
+
+260. 
+261. 
+
+262. 
+263. 
+
+264. 
+265. 
+ 
+
+

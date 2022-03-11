@@ -1,0 +1,2465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Cass R. Sunstein, "Social Norms and Social Roles,"</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Chicago Unbound</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <string-name>Recommended Citation</string-name>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Faculty Scholarship</institution>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>1996</year>
+      </pub-date>
+      <volume>903</volume>
+      <issue>1996</issue>
+      <fpage>927</fpage>
+      <lpage>968</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>904
+904
+905
+905
+906
+906
+907
+910
+914
+914
+914
+* Karl N. Llewellyn Distinguished Service Professor, Law School and Department of
+Political Science, University of Chicago. This is a written version of the Goase Lecture,
+delivered at the University of Chicago on November 28, 1995. I am grateful to Bruce
+Ackerman, Richard Craswell, Gertrud Fremling, Elizabeth Garrett, Daniel Kahan, William
+Landes, Larry Lessig, John Lott, Martha Nussbaum, Susan Moller Okin, Eric Posner,
+Richard Posner, Joseph Raz, David Strauss, and Richard Thaler for valuable discussions
+and comments. I am also grateful to participants in very helpful workshops at the
+University of Chicago and at New York University.</p>
+      <p>This article is dedicated to the memory ofJean Hampton, an extraordinary friend,
+colleague, and philosopher who was also one of the nicest people in the world. Jean
+warmly encouraged my efforts to grapple with these problems and in particular with the
+expressive function of law, a topic that she did much to illuminate. Her premature death
+is an unfathomable loss for many people; her brilliant and humane work will provide
+enduring illumination for lawyers as well as political theorists and philosophers.</p>
+      <p>903</p>
+      <p>HeinOnline -- 96 Colum. L. Rev. 903 1996
+939
+939
+940
+940
+941</p>
+      <p>Economists have invented a game: the ultimatum game. The people
+who run the game give some money, on a provisional basis, to the first of
+two players. The first player is told to offer some part of the money to the
+second player. If the second player accepts that amount, he can keep
+what is offered, and the first player gets to keep the rest. But if the
+second player rejects the offer, neither player gets anything. Both players
+are informed that these are the rules. No bargaining is allowed. Using
+standard assumptions about rationality, self-interest, and choice,
+economists predict that the first-player should offer a penny and the second
+player should accept.</p>
+      <p>This is not what happens. Offers usually average between 30% and
+40% of the total. Offers of less than 20% are often rejected. Often there
+1. See Alvin E. Roth, Bargaining Experiments, in The Handbook of Experimental
+Economics 253, 270-74, 282-88, 298-302 (John H. Kagel &amp; Alvin E. Roth eds., 1995)
+(exploring concept of fairness in ultimatum games); Colin Camerer &amp; Richard H. Thaler,
+Ultimatums, Dictators and Manners, J. Econ. Persp., Spring 1995, at 209, 216-18
+(discussing impact of fairness on ultimatum games).
+is a 50-50 division. These results cut across the level of the stakes and
+across diverse cultures. 2</p>
+    </sec>
+    <sec id="sec-2">
+      <title>B. Littering</title>
+      <p>Why do people litter? Why don't they throw things out instead?
+Social psychologist Robert Cialdini tried to find out.3 He placed flyers
+under the windshield wipers of cars and waited to see what drivers would
+do with them. Cialdini made arrangements so that before reaching their
+cars, some people would see someone (a Cialdini associate) walk past
+them, pick up from the street a bag from a fast-food restaurant, and
+throw it in the trash can. Of the group who both saw the responsible
+behavior and noticed the flyers, almost none threw them on the street.
+In the control experiment, with no one showing responsible behavior,
+over 1/3 of the drivers threw the flyers on the street.4</p>
+    </sec>
+    <sec id="sec-3">
+      <title>C. Smoking, Rationality, and Race</title>
+      <p>About 400,000 Americans die each year from smoking-related
+causes.5 Government has tried to reduce smoking through educational
+campaigns designed to inform people of the risks. Indeed the
+government has now initiated a large-scale program to reduce smoking,
+especially among teenagers. 6 Despite this fact, about one million Americans
+begin smoking each year, many of them teenagers, 7 and people worry
+that educational campaigns will succeed, if at all, only with well-educated
+people.</p>
+      <p>But consider this. Nationally, 22.9% of white teenagers smoked in
+1993, a number that basically has been unchanged in the last decade.
+But in the same year, only about 4.4% of African-American teenagers
+smoked, a number that is four times smaller than the number a decade
+before.8 What accounts for this difference? Part of the explanation
+ap</p>
+      <p>HeinOnline -- 96 Colum. L. Rev. 905 1996
+pears to lie in differing understandings of what is fashionable. And part
+of that difference may lie in a private antismoking campaign in the
+African-American community, symbolized most dramatically by posters in
+Harlem subways showing a skeleton resembling the Marlboro man and
+lighting a cigarette for a black child. The caption reads: "They used to
+make us pick it. Now they want us to smoke it."9</p>
+      <sec id="sec-3-1">
+        <title>D. Recycling in the Hamptons</title>
+        <p>In East Hampton, New York-part of the famous and wealthy
+"Hamptons"-what used to be called the East Hampton Dump is now the
+East Hampton Recycling and Disposal Center. At the East Hampton
+Recycling and Disposal Center, there are separate bins for green glass,
+clear glass, newspapers, tin cans, paper other than newspaper, and more.</p>
+        <p>Almost every day in August (the most popular period in the
+Hamptons), residents can be found patiently separating their garbage for
+placement in the relevant bins. Sometimes this takes a long time. The
+people at the Center tend to own expensive cars-Mercedes Benzes,
+BMWs-that are parked near the bins. As they separate their garbage,
+they look happy.</p>
+      </sec>
+      <sec id="sec-3-2">
+        <title>E. JohnJones</title>
+        <p>John Jones lives in California. Here is a description of some aspects
+of his behavior.</p>
+        <p>1. He buys smoke alarms and installs them in three rooms in his
+house.</p>
+        <p>2. He loves chocolate and ice cream, and eats a lot of both. He also
+eats a fair amount of frozen foods; he makes sure that they are "lean"
+whenever he has a choice. According to his doctor, he is slightly over his
+ideal weight.</p>
+        <p>3. On warm days, he likes to ride his bicycle to and from work, and
+he enjoys riding his bicycle on busy city streets, even though he has heard
+about a number of collisions there.</p>
+        <p>4. He is happily married. He tries to share the work around the
+house, but he doesn't much like domestic labor. He does less than his
+share. He acknowledges that this is both true and unfair, and he
+supports many policies that are conventionally described as "feminist."
+5. He buckles his seat belt whenever he is in a car. His own car is a
+Volvo, and he bought it partly because it is said to be an especially safe
+car.</p>
+        <p>6. He is not worried about the risk of an earthquake in California.
+On some days, he says that he doesn't think that an earthquake is very
+likely; on other days, he claims to be "fatalistic about earthquakes."
+9. Ingrassia &amp; Springen, supra note 7, at 76.
+7. He does not recycle. He considers recycling a personal
+"irritadon." He is mildly embarrassed about this, but he has not changed his
+behavior.</p>
+        <p>8. He considers himself an environmentalist; his votes reflect his
+enthusiasm for environmentalism. He supports aggressive regulation
+designed to encourage conservation and to protect people from risks to
+their life and health. In fact he is in favor of mandatory recycling,
+notwithstanding his own failure to recycle.</p>
+        <p>9. In his own mind, his resources fall in various mental
+"compartments." Some money is reserved for retirement. Some money is saved
+for charitable donations. Some money is kept for vacation. Some money
+is for monthly bills. His forms of mental accounting are very diverse. He
+is fully aware of this.</p>
+        <p>Is Jones inconsistent or irrational? Is Jones risk-averse or
+risk-inclined? What is Jones's dollar valuation of a human life, or of his own
+life?</p>
+      </sec>
+      <sec id="sec-3-3">
+        <title>F. The Point of this Article</title>
+        <p>My goal in this article is to challenge some widely held
+understandings of rationality, choice, and freedom, and to use that challenge to
+develop some conclusions about human behavior and the appropriate uses
+and domain of law. I particularly seek to understand and defend the
+place of law in "norm management."</p>
+        <p>I urge that behavior is pervasively a function of norms; that norms
+account for many apparent oddities or anomalies' 0 in human behavior;
+that changes in norms might be the best way to improve social well-being;
+and that government deserves to have, and in any case inevitably does
+have, a large role in norm management. 1' As I will suggest, norm
+management is an important strategy for accomplishing the objectives of law,
+whatever those objectives may be. One of my goals is to show how this is
+SO.</p>
+        <p>10. I understand anomalies by reference to economic understandings of rationality,
+see infra Parts IV.B-C.</p>
+        <p>11. Objections to norm management from the standpoint of liberty would overlap a
+great deal with objections to the use of "external preferences" as a basis for law. See
+Ronald Dworkin, Taking Rights Seriously 240-55 (1977). I believe that there is no general
+objection to the use of external preferences-the use of people's beliefs about what other
+people's beliefs should be-and also that there is no objection to government's effort to
+change norms. When government attempts to inculcate an anti-littering norm, or to
+inculcate a norm in favor of paying taxes, its behavior is not objectionable merely because
+norms are being managed. Any objection, to be persuasive, depends on an argument that
+government is invading fights. A robust set of rights should be in place to limit norm
+management, see infra Part VII; but so long as it is, there should be no objection to norm
+management itself. Cf.Joseph Raz, Liberalism, Scepticism, and Democracy, in Ethics in
+the Public Domain: Essays in the Morality of Law and Politics 82, 94-98 (1994) (arguing
+that "external preferences" should not be automatically excluded from the political
+domain).
+Risk</p>
+        <sec id="sec-3-3-1">
+          <title>Tobacco</title>
+          <p>Diet/activity
+Alcohol
+Microbial
+Toxic agents
+Firearms
+Sexual behavior
+Motor vehicles
+Illicit drugs</p>
+        </sec>
+      </sec>
+      <sec id="sec-3-4">
+        <title>COLUMBIA LAW RV1EW</title>
+        <p>Part of my motivation is therefore practical. Consider the following
+table:' 2</p>
+        <sec id="sec-3-4-1">
+          <title>Deaths from Preventable Risks in the United States</title>
+          <p>Percent of
+Total Deaths (Range)</p>
+          <p>Total Deaths/yr</p>
+          <p>Existing social norms encourage much risk-taking behavior; and
+almost all of these risks of death could be much reduced with different
+norms. Consider smoking, diet/activity, alcohol, firearms, sexual
+behavior, motor vehicles, and illicit drugs as causes of death. In all these cases,
+new norms could save lives.' 3 A regulatory policy that targets social
+norms may well be the cheapest and most effective strategy available to a
+government seeking to discourage risky behavior. It may complement or
+work more efficiently than existing regulatory approaches.</p>
+          <p>Social norms are also part and parcel of systems of race and sex
+equality. If norms changed, existing inequalities would be greatly
+reduced.14 It is thus transparently important to see whether shifts in social
+norms, brought about through law, might operate to save lives and
+otherwise improve human well-being.15</p>
+          <p>But part of my motivation is theoretical. It involves a conceptual
+puzzle. In the last decade there has been an intense debate about whether
+and to what extent law should try to change people's "preferences.' u 6
+But the term "preferences" is highly ambiguous, and it is not clear what
+the participants in this debate are actually disputing when they say that
+"preferences" should or should not be respected by law. I attempt to
+clarify possible meanings of the term. I also suggest that when the idea of a
+"preference" is unpacked, it becomes plain that the term is often too
+abstract and coarse-grained to be a reliable foundation for either normative
+or positive work. We will thus find reason to doubt the elaborate edifice
+of social science based on the notion of "preference." The ultimate task
+is to separate positive, descriptive, and normative inquiries more sharply
+and, in the process, to try to untangle different motivational states and
+their influences on choices.</p>
+          <p>More particularly, I aim to make a set of conceptual or descriptive
+points:</p>
+          <p>1. Existing social conditions are often more fragile than might be
+supposed, because they depend on social norms to which-and this is the
+key point-people may not have much allegiance. What I will call norm
+entrepreneurs-people interested in changing social norms-can exploit
+this fact. If successful, they produce what I will call norm bandwagonsand
+norm cascades.17 Norm bandwagons occur when small shifts lead to large
+ones, as people join the "bandwagon"; norm cascades occur when there
+are rapid shifts in norms. Successful law and policy try to take advantage
+of learning about norms and norm change.</p>
+          <p>2. Sometimes people do not behave as economists predict. Many
+important and well-known anomalies in human behavior are best
+explained by reference to social norms and to the fact that people feel
+shame when they violate those norms.1 8 Thus when people deviate from
+economic predictions-when they appear not to maximize their
+"expected utility"-it is often because of norms.</p>
+          <p>3. There is no simple contrast between "rationality" or "rational
+selfinterest" and social norms.' 9 Individual rationality is a function of social
+norms. The costs and benefits of action, from the standpoint of
+individual agents, include the consequences of acting inconsistently with social
+norms. Many efforts to drive a wedge between rationality and social
+norms rest on obscure "state of nature" thinking, that is, on efforts to
+discern what people would like or prefer if social norms did not exist.
+Those efforts are doomed to failure. 20
+A. Posner, The Ethical Significance of Free Choice: A Reply to Professor West, 99 Harv. L.
+Rev. 1431 (1986).</p>
+          <p>17. A valuable discussion, one that has much influenced the presentation here, is
+Timur Kuran, Private Truths, Public Lies 71-73 (1995). Kuran is, however, principally
+interested in the concealment or falsification of preferences; I am interested in norms that
+alter behavior as well as talk and hence in a somewhat more general phenomenon.
+18. See infra Part V.B.
+19. See infra Part V.C.</p>
+          <p>
+            20. A qualification is necessary if the definition of rationality is normative and
+defended as such. In that case it would be possible to say that a certain norm is irrational
+because (for example) it makes lives worse.
+4. For many purposes, it would be best to dispense with the idea of
+"preferences,"2 1 despite the pervasiveness of that idea in positive social
+science and in arguments about the appropriate domains of law and the
+state. In normative work, the idea of "preferences" elides morally
+important distinctions among the motivations and mental states of human
+agents. In positive work, the idea is too coarse-grained, in the sense that
+it disregards contextual factors that produce diverse choices in diverse
+settings. People's choices are a function of norms, which operate as
+"taxes" or "subsidies"; and the content of norms depends on the context.
+Instead of speaking of "preferences," we might assess choice in terms of
+(
+            <xref ref-type="bibr" rid="ref1 ref1 ref10 ref14 ref6 ref6">1</xref>
+            ) intrinsic value, (
+            <xref ref-type="bibr" rid="ref11 ref15 ref17 ref2 ref7">2</xref>
+            ) reputational effects, and (
+            <xref ref-type="bibr" rid="ref12 ref16 ref18 ref3 ref8">3</xref>
+            ) effects on
+selfconception.
+          </p>
+          <p>I also aim to make two normative claims involving the appropriate
+domain of law. These claims have a great deal to do with law's expressive
+function, by which I mean the function of law in expressing social values
+with the particular goal of shifting social norms.</p>
+          <p>1. There can be a serious obstacle to freedom in the fact that
+individual choices are a function of social norms, social meanings, and social
+roles, which individual agents may deplore, and over which individual
+agents have little or no control. Norms can tax or subsidize choice.
+Collective action-in the form of information campaigns, persuasion,
+economic incentives, or legal coercion-may be necessary to enable people
+to change norms that they do not like.</p>
+          <p>2. Some norms are obstacles to human well-being and autonomy. It
+is appropriate for law to alter norms if they diminish well-being by, for
+example, encouraging people to shorten their lives by driving very fast,
+using firearms, or taking dangerous drugs. It is appropriate for law to
+alter norms if they diminish autonomy by, for example, discouraging
+people from becoming educated or exposed to diverse conceptions of the
+good.</p>
+        </sec>
+      </sec>
+      <sec id="sec-3-5">
+        <title>G. An Insufficiently Charted Domain</title>
+        <p>Libertarians, some economic analysts of law, and many liberals22 give
+inadequate attention to the pervasive functions of social norms, social
+meanings, and social roles. Often it is said that in a free society,
+governments should respect both choices and preferences. But the case for
+re21. See infra Part Im.I think that Gary Becker moves in the direction of dispensing
+with the idea in Gary S. Becker, Accounting For Taste (forthcoming 1996), because he
+disaggregates the term. I am not sure, however, that Becker would accept my
+characterization.</p>
+        <p>22. The liberal tradition is very complex on this count, and I will not try to sort out its
+various strands here. I believe that all of the arguments made here fit well within central
+strands of that tradition. For relevant discussion, see Stephen Holmes, Passions and
+Constraint: On the Theory of Liberal Democracy 13-41 (1995). On autonomy, see, e.g.,
+Thomas Nagel, The View From Nowhere 113-20 (1986); Joseph Raz, The Morality of
+Freedom 369-99 (1986).
+specting these things depends partly on their consequences and genesis,
+and as I have indicated, the determinants of choices (indeed the very
+meaning of the term "preference") remain obscure. 23 We should agree
+that social norms play a part in determining choices; that people's
+choices are a function of their particular social role; and that the social or
+expressive meaning of acts is an ingredient in choice.2 4 Of course norms
+vary a great deal across cultures, and sometimes even within cultures. We
+should try to see when social norms, social roles, and social meanings are
+obstacles to human well-being, and whether something might be done to
+change them, even if people are making "choices," even if there is
+neither force nor fraud, and whether or not there is "harm to others."</p>
+        <p>One of my central points here is that individual agents have little
+control over social norms, social meanings, and social roles, even when
+they wish these to be very different from what they are. 25 This is not an
+argument against norms, meanings, and roles. Human beings can live,
+and human liberty can exist, only within a system of norms, meanings,
+and roles; but in any particular form, these things can impose severe
+restrictions on well-being and autonomy.</p>
+        <p>As I have suggested, agents who seek to make changes in norms face
+a collective action problem. For example, it is impossible for an
+individual to alter norms determining whether the act of smoking seems daring,
+or the act of recycling seems exotic, or the act of opposing sexual
+harassment seems humorless. This is so even though the relevant norms greatly
+influence behavior. If, for example, smokers seem like pitiful dupes
+rather than exciting daredevils, the incidence of smoking will go down. If
+people who fail to recycle are seen as oddballs, more people will recycle.
+If the role of secretary is not associated with susceptibility to unwanted
+sexual attention, there will be less unwanted sexual attention. The point
+bears very much on current public disputes. If single parenthood is
+stigmatized, social practices will change accordingly; if homosexual
+marriages are consistent with social norms, social practices will be much
+altered. In all of these cases, individual actors need to act together in order
+to produce the relevant shifts.</p>
+        <p>More particularly, I hope to draw attention to the fact that people's
+conception of appropriate action and even of their "interest" is very
+23. Illuminating discussions include Elizabeth Anderson, Value in Ethics and
+Economics 1-90 (1993); Amartya Sen, Behavior and the Concept ofPreference, in Choice,
+Welfare and Measurement 54 (1982); Jean Hampton, The Failure of Expected-Utility
+Theory as a Theory of Reason, 10 Econ. &amp; Phil. 195 (1994); Amartya Sen, Internal
+Consistency of Choice, 61 Econometrica 495 (1993) [hereinafter Sen, Internal
+Consistency].</p>
+        <p>24. For especially instructive discussion, see Lawrence Lessig, The Regulation of
+Social Meaning, 62 U. Chi. L. Rev. 943 (1995). Though I have referred to this paper at
+various points, my presentation here owes a general debt to Lessig's argument and in
+particular to his emphasis on the collective action problem presented by social meanings.
+See id. at 991-1016.</p>
+        <p>25. See id. at 1000-07.
+COLUMBIA LAW REEW
+much a function of the particular social role in which they find
+themselves. This is true of (for example) judges, lawyers, doctors, parents,
+children, waiters, wives, husbands, colleagues, friends, and law school
+deans. Attention to the place of social role shows that for many purposes,
+the contrast between "rationality" and social norms 26 is unhelpful. What
+is rational for an agent is a function of, and mediated by, social roles and
+associated norms. 27 And when social norms appear not to be present, it
+is only because they are so taken for granted that they seem invisible.</p>
+        <p>At the same time, norms and roles-operating as taxes on or
+subsidies to action-can create a division between the judgments and desires
+that are displayed publicly and the judgments and desires that would be
+displayed without current norms and roles. 28 People's private judgments
+and desires diverge greatly from public appearances. For this reason
+current social states can be far more fragile than is generally thought-small
+shocks to publicly endorsed norms and roles decrease the cost of
+displaying deviant norms and rapidly bring about large-scale changes in publicly
+displayed judgments and desires. Hence societies experience norm
+bandwagons and norm cascades. Norm bandwagons occur when the lowered
+cost of expressing new norms encourages an ever-increasing number of
+people to reject previously popular norms, to a "tipping point" where it is
+adherence to the old norms that produces social disapproval. 29 Norm
+cascades occur when societies experience rapid shifts toward new
+norms.3 0 Something of this kind happened with the attack on apartheid
+in South Africa, the fall of Communism, the election of Ronald Reagan,
+the use of the term "liberal" as one of opprobrium, the rise of the
+feminist movement, and the current assault on affirmative action.</p>
+        <p>26. See Jon Elster, The Cement of Society 1-16 (1989) [hereinafter Elster, The
+Cement of Society]. It might be possible to define rationality in a way that abstracts from
+social norms, seeJon Elster, Norms ofRevenge, 100 Ethics 862, 872-76 (1990) [hereinafter
+EIster, Norms of Revenge], but it would be hard to make robust predictions on the basis of
+any such definition. The problem lies in a norm-free specification of the "ends" that
+rational actors pursue. If we understand rationality in purely instrumental terms, we will
+be unable to make any predictions at all; if we understand it in purely economic terms, we
+will find much social irrationality and hence make bad predictions, and in any case the
+pursuit of wealth will inevitably have some relation to social norms. (Elster sees revenge
+behavior as inconsistent with rationality, but individuals who seek revenge get hedonic
+benefit from getting revenge. Hence Elster's conception of rationality is normatively
+invested in a way that seems plausible but needs defense, and that in any case is designed
+for normative rather than positive purposes.) See also infra Part IV.C.</p>
+        <p>27. See Viviana A. Zelizer, Morals and Markets: The Development of Life Insurance
+in the United States 41-89 (1983) (discussing conflicts between social norms and the
+purchase of life insurance).</p>
+        <p>28. See Kuran, supra note 17, at 3-5, 22-44.
+29. See id. at 71-73.</p>
+        <p>30. Cf. Viviana A. Zelizer, Pricing the Priceless Child: The Changing Social Value of
+Children (1985) (describing changing economic and sentimental valuation of children);
+Sushil Bikhchandani et al., A Theory of Fads, Fashion, Custom, and Cultural Change as
+Informational Cascades, 100 J. Pol. Econ. 992 (1992) (explaining how informational
+cascades can contribute to the rapid spread of new behaviors).</p>
+        <p>To spell out the most general point emerging from the discussion:
+The notion of a "preference" can be deeply confusing, and in many of its
+uses, it impairs both positive and normative analysis of law. In its
+standard form, a preference is supposed to be something that lies behind
+choices and that is more abstract and general than choices are.3 1 But
+what lies behind choices is not a thing but an unruly amalgam of
+things3 2-aspirations, tastes, physical states, responses to existing roles
+and norms, values, judgments, emotions, drives, beliefs, whims. The
+interaction of these forces will produce outcomes of a particular sort in
+accordance with the particular context. Hence we might say that
+preferences are constructed, rather than elicited, by social situations3, 3 in the sense
+that they are very much a function of the setting and the prevailing
+norms.</p>
+        <p>This point bears on the role of government, which cannot avoid
+affecting social norms. A market economy will, for example, have
+predictable effects on norms, 3 4 and historically it has been justified on just this
+ground, as a way of softening social divisions by allowing people to
+interact with one another on a mutually beneficial basis.3 5 A good deal of
+governmental action is self-consciously designed to change norms,
+meanings, or roles, and in that way to increase the individual benefits or
+decrease the individual costs associated with certain acts. Thus government
+might try to inculcate or to remove shame, fear of which can be a powerful
+deterrent to behavior. The inculcation of shame operates as a kind of
+tax; the removal of shame might be seen as the elimination of a tax or
+even as a kind of subsidy.</p>
+        <p>There is a thin line between education and provision of information
+on the one hand and attempted norm-change on the other. In fact we
+will see that in the process of norm management, government has a
+31. This is the idea behind much of Gary Becker's work. See, e.g., Gary S. Becker, A
+Treatise on the Family (enI. ed. 1991). For Becker's most recent statement-which is, I
+believe, in a somewhat different spirit-see Becker, supra note 21.</p>
+        <p>32. See Gary S. Becker, Nobel Lecture: The Economic Way of Looking at Behavior,
+in The Essence of Becker 633, 633 (Ram6n Febrero &amp; Pedro S. Schwartz eds., 1995) ("An
+important step in extending the traditional theory of individual rational choice.., is to
+incorporate into the theory a much richer class of attitudes, preferences, and
+calculations.").</p>
+        <p>33. Cf. Paul Slovic, The Construction of Preference, 50 Am. Psychol. 364 (1995)
+(arguing that preferences are shaped by situation-specific cognitive processes). I mean to
+use the idea of construction somewhat more broadly than does Slovic. Note in this
+connection the striking study by Samuels and Ross, showing that people cooperate when a
+certain game is denominated "Community" but not when the same game is denominated
+"Wall Street." See S.M. Samuels &amp; L. Ross, Reputations Versus Labels: The Power of
+Situational Effects in the Prisoner's Dilemma Game (1993) (unpublished manuscript); see
+also Lee Ross &amp; Andrew Ward, Naive Realism: Implications for Social Conflicts and
+Misunderstandings in Values and Knowledge (Terrance Brown et al. eds., forthcoming
+1996).</p>
+        <p>34. See generally Albert 0. Hirschman, The Passions and The Interests (1977).
+35. See id. at 69-93.
+number of tools. In a democratic society, it ought to be willing to use
+them.</p>
+        <p>This Article comes in seven parts. Part II discusses the basic
+concepts: social norms, social roles, and social meanings. Part III explores
+the relationship between preferences and choices; it explains the limited
+usefulness of the idea of "preferences." Part IV places special emphasis
+on the role of pride and shame in human behavior. Part V offers some
+general comments on the role of government in altering norms. Part VI
+explores more particular bases for governmental or legal action. It shows
+how government might overcome collective action problems, diminish
+risk, and enhance autonomy through managing norms. Part VII briefly
+describes when and why government action may be illegitimate or
+illadvised.</p>
+        <sec id="sec-3-5-1">
+          <title>II. DEMNITIONS AND CONCEPTS</title>
+          <p>In this section I discuss three ideas that will play an important part
+throughout this Article: social norms, social roles, and social meanings.
+Social norms are the most central of these, since they provide the
+foundation for both social roles and social meanings. I also connect these ideas
+to problems of collective action, movements for legal and social change,
+and some issues about the goals and functions of law.</p>
+          <p>A. Social Norms</p>
+          <p>1. In general. - The term "social norms" might be understood in
+many different ways.3 6 For present purposes the differences among the
+possible definitions are not very important, and we can rely on
+conventional understandings. If a definition is thought necessary, we might, very
+roughly, understand "norms" to be social attitudes of approval and
+disapproval, specifying what ought to be done and what ought not to be done.
+Some norms set good manners, for example, about how to hold one's
+fork; others reflect morally abhorrent views, as in the taboo on interracial
+relations; others reflect hard-won moral commitments, as in the norm
+against racial epithets. In fact there are social norms about nearly every
+aspect of human behavior. There are norms about littering, dating,
+smoking, singing, when to stand, when to sit, when to show anger, when,
+how, and with whom to express affection, when to talk, when to listen,
+when to discuss personal matters, when to use contractions, when (and
+with respect to what) to purchase insurance.</p>
+          <p>36. I am understanding norms in an unusually broad sense. Narrower definitions are
+possible and many useful distinctions might be drawn. See, e.g., Elster, Norms of Revenge,
+supra note 26, at 863-66; Philip Pettit, Vius Normativa: Rational Choice Perspectives, 100
+Ethics 725, 728-32 (1990); see also H.LA. Hart, The Concept ofLaw 82-91 (2d ed. 1994)
+(discussing rules of obligation, a subclass of norms); David K. Lewis, Convention 99-100
+(1969) (dealing with the relation between conventions and norms).
+"It isn't done" is a frequent reaction to certain disapproved
+conduct37-even though the relevant "it" is indeed done. The governing
+attitudes span an exceptionally wide range. They may or may not begin or
+maintain themselves as a result of reflective judgments about, for
+example, fairness and utility.38 They may be based on simple, intuitive
+judgments about what is healthy behavior; these judgments may eventually
+turn into moral commitments unmoored from health judgments. Social
+norms may or may not promote liberty and well-being; they may or may
+not be easily malleable or go very deep into people's understandings.
+Sometimes norms are codified in law.3 9 This is true, for example, with
+norms governing littering, respecting private property, and banning
+discrimination on the basis of race or sex.</p>
+          <p>Whether or not law is also at work, social norms are enforced
+through social sanctions that are, to say the least, pervasive. "Political
+correctness" is no isolated phenomenon. It is ubiquitous. 40 It occurs
+whenever reputational incentives impose high costs on deviant behavior.
+The relevant sanctions create a range of unpleasant (but sometimes
+pleasant) emotional states in people who have violated norms. If
+someone behaves in a way inconsistent with social norms, public disapproval
+may produce embarrassment or perhaps shame and a desire to hide.
+Sometimes the unpleasant feelings brought about by violations of social
+norms are intense, and the social consequences of these feelings, and
+(perhaps even more) of anticipating them, can be substantial.4'
+37. See Elster, The Cement of Society, supra note 26, at 132-33.</p>
+          <p>38. I do not offer an account here of the emergence of norms. For relevant
+discussion, see Elster, The Cement of Society, supra note 26; Allan Gibbard, Wise Choices,
+Apt Feelings: A Theory of Normative Judgment (1990); Cristina Bicchieri, Norms of
+Cooperation, 100 Ethics 838 (1990). Nor do I discuss the relationship between social
+norms and moral judgments about, for example, fairness. Social norms are sometimes
+supported by such judgments, but sometimes not. Social norms are sometimes a product
+of such judgments, but sometimes not. On the relation between behavior and judgments
+about fairness-more precisely, in my view, social norms rooted in judgments of
+fairnesssee Daniel Kahneman et al., Fairness and the Assumptions of Economics, in Richard H.
+Thaler, Quasi Rational Economics 220 (1991).</p>
+          <p>39. For discussions of law, norms, and insurance, see Zelizer, supra note 30, at
+113-37; Zelizer, supra note 27, at 27-39.</p>
+          <p>40. In fact the term itself is an exercise in norm management. It brands people with
+certain views as weak followers of convention, rather than people who are following moral
+convictions of their own. If one believes that one's own views are "politically correct," one
+is likely to feel a bit embarrassed by them; if one thinks that one is avoiding "political
+correctness," one is likely to be proud ofone's independence and fortitude. Consider the
+suggestion that "[a] lot of young women don't want to be called feminists because, hey,
+listen to Rush Limbaugh, and you've heard it all. It's equated with being lesbian, fat, ugly."
+Karen De Witt, Feminists Gather to Affirm Relevancy of Their Movement, N.Y. Times, Feb.
+3, 1996, at 9.</p>
+          <p>41. The persistent urge to conform to social norms has been demonstrated in a good
+deal of work in social psychology. The classic study is S.E. Asch, Effects of Group Pressure
+upon the Modification and Distortion ofJudgments, in Groups, Leadership, and Men 177
+(Harold Guetzkow ed., 1951).</p>
+          <p>Much socially desirable behavior is attributable to social norms. For
+example, lack of education produces a good deal of shame in certain
+communities; so too with the decision to be promiscuous, or to use
+alcohol, cigarettes, or unlawful drugs. The result can be salutary incentives.
+But social norms can produce undesirable incentives as well. Thus, in
+some communities, norms encourage a lack of education, promiscuity, or
+abuse of alcohol or unlawful drugs.</p>
+          <p>2. Intrinsicvalue, reputationalvalue, and self-conception. - From these
+points we might conclude that choice among options is a function not
+only of (a) the intrinsic value of the option-a book, ajob, a drink-but
+also of (b) the reputational benefit or cost of the choice and of (c) the
+effects of the choice on one's self-conception. 42 The intrinsic value refers
+to whether, apart from reputational effects or effects on the agent's
+selfconception, the option is fun, illuminating, pleasant, interesting, and so
+forth. You may watch a television show on public broadcasting not only
+because it is fun or illuminating, but also because there are reputational
+advantages from doing so and advantages as well from the standpoint of
+enhancing your self-conception. Someone may buy a certain book (say, a
+book about Shakespeare) and not another book (say, a book by Stephen
+King) largely because she wants to think of herself as the sort of person
+who reads about Shakespeare. Someone may buy and wear an expensive
+piece of clothing not only or not mostly because he thinks it looks nice,
+but also or mostly because he wants other people to see him wearing that
+piece of clothing. Social norms are a key determinant in reputational
+benefit or cost. They can much affect (though they need not determine)
+self-conception as well. I</p>
+          <p>Changes in social norms can influence choices if intrinsic value is
+held constant, by altering the effects of reputational incentives and
+consequences for self-conception. 43 If littering produces shame or
+disapproval, behavior will shift; if race discrimination produces reputational
+cost rather than benefit, fewer people will discriminate on the basis of
+race; if parenthood out of wedlock is stigmatized, there should be less
+parenthood out of wedlock.44 Indeed, obedience of law is built in large
+42. Cf. Kuran, supra note 17, at 24-38, which has much influenced my presentation
+here. Kuran discusses reputational and intrinsic utility; he also refers to what he calls
+"expressive utility," by which he means the expressive value of the act. See id. at 30-35.
+Some people may, for example, want to deviate from existing norms because of the
+expressive value of deviation. But I think it is better to speak of effects on the agent's
+selfconception; this isa more general idea that includes, but isnot limited to, what Kuran calls
+expressive value.</p>
+          <p>43. See id. at 35-38.</p>
+          <p>44. See Elijah Anderson, Streetwise: Race, Class, and Change in an Urban
+Community 112-37 (1990) (describing impact of social norms on patterns of childbirth
+and parenting).
+part on the perceived reputational consequences of law violation. 45 Of
+course those consequences might be favorable rather than unfavorable.</p>
+          <p>The three-part division is a bit crude, since perceptions of intrinsic
+value will be often a function of social norms. Those perceptions do not
+exist in a vacuum. Perceived intrinsic value is emphatically a result of
+social forces-consider responses to opera, rock music, rap-and
+reputational pressures can interact in complex ways with beliefs about intrinsic
+value. People's self-conceptions are very divergent, and each of our
+selfconceptions has many dimensions; for example, many of us may want not
+to be conformists, but also want not to diverge too much from what other
+people do and think. I offer the three-part division as a place to start.</p>
+          <p>3. Norms andfreedom. - In a way social norms reduce freedom,
+understood very broadly as the power to do whatever one would like to do.46
+Certainly norms stop people from doing things that (if the norms were
+different) they would like to do, and people sometimes would like the
+norms to change. In particular, norms can drive a wedge between
+people's public actions or statements and their private judgments or
+desires. 47 Some people very much want norms to be something other
+than what they are, and they regret the fact (if they recognize it) that they
+have no power to change them. Thus a teenager might lament the
+existence of social norms in favor of (say) carrying a firearm or using drugs;
+but while the norms are in place, he might well carry a firearm and use
+drugs, and in a sense feel compelled to do so.</p>
+          <p>It would, however, be quite ludicrous to deplore social norms, to see
+them only as constraints on freedom, or to wish for them to disappear. In
+fact norms make freedom possible. Social life is not feasible-not even
+imaginable-without them.48 In the absence of social norms, we would
+be unable to understand one another.4 9 Norms establish conventions
+about the meanings of actions. Social norms are thus facilitative as well as
+constraining.5 0 If everyone knows the norms concerning a raised voice or
+wearing bluejeans, then people can raise their voices or wear bluejeans
+without having to decide what these actions mean.</p>
+          <p>45. See Tom R. Tyler, Why People Obey the Law 45 (1990) (showing a significant
+correlation between fear of peer disapproval and compliance).</p>
+          <p>46. I do not mean to endorse this odd conception of freedom. Many unobjectionable
+things-like speed limit laws or high prices-reduce freedom, thus understood. I seek
+only to draw attention to the fact that norms can constrain behavior and choice even
+though some or many people would like them to be otherwise.</p>
+          <p>47. See Kuran, supra note 17, at 3-12.
+48. This is a theme of Elster, The Cement of Society, supra note 26.</p>
+          <p>49. Hence cross-cultural understandings are sometimes made difficult by the fact that
+social norms are different in different cultures, so that meanings have to be translated, and
+people may be unaware of that fact. Consider the example of whistling at sporting events:
+In America, whistling connotes approval; in Europe, it is a form of "booing."
+50. Cf. Holmes, supra note 22 (arguing that constitutional constraints improve
+governance).
+[Vol. 96:903?</p>
+          <p>There is a further and, for present purposes, an especially important
+point. Good social norms solve collective action problems by
+encouraging people to do useful things that they would not do without the
+relevant norms.5 1 Consider voting, littering, behaving courteously, keeping
+promises, cleaning up after one's dog, writing tenure letters, and doing
+one's share of administrative work. Without social norms, coercion or
+economic incentives-perhaps with large financial investments-would
+be required to solve collective action problems. Norms can be an
+especially cheap way of ensuring against the unfortunate consequences of
+prisoner's dilemmas.</p>
+          <p>On the other hand, social norms may be ineffective. This is so partly
+because some people like to incur the disapproval that follows
+norm-violation, and hence some people like to "flout convention" by rejecting
+prevailing norms by, for example, smoking, playing loud music in public, or
+wearing unusual clothes. Of course people who violate generally held
+social norms might be behaving consistently with particular norms in a
+relevant subculture. This is true when people in a certain group wear
+clothing of a certain kind, or when people who smoke cigarettes receive
+peer group approval simply by virtue of the fact that they are violating
+more broadly held norms. (Hence those who reject generally held norms
+may be the most committed of conformists; they are following the norms
+of a subcommunity, as when teenagers choose a form of dress that
+violates generally held norms but imposes a rigid orthodoxy on the
+subgroup.)</p>
+          <p>There are many possible reasons for rejecting prevailing norms.
+Some people depart from the prevailing norm because of their reflective
+judgments. Such people think, on reflection, that the norm is too silly or
+too unworthy to affect behavior, or that relevant roles diminish autonomy
+or well-being. Marrying someone of a different race may reflect
+thisjudg51. See Edna Ullmann-Margalit, The Emergence of Norms 18-133 (1977). For an
+important discussion of how norms produce social order, and solve collective action
+problems, in the absence of legal constraints, see Robert C. Ellickson, Order Without Law
+(1991). But norm changes need not produce Pareto improvements; there can be losers as
+well as winners even in the face of a solution to a collective action problem, as when, for
+example, some members of a small group reject a ban on littering. Moreover, there is a
+crucial question about which norms are taken as given, and which are put up for grabs, in
+the sort ofanalysis that celebrates certain norms as solving collective action problems. See
+infra Part VI.A. For an illuminating discussion of why norms might be inefficient, see Eric
+A. Posner, Law, Economics, and Inefficient Norms, 144 U. Pa. L. Rev. (forthcoming 1996).</p>
+          <p>A growing literature discusses the place of norms in ordering behavior entirely outside
+of law. See, e.g., Lisa Bernstein, Opting Out of the Legal System: Extralegal Contractual
+Relations in the Diamond Industry, 21 J. Legal Stud. 115 (1992); Robert D. Cooter,
+Structural Adjudication and the New Law Merchant: A Model of Decentralized Law, 14
+Int'l Rev. L. &amp; Econ. 215 (1994). This literature raises interesting questions about the
+extralegal development of norms and the extent to which law should build on those
+norms.
+ment; sharing domestic labor on an equal basis almost certainly does. 52
+In other cases, as discussed above, the departure simply expresses defiance,
+and the real desire is to flout convention, whatever the norm is.5 3 Many
+apparently odd practices involving dress and manners are rooted in this
+phenomenon; some people find defiance an intrinsic good, and what
+they are defying is more or less incidental.m In still other cases, the
+departure is the expression of an individual desire or taste, which the person
+would pursue whether or not it is inconsistent with social roles and
+accompanying norms. Consider the view that Coca-Cola actually is better
+than all other drinks, a view that might be reflected in unconventional
+drink selections in many imaginable places.</p>
+          <p>The fact that some people like to reject social norms is highly
+relevant to law. For example, a serious problem with legal efforts to inculcate
+social norms is that the source of the effort may be disqualifying. Such
+efforts may be futile or even counterproductive. If Nancy Reagan tells
+teenagers to "justsay no" to drugs, many teenagers may think that it is
+very good to say "yes."5 5 It is said that propaganda efforts in the former
+Soviet Union failed simply because the source of the propaganda was not
+trusted; hence the government's effort to inculcate norms of its choosing
+fell on deaf ears. 56 These points bear on the regulation of social risks-a
+principal concern of this article-particularly in the areas of teenage
+smoking and potentially dangerous sexual activity. Efforts by private or
+public authorities to stigmatize certain acts may have the opposite effect.</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="sec-4">
+      <title>4. Exit and entry.</title>
+      <p>The fact that norms are contested within a
+heterogeneous society can lead to the creation of many diverse norm
+communities. People who are dissatisfied with prevailing norms can vote with their
+feet, using the power of "exit" to leave norm communities they dislike
+and to enter into groups built on more congenial norms. They may even
+create, or seek to enter, self-consciously deviant subcommunities. Many
+American high schools reflect this phenomenon, as students find groups
+that are defined in a relatively crisp way, and as groups intermingle only
+on occasion. The most conspicuous norm communities are private; but
+in a system with state and local governments and free mobility, there are
+public norm communities too, as people sort themselves by choosing
+localities with congenial norms. The norms of such communities may be
+reflected in supportive state or local laws in which, for example,
+homosexual relations are permitted, or traditional morality is enforced. And
+once sorting has begun, processes of "voice" can increase the intensity
+and uniformity of governing norms. Homogenous local communities
+may insist on their own norms. National rights are often a safeguard
+against the possibly injurious character of this process.</p>
+      <p>To the extent that people can freely enter and exit norm
+communities, such communities offer important protection against oppressive
+norms. On the other hand, it can be very costly to exit from the norm
+community in which one finds oneself, and the fact that one has been
+raised in that community may make other options seem unthinkable,57
+even though they might be much better.58</p>
+      <p>5. Norms and nonfungible cash. - Because of prevailing social norms
+within relevant communities, money itself is not fungible.5 9 The point
+deserves separate discussion, for it has particular importance for law and
+legal policy, and it has not received the attention it deserves.</p>
+      <p>Consider, for example, the fact that money is often
+compartmentalized. 60 Some money is specially reserved for the support of children.
+Some money is for gifts. Some is for one's own special fun. Some money
+is for summer vacation. Some money is for a rainy day. Thus a study of
+practices in Orange County, California, says that residents keep
+a variety of domestic "cash stashes"-"generally one in the
+billfold of each adult, children's allowances and piggy banks, a
+'petty cash' fund in a teapot-equivalent, a dish of change for
+parking meters or laundry"-or "banked stashes of money,"
+including Christmas club savings and accounts designated for
+spe57. See Kuran, supra note 17, at 176-95 (describing "the unthinkable and the
+unthought").</p>
+      <p>58. Apparently dissident communities may be based on norms that are highly reactive
+to and even defined by reference to more generally held norms; it might be better if the
+community as a whole could do something about those norms. These points bear on the
+legitimate role of government</p>
+      <p>59. See generally Viviana A. Zelizer, The Social Meaning of Money (1994) (proposing
+differentiated model of money that recognizes certain monies as nonfungible,
+nonportable, subjective, and heterogeneous).</p>
+      <p>60. See Richard H. Thaler, Mental Accounting Matters (Dec. 1993) (unpublished
+manuscript, on file with the Columbia Law Review).
+cial expenditures such as property or other taxes, vacations, or
+home and car insurance payments. 6 '
+Social theorists have often feared that the use of money would "flatten"
+social life, by erasing qualitative distinctions among goods. Ironically,
+however, social life, pervaded as it is by social norms, has "unflattened"
+money by insisting on qualitative distinctions. 62 "There is no single,
+uniform, generalized money, but multiple monies: people earmark different
+currencies for many or perhaps all types of social interactions .... And
+people will in fact respond with anger, shock, or ridicule to the 'misuse'
+of monies for the wrong circumstances or social relations .... ,,63</p>
+      <p>The existence of norms involvng money suggests that it may not be
+possible to infer global judgments from particular consumption choices
+that are dependent on context-specific norms. Of course a wide range of
+norms ban the use of dollars as a reason for action, and sometimes law
+fortifies such norms; consider prohibitions on prostitution, vote-trading,
+and surrogate parenthood. 64 Here, however, I am concerned with norms
+that "subsidize" or "tax" certain uses of money. The point is important
+because economists often claim that particular choices demonstrate or
+reveal general valuations. 65 But this may be a mistake, because particular
+choices are a function of social norms that may be limited to the
+particular context. In a different context, the governing norms may be quite
+different. Thus, for example, the refusal to insure certain goods may be a
+product of social norms that are limited to the particular context of
+insurance. If so, it may be wrong to draw from insurance choices general
+conclusions about (say) the appropriate domain of tort law.66</p>
+      <sec id="sec-4-1">
+        <title>B. Social Roles</title>
+        <p>1. In general. - Many norms are intensely role-specific, and law is
+often self-consciously concerned with social roles. Because the subject of
+roles raises distinctive issues, I now discuss some of the relationships
+among roles, norms, and law.</p>
+        <p>Consider the following social roles: doctor, employee, waiter, law
+school dean, wife, friend, pet-owner, colleague, student. Each of these
+roles is accompanied by a remarkably complex network of appropriate
+norms. The network is not easily reduced to rules, but people know,
+it sees norms as taxes on or subsidies to choice, and hence as part of the
+array of considerations that people face in making decisions. 16 5</p>
+        <sec id="sec-4-1-1">
+          <title>V. GOVERNMENT AcTION: ON AUTONOMY AND TooLs</title>
+          <p>Sometimes it seems desirable for individuals or societies to change
+choices. Government might attempt to change, or help people to
+change, choices by changing social norms, social meanings, and social
+roles. In fact changes in norms may be the cheapest and most effective
+way to make things better, whatever are our criteria for assessing that
+matter. The relation between behavior and norms has yet to receive
+sustained attention; when we attend to that relation, we see that government
+has a policy instrument of great potential value. In this section I deal with
+some general points. I turn to more specific grounds, and more specific
+objections, in Parts VI and VII.</p>
+          <p>To be sure, private power to create norm communities may make
+government action less necessary or less desirable. Often the best step is
+to allow those communities to be formed and to see how they work out.
+But sometimes it is too costly for individuals to create or join those
+communities, and sometimes the generally held norm is too damaging to
+human well-being. These issues cannot be solved in the abstract; the
+judgment depends on the details. But it is clear that norms can create
+problems of various sorts and that collective action may be required in
+some cases.</p>
+        </sec>
+      </sec>
+      <sec id="sec-4-2">
+        <title>A. Norms and Paternalism</title>
+        <p>Common objections to "paternalism" or "meddling" are not easy to
+sustain in such contexts. Recall that people usually do not choose norms,
+meanings, and roles; all of these are (within limits) imposed. As I have
+said, it would be ludicrous to deplore norms, meanings, and roles. They
+make life possible and they much facilitate social engagement. They
+provide the context within which free interaction is possible. Nonetheless,
+some of them operate as severe limits on autonomy or well-being, and
+certainly they should not be treated as fixed or given regardless of their
+content or consequences.</p>
+        <p>Private groups can test or even change norms. Indeed, the testing of
+current norms, meanings, and roles is a crucial function of groups that
+are intermediate between citizens and the state. Religious groups are in
+this sense norm entrepreneurs; the same is true for environmental and
+civil rights organizations. But sometimes private groups are unable to
+produce desirable change on their own. This is a point missed by the
+idea that the sole basis for government action is to avoid force, fraud, and
+165. See Kuran, supra note 17; Becker, supra note 32.
+"harm to others."166 Obstacles to autonomy and to good lives can also
+come from bad roles, norms, and meanings.</p>
+        <p>Changes in norms and meanings can promote human well-being.
+Often all or most people would, on reflection, like to see a change in a
+particular norm; 167 and yet they cannot bring about the change on their
+own, because in his individual capacity, each person has limited power to
+alter meanings, norms, or roles. The case of mandatory helmets for
+hockey players is a familiar example. Hockey players may prefer not to
+wear helmets if the meaning of helmet-wearing is cowardice; but their
+preferred solution, available only through a league mandate, is a system
+in which all are required to wear helmets, and hence players wear
+helmets without signalling cowardice.' 68 Of course shifts in norms,
+meanings, and roles are pervasive. Consider, for example, changing norms
+with respect to smoking, littering, drug use, polluting, racial
+discrimination, sexual relations outside of marriage, the roles of women and men,
+and interracial relationships.</p>
+        <p>In fact it is often hard to know what people would "like" or prefer,
+because their judgments and desires are entangled with norms,
+meanings, and roles, and because once one or more of these is changed, they
+may be better off, either objectively or subjectively. If government
+changes the social meaning of smoking (see the third tale169), has it
+acted illegitimately? What if most people, or most smokers, would, on
+reflection, want smoking to have a different meaning? Or suppose that
+government tries to change an aspect of a certain social role, like that of
+unwed fathers, high school teachers, homosexuals, or workers. Surely the
+consequences of the change matter; surely it matters if the change is
+supported by (most or all) unwed fathers, high school teachers,
+homosexuals, or workers, and if members of each group face a collective action
+problem. The justification for government action is firm if all or almost
+all people support it as a means of solving a collective action problem.</p>
+      </sec>
+      <sec id="sec-4-3">
+        <title>B. Tools</title>
+        <p>Suppose that government wants to change norms, meanings, or
+roles. It has many different tools for doing so; some of these are mildly
+intrusive while others may foreclose choice. Government may restrict
+itself to education,understood as simple statements of fact designed to
+en166. See Epstein, supra note 16, at 37-49; Richard A. Posner, Sex and Reason 2-4
+(1992). I think that both Epstein and Posner give inadequate attention to the
+libertylimiting effects of norms, roles, and meanings. The classic source of the "harm to others"
+idea, Mill, offers subtle arguments on the point. See John S. Mill, The Subjection of
+Women (1869); John S. Mill, On Liberty (1859) (developing a complex discussion of
+pressures to conform).</p>
+        <p>167. Their desire to this effect is likely to be a product of norms that are being held
+constant. See infra Part VIA2.</p>
+        <p>168. See Schelling, supra note 83,tat 213-14; Lessig, supra note 24, at 967-68.
+169. See supra Part I.0.
+sure accurate beliefs. We have seen that norms, meanings, and roles can
+be a function of beliefs and that beliefs are mutable. 170 Perhaps
+prevailing beliefs are false and warrant correction. People may think that AIDS
+is a disease limited to homosexuals, that smoking does not hurt
+nonsmokers, or that there is no relation between cholesterol and heart
+disease or between diet and cancer. Changing norms with respect to
+smoking are almost certainly a result-at least in part-of information from
+the government about health risks. t7 1</p>
+        <p>Of course government may try to ensure accurate beliefs in order to
+persuade people to do something new or different. It may seek to
+increase or decrease shame; or it may not be thinking much about norms.
+But so long as government restricts itself to the provision of accurate
+information, there should be no objection to governmental efforts to
+correct false beliefs, even if the correction affects norms, meanings, and
+roles. In fact the change along this dimension may be the most
+important consequence of education, which may, for example, remove certain
+kinds of shame on the part of people who want to buckle their seat belts
+or abstain from premarital sex.</p>
+        <p>Government may also attempt to engage in persuasion,understood as
+a self-conscious effort to alter attitudes and choices rather than simply to
+offer information. 172 Consider the third tale; 173 assume that some such
+advertisement had been issued by state officials. Perhaps it would have
+been effective (though its social meaning would have been altogether
+different if issued by officials rather than by members of the private
+AfricanAmerican community). The "justsay no" policy for drugs falls in the
+category of attempted persuasion; so, too, with efforts to control AIDS by
+strongly encouraging the use of condoms or abstinence from sex. Here
+government does not restrict itself to provision of information, but
+instead uses rhetoric and vivid images to change norms, meanings, or roles,
+and in this way attempts to persuade people to choose a certain course. 174</p>
+        <p>If government is interested in persuasion, it will understand that
+"reference states" matter a great deal, and it will use this understanding to
+lead people in the right direction. People are generally loss averse, in the
+sense that they are made more unhappy by a loss of a certain amount
+than they are made happy by an equivalent gain. 175 Hence reactions to
+information turn a good deal on how the information is framed. A claim
+that breast cancer examinations will increase the number of lives saved
+(over what it would otherwise be) is far less effective than a claim that the
+failure to examine one's breast will decrease the number of lives saved
+(over what it would otherwise be). 176 Similarly, energy conservation
+programs are far more effective if they point to the dollars lost through
+failure to conserve than if they point to the dollars saved through
+conservation. 177 The difference has a great deal to do with social norms and
+social meanings and in particular with shame. If government is
+interested in changing behavior, it will take advantage of the phenomenon of
+loss aversion.</p>
+        <p>Some people think that although the provision of information can
+be justified, government should rarely or never attempt to persuade. 178
+But if norms, roles, and meanings are beyond individual control, and
+sometimes bad, this thought is hard to sustain, at least if government is
+subject to democratic controls.</p>
+        <p>Consider in this connection the problem of smoking and the lessons
+of the third tale.179 Among African-Americans between 18 and 24, the
+smoking rate has fallen from 37.1% in 1965, to 31.8% in 1979, to 20.4%
+in 1987, to 10.3% in 1992.180 Among whites in the same age group, the
+rate fell from 38.4% in 1965 to 27.8% in 1987-but it has remained more
+or less constant since that time.' 8 ' The change among African-American
+teenagers is universally described as a" 'public health success story,' "but
+one that government officials cannot explain.' 8 2 Though no one has a
+full account of this phenomenon, changing social norms appear to be
+instead of changing to a preferred alternative); see also Dubourg et al., supra note 141, at
+128 (discussing overwhelming importance of the "reference state" in determining
+reactions to changes in risks).</p>
+        <p>175. See Daniel Kahneman et al., Experimental Tests of the Endowment Effect and
+the Coase Theorem, in Quasi Rational Economics, supra note 88, at 167, 182-86.</p>
+        <p>176. See Beth E. Meyerowitz &amp; Shelly Chaiken, The Effect of Message Framing on
+Breast Self-Examination Attitudes, Intentions, and Behavior, 52 J. Personality &amp; Soc.
+Psychol. 500, 506-09 (1987).</p>
+        <p>177. See Marti H. Gonzales et al., Using Social Cognition and Persuasion to Promote
+Energy Conservation: A Quasi-Experiment, 18J. Applied Soc. Psychol. 1049, 1062 (1988).
+178. See Viscusi, supra note 65, at 149-59.
+179. See supra Part I.C.
+180. See U.S. Department of Commerce, supra note 8, at 144.
+181. See id.</p>
+        <p>182. Donald Bradley, Few Black Teens Smoke, But Why?, Kan. City Star, Aug. 12,
+1995, atAl (quoting Michael Eriksen, Director of the Office on Smoking and Health at the
+Centers for Disease Control and Prevention).
+playing a substantial role. 183 Smoking does not have the same cachet in
+the African-American community that it has among whites. If
+government could bring about a general change in social norms-through, for
+example, attempts at persuasion-it is hardly clear that there would be a
+good objection to its behavior. Consider related findings about the close
+relation between norms and alcohol abuse.'8</p>
+        <p>Government also might use economic instruments to tax or subsidize
+choices. Of course education is assisted publicly, as are day care,
+museums, and public broadcasting (at least as of this writing). Alcoholic
+drinks, tobacco products, generation of waste, and some polluting
+activities are met with taxes (although some of these are subsidized too). We
+can understand some economic incentives as efforts in part to counteract
+social meanings, social norms, or social roles with financial benefits or
+penalties designed to produce a good "equilibrium." A social meaning
+that is perceived to be bad might be "matched" with a financial
+disincentive. Some such incentives may amount to efforts to change social norms
+or social meanings. If a good becomes more expensive, the social
+meaning of choosing it may change. Cigarette smoking, for example, may
+become less popular if most people cannot afford to smoke. Of course it is
+hard to predict the effects of changes in price on norms.</p>
+        <p>Government also might impose time, place, and manner restrictions. It
+might ban smoking in public places. It might say that television shows
+containing violence may be shown only in certain time slots. It might
+require government itself to choose low-polluting motor vehicles. It
+might ban affirmative action in the public sector but allow it in the
+private sector. Strategies of this kind might affect the social meaning of the
+183. See id. at A19. It might be speculated that there has been a shift from cigarettes
+to some other harmful substance, such as illicit drugs. But it is notable that
+AfricanAmericans have lower lifetime rates of reported use of illicit drugs (especially cocaine)
+than whites. The 1990 National Household Survey on Drug Abuse finds that 40 to 50
+percent fewer African-Americans than whites under age 35 report any lifetime use of
+cocaine. (About 20% more African-Americans than whites over age 35 report lifetime
+cocaine experience.) For use in the last year, African-Americans between 12 and 17 report
+the lowest rates of use of cocane-1.7% compared to 2.3% for whites. African-Americans
+in the 12 to 17 age group consistently posted lower prevalence rates than whites for
+lifetime, past year, and past month use. (Surveys in 1985, 1988 and 1990.) All of these
+data suggest that young African-Americans use illicit drugs at a lower rate than do young
+white people. These data do not address directly the substitution of cocaine for cigarettes.
+But it appears that while African-Americans between 12 and 17 use cocaine at lower rates
+than whites (according to 1985, 1988, and 1990 surveys), rates for both groups have
+decreased from 1985 to 1990. The white rate has decreased from 4.2% to 2.3% and the
+African-American rate has gone from 2.4% to 1.7%. Thus it seems that the public health
+success story regarding African-American teenagers and cigarette smoking also extends to
+cocaine use. And there may be another public health success story to be told with respect
+to cocaine use among white teenagers. All data is from Denise B. Kandel, The Social
+Demography of Drug Use, 69 Milbank Q. 365, 395-99 (1991). I am grateful to Tracy
+Meares for help on this point.</p>
+        <p>184. See William J. Sonenstuhl, The Transformation of an</p>
+        <p>Working Sober
+Occupational Drinking Culture (forthcoming 1996).
+relevant activity very generally. But they do not foreclose choice entirely;
+they channel it instead. Of course in cases of this sort, government is
+directly affecting behavior. What I am suggesting is that it may be seeking
+as well to affect social norms and social meanings by affecting the
+wellsprings of shame and pride. The social meaning of smoking is, for
+example, affected by virtue of the existence of time, place, and manner
+restrictions, even in places lacking those restrictions.</p>
+        <p>The most intrusive kind of government action is of course
+straightforward coercion. Thus government might prohibit the use of certain drugs;
+require everyone to recycle or buckle their seat belts; or make education
+mandatory for people under a certain age.</p>
+      </sec>
+      <sec id="sec-4-4">
+        <title>C. Levels and Institutions</title>
+        <p>A polity concerned to change norms could proceed through
+different levels and with different institutional arrangements. Should it
+encourage private behavior through creative public-private partnerships?
+Should it, for example, fund private groups that are engaged in
+discouraging teenage pregnancy, drug use, and promiscuity? There is also a
+question about whether national action or local action is better. Norm
+management could occur in towns; it could happen at the state level; it
+could be a self-conscious effort of the national government.</p>
+        <p>The question about appropriate levels of government is hard to
+answer in the abstract. Much depends on the details. But two notations
+may be appropriate. First, public-private partnerships are often the most
+fruitful of all possible approaches. Purely governmental efforts at norm
+management may fail for lack of trust; imagine, for example, if the
+national government had engaged in the anti-smoking campaign that was
+apparently so successful among African-American teenagers. Often a
+government concerned with bad norms does best by working with charitable
+and religious organizations which can have a high level of competence,
+experience, and trust.</p>
+        <p>Second, it is probably best to have a presumption in favor of the
+lowest possible level of government.'8 5 The lowest level is closest to the
+people, and in that sense most responsive to it, and most likely to be
+trusted by it. The risk of futility or positive harm is accordingly
+diminished. Of course there are familiar counterarguments, and sometimes
+national efforts at norm management are welljustified. But a nation that
+is concerned about existing norms should exploit the possibilities that
+exist in a system committed to federalism.</p>
+        <p>185. See Michael W. McConnell, Federalism: Evaluating the Founders' Design, 54 U.
+Chi. L Rev. 1484, 1491-1511 (1987) (reviewing Raoul Berger, Federalism: The Founders'
+Design (1987)); Andrzej Rapaczynski, From Sovereignty to Process: TheJurisprudence of
+Federalism after Garcia, 1985 Sup. Ct. Rev. 841, 400, 402-03, 407-08; Charles M. Tiebout,
+A Pure Theory of Local Expenditures, 64J. Pol. Econ. 416 (1956).</p>
+        <sec id="sec-4-4-1">
+          <title>VI. GovERNmENT ACTION: FIVE GROUNDS</title>
+          <p>In this section I discuss several grounds for governmental efforts to
+change norms, meanings, and roles. The unifying theme is the expressive
+function oflaw-a term that I use to identify the function of law in
+expressing social values and in encouraging social norms to move in particular
+directions.18 6</p>
+          <p>My discussion will not by any means exhaust law's expressive uses,' 8 7
+and I do not discuss any of these grounds in much detail. I offer instead
+a brief sketch of some possibilities. An account of legitimate grounds for
+changes in norms will overlap a great deal with-and may even be
+reducible to-an account of the legitimate bases for governmental action. My
+purpose here is hardly to offer such an account, but instead to see how
+some fairly standard ideas might be brought to bear on the particular
+subjects under discussion. In none of these cases do I urge that social
+norms should be free from scrutiny on the merits by individual citizens.
+Government ought not to inculcate norms that cannot be supported and
+evaluated publicly, and on the basis of reasons. Like rules, norms will
+typically have a degree of crudeness and rigidity, and it is entirely
+appropriate for citizens to conclude that there are contexts in which even good
+norms make no sense if they are mandated.' 8 8</p>
+          <p>Nor do I urge that the mere fact that behavior is a function of norms
+provides some warrant for governmental action. To defend
+governmental action, some claim has to be offered about how such action will make
+things better. A reference to norms helps undermine the view that
+government should restrict itself to the satisfaction of "preferences." We
+have seen that this term is highly ambiguous and that norms can often
+undermine human well-being. But to defend a change, the idea of
+wellbeing has to be specified, and it has to be shown that the change would
+improve matters under the relevant criteria.</p>
+          <p>To introduce the analysis, we might make a few initial distinctions.
+1. In some cases, all or almost all people will support an effort to
+change a norm, a meaning, or a role. In the case of hockey helmets, for
+186. For more discussion, see Sunstein, supra note 64.</p>
+          <p>187. In particular there is an intriguing set of laws designed to fortify norms
+regulating the use of money as a reason for action. See id.</p>
+          <p>188. There is a currently prominent and controversial example: governmental efforts
+to stigmatize unwed parenthood. At first glance, it seems legitimate for public and private
+institutions to try to inculcate norms that make people feel ashamed if they produce
+children who will have horrible life prospects. For this reason, efforts to inculcate norms
+against unwed parenthood-in cases in which the children who result will have miserable
+lives-are fully supportable. But there are several questions that might be raised about this
+conclusion: (a) In some cases, unwed parents will not have done anything wrong, and
+hence they are entitled not to feel ashamed; (b) The fact that the children will have
+miserable lives may be a result of a background of social injustice; (c) Shame is heavy
+medicine, and some people might think that government should feel free to inculcate
+norms but not the particular norm of shame in this setting. These are merely questions
+about the project of shame inculcation in this context; they do not purport to be answers.
+example, there may be near-unanimous agreement that things would be
+better if the meaning of helmet-wearing were not cowardice. In the case
+of cleaning up after one's dog, almost everyone may agree that things
+would be better if there was a norm in favor of cleaning up. Of course
+any such agreement may depend on norms that should themselves be
+brought into question. 189 We might say that the agreement can be
+"impeached" by showing that people do not, on reflection, endorse the
+norms that produce agreement, or that there are problems with those
+norms.</p>
+          <p>2. In some cases, all or almost all people will agree that behavior is a
+function not of intrinsic value, and not of effects on people's
+(well-considered) judgments about their self-conception, but instead a function of
+the reputational consequences of choice; and they will agree too that it
+would be better if the reputational consequences were different. All or
+almost all people might agree, for example, that use of drugs in a certain
+community stems from the reputational benefits of using drugs and the
+reputational costs of refusing to do so. They also might agree that things
+would be better if using drugs produced reputational harm rather than
+benefit; they might act accordingly via law (with education, attempted
+persuasion, economic incentives, or coercion). In this kind of case, there
+is also a possibility of "impeachment" of the agreement along lines
+suggested above.</p>
+          <p>3. In some cases, existing norms may be part and parcel of a caste
+system. They may turn a morally irrelevant characteristic-race and
+gender are the most obvious examples-into a signalling device with respect
+to social role and associated norms. If a caste system is unjust, it is
+appropriate to alter norms, roles, and meanings that perpetuate it.</p>
+          <p>4. In some cases, existing norms undermine people's well-being or
+autonomy, by discouraging them from being exposed to diverse
+conceptions of the good and from giving critical scrutiny to their own
+conceptions, in such a way as to make it impossible for them to be, in any sense,
+masters of the narratives of their own lives.190</p>
+          <p>These are brief notations on some highly controversial subjects.
+Needless to say, I cannot attempt here to defend an account of the
+appropriate role of the state; my purpose is more modestly to connect the
+project of norm management with some familiar ideas about what the state
+legitimately does. Notably, there are cases in which it is unnecessary to
+choose among two or more of the general grounds for government
+action; people with varying theoretical commitments might believe that a
+particular action makes sense. Hence political participants might achieve
+189. See infra Part VIA.</p>
+          <p>190. On this conception of autonomy, see Raz, supra note 22, at 400-29. This idea is
+very controversial as a foundational norm. See, e.g., John Rawls, Political Liberalism
+134-35 (1994). But political liberals might well favor an effort to ensure against norms
+that prevent people from being or acquiring the capacities to be free and equal citizens.
+See id. at 174-76.
+an incompletely theorized agreemet on a particular outcome-an agreement
+on what steps make best sense, unaccompanied by a shared
+understanding of why, exactly, they make the best sense. 1 91 Those interested in
+possible changes in norms would do well to take advantage of such
+agreements.</p>
+          <p>A. Some Unusual Collective Action Problems</p>
+          <p>1. Standard accounts. - In a now-standard account, offered by many
+economists, lawyers, and political scientists,' 9 2 social practices would be
+inefficient were it not for certain social norms; such norms solve
+collective action problems. They do the work of law.193 They may provide
+conventions on which everyone voluntarily settles; table manners are
+examples. Or they may solve prisoner's dilemmas through social sanctions
+imposed on deviants; this is true of the idea that people should clean up
+after their dogs. And the absence of such norms makes some existing
+practices highly inefficient.</p>
+          <p>Let us begin here with the simple and conventional case of littering,
+captured in the second tale.' 94 Under ordinary assumptions, each
+person may well litter-if the costs of throwing things in the garbage are
+wholly internalized, whereas the benefits of doing so are spread across a
+wide range of people. In the standard account, "rational" individuals,
+acting in their "self-interest," will produce a great deal of litter, perhaps
+so much that legal regulation ultimately is required. This idea helps
+explain legal responses to environmental degradation, as in the cases of
+mandatory recycling, taxes on or fees for polluting activity, and command
+and control regulation.</p>
+          <p>2. Puzzles. - It is illuminating to see things this way, but many
+questions might be raised by the standard account. The relevant changes do
+not bring about Pareto improvements, which occur only when everyone
+gains or at least some gain and no one loses. But in the cases at hand,
+some people are losers; in fact many people may be losers. With a
+mandatory seat belt law, for example, there will be people who dislike
+wearing seat belts and resent the coercion, no matter the number of
+people who wear them. Their objection has nothing to do with the social
+meaning of wearing belts; it involves the intrinsic inconvenience of doing
+SO.</p>
+          <p>We should, in this light, distinguish the very simplest cases-in which
+all or nearly all people favor a change in norms-from cases in which
+191. See Cass R. Sunstein, Incompletely Theorized Agreements, 108 Harv. L. Rev.
+1733, 1735-36 (1995); Cass R. Sunstein, Legal Reasoning and Political Conflict ch. 2
+(1996) [hereinafter Sunstein, Legal Reasoning].</p>
+          <p>192. See, e.g., Ellickson, supra note 51, at 123-36; Ullmann-Margalit, supra note 51, at
+18-133.</p>
+          <p>193. See Ellickson, supra note 51, at 123; Elster, The Cement of Society, supra note
+26, at 125-40; Ullmann-Margalit, supra note 51, at 89-93.</p>
+          <p>194. See supra Part I.B.
+there are bare majorities in favor of such a change. If everyone would
+favor a situation in which people pick up after their dogs, but this result
+cannot be brought about without government action, the case is easy:
+Government action should be initiated. But if 65% of people would favor
+the change, and 35% like the status quo, we have a harder case. Perhaps
+the change would be favored under the Kaldor-Hicks criterion; but that
+criterion is highly controversial. 19 5 To decide whether government
+action is appropriate, it is thus necessary to take a stand on a large question
+in political theory; the fact that norm-change is involved means that the
+setting is unusual, but the basic analysis is not.196</p>
+          <p>Even more fundamentally, the words "rational" and "self-interest"
+obscure a great deal, since they take so much for granted. At first glance it
+appears that there is no sharp dichotomy between rationality and social
+norms or between self-interest and social norms; taking the words in their
+ordinary sense, what is rational and what is in an agent's self-interest are
+functions of social norms. 19 7 Return to our second story1 9 8 and suppose
+that there is a social norm that everyone should pick up litter. 19 9 If the
+norm is in place, people who act in their rational self-interest will not
+litter. In the second tale, were the non-litterers or members of the
+control group acting in their rational self-interest? What is rational, and what
+promotes self-interest, depends on many exogenous factors, including
+existing norms. 200</p>
+          <p>There is a further point,20 1 and it raises serious difficulties for the
+traditional account of the relationship between norms and collective
+ac. 195. See Richard A. Posner, The Economics of Justice 91-92 (1981); cf. Ronald
+Dworkin, Is Wealth a Value?, in A Matter of Principle 237 (1985) (criticizing using "social
+wealth" maximization as a basis for social action).</p>
+          <p>196. To know whether government action is appropriate, we also need to ask whether
+government is pursuing legitimate ends and also whether the action is likely to be effective.
+See infra Part VII.</p>
+          <p>197. See the qualification in supra pp. 946-47. Of course nothing I have said is
+inconsistent with the view that we should adopt a tractable definition of rationality for
+positive purposes and see how that definition helps in predicting behavior. What might be
+adapted to this kind of approach is an understanding that the incentives created by norms
+will play a role in an individual's judgment about what is the rational thing to do.
+198. See supra Part I.B.</p>
+          <p>199. Cf. Carol M. Rose, Introduction: Approaching Property, in Property and
+Persuasion: Essays on the History, Theory, and Rhetoric of Ownership 1, 2-3 (1994)
+(discussing role of norms in providing environmental protection).</p>
+          <p>200. For an interesting qualification, see Holmes, supra note 22, at 42-68.
+Selfinterest might be self-consciously defined in narrowly economic terms, in which case it is
+not formal but, on the contrary, has a point-the defeat of sometimes corrosive social
+norms such as honor, which can in some circumstances cause people to fight. Hence
+Holmes argues that the early liberal enthusiasm for self-interest was designed not to
+disparage altruism but instead to call attention to the fact that if people are pursuing
+economic goals in a self-interested way, they may not do the sorts of mischief associated
+with fanatics and dogmatists of various stripes. See id. at 53-62.</p>
+          <p>201. I am grateful to Ronald Dworkin for raising this problem.
+tion problems. 20 2 The difficulty is that any collective action problem can
+be characterized as such only because of a wide range of norms, and not
+only because of the particular norm that is said to be producing the
+problem. The traditional account focuses on one norm, but the problem is a
+product of a wide range of them.</p>
+          <p>Suppose, for example, that there is no norm against littering; that
+people think that there is too much litter; and that they would like to
+create a new, anti-littering norm. Would it be right to say that this is a
+case involving a collective action problem that would be served best with
+the aid of a new social norm, that is, a norm against littering? The
+statement would not be false, but it would be misleading and incomplete.
+What gives rise to the collective action problem is an array of individual
+judgments and desires that are themselves (in all likelihood) a function
+of social norms. There are, for example, norms against clutter, norms
+involving certain conceptions of aesthetics, norms about public spaces. If
+people "want" a new norm-the norm against littering-their desire
+probably stems from many other norms, such as norms favoring clean
+rather than dirty parks, norms in favor of shared rather than
+maldistributed burdens, norms in favor of solutions through norms rather than
+coercion or fines.</p>
+          <p>When a situation is supposed to create a prisoner's dilemma that
+would be satisfied by some norm Z, the situation presupposes a range of
+norms A through Y which are being held constant and not being put in
+contention. Then the question becomes: Why is it that norm Z (say, the
+norm with respect to littering) is put into question, rather than some
+other norm (say, the norm favoring clean parks)? Why should a norm be
+established in favor of cleaning up after one's dog, instead of changing
+the norm producing unwillingness to be exposed to the relevant mess?
+This question has yet to be addressed in existing work on collective action
+and social norms. And the question has a powerful Coasian
+dimension.203 The traditional account takes a set of norms as given, without
+tsieceuilnagr tnhoartmthethyatthehmassebleveens mpiugthitnbtoe aqluteesretido,nr.2a0th4er than altering the
+par</p>
+          <p>Several answers might be offered. On the Coasian view, we might ask
+which norms can be changed most cheaply. Just as one person in a legal
+controversy might be the cheapest cost avoider, so one norm in a
+collective action problem might be the cheapest target of norm management.
+202. See Ellickson, supra note 51, at 149.
+203. See R.H. Coase, The Problem of Social Cost, 3J.L. &amp; Econ. 1, 42-43 (1960).
+204. Hence the traditional view is, roughly speaking, Pigouvian. In describing
+pollution as a problem of externalities, Pigou did not see that the pollution problem is a
+function notjust of the polluter's most recent act, but also of something that is being taken
+for granted, that is the numerous acts and omissions of both polluters and pollutees. See
+id. at 34. In seeing a certain norm Z as creating or solving collective action problems, the
+traditional view does not see that norms A through Y are also important sources of the
+problems. Perhaps norm A, B or C might be altered more cheaply than norm Z could be.
+It is plausible, for example, to think that it is much more efficient to
+create a norm in favor of cleaning up than to create a norm making
+people approve of clutter and mess. On this view, we would not inquire into
+the merits or basis of existing norms, but ask more simply which norms
+can be altered at the lowest cost. I speculate that an implicitjudgment of
+this kind lies behind the traditional approach to this problem.</p>
+          <p>Alternatively, and departing from economic criteria, we might put at
+issue those norms that are not part of the relevant agents's own deepest
+convictions and self-understandings. Typically the norms thought to
+solve collective action problems seem to be a form of "tinkering,"
+encouraging conduct that preserves what people believe most deeply, have
+thought through, or most take for granted. Finally, we might not look to
+agents's convictions but venture instead an objective account of human
+needs and human interests. On this view, we should create a norm
+against littering, rather than a norm in favor of clutter and mess, because
+lives are objectively better with the first norm than with the second. On
+such an approach, a collective action problem exists because if
+reasonable agents could agree on the norm in question, things would be better
+rather than worse. It is not clear, however, that this way of seeing things
+can coexist with ordinary understandings of collective action problems,
+which are rooted in subjective desires. A possible conclusion of what I
+have said thus far is that in the context of norms, the ordinary
+understandings face a serious conceptual problem.</p>
+          <p>3. Legal responses. - A well-functioning society needs many norms
+that make it rational for people, acting in their self-interest, to avoid
+collective action problems. When such problems exist, it is because of the
+social norms that make rational self-interest take a certain form-in
+favor, for example, of refusing to clean up or otherwise failing to
+contribute to shared projects. 2 05 If we draw back from the puzzles just discussed,
+we can make a simple point for simple cases: A large task for society and'
+for law is to try to inculcate the relevant norms. Effective responses
+promote efficiency 20 6 and simultaneously enhance a form of freedom by
+producing outcomes that citizens reflectively judge best but cannot obtain on
+their own.</p>
+          <p>Much legal regulation has this goal. Such regulation might even
+consist of direct coercion, designed to generate good norms or to pick up
+the slack in their absence. There are laws designed to ensure that
+everyone picks up after their dog; that people do not litter; that people do not
+smoke in certain places. These laws are rarely if ever enforced through
+criminal prosecutions. But they have an effect in shaping social norms
+and social meanings. They do this in large part because there is a general
+205. Of course it may be possible to create property rights as a way of diminishing or
+eliminating the collective action problem. See Terry L. Anderson &amp;Donald R. Leal, Free
+Market Environmentalism 3 (1991).</p>
+          <p>206. The complications from the immediately preceding discussion should be kept in
+mind.
+norm in favor of obeying the law. The relevant laws help to inculcate
+both shame and pride; they help define the appropriate sources of these
+things. (Of course people have to be brought up to have a sense of
+shame, and to have a certain understanding of what sorts of things call
+for shame, notably including certain paradigm cases from which
+analogies appear. 20 7 ) They readjust the personal calculation, making what is
+rational, and what is in one's self-interest, different from what they were
+before.</p>
+          <p>The key point is that such a change may be supported by the
+reflective judgments of all or most people. When it is, there should be no
+objection in principle.208 The point very much bears on the
+phenomenon of norm bandwagons. People may actually reject existing norms but
+fail to state their opposition publicly, and once public opposition
+becomes less costly, new norms may rapidly come into place.</p>
+        </sec>
+      </sec>
+      <sec id="sec-4-5">
+        <title>B. Citizens and Consumers</title>
+        <p>John Jones, the protagonist of the fifth tale,20 9 is in one way quite
+usual: There is an evident and pervasive difference between people's
+choices as consumers and their choices as citizens. This is because
+people are choosing quite different things.2 1 0 In their private capacity,
+people may watch silly situation comedies; but they may also support, as
+citizens, the use of government resources to assist public broadcasting.
+Some people seek stringent laws protecting the environment or
+endangered species even though they do not use the public parks or derive
+material benefits from protection of endangered species-and even
+though in their private behavior, they are unwilling to do much to
+protect environmental amenities. The mere existence of certain
+environmental goods seems to be highly valued by political participants, even if
+they are not willing to back up the valuation with dollars in private
+markets. Of course many people give to organizations that support
+environmental protection. But what people favor as political participants can be
+different from what they favor as consumers. It is in part for this reason
+that democratic outcomes are distinct from those that emerge from
+markets.2 1 '</p>
+        <p>In fact a good deal of empirical work shows that people's judgments
+about politics are not a product of their self-interest, narrowly
+under207. See Churchland, supra note 128, at 272-78 (describing role of paradigm cases in
+mental functioning); Charles E. Larmore, Patterns of Moral Complexity 1-5 (1987)
+(discussing moral examples). Creativity in politics and law usually consists of assimilating
+new cases to the paradigm ones. See Sunstein, Legal Reasoning, supra note 191, at ch. 3.</p>
+        <p>208. Some cases can be imagined in which the response would be invasive of rights
+and therefore, by hypothesis, unacceptable. See infra Part VII.</p>
+        <p>209. See supra Part I.E.
+210. See Sen, supra note 78, at 26-31, 34.</p>
+        <p>211. Of course there are other reasons, including the free-rider problem, since
+citizens may support laws for whose costs other people are responsible.
+stood. People without health care are not more likely to support laws
+creating a right to health care; people recently victimized by crime are
+not more likely to support aggressive policies against crime. Norms and
+values are instead the principal determinant of political judgment.2 12</p>
+        <p>The disjunction between political and consumption choices presents
+a puzzle. Would it make sense to say that consumer behavior is a better
+or more realistic reflection of "actual" preferences than is political
+behavior?2 18 In light of the fact that choices depend on context, and do not
+exist in the abstract, the very notion of a "better reflection" of "actual"
+preferences is a confusing one; there is no such thing as an "actual" (in
+the sense of unitary or acontextual) preference in these settings. The
+difference might be explained by the fact that political behavior reflects
+judgments made for a collectivity.2 14 For this reason it reflects a variety of
+social norms that are distinctive to the context of politics.</p>
+        <p>Because of the governing norms, citizens may seek to implement
+individual and collective aspirations in political behavior but not in private
+consumption. 215 As citizens, people may seek the aid of the law to bring
+about a social state that they consider to be higher than what emerges
+from market ordering. People may, in their capacity as political actors,
+attempt to promote altruistic or other-regarding goals, which diverge
+from the self-interested preferences sometimes characteristic of markets.
+Political decisions might also vindicate metapreferences or second-order
+preferences. People have wishes about their wishes, and sometimes they
+try to vindicate those second-order wishes, including considered
+judgments about what is best, through law. And norms with respect to public
+discussion may impose "taxes" on public statements of various
+sorts-perhaps requiring them to be "laundered,"21 6 perhaps inducing conformity
+by punishing certain dissident views that might be reflected in other
+spheres.</p>
+        <p>In all of these ways, the norms at work in democratic arenas can
+produce different choices from those produced by markets. It would be
+wrong to say that the market choices are more "real" or "true." The
+question of which choices should govern for purposes of law and policy
+depends on a range of contextual issues that cannot be resolved by
+refer212. See Dennis Chong, Values, Norms, and Interests in the Explanation of Social
+Conflict, 144 U. Pa. L. Rev. (forthcoming 1996); David 0. Sears &amp; Carolyn L. Funk,
+SelfInterest in Americans' Political Opinions, in Beyond Self-Interest 147, 150-64, 168-70
+(JaneJ. Mansbridge ed., 1990).</p>
+        <p>213. As suggested in Viscusi, supra note 65, at 4-5.
+214. See Sen, supra note 78, at 29.</p>
+        <p>215. This is a possibility and only a contingent one. We could imagine a society in
+which people were self-interested in political behavior but aspirational in markets or at
+least civil society. What I am discussing here is a function of prevailing norms.</p>
+        <p>216. See Robert E. Goodin, Laundering Preferences, in Foundations ofSocial Choice
+Theory 75, 86-91 (Jon Ester &amp; Aanund Hylland eds., 1986). By "laundering" Goodin
+means a form of cleaning, whereby preferences, expressed in public, are stated in terms
+that avoid what speakers consider illegitimate or invidious. See id. at 75-76.
+ence to notions of "choice" and "preference" alone. Of course some
+collective judgments might be wrong, productive of inefficiency, invasive
+of rights, or confused. I take up this point below.</p>
+      </sec>
+      <sec id="sec-4-6">
+        <title>C. Risk, Autonomy, and Well-Being</title>
+        <p>Thus far I have tried to avoid the most controversial questions and to
+build from common understandings. Let us venture now into more
+complicated territory, connected with the ideas of well-being and autonomy.</p>
+        <p>Outside of the domain of autonomy, we might think that there are
+obstacles to well-being in norms that encourage people to take high risks
+simply because the failure to do so signals-in light of those
+normscowardice or worse. Suppose that people engage in certain behavior not
+because of its intrinsic value but because of the reputational cost of
+failing to do so. We are dealing, then, with classes of cases in which the
+danger accompanying choice means that intrinsic utility is not high but
+risk-taking behavior persists because of social norms. Suppose too that
+people dislike the norms that generate that reputational cost, or that on
+reflection, people would dislike those norms. If so, norms that
+encourage people to carry guns, use dangerous drugs, drive well over the
+speed limit, engage in unsafe sex, and so forth may properly be an object
+of governmental attack, because of their potentially pernicious effects on
+people's lives. Information and persuasion are probably the best tools for
+government to use. But in some cases economic incentives or coercion
+may be justified.</p>
+        <p>Of course a liberal society might also want to ensure that all of its
+citizens are autonomous. 21 7 For the moment let us understand that
+notion in a way that leaves open many questions but that will be helpful for
+our limited purposes here. A citizen can be understood as autonomous
+insofar as she is able to choose among a set of reasonably good options
+and to be reflective and deliberative about her choice.218 A society can
+be understood as self-governing, and as politically autonomous, to the
+extent that its citizens face a range of reasonably good options and
+exercise capacities of reflection and deliberation about their choice.</p>
+        <p>It should be clear that social norms, meanings, and roles may
+undermine individual autonomy. Above all this is because norms can
+compromise autonomy itself, by stigmatizing it. People may believe, on
+reflection, that the act of being well-educated should not be a source of shame;
+but in some communities, a good deal of education may be inconsistent
+with prevailing social norms.21 9 Or exposure to diverse options, and
+re217. A form of liberal perfectionism is defended in Raz, supra note 22, at 369-429.
+218. Cf. Anderson, supra note 23, at 141-43 (discussing autonomy and market
+choice).</p>
+        <p>219. This isvery much true with respect to employment for women. See, e.g., Martha
+Chen, A Matter of Survival: Women's Right to Employment in India and Bangladesh, in
+Women, Culture, and Development: A Study ofHuman Capabilities 37, 37-50 (Martha C.
+Nussbaum &amp;Jonathan Glover eds., 1995).
+flection about which is best, may seem inconsistent with existing norms.
+In such cases autonomy cannot easily220 exist without collective
+assistance; people are able to produce the norms, meanings, and roles that
+they reflectively endorse only with governmental involvement.
+Something must be done collectively if the situation is to be changed.</p>
+        <p>To promote autonomy, a society might seek to ensure that everyone
+has a minimal degree of education, a certain level of exposure to diverse
+conceptions of the good, and what might be considered the material
+bases of autonomy: food, shelter, and freedom from criminal violence. 22 1
+In modest forms this project is fully compatible with political liberalism;
+perfectionist liberals might insist on a good deal in this vein in order to
+allow people to be (more or less) masters of the narratives of their own
+lives. 222 In either case, social norms can undermine the liberal project,
+and government might try to alter them in order to promote autonomy.
+People may have adopted prevailing norms rationally in view of limits in
+existing opportunities, as when norms discourage schooling for people
+whose prospects are poor;2 23 but such norms are nonetheless an obstacle
+to autonomy.</p>
+        <p>A government that seeks to promote autonomy might well work
+against efforts by subcommunities to require conformity to a single
+defining creed. In fact conflicts between antidiscrimination principles and
+religious liberty have everything to do with perceived limits on
+governmental ability to change norms, meanings, and roles in subgroups that
+deny autonomy. These conflicts are generally resolved in favor of the
+latter, especially in the area of sex equality. But if we attend to the
+autonomy-denying effects of norms and meanings, it might well make sense to
+resolve the conflicts against subgroups, even religious ones.</p>
+      </sec>
+      <sec id="sec-4-7">
+        <title>D. Caste</title>
+        <p>Social norms, social meanings, and social roles bear very much on
+problems of discrimination. For someone who is African-American,
+female, or handicapped, existing meanings are possible obstacles to
+autonomy or well-being. The social meaning of being female, for example,
+may bear on a range of choices at home and in the workforce. So, too,
+for the social meaning of particular choices by women, which may
+diverge sharply from similar choices from men: not to have children, to
+220. Of course some people may be able to defy existing norms against autonomy.
+221. See Raz, supra note 22, at 407-08.
+222. See id. at 408.</p>
+        <p>223. Cf. Elster, supra note 101, at 109-40 (describing adaptive preferences); Sen,
+Commodities and Capabilities, supra note 130, at 81-83 (in India, the "perceptionof relative
+needs ofdifferent members of the family may be closely related to social influences"). Just
+as preferences can be adaptive to an unjust status quo, so can norms and meanings be a
+predictable outgrowth of limited autonomy or heteronomy.
+work as an airline pilot, to hate cooking, to dress in a certain way.224 We
+have seen that a status is a particular kind of role; statuses are imposed
+rather than chosen. Thus statuses are an occasional target of law. In
+particular, law might attempt to overcome a collective action problem faced
+by victims of discrimination in changing prevailing norms, meanings, and
+roles.</p>
+        <p>In American law, problems of discrimination typically raise issues of
+caste. We might say that we have a system with caste-like features when a
+highly visible and morally irrelevant factor is turned, by social and legal
+practices, into a systematic source of societal disadvantage.2 25 An
+important and disastrous feature of this situation is the signallingeffect of the
+characteristic that is shared by lower caste members. That characteristic
+promotes a certain social role for caste members, since it is associated
+with a range of undesirable or otherwise stigmatizing traits. Often an
+attack on a caste system amounts to an attack on that social role and its
+associated social norms-especially as a result of behavioral norms
+shared, or thought to be shared, by members of the lower caste.2 26 For
+lower caste members, the problem is that the shared characteristic carries
+with it a meaning-stupidity, passivity, venality-that cannot be
+controlled by individual agents.</p>
+        <p>Laws forbidding discrimination might well have, as one of their
+purposes and effects, a change in the signalling effect of the relevant
+characteristic. They might be designed to encourage people to be
+self-conscious about registering the preexisting signal.</p>
+        <p>Suppose, for example, that it was thought important to alter social
+norms about gender relations. The social role of "being a woman" is
+associated with a wide range of social norms and social meanings. There are
+many examples from the present and recent past. Thus it may be that
+women do the majority of domestic labor. In these circumstances, a man
+who does most of the domestic labor might seem odd, or in some way
+woman-ish, and a woman who asks for something like equality in
+domestic labor might seem odd, selfish, or in some way man-ish. 227 Or a woman
+in her fifties might be seen as fundamentally different from a man in his
+fifties, because of social norms associated with gender. Or a single
+woman might be stigmatized, or inquired about, in ways fundamentally
+different from what happens to a similarly situated man. Or a woman who
+224. For what might be seen as an argument in favor of changing the social meaning
+of biological characteristics, see Case, supra note 71, at 9-36.</p>
+        <p>225. See Cass R. Sunstein, The Partial Constitution 338-46 (1993); Cass R. Sunstein,
+The Anticaste Principle, 92 Mich. L. Rev. 2410, 2428-33 (1994).</p>
+        <p>226. Note in this regard Richard Wright's suggestion that unlike most blacks in the
+south, he would "act straight and human." See Richard Wright, Black Boy: A Record of
+Childhood and Youth 162 (1937). Wright says that most blacks, even those who felt great
+resentment, pretended to accept their inferior position. See id. at 160-62.</p>
+        <p>227. Cf. Zelizer, supra note 59, at 36-70 (discussing "dole" and "allowance" in context
+of use of domestic money by women).
+complains about apparently mild forms of sexual harassment might seem
+to be a radical, "atroublemaker, or someone without a sense of humor.</p>
+        <p>For lower caste members, a wide range of "choices" might emerge
+from the underlying social norms. These choices might reflect
+adaptation by lower caste members to existing injustice; they might be a product
+of the social opprobrium attached to violation of social norms by lower
+caste members.228 The choices might even be called "preferences";229
+certainly desires can be affected. But many women believe on reflection
+that the social meaning of being a woman is bad for them and that it
+should be changed. These women face a collective action problem that
+may be solved best via law.23 0 In any case a caste system tends to deny
+autonomy to lower caste members. Thus we have a particular reason for
+legal intervention: to overcome the obstacles to autonomy produced by a
+system of caste, obstacles that cannot be overcome by individual agents.</p>
+        <p>This is simply a stylized discussion of the problems faced by people
+who live within a caste system, and-who might seek to enlist the law to
+make things better.</p>
+      </sec>
+      <sec id="sec-4-8">
+        <title>E. The Expressive Function of Law</title>
+        <p>Many laws have an expressive function. They "make a statement"
+about how much, and how, a good or bad should be valued. They are an
+effort to constitute and to affect social meanings, social norms, and social
+roles. Most simply, they are designed to change existing norms and to
+influence behavior in that fashion.</p>
+        <p>Of course human goods are valued in different ways; people have a
+wide variety of evaluative stances toward relationships and goods.2 3 1 Laws
+with expressive functions are often designed to promote a certain way of
+valuing certain goods. Many such laws are intended to say that specified
+goods should be valued in a way that deters thinking of them as mere objectsfor
+use. Laws forbidding the purchase and sale of certain goods can be so
+understood. A ban on the sale of children is designed (among other
+things) to say that children should be valued in a way that forbids the
+acceptance of cash as a reason for taking them out of parental care. A
+ban on vote-selling can be viewed similarly. We might understand such a
+law as an effort to make a certain statement about the pricelessness-not
+228. See Kuran, supra note 17, at 196-204 (discussing preference adaptation of lower
+caste members in India).</p>
+        <p>229. See Becker, supra note 31 (adopting an economic approach to family
+relationships and choices); cf. Amartya K Sen, Gender and Cooperative Conflicts, in
+Persistent Inequalities 123, 126-28 (Irene Tinker ed., 1990) (describing social factors that
+lead women to adapt to, and accept, injustice).</p>
+        <p>230. See Kuran, supra note 17, at 134 ("Because society will generally ostracize anyone
+who abandons the caste system, the potential member of an anticaste colony is likely to
+withhold his participation until it appears likely to succeed. With other potential members
+reasoning likewise, the colony will remain unformed.").</p>
+        <p>231. See Anderson, supra note 23, at 1-16.
+the infinite value-of the right to vote. In the environmental area,
+debates over market valuation are partly debates over this question. 23 2
+Some people think that market valuation should be viewed with
+suspicion; it threatens to affect social norms and social meanings in
+undesirable ways.</p>
+        <p>Laws with expressive justifications are most plausibly defended on
+the ground that they will in fact affect social norms and move them in
+appropriate directions. 23 3 But at this stage there are empirical questions:
+Do laws really affect social norms and social meanings? Under what
+conditions? Much work remains to be done on these important questions.</p>
+        <sec id="sec-4-8-1">
+          <title>VII. BLOCKED GROUNDS</title>
+          <p>What I have suggested here should unsettle some common
+understandings about government "paternalism" and "meddling." If private
+choices are a function of roles, norms, and meanings over which private
+people have no sovereignty, many imaginable initiatives are consistent
+with individual autonomy, rightly conceived. But this conclusion ought
+not to suggest that government should be licensed to do whatever it
+wishes. There should be firm limits on government's efforts to engage in
+norm management.</p>
+          <p>Of course government action should often be rejected on simple
+pragmatic grounds-because, for example, it is likely to be futile or
+counterproductive. 23 4 The "just say no" campaign with respect to drug
+use probably falls in this category. Perhaps efforts to stigmatize teenage
+smoking will backfire and make smoking seem bold or glamorous.
+Perhaps government has mistakenly concluded that there is a collective
+acton problem calling for governmental response. Perhaps most people
+are happy that littering is not stigmatized.</p>
+          <p>It is also true that government interference with norms, roles, or
+meanings might compound a collective action problem, aid
+well-organized private groups promoting unjust goals, or aggravate a caste-like
+situation. Imagine an effort to promote the use of cigarettes, alcohol, or drugs,
+or to discouragethe buckling of seat belts, or to increase the opprobrium
+associated with the role of being a homosexual. Nothing I have said
+sug232. See Steven Kelman, What Price Incentives? 52-83 (1981).</p>
+          <p>283. See Zelizer, supra note 27, at 16-17 (discussing prohibitions on life insurance).
+In making these claims, I do not endorse the use of law to "make statements"
+independently of consequences. Though I cannot defend the point here, official use of
+law merely to "make statements" risks fanaticism and pointlessness. See Sunstein, supra
+note 64. Indeed, emphasis on consequences-and on the empirical questions raised by
+arguments over consequences-has the salutary function of reducing the volume and the
+heat raised by policy disputes. It does so by shifting debate from basic values to issues that
+are, at least in principle, subject to empirical testing. I believe that this is an important
+social function of approaches to law and policy that are based on consequences; it is also
+part of the appeal of utilitarianism.</p>
+          <p>234. Cf. Raz, supra note 22, at 428-29 (discussing pragmatic objections to pursuit of
+perfectionist policies).
+gests that government is not properly criticized when it engages in
+activities of this sort. But any such criticism should be on the merits, not on
+the ground that government may not interfere with private preferences
+or choices.</p>
+          <p>There is a final and especially important point. A liberal society
+limits the permissible bases for governmental action. 23 5 Ordinarily people
+describe these limits as "rights." Rights operate as constraints on norm
+management as on everything else that government does. A full account
+of these limits would be far too ambitious for an article of this sort; but a
+few notes will be helpful.</p>
+          <p>Some government action designed to change norms, meanings, and
+roles might be based on religious grounds; these should be banned as
+reasons for public action. At least in the American constitutional system,
+for example, it is unacceptable for government to attempt to legislate on
+the ground that the divinity of Jesus Christ requires a certain state of
+affairs.</p>
+          <p>It would be equally unacceptable to base government action on
+grounds that deny the basic equality of human beings-as in efforts to
+encourage norms that treat members of racial minorities as second-class
+citizens. Many efforts to change norms would impair autonomy rather
+than promote it. If government attempted to promote norms ensuring
+that women occupy traditional roles, its attempt would be
+illegitimatenot because it is an attempt at norm management, but because the
+attempted management invades rights of sex equality.</p>
+          <p>In any case some human interests are properly denominated rights,
+and efforts to change norms, meanings, and roles should not be allowed
+to invade rights.23 6 Many imaginable efforts ought to be rejected because
+of this risk. Consider, for example, a suggestion that the meaning of
+refusing to allow government officials into your home is now "personal
+courage and independence"-accompanied by the not implausible
+thought that things would be better if the meaning were "unpatriotic
+unwillingness to cooperate with the crime-fighting effort," culminating in a
+proposal that all people should be required to open their homes to the
+government. There is a collective action problem here. But if it is
+believed that people should have a right to keep government officials from
+their homes, this proposal should be rejected.</p>
+          <p>Political liberals go further and urge rejection of any ground for
+action that is based on a "comprehensive view."23 7 Of course there are
+235. For discussion, see, e.g., Dworkin, supra note 11, at 266-78; Larmore, supra note
+207, at 42-68; Raz, supra note 22, at 400-29.</p>
+          <p>236. I do not mean to say anything here about the status or basis of rights.
+237. See Larmore, supra note 207, at 40-90 (arguing that liberal government must
+remain neutral by not selecting among divergent "conceptions of the good life"); Rawls,
+supra note 190, at 58-66, 133-72 (describing political principles on which those with
+diverse "comprehensive views" can rely).
+many complexities in this claim.238 What is important for present
+purposes is that on any sound view of liberalism, there is no generalbasis, in
+principle, for objection to proposals of the sort I have suggested. Political
+liberals ought to acknowledge, for example, that social roles and social
+meanings may undermine the equality and liberty of citizens and that
+changes require collective action. The constraints imposed by political
+liberalism impose no bans on those changes.</p>
+          <p>CONCLUSION</p>
+          <p>Many claims about the appropriate limits of law are insufficiently
+appreciative of the pervasive effects of social norms, social meanings, and
+social roles. In fact these effects have yet to receive much attention.239
+But-to say the least-the impact of law on human behavior is an
+important matter for lawmakers to understand, and that impact has everything
+to do with social norms. An understanding of norms will therefore help
+illuminate effective regulatory policy. Many of the most dramatic gains in
+health and safety policy are a product of changes in norms, meanings,
+and roles. Many of the most severe problems in current societies are a
+product of unfortunate norms, meanings, and roles.</p>
+          <p>Norms relate to some broader issues as well. Often it is said that the
+common law, and a liberal regime dedicated to freedom, take
+"preferences" as they are and do not seek to change them. But the term
+"preferences" is highly ambiguous. If the term is meant to refer to "choices," it
+should be understood that choices are very much a function of context,
+including governing norms, meanings, and roles. Certainly the particular
+choices made by people in markets-in their capacity as consumers or
+laborers-do not suggest global or acontextual valuations of relevant
+goods. If the term "preferences" is meant to refer not to choices but to
+the motivational and mental states behind choices, it is important to
+recognize that those mental states include assessments of social norms, the
+expressive meaning of acts, and the expectations associated with a
+dazzling variety of social roles. Norms and roles affect both public action
+and public talk, in ways that can much disguise how people think
+privately. This point has large implications. In many settings, it would be
+best to dispense with the idea of "preferences," and to shift instead to
+more concrete ideas, including intrinsic value, reputational effects, and
+effects on self-conception.</p>
+          <p>238. See Rawls, supra note 190, at 183-72.</p>
+          <p>239. The principal contributions are Dan M. Kahan, What Do Alternative Sanctions
+Mean?, 63 U. Chi. L. Rev. (forthcoming 1996) (discussing how norms affect the public
+assessment of criminal punishment); Lessig, supra note 24 (arguing that law should
+account for, and regulate, social meaning); and from a different direction, Ellickson, supra
+note 51 (discussing norm of neighborliness in land-use bargaining); see also Kuran, supra
+note 17 (describing role of "preference falsification" in reflecting and shaping social
+norms).</p>
+          <p>We have also seen that norms can be far more fragile than they
+appear. Hence "norm entrepreneurs" can help solve collective action
+problems, and hence "norm bandwagons" and cascades are common.
+Sometimes law interacts with the efforts of norm entrepreneurs,
+facilitating or blunting their efforts, and sometimes law ratifies or
+acceleratesor halts-norm bandwagons and cascades.</p>
+          <p>While social life would be impossible without norms, meanings, and
+roles, individual people have little control over these things. The result
+can be severe limits on human well-being and autonomy. Certainly there
+is a problem with existing norms when all or almost all people would seek
+a change. There may well be a problem when reputational incentives
+lead people to do what they would otherwise refuse to do, at least if the
+relevant norms deny people the preconditions for autonomy or otherwise
+undermine well-being. In fact lives are shortened and unjustified
+inequalities are perpetuated by the existence of many current norms.</p>
+          <p>People need collective help if they want to change norms, meanings,
+or roles. Collective help may be futile or counterproductive; it may be
+illegitimately motivated. But these matters require an inquiry into the
+particular context. The issue should not be foreclosed by resort to
+confusing claims about the need to respect private choice.</p>
+        </sec>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          1.
+          <string-name>
+            <surname>In</surname>
+            <given-names>General .........................................</given-names>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          2.
+          <string-name>
+            <given-names>Intrinsic</given-names>
+            <surname>Value</surname>
+          </string-name>
+          ,
+          <article-title>Reputational Value, and</article-title>
+          <string-name>
+            <surname>Selfconception ........................................</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          3. Norms and
+          <string-name>
+            <surname>Freedom ...............................</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          4. Exit and
+          <string-name>
+            <surname>Entry .....................................</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          5. Norms and
+          <string-name>
+            <surname>Nonfingible Cash ......................</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          1.
+          <string-name>
+            <surname>In</surname>
+            <given-names>General .........................................</given-names>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          2. Roles and
+          <string-name>
+            <surname>Freedom ................................</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          3. Roles and
+          <string-name>
+            <surname>Law .....................................</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          4. Citizens and
+          <string-name>
+            <surname>Consumers ............................</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          1. Choices and
+          <string-name>
+            <surname>Norms ................................</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          2. Choices and
+          <string-name>
+            <surname>Roles .................................</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          3. Choices and
+          <string-name>
+            <surname>Meanings .............................</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          4.
+          <string-name>
+            <surname>Preferences ........................................</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          1.
+          <string-name>
+            <surname>Standard</surname>
+            <given-names>Accounts .................................</given-names>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          2.
+          <string-name>
+            <surname>Puzzles ............................................</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          3.
+          <string-name>
+            <surname>Legal</surname>
+            <given-names>Responses ...................................</given-names>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          2.
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Camerer</surname>
+          </string-name>
+          &amp; Thaler, supra note 1, at 210-
+          <fpage>11</fpage>
+          .
+          <source>In December</source>
+          <year>1995</year>
+          ,
+          <article-title>the ultimatum game was played in a law school classroom (consisting of about 70 students) in an experiment run by Richard Thaler and me. The results-consistent with the usual oneswill be discussed in Christine M.Jolls</article-title>
+          &amp;
+          <string-name>
+            <surname>Richard H. Thaler</surname>
+          </string-name>
+          , Behavioral Law and
+          <string-name>
+            <surname>Economics</surname>
+          </string-name>
+          (
+          <year>1996</year>
+          )
+          <article-title>(unpublished manuscript).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          3.
+          <string-name>
+            <surname>See Robert B. Cialdini</surname>
+          </string-name>
+          et al.,
+          <source>24 Advances Experimental Soc. Psychol</source>
+          .
+          <volume>201</volume>
+          (
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>4. See id. at 221-23.</mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          5.
+          <string-name>
+            <surname>SeeJ. Michael McGinnis</surname>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>William H. Foege</surname>
+          </string-name>
+          ,
+          <article-title>Actual Causes ofDeath in the United States</article-title>
+          ,
+          <string-name>
+            <surname>JAMA</surname>
+          </string-name>
+          , Nov.
+          <volume>10</volume>
+          ,
+          <year>1993</year>
+          , at
+          <volume>2207</volume>
+          ,
+          <fpage>2208</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          6.
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Excerpts</surname>
+          </string-name>
+          From Clinton News Conference on His Tobacco Order,
+          <string-name>
+            <given-names>N.Y.</given-names>
+            <surname>Times</surname>
+          </string-name>
+          , Aug.
+          <volume>11</volume>
+          ,
+          <year>1995</year>
+          , at A18.
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          7.
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Michelle</surname>
+          </string-name>
+          <string-name>
+            <given-names>Ingrassia</given-names>
+            &amp; Karen
+            <surname>Springen</surname>
+          </string-name>
+          , Waiting to Exhale, Newsweek, May 1,
+          <year>1995</year>
+          , at
+          <volume>76</volume>
+          ,
+          <fpage>76</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          8. See id.
+          <article-title>It is notable that the reduction in smoking among African-American teenagers was 50% between 1984 and 1992, whereas the reduction among AfricanAmerican adults was 25%, a difference that suggests a substantial effect from social norms among teenagers</article-title>
+          . See U.S. Department of Commerce,
+          <source>Statistical Abstract of the United States</source>
+          <year>1995</year>
+          , at
+          <volume>144</volume>
+          (
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          12.
+          <string-name>
+            <surname>Adapted from</surname>
+            <given-names>McGinnis</given-names>
+          </string-name>
+          &amp; Foege, supra note 5, at 2208.
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          13. See Marilyn Chase, Besides Saving Lives, Wearing Helmet When Cycling Is Cool,
+          <string-name>
+            <given-names>Wall</given-names>
+            <surname>St</surname>
+          </string-name>
+          . J.,
+          <source>Sept</source>
+          .
+          <volume>18</volume>
+          ,
+          <year>1995</year>
+          ,
+          <string-name>
+            <surname>at</surname>
+          </string-name>
+          <article-title>B1 (noting dramatically shifting social norms with respect to bicycle helmets); see also Richard E</article-title>
+          . Nisbett &amp;
+          <string-name>
+            <surname>Dov Cohen</surname>
+          </string-name>
+          ,
+          <article-title>Culture of Honor: The Psychology of Violence in the South (</article-title>
+          <year>1996</year>
+          )
+          <article-title>(discussing role of social norms in producing violence as a result ofjudgments about "honor").</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          14.
+          <string-name>
+            <surname>See United Nations Development Programme</surname>
+          </string-name>
+          ,
+          <source>Human Development Report</source>
+          <year>1995</year>
+          , at 11-28,
+          <fpage>99</fpage>
+          -
+          <lpage>124</lpage>
+          (
+          <year>1995</year>
+          )
+          <article-title>; Susan M. Okin, A Clash of Basic Rights? Women's Human Rights, Identity Formation</article-title>
+          and Cultural
+          <string-name>
+            <surname>Difference</surname>
+          </string-name>
+          (
+          <year>1995</year>
+          )
+          <article-title>(unpublished manuscript).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          15.
+          <article-title>I give this idea more content below, see infra Parts V.A, VI.C. For the moment I use it as a placeholder for the reader's preferred account</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          16.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          , e.g.,
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Epstein</surname>
+          </string-name>
+          ,
+          <source>Simple Rules for a Complex World 308-12</source>
+          (
+          <year>1995</year>
+          ); Robin West, Authority, Autonomy, and
+          <article-title>Choice: The Role of Consent in the Moral and Political Visions of Franz Kafka</article-title>
+          and Richard Posner,
+          <volume>99</volume>
+          Harv. L. Rev.
+          <volume>385</volume>
+          (
+          <year>1985</year>
+          ); Richard
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          52.
+          <string-name>
+            <surname>See Susan M. Okin</surname>
+          </string-name>
+          , Justice, Gender, and
+          <source>the Family</source>
+          <volume>149</volume>
+          -
+          <fpage>55</fpage>
+          (
+          <year>1989</year>
+          )
+          <article-title>(discussing gender inequality in domestic labor).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          53.
+          <article-title>Consider the scene in The Wild One in which Marlon Brando, teenage rebel, is asked, "Johnny,what are you rebelling against?" and responds, "Whaddaya got?" described by David Hinckley, The "W" Word</article-title>
+          ,
+          <string-name>
+            <surname>Chi. Trib.</surname>
+          </string-name>
+          ,
+          <source>Sept. 6</source>
+          ,
+          <year>1990</year>
+          , at 17C.
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          54.
+          <string-name>
+            <given-names>SeeJames</given-names>
+            <surname>Miller</surname>
+          </string-name>
+          ,
+          <article-title>"Democracy is in the Streets": From Port Huron to the Siege of Chicago 59 (</article-title>
+          <year>1987</year>
+          )
+          <article-title>(reporting revealing statements made by Tom Hayden describing some 1960s civil rights leaders as seeking to make a personal statement rather than to protect civil rights for their own sake).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          55.
+          <string-name>
+            <surname>Compare President</surname>
+          </string-name>
+          <article-title>Clinton's remarks on teenage smoking, which are very much in the spirit ofwhat I am suggesting here: [I]t's simply not true that cultural changes and legal bars, together, cannot work to reduce consumption</article-title>
+          ....
+          <article-title>If you make it clearly illegal, more inaccessible, you reduce the lure of advertising, and then you have an affirmative campaign, a positive campaign, so that you don't say, "Just Say No." You give young people information and you make it the smart, the cool, the hip thing to do to take care of yourself and keep yourself healthy and alive</article-title>
+          .
+          <source>Excerpts from Clinton News Conference on His Tobacco Order, supra note 6</source>
+          , at A18.
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          56.
+          <string-name>
+            <surname>Hence</surname>
+          </string-name>
+          <article-title>a great deal ofattention has been paid in recent years to the role of trust in regulatory policy. See Paul Slovic, Perception of Risk: Reflections on the Psychometric Paradigm</article-title>
+          ,
+          <source>in Social Theories of Risk</source>
+          <volume>117</volume>
+          ,
+          <fpage>151</fpage>
+          -
+          <lpage>52</lpage>
+          (Sheldon Krimsky &amp; Dominic Golding eds.,
+          <year>1992</year>
+          ); Richard H. Pildes &amp;
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+            , Reinventing the Regulatory State, 62
+            <given-names>U.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Chi</surname>
+          </string-name>
+          . L. Rev.
+          <volume>1</volume>
+          ,
+          <fpage>40</fpage>
+          -
+          <lpage>43</lpage>
+          ,
+          <fpage>107</fpage>
+          -
+          <lpage>12</lpage>
+          (
+          <year>1995</year>
+          )
+          <article-title>; Chauncey Starr, Risk Management, Assessment, and Acceptability, 5 Risk Analysis 97 (</article-title>
+          <year>1985</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          61.
+          <string-name>
+            <surname>Zelizer</surname>
+          </string-name>
+          , supra note 59,
+          <article-title>at 5 (citing Jean Lave</article-title>
+          ,
+          <source>Cognition in Practice 132-33</source>
+          (
+          <year>1988</year>
+          )).
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          62.
+          <article-title>For an impressive argument to this effect, see Thaler</article-title>
+          ,
+          <source>supra note 60.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          63.
+          <string-name>
+            <surname>Zelizer</surname>
+          </string-name>
+          , supra note 59, at 18-19.
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          64.
+          <string-name>
+            <surname>See Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <source>On the Expressive Function of Law</source>
+          , 144
+          <string-name>
+            <given-names>U.</given-names>
+            <surname>Pa</surname>
+          </string-name>
+          . L. Rev. (forthcoming
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          65.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          , e.g., W. Kip Viscusi,
+          <source>Fatal Tradeoffs: Public and Private Responsibilities for Risk 34-74</source>
+          (
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          66.
+          <string-name>
+            <surname>See Steven P. Croley</surname>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Jon D. Hanson</surname>
+          </string-name>
+          ,
+          <article-title>The Nonpecuniary Costs of Accidents: Pain-and-Suffering Damages in Tort Law, 108</article-title>
+          <string-name>
+            <given-names>Harv. L.</given-names>
+            <surname>Rev</surname>
+          </string-name>
+          .
+          <volume>1787</volume>
+          ,
+          <fpage>1851</fpage>
+          -
+          <lpage>53</lpage>
+          (
+          <year>1995</year>
+          ).
+          <article-title>For a more detailed discussion</article-title>
+          ,
+          <source>see Sunstein, supra note 64.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>
+          170.
+          <article-title>Beliefs, however, are not easily mutable because of cognitive dissonance</article-title>
+          .
+          <source>See George A. Akerlof &amp; William T. Dickens, The Economic Consequences of Cognitive Dissonance, in George A. Akerlof, An Economic Theorist's Book of Tales</source>
+          <volume>123</volume>
+          (
+          <year>1984</year>
+          ); Aronson, supra note 95, at 171-239.
+        </mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>
+          171.
+          <string-name>
+            <surname>See W. Kip</surname>
+            <given-names>Viscusi</given-names>
+          </string-name>
+          ,
+          <source>Smoking: Making the Risky Decision</source>
+          <volume>47</volume>
+          -
+          <fpage>60</fpage>
+          (
+          <year>1992</year>
+          )
+          <article-title>(relating smoking trends and public information</article-title>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>
+          172.
+          <string-name>
+            <surname>Cf</surname>
+          </string-name>
+          . id. at 144-46 (
+          <article-title>criticizing persuasion as "propaganda" in the context of smoking, and arguing for information instead)</article-title>
+          .
+          <article-title>Viscusi treats norms and meaning as exogenous givens and as some ineradicable part of the guiding normative criterion, "choice." If these are not fixed and not chosen, the attack on persuasion is much weaker because the background contains limits on liberty that government and citizens may seek to overcome</article-title>
+          . See, e.g.,
+          <source>Excerpts from Clinton News Conference on His Tobacco Order, supra note 6</source>
+          , at A18.
+        </mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation>
+          173.
+          <string-name>
+            <surname>See supra Part</surname>
+            <given-names>I.C.</given-names>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation>
+          174.
+          <article-title>This kind of approach is much more effective than the mere provision of facts</article-title>
+          .
+          <source>See Aronson, supra note 95</source>
+          , at 89-
+          <fpage>90</fpage>
+          .
+          <article-title>Part of the reason is status quo bias</article-title>
+          . See William Samuelson &amp; Richard Zeckhauser,
+          <source>Status Quo Bias in Decision Making, 1 J. Risk &amp; Uncertainty</source>
+          <volume>7</volume>
+          ,
+          <issue>8</issue>
+          (
+          <year>1988</year>
+          )
+          <article-title>(describing how people sometimes retain their particular choices</article-title>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+

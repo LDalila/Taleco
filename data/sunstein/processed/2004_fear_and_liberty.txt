@@ -1,0 +1,1356 @@
+New School
+
+Fear and Liberty 
+Author(s): Cass R. Sunstein 
+Source: 
+Social Research, Vol. 71, No. 4, FEAR: ITS POLITICAL USES & ABUSES (WINTER 2004), pp. 
+967-996
+ 
+Published by: 
+Stable URL: 
+Accessed: 22-10-2015 20:17 UTC
+
+http://www.jstor.org/stable/40971987
+
+New School
+
+ 
+
+ 
+
+ 
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at http://www.jstor.org/page/
+info/about/policies/terms.jsp
+
+ 
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content 
+in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. 
+For more information about JSTOR, please contact support@jstor.org.
+
+New School is collaborating with JSTOR to digitize, preserve and extend access to Social Research.
+
+ 
+
+ 
+
+http://www.jstor.org
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+Cass R. Sunstein 
+Fear and Liberty 
+
+INTRODUCTION 
+When a nation's security is threatened, are civil liberties at undue 
+risk? If so, why? Consider a plausible account. In the midst of external 
+threats, public overreactions are predictable. Simply because of fear, 
+the public and its leaders will favor measures that do little to protect 
+security but that compromise important forms of freedom.1 The intern- 
+ment of Japanese-Americans during World War II is perhaps the most 
+salient example, but there are many more. Consider, for example, the 
+McCarthy period, restrictions on dissident speech during World War 
+I, Lincoln's suspension of habeas corpus during the Civil War, and the 
+imposition of martial law in Hawaii in 1941. Many people believe that 
+some of the actions of the Bush administration, in the aftermath of the 
+September 11 attack, fall in the same basic category. Is it really neces- 
+sary to hold suspected terrorists in prison in Guantánamo? For how 
+long? For the rest of their lives? 
+
+In explaining how public fear might produce unjustified intru- 
+sions on civil liberties, I emphasize two potential sources of error: the 
+availability heuristic and probability neglect. The availability heuris- 
+tic, widely used by ordinary people, can lead to a grossly exaggerated 
+sense of risk, as salient incidents make citizens think that a risk is far 
+more serious than it actually is. When probability neglect is at work, 
+people focus on the "worst case" and disregard the question whether 
+it is likely that the worst case will occur - an approach that can also 
+lead to excessive regulation. With an understanding of the availability 
+heuristic and probability neglect, I believe that we are able to have a 
+better appreciation of the sources of unsupportable intrusions on civil 
+
+social research  Vol 71 : No 4 : Winter 2004 
+
+967 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+liberties. But there is an additional factor, one that requires a shift from 
+psychological dynamics to political ones. In responding to security 
+threats, government often imposes selective rather than broad restric- 
+tions on liberty. Selectivity creates serious risks. If the restrictions are 
+selective, most of the public will not face them, and hence the ordinary 
+political checks on unjustified restrictions are not activated. In these 
+circumstances, public fear of national security risks might well lead to 
+excessive restrictions of civil liberties. 
+
+What is necessary, then, is a set of safeguards that will insure 
+against those restrictions. In constitutional democracies, some of those 
+safeguards are provided by courts, usually through interpretation of the 
+Constitution. The problem is that courts often lack the information to 
+know whether and when intrusions on civil liberties are justified. Civil 
+libertarians neglect this point, tending to think that the meaning of the 
+Constitution does not change in the face of intense public fear. This view 
+is implausible. The legitimacy of government action depends on the 
+strength of the arguments it can muster in its favor; and if national secu- 
+rity is genuinely at risk, the arguments will inevitably seem, and will often 
+be, unusually strong. In the context of safety and health regulation gener- 
+ally, cost-benefit analysis is a partial corrective against both excessive and 
+insufficient fear; and sometimes courts can use a form of cost-benefit anal- 
+ysis as a check on overzealous and inadequate regulation. When national 
+security is threatened, cost-benefit analysis is far less promising, because 
+the probability of an attack usually cannot be estimated. 
+
+But this does not mean that courts cannot play a constructive 
+role. I suggest three possible approaches. First, courts should ordinarily 
+require restrictions on civil liberties to be authorized by the legislature, 
+not simply by the executive. Second, courts should give more skeptical 
+scrutiny to measures that restrict the liberty of identifiable minorities, 
+simply because the ordinary political safeguards are unreliable when 
+the burdens imposed by law are not widely shared. Third, case-by-case 
+balancing, by courts, might well authorize excessive intrusions into 
+liberties- and hence clear rules and strong presumptions, for all their 
+rigidity, might work better than balancing in the actual world. 
+
+968 
+
+social research 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+EXCESSIVE FEAR 
+Why might the public show excessive fear, in a way that leads to unjus- 
+tified responses to external threats or risks generally? Two mechanisms 
+play a large role. 
+
+A. Availability 
+Begin with the availability heuristic. When presented with hard ques- 
+tions, people often ask themselves easier questions, which serve to 
+simplify their inquiry (Kahneman and Frederick, 2002; Jolis et al., 1998: 
+1518-1519). The answer to the easier questions operates as a heuristic 
+or a rule of thumb. Of these rules of thumb, the "availability heuris- 
+tic" is probably the most important for purposes of understanding 
+national security and risk regulation. Thus, for example, "a class whose 
+instances are easily retrieved will appear more numerous than a class 
+of equal frequency whose instances are less retrievable" (TVersky and 
+Kahneman, 1986: 38, 55). The point very much bears on private and 
+public responses to risks, suggesting, for example, that people will be 
+especially fearful of the dangers of AIDS, crime, earthquakes, terror- 
+ism, and nuclear power plant accidents if examples are easy to recall 
+(Slovic, 2000a: 37-48). 
+
+In this way, familiarity can affect the availability of instances. But 
+salience is important as well. "The impact of seeing a house burning on 
+the subjective probability of such accidents is probably greater than the 
+impact of reading about a fire in the local paper" (Slovic, 2000a: 37-48). 
+Similarly, earlier events will have a smaller impact than later ones. The 
+point helps explain much about fear and about human behavior with 
+respect to personal safety and risk. For example, whether people will 
+buy insurance for natural disasters is greatly affected by recent experi- 
+ences (Slovic, 2000a: 40). If floods have not occurred in the immedi- 
+ate past, people who live on flood plains are far less likely to purchase 
+insurance (Slovic, 2000a: 40). In the aftermath of an earthquake, insur- 
+ance for earthquakes rises sharply- but it declines steadily from that 
+point, as vivid memories recede (Slovic, 2000a: 40). For purposes of law 
+and regulation, the problem is that the availability heuristic can lead to 
+
+Fear and Liberty  969 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+serious errors of fact, in terms of both excessive controls on small risks 
+that are cognitively available and insufficient controls on large risks 
+that are not. 
+
+What, in particular, produces availability? An illuminating study 
+attempts to test the effects of ease of imagery on perceived judgments 
+of risk (Sherman et al., 2002: 82). The experimenters asked subjects to 
+read about an illness (Hyposcenia-B) that "was becoming increasingly 
+prevalent" on the local campus. In one condition, the symptoms were 
+concrete and easy to imagine -  involving muscle aches, low energy, and 
+frequent severe headaches. In another condition, the symptoms were 
+vague and hard to imagine, involving an inflamed liver, a malfunc- 
+tioning nervous system, and a vague sense of disorientation. Subjects 
+in both conditions were asked both to imagine a three-week period 
+in which they had the disease and to write a detailed description of 
+what they imagined. After doing so, subjects were asked to assess, on 
+a 10-point scale, their likelihood of contracting the disease. The basic 
+finding was that likelihood judgments were very different in the two 
+conditions, with easily imagined symptoms making people far more 
+inclined to believe that they were likely to get the disease (Sherman et 
+al., 2002: 88). 
+
+There are several implications for fear, policy, and law. The public 
+demand for law should be much higher if people can easily imagine 
+the harm in question; in such cases, the law might well reflect a kind 
+of hysteria. But if the harm is difficult to imagine, we might well see 
+a pattern of neglect. We would therefore predict that easily imagin- 
+able harms will lead to relatively greater private precautions and rela- 
+tively greater governmental concern. Well-organized private groups 
+should, and do, take advantage of this fact, attempting to publicize 
+visible examples of harms to which they seek to draw attention. Many 
+such groups work as "availability entrepreneurs," invoking particular 
+events in order to drive public fear in their preferred directions (Kuran 
+and Sunstein, 1999). Terrorists might be seen, in this light, as extreme 
+examples of availability entrepreneurs, using vivid examples to harm 
+to suggest that people "cannot be safe anywhere." 
+
+970 
+
+social research 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+Because safety is always a matter of degree, the idea of "being 
+safe" is itself preposterous; but when an incident is highly salient, 
+people are likely to exaggerate the likelihood of its occurrence. And 
+when exaggerations occur, excessive precautions are likely, in a way 
+that might well lead to unjustified restrictions on liberty. The McCarthy 
+period is an example. In fact, communist agents, most famously Alger 
+Hiss, were in the government in the 1930s and 1940s, but a few avail- 
+able incidents, including the Hiss case, led, in many circles, to a kind of 
+fear-driven witch hunt that could not be justified by the reality of the 
+1950s. 
+
+B. Probability Neglect 
+The availability heuristic can produce an inaccurate assessment of prob- 
+ability. But sometimes people will attempt to make little assessment of 
+probability at all, especially when strong emotions are involved. Fear 
+can be impervious to the fact that it is highly unlikely that the risk 
+will come to fruition. In such cases, large-scale variations in probabili- 
+ties matter little - even when those variations unquestionably should 
+make a big difference. The point applies to hope as well as fear; vivid 
+images of good outcomes can crowd out consideration of probability 
+too. Lotteries are successful partly for this reason, and state govern- 
+ments make strategic use of probability neglect to convince people to 
+play. Governmental responses to fear are often driven by probability 
+neglect too. 
+
+Probability neglect has received its most direct empirical confir- 
+mation in a striking study of people's willingness to pay to avoid elec- 
+tric shocks.2 The central purpose of the study was to test the relevance 
+of probability in "affect rich" decisions. One experiment investigated 
+whether varying the probability of harm would matter more, or less, 
+in settings that trigger strong emotions than in settings that seem rela- 
+tively emotion-free. In the relatively emotion-free setting, participants 
+were told that the experiment entailed some chance of a $20 penalty. 
+In the "strong emotion" setting, participants were asked to imagine 
+that they would participate in an experiment involving some chance 
+
+Fear and Liberty  971 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+of a "short, painful, but not dangerous electric shock" (Rottenstreich 
+and Hsee, 2001: 181). Participants were asked to say how much they 
+would be willing to pay to avoid participating in the relevant experi- 
+ment. Some participants were told that there was a 1 percent chance 
+of receiving the bad outcome (either the $20 loss or the electric shock); 
+others were told that the chance was 99 percent; and still others were 
+told that the chance was 100 percent. 
+
+The key result was that variations in probability affected those 
+facing the relatively emotion-free injury, the $20 penalty, far more 
+than they affected people facing the more emotionally evocative 
+outcome of an electric shock. For the cash penalty, the difference 
+between the median payment for a 1 percent chance and the median 
+payment for a 99 percent chance was predictably large and indeed 
+broadly consistent with standard theories of economic rationality: $1 
+to avoid a 1 percent chance, and $18 to avoid a 99 percent chance. 
+For the electric shock, by contrast, the difference in probability made 
+little difference to median willingness to pay: $7 to avoid a 1 percent 
+chance, and $10 to avoid a 99 percent chance. Apparently people will 
+pay a significant amount to avoid a small probability of a hazard that 
+is affectively laden - and the amount that they will pay will not vary 
+greatly with changes in probability. 
+
+To investigate the role of probability and emotions in responses 
+to risk, I conducted an experiment, asking 83 University of Chicago 
+law students to describe their maximum willingness to pay to reduce 
+levels of arsenic in drinking water (Sunstein, 2002a). Participants were 
+randomly sorted into four groups, representing the four conditions 
+in the experiment. In the first condition, people were asked to state 
+their maximum willingness to pay to eliminate a cancer risk of 1 in 
+1,000,000. In the second condition, people were asked to state their 
+maximum willingness to pay to eliminate a cancer risk of 1 in 100,000. 
+In the third condition, people were asked the same question as in the 
+first, but the cancer was described in vivid terms, as "very gruesome 
+and intensely painful, as the cancer eats away at the internal organs of 
+the body." In the fourth condition, people were asked the same ques- 
+
+972 
+
+social research 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+tion as in the second, but the cancer was described in the same terms 
+as in the third condition. The central hypothesis was that the probabil- 
+ity variations would matter far less in the highly emotional conditions 
+than in the less emotional conditions. More specifically, it was predicted 
+that differences in probability would make little or no difference in 
+the highly emotional conditions - and that such variations would have 
+real importance in the less emotional conditions. It was also expected 
+that the tenfold difference in probabilities - between 1/100,000 and 
+1/1,000,000 - would not, in either condition, generate a tenfold differ- 
+ence in willingness to pay. 
+
+The result for the central hypothesis was confirmed. With an 
+unemotional description, the difference in probability produced a 
+statistically significant difference in mean willingness to pay; with an 
+emotional description, the difference was smaller and was not statisti- 
+cally significant. The second hypothesis was also supported. Consistent 
+with other work on probability neglect, varying the probability had 
+a relatively weak effect on people's willingness to pay: The tenfold 
+increase in the risk produced barely more than a doubling of mean will- 
+ingness to pay. From this experiment, there is one other noteworthy 
+result. By itself, making the description of the cancer more emotional 
+had a large effect on mean willingness to pay. 
+
+For an example of probability neglect in the particular context of 
+risks of terrorism, consider an illuminating study by W. Kip Viscusi and 
+Richard Zeckhauser (2003). The authors used surveys to see how much 
+people are willing to pay to reduce stated risks of terrorism. The median 
+willingness to pay (WTP) to decrease the current risk to 1/1,000,000 was 
+$25; the median WTP to decrease the current risk to 1/10,000,000 was 
+$27; the median WTP to reduce to current risk to zero was $50 (Viscusi 
+and Zeckhauser, 2003: 116). Thus a tenfold difference in risk- from 
+1/1,000,000 to 1/10,000,000- produced no significant difference in 
+WTP. This finding is clear evidence of probability neglect, caused by the 
+emotional valence of the idea of terrorism risk. As the authors state: 
+"Whether the terrorism risk is reduced to 50% of its current level, 1 in 1 
+million per flight, or 1 in 10 million per flight or zero," does not produce 
+
+Fear and Liberty 973 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+"significantly different" willingness to pay, and hence "[d]oing something 
+about terrorism risks that is incomplete but beneficial consequently has 
+a fairly similar attractiveness across" options (Viscusi and Zeckhauser, 
+2003: 116). Here too a form of probability neglect seems to be at work. 
+
+An understanding of probability neglect casts new light on the 
+finding that visualization or imagery matters a great deal to people's 
+reactions to risks (Slovic et al, 2000b). When an image of a bad outcome 
+is easily accessible, people will become greatly concerned about a risk, 
+holding probability constant (Loewenstein, 2001). And when people are 
+asked how much they will pay for flight insurance for losses result- 
+ing from "terrorism," they will pay more than if they are asked how 
+much they will pay for flight insurance from all causes (see Johnson et 
+al., 1993). The evident explanation for this peculiar result is that the 
+word "terrorism" evokes vivid images of disaster, thus crowding out 
+probability judgments. Note also that when people discuss a low-prob- 
+ability risk, their concern rises even if the discussion consists mostly of 
+apparently trustworthy assurances that the likelihood of harm really is 
+infinitesimal (Alkahami and Slovic, 1994: 1094). The reason is that the 
+discussion makes it easier to visualize the risk and hence to fear it. 
+
+The implication for restrictions on civil liberties should be clear. If 
+an external threat registers as such, it is possible that people will focus 
+on the worst-case scenario, without considering its (low) probability. The 
+result will be steps that cannot be justified by reality. The internment 
+of Japanese-Americans during World War II undoubtedly had a great 
+deal to do with probability neglect. A vivid sense of the worst case - of 
+collaboration by Japanese-Americans with our enemy, producing a kind 
+of Pearl Harbor for the West Coast - helped to fuel a step that went far 
+beyond what was necessary or useful to respond to the threat. 
+
+Both the availability heuristic and probability neglect can be 
+connected to "dual process" approaches of the sort that have received 
+considerable recent attention in psychology (see generally Kahneman 
+and Frederick, 2002). According to such approaches, people use two 
+cognitive systems. System I is rapid, intuitive, and error-prone; System 
+II is more deliberative, calculative, slower, and more likely to be error- 
+
+974 
+
+social research 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+free. Heuristic-based thinking is rooted in System I; it is subject to over- 
+ride, under certain conditions, by System II (Kahneman and Frederick, 
+2002).3 For purposes of policy and law, an important task is to develop 
+institutions and rights that create a kind of System II corrective to 
+heuristic-driven judgments and probability neglect, simply because 
+these produce errors and serious risks of their own. 
+
+C. Social  Dimensions 
+My emphasis thus far has been on individual thinking about risks. But 
+of course social influences are quite important. Sometimes availability 
+and salience spread through social bandwagons or cascades, in which 
+apparently representative anecdotes and gripping examples move 
+rapidly from one person to another. In fact, a process of this sort played 
+a large role in the 2002 Washington area sniper attacks, in the 2001 
+anthrax attacks, and in many other sets of social processes produc- 
+ing public fear. Consider a stylized example. Andrew hears of a social 
+risk, which he finds to be revealing or illustrative. (The event might 
+involve crime, environmental hazards, or threats to national security.) 
+Andrew tells Barry, who would be inclined to see the event as not terri- 
+bly informative, but who, seeing Andrew's reaction, comes to believe 
+that the event does indeed reveal a great deal. Once Carol hears from 
+Andrew and Barry, she is likely to find it revealing as well. Deborah will 
+require a great deal of private information to reject the shared opinion 
+of Andrew, Barry, and Carol (Hirschleifer, 1995). Stylized though it is, 
+the example shows that once several people start to take an example 
+as probative, many people may come to be influenced by their opinion, 
+giving rise to cascade effects. For example, vivid examples, alongside 
+social interactions, account for decisions to purchase insurance against 
+natural disasters (Gersen, 2001). In the domain of social risks, "avail- 
+ability cascades" are responsible for many social beliefs (Kuran and 
+Sunstein, 1999). The point is amplified by the fact that fear-inducing 
+accounts, with high emotional valence, are peculiarly likely to spread. 
+There is a closely related phenomenon. Processes of social delib- 
+eration typically lead like-minded people to accept a more extreme 
+
+Fear and Liberty  975 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+version of the views with which they began (Sunstein, 2000). This is the 
+process known as group polarization (Moscovici and Zavalloni, 1969). If 
+several people fear global warming, and speak to one another, their fear 
+is likely to increase as a result of internal discussions. If group members 
+believe that the United States cannot be trusted in its dealings with 
+other nations, that very belief is likely to be heightened after members 
+have started to talk. Group polarization has not been studied in connec- 
+tion with the availability heuristic. But the clear implication is that 
+the effect of certain available examples will become greatly amplified 
+through group discussion. 
+
+Suppose, for example, that several people are discussing a recent 
+wave of sniper attacks, or cases involving the kidnapping of young 
+girls, or situations in which the government has wrongly ignored a seri- 
+ous foreign threat. If the particular examples are mentioned, they are 
+likely to stick. And if the group has a predisposition to think that one 
+or another risk is serious, social dynamics will lead the group to believe 
+that the example is highly revealing. So too if the group is fearful. An 
+initial predisposition toward fear is likely to be aggravated as a result of 
+collective deliberations. 
+
+It should be clear that in the real world, some voices are more 
+important than others, especially when availability and salience are 
+involved. In particular, the behavior and preoccupations of the media 
+play a large role. Many perceived "epidemics" are in reality no such 
+thing, but instead a product of media coverage of gripping, unrepre- 
+sentative incidents (Best, 1999). Attention to those incidents is likely 
+to ensure availability and salience, promoting an inaccurately high 
+estimate of probability and at the same time some degree of probabil- 
+ity neglect. And in the face of close media attention, the demand for 
+governmental responses will be significantly affected. 
+
+EXCESSIVE  FEAR  AND  NATIONAL  SECURITY 
+
+A. Bad Balancing 
+We are now in a position to make some general claims about why indi- 
+viduals and governments might overreact to perceived social risks, 
+
+976 
+
+social research 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+including the risks of terrorism. A readily available incident is likely to 
+lead people to exaggerate the threat. If the media focuses on one or a 
+few incidents, public fear might be grossly disproportionate to reality. 
+And if one or a few incidents are not only salient but emotionally grip- 
+ping, people might not think about probability at all. Both private and 
+public institutions will overreact. It is easy to think of examples. This 
+is almost certainly what happened in the case of the anthrax attacks in 
+the United States of 2001, in which a few incidents led both private and 
+public institutions to exaggerate a small threat. 
+
+Now suppose that in any situation there is some kind of balanc- 
+ing between security and civil liberty. Suppose, that is, that the degree of 
+appropriate intrusion into the domain of liberty is partly a function of the 
+improved security that comes from the intrusion. The problem is that if 
+people are more fearful than they ought to be, they will seek or tolerate 
+incursions into the domain of liberty that could not be justified if fear 
+were not disproportionate. 
+If there is an optimal tradeoff among the relè 
+vant variables, the availability heuristic and probability neglect, combined 
+with social influences, will inevitably produce a tradeoff that is less than 
+optimal- that unduly sacrifices liberty at the expense of security. In the 
+context of threats to national security, it is predictable that governments 
+will infringe on civil liberties without adequate justification. 
+
+B. Better Balancing? Dual Processing, System II, and Cost-Benefit Analysis 
+Are institutional correctives possible? In the context of ordinary risk 
+regulation, cost-benefit analysis, understood as an effort to catalogue 
+the consequences of both risk and risk reduction, is a possible remedy. 
+In fact cost-benefit analysis can be understood as an institutionalized 
+System II safeguard against System I errors on the part of ordinary citi- 
+zens and even public officials. If the government attempts to assess the 
+costs and benefits of regulation, it can provide a measure of protection 
+against both public hysteria and public torpor (Sunstein, 2002b). Such 
+an assessment might show that a risk that is causing a great deal of fear 
+is actually low; it might demonstrate that the public is neglecting a 
+danger that threatens to kill many people. 
+
+Fear and Liberty  977 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+Of course a large problem is how to quantify the variables 
+involved. In the context of risks to national security, cost-benefit anal- 
+ysis runs into especially formidable obstacles, because calculation of 
+the expected benefits of risk reduction is at best guesswork. Frequently 
+regulators are operating in circumstances of uncertainty rather than 
+risk. They cannot calculate the probability that harm will occur - an 
+informational gap that confounds formal analysis of the benefits of 
+regulation. In its 2003 report to Congress, the Office of Management 
+and Budget (OMB) lists no fewer than 69 regulations related to home- 
+land security, including regulations governing agricultural bioterror- 
+ism, screening aliens and others seeking flight training, requiring 
+identification cards for border crossing, registering and monitoring 
+certain nonimmigrants, and governing terrorism risk insurance. For 
+almost all of these 69 regulations, neither costs nor benefits were quan- 
+tified. OMB emphasizes that "the difficulty in estimating the likely 
+benefits from a particular regulatory action" is a product not only of 
+the difficulty of predicting a terrorist attack, but also of the fact that 
+terrorists "can react and respond to the security and other counterter- 
+rorism measures that the government and private sector adopt" (OMB 
+report to Congress, 2003: 83). 
+
+But even when deciding about how to reduce risks associated 
+with terrorism, an informal version of cost-benefit analysis is unques- 
+tionably at work. The risk of terrorist attacks could surely be reduced if 
+the nation eliminated all airline flights, but the costs of eliminating all 
+airline flights is simply too high. So too, it would be possible to require 
+all those who attend baseball games to present their identification in 
+order to gain admission, but the benefits of this requirement would 
+be far too low to justify the (admittedly low) costs. When restrictions 
+are imposed, a rough assessment of both benefits and costs is necessar- 
+ily involved. In fact, the OMB has shown considerable interest in more 
+formal analyses of antiterrorism measures, even recognizing the formi- 
+dable informational barriers to such analyses (OMB report to Congress, 
+2003: 85). To say the least, it is exceptionally difficult not only to esti- 
+mate probabilities but also to monetize some of the relevant costs (for 
+
+978 
+
+social research 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+example, curtailment of civil rights and liberties); but the effort to do so 
+can be seen as an institutional check on cognitive processes that might 
+produce either hysteria or neglect. 
+
+C. Worse Balancing: Selective Restrictions 
+In the context of national security, and indeed more generally, an 
+understanding of the problem of excessive fear must make an impor- 
+tant distinction. We can imagine restrictions on liberty that apply to all 
+or most - as in, for example, a general increase in security procedures 
+at airports, or a measure that subjects everyone, citizens and nonciti- 
+zens alike, to special scrutiny when they are dealing with substances 
+that might be used in bioterrorism. We can also imagine restrictions 
+on liberty that apply to some or few - as in, for example, restrictions 
+on Japanese-Americans, racial profiling, or the confinement of enemy 
+aliens at Guantánamo. When restrictions apply to all or most, political 
+safeguards provide a strong check on unjustified government action. If 
+the burden of the restriction is widely shared, it is unlikely to be accept- 
+able unless most people are convinced that there is good reason for it; 
+and for genuinely burdensome restrictions, people will not be easily 
+convinced unless a good reason is apparent or provided. (I put to one 
+side the possibility that because of the mechanisms I have discussed, 
+people will think that a good reason exists whether or not it does.) But 
+if the restriction is imposed on an identifiable subgroup, the political 
+check is absent. Liberty-reducing 
+intrusions can be imposed even if they 
+are difficult to justify. 
+
+These claims can be illuminated by a glance at the views of 
+Friedrich Hayek about the rule of law. Hayek (1960) writes, "If all that 
+is prohibited and enjoined is prohibited and enjoined for all without 
+exception," then "little that anybody may reasonably wish to do is 
+likely to be prohibited." Hence "how comparatively innocuous, even 
+if irksome, are most such restrictions imposed on literally everybody, 
+as ...  compared with those that are likely to be imposed only on 
+some!" Thus it is "significant that most restrictions on what we regard 
+as private affairs, such as sumptuary legislation, have usually been 
+
+Fear and Liberty  979 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+imposed only on selected groups of people or, as in the case of prohibi- 
+tion, were practicable only because the government reserved the right 
+to grant exceptions." Hayek urges, in short, that the risk of unjustified 
+burdens dramatically increases if they are selective and if most people 
+have nothing to worry about. The claim is especially noteworthy in situ- 
+ations in which public fear is producing restrictions on civil liberties. 
+People are likely to ask, with some seriousness, whether their fear is 
+in fact justified if steps that follow from it impose burdensome conse- 
+quences on them. But if indulging fear is costless, because a select few 
+face the relevant burdens, then the mere fact of "risk," and the mere 
+presence of fear, will seem to provide a sufficient justification. 
+
+D. Tradeoff Neglect 
+Consider in this light Howard Margolis's (1996) effort to explain why 
+experts and ordinary people sharply diverge with respect to certain 
+risks. Margolis thinks that in some cases, ordinary people are alert to 
+the hazards of some activity, but not much alert to its benefits, which 
+are cognitively "off-screen." In such cases, people will tend to think, 
+"Better safe than sorry," and they will have a highly negative reaction 
+to the risk. In such cases, they will demand aggressive and immedi- 
+ate regulation. In other cases, the benefits of the activity will be very 
+much on people's minds, but not the hazards - in which case they will 
+tend to think, "Nothing ventured, nothing gained." In such cases, they 
+will think that regulators are overzealous, even fanatics. In still other 
+cases - in Margolis's view, the cases in which observers are being most 
+sensible- both benefits and risks will be "on-screen," and people will 
+assess risks by comparing the benefits with the costs. 
+
+Margolis offers a nice example to support this prediction. The 
+removal of asbestos from public schools in New York City was initially 
+quite popular, indeed demanded by fearful parents, even though experts 
+believed that the risks were statistically small. But when it emerged that 
+the removal would cause schools to be closed for a period of weeks, and 
+when the closing caused parents to become greatly inconvenienced, 
+parental attitudes turned around, and asbestos removal seemed like a 
+
+980 
+
+social research 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+really bad idea. When the costs of the removal came on-screen, parents 
+thought much more like experts, and the risks of asbestos seemed like 
+the risks of X-rays: Statistically small, not a source of significant fear, 
+and on balance worth incurring. In this light it is both mildly coun- 
+terintuitive and reasonable to predict that people would be willing to 
+pay less, in terms of dollars and waiting time, to reduce low-probability 
+risks of an airplane disaster if they are frequent travelers. A preliminary 
+study (Harrington, 2002) finds exactly that effect. 
+
+It is only natural, in this light, that those concerned about civil 
+liberties try to promote empathetic identification with those at risk 
+or to make people fearful that they are themselves in danger. The 
+point of the effort at identification is to place the relevant burdens or 
+costs "on-screen," and hence to broaden the class of people burdened 
+by government action, if only through an act of imagination. Pastor 
+Martin Niemoller's remarks about Germany in the 1940s have often 
+been quoted by civil libertarians: "First they came for the socialists, and 
+I did not speak out because I was not a socialist. Then they came for the 
+trade unionists, and I did not speak out because I was not a trade union- 
+ist. Then they came for the Jews, and I did not speak out because I was 
+not a Jew. Then they came for me, and there was no one left to speak 
+for me." In many situations, the apparent lesson of this tale is empiri- 
+cally doubtful. If "they" come for some, it does not at all follow that 
+"they" will eventually come for me. Everything depends on the nature 
+of "they" and of "me." But the tale is psychologically acute; it attempts 
+to inculcate, in those who hear it, a fear that the risks of an overreach- 
+ing government cannot easily be cabined. 
+
+The danger of unjustified infringement is amplified when the 
+victims of the infringement can be seen as an identifiable group that 
+is readily separable from "us." Stereotyping of groups significantly 
+increases when people are in a state of fear; and if people are primed 
+to think about their own death, they are more likely to think and act 
+in accordance with group-based stereotypes (von Hippel et al., 2003). 
+Experimental findings of this kind support the intuitive idea that when 
+people are afraid, they are far more likely to tolerate government action 
+
+Fear and Liberty  981 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+that abridges the freedom of members of some "out-group." And if this 
+is the case, responses to social fear, in the form of infringements on 
+liberties, will not receive the natural political checks that arise when 
+majorities suffer as well as benefit from them. The simple idea here is 
+that liberty-infringing 
+action is most likely to be justified if those who 
+support that action are also burdened by it; in that event, the political 
+process contains a built-in protection against unjustifiable restrictions. 
+In all cases, it follows that government needs some methods for ensur- 
+ing against excessive reactions to social risks, including unjustified 
+intrusions on civil liberties. 
+
+PROTECTING LIBERTY 
+It would be possible to take the arguments just made as a reason for an 
+aggressive judicial role in the protection of civil liberties, even when 
+national security is threatened. But there are real complications here.4 
+Taking a page from the environmentalists' book, let us notice that the 
+availability heuristic and probability neglect might be leading people 
+not to overstate risks but to take previously overlooked hazards seri- 
+ously - to pay attention to hazards that had not previously appeared on 
+the public viewscreen. In the environmental context, the point seems 
+right; readily available incidents help to mobilize people formerly 
+suffering from torpor and indifference. The cognitive processes that 
+produce excessive fear can counteract insufficient fear. 
+
+The same might well be true of risks to national security. Indeed, 
+lax airline security measures before 9/11 were undoubtedly a product 
+of the "unavailability" of terrorist attacks. Availability bias, produced 
+by the availability heuristic, is accompanied by unavailability bias, 
+produced by the same heuristic. If an incident does not come to mind, 
+both individuals and institutions should be expected to take insuffi- 
+cient precautions, even in the face of expert warnings (as in fact were 
+commonly voiced about the absence of careful security measures before 
+the 9/11 attacks). Probability neglect can produce intense fear of low- 
+probability risks; but when risks do not capture attention at all, they 
+might be treated as zero, even though they deserve considerable atten- 
+
+982 
+
+social research 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+tion. Much of the time, public fear is bipolar: either dangers appear 
+"significant" or they appear not to exist at all. The mechanisms I have 
+discussed help explain hysterical overreactions, but they can provide 
+corrections against neglect as well. 
+
+There is also an institutional point. Courts are not, to say the least, 
+in a good position to know whether restrictions on civil liberty are defen- 
+sible. They lack the fact-finding competence that would enable them to 
+make accurate assessments of the dangers. They are hardly experts on 
+the question whether the release of a dozen prisoners at Guantánamo 
+would create a nontrivial risk of a terrorist attack. It is quite possible 
+that an aggressive judicial posture in the protection of civil liberties, 
+amid war, would make things far worse rather than better. In any case, 
+courts are traditionally reluctant to interfere with publicly supported 
+restrictions on civil liberties; they do not like simply to "block" restric- 
+tions that have both official and citizen approval (Rehnquist, 1998). 
+
+I suggest that courts should and can approach the relevant 
+issues through an institutional lens, one that plays close attention to 
+the underlying psychological and political dynamics. There are three 
+points here. The first and most important is that restrictions on civil 
+liberties should not be permitted unless they have unambiguous legis- 
+lative authorization. Such restrictions should not be allowed to come 
+from the president alone. The second point is that in order to protect 
+against unjustified responses to fear, courts should be relatively more 
+skeptical of intrusions on liberty that are not general and that burden 
+identifiable groups. The third and final point is that constitutional 
+principles should reflect second-order balancing, producing rules and 
+presumptions, rather than ad hoc balancing. The reason is that under 
+the pressure of the moment, courts are likely to favor the government, 
+even when they should not. 
+
+A. The Principle of Clear Statement 
+For many years, Israel's General Security Service has engaged in certain 
+forms of physical coercion, sometimes described as torture, against 
+suspected terrorists. According to the General Security Service, these 
+
+Fear and Liberty  983 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+practices occurred only in extreme cases and as a last resort, when 
+deemed necessary to prevent terrorist activity and significant loss of 
+life. Nonetheless, practices worthy of the name "torture" did occur, 
+and they were not rare. Those practices were challenged before the 
+Supreme Court of Israel on the ground that they were inconsistent 
+with the nation's fundamental law. The government responded that 
+abstractions about human rights should not be permitted to overcome 
+real-world necessities so as to ban a practice that was, in certain circum- 
+stances, genuinely essential to prevent massive deaths in an area of 
+the world that was often subject to terrorist activity. According to the 
+government, physical coercion was justified in these circumstances. A 
+judicial decision to the opposite effect would be a form of unjustified 
+activism, even hubris. 
+
+In deciding the case, the Supreme Court of Israel refused to resolve 
+the most fundamental questions (Association for Civil Rights in Israel v. The 
+General Security Service, 1999). It declined to say whether the practices of 
+the security forces would be illegitimate if expressly authorized by a 
+democratic legislature. But the court nonetheless held that those prac- 
+tices were unlawful. The court's principal argument was that if such 
+coercion were to be acceptable, it could not be because the General 
+Security Service, with its narrow agenda, said so. At a minimum, the 
+disputed practices must be endorsed by the national legislature, after a 
+full democratic debate on the precise question. "[T]his is an issue that 
+must be decided by the legislature branch which represents the people. 
+We do not take any stand on this matter at this time. It is there that 
+various considerations must be weighed." 
+
+It is worthwhile to pause over a central feature of this deci- 
+sion. Instead of deciding the fundamental issue, the court relied on 
+the inadequacy, from the democratic point of view, of a judgment by 
+the General Security Service alone. To say the least, members ofthat 
+organization do not represent a broad spectrum of society. It is all too 
+likely that people who work with the General Security Service will 
+share points of view and frames of reference. When such people delib- 
+erate with one another, group polarization is likely to be at work; the 
+
+984 
+
+social research 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+participants will probably strengthen, rather than test, their existing 
+convictions, very possibly to the detriment of human rights. A broader 
+debate, with a greater range of views, is a necessary precondition for 
+coercion of this sort. The Supreme Court of Israel required clear legis- 
+lative authorization for this particular intrusion on liberty; it insisted 
+that executive action, under a vague or ambiguous law, would not be 
+enough. 
+
+We can generalize from this decision to suggest that as a rule, the 
+legislative branch of government must explicitly authorize disputed 
+infringements on civil liberty. The reason for this safeguard is to ensure 
+against inadequately considered restrictions - and to insist that politi- 
+cal safeguards, in the form of authorization from a deliberative branch 
+of government with diverse members, are a minimal precondition for 
+intrusions on civil liberties. A special risk is that group polarization, 
+within the executive branch, will lead to steps that have not been subject 
+to sufficiently broad debate. Deliberation within the legislative branch 
+is more likely to ensure that restrictions on liberty are actually defen- 
+sible. Precisely because of its size and diversity, a legislature is more 
+likely to contain people who will speak for those who are burdened, 
+and hence legislative processes have some potential for producing the 
+protection that Hayek identifies with the rule of law. In these ways, 
+the requirement of clear legislative statement enlists the idea of checks 
+and balances in the service of individual rights - not through flat bans 
+on government action, but through requiring two, rather than one, 
+branches of government to approve. 
+
+In the United States, a good model here is the remarkable deci- 
+sion in Kent v. Dulles (1958), decided at the height of the Cold War. In that 
+case, the Supreme Court was asked to consider whether the secretary of 
+state could deny a passport to Rockwell Kent, an American citizen who 
+was a member of the Communist Party. Kent argued that the denial 
+was a violation of his constitutional rights and should be invalidated 
+for that reason. The court responded by refusing to rule on the consti- 
+tutional question. Instead it said that, at a minimum, any denial of a 
+passport on these grounds would have to be specifically authorized by 
+
+Fear and Liberty  985 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+Congress. The court therefore struck down the decision of the secretary 
+of state because Congress had not explicitly authorized the executive to 
+deny passports in cases of this kind. 
+
+Kent v. Dulles has been followed by many cases holding that the 
+executive cannot intrude into constitutionally sensitive domains unless 
+Congress has squarely authorized it to do so. What I am adding here is 
+that because of the risk of excessive or unjustified fear, this is a salutary 
+approach whenever restrictions on civil liberty follow from actual or 
+perceived external threats. If congressional authorization is required, 
+courts have a simple question to ask in cases in which the Bush admin- 
+istration is alleged to have violated civil liberties: Has Congress specif- 
+ically authorized the president to engage in the action that is being 
+challenged? 
+
+Of course, requiring specific authorization is no panacea. It 
+is possible that Congress, itself excessively fearful, will permit the 
+president to do something that cannot be justified in principle. It 
+is also possible that Congress will fail to authorize the president to 
+act in circumstances in which action is justified or even indispens- 
+able. What I am suggesting is that as a general rule, a requirement of 
+congressional permission is probably the best way to reduce the rele- 
+vant dangers - those of excessive and insufficient protections against 
+security risks. 
+
+B. Special  Scrutiny of Selective Denials of Liberty 
+I have emphasized that public fear might well produce excessive reac- 
+tions from Congress. The risk is especially serious when identifiable 
+groups, rather than the public as a whole, are being burdened. 
+
+Consider in this regard an illuminating passage from a famous 
+opinion (Railway Express Agency v. New York, 1949) by Justice Robert 
+Jackson: 
+
+The burden should rest heavily upon one who would 
+persuade us to use the due process clause to strike down 
+a substantive law or ordinance. Even its provident use 
+
+986 
+
+social research 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+against municipal regulations frequently disables all 
+government -  state, municipal and federal -  from deal- 
+ing with the conduct in question because the require- 
+ment of due process is also applicable to State and Federal 
+Governments. Invalidation of a statute or an ordinance on 
+due process grounds leaves ungoverned and ungovernable 
+conduct which many people find objectionable. 
+
+Invocation of the equal protection clause, on the other 
+hand, does not disable any governmental body from deal- 
+ing with the subject at hand. It merely means that the 
+prohibition or regulation must have a broader impact. I 
+regard it as a salutary doctrine that cities, states and the 
+Federal Government must exercise their powers so as not 
+to discriminate between their inhabitants except upon 
+some reasonable differentiation fairly related to the object 
+of regulation. This equality is not merely abstract justice. 
+The framers of the Constitution knew, and we should 
+not forget today, that there is no more effective practical 
+guaranty against arbitrary and unreasonable government 
+than to require that the principles of law which officials 
+would impose upon a minority must be imposed generally. 
+Conversely, nothing opens the door to arbitrary action so 
+effectively as to allow those officials to pick and choose 
+only a few to whom they will apply legislation and thus to 
+escape the political retribution that might be visited upon 
+them if larger numbers were affected. Courts can take 
+no better measure to assure that laws will be just than to 
+require that laws be equal in operation. 
+
+Justice Jackson is making two points here. The first is that when 
+the court rules that some conduct cannot be regulated at all, it is inter- 
+vening, in a major way, into democratic processes, making that conduct 
+essentially "unregulable." The second is that when the court strikes 
+
+Fear and Liberty  987 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+government action done on equality grounds, it requires the govern- 
+ment to increase the breadth of its restriction, thus triggering political 
+checks against unjustified burdens. With a modest twist on Jackson's 
+argument, we can see a potential approach for courts faced with claims 
+about unlawful interference with civil liberties. If the government is 
+imposing a burden on the citizens as a whole, or on a random draw of 
+citizens, then the appropriate judicial posture is one of deference to 
+the government (at least if free speech is not involved; an exception for 
+free speech makes sense in light of the fact that democratic processes 
+cannot work well without it). But if the government imposes a burden 
+on an identifiable subclass of citizens, a warning flag should go up. The 
+courts should give careful scrutiny to that burden. 
+
+Of course, these general propositions do not resolve concrete 
+cases; everything turns on the particular nature of the constitutional 
+challenge. But an appreciation of the risks of selectivity suggests the 
+proper orientation. In Korematsu v. United States (1944), challenging the 
+internment of Japanese-Americans, the court should have been far 
+more skeptical of the government's justification, simply because the 
+internment was peculiarly immune from political checks on liberty. 
+Most Americans had nothing to fear from it. The same point holds for 
+the contemporary war on terrorism. Some of the relevant restrictions 
+have been limited to noncitizens in a way that creates a real risk of 
+overreaching. Courts should take a careful look at the legitimacy of the 
+government's justifications for imposing burdens on people who are 
+unable to protect themselves in the political process. Consider in this 
+regard one of President George W. Bush's less circumspect remarks in 
+defense of the idea that enemy combatants might be tried in special 
+military tribunals. President Bush suggested that whatever procedures 
+are applied, the defendants will receive fairer treatment than they gave 
+to murdered Americans on 9/11. The problem with this suggestion is 
+that it begs the question, which is whether the defendants were, in fact, 
+involved in the 9/11 attack. Here is an illustration of the extent to which 
+fear, and the thirst for vengeance, can lead to unjustified infringements 
+of civil liberties. 
+
+988 
+
+social research 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+C. Balancing and Second-Order Balancing 
+Thus far I have operated under a simple framework, supposing that in 
+any situation, there is some kind of balancing between security and 
+civil liberty - something like an optimal tradeoff. As the magnitude 
+of the threat increases, the argument for intruding on civil liberties 
+also increases. If the risk is great, government might, for example, 
+increase searches in airports; ensure a constant police presence on 
+public places, with frequent requests for identification; permit mili- 
+tary tribunals to try those suspected of terrorist activity; and allow the 
+police to engage in practices that would not be permitted under ordi- 
+nary circumstances. 
+
+Under the balancing approach, everything turns on whether 
+
+public fear is justified. What is the extent of the risk? If, in short, we 
+believe that there is an optimal tradeoff among the relevant variables, 
+excessive fear will inevitably produce a tradeoff that is less than opti- 
+mal - that unduly sacrifices liberty at the expense of security. This 
+approach to the relationship between liberty and security is standard 
+and intuitive, and something like it seems to me correct. But it is not 
+without complications. There might be, for example, a "core" of rights 
+into which government cannot intrude and for which balancing is 
+inappropriate. Consider torture. Some people believe that whatever 
+the circumstances, torture cannot be justified; even the most well- 
+grounded public fear is insufficient to justify it. In one form, this argu- 
+ment turns on a belief that consequentialist 
+justifications are never 
+enough to authorize this kind of intrusion. I believe that in this form, 
+the argument is a kind of moral heuristic - one that is far too rigid, 
+even fanatical. Is it sensible to ban torture when torture is the only 
+means of protecting thousands of people from certain death? 
+
+But another, more plausible form of the argument is rule utilitar- 
+ian: a flat prohibition on torture, one that forbids balancing in indi- 
+vidual cases, might be justified on the basis of a kind of second-order 
+balancing. It might be concluded not that torture is never justified in 
+principle, but that unless torture is entirely outlawed, government will 
+engage in torture in cases in which it is not justified, that the benefits 
+
+Fear and Liberty  989 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+of torture are rarely significant, and that the permission to torture in 
+extraordinary cases will lead, on balance, to more harm than good. 
+Under certain assumptions, this view is entirely plausible. And if it is, 
+we might adopt a firm prohibition on torture, even when public fear is 
+both extreme and entirely justified. 
+
+Can other rights be understood similarly? Consider the area of 
+free speech law in the United States, and the relationship between fear 
+and restrictions on speech. In the Cold War, government attempted to 
+regulate speech that, in its view, would increase the influence of commu- 
+nism. The Smith Act, enacted in 1946, made it a crime for any person "to 
+knowingly or willingly advocate, abet, advise, or teach the duty, neces- 
+sity, desirability, or propriety of overthrowing or destroying any govern- 
+ment in the United States by force or violence, or by the assassination 
+of any officer of such government/' In Dennis v. United States (1951), the 
+government prosecuted people for organizing the Communist Party of 
+the United States, an organization that was said to teach and advocate the 
+overthrow of the United States government by force. The court held that 
+the constitutionality of the Smith Act would stand or fall on whether the 
+speech in question "created a 'clear and present danger' of attempting 
+or accomplishing the prohibited crime." In its most important analytic 
+step, the court concluded that this test did not mean that the danger 
+must truly be clear and present; it denied "that before the Government 
+may act, it must wait until the putsch is about to be executed, the plans 
+have been laid and the signal is awaited." When a group was attempting 
+to indoctrinate its members and to commit them to a course of action, 
+"action by the Government is required." 
+
+Following the distinguished court of appeals Judge Learned Hand, 
+the court conceived the clear and present danger test, in these circum- 
+stances, to involve a form of balancing, so that "In each case [courts] 
+must ask whether the gravity of the 'evil,' discounted by its improb- 
+ability, justifies such invasion of free speech as is necessary to avoid the 
+danger." The court said that it would "adopt this statement of the rule." 
+Having done so, the court upheld the convictions. It recognized that 
+no uprising had occurred. But the balancing test authorized criminal 
+
+990 
+
+social research 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+punishment in light of "the inflammable nature of world conditions, 
+similar uprisings in other countries, and the touch-and-go nature of our 
+relations with countries with whom [defendants] were in the very least 
+ideologically attuned." 
+
+Dennis sees the clear and present danger test as one of ad hoc 
+balancing, at least in cases that involve a potentially catastrophic harm. 
+But many people have been skeptical of such balancing, which no 
+longer reflects the law. Instead, the court understands the idea of clear 
+and present danger to require that the danger be both likely and immi- 
+nent (Brandenburg v. Ohio, 1969). This approach is quite different from 
+Judge Hand's balancing test. It does not ask courts to discount the evil 
+by its probability - an approach that would permit speech regulation 
+if an extremely serious evil has (say) a 20 percent chance of occurring. 
+Under the court's current standard, speech is protected if harm is not 
+"likely." And even if a risk has a 70 percent chance of occurring, and is 
+therefore likely, regulation is apparently unacceptable unless the risk 
+is imminent. How should we choose between a balancing approach 
+and one that requires both likelihood and imminence? At first glance, 
+the Dennis approach seems much better, at least on consequentialist 
+grounds. If a risk is only 10 percent likely to occur, but 100,000 people 
+will die if the risk comes to fruition, government should not simply 
+stand by until it is too late. In the environmental context, balancing 
+is surely preferable to a rule that would require both likelihood and 
+imminence. 
+
+What, then, can be said in favor the requirements of likelihood 
+and imminence? Perhaps the requirements have institutional justifica- 
+tions; perhaps they are a response to a judgment that in the real world, 
+the Dennis approach will produce excessive regulation of speech. If 
+balancing is entirely accurate, we should balance. But where speech is 
+unpopular, or when people are frightened of it, government might well 
+conclude that "the gravity of the 'evil,' discounted by its probability," 
+justifies regulation, even though it actually does not. 
+
+In the context of speech, there are independent considerations. 
+Public disapproval of the content of speech might result in a judgment 
+
+Fear and Liberty  991 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+that it is likely to cause harm even if the real motivation for censorship 
+is disagreement with the underlying ideas. And if the harm is not immi- 
+nent, disagreement and dissent might well prevent it from occurring. 
+The imminence requirement can therefore be understood as a recogni- 
+tion of the idea that more speech, rather than censorship, is the appro- 
+priate response to anticipated harm. In these circumstances, we can see 
+the clear and present danger test as reflecting a kind of second-order 
+balancing, one that distrusts official judgments about risks and harms 
+and that requires government to provide an unusually high burden of 
+proof. 
+
+As I have suggested, a general prohibition of torture can be 
+
+understood in similar terms. The justification need not be that torture 
+can never be defended by reference to consequences. A less contentious 
+justification would be that a government that is licensed to torture will 
+do so when torture is not warranted - and that the social costs of disal- 
+lowing torture do not, in the end, come close to the social benefits. I am 
+not suggesting that this judgment is necessarily correct. But I do believe 
+that aggressive protection of civil liberties and civil rights is often best 
+defended on these grounds, as a safeguard against mass fear or hyste- 
+ria that would lead to steps that cannot be justified on balance. In a 
+sense, liberties are "overprotected," compared to the level of protection 
+that they would receive in a system of (optimal) case-by-case balancing. 
+Because optimal balancing is not likely to occur in the real world, rule- 
+based protection is a justifiable second best. 
+
+Aggressive protection of free speech has been justified on the 
+ground that courts should take a "pathological perspective," one 
+suited for periods in which the public, and hence the judiciary, will be 
+tempted to allow indefensible restrictions in the heat of the moment 
+(Blasi, 1985). The argument is that free speech law builds up strong, 
+rule-like protections, eschewing balancing and sometimes protecting 
+speech that ought not to be protected. The reason for the "pathologi- 
+cal perspective" is to create safeguards that will work when liberty is 
+under siege. Such a perspective creates an obvious problem: It might be 
+that when liberty is under siege, public necessity requires it to be. The 
+
+992 
+
+social research 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+pathological perspective runs the risk of overprotecting liberty. But if 
+the argument here is correct, there is reason to believe that public fear, 
+heightened by worst-case scenarios, will result in selective burdens on 
+those who are unable to protect themselves. In such cases, constitu- 
+tional law operates best if it uses not balancing but rules or presump- 
+tions, allowing government to compromise liberty only on the basis of 
+a compelling demonstration of necessity. 
+
+CONCLUSION 
+I have attempted to uncover some mechanisms that can lead a fear- 
+ful public to support unjustified risk-reduction policies, including 
+unjustified intrusions on civil liberties. The availability heuristic and 
+probability neglect often lead people to treat risks as much greater 
+than they in fact are, and hence to accept risk-reduction strategies 
+that do considerable harm and little good. Civil liberties may be jeop- 
+ardized for precisely this reason. And when the burdens of govern- 
+ment restrictions are faced by an identifiable minority rather by the 
+majority, the risk of unjustified action is significantly increased. The 
+internment of Japanese-Americans during World War II is only one 
+salient example; some aspects of the current war on terrorism might 
+be similarly understood. 
+
+What can be done in response? I have suggested three possibili- 
+ties. First, courts should not allow the executive to intrude on civil liber- 
+ties without explicit legislative authorization. Second, courts should 
+usually be deferential to intrusions that apply to all or most; they should 
+be more skeptical when government restricts the liberty of a readily 
+identifiable few. Third, courts should avoid ad hoc balancing of liberty 
+against security; they should develop principles that reflect a kind of 
+second-order balancing, attuned to institutional considerations and the 
+risk of excessive fear. These three strategies are unlikely to provide all 
+of the protection sought by civil libertarians against the adverse effects 
+of excessive public fear. But when the risks to national security are real, 
+courts are properly reluctant to be as aggressive as in ordinary times. 
+The task is not to authorize courts to adopt a role to which they are ill- 
+
+Fear and Liberty 993 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+suited, but to develop approaches that counteract the risk that public 
+fear will lead to unjustified restrictions. 
+
+NOTES 
+1. This view is illuminatingly described and criticized in Posner and 
+
+Vermeule (forthcoming 2004). 
+
+2. See Rottenstreich and Hsee (2001), which finds that when emotions 
+
+are triggered, variations in probability matter relatively little. 
+
+3. The two systems need not be seen as occupying different physical 
+spaces; they might even be understood as heuristics(!) See Kahneman 
+and Frederick (2002). There is, however, some evidence that different 
+sectors of the brain can be associated with Systems I and II. See the 
+discussion of fear in LeDoux (1996), and the more general treatment 
+in Lieberman (2003). 
+
+4. For valuable discussion, see Posner and Vermeule (forthcoming 2004). 
+
+REFERENCES 
+Alkahami, A. S., and Paul Slovic. "A Psychological Study of the Inverse 
+Relationship Between Perceived Risk and Perceived Benefit." Risk 
+Analysis 14:6 (December 1994). 
+
+Best, Joel. Random Violence. Berkeley: University of California Press, 1999. 
+Blasi, Vincent. "The Pathological Perspective and the First Amendment. 
+
+Columbia Law Review 85:3 (April 1985): 449. 
+
+Gersen, Jacob. "Strategy and Cognition: Regulating Catastrophic Risk." 
+
+Unpublished manuscript, 2001. 
+
+Harrington, Matthew. "People's Willingness to Accept Airport Security 
+Delays in Exchange for Lesser Risk." Unpublished manuscript, 
+2002. 
+
+Hayek, Friedrich. The Constitution 
+
+of Liberty. Chicago: University of Chicago 
+
+Press, 1960. 
+
+Hirschleifer, David. "The Blind Leading the Blind." The New Economics of 
+Human Behavior. Eds. Marianno Tommasi and Kathryn Ierulli. New 
+York: Cambridge University Press, 1995. 
+
+994 
+
+social research 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+Johnson, E. J., et al. "Framing, Probability Distortions, and Insurance 
+Decisions." Journal of Risk and Uncertainty 7:1 (August 1993). 
+
+Jolis, Christine, et al. "A Behavioral Approach to Law and Economics." 
+
+Stanford Law Review 50:5 (May 1998). 
+
+Kahneman, Daniel, and Shane Frederick. "Representativeness Revisited: 
+Attribute Substitution in Intuitive Judgment." Heuristics and Biases: 
+The Psychology of Intuitive Judgment. Eds. Thomas Gilovich, Dale 
+Griffin, and Daniel Kahneman. New York: Cambridge University 
+Press, 2002. 
+
+Kuran, Timur, and Cass R. Sunstein. "Availability Cascades and Risk 
+
+Regulation." Stanford Law Review 51:4 (April 1999): 683. 
+
+LeDoux, Joseph. The Emotional Brain. New York: Simon and Schuster, 
+
+Lieberman, Matthew. "Reflexive and Reflective Judgment Processes: A 
+Social Cognitive Neuroscience Approach." Social Judgments. Eds. 
+Joseph P. Forgas, Kipling D. Williams, and William von Hippel. 
+New York: Cambridge University Press, 2003. 
+
+Loewenstein, George. "Risk As Feelings." Psychological Bulletin 127:2 (March 
+
+Margolis, Howard. Dealing With Risk. Chicago: University of Chicago Press, 
+
+1996. 
+
+2001). 
+
+1996. 
+
+Moscovici, S., and M. Zavalloni. "The Group as a Polarizer of Attitudes." 
+
+Journal of Personality and Social Psychology 12:2 (1969). 
+
+Office of Management and Budget. "Informing Regulatory Decisions: 
+
+2003 Report to Congress" <http://www.whitehouse.gov/omb/ 
+inforeg/regpol-reports_congress.html>. 
+
+Posner, Eric, and Adrian Vermeule. "Accommodating Emergencies." 
+
+Stanford Law Review (forthcoming 2004). 
+
+Rehnquist, William. All the Laws but One. New York: Knopf, 1998. 
+Rottenstreich, Yuval, and Christopher Hsee. "Money, Kisses, and Electric 
+Shocks: On the Affective Psychology of Risk." Psychological Science 
+12:3 (May 2001): 185. 
+
+Sherman, Steven J., et al. "Imagining Can Heighten of Lower the Perceived 
+Likelihood of Contracting a Disease: The Mediating Effect of Ease 
+
+Fear and Liberty 995 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+of Imagery." Heuristics and Biases: The Psychology of Intuitive Judgment. 
+Eds. Thomas Gilovich, Dale Griffin, and Daniel Kahneman. New 
+York: Cambridge University Press, 2002. 
+
+Slovic, Paul. The Perception of Risk. Sterling, Va.: Earthscan Publications, 
+
+2000a. 
+
+Slovic, Paul, et al. "Violence Risk Assessment and Risk Communication/' 
+
+Law and Human Behavior 24:3 (June 2000b). 
+
+Sunstein, Cass R. "Deliberative Trouble? Why Groups Go To Extremes." 
+
+ 
+
+Yale Law Journal 110:1 (October 2000). 
+. "Probability Neglect: Emotions, Worst Cases, and Law." Yale Law 
+Journal 112:1 (October 2002a). 
+ 
+. Risk and Reason. New York: Cambridge University Press, 2002b. 
+Tversky, Amos, and Daniel Kahneman. "Judgment Under Uncertainty: 
+
+Heuristics and  Biases." Judgment and Decision Making: An 
+Reader. Eds. Hal R. Arkes and Kenneth R. Hammond. 
+Interdisciplinary 
+New York: Cambridge University Press, 1986. 
+
+Viscusi, W. Kip, and Richard J. Zeckhauser. "Sacrificing Civil Liberties 
+to Reduce Terrorism Risks." Journal of Risk and Uncertainty 26:2-3 
+(March-May 2003). 
+
+von Hippel, William, et al. "Attitudinal Process Versus Content: The Role 
+of Information Processing Biases in Social Judgment and Behavior." 
+Social Judgments. Eds. Joseph P. Forgas, Kipling D. Williams, and 
+William von Hippel. New York: Cambridge University Press, 2003. 
+
+996 
+
+social research 
+
+This content downloaded from 128.255.6.125 on Thu, 22 Oct 2015 20:17:34 UTC
+All use subject to JSTOR Terms and Conditions
+
+

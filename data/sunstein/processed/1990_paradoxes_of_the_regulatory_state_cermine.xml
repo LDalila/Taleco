@@ -1,0 +1,2334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>U. Chi. L. Rev.</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Chicago Unbound</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <string-name>Recommended Citation</string-name>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Cass R. Sunstein, "Paradoxes of the Regulatory State," 57 University of Chicago Law Review 407</institution>
+          ,
+          <addr-line>1990</addr-line>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Faculty Scholarship</institution>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>1990</year>
+      </pub-date>
+      <volume>407</volume>
+      <issue>1990</issue>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>By "paradoxes of the regulatory state," I mean self-defeating
+regulatory strategies-strategies that achieve an end precisely
+opposite to the one intended, or to the only public-regarding
+justification that can be brought forward in their support.' This
+definition excludes, and I will not discuss, a number of pathologies of the
+regulatory state that are clearly related to the phenomenon of
+regulatory paradoxes, such as strategies whose costs exceed their
+benefits, or that have unintended adverse consequences. An example
+of a regulatory paradox would be a Clean Air Act that actually
+made the air dirtier,2 or a civil rights law that increased the
+incidence of racial discrimination.'</p>
+      <p>A large literature, inspired by public choice theory and welfare
+economics, has grown up around the theory that purportedly
+public-interested regulation is almost always an effort to create a cartel
+or to serve some private interest at the public expense.4 Although I
+shall be drawing on much of that literature here, I do not conclude,
+f Karl N. Llewellyn Professor of Jurisprudence, Law School and Department of
+Political Science, University of Chicago. Some of the arguments in this essay expand on Cass R.
+Sunstein, After the Rights Revolution: Reconceiving the Regulatory State ch 3 (Harvard,
+forthcoming 1990). I am grateful to Frank Easterbrook, Jon Elster, Larry Kramer, Geoffrey
+Miller, Sam Peltzman, Richard Posner, Frederick Schauer, George Stigler, David Strauss,
+and Alan Sykes for helpful suggestions. For financial support, I am grateful to the James H.
+Douglas, Jr. Fund for the Study of Law and Government, the Pritzker Family Faculty Fund,
+and the Jerome F. Kutak Faculty Fund.</p>
+      <p>I For a more precise discussion, see Section II.</p>
+      <p>2 The current Clean Air Act does reflect this paradox in some contexts, though its
+overall effect is beneficial. See text at notes 10-12 (regulatory successes) and 40-42 (shortcomings
+of Clean Air Act).</p>
+      <p>
+        3 For an argument that the civil rights laws have sometimes had this effect, see
+generally Richard A. Posner, An Economic Analysis of Sex DiscriminationLaws, 56 U Chi L Rev
+1311 (1989); and Richard A. Posner, The Efficiency and the Efficacy of Title VII, 136 U Pa
+L Rev 513, 520 (1987). There is, however, a good deal of evidence that on balance, these laws
+have reduced discrimination. See James S. Heckman and Brook S. Payner, Determiningthe
+Impact of FederalAntidiscriminationPolicy on the Economic Status of Blacks: A Study of
+South Carolina, 79 Am Econ Rev 138 (1989); Richard B. Freeman, Black Economic
+Progress After 1964: Who Has Gained and Why?, in Sherwin Rosen, ed, Studies in Labor
+Markets 247
+        <xref ref-type="bibr" rid="ref6">(U Chicago, 1981)</xref>
+        ; and John J. Donohue III, ProhibitingSex Discriminationin the
+Workplace: An Economic Perspective,56 U Chi L Rev 1337 (1989).
+      </p>
+      <p>
+        4 See George J. Stigler, ed, Chicago Studies in PoliticalEconomy
+        <xref ref-type="bibr" rid="ref6">(U Chicago, 1988)</xref>
+        ;
+Robert D. Tollison, Rent Seeking: A Survey, 35 Kyklos 575, 591-9
+        <xref ref-type="bibr" rid="ref34">7 (1982</xref>
+        ).
+as some of that literature appears to, that the appropriate response
+to regulatory paradoxes is to abandon regulation altogether and
+rest content with the operation of private markets. In many cases
+the market itself produces harmful or even disastrous results,
+measured in terms of efficiency or justice.5 The appropriate response to
+the paradoxes of regulation is not to return to a system of "laissez
+faire,"'6 but to learn from past failures. To this end, I outline the
+lessons, for legislators, judges, and administrators, that are to be
+drawn from the omnipresence of regulatory paradoxes. My most
+general goal is to describe some reforms by which we might
+restructure regulatory institutions so as to achieve their often
+salutory purposes, while at the same time incorporating the
+flexibility, respect for individual autonomy and initiative, and
+productive potential of economic markets.
+      </p>
+      <p>I. THE PERFORMANCE OF THE REGULATORY STATE: A PREFATORY</p>
+      <p>NOTE</p>
+      <p>In even the most prominent evaluations of the performance of
+the regulatory state, explorations of the real world consequences of
+regulatory intervention are strikingly infrequent. Work in
+administrative law, throughout the long history of that subject, has been
+conspicuously silent on the question.7 That silence is unfortunate,
+for evaluation of regulatory controls and legal doctrines must
+depend in large part on their effects in the world. The purpose of the
+' Much of the relevant literature focuses on the evils of "rent-seeking"-the
+expenditure of resources on the transfer of wealth through law rather than on the production of
+wealth through markets. Insofar as this is a normative critique, it is an ideological one, and
+a peculiar one at that. All laws have redistributive functions, and some such laws have
+powerful arguments in their support. Consider measures preventing environmental degradation
+or race and sex discrimination. Moreover, the expenditure of resources on laws is part and
+parcel of the practice of citizenship, and it would be wrong to devalue that practice because
+of the admittedly frequent phenomenon of self-interested political behavior on behalf of
+causes lacking public-regarding justifications.</p>
+      <p>I The term is of course misleading insofar as it suggests an absence of governmental
+controls. Even a system of laissez faire is pervaded by legal duties and disabilities that arise
+from contract, tort, and property law.</p>
+      <p>
+        7 Thus the classic discussions of the subject deal hardly at all with regulatory
+performance. See Louis L. Jaffe, Judicial Control of Administrative Action (Little, Brown, 1965);
+and Kenneth Culp Davis, Administrative Law Treatise (K.C. Davis Co., 2d ed 1978). The
+problem continues with more recent work. See Richard B. Stewart, The Reformation of
+American AdministrativeLaw, 88 Harv L Rev 1669 (1975); and James 0. Freedman, Crisis
+and Legitimacy: The Administrative Process and American Government (Cambridge,
+1978). For essays reflecting more concern with empirical matters, see Susan Rose-Ackerman,
+ProgressiveLaw and Economics And the New Administrative Law, 98 Yale L J 341 (1988);
+Bruce A. Ackerman and Richard B. Stewart, Reforming Environmental Law, 37 Stan L Rev
+1333 (1985); and John J. Donohue III, Is Title VII Efficient?, 134 U Pa L Rev 14
+        <xref ref-type="bibr" rid="ref41">11 (1986</xref>
+        ).
+Environmental Protection Agency (EPA), the Occupational Safety
+and Health Administration (OSHA), and the Federal
+Communications Commission (FCC) is to alter the conduct of private actors in
+certain ways. Evaluations that refer to "checks and balances" or
+"legitimacy," 8 or that deal in general or speculative terms with the
+effects of bureaucratic incentives or well-organized private groups,
+are of limited use if unaccompanied by a solid understanding of
+the actual consequences of regulatory programs. Attention to those
+consequences, and their implications for legislative and
+administrative policy, is perhaps the principal task for administrative law
+in the next generation.
+      </p>
+      <p>Unfortunately, empirical assessments of the consequences of
+regulation remain in a primitive state; but it is possible to draw
+several general conclusions. I outline some of them here.9 Though
+fashionable in many circles, the view that regulation has generally
+proved unsuccessful is far too crude. For example, efforts to reduce
+air pollution have in many respects been quite successful. 10
+Regulatory controls have helped to produce substantial decreases in
+both the levels and emissions of major pollutants, including sulfur
+dioxide, carbon monoxide, lead, and nitrogen dioxide. Ambient
+concentrations of lead have decreased especially dramatically,
+declining eighty-five percent between 1975 and 1988; transportation
+emissions of lead decreased from 122.6 million metric tons in 1975
+to 3.5 in 1986.11 Most important, the vast majority of counties in
+the United States are now in compliance with air quality goals. 2</p>
+      <p>Water pollution control has shown significant successes as
+well. The Great Lakes are substantially cleaner than they were in
+1965. A number of harmful nutrients have been reduced by nearly
+fifty percent in national rivers. Governmentally-required lead and
+nitrate reductions have produced significant improvements in
+' See Freedman, Crisis and Legitimacy at 260-62 (cited in note 7); Stewart, 88 Harv L
+Rev at 1670-71 (cited in note 7).</p>
+      <p>1 Two disclaimers are necessary. First, the methodological problems are severe, partly
+because of the difficulty of valuing costs and (especially) benefits, and partly because of the
+difficulty of holding everything else constant in measuring regulatory effects. For this reason
+the numbers and assessments in the text are contestable. Second, any evaluation must have
+a significant normative dimension; it cannot depend on the facts alone. For more details, see
+Cass R. Sunstein, After the Rights Revolution: Reconceiving the Regulatory State ch 3
+(Harvard, forthcoming 1990).</p>
+      <p>10 See The Conservation Foundation, State of the Environment:A View Toward the
+Nineties (1987); and Council on Environmental Quality (CEQ), Environmental Quality:
+The Eighteenth and Nineteenth Annual Report of the Council on EnvironmentalQuality
+together with The President'sMessage to Congress (GPO, 1987-88).</p>
+      <p>x Conservation Foundation, State of the Environment at 152-53 (cited in note 10).
+12 CEQ, EnvironmentalQuality at 49 (cited in note 10).
+water quality.' 3 All in all, both air and water are substantially
+cleaner than they would have been without regulatory controls,
+and despite a wide range of errors, the American experience serves
+in some respects as a model for the rest of the world.</p>
+      <p>Similarly, automobile safety regulation has significantly
+reduced deaths and serious injuries.' 4 Automobiles are much safer
+for occupants. For example, highway fatalities would have been
+about forty percent higher in 1981 if not for governmental
+controls.'5 Between 1966 and 1974, the lives of about 34,000 passenger
+car occupants were saved as a result of occupant safety
+standards.' 6 The annual benefits from regulation exceed ten billion
+dollars.'" Moreover, for automobile regulation the ratio of benefits to
+costs is extremely high. Indeed, some of the regulations pay for
+themselves in terms of health and related savings, and the large
+number of deaths actually prevented is of course a bonus. 8</p>
+      <p>More generally, studies of the costs and benefits of regulatory
+initiatives show that a number of other measures have produced
+health and other benefits at especially low costs. OSHA's
+regulation of asbestos prevents an estimated 396 deaths per year, and it
+does so at relatively low expense.' EPA's regulation of
+trihalomethanes saves a life at only $300,000 per year; the National
+Highway Traffic Safety Administration's (NHTSA) fuel system
+integrity controls, also $300,000; the Consumer Product Safety
+Commission's (CPSC) mandatory smoke detector rule, between $0 and
+$85,000; NHTSA's roadside hazard removal rule, $0.20</p>
+      <p>Finally, regulatory successes are not limited to the areas of
+safety and health. The Civil Rights Act of 1964 has led to a
+de</p>
+      <p>20 See Morrall, 10 Regulation at 30 (cited in note 18); Graham and Vaupel, 1 Risk
+Analcrease in racial discrimination in employment.2 There have been
+gains in the area of sex discrimination as well.2 2 And the
+Endangered Species Act has saved a number of species from extinction
+and endangerment.23</p>
+      <p>On the other hand, regulation has frequently failed.
+Sometimes it has imposed enormously high costs for speculative
+benefits; sometimes it has accomplished little or nothing; and
+sometimes it has aggravated the very problem it was designed to solve.
+For example, the United States spent no less than $632 billion for
+pollution control between 1972 and 1985, and some studies suggest
+that alternative strategies could have achieved the same gains at
+less than one-fifth the cost.24 The fuel economy standards for new
+cars appear to have produced no substantial independent gains in
+fuel economy, given consumer demands for fuel efficient cars in
+response to gas shortages and high gas prices. 5 Worse, they have led
+manufacturers to produce smaller, more dangerous cars; an
+estimated 2,200-3,900 mortalities are expected over the next ten years
+as a result of regulatory changes in 1989 alone.26 There is little
+question that the administration of the Natural Gas Act helped
+produce the energy crisis of the late 1970s-with huge attendant
+costs to investment and employment-by artificially restraining
+the price of gas.2 Some of OSHA's carcinogen regulations impose
+enormous costs for uncertain gains. Indeed, the pattern of OSHA
+regulation of carcinogens is a crazy quilt; regulations costing up to
+$40 million per life saved exist in some areas, with no regulations
+at all in others.2 8 The EPA has promulgated only seven regulations
+controlling toxic substances, so that a huge number of such
+subysis at 91-93 (cited in note 18). These studies also show a bizarre pattern of controls, with
+some programs saving lives at exceptionally high costs. Thus the FDA ban on DES in
+cattlefeed saves a life at $132 million each year, while much regulation of automobiles costs
+$400,000 or less per life.</p>
+      <p>21 See text at notes 70-71; and John J. Donohue III and James J. Heckman, Continuous
+Versus Episodic Change: The Impact of Affirmative Action and Civil Rights Policy on the
+Economic Status of Blacks, J Econ Perspectives (forthcoming, 1990).</p>
+      <p>22 See Donohue, 56 U Chi L Rev at 1360-62 (cited in note 3).</p>
+      <p>21 See Steven Lewis Yaffee, ProhibitivePolicy:Implementing the FederalEndangered
+Species Act (MIT, 1982).</p>
+      <p>
+        24 Thomas H. Tietenberg, Emissions Trading:An Exercise in Reforming
+PollutionPolicy 41-45
+        <xref ref-type="bibr" rid="ref21 ref47">(Resources for the Future, 1985)</xref>
+        .
+      </p>
+      <p>22 See Crandall, Regulating the Automobile at 157-58 (cited in note 14).</p>
+      <p>26 Robert W. Crandall and John D. Graham, The Effect of FuelEconomy Standardson
+Automobile Safety, 32 J L &amp; Econ 97, 115 (1989).</p>
+      <p>21 See Stephen Breyer, Regulation and its Reform 244 (Harvard, 1982).
+28 See Mendeloff, The Dilemma of Toxic Substance Regulationat 22 (cited in note 18).
+stances remain uncontrolled.29 By delaying the entry of beneficial
+drugs into the market, the Food and Drug Administration has, in
+many settings, dramatically increased risks to life and health. °</p>
+      <p>The general task of regulatory reform raises issues far beyond
+the scope of this discussion. Ironically, a large source of regulatory
+failure in the United States is the use of Soviet-style command and
+control regulation, which dictates, at the national level,
+technologies and control strategies for hundreds, thousands, or millions of
+companies and individuals in a nation that is exceptionally diverse
+in terms of geography, costs and benefits of regulatory controls,
+attitudes, and mores. 31 A valuable perspective on this problem can
+be obtained by examining the paradoxes of regulation, which pose
+a particular dilemma for the administrative state. A government
+that eliminated self-defeating regulatory strategies would eliminate
+a significant source of regulatory failure. And although the
+paradoxes are numerous, six of them have been of major importance in
+the last generation.</p>
+    </sec>
+    <sec id="sec-2">
+      <title>II. THE PARADOXES</title>
+      <p>I have defined a regulatory paradox as a self-defeating
+regulatory strategy; but whether a strategy is self-defeating depends on
+how its purposes are described. Any statute that fails to produce a
+net benefit to society can be described as self-defeating if its
+purpose is described as the improvement of the world. But if the
+statute's purpose is to benefit a particular group or segment of society,
+and that purpose is achieved, then the statute is not self-defeating
+at all. For example, a statute benefiting the agricultural industry at
+the expense of the public will not be self-defeating if its purpose is
+described as helping farmers. Throughout this discussion I
+describe the relevant statutory purposes at an intermediate level of
+generality and as public-regarding rather than as benefitting
+special interest groups. Under this approach, a statute whose costs
+outweigh its benefits, or that produces irrationality of various
+sorts, is not necessarily paradoxical.</p>
+      <p>Moreover, I mean to assess whether a statute is self-defeating
+by comparing the result it has produced to the likely state of
+affairs had Congress enacted a different and better statute or no
+statute at all.32 Measured against these benchmarks, regulation has
+produced a wide range of paradoxes.</p>
+      <p>Importantly, nearly all of the paradoxes are a product of the
+government's failure to understand how the relevant
+actors-administrators and regulated entities-will adapt to
+regulatory programs. The world simply cannot be held constant after
+regulations have been issued. Strategic responses, the creation of
+perverse incentives for administrators and regulated entities,
+unanticipated changes in product mix and private choice-these are the
+hallmarks of the paradoxes of the regulatory state. The adoption of
+strategies that take account of these phenomena would produce
+enormous savings in both compliance costs and safety and health
+gains. In this sense, a response to the regulatory paradoxes would
+produce no losers, or at least no losers who have a legitimate basis
+for complaint.</p>
+    </sec>
+    <sec id="sec-3">
+      <title>A. Paradox 1: Overregulation Produces Underregulation</title>
+      <p>The first paradox is that especially aggressive statutory
+controls frequently produce too little regulation of the private market.
+This surprising outcome arises when Congress mandates overly
+stringent controls, so that administrators will not issue regulations
+at all, or will refuse to enforce whatever regulations they or
+Congress have issued.3</p>
+      <p>The imposition of extremely stringent controls on regulated
+industries is a common strategy in Congress. Such controls
+typically ban cost-benefit balancing or indeed trade-offs of any sort. 4
+The expectation is that these controls will bring about safety in
+the workplace, or clean air and water, even if both the agency and
+industry are reluctant to act, and even if the costs of regulation are
+high. This strategy was especially popular during the dramatic
+growth of regulation in the 1960s and 1970s. It both fueled and was
+fueled by the notion that a safe workplace, or clean air and water,
+32 Additional benchmarks include the intended effects of the regulation and the status
+quo ante. Of course the "alternative statute" and "no statute" benchmarks point in
+different directions; the context should make those differences clear.</p>
+      <p>3 This is similar to a more general phenomenon in the criminal law: severe or
+mandatory sentences can actually produce less deterrence, because they make prosecutors
+reluctant to bring charges and juries reluctant to convict.</p>
+      <p>31 See Clean Air Act, 42 USC §§ 7409(b)(1), 7412(a)(1) (1982); Clean Water Act, 33
+USC § 1316(a)(1) (1982); Occupational Safety and Health Act, 29 USC § 655(b)(5) (1982).
+should be treated as involving a right to be vindicated rather than
+a risk to be managed. Consider President Nixon's proclamation:
+"Clean air, clean water, open spaces-these should again be the
+birthright for every American."35 This form of rights-based
+thinking was also inspired by evidence that recalcitrant agencies,
+suffering from inertia or immobilized by the power of well-organized
+private groups, frequently disregarded regulatory controls. 6</p>
+      <p>The strategy of imposing stringent regulatory controls or
+banning cost-benefit balancing is not hard to understand. It is only
+natural to think that if air pollution is a severe problem, the
+correct response is to reduce it as much as possible; and this idea
+quickly translates into a command to the EPA to reduce dangerous
+substances in the atmosphere to a level that will not adversely
+affect human health. 1 Similarly, an obvious method for controlling
+toxic substances in the workplace is to tell OSHA to eliminate
+these substances "to the extent feasible."38 Such strategies might
+produce too much regulation, but this might be thought a small
+price to pay for (finally) reducing pollution in the air or deaths in
+the workplace.3 9 In addition, a prohibition on "balancing" might be
+thought desirable by those fearful that any effort to balance would
+be distorted by the enforcement agency's undervaluation of life
+and health, especially in the context of seemingly permanent
+political divisions between the executive and the legislature.</p>
+      <p>But consider the record of both the EPA and OSHA in these
+settings. Of the several hundred toxic substances plausibly posing
+significant risks to human health, the EPA has regulated only
+seven-five as a result of court orders. 40 Of the many toxic
+substances in the workplace, OSHA has controlled only ten.
+Stunningly, this is so even though the private organization that once
+performed some of OSHA's functions has recommended lower
+exposure limits for hundreds of chemicals.4 To be sure, those
+substances that EPA and OSHA regulate are stringently controlled.42
+" State of the Union Address, 8 Public Papers of President Richard M. Nixon 13
+(GPO, 1970). See also statutes cited in note 34.</p>
+      <p>
+        " See Kay Lehman Scholzman and John T. Tierney, Organized Interests and
+American Democracy 63-8
+        <xref ref-type="bibr" rid="ref31 ref34">7 (Harper &amp; Row, 1986</xref>
+        ).
+      </p>
+      <p>3 Clean Air Act, 42 USC § 7409(b)(1).
+3' Occupational Safety and Health Act, 29 USC § 655(b)(5).</p>
+      <p>' Of course any-gain in this tradeoff depends on the magnitude of the relevant
+consequences.</p>
+      <p>"' See Note, 63 NYU L Rev at 613-14; 626 (cited in note 29).</p>
+      <p>1 See Mendeloff, The Dilemma of Toxic Substance Regulation at 2, 82 (cited in note
+18).</p>
+      <p>42 Id at 73-102.
+The current pattern, however, includes not only substantial
+overregulation of the substances that are subject to federal standards,
+but also, and possibly more serious, substantial underregulation of
+dangerous substances, such as chromium, perchloroethylene, and
+trichloroethylene.43</p>
+      <p>Despite the stringency of statutory standards, many activities
+in the United States are entirely free from regulatory controls.
+There is no evidence that the United States generally does a better
+job than England in protecting workers and citizens from
+occupational and environmental hazards, even though the English system
+consciously allows balancing in most contexts and the American
+system consciously rejects it.44</p>
+      <p>Statutes containing stringent regulatory requirements have
+thus yielded no protection at all in many settings. What is
+responsible for this astonishing outcome? One is tempted to find answers
+in the power of regulated industries or in the intransigence and
+deregulatory zeal of government officials. But the pattern of
+underregulation can be found in the Carter Administration as well as the
+Reagan Administration, even though President Carter's
+appointees, drawn in large number from the consumer and environmental
+movements, were hardly eager to prevent the government from
+curbing the proliferation of toxic substances. Elaborate and costly
+procedural requirements for the promulgation of federal
+regulations undoubtedly provide some explanation, since the process,
+including judicial review, has built into it enormous delays and
+perverse incentives.4 5 These requirements surely slow down and deter
+rulemaking. Industry has every opportunity and every incentive to
+fend off regulation by making plausible claims that additional
+information is necessary before regulation can be undertaken. This
+explanation is not in itself adequate, however, because organized
+interests have not prevented agencies from being far more
+aggressive in other settings.</p>
+      <p>"3Id at 74-102.</p>
+      <p>" See David Vogel, National Styles of Regulation: Environmental Policy in Great
+Britainand the United States 163 (Cornell, 1986).</p>
+      <p>45 See Stewart, 1985 Wis L Rev 655 (cited in note 31); and Mendeloff, The Dilemma of
+Toxic Substance Regulation at 115-24 (cited in note 18).</p>
+      <p>For an intriguing solution to this problem, see the discussion of California's Proposition
+65 in David Roe, An Incentive-Conscious Approach to Toxic Chemical Controls, 3 Econ
+Dev Q 179 (1979). Proposition 65 requires businesses to warn people exposed to any one of a
+list of specified chemicals, unless there has been a governmental finding that the chemical in
+question poses no significant risk. By putting the burden of inertia on regulated industry,
+Proposition 65 creates incentives rather than disincentives for the issuance of regulations
+distinguishing safe from unsafe levels.</p>
+      <p>A large part of the explanation lies in the stringency of the
+regulatory standard itself. A stringent standard-one that forbids
+balancing or calls for regulation to or beyond the point of
+"feasibility"-makes regulators reluctant to act.46 If, as is customary,
+regulators have discretion not to promulgate regulations at all, a
+stringent standard will provide them with a powerful incentive for
+inaction. Their inaction is not caused by venality or confusion.
+Instead, it reflects their quite plausible belief that the statute often
+requires them to regulate to an absurd point. If regulators were to
+issue controls under the statute, government and private resources
+would be unavailable to control other toxic substances; domestic
+industry costs would increase; and ultimately industries competing
+in world markets would face a serious risk of shutdown. Under
+these circumstances, a stringent standard will mobilize political
+opposition to regulation from within and without government. It will
+also increase the likelihood of judicial invalidation. Finally, it will
+require agencies to obtain greater supporting information to
+survive political and judicial scrutiny, while at the same time making
+it less likely that such information will be forthcoming from
+regulated class members. All the incentives are therefore in the
+direction of issuing fewer regulations.</p>
+      <p>It is thus unsurprising that a draconian standard produces
+underregulation as well as overregulation. A crazy quilt pattern of
+severe controls in some areas and none in others is the predictable
+consequence of a statute that forbids balancing and tradeoffs.</p>
+      <p>The problem goes deeper still. Even if the resistance of the
+agency has been overcome, and some or many regulations have
+been issued under a statute calling for stringent regulatory
+controls, the risk of underregulation does not disappear. Levels of
+enforcement-inspections and fines-will reflect the agency's
+reluctance.47 This has in fact been the pattern with OSHA's safety and
+health regulations, some of which have been effectively
+unenforced4 s by Democratic as well as Republican administrations.
+This, then, is the first paradox of the regulatory state: stringent
+regulatory standards produce underregulation.49</p>
+      <p>"' See Mendeloff, The Dilemma of Toxic Substance Regulation at 11-12 (cited in note
+18).</p>
+      <p>47 Low appropriations are also a predictable consequence.</p>
+      <p>48 See W. Kip Viscusi, Risk by Choice:RegulatingHealth and Safety in the Workplace
+22-24 (Harvard, 1983).</p>
+      <p>" At least in theory, it is possible that this effect will not occur-if the agency has no
+enforcement discretion, or if it is determined (for example) to eliminate all risk-creating
+substances from the atmosphere. But the absence of enforcement discretion is rare, and an
+B. Paradox 2: Stringent Regulation of New Risks Can Increase
+Aggregate Risk Levels</p>
+      <p>Frequently Congress is presented with a risk or problem that
+can be found both in existing entities and in potential entrants.
+For example, automobiles produce carbon monoxide; modern
+electricity plants emit sulfur dioxide; many existing buildings are
+inaccessible to the handicapped; and drugs currently on the market
+pose health hazards to consumers. In such situations, a common
+strategy has been to impose especially severe limitations on new
+sources but to exempt old ones. Indeed, such exemptions might be
+a political prerequisite for enactment of the regulation. Congress
+might require that new automobiles be equipped with pollution
+control devices, that new plants emitting pollution meet stringent
+regulatory controls, that new buildings be accessible to the
+handicapped, and that new drugs survive special safety requirements.</p>
+      <p>This strategy is a pervasive one in current regulatory law, and
+it has obvious advantages.5 0 Retroactive application of regulatory
+requirements can be extremely costly; the expense of altering
+existing practices is often high. Requiring the specified approach only
+prospectively can achieve significant savings. In addition, it may be
+unfair to impose costs on people who would have ordered their
+affairs quite differently had they been informed beforehand of the
+regulatory regime.5</p>
+      <p>As a control technique, however, the strategy of imposing costs
+exclusively on new sources or entrants can be self-defeating. Most
+important, it will discourage the addition of new sources and
+encourage the perpetuation of old ones. The problem is not merely
+that old risks will continue, but that, precisely because of
+regulatory programs, those risks will become more common and last
+longer than they otherwise would.</p>
+      <p>Two different phenomena underlie the old risk-new risk
+paradox. First, those who plan regulatory programs often assume that
+the programs will not influence private choices. Private choices are,
+however, a function of current supply and demand. If the program
+agency determined to eliminate all risks will create paradoxes of its own-causing ancillary
+social harms, or producing greater risks of different sorts. Compare the Delaney Clause,
+discussed in the text at notes 59-60.</p>
+      <p>50 See Peter Huber, The Old-New Division in Risk Regulation, 69 Va L Rev 1025
+(1983).</p>
+      <p>1XA recurring problem with regulatory schemes, and with this one in particular, is that
+the imposition of requirements on new sources imposes large opportunity costs, which are
+real and sometimes large but usually imperceptible.
+raises the price of new products it will shift choices in the direction
+of old risks. Second, a focus on new risks reduces the entry of
+potentially superior sources or technologies and thus perpetuates old
+ones. Regulatory controls eliminate possibilities that might have
+turned out to be substantially safer than currently available
+options. The result is to increase the life of those options.</p>
+      <p>Examples are not difficult to find. The EPA's program
+requiring the installation of anti-pollution technology in new automobiles
+belongs in the first category. 52 This program has prolonged the use
+of old, dirty vehicles, retarding the ordinary, salutary retirement of
+major sources of environmental degradation. 3 Command and
+control regulation of new pollution sources creates incentives to use
+existing facilities longer, with harmful consequences for the
+environment6. 4 Prescription requirements probably discourage people
+from purchasing beneficial drugs and to that extent impair
+health.5 5 Imposition of high, safety-related costs on new airplanes
+may well encourage airlines to retain (and repair) old, risky planes.</p>
+      <p>One might put the EPA's requirement of costly "scrubbing"
+strategies for new sources of sulfur dioxide in the second category.
+This rule has perpetuated the existence of old sources of sulfur
+dioxide, thus aggravating in many parts of the country the very
+problem it was designed to solve. 6 So too, the imposition of
+stringent barriers to nuclear power plants has perpetuated the risks
+produced by coal, a significantly more dangerous power source."
+And perhaps worst of all, the FDA's stringent regulatory standards
+for approving new drugs have forced consumers to resort to old
+drugs, which are frequently more dangerous or less beneficial than
+the new drugs being kept off the market.58</p>
+      <p>A final example of the old risk/new risk paradox is the
+Delaney Clause,59 which prohibits manufacturers from using food
+additives containing carcinogens. Ironically, this provision has probably
+increased safety and health risks. The Clause forces manufacturers
+to use noncarcinogenic, but sometimes more dangerous,
+substances. In addition, it makes consumers resort to substances
+already on the market that often pose greater risks than new
+entrants would. Since the newest and best detection equipment is
+used on proposed new additives, the statutorily prohibited additive
+may well pose fewer risks to consumers than substances already on
+the market that were tested with cruder technology. Thus the
+Delaney Clause defeats its own purpose6. °</p>
+      <p>The phenomenon of careful regulation of new risks and lenient
+or no regulation of old ones may not simply reflect legislative
+myopia or confusion. Public choice theory provides a plausible
+explanation for the phenomenon. A system of regulation that imposes
+controls solely on new products or facilities should have
+considerable appeal for those in possession of old ones. If new sources will
+face regulatory costs, the system of government controls will
+immunize existing producers from fresh competition. Indeed, the
+regulatory statute will create a partial cartel, establishing a common
+interest among current producers and giving them a significant
+competitive advantage over potential new entrants. The victims of
+the old-new division, however, often do not yet exist. They are
+usually hard to identify, do not perceive themselves as victims, and
+are not politically organized.</p>
+      <p>It may be for this reason that the careful regulation of new
+risks is such a popular strategy. It is apt to be favored both by
+existing industry and by many of those who seek to impose
+controls in the first instance. The potential victims-consumers and
+new entrants-often have insufficient political strength to counter
+the proposals. When this phenomenon is combined with the
+apparently sensible but sometimes self-defeating idea that a phase-in
+strategy is better than one that requires conversions of existing
+producers, it is no surprise that the old risk-new risk division
+remains so popular.</p>
+      <p>s' See Richard A. Merrill, FDA's Implementation of the Delaney Clause: Repudiation
+of CongressionalChoice or Reasoned Adaptation to Scientific Progress?, 5 Yale J Reg 1
+(1988). See also Peter W. Huber, Liability (Basic Books, 1988).</p>
+      <p>A qualification is necessary here. It is possible that people are especially fearful of
+cancer and not so fearful of other, equally dangerous health risks, and that this configuration of
+fears underlay the Delaney Clause. In that case, the Clause would serve its specific purpose
+of keeping carcinogens off the market, irrespective of the relative health risks of various
+products. Although the Clause might in fact increase overall health risks, it would not be a
+regulatory paradox, since it successfully implements its primary goal.
+C. Paradox 3: To Require the Best Available Technology is to
+Retard Technological Development</p>
+      <p>Industry frequently fails to adopt the best technology for
+controlling environmental or other harms. The technology exists or
+can be developed relatively cheaply, but polluters simply refuse to
+use it. Congress and the EPA have often responded by requiring
+that all industries use the best available technology (BAT). The
+BAT strategy is pervasive in federal environmental law,6 and may
+indeed be its most distinctive characteristic.</p>
+      <p>The BAT strategy is motivated by a desire to produce
+technological innovation, and here it has a surface plausibility. As
+discussed above, recent years have witnessed large decreases in air
+and water pollution, and these decreases are partly attributable to
+the use of emission control technologies. Requiring the adoption of
+the best available control technology seems a sensible way to
+ensure that all industries are doing their utmost to prevent pollution.
+This strategy also appears inexpensive to enforce. The government
+simply decides on the best technology and then requires all
+industries to comply.2</p>
+      <p>The BAT approach, however, can defeat its own purposes and
+thus produce a regulatory paradox. It is an extremely clumsy
+strategy for protecting the environment. To be sure, the approach is a
+plausible one if the goal is to ensure that all firms use currently
+established technology. But a large goal of regulation should be to
+promote technological innovation in pollution control. Regulation
+should increase rather than decrease incentives to innovate.
+Government is rarely in a good position to know what sorts of
+innovations are likely to be forthcoming; industry will have a huge
+comparative advantage here. Perversely, requiring adoption of the
+BAT eliminates the incentive to innovate at all, and indeed creates
+disincentives for innovation by imposing an economic punishment
+on innovators. Under the BAT approach, polluting industries have
+no financial interest in the development of better pollution control
+technology that imposes higher production costs. Indeed, the
+opposite is true. The BAT approach encourages industry to seek any
+means to delay and deter new regulation. Industry will have the
+information as well as the incentive to persuade administrators,
+"' See, for example, 42 USC § 7411(a)(1)(C) (Clean Air Act); 33 USC § 1316(a)(1)
+(Clean Water Act).</p>
+      <p>2 See Howard Latin, Ideal Versus Real Regulatory Efficiency: Implementation of
+Uniform Standards and "Fine-Tuning"Regulatory Reforms, 37 Stan L Rev 1267 (1985).
+courts, and other authorities that a suggested technology is not
+"feasible" and should not be required.</p>
+      <p>If government requires whatever technology is available, then,
+industry has no economic reason to develop new mechanisms for
+decreasing safety and health risks. Moreover, the BAT approach,
+applicable as it is only to new sources, raises the cost of retiring old
+facilities, which delays capital turnover and in that way aggravates
+environmental degradation. The paradox, in a nutshell, is this:
+designed to promote good control technology, the BAT strategy
+actually discourages innovation. It is therefore self-defeating.</p>
+      <p>One might respond to this hypothesis by arguing that under
+the BAT approach outsiders should have an incentive to innovate,
+precisely because government will force industry to adopt the
+resulting technology. But no well-functioning market in pollution
+control technology exists for those outside of the regulated
+industries, and for good reasons. First, outsiders often lack the relevant
+information, which is unusually expensive because it turns on facts
+that are highly technical and known best to participants in the
+industry. In practice, outsiders must depend on cooperation from
+regulated class members, which is unlikely to be forthcoming. The
+start-up costs are therefore exceptionally high for third parties.
+Second, regulation often changes dramatically over time, a
+phenomenon that discourages a stable market in control technology.
+The result is that innovations by outsiders have not come about
+under BAT approaches. 4
+D. Paradox 4: Redistributive Regulation Harms Those at the
+Bottom of the Socioeconomic Ladder</p>
+      <p>A common justification for regulation is redistribution. The
+legislature imposes controls on the market to prevent what it sees
+as exploitation 65 or unfair dealing by those with a competitive
+advantage. In principle, the claim for redistribution is often a
+powerful one. Market wages and prices depend on a wide range of factors
+that are morally irrelevant: supply and demand curves at any
+particular point; variations in family structure and opportunities for
+education and employment; existing tastes; and perhaps even
+differences in initial endowments, including talents, intelligence, or
+physical strength.6 So long as the regulation can be made effective
+and does not produce high ancillary costs (an important
+qualification), government should not always take these factors as
+"natural," or let them be turned into social disadvantages.</p>
+      <p>Minimum wage legislation, for example, prevents workers
+from having to settle for market wages that do not even approach
+the poverty level and thus offer minimal incentives to work;
+occupational safety statutes protect workers against extremely
+hazardous workplaces; rent control legislation prevents tenants from
+being subject to unanticipated price increases and perhaps thrown
+into significantly inferior housing;6 and implied warranties of
+habitability protect tenants from living in disgraceful and indeed
+dangerous apartments.</p>
+      <p>In all these cases, however, regulation is a poor mechanism for
+redistributing resources, precisely because it is often
+self-defeating. 8 The problem is that if everything else is held constant,69 the
+market will frequently adjust to the imposition of regulation in a
+way that will harm the least well-off. It is a mistake to assume that
+regulation will directly transfer resources or create only ex post
+winners and losers-an idea exemplified by the assumption that
+the only effect of the minimum wage is to raise wages for those
+currently working. An important consequence of the minimum
+wage is to increase unemployment by raising the price of marginal
+labor; and those at the bottom of the ladder-the most vulnerable
+members of society-are the victims.70 In the same vein, rent
+control legislation and implied warranties of habitability create
+incentives for producers (landlords) to leave and disincentives to enter
+the housing market, with perverse redistributive consequences and
+especially harsh results for the poor, who may be left without
+housing at all.7'</p>
+      <p>Laws forbidding discrimination or requiring affirmative action
+will to some extent have the same effect, since they will make it
+more expensive to hire blacks, women, and older people by
+increasing the likelihood that employers will be subject to a lawsuit in the
+event of a discharge.7 2 Similarly, occupational safety and health
+regulation does not unambiguously promote the interests of
+workers. By raising costs, it may depress wages and increase
+unemployment, thus harming the least well-off.7 3 In each of these cases, the
+group that is harmed is likely to be poorly organized and incapable
+of expressing itself through the political process.</p>
+      <p>In sum, redistributive regulation will have complex
+distributive consequences, and the group particularly disadvantaged by the
+regulation will typically consist of those who are already most
+disadvantaged. Efforts to redistribute resources through regulation
+will therefore have a serious perverse result.</p>
+      <p>Two often overlooked qualifications are necessary here. First,
+the redistributive regulation, though in some ways perverse, might
+be part of a system of redistribution that is effective overall. A
+minimum wage law might be justified as a means of protecting the
+working poor if it is accompanied by a welfare system to take care
+of those who cannot work at all. For this reason, plausible
+arguments can be made for the minimum wage despite its
+self-defeating aspect. It has been argued, for example, that an increase in the
+minimum wage is necessary to guarantee that work will be
+sufficiently remunerative to keep people out of poverty and to send a
+signal about the importance and value of work, thereby increasing
+the supply of and demand for labor. These effects might outweigh
+the unemployment effect. According to some estimates, a ten
+percent increase in the minimum wage would increase unemployment
+among young people by only one percent. 4</p>
+      <p>A second qualification of the redistribution paradox relates to
+the fact that preferences are not static. Preferences are usually
+taken as exogenous to and independent of the legal rule, but
+sometimes this is a mistake.75 If the statute in question transforms
+preferences and beliefs, the self-defeating effect just described will not
+occur. For example, laws forbidding sexual harassment aim to alter
+the desires and beliefs of would-be harassers; and if the laws
+succeed in this goal, any perverse side effects may be minimal or
+nonexistent. The same argument may apply to antidiscrimination laws
+generally. If such laws change attitudes, they may not on balance
+harm the least well-off. There is, however, little empirical evidence
+on the effects of law in changing preferences and beliefs, and in
+any case this is not likely to result from such redistributive
+regulation as minimum wage legislation.</p>
+      <p>E. Paradox 5: Disclosure Requirements May Make People Less
+Informed</p>
+      <p>Sometimes markets fail because people are deceived or lack
+information.76 Regulatory agencies commonly respond by
+requiring correction or full disclosure. Congress and agencies have
+imposed disclosure regulations in many areas, ranging from
+occupational and environmental risks to potentially deceptive
+advertising.77 Here the rationale is straightforward. Whether or not
+ignorance is bliss, it is an obstacle to informed consumer choice.
+Surely, it might be asked, regulation cannot be condemned for
+increasing information?</p>
+      <p>Disclosure strategies are indeed valuable in many
+circumstances. But for two reasons, they can be self-defeating. The first is
+that people sometimes process information poorly.7 8 After being
+given certain data, they actually "know" less than they did
+beforehand. In particular, when people receive information about
+probabilities, especially low ones, they frequently rely on heuristics
+that lead to systematic errors. 9 Thus, for example, people assess
+probabilities by asking if the event was a recent one and by
+misunderstanding the phenomenon of regression to the mean. 0 In
+addition, disclosure or corrective language can help straighten out one
+form of false belief but at the same time increase the level of other
+kinds of false beliefs."' Finally, there is a risk of information
+overload, causing consumers to treat a large amount of information as
+equivalent to no information at all.82 All this suggests that with
+respect to information, less may be more. Additional information
+can breed confusion and a weaker understanding of the situation
+at hand.</p>
+      <p>The second problem is that a requirement of disclosure or
+perfect accuracy will sometimes lead producers or other regulated
+entities to furnish no information whatsoever. For example, if
+producers are prohibited from advertising unless they eliminate all
+potential deception or offer strong substantiation for their claims,
+they might not advertise at all. The result will be the removal from
+the market of information that is useful overall. 3 If advertisers
+must conduct extensive tests before they are permitted to make
+claims, they will be given a strong incentive to avoid making claims
+at all. More generally, almost all substantive advertisements will
+deceive at least some people in light of the exceptional
+heterogeneity of listeners and viewers. If this is so, efforts to eliminate
+deception will significantly reduce advertising with substantive content.</p>
+      <p>These various difficulties suggest that the recent enthusiasm
+for disclosure requirements is in at least some settings a mistake,
+for the simple reason that it defeats its own purpose. Disclosure
+requirements sometimes ensure that people are less informed.</p>
+    </sec>
+    <sec id="sec-4">
+      <title>F. Paradox 6: Independent Agencies are not Independent</title>
+      <p>The distinctive institutional legacy of the New Deal period is
+the "independent" agency. An agency is independent if Congress
+has provided that its members can be discharged by the President
+only for specified causes. If Congress has so provided, it is
+ordinarily understood that the President cannot discharge
+independent commissioners simply because he disagrees with their
+views, and that his supervisory authority is sharply limited. 4
+Independent agencies, some of them antedating the New Deal, include
+the Federal Trade Commission, the Federal Communications
+Commission, the Interstate Commerce Commission, and the National
+Labor Relations Board. The paradox at issue here is one of
+institutional design rather than substantive regulatory policy.</p>
+      <p>The argument for the independent agency stems largely from
+a belief in the need for expert, apolitical, and technically
+sophisticated administration of the laws." Even if independent agencies
+achieved this end, one might question the goal itself. Independent
+agencies often must make important judgments of policy and
+principle, and on those judgments expertise is never decisive. Consider,
+for example, the decisions of the National Labor Relations Board
+defining what constitutes an unfair labor practice; the judgment of
+the FCC about whether licensees are obliged to present
+programming on public issues, or whether diversity on the basis of race or
+sex counts in favor of an applicant for a license; and the safety
+requirements of the Nuclear Regulatory Commission. None of
+these policies is based solely on technocratic judgments, and so
+may properly belong in the political rather than the regulatory
+sphere.</p>
+      <p>But even if one accepts the premise that political
+independence is necessary, the fact is that independent agencies are not
+independent at all. Indeed, such agencies are highly responsive to
+shifts in political opinion and even to the views of the President."6
+But the problem is even worse than that. The independent
+agencies have generally been highly susceptible to the political pressure</p>
+      <p>I question this understanding below. See text at notes 126-35.</p>
+      <p>85 See James M. Landis, The AdministrativeProcess (Greenwood Press, 1938). See also
+Geoffrey P. Miller, Independent Agencies, 1986 S Ct Rev 41 (presenting but rejecting this
+argument and claiming that Congress may not constitutionally deny the President the
+power to remove a policymaking official who has refused a presidential order).</p>
+      <p>
+        86 See Terry Moe, Regulatory Performanceand PresidentialAdministration,26 Am J
+Pol Sci 19
+        <xref ref-type="bibr" rid="ref34">7 (1982</xref>
+        ).
+of well-organized private groups-perhaps even more susceptible,
+on balance, than executive agencies.
+      </p>
+      <p>Many of the most egregious illustrations of agency
+vulnerability to pressure groups can be found in precisely this area. Thus the
+Interstate Commerce Commission has created and enforced cartels
+in the transportation industry; the Federal Trade Commission has
+sometimes behaved in an anticompetitive manner, capitulating to
+losers in the marketplace; and the FCC has been dominated by the
+communications industry.8 Far from acting as disinterested
+experts, independent administrators often are, in practice, subject to
+parochial interests.89</p>
+      <p>Why would agencies independent of the President be
+susceptible to factional power? The phenomenon might be explained at
+least in part by the fact that executive agencies, precisely because
+they are subject to presidential control, are able to withstand the
+parochial pressures imposed on "independent" agencies that lack
+the buffer of presidential oversight. The absence of this
+presidential buffer leaves agencies vulnerable both to individual members
+and committees of Congress," which sometimes represent narrow
+factions and well-organized private groups with significant stakes
+in the outcome of regulatory decisions. Executive agencies are at
+least sometimes immunized from those pressures precisely because
+of the protective, insulating wing of the President.9 1 Ironically,
+independence from the President often appears to be a mechanism
+for increasing susceptibility to factionalism.</p>
+      <p>The susceptibility of the independent agencies to factionalism
+does not of course imply that executive officers are invulnerable to
+similar forces. The notion that independent agencies are
+systemically more susceptible to factions than their counterparts within
+8 See Marvin H. Bernstein, Regulating Business By Independent Commission 170
+(Princeton, 1955); and Richard A. Harris and Sidney M. Milkis, The Politics of Regulatory
+Change (Oxford, 1989).</p>
+      <p>
+        88 See Lucas A. Powe, Jr., American Broadcastingand the First Amendment
+        <xref ref-type="bibr" rid="ref6">(U Cal,
+1987)</xref>
+        .
+      </p>
+      <p>8 The Federal Reserve Board is an independent agency, but it may be an unusual case.
+No well-organized group is its special target; the class of people benefited and burdened by
+its decisions is too large and diffuse to make it susceptible to any particular group. This
+independent agency may in fact be independent.</p>
+      <p>"0See the remarks in Independent Agencies-Independent from Whom?, 41 Admin L
+Rev 491 (1989) (panel discussion). Compare INS v Chadha,462 US 919, 946-59 (1983)
+(invalidating the legislative veto on the ground that it bypasses bicameralism and presentment
+requirements, which promote deliberation and prevent factionalism in government).</p>
+      <p>" See generally Symposium: The Independence of Independent Agencies, 1988 Duke
+L J 215.
+the executive branch seems overly broad.92 But if Congress wants
+to ensure independence in the execution of the laws, the
+independent agency device appears to be a most unlikely way to achieve
+that goal. The creation of independent agencies is usually
+selfdefeating."</p>
+    </sec>
+    <sec id="sec-5">
+      <title>Other Paradoxes, in Brief</title>
+      <p>I have described some prominent regulatory paradoxes, but
+there are others as well. For example, it has been argued that the
+pursuit of the "best interests of the child" in custody
+determinations in fact disserves the best interests of children, because of the
+enormous time spent in resolving the complicated factual
+question.94 Protectionist legislation is sometimes justified on the theory
+that it will help domestic industries develop into potent
+competitive forces, but in fact protectionism
+may induce flabbiness and in
+the end defeat the goal of promoting international competitiveness.
+And restrictions on the availability of abortion, defended as a
+means of protecting human life, appear to have resulted in the
+death of many women per year and at the same time not to have
+protected a large percentage of fetuses from the practice of
+abortion. 5</p>
+      <p>Many more paradoxes can be found. There is evidence that
+mandatory prescriptions for drugs have increased health risks by
+limiting the availability and raising the cost of prescription drugs;
+this in turn has decreased self-treatment and encouraged people to
+use possibly less effective over-the-counter drugs.9 6 Product safety
+regulation may have a "lulling effect" on consumers, leading them
+to take fewer precautions and to miscalculate risks.97 The
+government prohibition on cigarette advertising on television, designed to
+decrease smoking, may have increased smoking because it: (1)
+reduced competition among firms, thus cartelizing the industry over
+the advertising issue; (2) eliminated the application of the fairness
+doctrine to cigarettes, which would have ensured a vigorous
+anticigarette campaign; and (3) saved the industry substantial sums of
+money."8</p>
+      <p>A final paradox can be found in the law of sex discrimination,
+where principles of "formal equality" have been invoked to forbid
+consideration of sex in custody, alimony, and divorce disputes. It is
+quite possible that equality principles, understood as prohibitions
+on any form of sex differentiation in law, have in some contexts
+produced less rather than more in the way of real equality between
+men and women. 9 When two groups are differently situated, a
+legal requirement that they be treated the same seems a perverse
+method of promoting equality between them. There is in fact
+evidence that the application of these principles has further
+disadvantaged women.1"' Here too, then, legal controls have been
+selfdefeating.</p>
+    </sec>
+    <sec id="sec-6">
+      <title>III. Two QUESTIONS: WHAT WE DON'T KNOW</title>
+    </sec>
+    <sec id="sec-7">
+      <title>Causation</title>
+      <p>One might react to the regulatory paradoxes by suggesting
+that the relevant strategies are not self-defeating at all. On the
+contrary, they might represent a conscious governmental choice
+and even, on one view, regulatory success. Public choice theory
+suggests that legislative outcomes are frequently a product of
+pressure applied by well-organized private groups. It is not difficult to
+find "cartels in the closet"'101 to account for many or all of the
+paradoxes and to make them seem far less mysterious.</p>
+      <p>For example, the apparently perverse effects of redistributive
+regulation may be actively sought by the benefited groups. On this
+account, the purpose of minimum wage legislation might not be to
+help the poor, but rather to immunize union members from
+competition by people who are willing to work for low wages by
+limiting entry into the labor market. Far from being unintended
+consequences, the harmful effects on those at the bottom of the
+economic ladder may be actively sought. Looked at from this
+perspective, minimum wage legislation creates a cartel among those
+not threatened by unemployment, benefiting them at the expense
+of new entrants into the labor market.</p>
+      <p>So too, independent agencies might be created at the behest of
+groups that know they will have particularly strong influence over
+public officials not subject to presidential oversight; or Congress
+might create an independent agency not to ensure technocracy or
+neutrality, but to increase the power of its members and
+committees over agency decisions. 102 Similarly, existing industry, in a bid
+to reduce competition, might acquiesce in or actively seek
+regulations distinguishing between old and new risks. It is hardly
+unusual for companies to enlist regulatory law in the service of
+cartelization.</p>
+      <p>The overregulation-underregulation phenomenon has a similar
+explanation. By adopting a draconian standard, legislators can
+claim to support the total elimination of workplace hazards or
+dirty air; but legislators and regulated industries know that
+administrators will shrink from enforcing the law. A "deal" in the form of
+a stringent, unenforceable standard benefits the politically
+powerful actors. Hence the political economy of overregulation is similar
+to that of open-ended delegations of administrative authority: in
+both cases, legislative incentives incline Congress toward broad
+and appealing statutes that will not in practice harm politically
+powerful groups. The public is the only real loser.</p>
+      <p>Explained in this manner, the paradoxes of the regulatory
+state are not mysterious at all. On the contrary, they are perfectly
+predictable responses to electoral self-interest and to disparities in
+political influence.</p>
+      <p>While explanations of this sort have power in some settings,
+the evidence on their behalf is often overstated. It is of course
+possible that the seemingly paradoxical effects of regulatory programs
+actually account for their enactment. But this is only a possibility.
+102 Compare Miller, 1986 S Ct Rev at 74 (cited in note 85).
+To explain a phenomenon by reference to its consequences is bad
+social science, even though it is pervasive in such widely diverse
+disciplines as neoclassical economics, Marxism, and sociobiology.0 3
+In the context of the regulatory state, whether public choice
+explanations are good ones rather than merely plausible stories depends
+not just on the consequences of regulation, but also on a careful
+investigation into the actual forces that lead to regulation. In the
+regulatory sphere, such investigations are infrequent.</p>
+      <p>The most one can say is that the regulatory paradoxes might
+reflect the influence of well-organized private groups, and that in
+some settings there is direct or indirect evidence to support that
+conclusion. At least thus far, any more global conclusion is simply
+not supported by the facts.</p>
+    </sec>
+    <sec id="sec-8">
+      <title>Magnitude</title>
+      <p>Whether the regulatory paradoxes should cause major concern
+depends on their magnitude. Here too, much of the relevant
+information remains to be developed. For example, a decision to focus
+on new sources of pollution would be understandable if that
+decision would have only a minor effect in perpetuating old sources.
+But if the effect is substantial, the regulatory policy would almost
+certainly be ill-considered. Similarly, the minimum wage might
+well be justified if its effect is the unemployment of only a few
+additional people. The relevant question is the elasticity of the
+demand for labor.104 Finally, even if some people are misled by
+compulsory disclosure of risks, perhaps there will be sufficient gains
+through reducing others' ignorance to justify the regulation. And
+even if some producers refuse to advertise at all in the face of a
+substantiation requirement, perhaps the overall level of
+information will increase.</p>
+      <p>Critics of regulation sometimes treat the existence of
+unintended side effects or partly self-defeating strategies as a reason to
+abandon regulatory controls altogether. 0 5 But in order to justify
+that conclusion, it is necessary to gather detailed evidence on the
+magnitude of the relevant effects in particular regulated markets
+"I The best discussions here are by Jon Elster. See his various criticisms of functional
+explanations in Explaining Technical Change: Studies in Rationality and Social Change
+(Cambridge, 1983); The Cement of Society: A Study of Social Order(Cambridge, 1989); and
+Nuts and Bolts for the Social Sciences (Cambridge, 1989).</p>
+      <p>104See text at note 74.</p>
+      <p>,o1 See Richard A. Epstein, Takings: Private Propertyand the Power of Eminent
+Domain (Harvard, 1985).
+and overall. In some contexts, regulation having some
+self-defeating results will on the whole make things better rather than worse.
+It is simply a fact that even a regulatory state pervaded by
+paradoxes has had a number of substantial successes. 10 6</p>
+      <p>From both theory and experience, it is possible to conclude
+that the regulatory paradoxes will arise frequently, and thus to
+prescribe efforts to avoid them. Certainly we have far too little
+information to say, as a general matter, that regulatory programs
+embodying the paradoxes are by virtue of that fact a bad idea on
+balance, at least when compared with the pre-regulatory status
+quo. Total elimination of such regulatory programs is hardly
+warranted. Nevertheless, a system that avoided the paradoxes would
+bring about major improvements.</p>
+      <p>IV. LESSONS</p>
+    </sec>
+    <sec id="sec-9">
+      <title>Congress</title>
+      <p>The paradoxes of regulation provide a number of concrete
+lessons for Congress. At the most general level, they suggest that
+legislators should be attentive to the incentive effects of regulatory
+statutes and the possibility of strategic or self-interested
+adaptation by administrative agencies and members of regulated classes.
+Statutes embodying an assumption that the preregulatory world
+can be held constant-that existing prices, wages, choices, and so
+forth will endure-are particularly likely to be confounded when
+implemented.</p>
+      <p>More specifically, the paradoxes suggest that the legislature
+should generally avoid best available technology strategies; be
+concerned with old risks as well as new ones; not attempt to
+redistribute resources through regulation; be attentive to the possibility
+that disclosure requirements will simply confuse people or chill
+information in the first instance; create incentives for regulation
+when regulation is desired; as a rule place agencies under the
+control of the President; and call for some form of balancing between
+the costs and benefits of regulation. Ideas of this sort have direct
+implications for modern regulatory reform.10 7</p>
+      <p>For example, Congress is in the midst of considering
+amendments to the Clean Air Act. One valuable strategy would be to
+sub"' See text at notes 10-23.</p>
+      <p>107 It is of course unclear that Congress will listen to such advice. Perhaps the
+legislators' existing incentives must be altered in order to bring about lasting reform of the sort
+suggested here.
+stitute an emissions trading program for the "BAT" approach.108
+Such a program would not require specified control technology for
+all pollution sources, but would instead force people to pay for a
+license to pollute and allow them to sell that "right" to other
+producers. People who can reduce pollution will have a large incentive
+to do so, because polluters will pay substantial sums for the
+pollution "credits" it frees them to sell. A fundamental virtue of an
+emissions trading program is that it would create dynamic
+incentives for pollution control by making it profitable for people to
+develop good pollution control technology. Those who developed
+such devices would be able both to reduce their own pollution and
+to sell the technology to others. In either case, innovation would be
+financially rewarding. There is considerable evidence that
+emissions trading programs are successful. 09</p>
+      <p>The same rationale supports a trading system in the
+international arena, in which some countries would pay others to reduce
+emissions levels. International debt might be traded for protection
+of nature. This would be especially desirable in the frequent
+instances where the effects of pollution, or other environmental
+degradation, crosses national boundaries. Such a system would
+produce more efficient reduction techniques and would also be more
+equitable than an approach requiring all countries-rich and poor,
+new and old contributors to environmental hazards-to use the
+same control technology.</p>
+      <p>Congress is also in the process of selecting pollution control
+requirements for new automobiles. Application of such controls to
+old automobiles, unpleasant as it might be for present car owners,
+would be an effective response to the old risk-new risk paradox.
+Similarly, the Food and Drug Administration should be
+discouraged from unduly delaying the entry of new drugs onto the market.
+Current practices slow the marketing of beneficial products by
+requiring extremely elaborate testing. Easier screening strategies
+combined with continuing, post-marketing safety examinations
+would increase aggregate safety.</p>
+      <p>
+        108See Ackerman and Stewart, 37 Stan L Rev 1333 (cited in note 7); and Bruce
+Ackerman and Richard B. Stewart, Reforming Environmental Law, The Democratic Case for
+Market Incentives, 13 Colum J Envir L 1
+        <xref ref-type="bibr" rid="ref30">71 (1988</xref>
+        ). Notably, the Senate version of the new
+Clean Air Act, which passed on April 3, 1990, contains an emissions trading program to deal
+with acid rain. See S 1630, 136 Cong Rec 52077-52086 (March 5, 1990).
+      </p>
+      <p>109 Tietenberg, Emissions Trading at 38-58 (cited in note 24); Richard A. Liroff,
+Reforming Air Pollution Regulation: The Toil and Trouble of EPA's Bubble (Conservation
+Foundation, 1986).</p>
+      <p>Congress should also amend the Delaney Clause to allow de
+minimis exceptions. Similarly, Congress should permit
+administrators to balance costs and benefits in choosing the appropriate
+controls for toxic substances, or Congress should itself make the
+regulatory decisions on the basis of some such balancing process. At the
+same time, Congress should take steps to ensure that regulatory
+statutes create strong incentives for industry to seek and
+administrators to promulgate regulations. 110 The current system puts a
+premium on-and has resulted in-inaction. A system that (for
+example) imposes disclosure requirements or other penalties on
+manufacturers until regulations have established levels of relative
+safety would be far more productive.</p>
+    </sec>
+    <sec id="sec-10">
+      <title>B. Judges and Administrators</title>
+      <p>The regulatory paradoxes provide important lessons for judges
+and administrators as well as legislators. These officials are of
+course bound by legislative enactments, and to the extent that
+regulatory statutes unambiguously call for self-defeating strategies,
+officials have no choice but to honor them. But frequently the
+interpretation of a statute, or the filling of statutory gaps, is based
+on an understanding of the real world consequences of the
+alternative possibilities. Administrators exercise considerable discretion in
+giving content to ambiguous laws,111 and the legal judgment about
+whether an agency's decision is "arbitrary" within the meaning of
+the Administrative Procedure Act" 2 should be informed by an
+accurate understanding of the paradoxes of the regulatory state.
+Attention to the often unanticipated systemic effects of regulatory
+controls is an imperative for administrators and judges as well as
+for legislators. I offer three examples here of how these officials can
+use the knowledge of regulatory paradoxes to inform their actions.
+1. The overregulation-underregulation paradox.11</p>
+      <p>In two important cases, the Supreme Court was asked to
+interpret the provisions of the Occupational Safety and Health Act that
+regulate exposure to toxic substances. The pertinent language
+directs the Secretary of Labor to promulgate the standard that
+o See note 45.</p>
+      <p>"' See Chevron USA, Inc. v NRDC, 467 US 837 (1984), which gives enormous
+policymaking discretion to agencies engaged in statutory construction.</p>
+      <p>112 5 USC § 706(2)(A) (1982).</p>
+      <p>"' In this section I adapt the discussion in Cass R. Sunstein, InterpretingStatutes in
+the Regulatory State, 103 Harv L Rev 405, 489-93 (1989).
+"most adequately assures, to the extent feasible . . . that no
+employee will suffer material impairment of health or functional
+capacity even if such employee has regular exposure to the
+hazard . . . for the period of his working life."" 4 The statute also
+defines "occupational safety and health standard[s]" as measures
+that require "conditions... reasonably necessary or appropriate to
+provide safe or healthful employment and places of
+employment."" 5</p>
+      <p>In Industrial Union Department, AFL-CIO v American
+Petroleum Institute,"6 the Court was confronted with an OSHA
+regulation of benzene. Though the consequences of the regulation
+were sharply contested, there was reason to believe that the
+regulation would impose enormous costs for small or speculative gains. A
+plurality of the Court concluded that the Secretary of Labor must
+establish that a toxic substance posed a "significant risk" to health
+before she could regulate it. There was little direct support for the
+plurality's conclusion in the language or history of the Act. Unable
+to point to a solid textual basis for its "significant risk"
+requirement, the plurality invoked a clear statement principle:</p>
+      <p>In the absence of a clear mandate in the Act, it is
+unreasonable to assume that Congress intended to give the
+Secretary the unprecedented power over American industry that
+would result from the Government's view .... Expert
+testimony that a substance is probably a human carcinogen . . .
+would justify the conclusion that the substance poses some
+risk of serious harm no matter how minute the exposure and
+no matter how many experts testified that they regarded the
+risk as insignificant. That conclusion would in turn justify
+pervasive regulation limited only by the constraint of
+feasibility .... [T]he Government's theory would give OSHA power
+to impose enormous costs that might produce little, if any,
+discernable benefit." 7</p>
+      <p>The plurality went on to suggest that the government's
+interpretation would give the Secretary of Labor "open-ended"
+policymaking authority that might amount to an unconstitutional
+delegation of legislative power. In a concurring opinion advocating an
+interpretation of the Act that would permit cost-benefit balancing,
+114 29 USC § 655(b)(5).</p>
+      <p>29 USC § 652(8).
+,, 448 US 607 (1980).
+117 Id at 645.
+Justice Powell suggested that "a standard-setting process that
+ignored economic considerations would result in a serious
+misallocation of resources and a lower effective level of safety than could be
+achieved under standards set with reference to the comparative
+benefits available at a lower cost."" 8</p>
+      <p>The "significant risk" requirement cannot be found explicitly
+in the statute; indeed, the text of the relevant provisions suggests
+that no such requirement was imposed on the Secretary of Labor.
+But the plurality's conclusion was nonetheless sound. Realistically
+speaking, the language of the statute need not be considered
+dispositive. It is simply a myth to suggest that the Congress that
+enacted OSHA even considered the propriety of regulation requiring
+enormous expenditures to redress minimal risks. Despite the broad
+language of the toxic substances provision, Congress never focused
+on that problem.</p>
+      <p>In the context of American Petroleum, the plurality was
+therefore correct in considering itself free to read an implicit
+"significant risk" requirement into the statute. In light of the
+overregulation-underregulation paradox, it would make little sense to
+interpret the statute so as to allow-indeed, require-the
+Secretary to regulate to the point of "feasibility" merely because one or
+a few employees might suffer "material health impairment" as a
+result of a lifetime of exposure. Such an interpretation would make
+the Department of Labor reluctant to embark on a course of
+regulation at all, and as we have seen, would result in less, not more,
+protection of workers. It would ensure that there would be less
+regulation of carcinogens or less enforcement of those regulations that
+were promulgated-or, most likely, both.</p>
+      <p>In American Textile Manufacturers Institute v Donovan,"
+the Supreme Court decided a question left open in American
+Petroleum: whether the Occupational Health and Safety Act required
+cost-benefit analysis. In arguing that it did, the industry contended
+that the word "feasible" meant that the Secretary must show not
+only a significant risk, but also that the benefits of regulation
+justified the costs. "Feasibility," in the industry's view, contemplated a
+balancing of costs and benefits. The government contended that
+once OSHA had shown a significant risk, it could regulate to the
+point where the survival of the regulated industry would be
+endangered by additional controls. For the government, the term
+"feasi118Id at 670 (Powell concurring).
+119 452 US 490 (1981).
+bility" connoted not cost-benefit balancing, but instead regulation
+to the maximum extent "possible."</p>
+      <p>In accepting the government's argument, the Court relied on
+the dictionary definition of "feasible," concluding that the term
+meant "capable of being done, executed, or effected," rather than
+justified after balancing costs and benefits. 120 This approach to
+statutory interpretation was not entirely unreasonable. But the
+same principles that support the plurality view in American
+Petroleum cast doubt on American Textile Manufacturers.</p>
+      <p>First, notwithstanding the statute's language, it is probably
+unrealistic to believe that Congress actually focused on, and
+resolved, the question whether the government's approach was to be
+favored over some kind of balancing of costs and benefits. That
+question never arose during the debates.1"2' Second, a system
+requiring the Secretary to identify a significant risk, but prohibiting
+her from undertaking cost-benefit analysis, seems utterly
+irrational. Whether a risk is "significant" depends in large part on the
+costs of eliminating it. A risk that is relatively small might call for
+regulation if the costs are also small, while a large risk might well
+be best left unregulated if the costs of regulation are enormous. A
+rational system of regulation looks not at the magnitude of the risk
+alone, but assesses the risk in comparison to the costs. Finally, a
+law requiring the Secretary to regulate all significant risks to the
+point of endangering the industry would be a recipe for both
+overregulation and underregulation.</p>
+      <p>These considerations could not have controlled the Court's
+decision if the statute dictated a contrary result, but the word
+"feasible" was probably capacious enough to accommodate a kind of
+proportionality requirement. To be sure, the case was a difficult
+one. But by its reading of the statute, the Supreme Court has
+contributed to the irrationality of the Occupational Safety and Health
+Act-irrationality that has harmed workers, employers, consumers,
+and the public at large. An understanding of the
+overregulationunderregulation paradox might well have prevented this result.</p>
+    </sec>
+    <sec id="sec-11">
+      <title>2. The old risk-new risk paradox.</title>
+      <p>A number of judicial decisions might have been different if
+courts had been attuned to the old risk-new risk paradox.
+Con,,0Id at 508-09.</p>
+      <p>2,See the detailed account in Justice Marshall's opinion in American Petroleum, 448
+US at 707-19.
+sider, for example, one district court's creation, in the face of an
+ambiguous text, of the "prevention of significant deterioration"
+(PSD) program in Sierra Club v Ruckelshaus.122 In that case, the
+court ruled that state implementation plans under the Clean Air
+Act must include provisions not merely complying with national
+air quality standards, but also designed to prevent the degradation
+of air currently cleaner than those standards require. The
+consequence of the PSD program is to ensure that especially clean areas
+remain especially clean. They are not permitted to become dirtier
+even if they would continue to provide a safe and healthful
+environment.</p>
+      <p>One of the court's goals was to ensure that federal
+environmental policy protected beauty and visibility in currently pristine
+areas.' 23 While the PSD program has to some degree promoted
+that goal, it has also had perverse side effects. For example, it has
+delayed the salutary substitution of clean, low-sulphur Western
+coal for dirty, high-sulfur Eastern coal; at the same time, it has
+protected dirty existing plants in the East against replacement
+with cleaner new ones in the West. 2 4 To protect the atmosphere in
+Aspen from degradation is, almost inevitably, to perpetuate the
+existence of old, particularly dirty producers in New York. The
+foreclosure of new risks has thus increased the magnitude of old ones.
+It is far from clear that the environment is better off as a whole.</p>
+      <p>Indeed, it should come as no surprise that the PSD program
+has become a primary means of protecting eastern industry and
+eastern states against western interests. States in the West seeking
+to attract industry have found, perversely, that an environmental
+program can be used to create a cartel against new entry.2 5 A PSD
+program based on an understanding of the adverse effects of that
+cartel for the prevention of environmental degradation would take
+a quite different form.</p>
+      <p>The court that decided the Sierra Club case was unaware of
+these effects. Because the statutory basis for the decision was quite
+thin, an understanding of the environmental and
+nonenvironmental costs associated with the PSD program might well have led
+to a contrary result.</p>
+      <p>122 344 F Supp 253 (D DC 1972).</p>
+      <p>123 See the discussion in R. Shep Melnick, Regulation and the Courts: The Case of the
+Clean Air Act (Brookings, 1983).</p>
+      <p>124 Id at 80-83.</p>
+      <p>121 See Ackerman and Hassler, Clean Coal/DirtyAir at 44-48 (cited in note 50); and B.
+Peter Pashigian, Environmental Regulation: Whose Self-Interests Are Being Served?, in
+Stigler, ed, Chicago Studies in PoliticalEconomy at 498 (cited in note 4).</p>
+    </sec>
+    <sec id="sec-12">
+      <title>The independent agency problem.</title>
+      <p>The precise constitutional status of the independent agency
+remains an uncertain question.'26 In Humphrey's Executor v
+United States,27 the Supreme Court, affirming the constitutional
+validity of the independent agency, held that Congress could
+constitutionally prevent the President from removing a member of the
+Federal Trade Commission simply because it pleased him to do so.
+Recent decisions have reaffirmed the authority of Humphrey's
+Executor insofar as it recognizes that some degree of independence
+from the President is permissible.'28 But suppose that members of
+the Nuclear Regulatory Commission or the Federal Trade
+Commission act in ways that consistently reject the President's views
+about public policy. May the President discharge the relevant
+commissioners? It is frequently assumed that he may not. But neither
+Humphrey's Executor nor any other case explains what
+"independence" precisely means, or whether it extends to such situations.</p>
+      <p>The problem might be solved through statutory interpretation
+that takes account of the independent agency paradox. The
+relevant provisions allow the President to discharge a commissioner
+"for cause," defined as "inefficiency, neglect of duty, or
+malfeasance in office.' 29 Although ambiguous, these words do not
+entirely immunize commissioners from the control of the President;
+instead they allow him to remove the officials under certain
+circumstances. For those attuned to the independent agency paradox,
+it might seem that the words are best read to grant the President
+something in the way of supervisory and removal power-allowing
+him, for example, to discharge as inefficient or neglectful of duty
+those commissioners who have frequently or on important
+occasions acted in ways inconsistent with his wishes.</p>
+      <p>This result might seem counterintuitive in light of the
+frequent understanding that independent agencies are to be
+immunized from presidential policymaking. 130 But there is a plausible
+precedent for precisely this conclusion in a recent Supreme Court
+" See Miller, 1986 S Ct Rev at 96-97 (cited in note 83); Strauss, 84 Colum L Rev at
+596-605 (cited in note 92).</p>
+      <p>.27 295 US 602 (1935).</p>
+      <p>128See Morrisonv Olson, 487 US 654 (1988); Mistretta v United States, 109 S Ct 647
+(1989).</p>
+      <p>129See, for example, Federal Trade Commission Act, 15 USC § 41 (1982).
+1M This understanding is perhaps embraced, though obliquely and in dicta, in
+Humphrey's Executor, which describes the commissioners of the FTC as "independent of
+Executive authority, except in [their] selection" by the President. 295 US at 625-26.
+decision, Bowsher v Synar.11 In that case, the Court held that
+Congress could not delegate power to administer the
+Gramm-Rudman statute to the Comptroller General, because the Comptroller
+was subject to congressional will. In the Court's view, those who
+execute the law must not be subject to the policymaking authority
+of the Congress except insofar as legislative instructions are
+embodied in substantive law.132 The relevant statute allowed Congress
+to discharge the Comptroller for "inefficiency, . . . neglect of duty,
+. . . [or] malfeasance."'13 The Court said that these words
+conferred on Congress "very broad" removal power and would
+authorize Congress to remove the Comptroller for "any number of actual
+or perceived transgressions of the legislative will."' 34</p>
+      <p>The words governing congressional power over the
+Comptroller General and presidential power over independent agencies are
+essentially identical. If those words have the same meaning in
+these admittedly different contexts, the President has "very
+broad" removal power over the commissioners of the independent
+agencies, with correlative powers of supervision and guidance. It
+would follow that the independent agencies are in fact subject to a
+considerable degree of presidential control. They are not, as a
+matter of statutory law, "independent" of him at all.</p>
+      <p>It would of course be plausible to suggest that the different
+contexts require the same words to have different meanings.
+Perhaps a statute restricting congressional power over the Comptroller
+General should be understood to impose thinner limitations than
+does a statute controlling presidential power over independent
+commissioners; such a reading would hardly be an implausible
+reconstruction of legislative goals in light of the context and
+background of the relevant statutes. In view of the independent agency
+paradox, however, courts would do well to invoke a clear statement
+principle that grants the President broad supervisory power over
+independent agencies, unless Congress has expressly stated its will
+to the contrary. Such an approach would minimize the risks
+inherent in the independent agency form, and promote coordination and
+accountability in government. It would require Congress to speak
+unambiguously if it wants to compromise those goals.'35
+131478 US 714 (1986).
+132 Id at 726-27.
+133 Id at 728; 31 USC § 703(e)(2) (1982).
+13' 478 US at 729.</p>
+      <p>" See Peter L. Strauss and Cass R. Sunstein, The Role of the Presidentand OMB in
+Informal Rulemaking, 38 Admin L Rev 181 (1986).</p>
+      <p>V.</p>
+      <p>CONCLUSION</p>
+      <p>There are multiple breakdowns in private markets, and
+government controls often successfully counteract them. The
+administrative state has not been a universal failure. But regulatory
+programs have not always succeeded, and the paradoxes of the
+regulatory state have been a pervasive source of its problems.
+Selfdefeating regulatory strategies take many forms. I have discussed
+six such paradoxes and referred to several others; still others
+undoubtedly exist.</p>
+      <p>In proposing reforms for the regulatory state, little can be
+gained from generalities that point to the frequent problems
+created by either government regulation or private markets. These
+problems are too particular and too dependent on the context to
+allow for global prescriptions.5 6 It is far more helpful to rely on
+particularized understandings of how both markets and regulation
+tend to break down-to learn, in short, from the past. The
+experience of the regulatory state includes many self-defeating
+regulatory strategies. Enough information is in place to help legislators,
+administrators, and judges to minimize their adverse effects, and
+perhaps to prevent their occurrence. The result would be a small
+but firm step in the direction of an American-style perestroika-a
+system that is entirely unembarrassed by the use of government to
+reflect democratic aspirations, to promote economic welfare, and to
+foster distributional equity, while at the same time insisting on
+strategies that embody the flexibility, adaptability, productive
+potential, and decentralization characteristic of private markets.</p>
+      <p>"' At least this is so for systems that, on the one hand, respect private property and
+freedom of contract while, on the other hand, imposing regulatory controls on the most
+harmful consequences of unregulated markets. General prescriptions would of course have
+considerable weight in collectivist systems or systems of "laissez faire."</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>" See</surname>
+            <given-names>CEQ</given-names>
+          </string-name>
+          ,
+          <source>Environmental Quality (cited in note 10).</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>" See Robert W. Crandall</surname>
+          </string-name>
+          , et al,
+          <source>Regulating the Automobile 44-74 (Brookings Institution</source>
+          ,
+          <year>1986</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <source>" Id at 75.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <source>Id at 57.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <source>Id at 77.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          18 John U. Graham and James W. Vaupel,
+          <source>Value of a Life: What Difference Does It Make?, 1 Risk Analysis 89.90</source>
+          (
+          <year>1981</year>
+          )
+          <string-name>
+            <surname>; John M. Mendeloff</surname>
+          </string-name>
+          ,
+          <source>The Dilemma of Toxic Substance Regulation: How Overregulation Causes Underregulationat OSHA: April 1</source>
+          ,
+          <fpage>1986</fpage>
+          -March 31,
+          <year>1987</year>
+          23-
+          <fpage>26</fpage>
+          (MIT,
+          <year>1988</year>
+          );
+          <article-title>Executive Office of the President, Office of Management and Budget, Regulatory Program of the United States Government xxi</article-title>
+          (GPO,
+          <year>1987</year>
+          ); Ivy
+          <string-name>
+            <given-names>E.</given-names>
+            <surname>Broder and John F. Morrall</surname>
+          </string-name>
+          <string-name>
+            <surname>III</surname>
+          </string-name>
+          ,
+          <article-title>The Economic Basis for OSHA's and EPA's Generic Carcinogen Regulations</article-title>
+          , in Richard J. Zeckhauser and Derek Leebaert, eds,
+          <source>What Role for Government? Lessons from Policy Research</source>
+          <volume>242</volume>
+          ,
+          <fpage>247</fpage>
+          -
+          <lpage>48</lpage>
+          (
+          <issue>Duke</issue>
+          ,
+          <year>1983</year>
+          );
+          <article-title>John F. Morrall, III, A Review of the Record</article-title>
+          ,
+          <volume>10</volume>
+          Regulation 25,
+          <fpage>29</fpage>
+          -
+          <lpage>52</lpage>
+          (
+          <issue>November</issue>
+          /
+          <year>December 1986</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          19
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Mendeloff</surname>
+          </string-name>
+          ,
+          <source>The Dilemma of Toxic SubstanceRegulation at 64</source>
+          , 248 (cited in note
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          29
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Note</surname>
+          </string-name>
+          ,
+          <source>Toward Sensible Regulation of Hazardous Air Pollutants Under Section 112 of the Clean Air Act, 63 NYU L Rev</source>
+          <volume>612</volume>
+          ,
+          <fpage>613</fpage>
+          -
+          <lpage>14</lpage>
+          (
+          <year>1988</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          11 See
+          <string-name>
+            <surname>Henry</surname>
+            <given-names>G.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Grabowski and John M Vernon</surname>
+          </string-name>
+          ,
+          <source>The Regulation of Pharmaceuticals 10-13</source>
+          ,
+          <fpage>46</fpage>
+          -
+          <lpage>47</lpage>
+          (American Enterprise Institute,
+          <year>1983</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          31 See generally Breyer,
+          <article-title>Regulation and its Reform (cited in note</article-title>
+          27); Richard B. Stewart, The Discontents of Legalism: Interest Group Relations in Administrative Regulation,
+          <source>1985 Wis L Rev</source>
+          <volume>655</volume>
+          ,
+          <fpage>680</fpage>
+          -
+          <lpage>82</lpage>
+          ;
+          <article-title>and Sunstein, After the Rights Revolution ch 3 (cited in note 9).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          52
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Bruce</surname>
+          </string-name>
+          Ackerman and William T. Hassler, Clean Coal/DirtyAir 27 (
+          <issue>Yale</issue>
+          ,
+          <year>1981</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          53
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Crandall</surname>
+          </string-name>
+          , et al,
+          <source>Regulating the Automobile at 89-90 (cited in note 14).</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>" Michael</surname>
+            <given-names>T.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Maloney</surname>
+          </string-name>
+          and Gordon L. Brady,
+          <source>CapitalTurnover and MarketablePollution Rights, 31 J L &amp; Econ</source>
+          <volume>203</volume>
+          ,
+          <fpage>214</fpage>
+          -
+          <lpage>26</lpage>
+          ,
+          <issue>224</issue>
+          (
+          <year>1988</year>
+          )
+          <article-title>(finding a twenty-seven percent increase in sulfur dioxide emissions as a result of capital turnover deterrence in certain states)</article-title>
+          . Compare W. Kip Viscusi,
+          <source>ConsumerBehavior and the Safety Effects of ProductSafety Regulation, 28 J L &amp; Econ</source>
+          <volume>527</volume>
+          ,
+          <issue>552</issue>
+          (
+          <year>1985</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>" Sam</surname>
+            <given-names>Peltzman</given-names>
+          </string-name>
+          ,
+          <source>The Health Effects of Mandatory Prescriptions,30 J L &amp; Econ</source>
+          <volume>207</volume>
+          ,
+          <fpage>234</fpage>
+          -
+          <lpage>36</lpage>
+          (
+          <year>1987</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          56
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Ackerman</surname>
+          </string-name>
+          &amp; Hassler, Clean Coal/DirtyAir at 2,
+          <fpage>11</fpage>
+          -
+          <lpage>12</lpage>
+          (cited in note 52).
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Stephen</surname>
+          </string-name>
+          <string-name>
+            <surname>Breyer</surname>
+          </string-name>
+          ,
+          <article-title>Vermont Yankee and the Court's Role in the NuclearEnergy Controversy</article-title>
+          , 91 Harv
+          <string-name>
+            <surname>L Rev</surname>
+          </string-name>
+          <year>1833</year>
+          ,
+          <fpage>1835</fpage>
+          -
+          <lpage>90</lpage>
+          (
+          <year>1978</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <source>" See Huber</source>
+          , 69 Va L Rev at
+          <volume>1075</volume>
+          (cited in note 50).
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          21
+          <string-name>
+            <given-names>USC</given-names>
+            <surname>§</surname>
+          </string-name>
+          <article-title>348(c)(3)(A) (</article-title>
+          <year>1982</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          63 See
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>B.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Stewart</surname>
+            , Regulation, Innovation, and Administrative Law:
+            <given-names>A Conceptual</given-names>
+          </string-name>
+          <string-name>
+            <surname>Framework</surname>
+          </string-name>
+          , 69 Cal L Rev
+          <volume>1256</volume>
+          ,
+          <issue>1285</issue>
+          (
+          <year>1981</year>
+          ).
+          <source>See also Ackerman &amp; Stewart</source>
+          , 37 Stan
+          <string-name>
+            <given-names>L</given-names>
+            <surname>Rev</surname>
+          </string-name>
+          <article-title>1333 (cited in note 7);</article-title>
+          and Maloney &amp; Brady, 31 J L &amp; Econ at 222 (cited in note 54).
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          '4
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Stewart</surname>
+          </string-name>
+          , 69 Cal L Rev at
+          <volume>1283</volume>
+          (cited in note 63).
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <article-title>65 The term "exploitation" should be taken as a normative one, pointing to (for example) insufficient wages, unduly long hours, and so forth</article-title>
+          .
+          <source>See Jon Elster, Making Sense of Marx</source>
+          (Cambridge,
+          <year>1985</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          6
+          <string-name>
+            <given-names>See</given-names>
+            <surname>John</surname>
+          </string-name>
+          <string-name>
+            <surname>Rawls</surname>
+          </string-name>
+          ,
+          <source>A Theory of Justice</source>
+          <volume>311</volume>
+          (
+          <issue>Harvard</issue>
+          ,
+          <year>1971</year>
+          ) (
+          <article-title>"Surely a person's moral worth does not vary according to how many offer similar skills, or happen to want what he can produce. No one supposes that when someone's abilities are less in demand or have deteriorated (as in the case of singers) his moral deservingness undergoes a similar shift."); G.A. Cohen, Robert Nozick and Wilt Chamberlain</article-title>
+          ,in John Arthur and William Shaw, eds, Justice and
+          <string-name>
+            <surname>Economic Distribution246 (Prentice-Hall</surname>
+          </string-name>
+          ,
+          <year>1978</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          67
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Margaret Jane Radin</surname>
+          </string-name>
+          ,
+          <source>Residential Rent Control</source>
+          ,
+          <volume>15</volume>
+          Phil &amp; Pub Aff.
+          <volume>350</volume>
+          (
+          <year>1986</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          68
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Steven</surname>
+          </string-name>
+          <string-name>
+            <surname>Shavell</surname>
+          </string-name>
+          , A Note on Efficiency vs.
+          <source>Distributional Equity in Legal Rulemaking: Should DistributionalEquity Matter Given Optimal Income Taxation?, 71 Am Econ Rev</source>
+          <volume>414</volume>
+          (
+          <year>1981</year>
+          )
+          <article-title>;</article-title>
+          and Anthony T. Kronman, ContractLaw and DistributiveJustice, 89 Yale
+          <string-name>
+            <surname>L J</surname>
+          </string-name>
+          <year>472</year>
+          ,
+          <volume>475</volume>
+          (
+          <year>1980</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          <article-title>"I See text at notes 74-75 (noting that redistributive regulation may be more justifiable if accompanied by other departures from the status quo).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          <article-title>"oSee Finis Welsh</article-title>
+          , Minimum Wage: Issues and
+          <string-name>
+            <surname>Evidence (American Enterprise Institute</surname>
+          </string-name>
+          ,
+          <year>1978</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          71
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Werner Z. Hirsch</surname>
+          </string-name>
+          , Joel G. Hirsch, and Stephen Margolis,
+          <article-title>Regression Analysis of the Effects of HabitabilityLaws upon Rent: An Empirical Observationon the AckermanKomesar Debate, 63</article-title>
+          <source>Cal L Rev</source>
+          <volume>1098</volume>
+          ,
+          <issue>1139</issue>
+          (
+          <year>1975</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          72
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Posner</surname>
+          </string-name>
+          , 56 U Chi L Rev at
+          <volume>1326</volume>
+          , 1331, 1333 (cited in note 3).
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          <article-title>73 This is hardly a decisive argument against such laws. The existence of inadequate information provides a good argument for regulatory controls here, quite apart from redistribution</article-title>
+          .
+          <source>See Rose-Ackerman</source>
+          , 98 Yale L J at
+          <volume>355</volume>
+          -57
+          <article-title>(cited in note 7). Moreover, the redistributive gains from the statute might justify it on balance notwithstanding its costs in harming some people</article-title>
+          .
+          <source>See text at notes 103-07.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          71
+          <string-name>
+            <given-names>See</given-names>
+            <surname>David</surname>
+          </string-name>
+          <string-name>
+            <given-names>T.</given-names>
+            <surname>Ellwood</surname>
+          </string-name>
+          ,
+          <source>Poor Support</source>
+          <volume>112</volume>
+          (
+          <string-name>
+            <surname>Basic</surname>
+            <given-names>Books</given-names>
+          </string-name>
+          ,
+          <year>1988</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          <article-title>7'For discussion, see Cass Sunstein, Legal Interference with PrivatePreferences,53 U Chi L Rev 1129 (</article-title>
+          <year>1986</year>
+          )
+          <article-title>; and Sunstein, After the Rights Revolution (cited in note 9).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          '0
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Peter</surname>
+          </string-name>
+          <string-name>
+            <surname>Asch</surname>
+          </string-name>
+          ,
+          <source>Consumer Safety Regulation:Putting a Price on Life and Limb 48- 59</source>
+          (Oxford,
+          <year>1988</year>
+          ),
+          <article-title>for a good discussion</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          77
+          <string-name>
+            <given-names>See</given-names>
+            <surname>OSHA</surname>
+          </string-name>
+          <article-title>'s hazardous communications policy, 29 USC § 657 (c</article-title>
+          ),(d).
+          <source>On deceptive advertising</source>
+          , see Richard Craswell,
+          <source>InterpretingDeceptive Advertising</source>
+          , 65 BU
+          <string-name>
+            <given-names>L</given-names>
+            <surname>Rev</surname>
+          </string-name>
+          <article-title>657 (</article-title>
+          <year>1985</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          <volume>7</volume>
+          "
+          <string-name>
+            <surname>See Hal R. Arkes</surname>
+          </string-name>
+          and
+          <string-name>
+            <surname>Kenneth R. Hammond</surname>
+          </string-name>
+          ,
+          <source>Judgment and Decisionmaking: An InterdisciplinaryReader</source>
+          (Cambridge,
+          <year>1986</year>
+          ); Daniel Kahneman, Paul Slovic, and Amos Tversky,
+          <source>Judgment Under Uncertainty:Heuristicsand Biases 1-20</source>
+          (Cambridge,
+          <year>1982</year>
+          ); and
+          <string-name>
+            <given-names>Cass</given-names>
+            <surname>Sunstein</surname>
+          </string-name>
+          , 53 U Chi L Rev at
+          <volume>1167</volume>
+          -69 (cited in note 75).
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          79
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Kahneman</surname>
+          </string-name>
+          et al,
+          <source>Judgment Under Uncertainty 1-20 (cited in note 78).</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          <source>80 -gee id at 7</source>
+          ,
+          <fpage>9</fpage>
+          -
+          <lpage>]</lpage>
+          6.
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          81
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Jacob</surname>
+          </string-name>
+          <string-name>
+            <surname>Jacoby</surname>
+          </string-name>
+          , Margaret C. Nelson, and
+          <string-name>
+            <given-names>Wayne D.</given-names>
+            <surname>Hoyer</surname>
+          </string-name>
+          ,
+          <source>Corrective Advertising and Affirmative Disclosure Statements: Their Potentialfor Confusing and Misleading the Consumer, 46 J Mktg</source>
+          <volume>61</volume>
+          ,
+          <issue>70</issue>
+          (Winter
+          <year>1982</year>
+          )
+          <article-title>; Philip G. Kuehl and Robert F. Dyer, Applications of the "Normative Belief" Technique for Measuring the Effectiveness of Deceptive and Corrective Advertisements, 4</article-title>
+          <source>Advances in Consumer Research</source>
+          <volume>204</volume>
+          ,
+          <issue>209</issue>
+          (
+          <year>1976</year>
+          )
+          <article-title>;</article-title>
+          and
+          <string-name>
+            <surname>Michael</surname>
+            <given-names>B.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Mazis</surname>
+            and
+            <given-names>Janice E.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Atkinson</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>An ExperimentalEvaluationof A Proposed Corrective Advertising Remedy</surname>
+          </string-name>
+          , 13
+          <source>J Mktg Res</source>
+          <volume>178</volume>
+          ,
+          <fpage>181</fpage>
+          -
+          <lpage>83</lpage>
+          (
+          <year>1976</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          82
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Craswell</surname>
+          </string-name>
+          ,
+          <source>65 BU L Rev at 690-91 (cited in note 77).</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          83
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Howard</surname>
+          </string-name>
+          <string-name>
+            <given-names>Beales</given-names>
+            , Richard Craswell, and
+            <surname>Steven</surname>
+          </string-name>
+          <string-name>
+            <given-names>C.</given-names>
+            <surname>Salop</surname>
+          </string-name>
+          ,
+          <source>The Efficient Regulation of Consumer Information, 24 J L &amp; Econ</source>
+          <volume>491</volume>
+          ,
+          <issue>520</issue>
+          (
+          <year>1981</year>
+          )
+          <article-title>;</article-title>
+          and
+          <string-name>
+            <given-names>Robert</given-names>
+            <surname>Pitofsky</surname>
+          </string-name>
+          ,
+          <source>Beyond Nader: ConsumerProtectionand the Regulationof Advertising, 90 Harv L Rev</source>
+          <volume>661</volume>
+          ,
+          <fpage>682</fpage>
+          -
+          <lpage>83</lpage>
+          (
+          <year>1977</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>
+          <string-name>
+            <surname>11 See Peter L. Strauss</surname>
+          </string-name>
+          ,
+          <source>The Place of Agencies in Government: Separation of Powers and the Fourth Branch, 84 Colum L Rev</source>
+          <volume>573</volume>
+          ,
+          <fpage>662</fpage>
+          -
+          <lpage>66</lpage>
+          (
+          <year>1984</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>
+          <article-title>11 It is possible that independence is not the true goal of those who create independent agencies, but instead that the actual purpose is susceptibility to Congress or private groups</article-title>
+          .
+          <source>See Miller</source>
+          , 1986
+          <string-name>
+            <given-names>S Ct</given-names>
+            <surname>Rev</surname>
+          </string-name>
+          at
+          <volume>74</volume>
+          (cited in note 85); see also text at note 86.
+        </mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>
+          <string-name>
+            <surname>11See Jon</surname>
+            <given-names>Elster</given-names>
+          </string-name>
+          ,
+          <source>Solomonic Judgements: Studies in the Limitations of Rationality 143-48</source>
+          (Cambridge,
+          <year>1989</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation>
+          95
+          <string-name>
+            <given-names>Hyman</given-names>
+            <surname>Rodman</surname>
+          </string-name>
+          et al,
+          <source>The Abortion Question (Columbia</source>
+          ,
+          <year>1987</year>
+          ); Daniel Farber,
+          <source>The Facts on Abortion, 3 Constitutional Commentary</source>
+          <volume>285</volume>
+          (
+          <year>1988</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation>
+          <source>" See Peltzman</source>
+          , 30 J L &amp;Econ at 210-12 (cited in note 55).
+          <article-title>A similar study of automo.bile safety regulation found that such regulation had no effect or a perverse effect on safety because it increased risks to pedestrians; see Sam Peltzman</article-title>
+          ,
+          <source>The Effects of Automobile Safety Regulation, 83 J Pol Econ</source>
+          <volume>677</volume>
+          (
+          <year>1975</year>
+          ).
+          <article-title>The study is based on highly questionable assumptions, see Mark Kelman, Symposium on the Theory of Public Choice: On Democracy-Bashing:A Skeptical Look at the Theoreticaland "Empirical"Practiceof the Public Choice Movement, 74</article-title>
+          <source>Va L Rev</source>
+          <volume>199</volume>
+          ,
+          <fpage>239</fpage>
+          -
+          <lpage>45</lpage>
+          (
+          <year>1988</year>
+          ),
+          <article-title>and it has been disproved by experience. Indeed, automobile safety regulation is an example of regulatory success. See Crandall, Regulating the Automobile (cited in note</article-title>
+          14)
+          <string-name>
+            <surname>; Jerry L. Mashaw</surname>
+          </string-name>
+          and David L.
+          <article-title>Harfst, The Struggle for Auto Safety (Harvard</article-title>
+          , forthcoming
+          <year>1990</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <mixed-citation>97 Viscusi, 28 J L &amp; Econ at 539, 544, 546 (cited in note 54).</mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <mixed-citation>
+          <string-name>
+            <surname>18See Gideon</surname>
+            <given-names>Doron</given-names>
+          </string-name>
+          ,
+          <source>How Smoking Increased When TV Advertising of Cigarettes Was Banned, 3 Regulation 49 (March/April</source>
+          <year>1979</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <mixed-citation>
+          11 See
+          <string-name>
+            <surname>Lenore J. Weitzman</surname>
+          </string-name>
+          ,
+          <source>The Divorce Revolution</source>
+          <volume>323</volume>
+          ,
+          <fpage>357</fpage>
+          -
+          <lpage>58</lpage>
+          (
+          <issue>MacMillan</issue>
+          ,
+          <year>1985</year>
+          ); and Mary E. Becker, Prince Charming:Abstract Equality,
+          <source>1987 S Ct Rev</source>
+          <volume>201</volume>
+          ,
+          <fpage>214</fpage>
+          -
+          <lpage>24</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <mixed-citation>
+          <source>100See sources cited in note 99.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <mixed-citation>
+          "0' Kelman, 74 Va L Rev at
+          <volume>236</volume>
+          -37 (cited in note 96). See, for example, Howard P. Marvel,
+          <source>Factory Regulation: A Reinterpretationof Early English Experience, 20 J L &amp; Econ</source>
+          <volume>379</volume>
+          ,
+          <issue>380</issue>
+          (
+          <year>1977</year>
+          ).
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+

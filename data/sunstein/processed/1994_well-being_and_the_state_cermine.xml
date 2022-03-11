@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Jun</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Well-Being and the State Author(s): Cass R. Sunstein Source: Harvard Law Review, Vol. 107, No. 6 (Apr., 1994), pp. 1303-1327 Published by: The Harvard Law Review Association Stable URL: http://www.jstor.org/stable/1341845 Accessed: 20-06-2016 04:49 UTC</article-title>
+      </title-group>
+      <pub-date>
+        <year>2016</year>
+      </pub-date>
+      <volume>04</volume>
+      <fpage>2</fpage>
+      <lpage>27</lpage>
+      <abstract>
+        <p>REFERENCES Linked references are available on JSTOR for this article: http://www.jstor.org/stable/1341845?seq=1&amp;cid=pdf-reference#references_tab_contents You may need to log in to JSTOR to access the linked references. Your use of the JSTOR archive indicates your acceptance of the Terms &amp; Conditions of Use, available at http://about.jstor.org/terms JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>The Harvard Law Review Association is collaborating with JSTOR to digitize, preserve and extend access
+to Harvard Law Review</p>
+      <p>This content downloaded from 155.69.24.171 on Mon, 20 Jun 2016 04:49:09 UTC</p>
+      <p>All use subject to http://about.jstor.org/terms</p>
+    </sec>
+    <sec id="sec-2">
+      <title>WELL-BEING AND THE STATE</title>
+      <sec id="sec-2-1">
+        <title>Cass R. Sunstein*</title>
+        <p>Some people think that there is a deep opposition between
+"government intervention" and "free markets." But the opposition is too
+simple. No one is really opposed to "government intervention."
+Markets depend for their existence on law, which is necessary to establish
+property rights and to set out the rules governing contracts and tort.
+Short of anarchy, a system of legal entitlements, set by the state, is
+inevitable.1 If we are asking whether the state is an important part
+of the solution to current social problems, there can be only one
+answer: it had better be. But what is the relationship between the
+state and social well-being?</p>
+        <p>This question assumes special significance in light of the original
+aspiration of the American founders - to create a deliberative
+democracy.2 Public officials would be accountable to the citizenry at
+large, but they were also supposed to engage in deliberative tasks,
+and to profit from and to encourage deliberation among the people as
+a whole. Both the structure of the national government and the
+system of individual rights were intended to encourage public
+deliberation.</p>
+        <p>Things have not worked out as the Framers envisioned. One of
+the most serious problems is the public emphasis on issues and events
+that have little relevance to most people's lives. People lack accurate
+information about what is most important.3 In elections, for example,
+"soundbite politics" often replaces discussion about public issues.4 The
+problem affects day-to-day governance too. Instead of focusing on,
+for example, education and its improvement, public attention is often
+directed to sensational anecdotes, crude oversimplifications of issues,
+* Karl N. Llewellyn Professor of Jurisprudence, University of Chicago, Law School and
+Department of Political Science. B.A. I975, Harvard College; J.D. I978, Harvard Law School.
+I am grateful to Jon Elster, Dan Kahan, Richard Posner, Julie Roin, Geoffrey Stone, and David
+Strauss for valuable comments, and to Thomas Brown for outstanding research assistance.</p>
+        <p>I "The functioning of . . . competition . . . depends, above all, on the existence of an
+appropriate legal system . . . In no system that could be rationally defended would the state
+just do nothing. An effective competitive system needs an intelligently designed and continuously
+adjusted legal framework as much as any other." FRIEDRICH A. HAYEK, THE ROAD TO
+SERFDOM 38-39 (I944).</p>
+        <p>2 See Joseph M. Bessette, Deliberative Democracy: The Majority Principle in Republican
+Government, in How DEMOCRATIC Is THE CONSTITUTION? I02, II4 (Robert A. Goldwin &amp;
+William A. Schambra eds., I980).</p>
+        <p>3 See SHANTO IYENGAR, Is ANYONE RESPONSIBLE? How TELEVISION FRAMES POLITICAL
+ISSUES I27-43 (I99I) (describing the distorting effects of television news coverage); cf. STEPHEN
+BREYER, BREAKING THE VICIOUS CIRCLE 2I, 34 (I993) (showing that public assessment of the
+riskiness of many activities diverges widely from expert assessments).</p>
+        <p>4 See, e.g., KIKu ADATTO, SOUND BITE DEMOCRACY 4 (1990).</p>
+        <p>I303
+I304 HARVARD LAW</p>
+        <p>REVIEW [Vol. I07:1303
+or scandals about public officials' private lives. In these
+circumstances, we are likely to end up with misdirected policies or worse
+a form of government by faction, the evil most feared by the American
+founders.5 A high priority for those thinking about the role of the
+state should be to develop methods for focusing attention on things
+that matter to people's lives.</p>
+        <p>An important part of this task is to establish criteria by which to
+measure governmental performance. If broadly debated and
+wellpublicized, such criteria should promote democratic discussion and at
+the same time help to counteract the very problems to which they
+draw attention. To develop criteria of this kind, we need a theory of
+social well-being. To be helpful, the theory must be not only
+substantively plausible but also practical to apply. This constraint is a
+demanding one. The best substantive theory might well be abandoned
+because it is not administrable - because the underlying data cannot
+be compiled without great cost, because the theory does not allow
+comparisons among regions or over time, or because it is too unruly
+and complex.</p>
+        <p>In the United States, there are many measures of economic
+performance. But here and abroad, gross domestic product (GDP) is the
+most influential indicator of social well-being. When GDP is growing,
+it is often thought that a number of good things will happen
+employment will increase, poverty will go down, and people will be
+able to obtain a wide range of valuable things. Concentration on
+GDP has important political effects. It focuses media, public, and
+governmental attention in a distinctive way.</p>
+        <p>Part of my goal here is to show - what most economists do not
+deny - that GDP is an inadequate measure of social well-being, and
+that we lack an adequate alternative. GDP is too crudely connected
+to things that people should care about. To overcome the limits of
+GDP, I offer a simple proposal: Democratic governments should
+produce an annual "quality of life report," designed to measure their
+performance in producing good lives for their citizens. This report
+should be highly publicized and broadly disseminated. I also propose
+that the ingredients in the report are plural and diverse. They are
+not commensurable. Both the fact of incommensurability and the
+general attack on GDP have some important consequences for law.</p>
+        <p>I suggest as well that it is important to attend to the relationship
+between legal provisions and the various ingredients of individual and
+social well-being. Per capita GDP, for example, becomes more
+important if money is both necessary and sufficient for the acquisition
+of valuable things. We might ultimately be able to evaluate legal</p>
+        <p>S See, e.g., THE FEDERALIST No. IO, at 77-78 (James Madison) (Clinton Rossiter ed., I96I)
+(discussing the nature, cause, and effects of faction).</p>
+        <p>AND
+provisions by exploring their relationship to the various components
+of individual and social well-being. A quality of life report would
+help in initiating this project.</p>
+        <p>In the course of the discussion, I offer a great deal of data about
+social and economic trends within the United States. The failure to
+identify the empirical dimensions of legal disputes is a continuing
+weakness in the legal culture.6 While the facts identified by a "quality
+of life" report will not dispose of strictly legal debates, they do have
+implications for many legal controversies, especially those involving
+the criminal justice system, race and sex equality, and government
+regulation.</p>
+      </sec>
+      <sec id="sec-2-2">
+        <title>I. GROSS DOMESTIC PRODUCT</title>
+      </sec>
+      <sec id="sec-2-3">
+        <title>A. In General</title>
+        <p>One of the simplest measures of social and economic well-being,
+used internationally and by many nations, is gross domestic product
+(GDP). The term refers to the total quantity of goods and services
+produced, weighted by their respective prices.7 Goods and services
+that are not paid for are not included.</p>
+        <p>GDP is highly influential in international comparisons. It also
+plays a large role in the domestic sphere. To take a crude illustration,
+consider the astonishing fact that the words "gross national product"8
+appeared in I6,055 major news stories in the last two years - and
+that the words "gross domestic product" appeared in 39,007 stories.9
+It would be an absurd exaggeration to say that ordinary people
+frequently talk about GDP or GNP.10 But the numbers for GDP affect
+legislative deliberations, presidential judgments, media reports on the
+6 In the law of free speech, for example, it is crucial to know whether an "actual malice"
+regime for libel law in fact alters press behavior as compared with a negligence regime - and
+whether the alterations lead to more or less information about public issues. In administrative
+law, it is important to know whether stringent judicial review actually improves agency
+performance.</p>
+        <p>7 See U.S. DEP'T OF COMMERCE, STATISTICAL ABSTRACT OF THE UNITED STATES 437
+(II3th ed. I993) [hereinafter STATISTICAL ABSTRACT I993].</p>
+        <p>8 Gross national product (GNP) means GDP adjusted to measure the total income received
+by the inhabitants of the country. It adds to GDP all interest, profits, dividends, and rents
+coming into a country from abroad, and then subtracts all interest, profits, dividends, and rents
+paid to people in other countries. See ECONOMIC INDICATORS HANDBOOK 59 (Arsen J. Darnay
+ed., I992). In November, I99I, the Department of Commerce's Bureau of Economic Analysis
+shifted emphasis from GNP to GDP. See id.</p>
+        <p>9 Search of NEXIS, Curnws library (Feb. i6, I994).</p>
+        <p>10 Media attention is often focused on the "leading economic indicators," including average
+weekly hours, housing starts, and the money supply. These too are only crudely connected with
+social and economic welfare, for reasons that will emerge in the course of the discussion.
+state of the economy, professional recommendations, and much more.
+A different measure would focus attention on different things.</p>
+      </sec>
+      <sec id="sec-2-4">
+        <title>B. Criticisms</title>
+        <p>Certainly GDP is a useful figure, for it bears a relationship to
+important social goals. If we think of income as an all-purpose means
+- as something that people want regardless of what else they want
+- we might well attend to GDP. There are, however, a number of
+problems with relying on GDP as a measure of well-being. Some of
+these problems suggest that GDP is imperfect as a measure of purely
+economic goals. Some of them suggest that important social, rather
+than purely economic, variables are not reflected in GDP, though of
+course it is artificial to distinguish the economic and the social.1"
+i. GDP and Economic Well-Being. - GDP's ability to measure
+economic well-being is doubtful for a number of reasons.</p>
+        <p>(a) Distributional Issues. - If income is unequally distributed, a
+high GDP may disguise the fact that many people are living bad or
+even desperate lives. For example, the United States has the highest
+per capita real GDP in the world. 12 But it also has a higher rate of
+children living in poverty - one in five - than does any other
+wealthy country in the world. The rate of children living in poverty
+is double that of the industrialized nations taken as a whole and four
+times that of Western Europe. 13 Nearly half of all black children in
+the United States live in poverty.14</p>
+        <p>(b) Excluded Goods and Services. - GDP does not include goods
+and services that are free, including some that are plausibly connected
+with economic well-being. For example, unpaid domestic labor is not
+a part of GDP.15 Many environmental amenities, such as clean air
+and water, are not reflected in GDP. The GDP figure thus fails
+adequately to measure either the benefits of a healthy environment or
+11 See A.C. PIGOU, THE ECONOMICS OF WELFARE I2 (4th ed. I962) ("[T]here is no guarantee
+that the effects produced on the part of welfare that can be brought into relation with the
+measuring-rod of money may not be cancelled by effects of a contrary kind brought about in
+other parts, or aspects, of welfare; and, if this happens, the practical usefulness of our conclusions
+is wholly destroyed. . The real objection then is, not that economic welfare is a bad index
+of total welfare, but that an economic cause may affect non-economic welfare in ways that
+cancel its effect on economic welfare.").</p>
+        <p>12 See UNITED NATIONS DEVELOPMENT PROGRAMME, HUMAN DEVELOPMENT REPORT
+I993, at I35 (I993) [hereinafter HUMAN DEVELOPMENT REPORT I993].</p>
+        <p>13 See Ray Moseley, Among Rich Nations, U.S. Has Highest Child-Poverty Rate, CHI.
+TRIB., Sept. 23, I993, ? i, at 4.</p>
+        <p>14 See id.</p>
+        <p>15 See Luisella Goldschmidt-Clermont, Measuring Households' Non-Monetary Production,
+in REAL-LIFE ECONOMICS 265, 265 (Paul Ekins &amp; Manfred Max-Neef eds., 1992); MARILYN
+WARING, IF WOMEN COUNTED 2 (I988).
+the costs of its degradation.16 There are other gaps in what GDP
+measures. It does not, for example, reflect changes in leisure time;
+but it is clear that any increase in leisure is a gain. 17 Most generally,
+a serious problem with GDP is that the figure excludes all social costs
+and benefits that do not have prices.18</p>
+        <p>(c) Unclear Correlations with Other Important Economic
+Indicators. - GDP sometimes seems to be a general placeholder for a
+number of indicators of economic well-being. But in fact, it may not
+be closely correlated with some important indicators. Consider two
+major social goals: reduction of poverty and of unemployment. Of
+course GDP growth can be an important factor in counteracting both
+unemployment and poverty, and nothing I say here is inconsistent
+with this judgment. But it is also possible for GDP increases to be
+accompanied by increases in unemployment and hence poverty (which
+is closely correlated with unemployment); indeed, this phenomenon
+has often happened.</p>
+        <p>Economic growth is a function of productivity growth and
+employment growth, where productivity is understood as GDP divided
+by total employment. 19 Increases in productivity can contribute to an
+increase in GDP, possibly without increasing employment levels at
+all. For example, converting a plant to use industrial robots may
+16 GNP needs to be modified to account for:
+any depreciation of natural capital stocks, in the same way that net national income is
+equal to gross national income less estimated depreciation on man-made capital. . [and]
+any damage losses accruing to human wellbeing from the extraction, processing and
+disposal of materials and energy to the receiving environments.</p>
+        <p>DAVID PEARCE, ECONOMIC VALUES AND THE NATURAL WORLD 3I (I993). See also the
+discussion of adjusted national product - GNP adjusted for depreciation of physical capital - in
+0yvind Lone, Environmental and Resource Accounting, in REAL-LIFE ECONOMICS, cited above
+in note 15, at 239, 253-54; and the discussion of natural resource accounting in Robert Repetto,
+Earth in the Balance Sheet: Incorporating Natural Resources in National Income Accounts,
+ENVIRONMENT, Sept. I992, at I2, I5-I7.</p>
+        <p>In I993, President Clinton directed the Commerce Department's Bureau of Economic
+Analysis to develop a new measure of GDP, one that incorporates the cost of pollution and the value
+of environmental amenities. See ROBERT V. PERCIVAL, ALAN S. MILLER, CHRISTOPHER H.
+SCHROEDER &amp; JAMES P. LEAPE, ENVIRONMENTAL REGULATION 394 (Supp. 1993).</p>
+        <p>17 In I952, Kuznets attempted to redefine GNP to take leisure into account. See Simon
+Kuznets, Long-Term Changes in the National Income of the United States of America Since
+I870, in INCOME &amp; WEALTH OF THE UNITED STATES: TRENDS AND STRUCTURE 29, 63-69
+(Simon Kuznets ed., I952). Note also that a i968 study showed a spectacular gain in leisure
+over the last century. See A.W. Sametz, Production of Goods and Services: The Measurement
+of Economic Growth, in INDICATORS OF SOCIAL CHANGE 77, 83 (Eleanor B. Sheldon &amp; Wilbert
+E. Moore eds., I968).</p>
+        <p>18 See, e.g., EzRA J. MISHAN, THE COSTS OF ECONOMIC GROWTH I22-66 (I967).
+19 See Arthur M. Okun, Potential GNP: Its Measurement and Significance, in AM. STAT.
+ASS'N, I962 PROCEEDINGS Bus. &amp; ECON. STAT. SECTION 98, 103 (I962) ("[T]he reduction of
+one point in the unemployment rate means perhaps a I.8 percent increase in total labor input
+measured in manhours. Then, to get the 3.2 percent increment in output, manhour productivity
+must rise by about 1.4 percent.").
+I308 HARVARD LAW
+raise production levels while eliminating the jobs of hundreds of
+assembly workers. Increases in GDP may therefore fail to produce
+increases in employment levels. Because poverty is well correlated
+with unemployment, it follows too that when GDP goes up, poverty
+may not go down..</p>
+        <p>The following table shows changes in GDP, unemployment, and
+poverty from I970 to the present. GDP growth rates are generally
+correlated with changes in unemployment rates, particularly in
+especially high and especially low GDP growth years. There are, however,
+years in which the two figures are not correlated. For present
+purposes, a key point is that GDP rates are far from identical to
+unemployment and poverty rates. If we know what happens to GDP, we
+do not necessarily know what happens to unemployment and poverty.
+20 See ECONOMIC REPORT OF THE PRESIDENT 304 (Poverty I992) (I994) [hereinafter
+EcoNOMIC REPORT OF THE PRESIDENT I994]; ECONOMIC REPORT OF THE PRESIDENT 35I (GDP
+I970-9I), 382 (Unemployment I970-92), 380 (Poverty I970-9I) (I993) [hereinafter ECONOMIC
+REPORT OF THE PRESIDENT I993]; STATISTICAL ABSTRACT I993, supra note 7, at 444 (GDP
+I992).</p>
+        <p>AND
+2. GDP and Social Well-Being. - Even if GDP has some virtues
+as an indicator of economic welfare, it fails to capture important
+aspects of social well-being.</p>
+        <p>(a) Uncertain Relation to Valuable Things. - It is often thought
+that GDP serves as a good proxy.for valuable things. But the
+relationship between GDP and important social goals is far from clear.</p>
+        <p>Consider, for example, the likelihood of subjection to violent crime.
+Physical security is surely an important ingredient in well-being, but
+it is at best indirectly reflected in GDP. Consider also the fact that
+there is no inevitable connection between GDP and life expectancy.
+Some countries have a relatively low GDP but long life expectancy
+and low rates of infant mortality.21 Many countries have a high GDP
+but do poorly in promoting longevity.22 Education is an important
+part of a good life, whether or not educated people accumulate wealth;
+but the association between education and GDP, while real, is crude.</p>
+        <p>Certainly we can speculate, with some plausibility, that wealthy
+people are less likely to commit crimes and better able to pay for
+education, and that high social wealth can and will be devoted to
+improving criminal law enforcement, life expectancy, and public
+health. But what has been said thus far should show that the
+connection between GDP and these other goods is unclear.</p>
+        <p>(b) Dependence on Legal and Social Practices. - The most basic
+point here is conceptual: The value of money depends on social and
+21 See UNITED NATIONS DEVELOPMENT PROGRAMME, HUMAN DEVELOPMENT REPORT I990
+at 9, tbl. i.i (I990) [hereinafter HUMAN DEVELOPMENT REPORT I990] (presenting information
+on Sri Lanka, Jamaica, and Costa Rica). The level of childhood immunizations puts the United
+States 2ISt in the world, tied with Pakistan and below India, Bulgaria, North Korea, Indonesia,
+and Botswana. See Moseley, supra note I3, ? I, at 4.</p>
+        <p>22 See HUMAN DEVELOPMENT REPORT I990, supra note 2I, at 9, tbl. i.i. The points
+discussed in the text are connected to a broader debate. Emphasizing some of the problems
+with accounts inspired by utilitarianism, John Rawls proposes that judgments about well-being
+might be made by reference to "primary goods." In his latest formulation, Rawls points to "a.
+basic rights and liberties . . .; b. freedom of movement and free choice of occupation against
+a background of diverse opportunities; c. powers and prerogatives of offices and positions of
+responsibility in the political and economic institutions of the basic structure; d. income and
+wealth; and finally, e. the social bases of self-respect." JOHN RAWLS, POLITICAL LIBERALISM
+i8i (I993). This approach is in many respects a considerable improvement over utilitarian
+accounts and those that rely on an aggregated figure representing the private willingness to pay.
+In place of primary goods, Amartya Sen has suggested that a good measure of well-being should
+focus on people's "capabilities" and "functionings." See AMARTYA SEN, INEQUALITY
+REEXAMINED 79-84 (I993). The term "capabilities" refers to a person's capacity or opportunity to choose
+among valuable activities or functionings. We might ask, for example, whether someone is able
+to get access to food, medical care, shelter, education, political participation, and so forth, or
+whether that person is able to avoid public and private violence, physical pain, and other forms
+of suffering. Like the list of primary goods, the list of capabilities and functionings is
+heterogeneous. Its chief advantage is that it enables us to focus on the question why such things as
+wealth and income are valuable, that is, what they enable people to have and to be.
+legal practices determining what money can be used to buy. If certain
+exchanges are blocked - if money cannot be used to purchase
+valuable things - per capita GDP becomes less important. Wealth is less
+valuable when money cannot be used to buy votes or political power,
+or education, or marriage, or self-respect. Similarly, the value of
+money is reduced to the extent that it is unnecessary for someone to
+have money to obtain important goods. If education, health care,
+political power, and clean air are free, money is less valuable.23</p>
+        <p>In short, the value of money is largely a function of the legal
+regime. To understand the relationship between GDP and valuable
+things, it is necessary to understand the set of legal entitlements
+through which people are enabled to get, or are disabled from getting,
+things of importance to their lives. It might then be possible to "map"
+legal provisions onto the various ingredients of well-being.24
+(c) Commensurability. - GDP is of course an aggregative
+measure, and it is aggregative in a distinctive sense.25 GDP is not simply
+an index of different values, created to allow ease of understanding
+and comparison. Instead, it measures diverse items through the same
+basic dimension of "value," defined by willingness to pay.</p>
+        <p>This approach assumes commensurability in the sense that it acts
+as if diverse goods can be assessed according to the same metric. This
+form of valuation seems wrong because it ignores qualitative
+differences among diverse social goods.26 Some things (like education and
+health) have intrinsic as well as instrumental value; other things (like
+cash) are simply for use. Intrinsically valuable things are themselves
+valued in different ways.</p>
+        <p>The problem with GDP is that because it is aggregative, it effaces
+qualitative differences. For this reason it is a crude indicator of social
+welfare and an unpromising foundation for democratic deliberation.
+Suppose, for example, that we are told that if OSHA issues a certain
+occupational safety regulation, GDP will be reduced by o.ooi%. To
+23 Of course there may be harmful social effects from prohibiting the use of money as a
+basis for exchange, or from providing goods for free. Both of these decisions may mean that
+there is less wealth upon which to draw. But these are different matters.</p>
+        <p>24 This is a generalization of the "entitlement approach" suggested in AMARTYA SEN,
+POVERTY AND FAMINES 45-5 I (I980I).</p>
+        <p>25 Economists and others critical of GNP have proposed a number of alternative measures.
+William Nordhaus and James Tobin, two early critics, suggested that it would be better to
+attempt to generate a "measure of economic welfare" (MEW). See William D. Nordhaus &amp;
+James Tobin, Is Growth Obsolete?, in THE MEASUREMENT OF ECONOMIC AND SOCIAL
+PERFORMANCE 509, 512-I3 (Conference on Research in Income &amp; Wealth, Studies in Income &amp;
+Wealth Vol. 38, Milton Moss ed., I973).</p>
+        <p>A more recent measure is the Daly &amp; Cobb "index of sustainable economic welfare" (ISEW).
+See HERMAN E. DALY &amp; JOHN B. COBB, JR., FOR THE COMMON GOOD 401-55 (I989).</p>
+        <p>26 See ELIZABETH ANDERSON, VALUE IN ETHICS AND ECONOMICS 8-I6 (1993); Cass R.
+Sunstein, Incommensurability and Valuation in Law, 92 MICH. L. REV. 779, 782-90 (1994).</p>
+        <p>AND
+make a sensible evaluation, we need to know a great deal more. To
+what does this number refer? Does it include greater unemployment,
+higher inflation, and the scaled-back production of important goods?
+Does it mean more poverty? At least in principle, it would be much
+better to have a highly disaggregated system for assessing the
+qualitatively different goods at stake. People should be informed about
+the diverse potential effects and make judgments on the basis of an
+understanding of the qualitative differences. If all the relevant goods
+are aligned along a single metric, they become less visible, or perhaps
+invisible. 2 7</p>
+      </sec>
+      <sec id="sec-2-5">
+        <title>II. EXISTING MEASURES OF WELL-BEING</title>
+      </sec>
+      <sec id="sec-2-6">
+        <title>A. Current American Approaches</title>
+        <p>GDP is hardly the only indicator of social welfare. In the United
+States, over fifty indicators are now in use.28 The United Nations
+offers many more.29 A major problem with the current American
+approach is that the measures - offered in an endless and barely
+intelligible succession - lack organization and clarity.30 In this
+section, I describe some of the most important indicators.</p>
+        <p>The unemployment rate, announced every month, includes the
+number of people sixteen years of age or older who are actively seeking
+employment.3' It therefore excludes people who are not seeking work,
+even if they say that they would like a job and that they are not
+27 The use of GNP creates other difficulties, but because these seem less fundamental and
+in some ways more complex, I simply identify them here.</p>
+        <p>(a) GNP depends on willingness to pay and thus on existing preferences for various social
+goods. One could do much worse than to make assessments on the basis of existing preferences;
+people's well-being is certainly connected with satisfaction of consumption choices. Existing
+preferences are not, however, an adequate guide to social well-being, because they may depend
+on unjust background conditions or on simple ignorance. See AMARTYA SEN, COMMODITIES
+AND CAPABILITIES 48 (Professor Dr. P. Hennipman Lectures in Economics Vol. 7, I985).</p>
+        <p>(b) As noted, GNP is an important method for making cross-national comparisons. But per
+capita GNP is an inadequate comparative guide if there are large differences in conditions and
+hence in needs. If distinctive needs are a product of local circumstances, GNP per capita will
+be an inadequate proxy for well-being.</p>
+        <p>(c) The existence of positional goods poses a problem for GNP. Positional goods are those
+that are valuable because only a few people have them. Status symbols of various sorts,
+including luxury automobiles, are examples. See Richard H. McAdams, Relative Preferences,
+I02 YALE L.J. i, I8-I9 (I992). If GNP is growing partly because it includes a large number
+of positional goods, it is not clear that welfare is growing as well.</p>
+        <p>28 See NORMAN FRUMKIN, GUIDE TO ECONOMIC INDICATORS at xiii (I990).
+29 See HUMAN DEVELOPMENT REPORT I993, supra note I2, at I29-34.</p>
+        <p>30 A possible exception is the Statistical Abstract, cited above in note 7. The abstract is
+helpful, but it has many failings as well. Above all, it is so detailed that readers cannot easily
+get a general picture; the latest edition includes I433 tables.</p>
+        <p>31 See FRUMKIN, supra note 28, at 224.
+I3I2 HARVARD LAW REVIEW [Vol. I07:I303
+seeking work because they do not believe that jobs are available for
+them.</p>
+        <p>The following tables show differences in employment along lines
+of race and sex; these are significant because although overall
+unemployment may be low, it is good to know whether members of
+identifiable social groups are disproportionately out of work.32
+32 See supra p. I308 (showing the variation in unemployment rates over time).
+33 See ECONOMIC REPORT OF THE PRESIDENT I993, supra note 20, at 39I.
+I994] WELL-BEING AND THE STATE I3I3
+16-19 20 Years 16-19 20 Years
+Year Total Total Years and Over Total Years and Over
+The poverty level emerged from the I96I plan of the Department
+of Agriculture.35 Like judgments about unemployment, the judgment
+about who is poor is far from a simple matter of fact.36 The I96I
+estimate measured how much money was necessary to meet nutritional
+requirements, and this amount was multiplied by three to determine
+the total income necessary to meet all living expenses.37 Poverty
+thresholds have been updated every year by taking into account the
+consumer price index. Hence, the annual threshold for a family of
+four was $3I69 in I964, $ii,6ii in I987, and $I3,924 in i99i.38</p>
+        <p>The official measure of poverty does not include noncash income;
+it therefore excludes "food stamps, Medicare and Medicaid, school
+lunches, and subsidized rental housing."39
+34 See id.
+35 See FRUMKIN, supra note 28, at I96.
+36 See SEN, supra note 24, at 9-23 (discussing possible concepts of poverty).</p>
+        <p>37 See FRUMKIN, supra note 28, at I96. The "multiplication by three" is of course quite
+crude. It was based on a I955 study showing that food consumes one-third of the average
+household budget. See id.</p>
+        <p>38 See U.S. DEP'T OF COMMERCE, CURRENT POPULATION REPORTS SERIES P-6o, No. i8i,
+POVERTY IN THE UNITED STATES: I99I, at A-6 (Aug. I992).</p>
+        <p>39 FRUMKIN, supra note 28, at I95.</p>
+      </sec>
+      <sec id="sec-2-7">
+        <title>HARVARD</title>
+      </sec>
+      <sec id="sec-2-8">
+        <title>LAWREVIEW [Vol. I07:I303</title>
+        <p>Of course, there are large disparities in terms of race and sex in
+the percentage of persons and families living in poverty.41</p>
+        <p>The consumer price index, the most important indicator of the
+rate of inflation, is designed to reflect price changes for a set of goods,
+including housing, clothing, food and drink, medical care,
+entertainment, education, and tobacco products.42 Annual percentage changes
+show striking disparities over time:
+40 See ECONOMIC REPORT OF THE PRESIDENT I993, supra note 20, at 380, tbl. B-28.
+41 See id. (showing that the percentage of blacks living in poverty is nearly triple that of
+whites, and that the percentage of black female householders in poverty is nearly double that
+of white female householders).</p>
+        <p>42 See FRUMKIN, supra note 28, at 63.</p>
+        <p>THE</p>
+        <p>The average weekly earnings of workers in private nonagricultural
+industries, calculated monthly by the Bureau of Labor Statistics, are
+provided in current dollars and in constant I982 dollars.44
+43 The information in this table was compiled from several sources. The CPI-U figures for
+all items were drawn from Statistical Abstract I993, cited above in note 7, at 482, tbl. 756; the
+CPI-W figures, from Economic Indicators Handbook, cited above in note 8, at 227; CPI
+DETAILED REPORT, March I993, at i66, tbl. 6A; and CPI DETAILED REPORT, March I992, at
+I67, tbl. 6A. The CPI-U figures up to 1990 for all items excluding energy and all items
+excluding food and energy, are from Economic Report of the President I993, cited above in
+note 20, at 4I4, tbl. B-58. The CPI-U figures for I99I and I992 are from Economic Report of
+the President I994, cited above in note 20 at 339, tbl. B-62. CPI-U is the consumer price index
+for all urban consumers; CPI-W is the CPI for urban wage earners and clerical workers. In
+I980, the CPI-U represented 8o% of the noninstitutional population, and the CPI-W, 32%. See
+FRUMKIN, supra note 28, at 63.</p>
+        <p>44 See ECONOMIC REPORT OF THE PRESIDENT 1994, supra note 20, at 320, tbl. B-45;
+ECONOMIC REPORT OF THE PRESIDENT I993, supra note 20, at 396, tbl. B-42.
+Income distribution is measured in terms of quintiles. Income
+taxes have little effect on income distribution. The following table
+shows changes over time with respect to income, before and after tax,
+in the United States:
+45 See id.</p>
+        <p>AND
+100% 100% 100% 100% 100% 100% 100% 100% 100% 100%
+Lowest fifth 3.8 3.9 3.8 3.9 4.0 3.9 4.0 4.0 4.1 4.2
+Second fifth 9.5 9.6 9.7 9.7 9.8 9.9 9.9 10.0 10.2 10.6
+Third fifth 16.0 16.0 16.4 16.3 16.4 16.4 16.5 16.7 16.8 17.1
+Fourth fifth 24.1 24.1 24.0 24.4 24.6 24.6 24.6 24.8 24.8 24.6
+Highest fifth 46.5 46.4 46.1 45.7 45.3 45.2 45.0 44.4 44.2 43.5
+100% 100% 100% 100% 100% 100% 100% 100% 100% 100%
+Lowest fifth 4.5 4.6 4.2 4.6 4.7 4.7 4.7 4.9 4.9 4.9
+Second fifth 11.0 10.9 10.4 11.0 11.0 11.1 11.3 11.5 11.6 11.7
+Third fifth 16.7 16.6 16.1 17.2 17.2 17.4 17.5 17.8 17.9 17.8
+Fourth fifth 24.3 24.0 23.2 24.7 24.8 24.8 24.8 25.0 25.1 24.7
+Highest fifth 43.6 43.9 46.1 42.6 42.3 42.1 41.8 40.9 40.6 41.0
+No official government statistics reveal the costs and benefits of
+government regulation. Private estimates suggest that economic
+regulation costs the economy about $46 billion annually, and that social
+regulation (principally environmental controls) costs between $78
+billion and $IO7 billion.47 The benefits of economic regulation appear
+low, but the benefits of social regulation range between $42 billion
+and $i8i billion.48 No one has fully explored the effects of regulation
+on GDP. A I990 study suggested that between I973 and I985, the
+GDP growth rate fell by o.I9 percentage points as a result of
+environmental controls.49 This study does not, however, include the
+health benefits of such controls, which probably lead to productivity
+gains. There are significant disparities in regulatory policy, especially
+with respect to expenditures per life saved:</p>
+        <p>46 The I986-I99I figures are derived from the Statistical Abstract of the United States,
+which uses a slightly different definition of "after-tax" income than Norman Frumkin's Guide
+to Economic Indicators. See FRUMKIN, supra note 28, at 75, tbl. I5 (presenting the income
+before and after taxes for I974-85); STATISTICAL ABSTRACT I993, supra note 7, at 463, tbl.
+722. (presenting the figures for income before and after taxes in I99I); U.S. DEP'T OF
+COMMERCE, STATISTICAL ABSTRACT OF THE UNITED STATES 462, tbl. 73I (II2th ed. I992)
+(presenting the figures for income before and after taxes in I990); U.S. DEP'T OF COMMERCE,
+STATISTICAL ABSTRACT OF THE UNITED STATES 449, tbl. 724 (i ioth ed. I990) (describing
+income before and after taxes for I986).</p>
+        <p>47 See Robert W. Hahn &amp; John A. Hird, The Costs and Benefits of Regulation: Review and
+Synthesis, 8 YALE J. ON REG. 233, 249, 253 (1991).</p>
+        <p>48 See id. at 253.
+I3I8 HARVARD LAWREVIEW [Vol. I07:I303
+Unvented Space Heater Ban CPSC 0.1
+Underground Construction Standards OSHA-S 0.1
+Auto Fuel-System Integrity Standard NHTSA 0.4
+Side-Impact Standards for Autos (Dynamic) NHTSA 0.8
+Low-Altitude Windshear Equip. &amp; Training Stds. FAA 1.3
+Hazard Communication Standard OSHA-S 1.6
+Standards for Radionuclides in Uranium Mines EPA 3.4
+Benzene NESHAP (Revised: Coke Byproducts) EPA 6.1
+Electrical Equipment Standards (Coal Mines) MSHA 9.2
+Arsenic/Copper NESHAP EPA 23.0
+Benzene NESHAP (Revised: Transfer Operations) EPA 32.9
+Coke Ovens Occupational Exposure Limit OSHA-H 63.5
+Arsenic Occupational Exposure Limit OSHA-H 106.9
+Asbestos Ban EPA 110.7
+1,2-Dichloropropane Drinking Water Standard EPA 653.0
+Hazardous Waste Land Disposal Ban (1st 3rd) EPA 4190.4
+Formaldehyde Occupational Exposure Limit OSHA-H 86,201.8
+Atrazine/Alachlor Drinking Water Standard EPA 92,069.7
+Hazardous Waste Listing for Wood-Preserving EPA 5,700,000.0</p>
+        <p>Chemicals</p>
+        <p>The Federal Bureau of Investigation compiles statistics showing
+subjection to violent crime.51 The following table reflects changes
+over time:
+50 See BREYER, supra note 3, at 24-27, tbl. s.
+51 See STATISTICAL ABSTRACT 1993, supra note 7, at I89-90.</p>
+      </sec>
+      <sec id="sec-2-9">
+        <title>AND THE STATE I3I9</title>
+        <p>Here, then, are some of the most important indicators of social and
+economic well-being. It should be clear that the system for reporting
+and disseminating this information is quite ad hoc. There has been
+no democratic judgment about the ingredients of such key measures
+as GDP, poverty, and unemployment. There is no effort to put some
+or many of the indicators into a composite figure, to provide an
+indication of general changes over time. Nor does the government
+furnish reports offering a clearly accessible survey of social and
+economic indicators.</p>
+      </sec>
+      <sec id="sec-2-10">
+        <title>B. International Measures</title>
+        <p>The United Nations makes what is probably the most influential
+international effort to measure well-being, though there have been
+illuminating efforts elsewhere. I summarize several methods here. A
+key point is that alternative accounts often place a premium on health
+and education as well as per capita income.</p>
+        <p>i. Human Development Index. - The United Nations publishes
+an annual Human Development Report in order to facilitate
+comparative assessments of government performance.53</p>
+        <p>52 See FEDERAL BUREAU OF INVESTIGATION, U.S. DEP'T OF JUSTICE, UNIFORM CRIME
+REPORTS FOR THE UNITED STATES I992, at 58, tbl. I (I992).</p>
+        <p>53 See, e.g., HUMAN DEVELOPMENT REPORT I990, supra note 2I, at 9.</p>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>I320 HARVARD LAW</title>
+      <p>(a) Description. - The report ranks I73 countries and contains
+comparative information on access to health services and safe water;
+numbers of radios, telephones, and televisions; levels of child
+immunization and malnutrition; public expenditures on education;
+malefemale wage gaps; levels of homicide, rape, and drug crimes;
+population per doctor; numbers of new AIDS cases; population growth;
+energy consumption; pollution levels; and much more.</p>
+      <p>The United Nations approach places particular emphasis on a
+"human development index" (HDI). This figure is calculated on the
+basis of longevity, knowledge, and income.54 "Longevity" is
+determined on the basis of life expectancy at birth.55 "Knowledge" is
+calculated by a formula based on adult literacy and mean years of
+schooling, with literacy weighted twice as heavily as mean years of
+schooling.56 To take account of the diminishing value of income, the
+"income" ingredient is based on an adjustment of per capita GDP.57
+The UN measurement weighs the three variables equally. What
+follows is the ranking of the first twelve countries in the latest report:
+The HDI compiles much valuable information and presents it in
+a revealing way. For instance, the United States ranks first in both
+per capita GDP and adjusted real GDP; it also ranks first in mean
+years of schooling and in overall educational attainment. But it ranks
+54 See id. at I I-I3.
+55 See id. at 12.</p>
+      <p>56 See UNITED NATIONS DEVELOPMENT PROGRAMME, HUMAN DEVELOPMENT REPORT
+I99I, at 90 (i99i).</p>
+      <p>57 See HUMAN DEVELOPMENT REPORT I990, supra note 2i, at I2.
+58 See HUMAN DEVELOPMENT REPORT I993, supra note I2, at I35, tbl. i.</p>
+      <sec id="sec-3-1">
+        <title>AND THE STATE I32 I</title>
+        <p>sixth overall. The reason is that life expectancy at birth stands at
+75.9 years, for a ranking along that dimension of sixteenth.</p>
+        <p>The UN report demonstrates that there is no necessary connection
+between GDP and employment levels.59 Moreover, the performance
+of some countries appears to be quite variable over time. Notably,
+the literacy rate in the United States increased from a comparatively
+low 96% in I985 to a very high 99% in i9go.60</p>
+        <p>An intriguing question concerns the precise relationship among the
+HDI's three variables of longevity, knowledge, and income. Some
+countries with relatively high income ranks (including Algeria,
+Namibia, and South Africa) have relatively low HDI ranks.61 Other
+countries have HDI ranks that are well above their income ranks
+(including China, Colombia, and Uruguay).62</p>
+        <p>A key issue is whether significant variations exist among groups
+within each country. In the United States, for example, whites,
+standing alone, rank above Japan in HDI; if American whites lived alone
+in their own country, it would rank first in the world.63 By contrast,
+African-Americans rank 3ist, and Hispanics 35th.64 In addition, no
+nation's HDI improves after being adjusted for sex inequalities, which
+indicates that no nation provides as good lives for women as it does
+for men.65 But there are important variations. For example, women's
+wages are 88% of men's in France and 85% in Norway, but only 5I%
+in Japan and 59% in the United States.66</p>
+        <p>Many other questions involve comparative data not directly
+reflected in the HDI's three principal variables. Between I980 and i986,
+for example, there were only 3I drug crimes per ioo,ooo people per
+year in Japan, 25 in Israel, and 38 in the Netherlands, compared with
+225 in Canada, 234 in the United States, and 403 in Australia.67 The
+reported rape rate in the United States is by far the highest - i i 8
+per ioo,ooo women between I5 and 59.68 In Japan, the rate is only
+5 per ioo,ooo, and in many countries it is somewhere between i8 and
+59 For example, Canada had an unemployment rate in I990-9I of I0.2% despite a high per
+capita GNP. See id. at 20I, tbl. 39. Notwithstanding its considerably lower per capita GNP,
+Japan's unemployment rate was 2. I%. See id. Switzerland's unemployment rate of I.3% is the
+lowest among industrialized nations, but its per capita GNP is slightly below that of the United
+States, which has a 6.6% unemployment rate. See id.</p>
+        <p>60 Compare HUMAN DEVELOPMENT REPORT I990, supra note 2I, at I29 (listing adult literacy
+rate in the U.S. for I985) with HUMAN DEVELOPMENT REPORT I993, supra note I2, at I35,
+tbl. i (listing adult literacy rate in the U.S. for I990).</p>
+        <p>61 See HUMAN DEVELOPMENT REPORT I993, supra note I2, at I36, tbl. i.
+62 See id. at I35-36.
+63 See id. at i8.
+64 See id.
+65 See id. at i6.
+66 See id. at I96, tbl. 34.
+67 See id. at I92, tbl. 30.
+68 See id.
+I322 HARVARD LAWREVIEW
+35.69 The United States also has the highest homicide rate, at 8 per
+IOO,OOO, compared with I.5 for Japan and Sweden and somewhere
+between 2 and 3 for Canada, Switzerland, Australia, Finland, Austria,
+and New Zealand.70 It should not be surprising that the United States
+has the highest rate of prisoners, 426 per ioo,ooo, compared with 94
+in Canada, 54 in Switzerland, and 77 in the United Kingdom and in
+Germany.7 1</p>
+        <p>(b) Difficulties. - The HDI approach has important limitations.
+Any "index" will be controversial, and the equal weighting of the three
+variables seems somewhat arbitrary. In any case, the three variables
+are interrelated. Income can "buy" good educational attainment and
+also longevity; people who are poor tend to live shorter lives. So too,
+people who are in good health and who are well-educated have a
+better chance to make money. The use of the three variables is
+controversial partly because of these complex interrelations.72</p>
+        <p>The HDI is also insensitive to ethnic, racial, sex and regional
+differences. If, for example, there are important differences between
+men and women, people should know about this fact.73 It is also
+possible for a country with a high HDI score to have a number of
+people concentrated toward the bottom of the economic ladder and
+facing desperate conditions.</p>
+        <p>2. Alternatives. - Other nations, especially those in Scandinavia,
+have implemented interesting alternatives to HDI. The Swedish
+assessment of "standard of living" is more disaggregated and less
+mathematical than the UN approach. The assessment takes account of
+health and access to health care; education and skills; housing; security
+of life and property (including freedom from crime); availability of
+recreation and cultural resources; employment; income and wealth;
+and political participation.74 Of special interest is the Swedish
+rejection of unitary measures of well-being, and the insistence that
+wellbeing is not to be measured in purely subjective terms.75 A key point
+69 See id.
+70 See id.
+71 See id.</p>
+        <p>72 In addition, there is a degree of crudeness in the choice of the three indicators. It might
+make sense to include poverty level, access to food, employment figures, and more. Moreover,
+educational attainment is not adequately measured by mean years of schooling. Literacy is a
+form of educational attainment, but it sets a low floor, and in any case it is far from clear that,
+in assessing educational attainment, we should count literacy for two and mean years for one
+in some aggregate figure. Perhaps a composite figure could be developed on the basis of a more
+precise inquiry into relevant factors. Cf. PARTHA DASGUPTA, AN INQUIRY INTO WELL-BEING
+AND DESTITUTION 77-78 (I993) (noting the absence of attention to civil and political liberties
+in conventional measures of well-being, such as the HDI).</p>
+        <p>73 The report does, however, try to take distribution into account by using adjusted tables.
+See HUMAN DEVELOPMENT REPORT I993, supra note I2, at I7, tbl. I.4.</p>
+        <p>74 See Robert Erikson, Descriptions of Inequality: The Swedish Approach to Welfare
+Research, in THE QUALITY OF LIFE 67, tbl. I (Martha C. Nussbaum &amp; Amartya Sen eds., I992).
+75 It would be possible to have a purely subjective account, but such an account would be</p>
+      </sec>
+      <sec id="sec-3-2">
+        <title>THE STATE I323</title>
+        <p>here is that people may adjust their expectations in light of a status
+quo characterized by deprivation and injustice, and for this reason it
+is important to see what people can have or become, not merely what
+they think about their situation.</p>
+        <p>Another interesting alternative is a comparative survey of
+Scandinavian countries, initiated by the University of Helsinki.76 In
+addition to the Swedish factors, the Finnish approach emphasizes the
+quality of the biological and physical environment, including air and
+water pollution; the nature of relations with other people in the local
+community, in the family, and within the workplace; and opportunities
+to enjoy nature. 7 7 The comparative survey is intended to include both
+objective and subjective indicators of welfare.</p>
+        <p>In the same vein, UNICEF lists a wide range of basic indicators,
+without attempting to aggregate them. These include male and female
+adult literacy rates; life expectancy at birth; income shares of the
+lowest 40% and the highest 20% of the population; GDP per capita;
+and infant mortality.78 The Netherlands identifies sixteen variables
+involving quality of life: three each involving housing, health,
+spending power, leisure, and employment, combined with a single variable
+for education. 79 There is also an effort to combine these statistics into
+an aggregate number showing changes over time for different groups
+in the population.80 An organization in Washington, D.C. attempts
+to measure human suffering through a scale that takes account of
+income, inflation, infant mortality, nutrition, access to clean water,
+literacy, and personal freedom.81 Similar aggregative and separate
+statistics might be offered for human rights violations.82</p>
+      </sec>
+      <sec id="sec-3-3">
+        <title>III. POLITICS, WELL-BEING, AND QUALITY OF LIFE</title>
+        <p>All this has implications for law and policy. A high priority for
+both domestic and international agencies should be to compile accurate
+information about quality of life, to allow comparisons across time
+subject to distortions. See Ian Miles, Social Indicators for Real-Life Economics, in REAL-LIFE
+ECONOMICS, supra note I5, at 283, 287-88; see also SEN, supra note 27, at 22 (rejecting as
+inadequate a measure of well-being based on happiness or desire-fulfillment).</p>
+        <p>76 See Erik Allardt, Having, Loving, Being: An Alternative to the Swedish Model of Welfare
+Research, in THE QUALITY OF LIFE, supra note 74, at 88, 88-89.</p>
+        <p>77 See id. at 89-90.</p>
+        <p>78 See, e.g., UNITED NATIONS CHILDREN'S FUND, THE STATE OF THE WORLD'S CHILDREN
+I987, at I28-29, tbl. I (I987).</p>
+        <p>79 See Miles, supra note 75, at 290.
+80 See id.</p>
+        <p>81 See ROBERT V. HORN, STATISTICAL INDICATORS FOR THE ECONOMIC AND SOCIAL
+SCIENCES I42-44 (I993).</p>
+        <p>82 Note especially the attempt to integrate liberties and economic variables in DASGUPTA,
+cited above in note 72, at io8-I6. Two efforts at tabulating human rights records in numerical
+form are FREEDOM HOUSE, FREEDOM IN THE WORLD 572-75, 578-79 (I992); and CHARLES
+HUMANA, WORLD HUMAN RIGHTS GUIDE passim (3d ed. I992).
+I324 HARVARD LAW</p>
+        <p>REVIEW [Vol. 107:1303
+and space, and to ensure that the relevant reports are widely
+disseminated.</p>
+        <p>The American government should compile an annual "quality of
+life" report. I cannot give a full account of the appropriate ingredients
+of such a report. But it seems clear that the report should include,
+among other things, per capita income, poverty, housing,
+unemployment, average weekly earnings, inflation, child mortality, longevity,
+subjection to violent crime, literacy, and educational attainment. The
+report should also specify minimum standards for such things as
+income, education, health, and housing. The report should allow for
+comparison across regions, between men and women, and among
+different racial and ethnic groups.</p>
+        <p>These comparisons may spur healthy competition to do well along
+dimensions that count. If a state knows that it ranks forty-second in,
+say, unemployment, there will be both local and national pressure to
+make things better. If a state has an especially high level of violent
+crime, perhaps priorities can be changed to redress the problem. And
+if women are doing much worse than men, or blacks much worse
+than whites, the public can see this fact and perhaps take corrective
+action.</p>
+        <p>The quality of life report should be widely disseminated to the
+public and, in particular, to the news media. Strong evidence
+indicates that the media can play a large role in counteracting social
+problems by focusing public and private attention and by giving
+government the incentives to respond.83 Instead of attending to
+anecdotes and sensational scandals - or offering statements about
+supposed trends - the news media should focus on the quality of life
+report and thus allow debate to be based on actual evidence. The
+report may well have an especially important role during elections,
+but it could affect deliberation and policymaking more broadly as
+well.</p>
+        <p>A quality of life report of the kind proposed here could produce
+two distinct benefits. First, the report may well have desirable social
+consequences by facilitating priority-setting, imposing appropriate
+incentives on governmental officials, and fueling public interest in
+redressing serious problems. Accurate and widely disseminated
+information can be an important check on governmental failure to redress
+such problems.84 Consider the striking fact that in modern times, no
+83 See AMARTYA SEN, RESOURCES, VALUES AND DEVELOPMENT 500-03 (I984) (discussing
+the important role of news media in combatting famines).</p>
+        <p>84 See id.; see also Amartya Sen, Freedoms and Needs, THE NEW REPUBLIC, Jan. IO &amp; I7,
+I994, at 3I, 33-34 (emphasizing the importance of free expression and the press to a
+government's willingness to address human suffering).</p>
+        <p>AND</p>
+      </sec>
+      <sec id="sec-3-4">
+        <title>THE STATE I325</title>
+        <p>country with an active, free, and democratic press appears to have
+suffered from famine.85</p>
+        <p>Second, the very process of compiling a quality of life report would
+have advantages. We have seen that any conception of what matters
+is a product of judgments that may be controversial. Human needs
+have a great deal to do with the facts - do people have jobs? do
+they have food or housing? - but they are not simply facts. Any
+conception of needs is a product of human judgments about what
+matters. Consider, for example, the very definitions of poverty and
+unemployment, or the decision whether to include comparative data
+about groups defined in racial, ethnic, and religious terms. The public
+understanding of social problems should itself be a product, at least
+in part, of a good process of social deliberation about how needs are
+best characterized.86 By using GDP as the central indicator of social
+welfare while publishing a wide array of unorganized and somewhat
+random indicators, the current system offers no such educational
+benefits.</p>
+        <p>To say all this is not to suggest that such a report would be simple,
+or that it would not create risks. But most of the information is now
+compiled and available somewhere; its systematic presentation and
+dissemination should not be costly. There is of course a risk of error
+and bias, especially in view of the fact that the fortunes of an
+incumbent administration may depend on what emerges. Government
+manipulation of official statistics is hardly foreign to American
+experience. At the same time, many government agencies have established
+a reputation for objectivity, and there is no reason to believe that (for
+example) the statistics relating to literacy, infant mortality, and
+poverty levels reflect substantial bias.</p>
+        <p>To be sure, people have limited information-processing capacities,
+and these can lead to systematic errors through the use of bad
+heuristics. Some release of information can actually make things worse.
+But to some extent the confusion is a result of what has been made
+public, and careful presentation of the data should help overcome
+some of the faulty heuristics. One of the most common heuristics, for
+example, is that of "availability."87 People seem to think that events
+are more probable if an occurrence can easily be brought to mind.
+85 See Sen, supra note 84, at 34.
+86 See id. at 32. Sen writes:
+Political rights can have a major role in providing incentives and information toward the
+solution of economic privation. But the connections between rights and needs are not
+merely instrumental; they are also constitutive. For our conceptualization of economic
+needs depends on open public debates and discussions, and the guaranteeing of those
+debates and those discussions requires an insistence on political rights.</p>
+        <p>Id.</p>
+        <p>87 See Cass R. Sunstein, Endogenous Preferences, Environmental Law, 22 J. LEGAL STUD.
+217, 241-42 (I993).
+I326 HARVARD LAW
+Some of this effect might be counteracted by a report that catalogues
+a range of events, that allows comparisons, and that shows changes
+over time. The very need to compile the data would also give
+desirable incentives to government officials.88</p>
+        <p>I have suggested that both personal and social well-being are in
+important respects a product of law; that is, they are a function of
+the things to which the law gives people access. The law can give
+such access in many ways. It may provide guarantees of certain goods
+(such as housing, food, medical care); it may allow people to sell their
+labor; it may permit people to own certain things that they produce
+or inherit; and it may say that people can freely exchange some, but
+not all, of what they own. People's entitlements are a function of
+law, and it is their entitlements that enable them to obtain much of
+what provides for their well-being. We lack a systematic account of
+the relationship between legal entitlements and the components of
+well-being.</p>
+        <p>These points have general implications. A homeless person, for
+example, is deprived of shelter in important part through the law; if
+he tries to sleep in a place with a roof, the law will call him a
+trespasser and subject him to civil and criminal penalties.89 Whether
+someone has access to medical care depends on the bundle of legal
+rights that have been conferred. Property rights as we know them
+are not brute or natural facts, but a product of laws granting and
+conditioning entitlements of different kinds.90 It should ultimately be
+possible to link various coniponents of well-being to different legal
+permissions and requirements. We could begin to connect
+deprivations and benefits of various sorts with a range of legal provisions. A
+quality of life report would help initiate this endeavor.</p>
+        <p>Of course, no report can substitute for actual reform. What
+matters is what is done, not what is said. But in some contexts, what is
+done is a function of what is said. In the area of risk regulation, for
+example, there is evidence that disclosure of information can be an
+important regulatory tool, prompting corrective action by employers,
+employees, and governments generally.91 In any case, both citizens
+88 A similar report should be compiled in other nations and be made available for
+international comparison and review. See Cass R. Sunstein, Information, Please, 2 E. EUR. CONST.
+REV. 54, 54 (I993).</p>
+        <p>89 See Jeremy Waldron, Homelessness and the Issue of Freedom, 39 UCLA L. REV. 295,
+304 (I99I).</p>
+        <p>90 Amartya Sen writes:
+Finally, the focus on entitlement has the effect of emphasizing legal rights. Other relevant
+factors, for example market forces, can be seen as operating through a system of legal
+relations (ownership rights, contractual obligations, legal exchanges, etc.). The law stands
+between food availability and food entitlement. Starvation deaths can reflect legality
+with a vengeance.</p>
+        <p>SEN, supra note 24, at I65-66.</p>
+        <p>91 See WESLEY A. MAGAT &amp; W. KiP Viscusi, INFORMATIONAL APPROACHES TO
+REGULAand public officials are unlikely to know what to do unless they have
+good information about existing problems and trends. These points
+have general and complex consequences for the study of law, but I
+end with a simple claim: Democratic governments could take few
+more important steps than to initiate a process by which the
+components of well-being would become a substantial part of political
+debate.</p>
+        <p>TION I86-88 (I992); Cass R. Sunstein, Informing America: Risk, Disclosure, and the First
+Amendment, 20 FLA. ST. U. L. REV. 653, 662 (I993); W. Kip Viscusi, Wesley A. Magat &amp; Joel
+Huber, Informational Regulation of Consumer Health Risks: an Empirical Evaluation of Hazard
+Warnings, I7 RAND J. ECON. 35I, 362 (I986) (concluding, based on empirical study, that
+warning labels affect consumer behavior).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          49
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Dale</surname>
+          </string-name>
+          <string-name>
+            <given-names>W.</given-names>
+            <surname>Jorgensen</surname>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Peter J. Wilcoxen</surname>
+            ,
+            <given-names>Environmental</given-names>
+          </string-name>
+          <string-name>
+            <surname>Regulation</surname>
+            and
+            <given-names>U.S.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Economic</surname>
+            <given-names>Growth</given-names>
+          </string-name>
+          ,
+          <source>2I RAND J. ECON</source>
+          .
+          <volume>314</volume>
+          ,
+          <issue>315</issue>
+          (
+          <year>1990</year>
+          ).
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+

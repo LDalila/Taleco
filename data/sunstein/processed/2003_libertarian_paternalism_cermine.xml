@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink"><script/>
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Libertarian Paternalism
+Author(s): Richard H. Thaler and Cass R. Sunstein
+Source: The American Economic Review</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <contrib-group>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Thaler:Departmentof Economics andBehavioralScience, University of Chicago GraduateSchool of Business</institution>
+          ,
+          <addr-line>1101 E. 58th Street, Chicago, IL 60637</addr-line>
+          ,
+          <country country="US">USA</country>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2003</year>
+      </pub-date>
+      <volume>93</volume>
+      <issue>2</issue>
+      <fpage>3</fpage>
+      <lpage>5</lpage>
+      <abstract>
+        <p>Your use of the JSTOR archive indicates your acceptance of the Terms &amp; Conditions of Use, available at http://www.jstor.org/page/ info/about/policies/terms.jsp JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>American Economic Association is collaborating with JSTOR to digitize, preserve and extend access to The American Economic
+Review.
+http://www.jstor.org</p>
+      <p>This content downloaded from 132.211.1.50 on Thu, 20 Aug 2015 22:44:55 UTC</p>
+      <p>All use subject to JSTOR Terms and Conditions
+BEHAVIORAELCONOMICSP,UBLICPOLICYA,ND PATERNALISMt</p>
+      <p>LibertarianPaternalism</p>
+      <p>By RICHARDH. THALERANDCASSR. SUNSTEIN*</p>
+    </sec>
+    <sec id="sec-2">
+      <title>Many economists are libertariansand con</title>
+      <p>sider the term "paternalistic"to be derogatory.
+Most would think that the phrase libertarian
+paternalismis an oxymoron.The modestgoal of
+this essay is to encourageeconomists to rethink
+their views on paternalism.We believe thatthe
+anti-paternalistic fervor expressed by many
+economists is based on a combinationof a false
+assumption and at least two misconceptions.
+The false assumptionis thatpeople always
+(usually?) make choices that are in theirbest
+interest. This claim is either tautological, and
+therefore uninteresting,or testable. We claim
+that it is testable and false-indeed, obviously
+false.</p>
+      <p>The first misconceptionis that there are
+viable alternativesto paternalism.In many
+situations, some organizationor agent must make a
+choice thatwill affect the choices of some other
+people. The point applies to both private and
+public actors. Considerthe problem facing the
+directorof a company cafeteria who discovers
+that the order in which food is
+arrangedinfluences the choices people make. To simplify,
+consider three alternative strategies: (1) she
+could make choices thatshe thinkswould make
+the customers best off; (2) she could make
+choices at random;or (3) she could maliciously
+choose those items that she thinks would make
+the customers as obese as possible. Option 1
+*Discussants: RobertE. Hall, StanfordUniversity;Gary
+Becker, Universityof
+Chicago;RobertBarro,HarvardUniversity.
+175
+appears to be paternalistic, which it is, but
+would anyone advocate options 2 or 3?</p>
+      <p>The second misconceptionis thatpaternalism
+always involves coercion. As the cafeteria
+example illustrates,the choice of which order to
+presentfood items does not coerce anyoneto do
+anything, yet one might prefer some orders to
+others on paternalisticgrounds. Would many
+object to puttingthe fruitbefore the desserts at
+an elementary school cafeteria if the outcome
+were to increasethe consumptionratioof apples
+to Twinkies?Is this
+questionfundamentallydifferentif the customersareadults?If no coercion
+is involved, we think that some types of
+paternalism should be acceptable to even the most
+ardentlibertarianW.e call such actions
+libertarian paternalism.</p>
+      <p>In our understandinga, policy counts as
+"paternalistic" if it is selected with the goal of
+influencing the choices of affected parties in a
+way that will make those partiesbetteroff. We
+intend"betteroff' to be measuredas objectively
+as possible, andwe clearlydo not always equate
+revealed preference with welfare. That is, we
+emphasize the possibility that in some cases
+individuals make inferior choices, choices that
+they would change if they had complete
+information, unlimited cognitive abilities, and no
+lack of willpower. Once it is understoodthat
+some organizational decisions are inevitable,
+that a form of paternalismcannot be avoided,
+and thatthe alternativesto paternalism(such as
+choosing options to make people sick, obese, or
+generally worse off) are unattractive,we can
+abandonthe less interestingquestionof whether
+to be paternalisticor not and turn to the more
+constructivequestion of how to choose among
+paternalisticoptions.1</p>
+      <p>
+        1Readers interested in this topic should also consult
+Colin
+        <xref ref-type="bibr" rid="ref2">Camereret al. (2001</xref>
+        ) for an illuminatingdiscussionof
+related issues. That paper shares with the papers in this
+AEA PAPERSAND PROCEEDINGS
+      </p>
+      <p>I. Are ChoicesRational?</p>
+      <p>
+        The presumption that individual choices
+should be free from interference is usually
+based on the assumptionthat people do a good
+job of makingchoices, or at least thatthey do a
+far betterjob thanthirdpartiescould do. As far
+as we can tell, there is little empirical support
+for this claim. Research by psychologists and
+economists over the past three decades has
+raised questions about the rationality of the
+judgmentsand decisions thatindividualsmake.
+People do not exhibit rationalexpectations,fail
+to make forecasts that are consistent with
+Bayes' rule, use heuristics that lead them to
+make systematic blunders, exhibit preference
+reversals(thatis, they preferA to B and B to A)
+and make different choices depending on the
+wording of the problem
+        <xref ref-type="bibr" rid="ref5 ref7">(for many examples,
+see the two recent collections of papers by
+Daniel Kahneman and Amos Tversky [2000]
+andby ThomasGilovich et al. [2002])</xref>
+        .
+Furthermore, in the context of intertemporalchoice,
+people exhibit dynamic inconsistency, valuing
+present consumption much more than future
+consumption.In other words, people have
+selfcontrol problems
+        <xref ref-type="bibr" rid="ref11 ref9">(see the other papers in this
+session [James Choi et al., 2003b; Ted
+O'DonoghueandMatthewRabin,2003] for
+details and references)</xref>
+        .
+      </p>
+      <p>Many economists are skeptical of some of
+these findings, thinking that people may do a
+betterjob of choosing in the "realworld"than
+they do in the laboratory.However, studies of
+actual choices for high stakes reveal many of
+the same problems. For example, the Surgeon
+General reports that 61 percent of Americans
+are either overweight or obese. Given the
+adverse effects obesity has on health, it is hardto
+claim that Americansare eating optimal diets.</p>
+      <p>
+        Another illustrationcomes from the domain
+of savings behavior.Shlomo
+        <xref ref-type="bibr" rid="ref1">Benartziand
+Thaler (2002</xref>
+        ) investigate how much investors like
+the portfolios they have selected in their
+defined-contributionsavings plans. Employees
+volunteeredto sharetheirportfoliochoices with
+the investigators (by bringing a copy of their
+session the commongoal of devisingpolicies thathelp some
+agentswho aremakingsome mistake,while minimizingthe
+costs imposed on others.
+most recent statementto the lab). They were
+then shown the probabilitydistributionsof
+expected retirementincome for three investment
+portfolios just labeled A, B, and C.
+Unbeknownst to the subjects, the three portfolios
+were their own and portfolios mimicking the
+averageand medianchoices of theirfellow
+employees. The distributionsof expected returns
+were computedusing the softwareof Financial
+Engines, the financial information company
+founded by William Sharpe. On average, the
+subjectsratedthe averageportfolioequallywith
+theirown portfolio,andtheyjudged the median
+portfolioto be significantlymore attractivethan
+their own. Indeed, only 20 percent of the
+subjects preferredtheir own portfolio to the
+median portfolio. Apparently,people do not gain
+much by choosing investment portfolios for
+themselves.
+      </p>
+      <p>II. Is PaternalismInevitable?</p>
+      <p>
+        As the cafeterialine examplediscussedabove
+illustrates, planners are forced to make some
+design choices. A simple and
+importantexample is the selection of a "default option" to
+determine what happens if an agent fails to
+choose for himself. In a fully rational world
+such design choices would have little effect (at
+least in high-stakes situations) because agents
+would simply choose the best option for them
+regardless of the default. However, numerous
+experimentsillustratethatthereis a very strong
+"statusquo" bias
+        <xref ref-type="bibr" rid="ref10 ref6">(see William Samuelson and
+Richard Zeckhauser, 1988; Kahneman et al.,
+1991)</xref>
+        . The existing arrangement,whether set
+out by private institutions or by government,
+tends to stick.
+      </p>
+      <p>
+        One illustrationof this phenomenon comes
+from studies of automaticenrollmentin 401(k)
+employee savings plans. Most 401(k) plans use
+an opt-in design. When employees firstbecome
+eligible to participatein the 401(k) plan, they
+receive some plan informationand an
+enrollment form that must be completed in order to
+join. Under the alternativeof
+automaticenrollment, employees receive the same information
+but aretold thatunless they opt out, they will be
+enrolled in the plan (with some default options
+for savings rates and asset allocation). In
+companies that offer a "match" (the employer
+matches the employee's
+contributionsaccording to some formula, often a 50-percentmatch
+up to some cap), most employees eventuallydo
+join the plan, but enrollments occur much
+sooner under automaticenrollment.For
+example, Brigitte
+        <xref ref-type="bibr" rid="ref8">Madrianand Dennis Shea (2001</xref>
+        )
+found that initial enrollmentsjumped from 49
+percentto 86 percent,and
+        <xref ref-type="bibr" rid="ref3">Choi et al. (2002)</xref>
+        find
+similarresults for other companies.
+      </p>
+      <p>Should the adoptionof automaticenrollment
+be consideredpaternalistic?And, if so, shouldit
+therefore be seen as a kind of officious
+meddling with employee preferences?We answer
+these questions yes and no respectively. If the
+employer thinks (correctly, we believe) that
+most employees would preferto join the 401(k)
+plan if they took the time to think about it and
+did not lose the enrollmentform,thenby
+choosing automaticenrollmentthey are acting
+paternalistically. They are attempting to steer
+employees' choices in directions that will
+promote employees' welfare. But since no one is
+forced to do anything, we think this steering
+should be considered unobjectionableto
+libertarians.The employer must choose some set of
+rules, and either plan affects employees'
+choices. No law of nature says that, in the
+absence of an affirmativeelection by
+employees, zero percent of earnings will go into a
+retirement plan. Because both plans alter
+choices, neitherone can be said, more than the
+other, to count as a form of objectionable
+meddling.</p>
+      <p>Quick-mindedreaders might be tempted to
+think that there is a way out of this dilemma.
+Employers could avoid choosing a default if
+they requiredemployees to make a choice,
+eitherin or out. But some thoughtreveals thatthis
+is not at all a way out of the dilemma;rather,it
+is simply anotheroption among many that the
+employer can elect. In fact, Choi et al. (2003a)
+findthatthis ruleincreasesenrollments(relative
+to the opt-in rule) though by not as much as
+automaticenrollment.Furthermoret,he very
+requirementthat employees make a choice has a
+paternalisticelement. Many employees do not
+want to have to make a choice (and would
+choose not to have to do so). Should employers
+really force them to choose?</p>
+      <p>Why, exactly, does the setting of defaults
+have such large effects? With respect to
+savings, the designateddefaultplan
+apparentlycarries a certain legitimacy for many employees,
+perhapsbecause it seems to have resultedfrom
+some conscious thoughtaboutwhat makesmost
+sense for most people. But there is a separate
+explanation, involving inertia. For any
+employee, a change from any status quo entails
+time andeffort, andmanypeople seem to prefer
+to avoid both of these, especially if they are
+proneto procrastinationW.hen defaultrules are
+"sticky" and affect choices as a result, inertia
+might be the majorreason.</p>
+      <p>Forpresentpurposes,the choice amongthese
+variousexplanationsdoes not muchmatter.The
+point is only that paternalism,in the form of
+effects on individualchoices, is often
+unavoidable. When paternalismseems absent,it is
+usually becausethe startingpointappearsso natural
+and obvious that its preference-shapingeffects
+are invisible to most observers. But those
+effects are nonetheless there. Of course it is
+usually good not to block choices, and we do not
+mean to defend non-libertarian paternalism
+here. But in an important respect, the
+antipaternalisticposition is incoherent.</p>
+      <p>III. Beyondthe Inevitable(but Still Libertarian)</p>
+      <p>The inevitabilityof paternalismis most clear
+when the plannerhas to choose defaultrules. It
+is reasonableto ask whetherthe plannershould
+go beyond the inevitable. Take the cafeteria
+example discussed above. Putting the fruit
+before the dessertsis a fairly mild intervention.A
+more intrusive step would be to place the
+desserts in anotherlocation altogether,so that
+diners have to get up and get a dessert after they
+have finished the rest of their meal. This step
+raises the transactionscosts of eating dessert,
+and accordingto a standardeconomic analysis
+the proposal is unattractive:it seems to make
+dessert-eatersworse off and no one better off.
+But once self-controlcosts are incorporated,we
+can see that some diners would prefer this
+arrangement,namely, those who would eat a
+dessert if it were put in front of them but would
+resist temptationif given a little help. To the
+extent that the dessert location is not hard to
+find, and no choice is forbidden,this approach
+meets libertarianmuster.</p>
+      <p>In the domain of employee savings, Thaler
+andBenartzi(2003) have proposeda methodof
+increasing contributions to 401(k) plans that
+also meets the libertariantest. Under this plan,
+AEAPAPERSAND PROCEEDINGS
+called Save More Tomorrow, employees are
+invited to sign up for a programin which their
+contributionsto the savings plan are increased
+annuallywhenever they get a raise. Once
+employees join the plan, they stay in until they opt
+out or reach the maximum savings rate in the
+plan. In the first company to use this plan, the
+employees who joined increased their savings
+rates from 3.5 percentto 11.6 percentin a little
+over two years (three raises). Very few of the
+employees who join the plan drop out. This is
+successful libertarianpaternalismin action.</p>
+      <p>IV. How to Choose:The Toolbox</p>
+      <p>of the LibertarianPaternalist</p>
+    </sec>
+    <sec id="sec-3">
+      <title>How should sensible planners(a categorywe</title>
+      <p>mean to include anyone who must design plans
+for others, from human-resourcedirectors to
+bureaucratsto kings) choose among possible
+systems, given that some choice is necessary?
+We suggest two approachesto this problem.</p>
+      <p>If feasible, a comparison of possible rules
+should be done using a form of cost-benefit
+analysis.The goal of a cost-benefit studywould
+be to measurethe full ramificationsof any
+design choice. To illustrate,take the example of
+automaticenrollment.Under
+automaticenrollment some employees will join the plan who
+otherwise would not. Presumably, some are
+made better off (especially if there is an
+employer match), but some may be made worse
+off (e.g., those who are highly
+liquidityconstrained).If the issue were just enrollment,
+we would guess thatthe gains would exceed the
+losses. We base this guess partly on revealed
+choices. Most employees do join the plan
+eventually, and very few who are
+automaticallyenrolled opt out when they figure out what has
+happenedto them. We also judge thatthe costs
+of having too little saved up for retirementare
+typically greaterthanthe costs of having saved
+too much.</p>
+      <p>In many cases, however, the plannerwill be
+unable to make a direct inquiry into welfare,
+eitherbecause too little informationis available
+or because the costs of doing the analysis are
+not warranted.The committed anti-paternalist
+might say, in such cases, that people should
+simply be permittedto choose as they see fit.
+We hope thatwe have said enoughto show why
+this response is unhelpful.Whatpeople choose
+often depends on the startingpoint, and hence
+the startingpoint cannot be selected by asking
+whatpeople choose. In these circumstances,the
+libertarianpaternalistwould seek
+indirectproxies for welfare:methodsthattest whetherone or
+anotherapproachis welfare-promotingwithout
+relying on unreliable guesswork about that
+question. We suggest three possible methods.</p>
+      <p>First, the libertarianpaternalistmight select
+the approachthat the majoritywould choose if
+explicit choices were required and revealed.
+Useful though it is, this
+market-mimickingapproach raises its own problems. Perhaps the
+majority's choices would be insufficiently
+informed. Perhaps those choices, in fact, would
+not promotethe majority'swelfare.At least as a
+presumption,however, it makes sense to follow
+those choices, if the planner knows what they
+would be. A deeper problem is that the
+majority's choices might themselves be a functionof
+the startingpoint or the default rule. If so, the
+problem of circularity dooms the
+marketmimicking approach. But in some cases, at
+least, the majorityis likely to go one way or the
+otherregardlessof the startingpoint;andto that
+extent, the market-mimickingstrategy seems
+quite workable.</p>
+      <p>Second, the libertarianpaternalistmight
+select the approachthat would force people to
+make their choices explicit. This approach
+might be chosen if the
+market-mimickingstrategy fails, eitherbecause of the
+circularityproblem or because the planner does not know
+which approachwould in fact be chosen by the
+majority.We have seen the possibilityof forced
+choices in the context of retirementplans; it
+would be easy to findotherexamples.Here too,
+however, thereis a risk thatthe choices thatare
+actually elicited will be inadequatelyinformed
+or will not promote welfare. In the case of
+retirementplans, for example, forced choices
+have been found to produce higher
+participation rates than requiring opt-ins, but lower
+rates than requiringopt-outs. If it is likely that
+automatic enrollment is welfare-promoting,
+perhaps automatic enrollment should be
+preferred over forced choices. The only
+suggestion is that, where the social planneris unsure
+how to handle the welfare question, he might
+devise a strategythatrequirespeople to choose.</p>
+      <p>Third,the libertarianpaternalistmight select
+the approachthat minimizesthe numberof
+optouts. For example, very few employees opt out
+of the 401(k) plan when they are automatically
+enrolled,thoughmany opt in underthe standard
+enrollmentprocedure.This is an ex post inquiry
+into people's preferences,in contrastto the ex
+ante approachfavoredby the market-mimicking
+strategy.With those numbers,thereis reasonto
+thinkthatautomaticenrollmentis better,if only
+because morepeople are sufficientlysatisfiedto
+leave it in place.</p>
+      <p>V. Conclusion</p>
+      <p>Our goal here has been to defend libertarian
+paternalism, an approach that preserves
+freedom of choice but that authorizesboth private
+and public institutionsto steer people in
+directions thatwill promotetheirwelfare. Some kind
+of paternalismis likely whenever such
+institutions set out arrangementsthat will prevail
+unless people affirmativelychoose otherwise. In
+these circumstances,the goal shouldbe to avoid
+random, arbitrary,or harmful effects and to
+produce a situation that is likely to promote
+people's welfare, suitably defined.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Benartzi</surname>
+          </string-name>
+          ,Shlomoand Thaler,
+          <source>RichardH. "How Much Is Investor Autonomy Worth?"Journal of Finance</source>
+          ,
+          <year>August 2002</year>
+          ,
+          <volume>57</volume>
+          (
+          <issue>4</issue>
+          ), pp.
+          <fpage>1593</fpage>
+          -
+          <lpage>1616</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Camerer</surname>
+          </string-name>
+          , Colin; Issacharoff,Samuel; Loewenstein,
+          <string-name>
+            <surname>George; O'Donoghue</surname>
+            ,Ted and Rabin,
+            <given-names>Matthew.</given-names>
+          </string-name>
+          <article-title>"Regulation for Conservatives: Behavioral Economics and the Case for Asymmetric Paternalism."Working paper</article-title>
+          ,
+          <source>CaliforniaInstituteof Technology</source>
+          ,
+          <year>2001</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Choi</surname>
+          </string-name>
+          ,James;Laibson,David;Madrian,BrigitteC. and Metrick,Andrew.
+          <article-title>"DefinedContribution Pensions: Plan Rules, ParticipantDecisions, and the Path of Least Resistance,"</article-title>
+          in James M. Poterba,ed.,
+          <source>Taxpolicy and the economy</source>
+          , Vol.
+          <volume>16</volume>
+          . Cambridge,MA: MIT Press,
+          <year>2002</year>
+          , pp.
+          <fpage>67</fpage>
+          -
+          <lpage>113</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>. "BenignPaternalismand Active Decisions: A NaturalExperiment."</surname>
+          </string-name>
+          Working paper, University of Chicago, GraduateSchool of Business,
+          <year>2003a</year>
+          . .
+          <article-title>"Optimal Defaults." American Economic Review</article-title>
+          ,
+          <source>May 2003b (Papers and Proceedings)</source>
+          ,
+          <volume>93</volume>
+          (
+          <issue>2</issue>
+          ), pp.
+          <fpage>180</fpage>
+          -
+          <lpage>85</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Gilovich</surname>
+          </string-name>
+          ,Thomas;Griffin,Dale and Kahneman, Daniel, eds. Heuristics and
+          <article-title>biases: The psychology of intuitive judgment</article-title>
+          . Cambridge, U.K.: CambridgeUniversity Press,
+          <year>2002</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Kahneman</surname>
+          </string-name>
+          ,Daniel;Knetsch,Jack L. and Thaler, Richard H.
+          <article-title>"The Endowment Effect</article-title>
+          ,
+          <source>Loss Aversion, and Status Quo Bias." Journal of Economic Perspectives, Winter</source>
+          <year>1991</year>
+          ,
+          <volume>5</volume>
+          (
+          <issue>1</issue>
+          ), pp.
+          <fpage>193</fpage>
+          -
+          <lpage>206</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Kahneman</surname>
+          </string-name>
+          , Daniel and Tversky, Amos, eds. Choices, values, and frames. Cambridge, U.K.: CambridgeUniversity Press,
+          <year>2000</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Madrian</surname>
+          </string-name>
+          ,Brigitteand Shea,Dennis.
+          <article-title>"ThePower of Suggestion:Inertiain 401(k) Participation</article-title>
+          and
+          <string-name>
+            <given-names>Savings</given-names>
+            <surname>Behavior</surname>
+          </string-name>
+          .
+          <article-title>"QuarterlyJournal of Economics</article-title>
+          ,
+          <year>November 2001</year>
+          ,
+          <volume>116</volume>
+          (
+          <issue>4</issue>
+          ), pp.
+          <fpage>1149</fpage>
+          -
+          <lpage>87</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>O'Donoghue</surname>
+          </string-name>
+          ,Ted and Rabin,Matthew.
+          <article-title>"Studying Optimal Paternalism, Illustrated by a Model of Sin Taxes</article-title>
+          .
+          <article-title>" American Economic Review</article-title>
+          ,
+          <article-title>May 2003 (Papers</article-title>
+          and Proceedings),
+          <volume>93</volume>
+          (
+          <issue>2</issue>
+          ), pp.
+          <fpage>186</fpage>
+          -
+          <lpage>91</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Samuelson</surname>
+          </string-name>
+          ,Williamand Zeckhauser,RichardJ.
+          <article-title>"StatusQuo Bias in Decision Making."</article-title>
+          <source>Journal of Risk and Uncertainty,March</source>
+          <year>1988</year>
+          ,
+          <volume>1</volume>
+          (
+          <issue>1</issue>
+          ), pp.
+          <fpage>7</fpage>
+          -
+          <lpage>59</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>Thaler</surname>
+          </string-name>
+          ,RichardH. and
+          <string-name>
+            <surname>Benartzi</surname>
+          </string-name>
+          ,Shlomo.
+          <article-title>"Save More Tomorrow:Using BehavioralEconomics to IncreaseEmployee Saving."Journalof Political Economy,2003 (forthcoming</article-title>
+          ).
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

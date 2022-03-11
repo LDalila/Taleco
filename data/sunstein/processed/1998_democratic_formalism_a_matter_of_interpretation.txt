@@ -1,0 +1,2516 @@
+University of Chicago Law School 
+University of Chicago Law School 
+Chicago Unbound 
+Chicago Unbound 
+
+Journal Articles 
+
+1998 
+
+Cass R. Sunstein 
+
+Democratic Formalism, A Matter of Interpretation 
+Democratic Formalism, A Matter of Interpretation 
+
+Faculty Scholarship 
+
+Follow this and additional works at: https://chicagounbound.uchicago.edu/journal_articles 
+
+ Part of the Law Commons 
+
+Recommended Citation 
+Recommended Citation 
+Cass R. Sunstein, "Democratic Formalism, A Matter of Interpretation," 107 Yale Law Journal 529 (1998). 
+
+This Article is brought to you for free and open access by the Faculty Scholarship at Chicago Unbound. It has been 
+accepted for inclusion in Journal Articles by an authorized administrator of Chicago Unbound. For more 
+information, please contact unbound@law.uchicago.edu. 
+
+Book  Review
+
+Justice  Scalia's  Democratic  Formalism
+
+A  Matter of Interpretation: Federal Courts and the  Law  By  Antonin  Scalia*
+et  al.  Princeton, N.J.: Princeton University Press, 1997.  Pp.  xiii,  159.  $19.95.
+
+Cass  R. Sunstein t
+
+INTRODUCTION:  RULE-BOUND  JUSTICE  AND  THE  STATUTORY  STATE
+
+In  1982,  Guido  Calabresi  published  a  provocative  book,  A  Common  Law
+for  the  Age  of Statutes,'  based  on  his  Holmes  Lectures  at  Harvard  Law
+School. Judge  Calabresi's basic  argument was  that  the common  law  has certain
+virtues-above  all,  flexibility  across  time  and  space-that  are  at  serious  risk
+in  a  statutory  era.2  Judge  Calabresi's  central  concern  was  to  find  a  way  to
+import  the  values  of  common  law  judgment  into  a  legal  fabric  governed  by
+statutory  law.  His  most dramatic  proposal  was  that  courts  should  be  given  the
+authority  to  declare  statutes  that  were  out  of  step  with  the  prevailing  legal
+landscape  void  for  "obsolescence."3  Judge  Calabresi's  particular  proposal  has
+been  very  controversial,  but  it  is  of a  piece  with  more  standard  views  about
+statutory  construction  having  common  law  origins:  judge-made  exceptions  to
+plain  language  for  absurd  results;  judicially  developed  "clear  statement"
+principles; judicial  invocation  of  statutory  purpose  in  a  way  reminiscent  of a
+precedent's  "rationale";  judicial  treatment  of many  statutes  as  the  foundation
+for  judge-made  common  law;  and  "dynamic"  statutory  interpretation.'  And
+
+*  Associate Justice,  United  States  Supreme  Court.
+t  Karl  N.  Llewellyn  Distinguished  Service  Professor.  Law  School  and  Department  of  Political
+Science,  University  of  Chicago.  I am  grateful  to  Scott  Brewer.  Elizabeth  Garrett. Jack  Goldsmith.  Don
+Herzog,  Lawrence  Lessig,  Martha  Nussbaum,  Richard  Pildes,  and  Richard  Posner  for  valuable  comments
+on an  earlier draft.
+
+1.  GuIDo  CALABRESI,  A  COMMON  LAw  FOR  THE  AGE  OF  STATUTES  (1982)
+2.  See  id. at  3-7.
+3.  Id. at  2.
+4. See WILLIAM  N.  ESKRIDGE,  JR.,  DYNAMIC  STATUTORY  INIRPRETATION  (1994)
+
+529
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+Judge  Calabresi's  views  are  reflected  in  the  common  law  characteristics  of
+much  constitutional  law,  characteristics  which  have  given  rise  to  a  general
+claim,  usually  meant  as  both  description  and  praise,  that  constitutional  law  is
+merely  a  species  of Anglo-American  common  law.
+
+The  central  essay  in  Justice  Antonin  Scalia's  new  book,6  based  on  his
+Tanner  Lectures  at  Princeton,  offers  an  argument  that  is  in  many  ways  the
+converse  of Judge  Calabresi's.  Where  Judge  Calabresi  sought  to celebrate  the
+common  law  and  to  authorize  courts  to  introduce  far  more  of common  law
+thinking  into  a  statutory  era, Justice  Scalia  seeks  to  demote,  even  to  exorcise,
+the  common  law,  to  complain  of its  ascendancy  in  an  age  committed  to  the
+principles  of democratic  government  and  the  rule  of law.  Hence  the  essay's
+title:  Common-Law  Courts in  a  Civil-Law System.7  In  Justice  Scalia's  view,
+the use  of common law methods  is  simultaneously  anachronistic  and hubristic.
+It is  anachronistic  because  it is  out of touch  with  the  values  and  operations  of
+modern  government.8  The  charge  of hubris  is  the  more  serious  one.  Justice
+Scalia  thinks  that  common  law  methods  compromise  democratic  values,  by
+allowing  judges  an  excessive  role  in  policymaking.9  He  also  thinks  that
+common  law  methods  introduce  a high  degree  of unpredictability,  increasing
+judicial  discretion  and  at  the  same  time  depriving  others,  citizens  as  well  as
+legislators,  of a  clear  background  against  which  to  work.'"
+
+Justice  Scalia intends,  then,  to  defend  a  species  of democratic formalism.
+We  might even  say  that Justice  Scalia  is  the  clearest  and  most  self-conscious
+expositor of democratic  formalism  in the long  history of American  law. Justice
+Scalia  is  a democrat  in  the sense  that  much of his jurisprudence  is  designed  to
+ensure  that judgments  are  made  by  those with  a  superior democratic  pedigree.
+Above  all,  he  seeks  to  develop  rules  of  interpretation  that  will  limit  the
+policymaking  authority  and  decisional  discretion  of  the  judiciary,  the  least
+accountable  branch  of government. Justice  Scalia is  a formalist  in the particular
+sense that  he  favors  clear  rules, seeks  to  treat statutory  and  constitutional  texts
+as  rules,  and  distrusts  the  view  that  legal  texts  should  be  understood  by
+reference  either  to  intentions  or to  canons  of construction  that  live  outside  of
+
+5.  See  HARRY  H.  WELLINGTON,  INTERPRETING  THE  CONSTITUTION  127  (1990);  Harry  H.  Wellington,
+Common  Law Rules  and Constitutional Double Standards, 83  YALE  L.J.  221,  265-311  (1973);  see  also
+David  A.  Strauss,  Common Law  Constitutional Interpretation, 63  U.  CHI.  L.  REV.  877,  877-79  (1996).
+
+6.  A  MATTER  OF  INTERPRETATION:  FEDERAL  COURTS  AND  THE  LAW  (Amy  Gutmann  cd.,  1997)
+[hereinafter  A  MATrER  OF  INTERPRETATION].  The  book  consists  of  Justice  Scalia's  central  essay;
+commentaries  of  Gordon  S.  Wood,  Laurence  H.  Tribe,  Mary  Ann  Glendon,  and  Ronald  Dworkin;  and  a
+reply  from  Justice  Scalia.  I focus  on  the  central  essay  with  occasional  reference  to  the  reply,  though  the
+commentaries  contain  a  good  deal  of interesting  material.
+
+7.  See  Antonin Scalia, Comnon-Law  Courts in a Civil-Law System:  The Role of United States Federal
+
+Courts in  Interpreting the  Constitution and Laws, in  A  MATTER  OF  INTERPRETATION,  supra note  6,  at  3.
+
+8.  See  id. at  9.
+9.  See  id. at  47.
+10.  See  id. at 9-12.
+
+1997]
+
+Democratic  Formalism
+
+authoritative  texts."1  Democratic  formalism  finds  its  interpretive  foundation
+in textualism.  Thus  Justice  Scalia  writes:  "Of all  the  criticisms  leveled  against
+textualism,  the  most  mindless  is  that  it is  'formalistic.'  The  answer  to that  is,
+of  course  it's formalistic! The  rule  of  law  is  about  form 
+Long  live
+formalism.  It  is  what  makes  a  government  a  government  of  laws  and  not  of
+men."'
+
+... 
+
+12
+
+As  a judicial  creed,  democratic  formalism  is intelligible  and  coherent  in
+part  because  it  argues  in  favor  of interpretive  principles  and  statutory  default
+rules that  will  create  a  clear background  for Congress.  in  the  process  imposing
+the  right  incentives  on  lawmakers.  Justice  Scalia's  preferred  default  rules  are
+intended  to  make  the  law  readily  predictable  and  to ensure  that  Congress  will
+legislate  in  the  constitutionally  preferred  fashion.
+
+Where  does  all  this  leave  the  common  law?  For  the  democrat  and  for the
+formalist,  the  common  law  raises  many  doubts.  The  common  law,  of  course,
+owes  its  content  not to  electoral  processes  but  to decisions  by  people  who  are
+mostly  unelected. 3  And  common  law  judges  are  free  to  eschew  rules  and  to
+act  on a  case-by-case  basis.  Indeed,  the  glory  of the  common  law  is  often  said
+to consist in its  particularism-its  careful  attention  to  the  facts of the particular
+case,  its  provision  of  an  individualized  hearing  for  each  litigant.' "  Justice
+Scalia's  attack  on  the  common 
+in  distrust  of
+particularism-especially  judicial  particulaism-and  in  enthusiasm  for  rule-
+bound 
+in  both  statutory  and  constitutional
+interpretation,  on a  single  foundation:  the meaning of the  relevant legal text  as
+it was  understood at the  time of enactnent."
+
+is  thus  rooted 
+
+interpretation 
+
+law  legacy 
+
+relies, 
+
+that 
+
+This  is  an  elegant  book,  and  it  is  a  great  pleasure  to  read.  My  central
+objection  is  that  Justice  Scalia's  argument  on  behalf of  democratic  formalism
+for  democratic
+does  not  come  to  terms  with 
+formalism:  the  internal  morality  of  the  democratic  ideal;  the  existence  of
+reasonable,  alternative,  nonformalist  approaches  to interpretation,  designed  to
+limit  judicial  discretion,  promote  stability,  and  enhance  democratic  self-
+
+three  important  problems 
+
+1i. The best  discussion of formalism  is FREDERICK  SCHAUER.  PLAYING  BY  Tiff  RULEs  ( 1991)  Schauer
+sees  that  whether  formalism  makes  sense  depends  on  a pragmatic  inquiry.  promincntl) 
+involving  the
+capacities  of  various  institutions.  See  id. at  196-206  A  dillerent  kind  of  formalsm-the  kind  that  makes
+the  term "formalism"  appropriately  an  epithct-refers  to  the  masking  of  a value judgment  by  relerencc  to
+a judgment of law  that  actually encodes  the  value judgment  An  especially  good  discussion  of  this  type  of
+formalism  is  JOSEPH  RAZ,  ETHics  IN THE  PUBLIC  DOMAIN  314-19  (1996)
+
+12.  Scalia,  supra note  7, at  25
+13.  Justice  Scalia  is  self-consciously  a  legal  realist  as  well  as  a legal  lormalist  See  id at 10  A
+competing  view  would say  that  the  common  law  has  a democraic  pedigree  because  and to  the extent  that
+it  simply  tracks  custom.  There  is  an  interesting  current  revival  of  attention  to  the  role  of norms  and
+genuinely  customary  law.  See,  e.g.,  ROBERT  C  ELLICKSON,  ORDER  WIDO7T LAW  (1991)
+14.  See,  e.g.,  EDWARD  H, LEVI,  AN  INTRODUcTION  TO  LEGAL  RI-.ASONING  4-6  (1949)
+15.  This view  is  traceable  to  Justice  Holmes:  "'WIe ask.  not  what  Ithe  authorl  meant,  but  what  those
+words  would  mean  in  the  mouth  of a  normal  speaker  of  English.  using them  in  the  circumstances  in  which
+they  were  used  .... Oliver  Wendell  Holmes.  The  Theorn of Legal hlterpreration. 12  HARv  L  REV  417.
+417-18  (1899).  The  view  is criticized,  by  an admirer  of Holmes.  in RICHARD  A  POSNER.  THE  PROBLEMS
+OF JURISPRUDENCE  262-69  (1990).
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+government;  and  (most surprising)  the place  of administrative  agencies  in  the
+structure  of  modem  public  law.  It  is  not  clear  that  democratic  formalism
+actually  promotes  democracy,  rightly  understood.  Moreover,  there  are  other
+ways  of limiting judicial  power  and judicial  discretion,  ways  that  are  familiar
+to,  even  constitutive  of,  the  common  law  tradition  as  it  has  come  to  be
+understood  in  the United  States.  The  principal  virtue  of democratic  formalism
+is  that  it  may  be  the  best  way  of promoting  predictability, 6  but  even  here
+there  are  reasonable  alternatives,  and  it  is  far  from  clear  that  predictability
+trumps  all  other  values.
+
+In a short, vivid essay of this kind,  originally presented as a public  lecture,
+Justice  Scalia  cannot  be  expected  to  have  laid  all  doubts  to  rest,  or  to  have
+answered  all  questions  in  legal  theory.  But  his  defense  of his  own  position
+works 
+too  often  by  hyperbolic  slippery  slope  arguments,  by  opposing
+democratic  formalism  to positions that  no  one really  holds,  and  most  of all by
+invoking  the  specter of untrammeled judicial  control  over political  outcomes.
+It  is  as  if those  who  reject  Justice  Scalia's  particular  approach  hope  to  give,
+and  inevitably  will give, unelected judges  the power to  do whatever they wish.
+But the choice between  democratic  formalism  and the real alternatives  calls for
+more  fine-grained  and,  in  part,  empirical  judgments  about  the  capacities  of
+real-world  institutions. If, for  example, judges  interpret  statutes  in accordance
+with  the original  meaning  of their text,  will  legislative  drafting  be improved,
+and will  legislatures  correct  obvious mistakes?  If judges  do  not  use  legislative
+history, might ambiguous  texts  be interpreted  by  reference  to  the judges'  own
+views  about policy and principle?  If judges  abandon the original  understanding
+of  the  constitutional  text,  are  there  alternative  positions  that  would  limit
+judicial  discretion  and  allow appropriate  space  for electoral  politics?  And just
+what is  the  role  of administrative  agencies,  which  might,  in a  post-Chevron7
+era,  perform,  and  be  authorized  to  perform,  the role  formerly  carried  out  by
+common  law  courts?  Justice  Scalia's  silence  on  the last question  is  especially
+disappointing:  At  this  stage  in  American  history,  no  treatment  of  legal
+interpretation  is  complete  if it  neglects  the  enormous  de  facto  and  de  jure
+interpretive  function  of administrative  agencies.
+
+If a  goal  of a  system  of interpretation  is  to  constrain  judicial  discretion,
+and  particularly  if we  attend  to  the role  of regulatory  agencies,  it  is  far  from
+clear  that  Justice  Scalia's  approach  is  superior  to  the  alternatives  actually
+favored  by  the  American  tradition  of public  law.  And  if  (as  Justice  Scalia
+rightly  insists)  a  goal  of  a  system  of  legal  interpretation 
+is  to  promote
+democratic  self-government,  it is not  at all  clear  that  Justice  Scalia's  approach
+
+16.  Even  thi§  is  not  clear  because  the  original  meaning  may  have  involved  a  concept  that  would
+change over time, and because  there  may be  hard questions  in  deciding  how to understand  original  meaning
+infra  text  accompanying  notes  137-144  (discussing  FDA
+when  facts  and  values  have  changed.  See 
+regulation  of tobacco  products).
+
+17.  Chevron  U.S.A.,  Inc.  v.  Natural  Resources  Defense  Council,  467  U.S.  837  (1984).
+
+1997]
+
+Democratic  Formalism
+
+is  better  than  that  favored  by  our  tradition,  which  uses  interpretive  principles
+to  promote democratic  goals,  not  only  in  the  area of statutory  construction  but
+also  in  administrative  and  constitutional  law.  A  great  defect  of  democratic
+formalism  is  that  it  identifies  democracy  with  whatever  happens  to  emerge
+from  majoritarian  politics.  If we  insist  (with  the  Constitution's  Framers)'"  that
+there  is  a  difference  between  a  well-functioning  system  of  deliberative
+democracy  and  simple  majoritarian  politics,  we  may  well  favor  principles  of
+interpretation 
+system,  perhaps  by  allowing
+administrative  agencies  some  license  to adjust  text  to circumstance,  certainly
+through  "clear  statement"  principles,  and  not  least  by  invalidating  outcomes
+that  are  inconsistent  with  what  we  might  consider  the  internal  morality  of
+democracy.
+
+that  promote 
+
+that  very 
+
+In  any case,  this will  be my  basic argument here.  Part  I summarizes  Justice
+Scalia's  essay.  Part  II deals  with  the  topic  of statutory  interpretation-Justice
+Scalia's  particular  passion  and  the  highlight  of  his  essay  here.  This  part
+outlines  the  stakes,  explores  the  great  case  of Church  of the  Holy  Trinity  v.
+United States, 9  and  examines  the  role  of  administrative  agencies  in  legal
+interpretation.  Its  principal  theme is that Justice  Scalia's discussion  neglects the
+possibility that administrative  agencies  can  discharge  some  of the  functions  of
+common law courts  without compromising democratic  values.  Part  III  explores
+the  Constitution.  It argues  that  the  interests  in  ensuring  stability,  constraining
+judicial  discretion,  and  promoting  democratic  self-government  do  argue  for
+some version  of the principles  of stare  decisis  and judicial  restraint,  but  not the
+particular  form  of  originalism  favored  by  Justice  Scalia.
+
+I.  AGAINST  THE  COMMON  LAW
+
+The principal  essay  in A Matter of Interpretation comes  in  three  parts.  The
+first  part  is  an  attack  on  the  common  law.  The  second  part  is a  discussion  of
+statutory  interpretation.  The  third  part  deals  with  constitutional  law.
+
+A.  Broken-Field Runners
+
+Justice  Scalia's  discussion  of  the  common  law  is  sharp,  clever,  and  at
+times  hilarious.  In some  ways  it  amounts  to  an  indictment  of  legal  education.
+Justice  Scalia thinks  that  the  first  year of law  school  has  "an  enormous  impact
+upon  the  mind,"' 
+and  much  of  that  impact  comes  from  the  student's
+immersion  in  judge-made  common  law.  There  is  a  difference,  for  Justice
+Scalia, between  law  that  is  common  in  the  sense  of "customary"  and  law  that
+
+18.  See  WiLU~Am BESsETrE,  THE MILD  VoicE  oF RFASON  6-46  (1994)  (dtscussmng the premium  placd
+
+by  the  Framers  on  democratic  deliberation  and  rellection)
+
+19.  143  U.S.  457  (1892).
+20.  Scalia,  supra  note  7,  at  3.
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+is  "common"  in  the  sense  that  it is  the  creation  of judges.  That  latter  form  of
+the  stuff  of  law  schools,
+law 
+hypotheticals,  and  analogical  thinking:
+
+is  not  created  through  practice  but 
+
+is 
+
+What  intellectual  fun  all  of this  is!  It  explains  why  first-year  law
+school  is  so  exhilarating:  because  it  consists  of playing  common-law
+judge,  which  in  turn  consists  of playing  king-devising,  out  of the
+brilliance  of  one's  own  mind,  those  laws  that  ought  to  govern
+mankind.  How  exciting! 2'
+
+The  student comes  to have a distinctive picture  of the great judge, with  a  large
+influence  on  American  legal  culture,  as-the  person
+
+who  has  the  intelligence  to  discern  the  best  rule  of law  for  the  case
+at hand  and then the skill to perform  the broken-field  running  through
+earlier  cases  that  leaves  him  free  to  impose  that  rule:  distinguishing
+one  prior  case  on  the  left,  straight-arming  another  one  on  the  right,
+high-stepping  away  from  another precedent about  to  tackle him  from
+the  rear,  until  (bravo!)  he reaches  the goal-good  law.22
+
+What is  wrong with  this picture?  Justice  Scalia  thinks  that  the  problem  is
+simple:  "a  trend  in government  that  has  developed  in  recent  centuries,  called
+democracy. ' 23 Legal  realism has  taught  us what  is  now  obvious,  that  common
+law judges  make  and  do  not  find  law.  This  does  not  mean  the  common  law
+should  be  eliminated  from  its  own  domain,  but  it  does  mean  the  attitude of
+common  law judges  is  inappropriate  for  most  of the  work  of  federal  judges
+and much  of the work  of state judges. 24  "We  live  in  an  age  of legislation,  and
+most  new  law  is  statutory law."5  And  the common  law  method  has  two  basic
+problems.  First,  it  is  insufficiently  democratic,  since  it  threatens  rule  by
+judges.26  Second,  the  common  law  method  is  insufficiently  formal,  because
+it is  too  highly particularistic,  too  unpredictable,  too  rule-free. 27
+
+B.  "What  a  Waste"
+
+Justice  Scalia  brings  these  points  to  bear  on  the  topic  of  statutory
+interpretation,  a  real  highlight  of the  book  and  clearly  one  of his  passions.28
+
+21.  Id. at 7.
+22.  Id. at  9.
+23.  Id.
+24.  Many  state  court judges are,  of course,  elected.  Justice  Scalia does  not say  how  this  might  bear
+
+on  his  argument.
+
+25.  Scalia,  supra note  7,  at  13.
+26.  See  id. at  9,  47.
+27.  See  id. at 6-12.
+28.  Justice Scalia deplores  what he sees as  an absence  of academic  attention to statutory  interpretation,
+an  odd  view  in  light  of  the  recent  outpouring  of work  on  that  subject,  inspired  above  all  by  William
+
+1997]
+
+Democratic  Formalism
+
+His  basic  complaint  is  that  American  judges  and  academics  'are  unconcerned
+with  the  fact  that  we  have  no  intelligible  theory"  of  statutory  construction. "'
+His  central  claim  is  that  what  matters  is  the  objective  meaning  of the  text,  not
+the subjective  intentions  of Congress.  "It is  the law that  governs,  not  the  intent
+of  the  lawgiver.""  Interpretation  actually  turns  on  "a  sort  of  'objectified'
+intent-the  intent  that  a  reasonable  person  would  gather  from  the  text  of  the
+law, placed  alongside the  remainder  of the corpus juris.""  Because  subjective
+intent  is  so  murky,  Justice  Scalia  thinks  that  its  use  risks  substitution  of
+judicial  policy  preferences  for  those  of the  legislature.
+
+His  case  in  chief  in  this  regard  is  Church  of the  Holy  Trinity v. United
+States.32  There  the  Court  held,  contrary  to  the  apparently  plain  language  of
+the  governing  statute  banning  the  importation  of  foreign  labor, that  a  church
+could  pay  for  the  transportation  of  a  rector  to  the  United  States."  Justice
+Scalia  reads  Holy  Trinity  (not  at  all  unreasonably)  as  a  case  about  the
+substitution  of  legislative  intent  for  text.  In  his  view,  what  the  church  did
+violated  "the  letter  of the  statute,  and  was  therefore  within  the  statute:  end  of
+case."  Thus  Justice  Scalia  adopts  textualism.  But  he  offers  two  important
+clarifications.  First,  he  disfavors  "strict  construction":  "I am  not  a  strict
+constructionist,  and  no  one  ought  to  be  .... ." Textualists  give  to  the  text
+its  ordinary  meaning,  construing  it  neither  broadly  nor  narrowly.  Nor  does
+Justice  Scalia  favor  literalism.36  He  emphasizes  that  meaning  is  a  function  of
+context.  What  he  urges  is  that  courts  should  refuse  to  go  beyond  the  range  of
+meaning  offered  by  a  reasonable  understanding  of  statutory  terms,  taken  in
+their  context.
+
+Justice  Scalia  is  aware  that  some  cases  involve  a  fairly  wide  range  of
+textual  meanings,  and  that  the  text  can  leave  ambiguities.  What  aids  are
+permissible?  It is entirely  acceptable  to  interpret  statutory  terms  with structural
+aids,  resolving ambiguities  so as  to make  statutes  both internally  consistent  and
+consistent  with  previously  enacted  laws.  His  textualism  is  thus  supplemented
+with  the structure  of the relevant  statute  and  indeed  the structure  of the  law  as
+a  whole.
+
+3 7
+
+Eskridge  and  Philip  Fnckey.  See ESKRIDGE.  3tpra  note  4.  WILLA,i  N  ESKRIiDGI-.  JR  &  PHILIP  P
+FRICKEY,  CASES  AND  MATERIALS  ON  LEGISLATION  STATL-IS  AND  Tlu-  CRi-ATioN  0F PLBLIC  PoLIC" (2d
+ed.  1995).
+
+29.  Scalia,  supra note  7, at  14
+30.  Id. at  17.
+31.  Id.
+32.  143  U.S.  457  (1892).
+33.  See id. at  472:  see also infra text  accompanying  notes  75-78
+34.  Scalia,  3upra note  7. at  20
+35.  Id. at 23.
+36.  See id. at 24
+37.  See id. at  16-17:.see albo Antonin  Scalia.  Repoin3e.  in  A MATI-R  oi-  rITI-RPRETATION. 3upra note
+6,  at  134.  Page  134  offers  a  gloss  on  pages  16-17. in  response  to Tribe's  commentarN  See  Laurence iH
+Tribe,  Comment, in A  NATTER  OF INTERPRETATION.  aupra note  6.  at  81
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+Justice  Scalia also defends  canons of construction  as legitimate and helpful
+to  the  extent that  they  are common  sense  ways  of understanding  the meaning
+of text.  This  is  true  of the  ancient  canons  with  Latin  names,  such  as  the  old
+favorite,  expressio  unius  est  exclusio  alterius (expression  of  the  one  is
+exclusion  of the other).  In  urging  the use  of such  canons,  Justice  Scalia  takes
+a  stand  against  Karl  Llewellyn's  famous  attempt  to  demolish  the  canons  by
+showing that  for  every  canon there  is  an  equal  canon  pointing  in the  opposite
+direction.3"  Justice  Scalia  says,  very  reasonably,  that  there  are  not  really
+opposites  on almost every point,  and he thinks  that the most  that Llewellyn  has
+shown  is  that  the  canons  are  not  absolute,39  which is  not  exactly  news.
+
+Justice  Scalia  is  much  less  enthusiastic  about  substantive  canons  and
+presumptions,  as  in  the  idea  that  courts  should  construe  statutes  favorably  to
+Native Americans,  leniently  on behalf of criminal  defendants,  narrowly  if they
+are  in  derogation  of  the  common  law,  narrowly  if  they  waive  sovereign
+immunity,  and  so  forth.  For  textualists,  substantive  canons  are  "a  lot  of
+trouble."  They  lack  clear  legitimacy  (because  it is  not  clear where  courts  get
+the authority  to use them),  and they have indeterminate  weight, thus  increasing
+the unpredictability  and possible arbitrariness  of judicial  decision.  On the other
+hand, some  substantive  presumptions  may be reasonable  if they attempt  to get
+at meaning  or if they  have  the warrant  of antiquity.  Thus,  extraordinary  acts,
+like the  congressional  elimination  of state  sovereign  immunity  or perhaps  the
+waiver  of sovereign  immunity,  require  a clear  statement,  because  that  is  what
+one would expect  were  extraordinary  acts intended.  And the rule of lenity  may
+be justified  by  its  age.  But  others,  like  the  rule  that  statutes  in  derogation  of
+the common  law will be  narrowly  construed,  look  like "a sheer judicial  power-
+grab.
+
+' 41
+
+For  a  long  time,  Justice  Scalia  has  been  critical  of judicial  use  of
+legislative  history.42 Here  he  makes  two  central  points.  First,  legislative  intent
+is  not the  proper basis  of interpretation,  and  hence  legislative  history  focuses
+judicial  attention  on  the  wrong  question,43  away  from  meaning  and  toward
+subjective  understandings  of meaning. Second,  use  of history  involves  a  lot of
+time  and  expense,  and  it  is  "more  likely  to  produce  a  false  or  contrived
+legislative  intent  than  a genuine  one.""  This  is  because  there  is  in  99.99%  of
+cases  no  such  thing,  and  the  archives  are  unreliable  in  any  case.  "In  the  only
+case  I recall  in  which,  had  I followed  legislative  history,  I  would  have  come
+
+38.  See  Karl  N.  Llewellyn,  Remarks  on  the  Theory  of Appellate Decision and the Rules of Canons
+
+About How Statutes Are  To Be  Construed, 3  VAND.  L.  REv.  395,  401-06  (1950).
+
+39.  See  Scalia,  supra note 7,  at  27.
+40.  Id. at 28.
+41.  Id. at 29.
+42.  See,  e.g.,  Hirschey  v.  Federal  Energy  Regulatory  Comm'n,  777  F.2d  1, 7-8  (D.C.  Cir.  1985)
+
+(Scalia,  J., concurring).
+
+43.  See  Scalia,  supra note 7,  at  31.
+44.  Id.  at 32.
+
+1997]
+
+Democratic  Formalism
+
+out  the  other way,  the rest  of  my colleagues  (who  did use  legislative  history)
+did  not  come  out  the  other  way  either....  What  a  waste."5
+
+C.  "A  Rock-Solid,  Unchanging Constitution"
+
+Constitutional  interpretation,  for Justice  Scalia,  is  a  place  not  for special
+principles  but  for the  usual  ones just  described.  His  basic  argument  is  that  the
+Constitution's  meaning  is  set  not  by  the  original  intention  but  by  the  original
+meaning  of its  text. Alexander  Hamilton and  James  Madison  receive  attention
+not because they were Framers  whose subjective  intentions  matter, but because
+they  (no  more  than  John  Jay  and  Thomas  Jefferson,  who  were  not  Framers)
+can  help  us  identify  the  original  meaning.  For  Justice  Scalia,  originalism
+opposes  those  who  think,  in  common  law  fashion,  that  the  Constitution  is
+"living"  and  should  be  understood  by  reference  to  "current"  meaning.'  The
+notion  of a  "living  constitution"  is  an  invitation  to  the  broken-field  running
+characteristic  of  common  law  thinking,  or  decision  by  reference  to  cases
+instead  of authoritative  text.  Justice  Scalia  particularly  deplores  the  fact  that
+constitutional  law  is  made  after  consulting  recent  cases  rather  than  original
+intention.  For Justice  Scalia, the  result  is  "a  common-law  way  of making  law,
+text."'47  The
+and  not  the  way  of  construing  a  democratically  adopted 
+consequence  is that  the Constitution  means  whatever the judges think  it should
+mean.
+
+judges 
+
+to  prevent  elected  officials 
+
+Against  the  view  that  the  "living  constitution"  is  necessary  to  promote
+flexibility  over  time,  Justice  Scalia  argues  that  the  "living  constitution"
+approach  actually  reduces  the  capacity  for  democratic  experimentation,  by
+allowing 
+in  new
+experiments.48  Against  the  view  that  the  "living  constitution"  is  necessary  to
+protect  an  ample  category  of  rights,  Justice  Scalia  argues  that  it  need  not
+increase  the category  of rights  at  all.  In  many  cases-property  rights,  Second
+Amendment  rights,49  Confrontation  Clause  rights--originalism  offers  a
+more  expansive  rather  than  less  expansive  understanding  of  rights."  That
+understanding  may  be  ill-suited  to current social  desires.  But  it is emphatically
+not  a  truncated  understanding  of rights.
+
+from  engaging 
+
+Justice  Scalia's  fundamental  objections  to a  common  law  understanding  of
+the  Constitution  are  that  it  lacks  legitimacy  and  that  it  is  too  discretionary.
+Freed from  the original  meaning, judges consult  their own judgments  of policy
+
+45.  Id. at  36-37.
+46.  See  id. at  38.
+47.  Id. at 40.
+48.  See  id. at  42.
+49.  See U.S.  CONST.  amend.  II. It  is especially noteworthy--even news--hat Justice  Scalia  que.tiuns
+
+the constitutional  validity  of gun  control  laws  at  the  national  lcvcl  See  Scalia. .iupra  note  7.  ,at 43
+
+50.  See  U.S.  CONST.  amend.  VI,  cl.  2.
+51.  See  Scalia, supra note  7,  at  43-44.
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+and  principle  and  are  effectively  untethered.  "[T]here  is  no  agreement,  and  no
+chance  of  agreement,  upon  what  is 
+to  be  the  guiding  principle  of  the
+evolution., 52 To  be  sure,  originalists  disagree  among  themselves;  history  can
+be  ambiguous  and,  importantly,  as  Justice  Scalia  notes,  there  are  questions
+about applying the original  meaning to "new and unforeseen  phenomena,"  such
+as  sound  trucks  and  television.53  But  these  are  minor  problems  compared  to
+those  raised  when  people  who,  believing  in  a  "living  constitution,"  take  the
+Constitution  to mean  what  it should  and  hence authorize judges  to  understand
+the  Constitution  to  be  whatever  "the  majority  wants."54  "This,  of course,  is
+the  end  of the  Bill  of Rights,  whose  meaning  will  be  committed  to  the  very
+body  it  was  meant  to  protect  against:  the  majority.  By  trying  to  make  the
+Constitution  do  everything  that  needs  doing  ...  we  shall  have  caused  it  to do
+nothing  at  all." 55
+
+II.  STATUTES,  CONTEXTS,  AND  CLEAR  STATEMENTS
+
+A.  Interpretive  Goals:  Decisional  Burdens,  Stability,  Democracy,  and
+
+Restraint
+
+What  are  the  goals  of Justice  Scalia's  approach  to  interpretation? 56  One
+goal  is  to reduce  the sheer  costs  of decision,  so  that the  burden  on  courts  and
+litigants  is  relatively  low.  A  closely  related  goal  is  to  make  law  relatively
+certain  and predictable,  so that people  know where  they stand  and  do  not have
+to  puzzle  much  over  the  content  of law.  Yet  another  goal  is  to  control  the
+discretion  of those  institutions  whom  we  trust  least  or fear  most.  A  system  of
+interpretation  might  well  be  designed 
+in
+establishing  social  policies  or governing  principles,  certainly  if  it  seems  that
+courts  ought  not  to  be  entrusted  with  that  kind  of business. 7  Justice  Scalia
+thinks  that  his  version  of textualism  will  effectively  control  judicial  power,
+while at  the same  time  increasing  the policymaking  primacy  of the  legislature,
+in  part  by  giving  it  appropriate  incentives.  If,  for example,  legislative  history
+will  not  be  used,  legislators  will  be  under  considerable  pressure  to  increase
+
+to  reduce  the  role  of  courts 
+
+52.  Id. at 45.
+53.  Id. at  45; see also  Lawrence  Lessig,  Understanding  Changed  Readings:  Fidelty and Theory,  47
+STAN.  L.  REv.  395  (1995)  (arguing  that  maintaining  interpretive  fidelity  with  past  understandings  of the
+Constitution  may  require  adapting  old  readings to new  social reality).  I do not  discuss that  kind  of objection
+here,  though  some of  what I say  below bears  on  it.  See  infra  text  accompanying  notes  137-146.
+
+54.  Scalia,  supra  note  7,  at  47.
+55.  Id.
+56.  1 do  not  discuss  here  the  suggestion  that  a theory  of  interpretation  is  appropriately  rooted  in a
+theory  of authority  or the  accompanying  claim  that  reference  to  lawmaker  intention  is therefore  a  part  of
+the appropriate  theory  of interpretation.  See ANDREI  MARMOR, INTERPRETATION  AND  LEGAL THEORY  113-
+23  (1992).  Scalia's  general  approach might  be  aided  by  assessing  claims  of this  sort.
+
+57.  Some people,  of course, think  that  courts have  comparative  advantages  at  least on  the question  of
+principles.  See,  e.g.,  ALEXANDER  M.  BICKEL,  THE  LEAST  DANGEROUS  BRANCH  23-33  (1962);  RONALD
+DWORKIN,  LAW'S  EMPIRE  375  (1986).
+
+1997]
+
+Democratic  Formalism
+
+statutory  clarity.  These  points  are  about  reducing  the  burdens  of decision  and
+the  costs  of uncertainty.
+
+But  Justice  Scalia  seeks  most  fundamentally  to  promote  democratic  self-
+government  and the  primacy  of  the  system  of lawmaking  set  out in  Article  I
+of the  Constitution.  The  reduction  of judicial  discretion  via  textualism  serves
+both  of these  fundamental  goals. 58  In  so  doing,  democratic  formalism  ensures
+that  statutory  and  constitutional  provisions  will  not  be  given  "spirits"  and
+"purposes"  attributable  to  the  (unenacted)  political  morality  of any  particular
+era.  A  ban  on  "dynamic"  interpretation,  and  a  requirement  of  fidelity  to
+enacted  law, ensures  that  courts  will  not bow  to political  will  or bend  statutes
+to prevailing political  winds except  to the  extent that they  have  produced  actual
+legislation.5 9
+
+It  is  worth  speculating  about  why  and  how  Justice  Scalia,  educated  at
+Harvard  Law  School  in  the  era  of  Hart  and  Sacks,'  actually  came  to  this
+position.  Henry  Hart  and  Albert  Sacks,  of course,  saw  continuity  between  the
+common law  and statutory  interpretation;  they  placed  a  large  emphasis  on  the
+collaborative  role  of courts,  not  least  in  the  process  of statutory  interpretation,
+which  they  thought  was  best  rooted  in  identification  of statutory  "purpose,"
+supplemented  by  an  array  of judge-made  clear  statement  principles."'  Justice
+Scalia has  suggested  that  years  ago  he  was  sympathetic  to  this  position,  or at
+least  to  judicial  particularism. 6 2  We  may  speculate" t  that  Justice  Scalia's
+self-professed  shift  in  view  may  have  emerged  from  the  nation's  experience
+with both particularism  and  purposive interpretation  in the  period between,  say,
+1965  and the  present.  In  this  period,  particularism  occasionally  has  produced
+a  high  degree  of  confusion,  as  case-by-case  decisions  allow  judges  to  have
+
+58.  Note  in  this  regard  that  after  World  War  II, Bnitain  and  America  responded  to Natism  In pan b)
+ensuring  that  such  laws  as  had  been  enacted  in  the  Hitler  penod  and  had  not  been  soidcd  s,,re to  be
+interpreted  "in accordance  'with the  plain meaning  of the text  and  without  regard to  oblectiies or  meanings
+ascribed  in preambles  or other pronouncements."'  INGOO MILU--R, Hi-tR's  JusTc-  at  ,i( 1991) (omitting
+citation).  Note  also  Muller's  demonstration  that  the  principal  technique  used  b% Hitler's  judges  Va5
+emphatically  antiformalist,  a  form  of purposive.  dynamic  statutory  construction  intended  to  link  statutorS
+meaning  with prevailing  ideals.  See  id. at  92, 104-05.  117
+
+59.  Miller's  book  is  a good  warning  in  this  regard  See  it
+60.  See  geterally HENRY  M.  HART.  JR  &  ALBF.RT  NI  SACKS.  THE LFGAL  PROCI-Ss  William  N
+
+Eskridge,  Jr. & Philip  P.  Frickey  eds.,  Foundation  Press  1994)  (1958)
+
+61.  See id. at  1111-380.  For an  outstanding  statement  of the central  organi.ing  themes.  see  u  at  1374-
+
+80. To  get  a  sense of its  flavor,  consider  the  following
+
+In interpreting  a  statute  a  court should:
+1. Decide  what purpose  ought  to  be  attnbuted  to  the  statute  and  to  an% suboidinate  pro~tston
+
+of it  which  may  be  involved;  and  then
+
+2.  Interpret  the  words  of the  statute  immediately  in question  so  as  to  .air)  out  the  purptsc  as
+
+best  it can,  making  sure,  however,  that  it  does  not  give  the  words  either-
+
+(a)  a meaning  they  will  not  bear,  or
+(b)  a  meaning  which  would  violate  any  established  polic% o clear statement
+
+Id. at  1374.
+
+62.  See  Antonin  Scalia.  The  Rule of La% as  o  Lau of Rule3. 56  U  CHI  L  Ri-v  1175,  1177  ( 1989)
+63.  Speculation  of this  kind  risks  recklessness  It what  is said  in  this  paragraph  does  not  reflect  Justice
+Scalia's  own  experience,  at  least  it  might  be  said  to  reflect  the  possible  expenente  of  some  people
+disaffected  with  the  use  of statutory  purpose  or  with  common  law decisionmaking  in public  lass
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+continuing  room  to  maneuver  and  make  predictability  hard  to  maintain.
+Perhaps  even  worse, resort  to  statutory  and,  above  all,  constitutional  purpose
+has  led  Justices  in  directions  that,  by  Justice  Scalia's  lights,  must seem highly
+ideological-much  less  a matter of finding something than  a matter  of making
+things  up.64 And  what  is  made  up  might  well  seem  to  reflect  the  views  of a
+"new  class"  of intellectuals  having political  commitments  very  different  from
+those  of Justice  Scalia  himself and  perhaps  the  nation  as  a  whole.
+
+In  brief:  When  particularism  and purposivism  invite  courts  to  take  stands
+on  the  great  issues  of the  day,  or  on  "Kulturkampf,"65  formalism  reemerges
+as  an  appealing  alternative.66  A  shift  from  particularism  and  purposivism  to
+formalism  represents  a  natural  odyssey  for  students  of  Hart  and  Sacks,
+disappointed  by  personal  experience  with  an  apparently 
+ideological,
+particularistic, and purposive judiciary, and seeking to impose  sharp constraints
+on  judicial  discretion.67  Some  help  in  this  regard  emerges  from  work  in
+cognitive  psychology  suggesting  that people often  overstate  the  value  of case-
+by-case,  intuitionistic  judgments,  and  understate  the  value  of  (admittedly
+somewhat  crude)  rules.68
+
+What  I will  be  arguing  here  is that,  despite  appearances,  Justice  Scalia's
+argument  cannot really rely  on abstract or a priori  claims  about Article  I of the
+Constitution  or  on  arguments  about  democratic  rule.69  Those  claims  do  not
+support  Justice  Scalia's  distinctive  approach.  Instead,  that  approach  must  be
+defended  by  a  set  of  pragmatic  and  empirical  claims  about  various
+governmental  institutions  and  how  those  institutions  are  likely  to  respond  to
+
+64.  See,  e.g.,  O'Hare Truck  Serv.,  Inc.  v. City  of Northlake,  116  S. Ct.  2353,  2361-62  (1996)  (Scalia,
+J.,  dissenting);  Romer  v.  Evans,  116  S. Ct.  1620,  1629  (1996)  (Scalia,  J.,  dissenting);  J.E.B.  v.  Alabama
+ex rel T.B.,  511 U.S.  127,  156 (1994)  (Scalia, J.,  dissenting). These  are  recent  cases,  but the  same  general
+point  holds, for  many  observers,  as  the general symbol  of the  Warren Court.
+
+65.  Romer,  116  S. Ct.  at  1629  (Scalia,  J.,  dissenting);  see  also  MOLLER,  supra  note  58,  at  4-5
+
+(discussing  Hitler's judges).
+
+66.  Indeed,  a  characteristic  response  to  a  perceived  failure  of purposive  interpretation  is  formalism,
+whereas  another  response  involves  general  claims  of  indeterminacy  or  of  the  illusory  character  of  the
+distinction  between  law  and  politics.  It  will  emerge  from  the  discussion  that  I  believe  both  of  these
+responses  are  inadequate.
+
+67.  See  MOLLER,  supra  note  58,  at  39-119,  for  a  valuable  discussion  of  the  role  of  purposive
+interpretation  in  extending  the agenda  of the  Nazi  party.  The  German judges  read  longstanding  statutes
+consistently  with the prevailing  political order, both  purposively  and dynamically,  in a  way  that  very  much
+promoted  Hitler's  goals.  MUlIler's  book  is  a  valuable  warning  about  the  ideological  uses  of  purposive
+interpretation  and  the  possible  advantages,  from  the  standpoint  of  liberty,  of formalism;  it  casts  Scalia's
+argument  in a  vividly  appealing light.  If formalism  is  less appealing  for America  than  it was  for Germany
+during  or immediately  after  the Nazi  era,  it  is because  of America's common  law  tradition,  which embeds
+an enduring  political  morality  that can hardly  be treated  as  a transient  pathology,  and which contains  values
+that are compatible  with both democracy and  the rule of law. Consider, for example, background  principles
+requiring  criminal statutes to be  construed leniently, see,  e.g., United States  v. R.L.C.,  503  U.S.  291,  305-06
+(1992),  or so  as  not  to raise  serious  constitutional  doubts,  see,  e.g.,  Kent  v. Dulles,  357  U.S.  116,  128-30
+(1958).  I am  grateful  to Richard  Pildes  for referring  me  to Maller's  book  and  for helpful  discussion  of the
+issues  in  this  paragraph.
+
+68.  See,  e.g.,  Daniel  Kahneman  &  Dan  Lovallo,  7Tnid Choices  and  Bold  Forecasts:  A  Cognitive
+
+Perspective on  Risk  Taking, 39  MGMT.  SCI.  17,  19-20  (1993).
+
+69.  Cf  Scalia,  supra note  7,  at 9,  14-17.
+
+1997] 
+
+Democratic  Formalism 
+
+541
+
+different  interpretive strategies.  Justice  Scalia does  not  defend  those  pragmatic
+and  empirical  claims.  Thus,  he  has  not  shown  that  his  approach  is  preferable
+to reasonable  alternatives,  including  those  that  stress the  role  of administrative
+agencies  in the  modem  state.
+
+The  most  basic  point  is  that  no  context-free  view  of  legal  interpretation
+will  make  much  sense. 7'  And  while judgments  about  the  future  are  inevitably
+speculative,  America's  own  experience,  with  its  distinctive  history,  suggests
+that  democratic  formalism  is  likely  to  be  inferior  to  the  alternatives  actually
+favored  by  the  American  legal  tradition. 7'  We  might  take  this  to  be  a  neo-
+Burkean  point,  intended  as  a  challenge  to  Justice  Scalia's  neo-Benthamite
+attack  on  the  common  law.72
+
+It  is  highly  revealing  in  this  connection  that  there  is  a  substantial  overlap
+between  the  interpretive  practices  of  common  law  and  civil  law  courts,  each
+of which  uses  similar  presumptions  and  canons,  not  only  linguistic  but  also
+substantive.73  Thus,  Justice  Scalia's  attack  on  common  law  practices  cannot
+easily  survive  an  encounter  with  civil  law  systems,  whose  courts  are  only
+intermittently  textualist,  and  which  are  permeated  by  interpretive  practices  of
+the kind  he  disfavors.74
+
+70.  This  is  a  lesson  of  P.S.  ATIYAH  &  ROBERT  S.  SuMMi.Rs.  FOR.M  AND  SUBSTANCE  IN ANGLO-
+AMERICAN  LAW  298-335  (1987).  which  connects  different  styles  of  interpretation  to  differences  in
+legislatures  in  America  and  England.
+
+71.  See  Stephen  Breyer,  On  the  Uses  of Legislative  History in  lnterpretung  Statutes.  65  S  CAL  L
+REv.  845,  868-74  (1992),  for a  similar  conclusion  on  a point  stressed  by  Justice  Scalia  One  qualification
+is  necessary:  Our  own  legal  tradition has  yet  to come  to terms  with  the  sca-change  inaugurated  by  the  rise
+of administrative agencies,  and that development  calls  for some new  analysts.  See 
+infra text accompanying
+notes  123-125.  It  is here,  for example,  that Judge  Calabresi's  proposal  might  be  faulted  on  the  ground that
+the principal  updating  role  should come  from  regulatory  agencies  Bur see CALABRESi.  supra note  I. at  56
+("To  allow  the truly  dependent  agency  to  act  to  update  our  laws  would,  in fact,  be  to  cut  through  our
+checks  and  balances  by  allowing  a  majoritarian  but  unrestrained  executive  to  enforce  its  vievs  of  the
+popular  will  .... ").
+
+72.  See Strauss,  supra note  5,  at  925-34.  For  Justice  Scalia's  approving  discussion  of the  codification
+movement,  see  Scalia,  supra  note  7,  at  11-12.  Bentham's  own  view  on  the  role  of  common  law
+particularism  was quite  complex.  See  GERALD  POSTEMIA.  BEN'HAM  AND  THE  COMiMON  LAw  TRADmITON
+440-64  (1986).
+
+73.  See  Massimo  La  Torre  et  al.,  Statutory Interpretation  in  Italy. in  INTERPREINo  STATUTES  213.
+222  (D.  Neil  MacCormick  & Robert  S.  Summers eds..  1991):  D.  Neil MacCormick  & Robert  S  Summers.
+Interpretation and Justification, in INTERPRETING  STATUrS.  supra. at 511.  514-15. 518-21.  535-39.  Robert
+S.  Summers  &  Michele  Taruffo.  Interpretation and  Comparative Analysis.  in  IrT-.RPRETING  STATUTI.S.
+supra, at  461,  468-69,  485-86.
+
+74.  See, e.g., Aulis  Aamio, Statutory Interpretation in Finland. in INTERPRETING  STATUTES,  supra note
+73,  at  123,  142-43;  Robert  Alexy  &  Ralf  Dreicr,  Statutory  Interpretation tn  the  Federal Republic  of
+Germany, in INTERPRETING  STATUTES.  supra note  73.  at  73.  90;  La Torte et  al  ,supra  note 73.  at  213.  222-
+23,  244;  Michel  Troper  et.  al.,  Statutory Interpretation iit  France, tii  INTERPRI-.ING  STATUTI-S.  supra note
+73,  at  171,  189;  see  also Summers  & Taruffo,  supra note  73.  at  485  (suggesting  that  when  there  is  "a
+conflict between  an argument  from  ordinary  or technical  meaning,  on  the  one  hand.  and the  argument  that
+this meaning  leads  to an absurd  or manifestly  unjust  result,  on  the other."  the "latter  argument  is  recognized
+in  virtually  every system  in  our  study, though  not  always  in  the  same  form"),  id  at  486 (suggesting  that
+"[w]ithin  limits,  the higher  courts of all  countries  in  our  study  adjust  the  ordinary  or technical  meaning  of
+a statute  to take  due  account of its datedness  or  obsolescence  Iso]  Itihe  theory  would  appear  to  be that  the
+force  or weight  of any  'old'  meaning  is outweighed").
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+B.  Holy  Trinity,  Excessive  Generality, and Presumptions
+
+Let  us approach  these  points  by  focusing  on  Church of the Holy Trinity v.
+United  States,75  Justice  Scalia's  bete  noire.  The  Holy  Trinity  case  raises  a
+large number  of the issues  dealt with  in Justice  Scalia's  discussion of statutory
+interpretation;  by  discussing  Holy Trinity, we  can  discuss  many  of the  issues
+raised  in  the  book.  In  1885,  largely  in  response  to  an  influx  of  immigrant
+labor,  Congress  made  it  unlawful
+
+for  any  person,  company, partnership,  or  corporation,  in  any  manner
+whatsoever,  to  prepay  the  transportation,  or  in  any  way  assist  or
+encourage  the  importation  or  migration  of  any  alien  or  aliens,  any
+foreigner  or  foreigners,  into  the  United  States  ...  under  contract  or
+agreement,  parol  or special,  express  or implied,  made  previous  to  the
+importation  or  migration  of  such  alien  or  aliens,  foreigner  or
+foreigners,  to  perform  labor  or  service  of  any  kind  in  the  United
+States  ....
+
+76
+
+The  problem  arose  because  the  Church  of the  Holy  Trinity  made  a  contract
+with  E.  Walpole  Warren,  an  alien  residing  in  England,  to  pay  for  his
+transportation  to  the  United  States,  where  he  was  to  work  as  a  rector  and
+pastor. The  United  States claimed  that  the  church  had  acted  unlawfully.77  The
+Supreme  Court  disagreed.  It  said  that  the  text  of  the  statute  was  not
+controlling.78
+
+The  Court's  opinion  was  very  complex,  with  multiple  strands.  It  can  be
+
+read  in  three  different  ways,  each  with  support  in  the  opinion  itself.
+
+(1) General  language will  not be  taken to  produce  an  outcome  that  would,
+in  context,  be  absurd,  at least  if there is  no  affirmative  evidence  that this  result
+was  intended  by  the  enacting  legislature.
+
+[F]requently  words  of general  meaning  are  used  in  a  statute,  words
+broad  enough to include  an act  in question,  and yet a consideration  of
+the  whole 
+its
+enactment,  or  of the  absurd  results  which  follow  from  giving  such
+broad  meaning to  the words,  makes  it unreasonable  to believe  that  the
+legislator  intended  to  include  the  particular  act.79
+
+legislation,  or  of  the  circumstances  surrounding 
+
+On this  view, Holy Trinity is  a rerun  of the famous  case of Riggs  v. Palmer,"
+in  which  the  New  York  Court  of  Appeals  held  that  a  statute  governing
+
+75.  143  U.S.  457  (1892).
+76.  Id. at 458.
+77.  See  id.  at  458.
+78.  See  id. at 472.
+79.  Id. at 459.
+80.  22  N.E.  188  (N.Y. 1889).
+
+1997]
+
+Democratic  Formalism
+
+inheritance  would  not  be  interpreted  to  allow  a  nephew  to  inherit  from  his
+uncle's  will  when  the  uncle's  death  resulted  from  his  murder at  the  nephew's
+hands.8
+
+(2)  General  language  will  not  be  taken  to  produce  an  outcome  that  was
+clearly  not intended  by the enacting  legislature,  as those  intentions  are  revealed
+by  context,  including  legislative  history.
+
+[A]nother  guide  to  the  meaning  of  a  statute  is  found  in  the  evil
+which  it  is  designed  to  remedy;  and  for  this  the  court  properly  looks
+at  contemporaneous  events,  the  situation  as  it  existed,  and  as  it  was
+pressed  upon  the  attention  of  the  legislative  body ...
+
+.
+
+.
+
+.
+
+It  appears  . .. 
+
+the
+committees  of Congress,  that  it  was  this  cheap  unskilled  labor which
+was  making  the  trouble  ....
+
+the  testimony  presented  before 
+
+in 
+
+...  We  find,  therefore,  that  the  title  of the  act,  the  evil  which  was
+intended to  be  remedied,  the  circumstances  surrounding  the  appeal  to
+Congress,  the  reports  of  the  committee  of  each  house,  all  concur  in
+affirming  that  the  intent  of Congress  was  simply  to  stay  the  influx  of
+this  cheap  unskilled  labor.8 2
+
+On  this  view,  Holy  Trinity advocates  legislative  history  and  consideration  of
+legislative  intent.
+
+(3)  General  language  will  not  be  taken  to  depart  from  longstanding  social
+understandings  and  practices,  at  least  or especially  if the departure  would  raise
+serious  constitutional  doubts.
+
+[N]o  purpose  of  action  against  religion  can  be  imputed  to  any
+legislation,  state  or  national,  because  this  is  a  religious  people.  This
+is  historically  true.  ...
+
+.
+
+[ 
+
+. [S]hall  it  be  believed  that  a  Congress  of  the  United  States
+intended  to  make  it  a  misdemeanor  for  a  church  of  this  country  to
+contract  for  the  services  of  a  Christian  minister  residing  in  another
+nation?83
+
+On  this  view,  the background  tradition  of religious  liberty  operates  as  a "clear
+statement"  principle,  one  that  requires  Congress  to  speak  unambiguously  if  it
+wishes  to  intrude  on  that  tradition.  Congress  will  not  be  taken  to  have  barred
+a  church  from  paying  for  the  transportation  of  a  rector  unless  there  is
+affirmative  evidence that  Congress  intended  to  do precisely  that.  Congress  will
+not  be taken  to  have  interfered  with  religious  liberty  through  inadvertence  or
+loose  language.
+
+81.  See  id.  at  191.
+82.  Holy  Trinity, 143  U.S.  at  463-65,
+83.  Id.  at  465,471.
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+Justice Scalia appears to think that each  of these  three principles  is  wrong,
+certainly  as  applied  to Holy Trinity.84 Let  us  take  up  these principles  in  turn.
+Understood  according  to  principle  (I),  Holy  Trinity presents  a  familiar,
+even mundane problem,  that  is, the problem introduced  by linguistic generality.
+in  this  way:
+In  a  famous  passage,  Wittgenstein  describes 
+"Someone  says  to  me:  'Shew  [sic]  the  children  a game.'  I teach  them gaming
+with  dice,  and  the  other  says,  'I didn't  mean  that  sort  of game.'  Must  the
+exclusion  of the game  with  dice  have come  before  his  mind  when  he gave  me
+the  order?"8 5
+
+the  problem 
+
+is 
+
+that 
+
+implication 
+
+it  need  not. 
+
+Wittgenstein's  clear 
+
+In  daily
+communication,  and  without  thinking  about  it,  we  carve  out  exceptions  from
+general  language;86  we  do  not  consult  the  dictionary  meaning  of the  words
+and  act in  accordance  with  what  we  find  there.  It  is  tempting to  respond  that
+there  is  a difference  between  daily communication  and  a legislative  command;
+perhaps  the  latter  should  be  presumed  not  to  be  sloppy.  But  this  response
+misses  the  point,  which  has  nothing  to  do  with  sloppiness  and  everything  to
+do  with  the  cognitive  limits  of  human  beings.  Because  of  the  inevitable
+limitations  of human  foresight,  even  the  most  carefully  chosen  words  can
+become  unclear because  and  not in  spite  of their generality.87  Textualists  who
+fail  to  see  this  point  can  be  found  only  in  science  fiction  novels  populated  by
+androids  and aliens,88 whose  misunderstandings  and befuddlement  are  a  direct
+consequence  of their  textualism. Now,  Justice  Scalia is not  a literalist;  he  is  at
+
+84.  There  is  some doubt  about  whether  he sees  a  limited place  for  principles  (2)  and  (3)  in  general.
+See  Scalia, supra note  7,  at  20  n.22  (acknowledging  a  role  for principle  (3)  but seeing  it  as  inapplicable
+to  Holy  Trinity);  see  also Green  v.  Bock  Laundry  Mach.  Co.,  490  U.S.  504,  528  (1989)  (Scalia,  J.,
+concurring  in  the judgment)  (arguing  for  statutory  interpretation  based  on  context,  ordinary  usage,  and
+compatibility  with surrounding  law).
+
+85.  LUDWIG  WITGENsTEIN,  PHILosOPHIcA.  INVESTIGATIONS  33 (G.E.M.  Anscombe trans.,  MacMillan
+
+1960)  (1953).
+
+86.  In  ordinary  communication,  we  do  not  think  of  it  as  making  "exceptions."  It  all  happens  very
+quickly  and  naturally. For example,  "Don't bother me during  the next  hour"  (but what  if the  house catches
+fire?),  or "Clean  up  your  room  completely"  (but  what  if a  certain  level  of messiness  is  standard  in  the
+family?).
+
+87.  See  H.L.A.  HART,  THE  CONCEPT  OF  LAW  124-36  (2d ed.  1994).  As  Hart  writes:
+
+[W]e are  men, not gods;  it is  a feature  of the human  predicament  (and so of the  legislative  one)
+that  we  labour  under two  connected  handicaps  whenever  we  seek to  regulate,  unambiguously
+and  in  advance,  some  sphere  of  conduct  by  means  of  general  standards  to be  used  without
+further  official  direction  on particular  occasions. The  first handicap is  our  relative  ignorance  of
+fact;  the  second  is  our  relative  indeterminacy  of  aim.  If  the  world  in  which  we  live  were
+characterized  only  by  a  finite  number  of features,  and  these  together  with  all  the  modes  in
+which  they  combine  were  known  to  us,  then  provision  could  be  made  in  advance  for  every
+possibility  .... Plainly  this  world  is  not  our  world;  human  legislators  can  have  no  such
+knowledge  of all  possible  combinations  of  circumstances  which  the  future  may  bring.  This
+inability to  anticipate  things  brings  with  it a  relative  indeterminacy  of aim.
+
+Id. at  128.
+
+88.  Cf. POSNER,  supra note  15,  at 268  ("A normal  English  speaker does not interpret a  message merely
+by consulting  the dictionary  definitions  of each word  (assume  these definitions  are  stored  in  his brain)  and
+the  relevant grammatical  and syntactical principles.").  Science fiction  enthusiasts may wish  to consider Star
+Trek's  android  character  Data.  See  Star Trek:  The  Next  Generation  (Paramount  syndicated  television
+broadcast).
+
+19971
+
+Democratic  Formalism
+
+pains  to  distinguish  textualism  from  literalism,  and  he knows  that  the  meaning
+of  text  is  a  function  of  context.  But  once  we  insist  on  that  point,  just  why  is
+principle  (1)  so  bad?  Why  is  it  not  an  ordinary  application  of the  idea  that  the
+meaning  of words  depends  on  context?
+
+Perhaps  Justice  Scalia would  respond  that this  principle  increases  the  costs
+of decisions  for judges;  perhaps  an  approach  that  takes  Congress  "at  its  word"
+produces  more  mechanical  (simpler,  more  predictable)  jurisprudence.  Perhaps
+Justice  Scalia  would  add  that  absurdity  is  in  the  eye  of  the  beholder,  so  that
+principle  (I)  also  introduces  risks of error  in  the  form of judicial  misjudgments
+about  what  counts  as  absurd.  And  perhaps  Justice  Scalia  would  insist  that
+Congress  would  respond  well  to  his  approach  to  Holy Trinity.  Knowledge  of
+judicial  refusal to  make exceptions  for absurdity  might  increase  legislative  care
+with  drafting and thus decrease  excessive  generality  before the  fact.  Or perhaps
+Congress  would  respond  promptly  and  effectively  to  mistakes  introduced  by
+excessive  generality;  Congress  would  therefore  correct  the  outcome  in  Holy
+Trinity if it  really  objects. 9  If all  this  is  true,  Justice  Scalia's  approach  would
+produce  few mistakes,  and  those  mistakes  that it  does  produce  would  find easy
+correction.90
+
+If  we  understand  Justice  Scalia's  argument 
+
+to  be  defensible  in  these
+terms, 9'  the  debate  over  principle  (1)  is  really  a  debate  about  the  costs  of
+decision  and  the  costs  of  error.92  More  particularly,  it  is  a  special  case  of  the
+debate over rules  and  standards.  The  Holy Trinity Court  treated  the  text  of the
+statute as  a  kind of standard,  inviting  inquiry  into  underlying  purposes.  Justice
+Scalia wants  to treat  it  as  a kind  of rule,  fully specifying  outcomes  in  advance.
+It  is  better  to
+The  dispute  cannot  be  resolved  on  the  basis  of  abstractions." 
+ask  about  which  approach  will  (roughly  speaking)  minimize  the  costs  of
+decision  and  the  costs  of error. Justice  Scalia  can  be  taken  to  suggest  that  his
+approach  will  reduce  the sum  of aggregate  decision  costs  and  aggregate  error
+costs,  and  under  imaginable  assumptions,  he  is  entirely  right.
+
+89.  Relevant  evidence  of congressional  rejection  of judicial  interpretation  can  be  found  in William  N
+
+Eskridge,  Jr.,  Overriding  Supreme  Court Statutory hiterpreration Dectwor.  101  YALE  LJ  331  (1991)
+
+90.  Note here the  relatively formalistic  nature  of statutory  interpretation  in  England and  the distinctive
+context in  which  that  formalism  may  make sense.  highly professional  drafting and  a  responsive  Parliament
+ready  and willing  to  correct errors  after  they  have  arisen  See ATYAH  & SuhistiFRS.  supra note  70.  at  104.
+315-23.
+
+91.  For proposition  (1),  Article  I of the  Constitution  is  a red  hernng,  the question  is  what  the  relevant
+
+statute  means.
+
+as 
+
+an 
+
+counts 
+
+92.  There are  of course  qualitative  differences  among  the  vaious  kinds  of errors,  and judgments  must
+be  made  about  which  errors  are  worst,  both  qualitatively  and quantitatively  There  is  also  a  question about
+his
+what 
+approach-textualism-produces  no  errors.  But  this  begs  the  question  by  defining  errors  as  whatever
+emerges  from  other  approaches.  To  be  sure,  it  is  not  clear  that  errors  can  be  defined  as  such  apirt  from
+some  antecedent  account  of appropriate  interpretation  I am  attempting  to build  on  the  common  intuition
+that  an  interpreter  blunders  if he  interprets  a  word  to produce  an  outcome  that  would  generally  be  taken
+as  absurd.
+
+Justice  Scalia  would 
+
+contend 
+
+Perhaps 
+
+error 
+
+that 
+
+all. 
+
+at 
+
+93.  The  same  conclusion  can  be  found  in  SCHAUVER.  3upra  note  I1.  at  222-28.  which  delends
+
+formalism  as  a  possible  approach  to  interpretation
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+But  are  the  assumptions  correct?  This  is  far  from  obvious.  Perhaps  a
+judicial  role  of  the  sort  suggested  in  Holy  Trinity  will  not  introduce  much
+uncertainty;  perhaps  cases  in  which  textual  generality  produces  absurdity  are
+few  in  number  and  easily  recognized  as  such.  If  so,  principle  (1) may  not
+much  increase  decision  costs,  and  it may  greatly  reduce  error  (understood  as
+such  if the  outcome  would  be  by  general  agreement  absurd).  And  perhaps  it
+is  very  hard  for  legislatures  to  anticipate  cases  of this  kind  in  advance-and
+also  costly  and complex  for  legislatures,  with  so  much business  to transact,  to
+spend  all  the  resources  necessary  to  fix  the  errors  of  excessive  generality.
+Formalism  may decrease  costs  at  the judicial  level  while  also  increasing  costs,
+perhaps  dramatically, at  the  legislative  level.  If all  this  is  true,  Holy Trinity is
+right  as  an  example  of principle  (1).
+
+If  we  are  talking  about  the  modem  state,  it  makes  sense  to  say  that
+administrative  agencies  should  be  permitted  to  act  as  the  Court  did  in  Holy
+Trinity (a  point  to  which  I will  return94). And  a  reasonable  assessment  of the
+practical  issues  would  suggest  that courts  should  feel  free  to  make  exceptions
+for applications  that  seem  unquestionably  absurd. Then  the question  would  be
+whether the application  in Holy Trinity falls  in that  category. To know  that,  we
+have to  know  some  cjetails,  but  certainly  it  cannot  be said  that  the  outcome  is
+implausible  or an  abuse.
+
+in 
+
+intent  (something  actually 
+
+Justice  Scalia is correct  in  objecting to principle  (2) if he  understands  that
+principle  to suggest  that clearly  expressed  legislative  history  (in,  for  example,
+committee  reports)  should  trump clearly  expressed  text.  He is  also  right  to say
+that  the  text,  and  not  the  history, is  the  law;  no  one  should  doubt  that  point.
+And  it  is  sensible  for  Justice  Scalia  to  insist  on  a  distinction  between
+the  minds  of  legislators)  and
+subjective 
+"objectified  intent,"  understood  as  "the  intent  that  a  reasonable  person  would
+gather  from  the  text  of the law,  placed  alongside  the  remainder  of the  corpus
+juris.' 95  But  suppose  that  we  do  not  trouble  ourselves  with  the  complexities
+intentions  of  collective
+of  psychological 
+decisionmaking  bodies,  and  suppose  that  we  use  legislative  history  only  in
+cases  of interpretive  doubt,  not  because  it  is  "the  law"  but  because  it  helps
+identify  the  meaning  of the  law.  Suppose  too  that  interpretive  doubt  can  be
+created  either  by  ambiguous  terms  or  by  what  appears  to  be  excessive
+generality.  Here  legislative  history  would  matter  for  the  same  reason  that
+Madison  and  Hamilton  matter.  Words  are  hard  to  understand  without  some
+conception  of their purpose,  and  the distinction  between  purpose and  intention
+(suitably  "objectified")  is  thin.
+
+the  subjective 
+
+inquiry 
+
+into 
+
+Indeed, 
+
+textualism  itself  cannot  do  without  some  crucial  subjective
+elements.  Recall  that  meaning  is,  for  Justice  Scalia,  to  be  determined  by
+
+94.  See  infra  notes  128-129  and  accompanying  text.
+95.  Scalia,  supra  note 7,  at  17.
+
+1997]
+
+Democratic  Formalism
+
+exploring  what  was  commonly  understood  at  the  time  of  enactment.  But
+common  understandings  are  best  uncovered  by  figunng  out  what  people
+thought. Thus  the  movement  from  "intentions"  to  "ineaning,"  while  entirely
+sensible,  is  not  a  movement  from  something  (entirely)  subjective  to  something
+(entirely)  objective.  If the  question  is  what  relevant  people  understood  a  term
+to  mean,  legislative  history  may  well  be  useful.  Of course,  legislative  history
+should  not  be  used  when  it  is  uninformative,  or  when  it  is  so  extensive  and
+broad  that  a  judge  is  using  it  not  to  figure  out  what  Congress  meant,  but
+instead  to  support judicial  policy  preferences.  Of course  the  text  has  priority,
+and  it  is  right  to  insist  that  what  appears  in  the  legislative  history  may  be  the
+view  of one  side  in  a  debate,  or  of  a  private  interest  group  unable  to  get  its
+way  with  Congress.97  But  these  points  do  not  support  a  bar  on  use  of
+legislative  history;  they  lead  in  the  direction  of  pragmatism  and  caution."
+
+Justice  Scalia's  suggestion  that  the  use  of  legislative  history  is  akin  to
+"posting  edicts  high  up  on  the  pillars,  so that  they  could  not  easily  be  read""
+is  certainly  relevant,  but standing  alone  it  cannot  carry  much  weight.  Citizens
+do  not always  have  easy  access  to  statutory  text  (ask  a  nonlawyer  neighbor  to
+track  down  42  U.S.C.  §  7521j)(2)(B)(ii),  by, say,  tomorrow  morning),  and
+those  who  can  find  the text  can  often,  without  expending  a  lot  more  effort,  find
+the  history. And  where  there  are  amnbiguities  and  doubts,  might  it  not  be  better
+to  look  at  legislative  history  than  to  consult  dictionaries,  or  one's  own views
+about  policy  and  principle,  at  least  if  the  ordinary  meaning  of the  term,  taken
+in  its  context,  is  what  governs?  Why  might  not  legislative  history  be  useful  in
+showing  that  the  term  in  question  is  not  sensibly  interpreted  to  cover  the
+problem  at  hand?
+
+These  questions  need hardly  be  taken as  decisive.  We  can  imagine  a  world
+in  which  resort  to  legislative  history  would  be  more  trouble  than  it  is  worth,
+because  courts  and  legislatures,  in  that  world,  would  respond  well  if  courts
+relied  only  on  text  and  applicable  canons  of  construction.  In  that  imaginable
+world,  legislative  history  would  not  be  very  helpful  (because  it  would  be
+impossibly  ambiguous); courts  would  use  legislative  history to  reach the  results
+that  they  liked  best,  which  (let  us  suppose)  would  be  independently  very  bad;
+and  the  use  of  legislative  history  would  have  unfortunate  effects  on  the
+legislature  by  discouraging  it  from  legislating  clearly. Perhaps  some  state court
+systems  do  not  use  legislative  history  for  this  reason,'"  and  what  Justice
+Scalia  says  helps  support  their  practice.  But  we  can  also  imagine  a  legal
+
+96.  See  supra  text  accompanying  note  15
+97.  See  BRUCE  A. ACKERMAN  &  WILLIAM  T  HASSL-R.  CLAN  COAtJDIRTY  AIR I0N.09  (1981).  for
+
+a good  example.
+
+98.  See  Breyer,  supra  note  71,  at  847-60
+99.  Scalia, supra  note  7,  at  17
+100.  Cf., e.g., GWENDOLYN  B. FoLsoM,.  LEGISLATIV  HISTORY  RIE-S.ARCN  Rmnt  DINT-RPRiTATiON
+OF  LAWS  5 (1972)  ("Use  of legislative  history  by  the  state courts  has .one  more  sloppI and is  still much
+less  extensive  than  in  the  federal  courts  ")
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+culture  in  which  legislative  history  helps  to  discipline judges,  by  giving  them
+a  sense  of  context  and  purpose,  without  creating  serious  problems  at  the
+legislative  stage. There  is  no  way  to  know  whether, in the  abstract,  the  use  of
+legislative  history  is  good  or  bad.  So  long  as  courts  proceed  sensibly,  first
+principles  involving  political legitimacy  cannot resolve  that question.  Whether
+it  makes  sense  to  use  legislative  history  depends  on  such  issues  as  the simple
+costs  of  using  the  history,  the  likelihood  that  it  will  increase  rather  than
+decrease errors,  the availability  of other more  reliable  sources  of meaning,  and
+the  consequences  for  the  legislature  itself  of using  legislative  history  or  not
+using it.
+
+Justice  Scalia  is  convincing  in  urging  that  legislative  text  and  structure
+deserve  priority.  He  is  right  to  say  that  courts  have  often  misused  legislative
+history  and  that  the  use  of history  can  increase  costs  of decision  while  also
+creating  more  rather  than  fewer  mistakes.  Certainly  a  movement 
+in  the
+direction  of a  firm  judicial  principle  of textual  primacy  would  make  a  good
+deal  of  sense."'  But  he  has  not  demonstrated  that  where  other  sources  of
+meaning  leave  doubt,  courts  should  not  consult  legislative  history.  Perhaps  a
+legal  system  starting  from  scratch  would  do  best  to  forbid  courts  from
+consulting  history.  Perhaps  American  public  law would  be  better  if a  ban  on
+the use of history  were  enacted;  this is far from implausible.  But in  light  of our
+longstanding  traditions,  a dramatic  shift of the sort proposed  by  Justice  Scalia
+bears  a  heavy  burden  of justification,  and  he has  not  met  that  burden  here.
+
+What  about  principle  (3)?  Justice  Scalia  does  not  discuss  it  in any  detail.
+But  it  is  not  hard  to  imagine  how  clear  statement  rules  might  be  defended.
+Justice  Scalia willingly  acknowledges  that extraordinary  acts  are  not  expected
+and  that  courts  should  not  find  such  acts  unless  there  is  clear  indication  that
+they  were  intended;" 2  this  idea  is  part  of a  defense  of principle  (3).  Justice
+Scalia  also insists  that  courts  should try  to  fit  ambiguous  texts  with  the  rest  of
+existing  law,  and  Holy  Trinity was  written  very  much  in  this  spirit. 3  And
+there  is  a  third  possible  defense  of  principle  (3);  it  has  to  do  with  the
+nondelegation  doctrine, whose purpose  is to ensure that legislatures, rather than
+bureaucracies  or  courts,  actually  make  the  most  important  decisions  of
+policy.' 4  Perhaps  courts  should 
+the  executive
+branch-to  decide,  with  particularity,  if  it wants  to  force  judges  to  resolve  a
+serious  constitutional  problem.  On this view, vague  or general  language  should
+not  be  taken  to  require judicial  resolution  of a  hard  constitutional  judgment;
+there  is  too  great  a  likelihood  that,  if it  is  so  taken,  Congress  itself  will  not
+have  thought about  the constitutional  issue at  all.  Certainly  it  is  most  unlikely
+
+require  Congress-not 
+
+101.  See  the discussion  of textual  priority  in  ACKERMAN  & HASSLER,  supra note  97,  at  108-09.
+102.  See  Scalia, supra note  7,  at  29.
+103.  See  the reference  to  background  norms  in POSNER,  supra note  15,  at  268-69.
+104.  See Cass  R. Sunstein, Law and Administration After Chevron,  90  CoLUM.  L. REV.  2071,2111-12
+
+(1990).
+
+1997]
+
+Democratic  Formalism
+
+that  the  Congress  that  enacted  the  statute  at  issue  in  Holy  Trinity  actually
+decided  to  apply  the  ban  on  importation  of labor  to  churches."'
+
+Of course,  the  nondelegation  doctrine  is  effectively  dead,  in  part  because
+courts  cannot  easily  enforce  it."  But  many  clear  statement  principles  or
+substantive canons-prominently  including the  principle  requiring  Congress to
+speak  clearly  if it  wants  to raise  a serious  constitutional  problem-can  be  seen
+as  narrower,  more  modest,  more  targeted  nondelegation  doctrines.  The  basic
+defense of principle  (3) is  that it  has  a democracy-forcing  character.  It requires
+the  national  legislature  to  make  a  highly  focused  decision,  reflecting  its  own
+choices  about  constitutionally  sensitive  issues.  Many  substantive  canons  of
+construction  have  this purpose.  They are  designed  to  ensure  that the  legislature
+focuses  with  particularity  on  some  issue,  largely  for reasons  with  roots  in  the
+Constitution,  American  history, or both.  Thus,  ambiguous  statutes  will  be  read
+so  as  not to  preempt  state  law,  or favorably  to  Native  Americans,  or so as  not
+to apply  extraterritorially,  or favorably  to  criminal  defendants,  or  so  as  not  to
+intrude  on  the  traditional  authority  of the  President.'
+
+We  can  agree  that  the  statutory  text  deserves  priority  over  legislative
+history and that  courts  should  ordinarily  rely  on  a  reasonable  understanding  of
+the  text  at  the  time  of  enactment.  But  Justice  Scalia  provides  no  convincing
+argument  against  principles  (1),  (2),  or (3).  A  general  conclusion  follows.  Any
+approach  to  statutory  interpretation  depends  on  judgments,  partly  pragmatic
+and  empirical  in  nature,  about  the  capacities  of  both  courts  and  legislatures,
+and  about  the  likely  effects  on  both  institutions  of  different  interpretive
+approaches.' 
+Those  who  endorse  principles  (1),  (2),  and  (3),  or  imaginable
+cousins  and  variations,  have  to  defend  those  principles  against  the  objection
+that  they  increase  uncertainty  (thus  jeopardizing  rule  of law  values)  and  also
+the  number  and  magnitude  of  mistakes.  Justice  Scalia's  approach  must  be
+defended  not  only  on  the  ground  that  it  increases  certainty  (a  reasonable
+proposition,  though  a  questionable  one  if textual  ambiguity  is pervasive)  but
+also  on  the ground  that  it  will  not  lead  to  errors  that  are  large  in  number and
+
+105.  Justice  Scalia, it  will  be recalled,  see  3upra text accompan.  ing  notes  30.31.  is  not  L.Oncerned  v tth
+subjective  intentions,  and  for  legitimate  reasons  I  make  this  point  here  not  to  support  psychological
+investigation  but  to  say  that  the  generality  of  the  statute  should  not  be  taken  to  suggest  that  the  relevant
+words,  understood  tn  accordance  wtth  "objectified  intent."  would  have been  understood  to apply  to  churches
+within  the  relevant  community--that  ts,  the  ordinary  audience  ol  the  statute
+
+106.  See  Mistretta  v.  United  States.  488  U  S  361.  415  (1989)  (Scalia.  J.  dissenting)
+107.  See  the extensive  catalogue  of background  norms and  princtples in EsKRtIGE.  supra note 4.  app
+
+3,  at  323-28.
+
+108.  This  is  true  for  "dynamic  interpretation"  Should  statutory  meaning  change  o%er  time'  Some
+statutory  terms  seem  to  invite  changes  of  a  sort,  and  thus  Congress  sometimes  seems  to  ,.ontemplate
+changed  readings.  Dynamic  interpretation,  undertaken  with  regard  to statutory  purposes,  might  be  justified
+as  part  of  the  interpretive  project,  on  roughly  the  same  ground  as  Riggs 
+t  Paulier. 22  N  E  188  (N  Y
+1889).  See supra text  accompanying  notes  80-81,  95-101  O1  course  a  great deal  tums  on  w.hat  the  statute
+actually  says.  Some  statutes,  understood  in  accordance  with  their  original  meaning. 
+.,all  for  dynamic
+interpretation;  some  do  not;  and  sometimes  there  is  no  clear  understanding  one  way  or  the  other  For
+discussions  of  this,  see  ESKRIDGE,  %upra note  4,  at  9-105.  and  CASS  R  SUNsTI-LN.  AM-'R  T'.  RIGHTS
+REVOLUTION  174-78  (1990).
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+serious  in  magnitude.  A  good  deal  turns  on  the  likely  performance  of courts
+and  legislatures  and  on  legislators'  responsiveness  to judicial  interpretation.
+
+Justice Scalia has  offered  only  the beginning of a defense  in  the  necessary
+terms.  He  does  not  show  that  the  actual  practices  of American  courts  reveal
+systematic  abuses  of principles  (1),  (2),  and  (3).  Certainly  a  more  extended
+empirical  study  would  be  helpful  here.
+
+C.  A  Dog That  Did Not  Bark: Have  Administrative Agencies Become  Our
+
+Common Law  Courts?
+
+transformed 
+
+in  practice,  greatly 
+
+There  is  a  notable  and  surprising  gap  in  Justice  Scalia's  argument:  the
+administrative  state. Justice  Scalia is,  of course,  a  specialist  on  administrative
+law,  whose  rise  has, 
+the  practice  of
+interpretation  in  public  law.  Most  of the  key  work  of statutory  interpretation
+is  done  not  by  courts  at  all,  but  by  federal  agencies.  Justice  Scalia  has  also
+written  an  important  and  illuminating  essay 1° 9  on  Chevron  U.S.A.,  Inc.  v.
+Natural Resources  Defense  Council,"'  which  is  unquestionably  the  most
+important  case  about  legal  interpretation  in  the  last  thirty  years.  Note  in  this
+regard  that  in  its  relatively  short  period  on  the  scene,  Chevron,  a  kind  of
+counter-Marbury"ll  for 
+the  administrative  state,  has  been  cited  more
+frequently  (3977  times)"l2  than  Marbury v. Madison (948  times),  Brown  v.
+Board of  Education"13  (1520  times),  or  Roe  v.  Wade 14  (1556  times),  and
+if present  trends  continue  it will  soon  have been  cited  more  frequently  than  all
+those  cases  put  together.  Indeed,  Chevron may qualify  as  the most  cited  case
+in  federal  courts.
+
+Chevron holds  that where statutes  are ambiguous,  courts should accept  any
+reasonable  interpretation  by  the  agency  charged  with  their  implementation." 5
+Chevron also  appears  to  accept  the  legal  realist  suggestion,  central  to Justice
+Scalia's  essay  here,  that  the  decision  of  how  to  read  ambiguities  in  law
+in  the  sky""' 6  but  an  emphatically
+involves  no  "brooding  omnipresence 
+human judgment  about  policy  or principle.  And  Chevron concludes,  in  a  way
+
+109.  Antonin  Scalia, Judicial Deference to Agency  Interpretations of Law,  1989  DUKE  L.J, 51 I.
+110.  467  U.S.  837  (1984).
+111.  Marbury  v.  Madison,  5  U.S.  (I  Cranch)  137  (1803).
+112.  Quick  Cite search  of WESTLAW,  Allfeds  Database  (Oct.  I,  1997).
+113.  347  U.S.  483  (1954).
+114.  410  U.S.  113  (1973).
+115.  See  Chevron,  467  U.S.  at  842-45.  This  simplifies  some  complex  issues.  For  discussion,  see I
+RICHARD  J. PIERCE,  JR.  &  KENNETH  CULP  DAVIs,  ADMINISTRATivE  LAWV TREATISE  109-31  (3d ed. 1994);
+id. at  147-51,  258-59  (3d  ed. Supp.  1996);  and  Sunstein,  Supra note  104.
+116.  Southern  Pac. Co.  v. Jensen.  244  U.S.  205.  222  (1917)  (Holmes, 
+
+., dissenting).  Hence,  Chevron
+has  much  in  common  with  Erie Railroad Co  v.  Tompkins,  304  U.S.  64  (1938).  Both  cases  involve  a
+rejection  of the view  that  federal  courts  could  neutrally  declare  "the  law,"  and  both  cases,  following  that
+rejection,  reallocate  legal  authority  from  federal  courts  to  other institutions.  For a  provocative  discussion
+of the "Erie  effect,"  see Lawrence  Lessig, Erie  Effects  of Volume  110: An  Essay on Context in Interpretive
+Theory,  110  HARV.  L.  REV.  1785,  1797-800  (1997).
+
+19971
+
+Democratic  Formalism
+
+in 
+
+endorsed  by  Justice  Scalia  and  very  much  bearing  on  the  democracy  prong  of
+his  argument,  that  where  underlying  statutes  are  ambiguous,  Congress  should
+be  taken  to  have  decided  that  agencies  are  in  a  better  position  to  make  that
+than  courts." 7  Agencies  are 
+judgment 
+that  better  position  because,
+Chevron  emphasizes,  the  President  is  generally 
+in  charge  of  their  policy
+judgments,  and  hence  agencies  have  a  kind  of democratic  pedigree,  certainly
+a  better  one  than  the  courts."'S  Administrative  agencies  are,  of  course,
+influenced  by  shifting  political  judgments,  and  their  approaches  are  likely  to
+reflect  the  President's  basic  commitments."'9  I  am  speaking  here  of  the
+comparative  advantages  of  agencies  over  courts 
+in  the  interpretation  of
+ambiguous  statutes  because  of the  agencies'  greater  accountability  and  their
+greater  technical  specialization.  For this  reason,  agencies  are  better  equipped
+to  decide on  the appropriate  definition  of vague  or  ambiguous  statutory  terms.
+An  emphasis  on  these  points  does  not  embrace  simple  majoritarianism,  nor
+does  it  neglect  the  internal  morality  of democracy,  which  authorizes  courts  to
+constrain  agencies  both  through  clear  statement  principles' :'  and  through
+constitutional  law.' 2 '  To  say  that  agencies  have  comparative  advantages  in
+the  interpretation  of  statutes 
+little  about  constitutional
+interpretation.  The  special  case  for  deference  to  agency  interpretations  has  a
+great  deal  to  do  with  the agency's  immersion  in  technically  complex  issues,  a
+consideration  that  has  far  less  importance  in  the  context  of  constitutional
+law.
+
+to  say  very 
+
+is 
+
+122
+
+If  this  is  so,  debates  over  statutory  interpretation  must  include  not  only
+Congress  and  courts  but  also  administrative  agencies,  which  may  be  in  an
+especially  good  position  to  carry out  the  updating  and  particularizing  functions
+of common  law  judges.  This  is  a  point  missed  both  by  Justice  Scalia  and  by
+Judge  Calabresi  in  his  vigorous  argument  for  more  federal  common  law.'
+
+117.  Technically  speaking,  Justice  Scalia  argues-in  m) 
+
+is  best
+taken  to  hold  that  the  question  of  delerence  will  he  resolved  bN reference  to  Congrcs's  instruttions.  that
+Congress  has  not  spoken  clearly  on  that  subject.  and  that  in  light  of  the  *alue  ol  prosiding  a  Leiar
+background  rule,  and a reasonable  understanding  of  Congiess's  sie\%s  about  reilevint  institutional  .paities,
+statutes  will  generally  be  read  to  require  courts  to  defer  to  reasonable  agent)  interpretations  ot  la,  See
+Scalia, supra  note  109,  at  516
+
+conintingl)-hat  (heisron 
+
+ie 
+
+118.  The  Chevron  Court  noted  that
+
+While  agencies  are  not  directly  accountable  to  the  people.  the  Chief  Exe.utise  i,  and  it  is
+entirely  appropnate 
+the  Go\emient  to  make  su.h  polKtt,
+choices-resolving 
+itsdlt  did  not  rIsolsc,  or
+intentionally  left  to be  resolved  by  the  agency  charged  with  the  administration  ol  the  statute in
+light of everyday  realities.
+
+for  this  political  branch  of 
+
+interests  %%hich  Congre.ss 
+
+the  competing 
+
+Chevron,  467  U.S.  at  865.  In  some  ways.  perhaps.  agencies  hase  a  stronger  demot.rati  ,  pedigree  thin
+Congress  itself, though  the  Chevron  Court  did  not  so  argue  For  an  argument  to  this  effe.t,  see  JERRY
+MASHAW,  GREED,  CHAOS.  AND  GOVERNANCE  131-57  (1997)
+119.  See  generally  MASHAW,  3upra note  118.  at  106-30
+120.  See  supra text  accompanying  note  107
+121  See infra note  125
+122.  See  infra text  accompanying  notes  130-144
+123.  See CALABRESI,  supra note  I
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+Justice  Scalia  has  argued  elsewhere  that  plain  text  always  counts  against  an
+agency  interpretation; 24  in  his  view-consistent  with  his  argument  in  this
+book-Chevron  deference  is  never  due  to  an  agency  that  counteracts  text
+(defined  by  reference  to  ordinary  understandings).  But  perhaps  this  view  is
+itself anachronistic.  Indeed,  we  ultimately  might  conclude  that  we  can  obtain
+the  right mix  of democratic  and  common law  virtues  if and  only  if we  decide
+that  the  adaptation  of statutory  text  to  particular  applications  (including  the
+exemption  of  absurd  outcomes),  and 
+the  use  of  applicable  canons  of
+construction,  is  an  entirely  appropriate  administrative task.'15
+
+On  this  view, Holy  Trinity might  be  seen  very  differently  in  the  context
+of the twenty-first century, whose  public  law would pose  as  a central  question:
+What  are  the  views  of  any  agency  charged  with  implementation  of  this
+law?"2  To  the  suggestion  that  this  position  means  that  some  statutes  (more
+accurately  their terms  in  some  applications)  might  be  lost  or misdirected  as  a
+result of new  agency  rulings, a response might  be given  in Justice Scalia's  own
+words:  "[L]ots  of once-heralded  programs  ought  to get lost  or misdirected,  in
+vast  hallways  or  elsewhere.  Yesterday's  herald  is  today's  bore-although  we
+judges,  in  the  seclusion  of our  chambers,  may  not  be  at  courant enough  to
+realize  it.' ' 27
+
+As  against  Judge  Calabresi's  plea  for  judicial  updating,  we  might  claim
+that  the  argument  itself needs  to  be  updated:  For  the  most  part,  appropriate
+to  the  problem  of  statutory  obsolescence  should  come  from
+solutions 
+administrative  agencies,  immersed  in  the  problems  at  hand  and  having  both
+technocratic  and  democratic  virtues  as  compared  to  courts.  And  as  against
+Justice Scalia,  we might urge  that administrative  agencies should be  authorized
+to  reject  the  "text"  in a way  that would  go  well  beyond  the  common  law  role
+envisaged  by  Holy Trinity, at  least  when  there  is  no  evidence  of a  considered
+
+124.  See  Scalia,  supra note  109,  at 520.
+125.  Of course, administrative judgments may  be inconsistent  with  the internal  morality  of democracy.
+If this  is  so, those  judgments  may  be  unconstitutional  or interpreted  as exceeding  statutory  authority. See,
+e.g.,  Kent  v.  Dulles,  357  U.S.  116  (1958)  (interpreting  a  statute  narrowly  so  as  to allow  a  communist  to
+travel  abroad).  My  point  here  is  that  whatever  one's  account  of  democracy,  agency  adaptation  ol  text  to
+circumstance  is generally  legitimate, at  least where  there  is no clear congressional  instruction  the other way.
+The  dictionary  definition  of  the  term  ought not  to  be  taken  to be  decisive.
+
+126.  Holy  Trinity involved  the  government  as  prosecutor,  see Church  of  the  Holy  Trinity  v.  United
+States,  143  U.S.  457,  457-58  (1892);  hence there  would  be  no  deference  under ordinary  understandings  of
+the reach  of Chevron. But see Dan  M.  Kahan,  Is Chevron  Relevant to Federal Criminal Law?,  110  HARV.
+L.  REv.  469, 493-506  (1996)  (arguing  for Chevron deference  to  the  Department  of Justice).  Even  if  Holy
+Trinity is not itself a case  for  Chevron deference,  other cases involving  the  molding of text  to  unanticipated
+applications  might  well  be  such  cases.  See,  e.g.,  Babbit  v, Sweet  Home  Chapter  of  Communities  for  a
+Greater  Or.,  115  S. Ct.  2407,  2410  (1995)  (deferring  to agency  interpretation  of the  Endangered  Species
+Act);  Les v.  Reilly, 968  F.2d  985,  987,  989 (9th  Cir.  1992)  (literally  interpreting  the Delaney  Clause,  which
+banned  carcinogens  in  food  additives);  Public  Citizen  v.  Young,  831  F.2d  1108,  1113  (D.C.  Cir.  1987)
+(same).
+
+127.  Antonin  Scalia,  The  Doctrine of Standing as an E&sential Element of the Separation of Powers,
+
+17  SUFFOLK  U.  L.  REv.  881,  897  (1983).
+
+1997]
+
+Democratic  Formalism
+
+legislative  judgment  against  the  agency's  interpretation.'2 '  In  modern  Holy
+Trinity  cases,  courts  would  not  do  the  work  on  their  own,  but  would  permit
+agencies  to engage  in  a degree  of statutory  adaptation,  not  at all  on  the  theory
+that  agencies  can  violate  the  text,  but  on  a  finding  that  agencies  reasonably
+concluded  that  despite  the  generality  of  the  text,  there  was  no  considered
+legislative  judgment  that  the  text  should  be  applied  in  a  way  contrary  to  the
+agency's  view.
+
+29
+
+Consider,  for  example,  a  fairly  conventional  case,  American  Mining
+Congress  v. EPA. 3'  Congress  had  not  clearly  dealt  with  the  problem  of  how
+to handle  materials  held  for recycling,  and  the  relevant  EPA  regulation  defined
+certain  materials  involved  in  recycling  as  "solid  waste."  In  particular,  the
+regulation  said  that  spent  materials,  sludges,  scrap  metal,  and  the  like  would
+be treated  as solid  waste  if they  were not  directly  reused  but  were  instead  held
+as  part  of  an  industry's  ongoing  production  process."'  The  EPA  reasoned
+that  materials  that  were  stored,  transported,  and  held  for  recycling  were
+associated  with  the same  kinds  of environmental  harms  as  materials  that  were
+abandoned  or  disposed  of  in  some  final  way. "2  The  court  of  appeals  struck
+down the EPA regulation on the  ground  that the governing  statute  defined solid
+and  other  discarded  material"';'" for
+waste  as  "'garbage,  refuse,  sludge  .
+the  court,  material  held  for  recycling  was  not 
+'discarded.""  Citing  the
+dictionary,  the  court  thought  that  the  "'ordinary plain-English  meaning"  was
+decisive.1 35  If the question  was  an  internal  dispute  in  a  court  of appeals  about
+the best interpretation  of a  statutory  term,  perhaps the  majority  would  be  right.
+But  the  question  involved  the  validity  of an  EPA  regulation,  produced  after  a
+complex process  involving a  number of political  interests, an  extended  process
+of intergovernmental  deliberation,  and  an  elaborate  inquiry  into  the  underlying
+issues  of substancc.  Even  if a  court  would  be  reluctant  to  adapt  the  meaning
+of a  term  like  "discarded"  to  fit  with  context-even  if  this  is a  weaker  case
+than  Holy  Trinity  for  contextual  adaptation-is  it  not  hubristic  for  judges,
+unelected  and  relatively  unknowledgeable  about  the  enormously  complex
+subject at hand,  to invoke  dictionaries  (compiled  after  all  by human  beings)  to
+invalidate  executive  branch  decisions  that  cannot  reasonably  be  said  to  run
+
+128.  Thus,  Sweet Home  Chapter  can  be  seen  as  a  case  in  which  an  agen',.  airmed 
+
+ith  a  particular
+understanding  of the  problem  at  hand  and  subject  to  democratic  controls,  is  pemitted  to adapt  a statutory
+term  as  it  sees  fit,  regardless  of  what  dictionanes  say  See  Sit ert Home  Chapter.  115  S  Ct  at  24 1 N
+(referring to agency  competence).  This is only  a possible  example because  the statutor)  term.  "ham."  might
+well  be  taken  as  ambiguous.  See  id. at  2411-18
+
+129.  On  this  view, the cases  interpreting  the  Delaney  Clause  literally  %rec wrongly  decided  See Le,
+
+968  F.2d  at  990;  Public Citizen, 831  F.2d  at  1123
+
+130.  824  F.2d  1177  (D.C.  Cir.  1987)
+131.  See  id.  at  1179.
+132.  See  id.
+133.  Id. (quoting  42  U.S.C.  § 6903(27)  (1986))
+134.  Id.  at  1185-86
+135.  Id. at  1184  n.7.
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+afoul  of  any  judgment  from  Congress?  The  EPA's  decision  followed  a
+sustained  period  of public  comment,  and  undoubtedly  the  government  would
+be  held  accountable  for  any  decision  about  the  reach  of  the  Resource
+Conservation  and  Recovery  Act  of  1976.136  If the  EPA's  decision  runs  afoul
+of dictionary  decisions  but  of no  actual  decision by  Congress,  should  it  really
+be  struck  down?
+
+Or  consider  an  especially  important  recent  case,  upholding  the  power  of
+the  FDA  to  regulate  tobacco  products  as  "drugs"  or  "devices. ' 37  The  FDA
+contended  that the  current  meaning  of the Federal  Food,  Drug,  and  Cosmetic
+Act, 3 "  as  enacted  in  1938,  allows  it  to  regulate  tobacco  products.' 
+At
+first  glance,  it  seems  clear  that  in  1938,  the  terms  "drug"  and  "device"  were
+not  understood  to  include  tobacco  products. 4  But  might  not  an  executive
+agency,  subject  as  it  is  to  political  checks  and  immersed  as  it  is  in  the
+technical  details,  be  entitled  to  interpret  those  terms  to  include  tobacco
+products  in  1997?  The  statute  defines  "drug"  to  include  articles  "intended  to
+affect  the  structure  or  any  function  of the  body  of man  or  other  animals,"''
+and  it  defines  "device"  to  include  any  "article"  that  is  similarly  intended  and
+that "does  not achieve  its  primary  intended  purposes"  through  chemical  action
+or  through  being  metabolized.' 42  The  court  held  that  the  FDA  could  rely  on
+foreseeability,  consumer use, and internal  manufacturer memoranda to establish
+intended  use  "to  affect  the  structure  or  any function  of the  body.' 1 3 And  the
+court added that the FDA could  conclude that tobacco products  contain  "device
+components"  designed to ensure an  (admittedly  indirect)  effect on the  structure
+or  function  of the  body.'"  What  is  striking  about  the  court's  conclusions  is
+that  they  were  based  not  on the  ordinary  understanding  of  the  statutory  terms
+at  the time  of enactment,  but  on the agency's  authority  to interpret  those  terms
+in  a  way  consistent  with  (what  accountable  and  informed  officials  could
+conclude  is)  their  current  meaning.
+
+Without  attempting  to  resolve  the  underlying  issues  here,  I think  that  the
+court's  decision  is  reasonable  and  probably  correct.  To  be  sure,  the  original
+meaning  of "drug"  and  "device"  may  not,  to  the  relevant  community,  have
+
+136.  42  U.S.C.  §§  6901-6992k  (1994).
+137.  See  Coyne  Beahm,  Inc.  v.  FDA,  966  F.  Supp.  1374  (M.D.N.C.  1997).
+138.  21  U.S.C.  §§  301-395  (1994).
+139.  See  Coyne  Bealun,  966  F. Supp.  at  1379  (citing 21  U.S.C.  § 321(g)-(h)).
+140.  The qualification  "at  first glance"  is necessary  because  it  is unclear whether the community  would
+take  Congress  to  have referred  to  existing  understandings  of  what count  as  drugs  and  devices  or to  have
+set out a general concept whose particular content would or should vary over time, with new  understandings
+of fact  and  value.  If the  second  view  is  correct,  then  Coyne Beahmn  is rightly  decided  even  under Justice
+Scalia's  view of interpretation.  What  I am suggesting  here  is that  the case  is  probably  right even  if the  first
+view  is  correct.  In  reality  it  is  unlikely  that  there  was  a  general  understanding  one  way  or  the  other.
+
+141.  21  U.S.C.  § 321(g)(l)(c).
+142.  21  U.S.C.  § 321(h)(3).
+143.  Coyne  Bealun,  966  F.  Supp.  at  1389-91.
+144.  Id. at  1394.
+
+19971
+
+Democratic  Formalism
+
+included  tobacco  products.4 5  But  Congress  enacted  general  terms,  not  its
+particular  understandings  of  what  those  terms  meant.  And  in  view  of  new
+judgments  about  relevant  facts  and  belief-influenced  changes  in  values,  it
+seems  appropriate  to  allow  a  specialized  agency,  accountable  as  it  is  to
+political  forces,  to  interpret  these  (general  and  ambiguous)  terms  as  it  did  in
+1997.  There  can be  little doubt  that  the  FDA's  decision  was  a  product  of a  set
+of legitimate  political  influences  and  that  it emerged  after  a  sustained  period
+of highly  visible deliberation  on  the  issues  at hand,  with  involvement  from  the
+President  himself.  And,  of course,  Congress  can  override  the  interpretation  if
+it chooses.
+
+A broader  conclusion  follows.  It is  one  thing  to  say  that  courts  should  be
+permitted  to  reject  original  meaning  in  favor  of  current  meaning'  it  is quite
+another thing  to  say  that  agencies,  with  their  comparative  advantages,  should
+be permitted  to do  precisely  that.  These  are separate  debates,  and  it  is  possible
+to  resolve the first question  against  the  courts  while  at  the same  time  resolving
+the  second  question  in  favor of the  agencies."'  What  is  disappointing  is  that
+Justice Scalia  does  not discuss  these  issues,  which  link  his  interests  in statutory
+interpretation  and  administrative  law,  and  which  cast  a  new  light  on the  court-
+legislature  interactions  that  concern  him  here.
+
+D.  An  Analogy
+
+Allowing  appropriate  adjustments  for  administrative  law,  we  can  better
+understand  statutory  interpretation  if we  borrow  from  the  law  of contract.  It is
+largely  of  default  rules,
+now  familiar  to  see  contract 
+
+law  as  consisting 
+
+specifying  how  to  understand  gaps  or  silences  from  the  parties  and  also  how
+that  seem  vague  or  ambiguous. '   The  law  of
+to  understand  provisions 
+contract  contains  three  kinds  of  default  rules.  First,  some  default  rules  are
+designed  to  find  out  the  instructions  of  the  parties.  What  would  they  have
+done,  if they  had  made  provision  on  the  point?  Such  default  rules  are  market-
+mimicking."4 8  Second,  some  default  rules  are  designed  not  to  implement  the
+parties'  will,  but  to  impose  on  the  party  who  can  do  so  most  cheaply  the
+incentive  to  make  a  clear  provision  on  the  point.'  Default  rules  of  this  kind
+
+145.  An  underlying  issue  is  that  sometimes  Congress  enacts  a  geneial tcm.  ha'.inC  a  paxii.ular
+understanding  of the term's  meaning,  but with  a complementary  understanding that  the meaning  ,l the term
+may  and should  shift over  time;  consider the  terms  "public  polic%"  "reasonable.'  and  * p,.Lhopatht.  " See
+ESKRIDGE,  supra note  4,  at  61-64;  SUNSTEIN,  3upra note  i0s, at  174.7h
+
+146.  It  follows that  the  enterprise  of translation  might  %ell be  permissible  lot  agenties  shether  or  not
+insiati0 Of LUitsttutinal
+
+it  is  permissible  for the courts.  See generally  Lessig. 3upra note  53  targuing  101 
+meaning).
+
+147.  See Ian  Ayres  &  Robert  Gertner,  Filling Gaps  in  Incomplete Contrat t3 An  Et ononut  Thr ot  of
+
+Default Rules,  99  YALE  L.J 87  (1989)
+
+148.  See  id. at  97-100.
+149.  See  id.;  see  also U.C.C  §  2-201  (1989)  (setting  iorh the  statute  of  Iraudsi,  Jesien  % Ashland.
+
+281  N.W.2d  210  (Neb.  1979)  (applying  the  statute  oi  Irauds)
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+are information-eliciting,  intended not to  mimic the parties'  wishes  but to make
+sure  that those  wishes  are  made  clear  by  the  parties  themselves.  It also seems
+clear  how  to  choose  between  market-mimicking  and  information-eliciting
+default  rules.  If the  court  is  clear  on  what  the  market-mimicking  rule  is,  it
+should  choose  that  rule.  But  if the  court  is  unsure  on  that  question-if  the
+costs  of decision and  costs  of error for the judge  seeking to discern  the  market
+mimicking  rule  are  very  high-the  court  might  do  better  to  impose  an
+information-eliciting  default,  designed to penalize  the party  in the  best position
+to  make  explicit  provision  for  the  matter  at  hand.
+
+Courts  also  have  a  third  kind  of default  rule.  Some  such  rules  are  based
+on  considerations  of  public  policy  that  have  little  or  nothing  to  do  with
+implementing  or  eliciting  the  parties' 
+Such  considerations
+might  involve,  for  example,  the protection  of third  parties,  or they  might  be
+intended  to  shift  the  parties'  preferences  and  values  in  a  certain  direction.
+
+instructions.' 
+
+Much  of legal  interpretation  is,  or  is  about,  default  rules.'5  Now,  it  may
+be  tempting  to  suppose  that  federal  courts,  lacking  common  law  authority,
+ought  not  to  use  such  rules,  and  that  statutory  construction  should  proceed
+without  them.  But  a  moment's  reflection  should  show  that  statutory  default
+rules,  in  some  form,  are  not  so  much  desirable  as  inevitable.  As  the  law  of
+contract  helps  reveal,  words  cannot  have  meaning  without  background
+understandings  of various  sorts.  Usually  those  understandings  are so  taken  for
+granted,  so  highly  internalized,  that  they  seem  invisible,  and  part  of  the
+necessary  meaning  of  words.  But  they  are  nonetheless  in  place;  they  make
+communication possible. And often legal interpretation  is possible only because
+of background  principles  or rules,  some of them so  taken  for granted  that  they
+are  invisible,  some  of  them  contested  enough  to  be  visible  but  not  highly
+controversial,  some  of them  at  the heart  of spirited  debates  in  public  law.  If,
+for  example,  a  federal  statute  does  not  say  whether  state  law  is  preempted,
+what  happens?  If a  statute  is  silent  on the existence  of private  rights  of action,
+do such  rights exist?  A default  rule,  principle, or presumption  is  necessary  one
+way or the other. The  legal system  cannot proceed  without them.  The  question
+is  not whether to  have statutory  default  rules but  which  statutory  default  rules
+to  have.
+
+Some  default  rules152  may  be  designed  to  find  out  the  legislature's  actual
+
+150.  See, e.g.,  Petermann  v.  Teamsters,  344  P.2d  25,  27  (Cal.  Ct.  App.  1959)  (holding  that  "in  order
+to  more  fully  effectuate  the  state's  declared  policy  against  perjury,  the  civil  law,  too,  must  deny  the
+employer  his  generally  unlimited  right to  discharge  an employee  whose employment  is  for  a unspecilied
+duration,  when the  reason  for the  dismissal  is  the employee's  refusal  to  commit perjury").
+
+151.  See generally  Cass  R. Sunstein, Interpreting Statutes in the  Regulatory State,  103 HARV.  L. R V.
+
+405,  453-54  (1989).
+
+152.  As  the  previous  paragraph  suggests,  the  term  "rules" 
+
+is  not  entirely  accurate.  Sometimes  the
+background  understandings  operate  as  presumptions  or  principles, not  as  rules.  I use  the  term  "rules"  as
+a placeholder for a wide range  of background understandings, many of them, technically speaking,  not  rules
+at all.
+
+1997]
+
+Democratic  Formalism
+
+instructions.  Such  rules  are  the analogue,  in  statutory  interpretation,  of market-
+mimicking  default rules.  But  statutory  default  rules  might  also  operate  to  elicit
+information,  with  the purpose  of encouraging  Congress  to  act  in  a  certain  way,
+by creating  appropriate  incentives.  Courts  might,  for example,  ask  which  party
+is  in the  best  position  to  correct  any  errors  in  Congress  or  ask  which  approach
+is  likely  to  ensure  that  Congress  will  legislate  clearly.  Some of Justice  Scalia's
+jurisprudence  is  best  understood  as  a  series  of  information-eliciting  default
+rules.  Textualism  itself  has,  as  part  of  its  defense,  the  idea  that  it  will
+encourage  Congress  to  state  its  will  clearly.  Similarly,  the  ban  on  use  of
+legislative  history  imposes  on  Congress  an  incentive  to  say  what  it  means  in
+the  constitutionally  favored  form.  We  can  also  understand  some  statutory
+default rules  as  having purposes  not  involving  congressional  instructions;  these
+are  the  analogue  to  "public  policy"  defaults  in  the  law  of contract.  Consider
+the  ideas  that  statutes  will  be  construed  favorably  to  Native  Americans, t '
+that  statutes  will  be  construed  so  as  not  to  raise  constitutional  doubts,"'  and
+that  statutes  will  be  construed  so  as  not  to  preempt  state  law.'"
+
+Justice  Scalia 
+
+is,  as  noted,  skeptical  of  these  kinds  of  interpretive
+principles,  on the ground that  they  have unclear  foundations  in sources external
+t
+to judicial  will  and  are  too  likely  to  represent  some  judicial  "power-grab."  "
+But  some  such  principles  are  inevitable,  and  in  any  case  Justice  Scalia  is  not
+at  all  skeptical  of  the  crucially  important  idea  that  statutory  ambiguities  will
+be  resolved  by  the  agency  charged  with  implementing  the  relevant  statute,"'
+nor  is  he  unwilling  to  qualify  that  very  principle  by  reference  to  some  clear
+statement  principles  that  operate  as  information-eliciting  defaults.'5  The
+contract  law  analogy  shows  that  terms  have  no  meaning  without  default  rules
+and  that  there  is  a  place  for  default  rules  that  serve  purposes  external  to  the
+will  of  the  parties;  it  also  helps  us  disentangle  the  diverse  functions  of  the
+interpretive  principles  favored  or,  for that  matter, disfavored  by Justice  Scalia.
+In any case  much work  remains  to  be  done  on the  relationship  between  default
+'
+rules  in contract  law  and  default  rules  in  the  law  of statutory  interpretation.
+
+153.  See,  e.g.,  Montana  v.  Blackfeet  Tribe  of  Indians,  471  U  S  759.  766  (1985)
+154.  See,  e.g.,  Edward  J.  DeBartolo  Corp.  v. Flonda  Gulf Coast  Bldg  & Consir  Tra des Council.  485
+
+155.  See,  e.g.,  Puerto  Rico  Dep't  of  Consumer  Affairs  v  Isla  Petroleum  Corp.  485  U S  495.  503
+
+U.S.  568,  574  (1988).
+
+(1988).
+
+156.  See supra text  accompanying  notes  40-41.
+157.  See, e.g.,  INS  v.  Cardoza-Fonseca,  480  U.S  421.  453-55  (1987)  (Scalia.  J  . concumng)
+158.  See  EEOC  v.  Arabian  Am.  Oil  Co.,  499  US.  244.  259-60  (1991) 
+
+(Sc -ia, 
+
+the  extratemtonal  application  of  American 
+
+J.  concurring)
+law.
+
+(invoking  a  clear  statement  pnnciple  against 
+notwithstanding  the  view  of the  relevant  agency),
+
+159.  I  am  grateful  to  Richard  Craswell  and  Einer  Elhague  for  valuable  discussion  of  the  analogy
+
+between  contractual  and  statutory  default  rules
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+III.  THE  CONSTITUTION  AND  THE  COMMON  LAW
+
+Justice  Scalia's  attack  on  a  version  of common  law  constitutionalism,  in
+favor  of  a  species  of  originalism,  raises  a  number  of questions,  and  I will
+attend  to  only  a  few  of them  here. 6
+
+A.  Originalisms
+
+Are  we  all  originalists  now?  In  the  commentaries  in  this  book,  Ronald
+Dworkin 6'  and  Laurence  Tribe 62  write  as  originalists,  and  with  suitable
+qualifications,  most  of their  work  can  fly  comfortably  under  the  originalist
+banner.  For  most  participants  in  the  continuing  debates,  the  question  is
+emphatically  not  whether  the  original  understanding  is  controlling;  it  is  how
+the  original  understanding  is  best  understood.  Some  people  think  that  the
+original  understanding  is  best taken  as  setting out  abstract  moral  principles.'6 3
+Others 
+abstract
+principles' 6  -in  the context  of the ban  on  cruel  and  unusual  punishment,  for
+example, 
+fact  cruel  and
+unusual."" 65  Still  others  think  that  however  the  original  understanding  is
+described,  its  provisions  must  be  "translated"  in  order  to  be  applied  to  new
+problems.  66
+
+it  "'forbid[s]  whatever  punishments  are 
+
+understanding 
+
+the  original 
+
+points 
+
+think 
+
+that 
+
+in 
+
+to 
+
+Justice  Scalia  claims  that  he  does  take  the  Constitution  to  embody
+"abstract  principles."  What  it  sets  forth  "is  not  a  moral  principle  of  'cruelty'
+that  philosophers  can  play  with  in  the future,  but  rather the  existing  society's
+assessment  of  what  is  cruel."'' 67  Thus,  the  Eighth  Amendment  is  to  be
+understood  not  by  "'what  we consider  cruel  today"'  but  instead  by  "the  moral
+perceptions  of  the 
+this  formulation  raises  many
+
+8  Of  course, 
+
+time." '
+
+160.  Thus  I do  not  discuss,  except  in  passing,  the  following  questions:  (1) Is  Justice  Scalia  a  good
+originalist?  (2)  Did  the Framers  understand  constitutional  interpretation  in  originalist  terms,  or did  they
+favor  some other  method?  (3) Is  it  appropriate  for an  originalist  to focus  on  the  particular expectations  the
+original  community  had  of a  provision's  reach,  or should  originalists  look  elsewhere?
+
+161.  See  Ronald  Dworkin,  Cormnent, in  A  MATrER  OF  INTERPRETATION,  supra note  6, at  115.
+162.  See Tribe,  supra note  37.
+163.  See,  e.g.,  Dworkin,  supra note  161,  at  115,  126.
+164.  Dworkin,  who  says  that  he  is  a  "semantic  originalist,"  is  interested  in  what  the  Constitution
+"says,"  and  claims  that what  it "says"  is  a matter  of abstract principles.  See  id. at  119,  122,  126.  But what
+it  "says"  is a  function of our account  of interpretation,  and it  does not contain abstract  principles  unless  we
+have  decided,  according  to  our  (pre-  or  extra-semantic)  account,  that  it  should  do  so.  Thus,  Dworkin's
+approach,  insofar  as  it  is about judicial  review,  must  be rooted  in  arguments  about  institutional  capacities.
+Dworkin  expressly  recognizes  this  point and  makes  some  such  arguments.  See DwORKIN,  supra note  57,
+at  373-79.
+
+165.  Scalia,  supra note  37,  at  145  (discussing  Dworkin's  method  of analysis  and  quoting  Dworkin,
+
+166.  See, e.g., Lawrence  Lessig,  Translating Federalism: United  States v.  Lopez,  1995  SUP.  CT. REV.
+
+supra note  161,  at  115,  120).
+
+125,  131-35.
+
+167.  Scalia, supra note  37, at  145.
+168.  Id.
+
+1997]
+
+Democratic  Formalism
+
+questions.  How  do  we  characterize  the  moral  perception  of the  time9  At  what
+level  of  abstraction?  Apparently  Justice  Scalia  believes  that  it  must  be
+characterized  at  a  relatively  low  level  of abstraction;  his  claim  that  the  death
+penalty  cannot  possibly  violate  the  Eighth  Amendment's  *'abstract  moral
+principle"' 69  appears  to  be  rooted  in  the  fact  that  the  moral  prnciple  held  by
+the  founding  generation  did  not  appear,  to  the  Founding  generation,  to  forbid
+the  death  penalty.  But  this  raises  many  further  questions.  Does  it follow  that
+the  Equal  Protection  Clause  permits  school  segregation*?  That  the  national
+government,  not  bound  by  the  Equal  Protection  Clause,  can  discriminate
+however  it  wishes?  That  the  First  Amendment  does  not  disturb  the  common
+law  of libel?
+
+Justice  Scalia  does  not answer  these  questions.  I emphasize  this  point  not
+to  say  that  the  originalist  will  necessarily  arrive  at  unacceptable  results," '  but
+to  suggest  that  there  is  not  one  kind  of  (canonical)  originalism  but  a  wide
+range  of (plausible)  originalisms.  Justice  Scalia  has  not  adequately  defended
+the  particular  kind  that  he  favors.
+
+B.  Originalism and Stare Decisis
+
+There  is  a  pervasive  problem  for  originalists:  how  to  handle  precedents
+that  depart  from  originalism.  In  many  areas  of constitutional  law,  onginalism
+as Justice  Scalia  understands  it has  been  repudiated  for a  fairly  long  time,  and
+key  provisions  now  mean  something  other  than  what,  on  Justice  Scalia's
+version  of originalism,  they  were  originally  understood  to  mean.  The question
+goes  to the  heart  of the  relationship  between  the  Constitution  and  the  common
+law  method.  Common  law  lawyers rely  heavily  on the doctrine  of stare  decisis;
+it  is  a foundation  of their  method.  How  should  those  skeptical  of common  law
+constitutionalism  deal  with  the  resulting  doctnne?
+
+flag 
+
+burning. 
+
+(involving 
+
+Commenting  in  this  volume,  Professor  Tribe  argues  that  Justice  Scalia  is
+not  really  an  originalist  at  all.  Tribe  objects  that  in  several  First  Amendment
+animal
+cases 
+sacrifice173 ),  Justice  Scalia  has  voted  to  strike  down  statutes  not  inconsistent
+with  the  original  understanding,  narrowly  understood.'"  But  Justice  Scalia
+acknowledges  the  problem.  He  answers  that  his  votes  are  attributable  not  to  a
+belief that  the  First  Amendment  sets  out  aspirations  whose  content  changes
+over time, but  to the  unblinkable  fact  that  for the  First Amendment  "the  Court
+has  developed  long-standing  and  well-accepted  principles  (not  out  of  accord
+
+burning,": 
+
+cross 
+
+and 
+
+169.  Id.
+170.  See infra notes  194-196  and accompanying  text
+171.  See Texas  v  Johnson.  491  U S  397  (1989)
+172.  See R.A.V  v. Cin  of St  Paul.  505 U S 377  (19921
+173.  See  Church  of the  Lukumi  Babalu  Ave.  Inc  v  City  ol  Hialeah.  508  .S 520  14,93)
+174.  See Tribe,  3upra note  37.  at  80-81
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+the  general  practices  of  our  people,  whether  or  not 
+required  as  an  original  matter) 
+The  point  of  originalism  is  thus  not 
+
+they  were
+with 
+that  are  effectively
+constitutionally 
+to  "roll[]  back...
+irreversible.' 
+accepted  old  principles  of  constitutional  law"  but  to  reject  "usurpatious  new
+ones."'' 7   Justice  Scalia  explains  in  this  fashion  his  recent  votes  against
+"novel  constitutional  rights"-the  right  against  excessive  damage  awards,'7
+
+the  right  against  being  excluded  from  government  contracts  because  of party
+affiliation,'78   and 
+single-sex
+schooling.
+
+the  novel  constitutional  ban  on  some 
+
+79
+
+Now,  this  is  a  large  problem,  faced  in  some  form  by  every  Justice,  and
+Justice  Scalia cannot  be  faulted  for failing  to  resolve  it  in a  brief essay  and  an
+even  briefer  reply  to  critics.  But  the  difficulty with  his  claim  here  is  that  it  is
+very  hard  to  know  when  an  originalist judge,  concerned  to respect  precedent,
+is  applying  "accepted  old  principles"  or  instead  creating  "new  constitutional
+rights."  Would  it  not  be  equally  plausible  to  say  that  in  the  nonoriginalist
+judgments  that Justice Scalia joined  the Court created  new  rights,  for example
+the  right  to  bum  the  flag  and  the  cross,  and  the  right  to  sacrifice  animals?
+Would  it  not  be  plausible  to  say  that  in  the  judgments  from  which  Justice
+Scalia  dissented, 8 °  the  Court  largely  applied  principles  developed  in  older
+cases  forbidding  government  from  using  outmoded  sex  stereotypes  as  a  basis
+for  segregating  schools"'  or  from  conditioning  employment  on  party
+affiliation?'
+
+2
+
+To  answer  these  questions,  everything  depends  on  the  level  of generality
+at  which  old  principles  or  new  rights  are  described.  The  precedents  in  such
+areas  as  sex equality  are  well-entrenched,  and  Justice  Scalia offers  no  basis on
+which to  distinguish between  a  refusal to create  "new rights" and a  willingness
+to  follow  "old  principles."  There  is  also  a  risk  that  the  originalist  judge,
+refusing to extend  the principles  reflected  in old cases,  will ensure  incoherence
+in  the  law,  and  thus  a  form  of unfairness,  since  similarly  situated  people  will
+to  as  the  Bowers  v.
+not  be  treated  similarly.  This  might  be  referred 
+Hardwick'83  problem:  "Thus  far  and  no  more!"  does  not  produce  much
+
+175.  Scalia,  supra note  37,  at  138.  It  is  worthwhile  to  note  that  there  are  two  points  here:  judicial
+understandings  and consistency  with  "general  practices  of our people,"  a notion  that  raises  questions  of its
+own.
+
+176.  Id. at  139.
+177.  See BMW  of N.  Am.,  Inc.  v.  Gore,  116  S.  Ct.  1589,  1610-14  (1996)  (Scalia,  J.,  dissenting).
+178.  See  O'Hare Truck  Serv.,  Inc.  v.  City  of Northlake,  116  S. Ct.  2353,  2361-74  (1996)  (Scalia,  J.,
+
+dissenting).
+
+179.  See  United  States  v.  Virginia,  116  S.  Ct.  2264,  2291-309  (1996)  (Scalia,  J.,  dissenting).
+180.  See,  e.g.,  O'Hare Truck  Sent., Inc.,  116  S. Ct.  at  2361-74  (1996)  (Scalia  J.,  dissenting);  United
+
+States v.  Virginia, 116  S. Ct.  at 2291-309  (1996)  (Scalia  J.,  dissenting).
+
+181.  See  Mississippi  Univ.  for Women  v.  Hogan,  458  U.S.  718  (1982).
+182.  See  Branti  v.  Finkel,  445  U.S.  507  (1980);  Elrod  v.  Burns,  427  U.S.  347  (1976).
+183.  478  U.S.  186,  194-95  (1986)  (arguing  that  the  Court  should  not  expand  the  category  of
+
+fundamental  rights).
+
+1997]
+
+Democratic  Formalism
+
+in 
+
+the 
+
+this 
+
+law.' 4   Perhaps 
+
+sacrifice 
+
+is 
+and
+inevitable 
+coherence 
+worthwhile-if  it  is  the  only  way  to  restore  judicial 
+legitimacy  without
+renovating existing law-but it  creates  problems  of its own. To decide  whether
+the resulting incoherence,  and dissimilar  treatment of the similarly situated,  are
+worthwhile,  it  is  necessary  to  balance  the  extent  of the  unfairness  against  the
+value  of preventing  further  mistakes.  This  is  a  large  problem,  faced  by anyone
+with  confidence  in  a  particular  method  of interpretation,  and  I cannot  resolve
+it here.
+
+C.  Why  (and Which)  Originalism ?
+
+As  Justice  Scalia  knows  and  acknowledges,  the  original  understanding
+cannot be  decisive simply  because  it  was the  original  understanding.  A defense
+of using  the  original  understanding  must  itself be  independent  of the  original
+understanding  and  thus  must be  made out in  terms of political  theory and  good
+empirical  assessments  of institutional  competence.t8 5  Lawyers  cannot  defend
+use  of  the  original  understanding, 
+let  alone  any  particular  species  of
+originalism,  by  reference  to  history.  (Nor  can  they  defend  an  approach  other
+than Justice  Scalia's  by  reference  to originalism.)  The question  of whether  the
+original  understanding  of an  old  text  should  bind  current  generations  is  not  at
+all  simple-why  on  earth  should  current  Americans  be  bound  by  some
+understandings  of  some  votes  by  some  segment  of  the  citizenry  over  two
+centuries  ago?' 8 -- and  a  reference  to  "democracy," 
+though  a  good  start,
+cannot  provide  the necessary  legitimation.
+
+Justice  Scalia  suggests  that  his  version  of  originalism  will  limit  the
+policymaking  authority  of federal  judges,  and  this  is  very  plausibly  true.  But
+he also  5uggests-and  this is  mostly  how  he  makes  his  argument-that  judges
+have  only  two  real  alternatives:  Follow  the  original  understanding  as  he
+understands  it  or  basically  do  whatever  they  want.  This  is  implausible.  Both
+originalist  and  nonoriginalist  judges  come  in  many  different  stripes,  and  the
+
+184.  I am  pointing  here  to  violations  of  integrity,  as  Dworkin  understands  that  ideal  See  DwORK,
+
+supra  note  57,  at  176-224.
+
+185.  Justice  Scalia  sees  this  point  and  refers  to  separation  of powers.  see  Scalia. supra  note  7.  at  9.
+and to  democracy,  see id. at  9-12.  These  are  certainly  good  places  to  start,  but as  we  will  see  they  are no
+more than that.  It is  necessary  to specify  these  concepts  in  order to get  them  to do the  necessary  work.  and
+the  ideal of democracy  by  itself does  not  support originalism  or  a constrained judicial  role  See  MASHAW.
+supra  note  118,  at 201-02  (discussing  flaws  in  the  usual  presentation  of the countermajontanan  difficulty)
+This  ideal  is  too  abstract  and  contested  to  support  a  particular  view  of interpretation,  and.  for  reasons
+suggested  below, see  infra text  accompanying  notes  189-193,  once  specified,  the  ideal  is best  understood
+to  allow  courts  a  modest  but  hardly  trivial  role.
+
+186.  Of course,  the  ratiflers  excluded  all  women  and  most  African  Americans  In  fact.  the  question
+why  the Constitution  itself is  binding  is  not  entirely  simple.  To  say  that  it  is not  simple  is not  to suggest
+that we should  not take  it to  be binding;  undoubtedly  we  should,  partly  for simple,  pragmatic  reasons  See
+CASS  R.  SUNSTEIN,  THE  PARTIAL  CONSTITtTION  93-102  (1993).  But  the  mix  of argumer.ts  that  make  the
+Constitution  binding  do not  make  the  original  understanding,  as  Justice  Scalia  would describe  it. binding
+See  id.
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+the  alternative 
+
+distinctions  among them  require  a  good  deal  of attention.  Since  Justice Scalia
+to  his  brand  of  originalism  as  free  floating
+describes 
+constitutional  creativity,  the  discussion  is  unduly  loaded  from  the  beginning.
+The  debate  over  methods  of constitutional  interpretation  cannot  sensibly  be
+resolved  by  suggesting that  anyone  who disagrees  is  inviting judges  to rule  as
+they  wish.
+
+Let  us  imagine  some  more  reasonable  alternative  positions.  We  can
+imagine  judges  who  care  a  great  deal  about  history,  but  who  explore  history
+to  identify  not  particular  understandings  of particular  problems,  but  overall
+goals  and  purposes.  We  can  imagine judges  who  think,  for  example,  that  the
+First Amendment,  understood  in  light of its  historical  roots,  is  centered  above
+all  on  the  preconditions  for  democratic  self-government,'87  and  that  this  idea
+calls  for some particular  results  contrary  to the  originalist  understanding-for
+example  limits  on  use  of the  law  of libel  by  public  officials.  We  can  imagine
+judges  who  think  that  interpretation  calls  for  something  like  an  act  of
+including  unforeseen
+translation 
+developments  not  only  of  fact  but  also  of  value. 8 8  Attentive  to  issues  of
+democratic  theory  and  the  rule  of law,  such  judges  may  well  try  to  devise
+strategies  to  reduce  their  own  discretion  and  policymaking  authority.  They
+might, for  example,  care a great deal  about precedent,  using previous  holdings
+and  rationales  to  discipline  their own  discretion.  They  might  also  think  that
+courts should  be reluctant to  invalidate  outcomes  of electoral  processes  unless
+it is  very  clear  that  something  has  gone  wrong.
+
+to  accommodate  new  circumstances, 
+
+Such judges  might emphasize-and  this is particularly  important-that  the
+case  for  judicial  intrusion  is  strongest,  under  an  ambiguous  constitutional
+provision, when  there  is  some defect  in the  process  of democratic  deliberation
+that  gave  rise  to  the  relevant  law.'89  Despite  Justice  Scalia's  presentation
+here,  democracy  should  not  be  identified  with  the  outcomes  of majoritarian
+politics;  it  is  no  mere  statistical  affair.  Whatever  emerges  from  a  particular
+political  process  should  not  be  identified  with  the  ideal  itself. 9'  Democracy
+comes  equipped  with  its  own  internal  morality,'9'  which  constrains  what  a
+
+187.  See  Justice  Breyer's  suggestion  to  this  effect  in  Turner Broadcasting System,  Inc.  v.  FCC, 117
+
+S.  Ct.  1174,  1204 (1997)  (Breyer,  J., concurring).
+188.  See generally Lessig, supra note  53.
+189.  Of course,  JOHN  HART ELY,  DEMOCRACY  AND  DISTRUST  (1980),  is  the classic  statement  of this
+
+position.
+
+190.  See JORGEN  HABERMAS,  BETWEEN  FACTS  AND  NoRms  274-86  (William  Rehg trans.,  1996). For
+relevant  work  from  quite  different  angles,  see  AVISHAI  MARGALIT,  THE  DECENT  SOCIETY  (Naomi
+Goldblum  trans.,  1996),  which  suggests  that  a  decent  society  ensures  that  its  own  citizens  will  not  be
+"humiliated"  by  official  institutions;  and  MASHAW,  supra  note  118,  at  202,  which  suggests  that  "a
+moment's reflection  on the  teaching  of voting theory  makes  clear that  whatever  the  difficulty  with judicial
+review,  countermajoritanism  is  an  odd  way  to  put  the  problem."  Margalit's  suggested  ban  on  official
+humiliation  might  well  be  taken  to  be  part  of democracy's  internal  morality.  Cf. Romer  v.  Evans,  116  S.
+Ct. 1620 (1996)  (holding  that  an  amendment to the  Colorado  Constitution  denying legislative,  judicial, and
+executive  antidiscrimination  protection  to  homosexuals  violated  the  Equal  Protection  Clause).
+
+191.  See  HABERMAS,  supra note  190,  at  274-86;  SUNSTEIN,  supra note  186,  at  162-94.
+
+1997]
+
+Democratic  Formalism
+
+majority  may  do,  consistent  with  the  commitment  to  democracy.  A  majority
+may  not,  for  example,  disenfranchise  people,  impose  a  regime  of  political
+inequality,  or act  solely  on  the  basis  of contempt  for  fellow  citizens.'
+
+Judges  of this  kind  come  in  many  shapes  and  sizes; they  might  well  think
+of  themselves  as  originalists.  What  matters  is  that  such  judges  are  much
+influenced  by  the  common  law  tradition,  and  it  is  by  no  means  clear  that
+judges  of that  kind  have  less  legitimacy  or are  worse  than  oiginalist judges  of
+the  kind  that  Justice  Scalia  favors.  A  federal  judiciary  that  proceeds  in
+common  law  fashion  and  that  treats  constitutional  rights  as  aspirations  (given
+content  by  concrete  cases  and  invoked  sparingly  to  invalidate  the  outcomes  of
+ordinary  politics)  might  well,  because  of its  very  insulation,  produce  a  better
+system  of  constitutional  democracy.  It  might  do  so  because  it  has  certain
+advantages  in  deliberating  on  questions  of  basic  justice,'  or-in  my  view
+far more  likely-it  might  do  so  because  and  to  the  extent  that  it  focuses  on
+ensuring  the  preconditions  for  a  well-functioning  democratic  regime.  Justice
+Scalia  thinks  that,  even  if  this  is  true,  a  judicial  role  of  this  kind  is
+fundamentally  illegitimate  and  without  authority,  because  it is  not  authorized
+by  the  Constitution.  But  the  Constitution  does  not  set  out  the  principles
+governing  its  own  interpretation;  certainly  the  Constitution  itself  does  not
+contain  an  interpretive  principle  of  originalism.  Any  judgment  about  the
+appropriate  content  of governing  interpretive  principles  must  invoke  not  the
+Constitution but  political theory  of some  kind.  The  claim that  the  text  must  be
+interpreted  in light  of the  original  understanding  as  Justice  Scalia  conceives  it
+is  not  an implausible  argument.  But  it  depends both  on contested  ideals  and on
+highly  contingent  and 
+largely  empirical  claims  about  what  system  of
+interpretation  is  likely  to  be  or  to do  best,  all  things  considered.
+
+For  America,  what  system  of interpretation  would  in  fact  be  or do  best?
+The  past  offers  no  clear  answer,  but  it  is  a  good  place  to  start.  It  is  highly
+relevant  that an originalist  approach  of the sort  favored  by Justice  Scalia would
+have  very  dramatic  consequences  (not  acknowledged  or  discussed  in  his
+essay). 94  Such  an  approach  may  well,  for  example,  mean  that  Brown  v.
+Board of Education,'95 the  cornerstone  of  modem  equal  protection  doctrine,
+is  wrong;  that  New  York  Timres  Co.  v. Sullivan,'" 
+the  cornerstone  of modern
+free  speech  doctrine,  is  also  wrong;  that  the  Establishment  Clause  does  not
+
+192.  This  latter point  underlies  Romer  v. Evans, 116  S Ct  at  1627.  see  also Cass  R  Sunsteim.  The
+Supreme Court,  1995  Term-Foreword: Leaving  Things  Undecided. 110  HARv  L  Riv  4.  59-64  t1996)
+
+193.  See  BICKEL,  supra note  57, at  23-28.  A  more  recent  version  of  the argument  can  be  found  in
+
+DWORKIN,  supra  note  57, at  373-79.
+
+194.  I am not arguing that  originalism of the form  that Justice  Scalia  defends would  inevitably  produce
+these  outcomes.  I am  only  suggesting  that  it  is  a  serious  possibility  There  are  continuing  disputes  about
+whether  originalism  would  support  outcomes  of  the  kind discussed  in the  text,  and  a  possible  reaction to
+those debates  is  that  often  the  historical  materials  leave  ambiguities  or  gaps  and  nonhitstoncal  judgments
+must  be used,  and  are  being  used, to  resolve  the  ambiguities
+
+195.  347  U.S.  483  (1954).
+196.  376  U.S.  254  (1964).
+
+The  Yale  Law  Journal
+
+(Vol.  107:  529
+
+apply  to  the  states;  that  affirmative  action  raises  no  serious  issue;  that  the
+federal  government  can  discriminate  on  the basis  of race  and  sex  however  it
+wishes;  that nearly  all  sex  discrimination  by  the states  is  unobjectionable;  that
+compulsory school  prayer  is  constitutionally  acceptable;  that,  in short,  most  of
+modern  constitutional 
+law,  now  taken  as  constitutive  of  the  American
+constitutional  tradition  by  Americans  and  non-Americans  alike,  now  taken  as
+symbolic  of our  nation's  commitment  to  liberty  under  law,  and,  for  the  last
+decade  in  particular  an  inspiration  for  constitution-making  and  constitution-
+building  all  over  the  globe,  is  illegitimate  and  fatally  undemocratic.  An
+approach  that leads  to conclusions  of this  kind  may not be disqualified  for that
+reason,  but these possibilities  show  that slippery  slope  arguments  can  work  in
+both  directions.
+
+Justice  Scalia  may  believe  that  consequences  are  irrelevant. 97  It  is
+tempting  to  think  that  the  choice  among  interpretive  approaches  should  not
+depend  on outcomes;  an  important guarantee  of neutrality  might even be  found
+in  indifference  to  outcomes.  But  I think  that  this  is  a  confusion.  There  is  this
+much  to  be said  for indifference  to  outcomes:  Once  an  interpretive  approach
+has  been  properly  selected,  it  should  not  be  abandoned  simply  because  it
+produces  a bad outcome.  But any  approach  to interpretation  must be  defended
+partly  by  reference  to  its  consequences,  broadly  conceived,  and  the  set  of
+relevant  consequences  includes  emphatically  its  effects  on  human  liberty  and
+equality.  No approach  to  interpretation  can  be  defended  without  reference  to
+the  human  interests  that  it affects.  If consequences,  broadly  conceived,198  do
+not matter,  what  does?
+
+My  central  point is  that  other approaches  to  interpretation,  whether  or in
+whatever  sense  originalist,  can  accommodate  our  constitutional  tradition  as  it
+has  come  to be understood  without, at the same  time, authorizing judges  to do
+whatever  they want.  Justice Scalia is  correct  to say  that common  law  thinking
+lies  at  the  heart  of American  constitutional  law.' 99 But  this  way  of thinking
+should  be  seen  as  part  of judicial  modesty,  not  judicial  hubris.  Certainly  it
+allows  for a degree  of flexibility. But  it also comes  with  its  own constraints  on
+judicial  power,  brought  about  through  the  doctrine  of  stare  decisis,  close
+
+197.  He may also  believe  that the results, to the  extent they are  objectionable, would  find a legislative
+remedy.  If this  is  so, his  argument  would  be  much  strengthened,  but  there  is  little  reason  to believe  that
+this  is  the case.
+
+198.  Of course,  I do not  suggest that consequences  must  be  understood  in  utilitarian  terms.  A  claim
+about  consequences  might  be  made  out  in  terms  of  democracy,  protection  of  basic  rights,  promotion  of
+human  capabilities  and  functionings,  and  much  more.
+
+199.  It  is  important  to  emphasize  that judicial  discretion  cannot  be  eliminated  by  the  interpretive
+methods  of civil  law  courts,  or  even  by formalism,  which  will  inevitably  leave  gaps.  Indeed,  there  is  a
+substantial  overlap  between  the  interpretive  practices  of  common  law  and  civil  law  courts,  which  use
+similar  presumptions and  canons,  linguistical  and substantive.  See  Summers & Taruffo,  supra note  73.  For
+a  discussion  comparing  European  civil  lawyers  to American  lawyers,  see Mary  Ann  Glendon,  Comment,
+in  A MATTER  OF  INTERPRETATION,  supra note 6,  at 95  passim.
+
+19971
+
+Democratic  Formalism
+
+attention  to  the details  of  cases,2 °'  and  a  general  reluctance  to  issue  rules  that
+depart  much  from  the  facts  of  particular  disputes.  It  is  part  and  parcel  of the
+judiciary's  distrust  of  large  theories  and  its  ordinary  search  for  concrete
+outcomes  and  cautious  principles  on  which  theoretically  diverse judges  may
+agree. 2°  Common  law  thinking  is  even  connected  with  the  Supreme  Court's
+general  and  entirely  appropriate  reluctance  to  disturb  the  outcomes  of political
+processes.  To  the  extent  that  it  partakes  of ambitious  theories  at  all,  common
+law  thinking,  in  its  current  incarnation 
+in  American  public  law,  largely
+attempts  to  protect  the  workings  of a  well-functioning  system  of  democratic
+deliberation.  Of course,  courts with  the  abilities  of "broken-field  runners"  may
+be  able  to  circumvent  these  constraints  on  judicial  discretion.  There  are  no
+guarantees  here.  All  I  mean  to  suggest 
+to  respect
+precedent  and  to  proceed  cautiously  tend,  in  practice,  to  make  constitutional
+law in its common  law  incarnation  more open-ended  than  it  might  appear, even
+if less  open-ended  than  those  fearful  of judicial  discretion  would  wish.
+
+is  that  the  obligation 
+
+ideal.  If  democracy 
+
+From the standpoint  of promoting  democratic  ideals,  it  is  hardly  clear  that
+Justice  Scalia's  form  of originalism  is  preferable.  I  have  said  that  the  choice
+of an approach  to interpretation  requires  a judgment  about  political  theory, and
+that means  that the choice  requires  the  specification  of the  right  content  of the
+democratic 
+identified  with  the  outcomes  of
+is  not 
+majoritarian  politics,  and if its internal  morality  constrains  what  majorities  may
+do,  the  American  constitutional  tradition  has  converged  on  an  alternative  far
+superior to  Justice  Scalia's  approach. 2 2  From  the  standpoint  of  constraining
+judicial  discretion,  the  common  law  method  of  constitutional  law,  properly
+understood,  is  at  least  a  plausible  competitor  to  Justice  Scalia's  form  of
+originalism,  in  light  of  the  many  difficult  questions  that  historical  inquiry
+leaves unresolved  and  the  difficulty  of matching  that  form  of originalism  with
+a theory  of stare  decisis.  If we  are  concerned  about  limiting  judicial  intrusions
+into  politics,  Justice  Scalia's  form  of originalism  may  well  be  inferior  to  our
+tradition  in  its  modemn  incarnation. 23  That  form  of  originalism  is  probably
+
+better  at  promoting  predictability  and  stability.  But  these  are  hardly  decisive
+virtues,  and it is  not clear that  there  is any  other  dimension along  which Justice
+Scalia's  approach  is  preferable  to  the  serious  alternatives.
+
+200.  Cf. Itzhak Gilboa & David  Schmeidler, Case-Based  Deciion  Theonr. 
+
+(arguing  that  people  commonly  select  particular  acts  based  on  buch  acts" perlormance 
+circumstances).
+
+110 Q J EcoN  605 (1995)
+in  simtlar
+
+201.  See CASS  R. SuNsTEN, LEGAL REAsoNLNG  ANt)  POLTICAL  CONi-LICT 35-61  (996).  c-f Strauss.
+
+supra  note  5, at  926-28  (discussing how  common  law  constituttonalhsm  influences  judicial restruint)
+
+202.  Of course,  there  are questions  about how  to identify democracy's  internal  moralty. and it Judges
+
+were  incompetent  at  that task,  it  might  make  sense  to  adopt  Justice  Scahia', form  ol  onginrlism
+
+203.  Recall that Justice Scalia  thinks that his form  of onginalism would doom  ar  more  legtshition thin
+the  current  approach,  in  areas  involving  property  rights,  Second  Amendment  rights,  and Confrontation
+Clause  rights.  See supra text accompanying  notes  49-51
+
+The  Yale  Law  Journal
+
+[Vol.  107:  529
+
+IV.  CONCLUSION
+
+The  distinctive  virtues  of  the  common  law  stem  from  the  relative
+independence  of common law judges, their caution  about  high theory, and their
+intense  focus  on  particulars.  These  virtues  allow  a high  degree  of flexibility
+over diverse  circumstances, prominently  including  those produced  by new  facts
+and  values.  These  virtues  are  inseparable  from  the  distinctive  vices  of  the
+common  law:  its  imperfectly  democratic  character,  its  lack  of  theoretical
+ambition,  and  its  particularity,  which  may  impede  planning  and  lead  to
+unfairness  because  the similarly  situated  are  not  treated  similarly  and  because
+the judges'  own judgments  of value  or  fact  play  an  excessive  role.  An  effort
+to evaluate  the place  of common  law  thinking  would do  well to  come  to terms
+with  the realities  of the  modem  state,  prominently  including  the  large  role  of
+regulatory  agencies,  which  engage 
+far  more
+interpretation 
+than  do  federal  courts.
+frequently,  and  with  far  larger  consequences, 
+Administrative  agencies  are  law-interpreters,  both  in  fact  and  in  law,  and  it  is
+striking  that  modern  theories  of statutory  interpretation  rarely  come  to  terms
+with  that  phenomenon."
+
+in  statutory 
+
+Justice  Scalia's  approach  to  interpretation-democratic  formalism-has
+two  foundations:  a  strong  commitment  to  rule-bound  justice  and  a  desire  to
+ensure  that  discretion  is  exercised  by  democratically  elected  officials  rather
+than  by judges.  Hence  his  overriding goal is  to exorcise  the  common  law from
+public  law.  He  is  correct  to  emphasize  the  common  law  heritage  of  the
+American  legal tradition  and  much of modern  public  law: judicial  treatment  of
+many  statutes  as  standards  rather  than  rules;  doctrines  of interpretation  that
+operate  as  standards  or factors; and,  perhaps  above all,  a  system  of case-based
+constitutional  law  that  owes  a  great  deal  to  the  common  law  heritage. 5
+Many  observers,  above  all  Judge  Calabresi,  have  celebrated  common  law
+methods  and  sought  to  reintroduce  the  virtues  of common  law  judgment  into
+a regulatory  state founded mostly  on statutory  enactments.  Justice  Scalia's goal
+is  the  opposite: 
+in  the  hope  that  it  will  increase
+predictability,  constrain  the  abusive  exercise  of  discretion  by  judges,  and
+increase democratic self-government  by imposing good  incentives  on Congress.
+Others  might  urge  courts  to make  regulatory  agencies  a  central  ingredient
+in  their theory  of interpretation,  on  the  theory  that  the  traditional  common  law
+role  of courts  would  be  best carried  out  by  administrative  agencies  authorized
+to  make  sense  of statutory  text2"  when  new  applications  arise,  or when  facts
+
+to  reduce  particularity 
+
+204.  This  is  a  gap  not  only  in  Justice  Scalia's  essay,  but  also  in  DWORKIN,  supra  note  57.  The
+administrative  state  has  yet  to  be  introduced  into general  accounts  of  legal  interpretation.  Here  there  is  a
+great  deal  of room  for  positive  and  normative  work.
+
+205.  See Strauss,  supra note  5,  for  the  best  discussion  of the  way  in  which  the  common  law  explains
+
+and justifies  current  American  constitutional  law.
+
+206.  Of course,  this  claim  does  not mean  that  agencies  may violate  statutes. The  claim  is  intended  to
+allow  agencies  to handle  ambiguities and excessive  generality,  subject, of course,  to judicially administered
+
+19971
+
+Democratic  Formalism
+
+and  values  change.  This  is  an  approach  toward  which  I have  gestured  in  this
+Book  Review,  on  the  ground  that  it  has  the  virtue  of  fitting  nicely  with  the
+needs,  values,  and  actual  practices  of  modem  government.  Thus,  I  have
+attempted  to  sketch  an  alternative  approach  to  interpretation,  one  that  also
+places  a  premium  on  democratic  values  and  that  uses  clear  statement
+principles,  agency  interpretations,  and  democratic  ideals  to  supplement  and
+occasionally  countermand  the  text  as  understood  at  the  time  of enactment.  In
+statutory  interpretation,  this  approach  would  allow  regulatory  agencies  some
+room  to  adapt  text  to  particular  circumstances  and  would  authorize  courts,
+supplementing  that agency  role,  to use canons  and  presumptions  to  make sense
+rather  than  nonsense  out  of the  statutory  law.  In  constitutional  interpretation,
+this  approach  would  combine  a  large  dose  of  judicial  modesty,  favoring
+incompletely  theorized  agreements,  with  an  occasional  willingness  to  invoke
+the internal  morality  of democracy  to  look skeptically  at  laws  that  compromise
+the political  process or attempt to impose  second-class  citizenship  on  members
+of disadvantaged  social  groups.  My  suggestion  is that  an  approach  of this  sort
+would  do  far  better  than  democratic  formalism  from  the  democratic  point  of
+view, that it would  impose sufficient  constraints  on judicial  power and  judicial
+discretion,  and  that  its  only  comparative  defect,  a  modest  one,  is  that  it  may
+suffer  along  the dimension  of  promoting  predictability.
+
+There  is  nothing wrong  with  Justice  Scalia's  arguments  in  the  abstract.  In
+an  imaginable  world,  not  unrecognizably  far  from  our  own,  some  or  all  of
+those  arguments  might  become  convincing.  But  there  is  also  nothing  right
+about  Justice  Scalia's  arguments  in  the  abstract.  Whether  those  arguments  are
+convincing  depends  on a range  of practical  and  predictive judgments  about  the
+capacities  of different governmental  institutions.  Justice  Scalia does not defend
+the necessary  practical  or predictive judgments  or  even  identify  them  as  such.
+He  writes  instead  as  if his  particular,  sometimes  radical,  conclusions  can  be
+grounded  in  apocalyptic  arguments  about  the  slippery  slope 7  and  in  high-
+sounding  abstractions  about  democracy.
+It  is  to  Justice  Scalia's  credit 
+
+that  he  has  laid  out  an  approach  to
+interpretation  with  a high  degree  of clarity  and  coherence.  It is  to  his credit  too
+that  he  has  sketched  an  approach  to  interpretation  that  might  make  sense  in
+some imaginable  world.  What  he  has  not  shown  is  that  it makes  sense  in  ours.
+
+clear  statement  principles.  For  an  example  of  restrictions  on  igenc) 
+Arabian American Oil Co.,  499  U.S.  244,  257-59  (1991).  which uss  1a preumption  igatnst extraterritorial
+application  of national  law  to trump  an  agency's \i'e\
+
+interprct,%e  pocrl..  see  EEOC
+
+207.  For  example,  Justice  Scalia  writes.
+
+. .
+
+. This,  of  course,  is the  end  of  the  Bill  of  Rights.  % hosc  mea±ning  ',ill bi
+
+If  the  courts  are  free  to  write  the  Constitution  ane'%.  they  %,ill. by  God.  %%rite it  the  %% ,a the
+majority  wants 
+committed  to the  very  body  it was  meant  to  protect aginst  the majority  By  ti) ing  to make  the
+Constitution  do  everything  that  needs  doing  from  age it ige.  we shAll  hi ie 
+,.auscd  it  to  do
+nothing  at all.
+Scalia,  supra note  7, at  47.
+
+

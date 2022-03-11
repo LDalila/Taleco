@@ -1,0 +1,1269 @@
+University of Chicago Law School
+Chicago Unbound
+
+Coase-Sandor Working Paper Series in Law and
+Economics
+
+2002
+
+Coase-Sandor Institute for Law and Economics
+
+Avoiding Absurdity? A New Canon in Regulatory
+law (with notes on interpretive theory)
+Cass R. Sunstein
+
+Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics
+
+Part of the Law Commons
+
+Recommended Citation
+Cass R. Sunstein, "Avoiding Absurdity? A New Canon in Regulatory law (with notes on interpretive theory)" ( John M. Olin Program
+in Law and Economics Working Paper No. 158, 2002).
+
+This Working Paper is brought to you for free and open access by the Coase-Sandor Institute for Law and Economics at Chicago Unbound. It has been
+accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more
+information, please contact unbound@law.uchicago.edu.
+
+ 
+
+C H I C A G O 
+
+JOHN M. OLIN LAW & ECONOMICS WORKING PAPER NO.  158 
+(2D SERIES) 
+ 
+
+ 
+ 
+Avoiding Absurdity? 
+A New Canon in Regulatory Law 
+(with Notes on Interpretive Theory) 
+ 
+Cass R. Sunstein 
+ 
+THE LA W S CHOOL 
+THE U NIV ERSITY OF CHICA GO 
+ 
+ 
+This paper can be downloaded without charge at: 
+The Chicago Working Paper Series Index: 
+http://www.law.uchicago.edu/Lawecon/index.html 
+ 
+The Social Science Research Network Electronic Paper Collection: 
+http://ssrn.com/abstract_id=323662
+
+Avoiding Absurdity? A New Canon in Regulatory Law 
+
+ 
+
+ 
+ 
+
+Cass R. Sunstein* 
+
+A New Principle 
+
+ 
+In the last two decades, federal courts have been developing a new and thus far unacknowledged 
+canon  of  regulatory  law:  As  a  general  rule,  administrative  agencies  will  be  taken  to  have  the 
+authority to interpret statutes so as to avoid absurd or patently unreasonable results, even if the 
+interpretation is hard to square with the literal  language of the statute.  This canon authorizes 
+agencies,  and  in  particular  agencies  that  regulate  the  environment,  far  more  flexibility  in  the 
+interpretation of literal language  than courts are now permitted to have. My narrow goal in this 
+Essay is to describe and to defend this canon. My broader goal is to use the canon as a basis for 
+urging  that  contemporary  theories  about  interpretation  go  wrong  by  emphasizing  large  claims 
+about democracy and legitimacy at the expense of an inquiry into the real-world capacities of our 
+various institutions, including the U.S. Environmental Protection Agency (EPA) and the federal 
+courts. 
+The  new  canon  has  old  roots  in  the  time-honored  idea  that  courts  will  not  construe 
+ 
+statutes  to  produce  absurdity.1  But  that  notion  remains  highly  controversial,  at  least  in  some 
+applications,2  in  part  because  of  a  belief  that  much  mischief  might  follow  if  courts  attempt  to 
+avoid  what  they  consider  to  be  absurdity.  For  reasons  to  be  elaborated,  the  canon  that  I  am 
+defending should be endorsed even by those who believe that courts have no business departing 
+from  statutory  language.3  Compared  to  courts,  regulatory  agencies  have  a  high  degree  of 
+specialized  competence    and  a  large  measure  of  political  accountability.  They  are  in  a  good 
+position  to  know  if  a  departure  from  literal  language  will  unsettle  the  regulatory  scheme. 
+Because of these characteristics, courts should allow agencies to avoid absurdity, in the face of 
+literal text, even in cases in which courts should not themselves exercise this power–and to allow 
+agencies more freedom to assume this canon than courts. 
+I  will  also  connect  the  new  canon  to  some  of  the  largest  and  most  intense  of  current 
+ 
+debates about legal interpretation, especially in the context of regulatory law and environmental 
+protection. In particular, I will urge that it is important to understand interpretive disputes not by 
+reference to abstractions, but in the light of institutional considerations–by asking who is good at 
+what, and  by asking about the effects, over time, of one or another approach to interpretation.4 
+Consider,  for  example,  the  debate  over  formalism:  the  view,  defended  most  prominently  by 
+Justice Antonin Scalia, that legitimate interpretation requires fidelity to the ordinary meaning of 
+
+                                                           
+
+*Karl  N.  Llewellyn  Distinguished  Service  Professor  of  Jurisprudence,  Law  School  and  Department  Political 
+
+Science, University of Chicago. I am grateful to Adrian Vermeule for extremely helpful discussion. 
+
+1 Church of the Holy Trinity v United States, 143 U.S. 457 (1892). 
+2 See Frederick Schauer, The Practice and Problems of Plain Meaning: A Response to Aleinikoff and Shaw, 45 
+
+Vand. L. Rev. 715  (1992) 
+
+3 See id. at 734-36; Edward Rubin, Modern Statutes, Loose Canons, and the Limits of Practical Reason, 45 Vand. 
+L. Rev. 579 (1992). Some of these issues, and the jurisprudential questions, are discussed in some detail in Cass R. 
+Sunstein  and  Adrian  Vermeule,  Interpretation  and  Institutions  (University  of  Chicago  Working  Paper,  July  2002); 
+related issues of regulatory law are discussed, from a different angle, in Cass R. Sunstein, Risk and Reason: Law, 
+Safety, and the Environment (Cambridge: Cambridge University Press, 2002). 
+
+4 See id; Adrian Vermeule, Interpretive Choice, 75 N.Y.U. L. Rev. 74, 103 (2000). 
+
+the relevant text when originally enacted.5  Some people, including Justice Stephen Breyer, reject 
+this view, arguing legitimate interpretation includes a variety of devices designed to ensure that 
+sense,  rather  than  nonsense,  is  made  of  the  law.6  Often  this  debate  seems  highly  abstract  and 
+conceptual,    involving  contests  over  big  ideas  like  democracy,  legitimacy,  authority,  and 
+constitutionalism.  
+The  last  decade,  however,  has  witnessed  a  kind  of  “institutional  turn,”7  in  which  it  is 
+ 
+starting  to  be  seen  that  debates  over  the  best  approach  to  interpretation  are  debates  about 
+consequences  and, in particular, about institutional capacities.8 The controversy over formalism 
+might itself be seen in these terms. If courts adopt formalism, will the system of regulatory law 
+be better or worse? If courts, abandoning the ordinary meaning of the text, are likely to blunder, 
+the argument for formalism is greatly strengthened.  That argument would also be strengthened if 
+our legislatures,  faced  with  a  formalist  judiciary, would  be likely  to anticipate problems before 
+they arise and to correct them after the fact. In that event, the problems introduced by formalism, 
+for regulatory law or environmental protection, would be reduced by legislative corrections. But 
+if courts, abandoning formalism, are likely to make the law far more sensible, and if legislatures 
+cannot be expect to anticipate or correct errors, the argument for formalism is greatly weakened. 
+If  we  emphasize  institutional  capacities,  we  will  see  that  in  deciding  about  the  appropriate 
+approach to interpretation, two issues are central. The first involves the capacity of the relevant 
+interpreters.  The  second  involves  the  systemic  effects  of  one  or  another  approach  to 
+interpretation.  
+ 
+These  general  points  very  much  bears  on  the  canon  that  I  am  identifying  here.  In  the 
+context of apparent absurdity, reasonable people can disagree about whether and to what extent 
+judges should depart from literal language. But as we shall see, the issue is quite different when 
+agencies are seeking to make that departure.  This point has large implications for interpretation 
+in  the  context  of  regulation  and  environmental  protection.  It  suggests  that  regulators,  simply 
+because of their comparative advantages, should be allowed to repudiate or to endorse formalism 
+as they see fit. 
+ 
+The new canon of interpretation is best understood in light of certain pathologies of the 
+largest development in the last century of American law: the rise of the modern regulatory state. 
+In  controlling  risks  to  safety,  health,  and  the  environment,  and  in  regulating  banking  and 
+communications,  modern  legislatures  issue  countless  rules.  Some  of  them  are  vague;  some  of 
+them  are  precise  and  detailed.  In  either  case,  legislatively-enacted  rules  sometimes  amount  to 
+“thin  simplifications”  that  often  extend  over  decades  and  that  must  be  engrafted  onto complex 
+systems of natural and human interactions.9 Simply because of human limitations, these systems 
+cannot  be  well-understood  by  legislators  at  the  time  of  enactment.  As  a  result,  thin 
+simplifications  threaten,  on  occasion,  to  produce  harm  or  even  disaster,  not  least  from  the 
+standpoint of their proponents. The harms can involve safety, health, and the environment itself, 
+as when a statutory enactment, designed to protect air or water quality, has the unintended effect 
+of doing the opposite in one or another application. I will not be able to discuss the point in detail 
+in  this  space;  but  there  are  many  ways  of  reducing  the  relevant    risks.  One  of  the  simplest,  I 
+suggest,  is  to  authorize  agency  officials  not  to  reject  enacted  law,  but  to  abandon  a  literal 
+                                                           
+
+5 See Antonin Scalia, A Matter of Interpretation (1990). 
+6 See Ronald Dworkin, Law’s Empire 242-44 (1985). 
+7 See Vermeule, supra note 4; Cass R. Sunstein, Must Formalism be Defended Empirically?, 66 U. Chi. L. Rev. 
+
+636 (1999). 
+
+8 See Schauer, supra note 2; Vermeule, supra note 4. 
+9 See James Scott, Seeing Like A State (2000). 
+
+approach  to  interpretation  by  adapting  statutory  terms  to  unanticipated  circumstances.  By 
+abandoning  literalism  where  it  would  produce  absurdity  or  patent  unreasonableness,  agencies, 
+like the courts that do the same, engage in a legitimate form of interpretation -- one that occurs in 
+households and workplaces as well as in government agencies and courtrooms.  
+Some  pertinent  clarifications  before  we  begin:  The  canon  authorizes  agencies  to  avoid 
+ 
+absurdity;  it  does  not  compel  them  to  do  so.  There  are  systemic  reasons  why  an  agency  might 
+want to stick to the literal language and to allow absurdity in particular cases. As we shall see, an 
+agency might want to do this if it believes that fidelity to the literal language is the best way of 
+promoting planning and reducing confusion for the future. In addition, the principle is limited to 
+cases  of  patent  unreasonableness  or  unintended  absurdity.  These  cases  usually  arise  in  the 
+context of excessive generality, a problem that occurs when statutory language operates sensibly 
+and  as  intended  in  most  of  its  applications,  but  produces  patently  unjustifiable  and  unintended 
+results in a particular case. This case might be too strange or exotic to have been anticipated in 
+advance; or it might be a product of changed circumstances, which makes literal language, never 
+or almost never absurd when enacted, absurd because of new developments. I emphasize that the 
+principle  that  I  am  discussing  should  not  be  seen  as  authorization  to  ignore  statutory 
+requirements; it applies only when literal language produces an outcome that was not anticipated 
+and  could not plausibly  be defended.  One of my main goals is to  show  the difference between 
+ignoring statutes and counteracting this problem through an acceptable form of interpretation. 
+ 
+
+The Emerging Principle 
+
+ 
+For  regulatory  law,  the  interpretive  background  is  established  by  Chevron,  U.S.A.,  Inc.    v. 
+Natural Resources Defense Council,10  by far the dominant case in the area, which sets out a two-
+step  inquiry  for  judicial  review  of  agency  decisions.  The  first  question  (“step  one”)  is  whether 
+Congress  has  “directly  decided  the  precise  question  at  issue”–more  simply,  whether  Congress 
+has  unambiguously  banned  what  the  agency  proposes  to  do.11  Under  Chevron,  agencies  are 
+generally permitted to construe ambiguous statutes as they see fit. Under step two, it remains to 
+ask whether the agency’s interpretation of the statute is reasonable.12 I am focusing on step one 
+here:  Will  the  agency  be  taken  to  have  the  power  to  depart  from  the  literal  language  of  the 
+statute,  if  its  reason  for  doing  so  is  to  avoid  absurdity?  Many  cases  suggest  an  affirmative 
+answer. 
+ 
+
+Lead and Pipes 
+
+ 
+The  leading  case  is  American  Water  Works  Association  v.  EPA.13 The  case involved a  creative 
+effort  by  EPA  to  regulate  lead  in  drinking  water.  The  details  are  somewhat  technical,  but  the 
+outcome  is  of  general  interest.  The  court allowed EPA to produce an outcome  that  flew  in the 
+face of statutory language, but that, on a reasonable view of the facts, any sensible person would 
+prefer.  The  court  permitted  EPA  to  stretch  the  statutory language in  order  to  ensure  against an 
+evidently absurd outcome. 
+
+                                                           
+
+10 467 U.S. 837, 14 ELR 20507 (1984). 
+11 Id. at 842, 14 ELR at 20508. 
+12 Id.  
+13 40 F.3d 1266, 25 ELR 20335 (D.C. Cir. 1994). 
+
+The  Safe  Drinking  Water  Act14  requires  EPA  to  produce  maximum  contaminant  level  
+ 
+goals (MCLG) for water contaminants. These goals must “be set at the level at which no known 
+or  anticipated  adverse  effects  on  the  health  of  persons  occur,”  with  an  adequate  margin  of 
+safety.15  Because  no  safe  threshold  had  been  established,  the  EPA’s  MCLG  for  lead  was  zero, 
+Once an MCLG is established, EPA is required to set a maximum contaminant level (MCL), “as 
+close to the maximum contaminant level goal as is feasible.”16  EPA is authorized not to set an 
+MCL, and to require “the use of a treatment technique in lieu of establishing” that level, if (and 
+only if) it finds “that  it  is  not  economically  or  technologically feasible to  ascertain the level of 
+the contaminant.”17 
+ 
+For  lead,  then,  EPA  would  be  expected  to  set  its  MCL  as  close  as  “feasible” 
+(economically  and  technologically)  to  the  MCLG  of  zero,  except  if  it  was  not  “feasible”  to 
+ascertain the level of lead contamination (and no one urged that the task of ascertainment was not 
+feasible).  But this is not what EPA did, because of some distinctive features of the lead problem. 
+Source water is basically lead-free; the real problem comes from corrosion of service lines and 
+plumbing  materials.  With  this  point  in  mind,  EPA  refused  to  set  any  MCL  for  lead.  EPA 
+reasoned that an MCL would require public water systems to use extremely aggressive corrosion 
+control  techniques,  which,  while  economically  and  technologically  “feasible,”  would  be 
+counterproductive,  because  they  would  increase  the  level  of  other  contaminants  in  the  water. 
+What appeared to be the legally mandated solution would make the water less safe, not more so. 
+EPA therefore chose a more subtle and modest approach. Instead of issuing an MCL, it required 
+all  large  water  systems  to  institute  certain  corrosion  control  treatment,  and  required  smaller 
+systems to do so if and only if representative sampling found significant lead contamination. 
+EPA did not contend that an MCL was not “feasible” to implement, nor did it argue that 
+ 
+it  was  not  “feasible,”  in  the  economic  or  technological  sense,  to  monitor  lead  levels  in  water. 
+Nonetheless,  the  court  upheld  the  Agency’s  decision.18  The  court  accepted  EPA’s  seemingly 
+implausible  suggestion  that  the  word  “feasible”  could  be  construed  to  mean  “capable  of  being 
+accomplished in a manner consistent with the Act.”19 The court said that “case law is replete with 
+examples  of  statutes  the  ordinary  meaning  of  which  is  not  necessarily  what  the  Congress 
+intended.”  It  added,  pointedly  and  controversially,  that  “where  a  literal  meaning  of  a  statutory 
+term would lead to absurd results,” that term “has no plain meaning.”20  Because an MCL would 
+itself lead to more contamination, “it could lead to a result squarely at odds with the purpose of 
+the SDWA.”21 The court therefore accepted EPA’s view “that requiring public water systems to 
+design and implement custom corrosion control plans for lead will result in optimal treatment of 
+drinking  water  overall,  i.e.,  treatment  that  deals  adequately  with  lead  without  causing  public 
+water systems to violate drinking water regulations for other contaminants.”22  
+ 
+It  should  be  clear  that  the  court  permitted  a  quite  surprising  and  even  countertextual 
+interpretation of the Act. The critical point in the court’s opinion is the suggestion that a statutory 
+term  lacks  a  plain  meaning  when  the  literal  language  would  produce  “absurd  results.”  The 
+
+                                                           
+
+14 42 U.S.C. §§300f-j26, ELR Stat. SDWA §§1401-1465. 
+15 Id. §300g-1(b)(4)(A), ELR Stat. SDWA §1412(b)(4)(A).  
+16 Id. §300g-1(b)(4)(B), ELR Stat. SDWA §1412(b)(4)(B). 
+17 Id. §300g-1(b)(6)(D), ELR Stat. SDWA §1412(b)(6)(D). 
+18 American Water Works, 40 F.3d at 1271, 25 ELR at 20336. 
+
+19Id.  
+
+20 Id.  
+21 Id. 
+22 Id., 25 ELR at 20337. 
+
+statutory terms seem to make no room for EPA’s refusal to issue an MCL. In upholding EPA’s 
+refusal, the court authorized the Agency to avoid absurdity. 
+ 
+
+Trifles 
+
+    
+Sometimes  regulation  appears  to  require  government  to  control  small  or  trivial  harms.  To  the 
+extent  that  this  is  so,  two  problems  might  arise.  The  first  is  that  significant  private  and  public 
+expense might be imposed for no real gain–itself an absurdity. The second is that people might 
+be  less  safe  on  balance–if,  for  example,  the  product  or  process  that  causes a trivial risk  is less 
+hazardous than a product or process that is already on the market, and that will not be regulated 
+in  the  future.  In  that  case,  regulation  of  a  small  or  trivial  risk  would  seem  threaten  to  produce 
+absurdity from the standpoint of the statute’s proponents. Can agencies provide correctives? 
+ 
+In  a  series  of  cases,  the  D.C.  Circuit  Court  of  Appeals  has  developed  a  principle 
+authorizing (not requiring) agencies to make de minimis exceptions to regulatory requirements. 
+The initial case was Monsanto Co. v. Kennedy.23 There, the Agency banned acrylonitrile on the 
+ground  that  it  counts  as  a  “food  additive,”  migrating  in  small  amounts  from  bottle  into  drinks 
+within bottles. The Food and Drug Administration (FDA) concluded that the ban was justified on 
+safety  grounds,  a  conclusion  that  the  court  found  inadequately  justified.  But  what  is  more 
+important  in  the  case  is the general language  with  which the court remanded the  case to  FDA. 
+The  court  stressed  that  the  Agency  had  discretion  to  exclude  a  chemical  from  the  statutory 
+definition of food additives if “the level of migration into food . . . is so negligible as to present 
+no public health or safety concerns.”24  
+A  related  case  presented  the  question  whether  EPA  was  permitted  to  make  categorical 
+ 
+exemptions  under  the  prevention  of  Significant  Deterioration  program  of  the  Clean  Air  Act 
+(CAA).25  Here, the court spoke in far more ambitious terms, showing considerable enthusiasm 
+for de minimis  exemptions. It announced that “[c]ategorical exemptions may be permissible as 
+an exercise of agency power, inherent in most statutory schemes, to overlook circumstances that 
+in context may fairly be considered de minimis. It is commonplace, of course, that the law does 
+not  concern  itself  with  trifling  matters,  and  this  principle  has  often  found  application  in  the 
+administrative  context.  Courts  should  be  reluctant  to  apply  the  literal  terms  of  a  statute  to 
+mandate  pointless  expenditures.”26  In  fact  the  court  expressly  connected  this  principle  with  the 
+idea that the court should “look beyond the words to the purpose of the act” to avoid “absurd or 
+futile  results.”27  Thus  the  court  concluded,  in  its  broadest  statement  on  the  point,  that  “most 
+regulatory  statutes,  including  the  [CAA],”  permit  de  minimis  exemptions  upon  an  adequate 
+factual showing.28  
+ 
+to  prevent  patent 
+is  an  explicit  recognition  of  agency  authority 
+Here, 
+unreasonableness by exempting tiny risks from regulatory controls–even if the exemption seems 
+to fly in the face of the statutory terms. The recognition is best seen as permission to agencies to 
+avoid  regulatory  absurdity,  and  in  particular  the  sort  of  absurdity  that  comes  from  “thin 
+simplications” in the form of rigid regulatory commands. 
+ 
+                                                           
+23 613 F.2d 947 (D.C. Cir. 1979). 
+24 Id. at 955. 
+25 Alabama Power Co. v. Costle, 636 F.2d 323, 10 ELR 20001 (D.C. Cir. 1979). 
+26 Id. at 360, 10 ELR at 20011. 
+27 Id. at 360 n.89, 10 ELR at 20011 n.89. 
+28 Id. at 360, 10 ELR at 20011. 
+
+then, 
+
+Costs 
+
+ 
+
+ 
+Suppose  that  a  regulatory  statute appears to ban agencies from considering costs.  Suppose that 
+any such ban would produce serious problems, not because the ban is itself absurd, but because 
+the  ban  prevents  the  agency  from  adopting  a  creative  approach  that  would,  in  a  sense,  involve 
+more aggressive regulation. 
+This  appeared  to  be  the  problem  in  State  of  Michigan  v.  EPA.29  At  issue  there  was  an 
+ 
+EPA decision to approve a state implementation plan (SIP) for the regulation of ozone. The key 
+statutory phrase provided  that SIPs must contain  provisions  adequately prohibiting “any source 
+or other type of  emissions activity within  the state  from  emitting any  air pollutants in amounts 
+which will . . . contribute significantly to nonattainment in, or interfere with maintenance by, any 
+other  State  with  respect  to  any  such  national  primary  or  secondary  ambient  air  quality 
+standard.”30  At  first  glance,  this  provision  might  well  be  read  as  a  kind  of  absolute  ban  on 
+“significantly  contributing”  pollutants.  But  EPA  did  not  understand  it  that  way.  Instead,  EPA 
+reached an apparently ingenious conclusion. It would adopt a low threshold for deciding whether 
+a contribution was “significant.” In this way, many states would count as significant contributors. 
+But  the  significant  contributors  would  be  required  to  reduce  their  ozone  only  by  the  amount 
+achievable  via  “highly  cost-effective  controls,”31  meaning  those  that  could  produce  large 
+reductions  relatively  cheaply.  In  states  with  high  control  costs,  then,  relatively  low  reductions 
+would be required. In states with low control costs, substantial reductions would be mandatory. 
+ 
+Was this unlawful? Challenging EPA’s interpretation, the plaintiffs urged that the statute 
+banned any consideration of costs at all. In their view, “contribute significantly” made no room 
+for  an  inquiry  into  the  costs  of  compliance.  The  court  rejected the argument, finding  no  “clear 
+congressional intent to preclude consideration of costs.”32 But the court obviously had a difficult 
+time with the statutory phrase “contribute significantly,” which seems to refer to environmental 
+damage,  not  to environmental  damage  measured in light  of cost.  In  upholding EPA’s decision, 
+and in ruling that EPA would be allowed (not required) to do what it did, the court insisted that 
+significance should not “be measured in only one dimension,” that of “health alone.” In fact, in 
+some  settings,  the  term  “begs  a  consideration  of  costs.”33  In  the  court’s  view,  EPA  would  be 
+unable to determine “’significance’ if it may consider only health,” especially in light of the fact 
+that ozone causes  adverse health effects  at  any level.  If adverse effects exist on all levels, how 
+can EPA possibly choose a standard without giving some weight to cost?34 In any case “the most 
+formidable obstacle” to a ban on consideration of cost “is the settled law of this circuit,”35 which 
+requires  an  explicit  legislative  statement  to  preclude  consideration  of  cost.  The  best  way  to 
+understand this decision is to see it as an effort to authorize the Agency to adopt a solution that 
+would avoid patent unreasonableness. 
+Here, as in American Water Works, the court permitted the Agency to read the statutory 
+ 
+text aggressively, on the theory that the Agency’s approach was so much more sensible, and so 
+much less unreasonable, than the approach that would be required by textualism. It seems clear 
+that  the  Congress  that  enacted  the  SDWA  could  not  foresee  the  special  problems  creating  by 
+                                                           
+
+29 213 F.3d 663, 30 ELR 20407 (2000).  
+30 42 U.S.C. §7410(a)(2)(D)(i)(I), ELR Stat. CAA §110(a)(2)(D)(i)(I). 
+31 213 F.3d at 675, 30 ELR at 20408. 
+32 Id. at 678, 30 ELR at 20412. 
+33 Id. 
+34 Id. 
+35 Id.  
+
+removing  lead  from  water,  problems  that,  EPA  plausibly  argued,  would  make  a  MCL 
+counterproductive.  So  too  for  the  nonattainment  program:  From  every  point  of  view,  EPA’s 
+effort  to  require  only  cost-effective  controls  seemed  better  than  an  effort  to  define  “contribute 
+significantly”  in  a  cost-vacuum.36  Thus  the  Agency  was  allowed  to  depart  from  the  ordinary 
+meaning of the statutory language, as court perhaps would not be; and the reason was to enable 
+the  agency  to  avoid  an  outcome  that  seemed  absurd  in  light  of  the  statutory  variables  and 
+common sense. 
+ 
+
+The Canon Defended 
+
+ 
+I now explore the legitimacy of the new canon. Why, exactly, are agencies being authorized to 
+avoid  absurdity?  Why  are  they  being  authorized  to  approach  statutory  text  more  aggressively 
+than courts? To approach these questions, it is necessary to know something about the theory of 
+legal  interpretation.  No  one  should  deny  that  a  sensible  legal  system  might  well  allow 
+interpreters—courts or administrators -- to abandon literal language in cases of absurdity. This is 
+a  familiar  and  conventional  aspect  of  legal  interpretation  in  the  United  States,  England,  and 
+elsewhere. Such a system would abandon textualism in some cases. But whether to abandon the 
+text,  and  how  often  to  do  so,  are  questions  that  reasonable  people can dispute. My basic claim 
+here is that a decision to follow literal language, or instead to allow exceptions for absurdity or 
+patent unreasonableness, calls for an inquiry into (a) the capacities of the interpreter and (b) the 
+effects,  on  the  relevant  system  of  law,  of  one  or  another  approach.  These  issues,  typically 
+neglected  in  theories  of  interpretation,  help  show  why  agencies  might  be  permitted  to  make 
+exceptions  for  absurdity  even  if  courts  are  not.  To  see  this  point,  some  jurisprudence  is 
+necessary. 
+ 
+
+Jurisprudence as Pragmatic, Not Metaphysical 
+
+ 
+I have emphasized that according to a time-honored principle of interpretation, courts should not 
+construe statutes so as to produce absurd results.  In a way this old principle is entirely familiar. 
+In ordinary life, as in law, the literal meaning of words will often produce unintended absurdity. 
+A  parent  tells  a  child,  “don’t  leave  the  house  under  any  circumstances”;  but if the house is on 
+fire,  the  child  had  better  leave.    Someone  tells  his  best  friend,  “do  not  tell  anyone  where  I  am 
+going  this  weekend”;  but  under  emergency  conditions,  disclosure  might  well  be  justified. 
+Building on an understanding that literal language is not always the best guide to meaning, courts 
+
+                                                           
+
+36 Many cases fall in the same category as those discussed here. See, e.g., Natural Resources Defense Council v. 
+EPA,  824  F.2d  1146,  17  ELR  21032    (D.C.  Cir  1987).  But  there  are  counterexamples.  Consider,  for  example, 
+American Mining Congress v. EPA, 824 F.2d 1177, 17 ELR 21064 (D.C. Cir. 1987). Congress had not clearly dealt 
+with  the  problem  of  how  to  handle  materials  held  for  recycling,  and  the  relevant  EPA  regulation  defined  certain 
+materials involved in recycling as “solid waste.” In particular, it said that spent materials, sludges, scrap metal, and 
+the like would be treated as solid waste if they were not directly reused but were instead held as part of an industry’s 
+ongoing production process. EPA reasoned that materials that were stored, transported, and held for recycling were 
+associated  with  the  same  kinds  of  environmental  harms  as  materials  that  were  abandoned  or  disposed  of  in  some 
+final way. The court of appeals struck down EPA regulation on the ground that the governing statute defined solid 
+waste as “garbage, refuse, sludge . . . and other discarded material”; for the court, material held for recycling was not 
+“discarded.”  Citing  the  dictionary,  the  court  thought  that  the  “ordinary  plain-English  meaning”  was  decisive.    Cf. 
+Public  Citizen  v.  Young,  831  F.2d  1108,  18  ELR  20173  (D.C.  Cir.  1987)  (court  found  it  necessary  or  at  least 
+relevant to emphasis that the rigid text was not, in fact, absurd). 
+
+ 
+
+have made unintended absurdity a central theme in two of the most controversial and celebrated 
+cases in American law: Riggs v. Palmer37  and Church of the Holy Trinity v. United States.  38 In 
+Riggs, a court prohibited a murderer from inheriting from the estate of the murder victim, even 
+though  the  language  of  the  governing  law  made  no  exception  for  murderers,  and  seemed  to 
+require the murderer to inherit. In Church of the Holy Trinity, the U.S. Supreme Court refused to 
+ban a church from paying for the importation of a rector into the United States, even though the 
+literal language of the statute seemed to ban the importation.  
+These  are  famous  cases,  but  they  are  hardly  uncontroversial.39  Is  it  so  clear  that  courts 
+ 
+should  be  allowed  to  allow  exemptions  for  absurd  outcomes?  How  might  we  answer  that 
+question? There is a conventional answer, and we can take  the analysis of the legal philosopher 
+H.L.A.  Hart as  both  classic  and  representative. Hart appear  to welcome judicial corrections for 
+unintended absurdity, finding them necessary in light of our inevitable “inability to anticipate”40 
+the  countless  contexts  to  which  statutory  terms  will  have  to  be  applied.  In  Hart’s  account,  a 
+“feature  of  the  human  predicament  (and  so  the  legislative  one)”  is  that  we  labour  under  two 
+connected handicaps whenever we seek to regulate, unambiguously and in advance, some sphere 
+of  conduct  by  means  of  general  standards  to  be  used  without  further  official  direction  on 
+particular  occasions.”41  These  handicaps  are  “our  relative  ignorance  of  fact”  and  “our  relative 
+indeterminacy of aim.”42 Mechanical jurisprudence, involving simple application of law to fact, 
+would be possibly only if “the world in which we live were characterized only by a finite number 
+of  features,  and  these  together  with  all  the  modes  in  which  they  combine  could  be  known  to 
+us.”43 But “[p]lainly this world is not our world.”44 The problem with a mechanical approach is 
+that it secures “a measure of certainty or predictability at the cost of blinding prejudging what is 
+to be done in a  range of future cases, about whose composition we are ignorant. We shall thus 
+indeed succeed in settling in advance, but also in the dark, issues which can only be reasonably 
+be settled when they arise and are identified.”45 The problem with that kind of decision is that it 
+forces us “to include in the scope of a rule cases which we would wish to exclude in order to give 
+effect to reasonable social aims. . . . “46 In the context of environmental protection, the analysis 
+seems straightforward. The literal language of congressional enactments will often include cases 
+that Congress could not anticipate, and hence interpreters who follow that language will produce 
+judgments “in the dark,” and unreasonable, even absurd ones to boot. The cases discussed above 
+seem to fall in this category. 
+ 
+Of  course  much  of  Hart’s  account  is  sensible  and  right.  But  Hart  neglects  some  key 
+issues, and he is able to do so only because of his apparently unselfconscious use of word “we” 
+to identify the interpreting authority. Why should we think that “we” are interpreting the statute? 
+If “we” are engaging in interpretation, it might well make sense to insist that “we” should settle 
+the  relevant  issues  in  the  light  rather  in  the  dark.  But  if  the  question  of  how  to  interpret  a 
+statutory text is approached in institutional terms, it will become clear that Hart fails to attend to 
+
+                                                           
+
+37 115 N.Y. 506, 22 N.E. 188 (1889). 
+38 143 U.S. 457 (1892). 
+39 See Scalia, supra note 5 (criticizing Holy Trinity). 
+40 See H.L.A. Hart, The Concept of Law 125 (1972). 
+41 Id. 
+42 Id. 
+43 Id. at 126. 
+44 Id. 
+45 Id. 
+46 Id. 
+
+two  crucial  points.  The  first  involves  the  risk  of  judicial  blunder;  the  second  involves  the 
+dynamic effects of one or another approach to interpretation.  
+ 
+In  cases  involving  unanticipated  problems,  the  question  is  not  what  “we”  will  do;  it  is 
+what  courts  will  do.  Perhaps  they  will  make  nonsense  rather  than  sense  of  the  law.  The 
+possibility  is  far  from  remote  in  the  context  of  regulatory  law  and  environmental  protection, 
+where courts may lack the information that would enable them to answer the complex question 
+about  what  should  be  done  “in  the  light.”  And  it  is  important  to  investigate  the  effects  of  the 
+courts’ choice on future litigants and on legislative behavior. A sensible system of interpretation 
+understands  the  inevitability  of  dynamic  effects;  it  sees  that  the  judges’  choice  will  not  be 
+limited, in its consequences, to the immediate parties. Suppose that courts, abandoning the text 
+because  it  will  produce  nonsense,  will  introduce  a  high  degree  of  uncertainty  into  the  law. 
+Suppose  that  if  they  proceed  blindly  and  in  the  dark,  they  will  create  good  incentives  for  the 
+legislature, which will promptly correct the problems that arise. In these circumstances, perhaps 
+a refusal to correct absurdities is not so bad after all. In the environmental context, these issues 
+can be quite difficult. A decision to abandon the text, on the ground that it produces an absurd 
+result in a particular case, might introduce a great deal of uncertainty into the future 
+ 
+Ironically,  Ronald  Dworkin,  often  taken  to  be  Hart’s  adversary,  shares  the  same 
+blindness.  Dworkin  also  rejects  literalism,  believing  that  judges  should  make  the  best 
+constructive  interpretation  of  the  existing  legal  materials.47  At  first  glance,  the  belief  seems 
+unexceptionable;  but  like  Hart,  Dworkin  fails  to  address  the  imperfections  of  judges  and  the 
+systemic effects of one or another approach to interpretation. It is not false to say, with Dworkin, 
+that the controversy in Riggs “was a dispute about what the law was, about what the real statute 
+the  legislators  enacted  really  said.”48  But  it  is  hopelessly  inadequate  to  cast  the  issue  in  those 
+terms.  The  dispute  was  about  the  appropriate  approach  to  a  statute  whose  literal  text  produces 
+absurdity. If courts ask about the meaning of “the real statute the legislators enacted,” they will 
+be neglecting some of the crucial issues. 
+ 
+What  are  those  issues?  Three  are  central:  (a)  the  capacity  of  courts  to  make  sound 
+decisions if they make such exceptions; (b) the problems, in terms of increased uncertainty, that 
+would be produced by the granting of exceptions; (c) the likelihood that a legislature, faced with 
+a rigid, rule-following judiciary, would correct the situation.49 It is not at all clear, in the abstract, 
+how  the  empirical  issues  should  be  resolved.    In  fact,  they  cannot  be  resolved  in  the  abstract. 
+Everything  depends  on  context  and  on  institutional  capacities.  In  a  legal  system  in  which 
+legislatures  are  able  to  anticipate  many  potential  absurdities,  the  need  for  exemptions  will 
+decrease; so too in a system in which legislatures will promptly correct absurdities as they arise. 
+In the environmental  context, courts should probably take a literalist approach if Congress will 
+correct absurdities and if courts lacks the tools to identify situations in which literalism does not 
+fact make for absurdity. But in a legal system in which absurdities are common and unlikely to 
+be anticipated or corrected, and in which judges are able to exempt absurdities without creating 
+systemic harm,  the case for  literalism is  severely  weakened. In this light, those who debate the 
+role of “plain meaning” in interpretation might well be taken to be disagreeing over some highly 
+empirical  questions  about  the  real-world  consequences  of  one  or  another  approach.  Those 
+
+                                                           
+
+47  See  his  discussion  of  Tennessee  Valley  Authority  v.  Hill,  437  U.S.  153,  8  ELR  20513,  in  Ronald  Dworkin, 
+
+Law’s Empire 345-48 (1985). 
+
+48 Id. at 20. 
+49 See Sunstein and Vermeule, supra note 3, for a detailed discussion. 
+ 
+
+questions  might  not  be  easy  to  resolve;  but  if  we  focus  on  them,  we  will  know  what  we  are 
+disagreeing  about,  and  some  quasi-theological  disputes  about  how  to  interpret  statutes  might 
+appear to be relatively mundane. 
+ 
+It is tempting to think this argument neglects the whole issue of legitimacy. Does it? I do 
+not believe so. Almost everyone agrees that judges should not ignore statutory terms, even if the 
+relevant  judges  are  superb  and  even  if  the  relevant  legislatures  are  hopelessly  inattentive  and 
+confused.50  But  we  are  speaking  here  not  of  ignoring  terms,  but  of  preventing  unintended 
+absurdity  and,  much  of  the  time,  of  handling  the  particular  interpretive  problem  of  excessive 
+generality.    This  is  Hart’s  focus  as  well.  The  problem  is  pervasive  in  ordinary  life,  where 
+language sometimes  sweeps  more broadly  than any reasonable person would like. Legislatures, 
+even  the  most  attentive,  are  unable  to  avoid  the  problem.  In  such  circumstances,  judges  who 
+make  sense  rather  than  nonsense  of  the  law  are  interpreting  it,  not  ignoring  it.  If  judicial 
+interpreters,  like  other  sensible  people,  disregard  literal  language  to  avoid  a  result  that  (in  all 
+likelihood) was not intended or sought, it is ludicrous to object that courts have committed some 
+abstract sin called “illegitimacy.” But it is not ludicrous to object; perhaps courts will make the 
+situation  worse  rather  than  better,  and  perhaps  they  do  better  to  interpret  the  statute  literally. 
+Whether the objection is reasonable depends on the pragmatic and institutional factors that I have 
+identified here. 
+ 
+
+The Case of Agencies 
+
+ 
+Now  let  us  turn  to  administrative  agencies,  giving  particular  attention  to  the  Environmental 
+Protection Agency and other agencies involved in protecting safety, health, and the environment. 
+Recall that for courts, the case for literalism, even in the case of absurdity, depends on a belief 
+that courts will not always make sound decisions about what counts as absurd; a judgment that 
+literalism will create good incentives for legislatures, to anticipate problems before the fact and 
+to correct  them after the fact; and a  fear  that  efforts  to prevent absurdity will create systematic 
+harm,  by  making  planning  more  difficult  and  by  increasing  the  level  of  uncertainty.  We  have 
+seen that in the abstract, reasonable people might well disagree about how to do this calculus in 
+the context of judges. But the calculus changes, in major ways, when agencies are involved.  
+ 
+It  changes  for  two  fundamental  reasons.  First,  agencies  are  in  a  good  position  to  know 
+whether  a  particular  outcome  is,  in  fact,  absurd.  In  the  environmental  setting,  a  court  may  be 
+unlikely  to  have  a  clear  sense  of  whether  one  or  another  approach  would  produce  a  patently 
+unreasonable outcome; but the Environmental Protection  Agency  has  far  more information. To 
+say  the  least,  courts  would  have  a  hard  time  in  deciding  whether  the  language  of  the  SDWA, 
+taken literally, would compromise drinking water safety in the context of regulatory controls on 
+lead.  Confronted  by  an  argument  to  that  effect  from  regulated  companies,  courts  might  well 
+hesitate  to  resolve  the  underlying  issues;  they  might  sensibly  choose  to  follow  the  text.  By 
+contrast,  agencies  face  no  such  disabilities.  They  are  likely  to  know  whether  a  literal 
+interpretation really would cause environmental harm.  
+
+Second,  agencies  are  in  a  far  better  position  to  know  whether  systemic  harm  will  be 
+created by departing from the text and trying to produce sense rather than nonsense in particular 
+cases. A serious problem  with  abandoning  literalism  is  that  the  abandonment might undermine 
+planning and make it hard for the agency to enforce the law, in a simple and predictable way, in 
+
+                                                           
+
+address the complications here. 
+
+50  Actually,  I  believe  the  underlying  issues  are  more  complicated  than  the  agreement  suggests,  but  I  cannot 
+
+the future. But it is difficult for courts, and other generalists, to know whether this risk is real or 
+fanciful. Because of their specialized competence, agencies are in a far better position to resolve 
+that  question.  Compared  to  courts,  they  are  more  likely  to  know  (for  example)  whether  a 
+decision  to  allow  de  minimis  exceptions  to  a  regulatory  program  would  undo  the  regulatory 
+scheme,  or  whether  a  decision  to  proceed  as  the  EPA  did  under  the  SDWA  would  make  for 
+unacceptable confusion in the future.  
+
+But this is not the only point. In resolving these questions, judgments of value might also 
+be involved, and they can be extremely important.  To the extent that value judgments are being 
+made,  agencies  have  advantages  over  courts  too,  precisely  because  of  their  political 
+accountability.  It  is  not  inappropriate  to  conclude  that  EPA,  subject  as  it  is  to  presidential 
+oversight, should be authorized to decide whether to make such exemptions, to the extent that the 
+statute  might  fairly  be  described  as  ambiguous.  (Recall  that  excessive  generality  is  a  form  of 
+ambiguity,  and  that  where  a  statute  produces  absurdity,  it  is  reasonable  to  say,  as  did  the 
+American  Water  Works  court,  that  it  lacks  a  plain  meaning.)    This  point  means  that  the  Bush 
+Administration has the authority to resolve certain issues, under Chevron step 1, differently from 
+the  Clinton  Administration.  So  be  it.  In  the  ordinary  run  of  cases,  it  is  a  virtue,  not  a  vice,  of 
+Chevron  that  the  decision  allows  different  administrations  to  resolve  statutory  ambiguities  in 
+different  ways.  Chevron  itself,  allowing  the  Reagan  Administration  to  reject  the  view  of  the 
+Carter Administration, is the most salient case in point. What I am adding here is a suggestion 
+that  under  step  1,  the  relevant  administration  should  also  be  authorized,  most  of  the  time,  to 
+accept  or  to  reject  literalism  when  that  approach  would  lead  to  an  absurd  or  patently 
+unreasonable  outcome.  As  the  recent  cases  suggest,  agencies  should  have  significantly  more 
+discretion, on this score, than federal courts. 
+ 
+In my view, the problem in Holy Trinity  should be seen very differently in the context of 
+the modern regulation, which will pose as a central question: What are the views of any agency 
+charged with implementation of this law? As against occasional pleas for judicial “updating” of 
+obsolete statutes, offered most influentially by Judge Guido Calabresi,51 it might be claimed that 
+the  argument  needs  to  be  updated:  for  the  most  part,  solutions  to  the  problem  of  legal 
+obsolescence should come from administrative agencies, immersed in the problems at hand and 
+having both technocratic and democratic virtues as compared to courts. In modern Holy Trinity-
+type cases, courts should not do the work on their own, but should permit agencies to engage in a 
+degree  of  statutory  adaptation.  This  is  not  at  all  on  the  theory  that  agencies  are  authorized  to 
+violate  the  statute  (no  agency  is  authorized  to  do  that),  but  after  a  conclusion  that  agencies 
+reasonably concluded that despite the generality of the text, it is legitimate to interpret it to avoid 
+absurdity, at least if there is no considered legislative judgment that the text should be applied in 
+a way contrary to the agency’s view. 
+To  say  this  is  not  to  deny  the  possibility  of  counterarguments.  In  defending  the  new 
+ 
+canon  of  construction,  I  have  not  discussed  the  possibility  of  congressional  correction.  If  the 
+legislature is highly responsive, then it will, by hypothesis, be less important to allow agencies to 
+have the authority to avoid absurdity. And if agencies themselves should be distrusted, the new 
+principle will seem much less appealing. If agencies deserve distrust, we might suspect that they 
+are  not  applying  their  expertise,  and  we  might  be  skeptical  about  their  judgments  of  value. 
+Suppose,  for  example,  that  agencies  will  seek  to  exempt  risks  not  because  those  risks  are 
+genuinely trivial, but because  of political pressures, imposed by regulated industries with self-
+serving  agendas,.  If  so,  agency  authority  to  exempt  de  minimis  risks,  as  a  way  of  avoiding 
+                                                           
+
+51 See Guido Calabresi, The Common Law in An Age of Statutes (1989). 
+
+apparent absurdity, seems far less appealing. Or suppose that in the American Water Works case, 
+the EPA was not really adopting the most sensible approach, but attempting to ease regulation in 
+a way that allowed unacceptable health risks from lead. More generally, endorsement of the new 
+canon that I have identified here depends on the judgment that when agencies claim that a certain 
+outcome would be absurd, we have good reason to believe that they are likely to be right. 
+ 
+There  is  no  algorithm  to  prove  that  the  new  canon  is  justified;  everything  depends  on 
+context and on the reliability of our various institutions. In a world in which legislatures correct 
+absurdities and agencies are confused or untrustworthy, formalism—an insistence on adherence 
+to the literal language -- would make as much sense for agencies as for courts. In such a world, 
+American Water Works, and the other cases I have discussed, would be wrong. But this is not our 
+world.  Agencies  must  apply  statutory  language  in  countless  settings,  many  of  them  new  and 
+unanticipated  and  often  in  the  face  of  changing  circumstances.  In  the  environmental  context, 
+agencies must work with statutes that are frequently quite rigid, that must of course be obeyed, 
+but that in some applications produce outcomes that Congress could not possibly have wanted. It 
+is  far  too  much  to  expect  Congress  to  be  closely  attentive  whenever  excessive  generality 
+produces  absurdity.  Indeed  a  well-functioning  system  of  interpretation  would  make  it 
+unnecessary for Congress to spend its time on such comparative trivia; it would allow corrections 
+through the interpretive methods discussed here.  
+Of  course  regulatory  agencies  often  blunder.  But  in  the  modern  state,  statutory  terms 
+ 
+must be engrafted onto countless situations and problems that even the most reasonable and far-
+sighted  legislatures  could  not  easily  have  foreseen.  The  “thin  simplifications”52  of  enacted  law 
+will inevitably fit poorly with at least some of the contexts to which they apply. Indeed this is a 
+pervasive problem -- and an inevitable product of the movement from a common law system to 
+one  pervaded  by  statutory  commands.  In  areas  ranging  from  safety  in  drinking  water  to 
+telecommunications  and  banking,  statutory  law  cannot  possibly  fit  well  with  the  range  of 
+situations  to  which,  over  decades  or  more,  to  which  it  must  be  adapted.  This  is  an  extremely 
+serious  problem  for  which  it  is  important  to  find  correctives.53  The  new  canon  that  I  am 
+discussing is a modest means of reducing that problem. 
+
+Will agencies abuse their new authority? Can the EPA be trusted to use the new canon so 
+
+as to avoid real absurdity, rather than bowing to powerful private interests? I think that the 
+underlying risks are minimal. In the cases I am discussing here, there is no need for alarm; the 
+usual pattern is one in which sensible regulators are attempting to counteract excessive generality 
+or palpable unreasonableness, neither intended by Congress. In allowing agencies to make 
+corrections, courts are merely permitting agencies to do what courts themselves have long done. 
+Once we debate interpretive questions in institutional terms—in terms of who is good at what -- 
+we might reasonably dispute whether courts should be authorized to interpret statutory language 
+so as to avoid absurdity. But even if courts should be denied that authorization, we should 
+welcome agency power to make sense rather than nonsense of regulatory law. The new canon of 
+interpretation thus fits well with the displacement of the common law by regulatory programs–
+and it is likely to find an increasingly receptive judiciary in the coming decades.  
+ 
+ 
+ 
+
+                                                           
+
+52 See Scott, supra note 9. 
+53 The movement toward economic incentives, as opposed to command-and-control regulation, can be understood 
+
+in these terms. See A. Denny Ellerman et al., Markets for Clean Air (2000). 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Readers with comments should address them to: 
+ 
+Cass R. Sunstein 
+University of Chicago Law School 
+1111 East 60th Street 
+Chicago, IL  60637 
+ 
+ 
+
+csunstei@midway.uchicago.edu 
+
+Chicago Working Papers in Law and Economics 
+(Second Series) 
+
+William M. Landes, Copyright Protection of Letters, Diaries and Other Unpublished 
+Works:  An Economic Approach (July 1991) 
+Richard A. Epstein, The Path to The T. J. Hooper: The Theory and History of Custom in 
+the Law of Tort (August 1991) 
+Cass R. Sunstein, On Property and Constitutionalism (September 1991) 
+Richard A. Posner, Blackmail, Privacy, and Freedom of Contract (February 1992) 
+Randal C. Picker, Security Interests, Misbehavior, and Common Pools (February 1992) 
+Tomas J. Philipson & Richard A. Posner, Optimal Regulation of AIDS (April 1992) 
+Douglas G. Baird, Revisiting Auctions in Chapter 11 (April 1992) 
+William M. Landes, Sequential versus Unitary Trials: An Economic Analysis (July 1992) 
+William M. Landes & Richard A. Posner, The Influence of Economics on Law: A 
+Quantitative Study (August 1992) 
+Alan O. Sykes, The Welfare Economics of Immigration Law: A Theoretical Survey With 
+An Analysis of U.S. Policy (September 1992) 
+Douglas G. Baird, 1992 Katz Lecture: Reconstructing Contracts (November 1992) 
+Gary S. Becker, The Economic Way of Looking at Life (January 1993) 
+J. Mark Ramseyer, Credibly Committing to Efficiency Wages: Cotton Spinning Cartels in 
+Imperial Japan (March 1993) 
+Cass R. Sunstein, Endogenous Preferences, Environmental Law (April 1993) 
+Richard A. Posner, What Do Judges and Justices Maximize? (The Same Thing Everyone 
+Else Does) (April 1993) 
+Lucian Arye Bebchuk and Randal C. Picker, Bankruptcy Rules, Managerial 
+Entrenchment, and Firm-Specific Human Capital (August 1993) 
+J. Mark Ramseyer, Explicit Reasons for Implicit Contracts: The Legal Logic to the 
+Japanese Main Bank System (August 1993) 
+
+ 
+1. 
+
+2. 
+
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+
+10. 
+
+11. 
+12. 
+13. 
+
+14. 
+15. 
+
+16. 
+
+17. 
+
+18.  William M. Landes and Richard A. Posner, The Economics of Anticipatory Adjudication 
+
+(September 1993) 
+Kenneth W. Dam, The Economic Underpinnings of Patent Law (September 1993) 
+Alan O. Sykes, An Introduction to Regression Analysis (October 1993) 
+Richard A. Epstein, The Ubiquity of the Benefit Principle (March 1994) 
+Randal C. Picker, An Introduction to Game Theory and the Law (June 1994) 
+
+19. 
+20. 
+21. 
+22. 
+23.  William M. Landes, Counterclaims: An Economic Analysis (June 1994) 
+24. 
+
+J. Mark Ramseyer, The Market for Children: Evidence from Early Modern Japan (August 
+1994) 
+Robert H. Gertner and Geoffrey P. Miller, Settlement Escrows (August 1994) 
+Kenneth W. Dam, Some Economic Considerations in the Intellectual Property Protection 
+of Software (August 1994) 
+Cass R. Sunstein, Rules and Rulelessness, (October 1994) 
+David Friedman, More Justice for Less Money: A Step Beyond Cimino (December 1994) 
+
+25. 
+26. 
+
+27. 
+28. 
+
+29. 
+
+30. 
+31. 
+
+32. 
+
+33. 
+34. 
+35. 
+
+36. 
+37. 
+
+38. 
+
+46. 
+47. 
+
+48. 
+
+49. 
+
+50. 
+
+52. 
+
+53.  
+
+Daniel Shaviro, Budget Deficits and the Intergenerational Distribution of Lifetime 
+Consumption (January 1995) 
+Douglas G. Baird, The Law and Economics of Contract Damages (February 1995) 
+Daniel Kessler, Thomas Meites, and Geoffrey P. Miller, Explaining Deviations from the 
+Fifty Percent Rule: A Multimodal Approach to the Selection of Cases for Litigation 
+(March 1995) 
+Geoffrey P. Miller, Das Kapital: Solvency Regulation of the American Business 
+Enterprise (April 1995) 
+Richard Craswell, Freedom of Contract (August 1995) 
+J. Mark Ramseyer, Public Choice (November 1995) 
+Kenneth W. Dam, Intellectual Property in an Age of Software and Biotechnology 
+(November 1995) 
+Cass R. Sunstein, Social Norms and Social Roles (January 1996) 
+J. Mark Ramseyer and Eric B. Rasmusen, Judicial Independence in Civil Law Regimes: 
+Econometrics from Japan (January 1996) 
+Richard A. Epstein, Transaction Costs and Property Rights: Or Do Good Fences Make 
+Good Neighbors? (March 1996) 
+Cass R. Sunstein, The Cost-Benefit State (May 1996) 
+
+39. 
+40.  William M. Landes and Richard A. Posner, The Economics of Legal Disputes Over the 
+
+41. 
+
+Ownership of Works of Art and Other Collectibles (July 1996) 
+John R. Lott, Jr. and David B. Mustard, Crime, Deterrence, and Right-to-Carry Concealed 
+Handguns (August 1996) 
+Cass R. Sunstein, Health-Health Tradeoffs (September 1996) 
+G. Baird, The Hidden Virtues of Chapter 11: An Overview of the Law and Economics of 
+Financially Distressed Firms (March 1997) 
+Richard A. Posner, Community, Wealth, and Equality (March 1997) 
+
+44. 
+45.  William M. Landes, The Art of Law and Economics: An Autobiographical Essay (March 
+
+42. 
+43. 
+
+1997) 
+Cass R. Sunstein, Behavioral Analysis of Law (April 1997) 
+John R. Lott, Jr. and Kermit Daniel, Term Limits and Electoral Competitiveness: 
+Evidence from California=s State Legislative Races (May 1997) 
+Randal C. Picker, Simple Games in a Complex World: A Generative Approach to the 
+Adoption of Norms (June 1997) 
+Richard A. Epstein, Contracts Small and Contracts Large: Contract Law through the 
+Lens of Laissez-Faire (August 1997)  
+Cass R. Sunstein, Daniel Kahneman, and David Schkade, Assessing Punitive Damages 
+(with Notes on Cognition and Valuation in Law) (December 1997)  
+
+51.  William M. Landes, Lawrence Lessig, and Michael E. Solimine, Judicial Influence: A 
+
+Citation Analysis of Federal Courts of Appeals Judges (January 1998)  
+John R. Lott, Jr., A Simple Explanation for Why Campaign Expenditures are Increasing: 
+The Government is Getting Bigger (February 1998)  
+Richard A. Posner, Values and Consequences: An Introduction to Economic Analysis of 
+Law (March 1998)  
+
+54. 
+
+55. 
+
+56. 
+
+57. 
+58. 
+
+59. 
+60. 
+
+61. 
+62. 
+
+63. 
+
+64. 
+65. 
+
+66. 
+67. 
+
+68. 
+69. 
+
+70. 
+71. 
+
+Denise DiPasquale and Edward L. Glaeser, Incentives and Social Capital: Are 
+Homeowners Better Citizens? (April 1998)  
+Christine Jolls, Cass R. Sunstein, and Richard Thaler, A Behavioral Approach to Law and 
+Economics (May 1998) 
+John R. Lott, Jr., Does a Helping Hand Put Others At Risk?: Affirmative Action, Police 
+Departments, and Crime (May 1998) 
+Cass R. Sunstein and Edna Ullmann-Margalit, Second-Order Decisions (June 1998) 
+Jonathan M. Karpoff and John R. Lott, Jr., Punitive Damages: Their Determinants, Effects 
+on Firm Value, and the Impact of Supreme Court and Congressional Attempts to Limit 
+Awards (July 1998) 
+Kenneth W. Dam, Self-Help in the Digital Jungle (August 1998) 
+John R. Lott, Jr., How Dramatically Did Women=s Suffrage Change the Size and Scope of 
+Government? (September 1998) 
+Kevin A. Kordana and Eric A. Posner, A Positive Theory of Chapter 11 (October 1998) 
+David A. Weisbach, Line Drawing, Doctrine, and Efficiency in the Tax Law (November 
+1998) 
+Jack L. Goldsmith and Eric A. Posner, A Theory of Customary International Law 
+(November 1998) 
+John R. Lott, Jr., Public Schooling, Indoctrination, and Totalitarianism (December 1998) 
+Cass R. Sunstein, Private Broadcasters and the Public Interest: Notes Toward A AThird 
+Way@ (January 1999) 
+Richard A. Posner, An Economic Approach to the Law of Evidence (February 1999) 
+Yannis Bakos, Erik Brynjolfsson, Douglas Lichtman, Shared Information Goods 
+(February 1999) 
+Kenneth W. Dam, Intellectual Property and the Academic Enterprise (February 1999) 
+Gertrud M. Fremling and Richard A. Posner, Status Signaling and the Law, with 
+Particular Application to Sexual Harassment (March 1999) 
+Cass R. Sunstein, Must Formalism Be Defended Empirically? (March 1999) 
+Jonathan M. Karpoff, John R. Lott, Jr., and Graeme Rankine, Environmental Violations, 
+Legal Penalties, and Reputation Costs (March 1999) 
+
+72.  Matthew D. Adler and Eric A. Posner, Rethinking Cost-Benefit Analysis (April 1999) 
+73. 
+
+John R. Lott, Jr. and William M. Landes, Multiple Victim Public Shooting, Bombings, and 
+Right-to-Carry Concealed Handgun Laws: Contrasting Private and Public Law 
+Enforcement (April 1999)  
+Lisa Bernstein, The Questionable Empirical Basis of Article 2=s Incorporation Strategy: A 
+Preliminary Study (May 1999) 
+Richard A. Epstein, Deconstructing Privacy: and Putting It Back Together Again (May 
+1999) 
+
+75. 
+
+74. 
+
+76.  William M. Landes, Winning the Art Lottery: The Economic Returns to the Ganz 
+
+77. 
+
+Collection (May 1999) 
+Cass R. Sunstein, David Schkade, and Daniel Kahneman, Do People Want Optimal 
+Deterrence? (June 1999) 
+
+88.  Matthew D. Adler and Eric A. Posner, Implementing Cost-Benefit Analysis When 
+
+78. 
+
+79. 
+80. 
+
+81. 
+
+82. 
+83. 
+
+84. 
+85. 
+86. 
+
+87. 
+
+89. 
+
+90. 
+
+91. 
+92. 
+93. 
+
+94. 
+
+95. 
+
+96. 
+
+97. 
+98. 
+99. 
+
+Tomas J. Philipson and Richard A. Posner, The Long-Run Growth in Obesity as a 
+Function of Technological Change (June 1999) 
+David A. Weisbach, Ironing Out the Flat Tax (August 1999) 
+Eric A. Posner, A Theory of Contract Law under Conditions of Radical Judicial Error 
+(August 1999) 
+David Schkade, Cass R. Sunstein, and Daniel Kahneman, Are Juries Less Erratic than 
+Individuals? Deliberation, Polarization, and Punitive Damages (September 1999) 
+Cass R. Sunstein, Nondelegation Canons (September 1999) 
+Richard A. Posner, The Theory and Practice of Citations Analysis, with Special Reference 
+to Law and Economics (September 1999) 
+Randal C. Picker, Regulating Network Industries: A Look at Intel (October 1999) 
+Cass R. Sunstein, Cognition and Cost-Benefit Analysis (October 1999) 
+Douglas G. Baird and Edward R. Morrison, Optimal Timing and Legal Decisionmaking: 
+The Case of the Liquidation Decision in Bankruptcy (October 1999) 
+Gertrud M. Fremling and Richard A. Posner, Market Signaling of 
+Personal Characteristics (November 1999) 
+
+Preferences Are Distorted (November 1999) 
+Richard A. Posner, Orwell versus Huxley: Economics, Technology, Privacy, and Satire 
+(November 1999) 
+David A. Weisbach, Should the Tax Law Require Current Accrual of Interest on 
+Derivative Financial Instruments? (December 1999) 
+Cass R. Sunstein, The Law of Group Polarization (December 1999) 
+Eric A. Posner, Agency Models in Law and Economics (January 2000) 
+Karen Eggleston, Eric A. Posner, and Richard Zeckhauser, Simplicity and Complexity in 
+Contracts (January 2000)  
+Douglas G. Baird and Robert K. Rasmussen, Boyd=s Legacy and Blackstone=s Ghost 
+(February 2000)  
+David Schkade, Cass R. Sunstein, Daniel Kahneman, Deliberating about Dollars: The 
+Severity Shift (February 2000) 
+Richard A. Posner and Eric B. Rasmusen, Creating and Enforcing Norms, with Special 
+Reference to Sanctions (March 2000) 
+Douglas Lichtman, Property Rights in Emerging Platform Technologies (April 2000)  
+Cass R. Sunstein and Edna Ullmann-Margalit, Solidarity in Consumption (May 2000) 
+David A. Weisbach, An Economic Analysis of Anti-Tax Avoidance Laws (May 2000, 
+revised May 2002)  
+
+100.  Cass R. Sunstein, Human Behavior and the Law of Work (June 2000)  
+101.  William M. Landes and Richard A. Posner, Harmless Error (June 2000) 
+102.  Robert H. Frank and Cass R. Sunstein, Cost-Benefit Analysis and Relative Position 
+
+(August 2000)  
+Eric A. Posner, Law and the Emotions (September 2000)  
+103. 
+104.  Cass R. Sunstein, Cost-Benefit Default Principles (October 2000)  
+
+105. 
+
+Jack Goldsmith and Alan Sykes,  The Dormant Commerce Clause and the Internet 
+(November 2000) 
+
+106.  Richard A. Posner, Antitrust in the New Economy (November 2000) 
+107.  Douglas Lichtman, Scott Baker, and Kate Kraus, Strategic Disclosure in the Patent 
+
+108. 
+
+System (November 2000) 
+Jack L. Goldsmith and Eric A. Posner, Moral and Legal Rhetoric in International 
+Relations:  A Rational Choice Perspective (November 2000) 
+
+Saul Levmore, Conjunction and Aggregation (December 2000) 
+Saul Levmore, Puzzling Stock Options and Compensation Norms (December 2000) 
+
+109.  William Meadow and Cass R. Sunstein, Statistics, Not Experts (December 2000) 
+110. 
+111. 
+112.  Richard A. Epstein and Alan O. Sykes, The Assault on Managed Care:  Vicarious 
+Liability, Class Actions and the Patient=s Bill of Rights (December 2000) 
+
+113.  William M. Landes, Copyright, Borrowed Images and Appropriation Art:  An Economic 
+
+Approach (December 2000) 
+
+114.  Cass R. Sunstein, Switching the Default Rule (January 2001) 
+115.  George G. Triantis, Financial Contract Design in the World of Venture Capital (January 
+
+2001) 
+Jack Goldsmith, Statutory Foreign Affairs Preemption (February 2001) 
+
+116. 
+117.  Richard Hynes and Eric A. Posner, The Law and Economics of Consumer Finance 
+
+(February 2001) 
+
+118.  Cass R. Sunstein, Academic Fads and Fashions (with Special Reference to Law) (March 
+
+119. 
+
+2001) 
+Eric A. Posner, Controlling Agencies with Cost-Benefit Analysis:  A Positive Political 
+Theory Perspective (April 2001) 
+
+120.  Douglas G. Baird, Does Bogart Still Get Scale?  Rights of Publicity in the Digital Age 
+
+121.  Douglas G. Baird and Robert K. Rasmussen, Control Rights, Priority Rights and the 
+
+Conceptual Foundations of Corporate Reorganization (April 2001) 
+
+122.  David A. Weisbach, Ten Truths about Tax Shelters (May 2001) 
+123.  William M. Landes, What Has the Visual Arts Rights Act of 1990 Accomplished? (May 
+
+(April 2001) 
+
+2001) 
+
+124.  Cass R. Sunstein, Social and Economic Rights?  Lessons from South Africa (May 2001) 
+125.  Christopher Avery, Christine Jolls, Richard A. Posner, and Alvin E. Roth, The Market for 
+
+Federal Judicial Law Clerks (June 2001)  
+
+ 
+
+126.  Douglas G. Baird and Edward R. Morrison, Bankruptcy Decision Making (June 2001) 
+127.  Cass R. Sunstein, Regulating Risks after ATA (June 2001) 
+128.    Cass R. Sunstein, The Laws of Fear (June 2001) 
+129.  Richard A. Epstein, In and Out of Public Solution:  The Hidden Perils of Property 
+
+Transfer (July 2001) 
+
+130.  Randal C. Picker, Pursuing a Remedy in Microsoft:  The Declining Need for Centralized 
+
+Coordination in a Networked World (July 2001) 
+
+131.  Cass R. Sunstein, Daniel Kahneman, David Schkade, and Ilana Ritov, Predictably 
+
+Incoherent Judgments (July 2001) 
+
+132. 
+133. 
+
+Eric A. Posner, Courts Should Not Enforce Government Contracts (August 2001) 
+Lisa Bernstein, Private Commercial Law in the Cotton Industry:  Creating Cooperation 
+through Rules, Norms, and Institutions (August 2001) 
+
+134.  Richard A. Epstein, The Allocation of the Commons:Parking and Stopping on the 
+
+Commons (August 2001) 
+
+135.  Cass R. Sunstein, The Arithmetic of Arsenic (September 2001) 
+136. 
+
+Eric A. Posner, Richard Hynes, and Anup Malani, The Political Economy of Property 
+Exemption Laws (September 2001) 
+Eric A. Posner and George G. Triantis, Covenants Not to Compete from an Incomplete 
+Contracts Perspective (September 2001) 
+
+137. 
+
+138.  Cass R. Sunstein, Probability Neglect:  Emptions, Worst Cases, and Law (November 
+
+2001) 
+
+139.  Randall S. Kroszner and Philip E. Strahan, Throwing Good Money after Bad? Board 
+
+Connections and Conflicts in Bank Lending (December 2001) 
+
+140.  Alan O. Sykes, TRIPs, Pharmaceuticals, Developing Countries, and the Doha ASolution@ 
+
+141. 
+
+(February 2002) 
+Edna Ullmann-Margalit and Cass R. Sunstein, Inequality and Indignation (February 
+2002) 
+
+142.  Daniel N. Shaviro and David A. Weisbach, The Fifth Circuit Gets It Wrong in Compaq v. 
+
+Commissioner (February 2002) (Published in Tax Notes, January 28, 2002) 
+
+143.  Warren F. Schwartz and Alan O. Sykes, The Economic Structure of Renegotiation and 
+
+Dispute Resolution in the WTO/GATT System (March 2002, forthcoming Journal of Legal 
+Studies 2002) 
+
+144.  Richard A. Epstein, HIPAA on Privacy:  Its Unintended and Intended Consequences 
+
+(March 2002, forthcoming Cato Journal, summer 2002) 
+
+145.  David A. Weisbach, Thinking Ouside the Little Boxes (March 2002, forthcoming Texas 
+
+146. 
+
+Law Review) 
+Eric A. Posner, Economic Analysis of Contract Law after Three Decades:  Success or 
+Failure (March 2002) 
+
+147.  Randal C. Picker, Copyright as Entry Policy:  The Case of Digital Distribution (April 
+
+2002, forthcoming The Antitrust Bulletin) 
+
+148.  David A. Weisbach, Taxes and Torts in the Redistribution of Income (April 2002, Coase 
+
+Lecture February 2002) 
+
+149.  Cass R. Sunstein, Beyond the Precautionary Principle (April 2002) 
+150.  Robert W. Hahn and Cass R. Sunstein, A New Executive Order for Improving Federal 
+
+Regulation?  Deeper and Wider Cost-Benefit Analysis (April 2002) 
+
+151.  Douglas Lichtman, Copyright as a Rule of Evidence (May 2002) 
+152.  Richard A. Epstein, Steady the Course: Property Rights in Genetic Material (May 2002) 
+153. 
+
+Jack Goldsmith and Cass R. Sunstein, Military Tribunals and Legal Culture:  What a 
+Difference Sixty Years Makes (June 2002) 
+
+154.  William M. Landes and Richard A. Posner, Indefinitely Renewable Copyright (July 2002) 
+155.  Anne Gron and Alan O. Sykes, Terrorism and Insurance Markets: A Role for the 
+
+Government as Insurer? (July 2002) 
+
+156.  Cass R. Sunstein and Adrian Vermeule, Interpretation and Institutions (July 2002) 
+157.   Cass R. Sunstein, The Rights of Animals: A Very Short Primer (August 2002) 
+158.  Cass R. Sunstein, Avoiding Absurdity? A New Canon in Regulatory Law (with Notes on 
+
+Interpretive Theory) (August 2002) 
+ 
+
+

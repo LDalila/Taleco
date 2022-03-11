@@ -1,0 +1,2272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>" 90 Georgetown Law Journal 2255 (2001).</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Chicago Unbound</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <string-name>Recommended Citation</string-name>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Faculty Scholarship</institution>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2001</year>
+      </pub-date>
+      <volume>90</volume>
+      <fpage>2001</fpage>
+      <lpage>2002</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>The Arithmetic of Arsenic</p>
+    </sec>
+    <sec id="sec-2">
+      <title>CASS R. SUNSTEIN*</title>
+      <p>What does cost-benefit analysis mean, or do, in actual practice? When agencies
+engage in cost-benefit balancing, what are the interactions among law, science, and
+economics? This Article attempts to answer that question by exploring, in some
+detail, the controversy over the EPA's proposed regulation of arsenic in drinking
+water The largest finding is that often science can produce only "benefit ranges, "
+and wide ones at that. With reasonable assumptions based on the scientific data
+before the EPA at the time it made its initial decision, the proposed arsenic
+regulation can be projected to save as few as 0 lives and as many as 112. With
+reasonable assumptions, the monetized benefits of the regulation can range from $0
+to $560 million. In these circumstances, there is no obviously right decision for
+government agencies to make. These points have numerous implications for lawyers
+and courts, suggesting both the ease of bringing legal challenges on grounds
+specified here and the importance of judicial deference in the face of scientific
+uncertainty. There are also policy implications. Agencies should be given the
+authority to issue more targeted, cost-effective regulations. They should also be
+required to accompany the cost-benefit analysis with an effort to identify the winners
+and losers, to see if poor people are mostly hurt or mostly helped.</p>
+      <p>Americans may disagree on a lot of things, but drinking arsenic isn't one of
+them .... When you turn on the kitchen sink, you ought to be able to drink
+what comes out, without worrying about being poisoned.'
+"What we know is a drop, what we do not know-an ocean." In spite of
+significant gains in knowledge, we are still moving mainly in the dark when
+dealing with the quantitative importance of risk factors in chemical
+carcinogenesis, the mechanisms of action of chemical carcinogens, and hence, their
+detection and the assessment of their risks to human health. The basic
+understanding... is still missing.2
+* Karl N. Llewellyn Distinguished Service Professor of Jurisprudence, Law School and Department
+of Political Science, University of Chicago. A revised and abridged version of this Article will appear in
+CASS R. SUNSTEIN, RISK AND REASON (forthcoming 2002). 1am grateful to Laura Warren for outstanding
+research assistance and to Jonathan Baron, Cary Coglienese, Robert Hahn, Lisa Heinzerling, Christine
+Jolls, Eric Posner, Richard Posner, and participants in a work-in-progress lunch at the University of
+Chicago Law School for valuable suggestions on a previous draft.</p>
+      <p>
+        1. Elizabeth Shogren, House Votes for Tougher Arsenic Rule; Measure OKs Clinton Water Standard,
+CHI. TRIB., July 2
+        <xref ref-type="bibr" rid="ref6">8, 2001</xref>
+        , at I (quoting Rep. David Bonior).
+      </p>
+      <p>
+        2. ToxICOLOGY 178
+        <xref ref-type="bibr" rid="ref30 ref31">(Hans Marquardt et al. eds., 1999)</xref>
+        (quoting Isaac Newton) (internal references
+omitted).
+      </p>
+      <p>2255
+Because the shape of the dose-response curve in the low-dose region cannot
+be verified by measurement, there is no means to determine which shape is
+correct.... [W]hen modeling the risks associated with lower doses, the
+dose/risk range in which regulatory agencies and risk assessors are most
+frequently interested, there is a wide divergence in the risk projected by
+[different models, all of which fit existing.evidence.] ... In fact ... the risks
+predicted by these ... models produce a 70,000-fold variation in the predicted
+response.3
+Additional epidemiological evaluations are needed to characterize the
+doseresponse relationship for arsenic-associated cancer and noncancer end points,
+especially at low doses. Such studies are of critical importance for improving
+the scientific validity of risk assessment.4
+Anyone5 who's read an Agatha Christie mystery knows that arsenic is a
+poison.</p>
+      <p>INTRODUCTION</p>
+      <p>Within the past two decades, cost-benefit analysis (CBA) has become one of
+the most widely discussed topics in all of regulatory law. 6 Much of the
+discussion is occurring within the three branches of government. The Office of
+Management and Budget (OMB) has overseen a series of executive orders
+calling for cost-benefit balancing,7 and OMB has attempted to give concrete
+guidance for agencies to follow. 8 Courts have adopted a series of cost-benefit
+default principles, authorizing agencies to engage in cost-benefit balancing
+unless Congress requires otherwise. 9 Congress itself has shown considerable
+interest in requiring agencies to compile information on the costs and benefits of
+regulation.' ° At the same time, there has been renewed academic interest in
+CBA, resulting in explorations of the technique from a remarkable variety of
+perspectives. "</p>
+      <p>In all of these contexts, the discussion has tended to be quite abstract. Within
+the legal culture, there has been little discussion of what CBA specifically
+entails or of how the technique might be used or improved by agencies. 12 To
+date, there appears to be no sustained investigation within the legal culture of
+any regulation in which CBA proved pivotal to the outcome. In this Article, I
+hope to begin to fill the gap. I do so by exploring one of the most contested
+early decisions of the Environmental Protection Agency (EPA) under President
+George W. Bush: the suspension of the EPA regulation of arsenic in drinking
+water.' 3 Much of the contest over that decision has involved a debate about the
+relevant costs and benefits of the regulation. As we will see, it is possible to
+draw a range of general lessons from the arsenic controversy.</p>
+      <p>My principal finding is simple: Sometimes the best that can be done is to
+specify an exceedingly wide "benefits range," one that does not do a great deal
+to discipline judgment. Much of this Article will be devoted to establishing this
+insufficiently appreciated point, with some effort to specify the judgments that
+must be made both to identify the health benefits and to monetize them. As a
+result of this finding, it would be wrong to have confidence that the EPA's
+proposed rule in the Clinton Administration was either right or wrong, based on
+the evidence before the agency at the time. I also offer three more positive
+suggestions. First, CBA, even with wide ranges, provides an important
+improvement over the "intuitive toxicology" of ordinary people, in which general affect
+helps to determine judgment.' 4 This intuitive toxicology can lead people to
+large blunders in thinking about risk, not excluding the public's excessive
+reaction to the Bush Administration's decision to suspend the arsenic rule issued
+by the Clinton Administration.- 5 Second, considerable progress could be made
+by authorizing the EPA both to use market incentives and to target drinking
+water controls to areas where they would do the most good. Third, the EPA
+should be required to provide, if feasible, a distributional analysis showing
+exactly who would be helped and hurt by regulation. In its voluminous
+materials on the effects of the new arsenic rule, for example, the EPA does not say a
+word about whether poor people would bear the sometimes significant costs of
+the regulation. It would be easier to assess the new rule with a clearer sense of
+the benefited and burdened classes.</p>
+      <p>More particularly, I suggest that an understanding of the arsenic controversy
+offers seven general lessons:
+(1) The illusion of certainty. CBA can sometimes produce an illusion of
+certainty.' 6 Even when, as in the arsenic case, science has a great deal to
+offer, the most that the agency can be expected to do may be to specify a
+range, sometimes a wide range, without assigning probabilities to various
+points along the spectrum. This suggestion should be taken as an attack
+not on CBA, but on what might be described as the false promise of
+CBA: the thought that science and economics, taken together, can
+produce bottom lines to be mechanically applied by regulatory agencies.
+"[T]here is wide recognition among experts-but not necessarily in the
+public opinion-that current approaches to the regulation of most agents
+remain judgmental." 17
+(2) The wide benefits range. With respect to health benefits, plausible
+assumptions can lead in dramatically different directions. In the case of arsenic, it
+would be possible to conclude that the annual number of lives saved from
+the EPA's proposed regulation would be as low as 5 or as high as
+112-and that the annual monetized benefits of the proposed standard
+would be as high as $1.2 billion or as low as $10 million! It is worthwhile
+to pay special attention to the dose-response curve, on which direct
+information is typically absent. I will make a particular effort to connect
+the legal and economic issues involved in cost-benefit balancing to the
+underlying scientific questions.
+(3) The potentially extraordinary power of creative lawyers. If literate in
+some basic science and economics, an adroit lawyer, on either side, might
+mount apparently reasonable challenges to any EPA decision about whether
+and how to regulate arsenic in drinking water. An industry lawyer should
+be able to urge, not without some force, that any new regulation of arsenic
+is too severe, because the costs exceed the benefits. An environmental
+lawyer should be able to urge, not without some force, that nearly any
+imaginable regulation of arsenic is too lenient, because the benefits of
+further regulation would exceed the costs. Both challenges would be
+plausible for a simple reason: It is easy to identify assumptions that would
+drive the numbers up or down. Hence one of my principal goals is to
+provide a kind of primer on how informed lawyers can integrate science,
+economics, and law to challenge regulatory outcomes.</p>
+      <p>16. This point is also pressed in Lisa Heinzerling, Regulatory Costs of Mythic Proportions,107 YALE
+L.J. 1981 (1998).</p>
+      <p>17. TOXICOLOGY, supra note 2, at 1145.
+(4) The needfor judicialdeference. In part because of point three, and in light
+of the scientific and economic complexities, courts should play an
+exceedingly deferential role in overseeing CBA at the agency level. To say the
+least, judges are not specialists in the relevant topics, some of which are
+highly technical, and because good lawyers will be able to raise so many
+plausible doubts, the best judicial posture is one of deference. In the
+arsenic case and in many other contexts, agencies must decide in the
+midst of considerable scientific uncertainty and on the basis of judgments
+of value on which reasonable people can differ. If agencies have been
+both open and reasonable, the judicial role is at an end. It follows, for
+example, that the Clinton Administration's arsenic rule, if it had been
+finally issued and challenged, should have survived judicial review. It also
+follows that a less stringent regulation, if it had been chosen by the Bush
+Administration, should survive judicial review too. The claim for judicial
+deference, in both cases, is rooted in institutional considerations and
+above all a sense of the likely problems of intensive judicial review-not
+in approval of any particular agency decision. Of course courts should
+invalidate arbitrary or indefensible judgments, but the EPA's approach
+here was neither arbitrary nor indefensible.
+(5) CBA as indispensable information. The false precision of CBA is a
+significant cautionary note, but it should not be taken as a fundamental
+attack on the method itself, at least if CBA is understood as a way of
+compiling relevant information. In the arsenic case, an assessment of
+costs and benefits cannot determine the appropriate regulatory outcome.
+But even so, the assessment is indispensable to informing the inquiry and
+to ensuring that discretion is exercised in a way that is transparent rather
+than opaque. Without some effort to ascertain the effects of regulation,
+agencies are making a mere stab in the dark. At the very least, an
+understanding of the data helps show exactly why the decision about how
+to regulate arsenic is genuinely difficult-and why, and where, reasonable
+people might differ. This is itself a significant gain.
+(6) Targeting. The Safe Drinking Water Act (SDWA), 18 designed to control
+pollution in drinking water, has been amended to require cost-benefit
+balancing, partly to permit the EPA to relax regulatory requirements when
+the benefits are low and the costs are high.' 9 At the same time, however,
+the SDWA continues to have a high degree of rigidity. The EPA is not
+authorized to impose regulation selectively or in those areas in which
+regulation would do the most good; it is required to proceed with a
+uniform, national regulation. 20 The EPA is also forbidden to create
+trading programs, which might well make best sense for some pollutants.</p>
+      <p>Statutory amendments would be sensible here, especially under a statute
+18. 42 U.S.C. §§ 300f to 300j-26 (2000).
+19. See id. § 300g-l(b)(3)(C).
+20. See id. § 300g. But see id. § 300g-4 to 300g-5.
+dedicated to cost-benefit balancing. Regulatory statutes generally should
+authorize agencies to target regulations to areas where the benefits exceed
+the costs and should also allow agencies to use market incentives when
+appropriate. 2 '
+(7) The importance of distributional information. It would be extremely
+valuable to assemble information about the distributionalconsequences
+of regulation. The benefits of some regulations are enjoyed
+disproportionately by people who are poor and members of minority groups. 22 The
+burdens of some regulations are imposed disproportionately on exactly
+the same groups. To assess the arsenic rule, it would be highly desirable
+to know whether poor people are mostly helped or mostly hurt. Would
+they bear high costs? Would the regulation operate as a regressive tax?
+Unfortunately, the EPA has not answered that question, though it would
+almost certainly be easy for it to do so. Existing executive orders calling
+for CBA should be amended to require a careful distributional analysis as
+well.23</p>
+      <p>This Article comes in several parts. Part I offers a general overview of the
+movement toward cost-benefit balancing, a movement in which the SDWA
+stands as the most dramatic legislative endorsement. It also gives a brief
+description of the public outcry over President Bush's decision to suspend the
+regulation, to fortify the case for CBA. Part II provides a brief outline of the
+SDWA and of the EPA's rationale in its regulation of arsenic. Part III explores
+the very different analysis coming from the American Enterprise
+InstituteBrookings (AEI-Brookings) Joint Center for Regulatory Studies. Part IV-in
+many ways the heart of the Article-shows how apparently reasonable
+assumptions lead to a dramatically diverse set of benefit numbers, both monetized and
+nonmonetized. Part V explores how lawyers and courts might respond to the
+data. Part VI discusses the role of policymakers and explains that agencies
+should be permitted to issue targeted regulations and to use economic incentives
+and that, in keeping with its informational functions, CBA should include a
+description of the expected winners and losers from regulation.</p>
+    </sec>
+    <sec id="sec-3">
+      <title>I. INTUITIVE TOXICOLOGY AND THE COST-BENEFIT STATE</title>
+      <p>A. ARSENIC AND THE PUBLIC</p>
+      <p>My principal topic will be the contest over the appropriate analysis of
+existing data relating to arsenic, but it will be useful to begin with a puzzle. In
+April 2001, the Bush Administration suspended the Clinton Administration's
+arsenic regulation after calling for further study.2 4 There seems to be little
+question that of all the controversial environmental actions of the Bush
+Administration's first year, the suspension of the arsenic rule produced the most intense
+reaction.</p>
+      <p>
+        A national survey, conducted between April 21 and April 2
+        <xref ref-type="bibr" rid="ref4">6, 2001</xref>
+        , found that
+fifty-six percent of Americans rejected the Bush decision, whereas only
+thirtyfour percent approved of it-and that majorities of Americans opposed the
+decision in every region of the nation. At various points, the public outcry
+combined concern, certainty, and cynicism. "Arsenic Everywhere, and Bush is
+Not Helping," according to one newspaper.2 6 "You may have voted for him, but
+you didn't vote for this in your water," wrote the Wall Street Journal2. 7 In an
+editorial, the New York Times demanded that "Americans should expect their
+drinking water to be at least as safe as that of Japan, Jordan, Namibia and
+Laos," all of which impose a 10 parts per billion (ppb) standard.2 8 A respected
+journalist asked, "How callous can you get, Mr. Compassionate
+Conservative? '29 The public reaction came to a head during the legislative debates on the
+issue, particularly within the House of Representatives, which voted to reinstate
+the Clinton rule on the theory that arsenic "is a poison.' '3°
+      </p>
+      <p>Here is the puzzle: With respect to arsenic, the underlying issues are highly
+technical, and very few people are expert on the risks posed by exposure to low
+levels of arsenic. What accounts for the public outcry? I believe that the reason
+is simple: Arsenic was involved, and so was drinking water.</p>
+      <p>These two facts made the controversy seem highly accessible, and it was easy
+to be outraged. Why was the Bush Administration allowing dangerously high
+levels of arsenic to remain in drinking water? This appeared to be a rhetorical
+question. By contrast, many environmental problems are both obscure and
+technical, and people do not have an easy or intuitive handle on them. Is carbon
+dioxide a serious problem? Most people have no idea. But arsenic is
+wellknown, and it is well-known to be a poison, not least because of the exceedingly
+popular movie, Arsenic and Old Lace.3 1 An influential environmental group, the
+Natural Resources Defense Council, exploited exactly this reference with its
+work on the arsenic problem, under the title, Arsenic and Old Laws. 32 The
+public reaction would have been different if the controversy involved a water
+contaminant with an obscure name, such as cadmium.</p>
+      <p>Ordinary people seem to be "intuitive toxicologists," with a set of simple
+rules for thinking about environmental risks.33 Among those simple rules is a
+belief that substances that cause cancer are unsafe and should be banned.34 That
+intuitive toxicology does not easily make room for issues of degree. It does not
+accommodate the judgment that low levels of admittedly carcinogenic
+substances should sometimes be tolerated because the risks are low and the costs of
+eliminating them are high. It does not show an understanding of the different
+imaginable dose-response curves and the possibility of safe thresholds or even
+benefits from low exposure levels. 35</p>
+      <p>As part of intuitive toxicology, people rely on the "affect heuristic," through
+which rapid, even automatic responses greatly affect judgments about risks.36
+Consider, for example, the remarkable fact that stock prices increase
+significantly on sunny days, a fact that is hard to explain in terms that do not rely on
+affect.37 With respect to risks, affect often operates as a kind of mental shortcut,
+substituting itself for a more careful inquiry into consequences.3 8 Something
+very much of this sort has happened with the Bush Administration's suspension
+of the arsenic standard, partly because of skepticism about President Bush, but
+mostly because of the associations of arsenic. "If there is one thing we all seem
+to agree on is that we do not want arsenic in our drinking water. It is an
+extremely potent human carcinogen ....It is this simple: arsenic is a killer."39
+We could easily imagine public outrage over any decision to allow arsenic in
+drinking water, even if the permissible level were exceedingly low. The outrage
+would likely be promoted by cascade effects in which people's concern would
+31. ARSENIC AND OLD LACE (Warner Bros. 1944).</p>
+      <p>32. PAUL MUSHAK, NATURAL RES. DEF. COUNCIL, ARSENIC AND OLD LAWS: A SCIENTIFIC AND PUBLIC
+HEALTH ANALYSIS OF ARSENIC OCCURRENCE IN DRINKING WATER, ITS HEALTH EFFECTS, AND EPA's
+OUTrDATED ARSENIC TAP WATER STANDARD (2000), available at http://www.nrdc.org/water/drinking/arsenic/
+exesum.asp.</p>
+      <p>33. See SLOVIC, supra note 14, at 285-314.
+34. Id. at 291.
+35. See Appendix.
+36. See SLOVIC, supra note 14, at 413-27.</p>
+      <p>37. David A. Hirshleifer &amp; Tyler G. Shumway, Good Day Sunshine: Stock Returns and the Weather
+(2001), http://papers.ssrn.comlsol3/papers.cfm?abstract-id=265674.</p>
+      <p>
+        38. See SLOVIC, supra note 14, at 413-27.
+39. 147 CONG. REC. H4744
+        <xref ref-type="bibr" rid="ref23 ref3">(daily ed. July 27, 2001)</xref>
+        (statement of Rep. Waxman).
+be heightened by the fact that other people were concerned. Indeed, the Bush
+Administration's suspension of the arsenic rule seems to have created a cascade
+effect in which many people objected to the suspension because other
+(reasonable) people seemed to have objected.4 ° In fact one of the most compelling
+arguments, within both the House of Representatives and the public at large,
+was that other countries regulated arsenic at the level of stringency proposed in
+the Clinton Administration. 4 1 The practices of other countries seemed to operate
+as a kind of mental shortcut, showing what it is right to do-notwithstanding
+the reasonable questions that might be asked about the scientific bases for those
+practices.
+      </p>
+      <p>There is a deeper point here. The problems in intuitive toxicology and the
+crudeness of the affect heuristic seem strongly to support the use of CBA,4 2
+understood not as a way to stop regulation, but to ensure that when government
+acts, it does so with some understanding of the likely consequences. CBA might
+well be understood as a way of moving beyond intuitive toxicology toward a
+form of toxicology that is actually supported by data. This point raises some
+much larger issues, involving significant trends in the nature of government
+regulation, to which I now turn.</p>
+      <p>B. THE EMERGING COST-BENEFIT STATE</p>
+      <p>More than any other federal statute, the SDWA, as a result of the 1996
+amendments, reflects a strong commitment to cost-benefit balancing. The rise of
+interest in cost-benefit balancing signals a dramatic shift from the initial stages
+of national risk regulation. Those stages were undergirded by what might be
+called "1970s environmentalism," which placed a high premium on immediate
+responses to long-neglected problems, emphasized the existence of problems
+rather than their magnitude, and was often rooted in moral indignation directed
+at the behavior of those who created pollution and other risks to safety and
+health.4 3 Important aspects of 1970s environmentalism can be found in the
+apparently cost-blind national ambient air quality provisions of the Clean Air
+Act44 and in statutory provisions requiring that standards be set by reference to
+"the best available technology" without a requirement of cost-benefit balancing
+or even an effort to quantify benefits. 45</p>
+      <p>It is clear that 1970s environmentalism has done a great deal of good. It has
+helped to produce dramatic improvements in many domains, above all in the
+context of air pollution, where ambient air quality has improved for all major
+pollutants.4 6 Indeed, 1970s environmentalism appears, by most accounts, to
+survive cost-benefit balancing, producing aggregate benefits in the trillions of
+dollars, well in excess of the aggregate Costs. 4 7 But even though the overall
+picture is no cause for alarm, a closer look at federal regulatory policy shows a
+wide range of problems.</p>
+      <p>Perhaps foremost is the problem of exceptionally poor priority-setting, with
+substantial resources sometimes going to small problems and with little
+attention paid to some serious problems.4 8 The point has been dramatized by
+repeated demonstrations that some regulations create significant substitute
+risks49-and that with cheaper, more effective tools, regulation could achieve its
+basic goals while saving billions of dollars. 50 According to one study, each
+embodying admittedly rough calculations, better allocations of health
+expenditures could save 60,000 additional lives each year at no additional cost-and
+better allocations could maintain the current level of lives saved with $31
+billion in annual savings.5 1</p>
+      <p>
+        In these circumstances, the most attractive parts of the movement for CBA
+have not been rooted in especially controversial judgments about what
+government ought to be doing. They have been rooted instead in a more mundane
+search for pragmatic instruments designed to reduce the problems of poor
+priority-setting, excessively costly tools, and inattention to the unfortunate
+side-effects of regulation. By drawing attention to costs and benefits, it should
+be possible to spur the most obviously desirable regulations, to deter the most
+obviously undesirable ones, to encourage a broader view of consequences, and
+to promote a search for least-cost methods of achieving regulatory goals.5 z
+Notice here that so defended, CBA is not only an obstacle to unjustified
+regulation; it should be a spur to government as well, showing that regulation
+should attend to neglected problems. If cost-benefit balancing is supported on
+these highly pragmatic grounds, the central question is whether that form of
+46. See Richard D. Morgenstern &amp; Marc K. Landy, Economic Analysis: Benefits, Costs,
+Implications, in ECONOMIC ANALYSES AT EPA: ASSESSING REGULATORY IMPACT 455, 455-56 (Richard D.
+Morgenstern ed., 1997); Paul R. Portnoy, Air Pollution Policy, in PUBLIC POLICIES FOR ENVIRONMENTAL
+PROTECTION 77, 101-05
+        <xref ref-type="bibr" rid="ref12 ref36">(Paul R. Portnoy &amp; Robert N. Stavins eds., 2000)</xref>
+        .
+      </p>
+      <p>47. See Portnoy, supra note 46, at 101-05.</p>
+      <p>
+        48. See STEPHEN BREYER, BREAKING THE VICIOUS CIRCLE: TOWARD EFFECTIVE RISK REGULATION 10-11,
+18-
+        <xref ref-type="bibr" rid="ref16">23 (1993</xref>
+        ).
+      </p>
+      <p>49. See RISK VERSUS RISK: TRADEOFFS IN PROTECTING HEALTH AND THE ENVIRONMENT (John D. Graham
+&amp; Jonathan Baert Wiener eds., 1995).</p>
+      <p>50. See, e.g., A. DENNY ELLERMAN ET AL., MARKETS FOR CLEAN AIR: THE U.S. ACID RAIN PROGRAM
+253-56 (2000); Robert N. Stavins, Market-Based Environmental Policies, in PUBLIC POLICIES FOR
+ENVIRONMENTAL PROTECTION, supra note 46, at 31, 35-55.</p>
+      <p>51. See Tammy 0. Tengs et al., Five-Hundred Life-Saving Interventions and Their
+CostEffectiveness, 15 RISK ANALYSIS 369 (1995).</p>
+      <p>52. For many examples, see ECONOMIC ANALYSES AT EPA, supra note 46.
+balancing is actually producing what can be taken as policy improvements by
+people with diverse views about appropriate policy.</p>
+      <p>On these counts, the record of CBA-at least within the EPA-is generally
+encouraging. 53 Assessments of costs and benefits has, for example, helped
+produce more stringent and rapid regulation of lead in gasoline, promoted more
+stringent regulation of lead in drinking water, led to stronger controls on air
+pollution at the Grand Canyon and the Navajo Generating Station, and produced
+a reformulated gasoline rule that promotes stronger controls on air pollutants.5 4
+In these areas, CBA, far from being only a check on regulation, has indeed
+spurred government attention to serious problems.</p>
+      <p>CBA has also led to regulations that accomplish statutory goals at lower cost, or
+that do not devote limited private and public resources to areas where they are
+unlikely to do much good. For regulation of sludge, protection of farm workers, water
+pollution regulation for the Great Lakes, and controls on organic chemicals, CBA
+helped regulators produce modifications that significantly reduced costs.55 With
+respect to asbestos, an analysis of benefits and costs led the EPA to tie the schedule
+for phasing down (and eventually largely eliminating) asbestos to the costs of
+substitutes and also to exempt certain products from a flat ban.5 6 With respect to lead in
+gasoline and control of chlorofluorocarbons (destructive of the ozone layer), CBA
+helped promote the use of economic incentives rather than command-and-control
+regulation.5 7 In this case, economic incentives are much cheaper and make more
+stringent regulation possible in the first place. For modem government, one of the
+amnocset wseirtihoeuxsepcruotibvleembsraanpcphearersqutiorebme ennotts atgheant caygeunsceieosfeCnBgaAg,ebiunt
+sfurecqhuaennatlynsoisn.c5o8mpli</p>
+      <p>Of course, CBA is hardly uncontroversial.5 9 Insofar as both costs and benefits
+are measured by the economic criterion of "private willingness to pay," there
+are many problems. Poor people often have little ability and hence little
+willingness to pay. Some people will be inadequately informed and hence show
+unwillingness to pay for benefits that would make their lives go better.6 °
+Perhaps regulatory agencies should seek not private willingness to pay, but
+public judgments as expressed in public arenas.6 ' Society is not best taken as
+53. See id.
+54. See Morgenstern &amp; Landy, supra note 46, at 457-58.
+55. See id. at 458.
+56. See id.</p>
+      <p>57. See James K. Hammitt, Stratospheric-OzoneDepletion, in ECONOMIC ANALYSES AT EPA, supra
+note 46, at 131; Albert L. Nichols, Lead in Gas, in ECONOMIC ANALYSES AT EPA, supranote 46, at 49.</p>
+      <p>58. See Robert W. Hahn &amp; Cass R. Sunstein, A New Executive Order for Improving Federal
+Regulation?Deeperand Wider Cost-Benefit Analysis, 150 U. PA. L. REV. 1489, 1489-90 (2002).
+59. For a general challenge to quantification, see Heinzerling, supra note 16.</p>
+      <p>60. See Matthew D. Adler &amp; Eric A. Posner, Implementing Cost-Benefit Analysis When Preferences
+Are Distorted,in COST-BENEFIT ANALYSIS, supra note 6, at 269, 292-94.</p>
+      <p>61. Many of these points are pressed in ELIZABETH ANDERSON, VALUE IN ETHICS AND ECONOMICS
+204-10 (1993).
+some maximizing machine in which aggregate output is all that matters.
+Sometimes a regulation producing $5 million in benefits but $6 million in costs will
+be worthwhile, if those who bear the costs (perhaps representing dollar losses
+alone?) can do so easily, and if those who receive the benefits (perhaps
+representing lives and illnesses averted?) are especially needy.</p>
+      <p>In view of these problems, the strongest arguments for cost-benefit balancing
+are based not only-or even mostly--on neoclassical economics, but also on an
+understanding of human cognition, on democratic considerations, and on an
+assessment of the real-world record of such balancing.6 2 All of these points are
+directly relevant to the arsenic controversy. Begin with cognition: Ordinary
+people have difficulty calculating probabilities, and they tend to rely on rules of
+thumb, or heuristics, that can lead them to make systematic errors.6 3 CBA is a
+natural corrective here. Because of intense emotional reactions to particular
+incidents, people often make mistakes in thinking about the seriousness of
+certain risks. 64 Cost-benefit balancing should help government resist demands
+for regulation that are rooted in misperceptions of facts. Unless people are asked
+to seek a full accounting, they are likely to focus on small parts of problems,
+producing inadequate or even counterproductive solutions.65 CBA is a way of
+producing that full accounting.</p>
+      <p>With respect to democracy, the case for CBA is strengthened by the fact that
+interest-groups are often able to use these cognitive problems strategically, thus
+fending off regulation that is desirable or pressing for regulation when the
+argument on its behalf is fragile.6 6 Here CBA, taken as an input into decisions,
+can protect democratic processes by exposing an account of consequences to
+public view. With respect to pragmatic considerations, a review of the record
+suggests that cost-benefit balancing leads to improvements, not on any
+controversial view of how to value the goods at stake, but simply because such balancing
+can lead to more stringent regulation of serious problems, less costly ways of
+achieving regulatory goals, and a reduction in expenditures for problems that
+are, by any account, relatively minor.67 All of these points help explain the
+content of the SDWA, as we shall now see.</p>
+      <p>
+        62. I attempt to develop this point in Cass R. Sunstein, Cognition and Cost-Benefit Analysis, 29 J.
+LEGAL STUD. 1059, 110
+        <xref ref-type="bibr" rid="ref1">3 (2000</xref>
+        ). In the same vein, see Allan Gibbard, Risk and Value, in VALUES AT
+RISK 94-112 (Douglas MacLean ed., 1986).
+      </p>
+      <p>63. See Amos Tversky &amp; Daniel Kahneman, Judgment Under Uncertainty:Heuristicsand Biases, in
+JUDGMENT UNDER UNCERTAINTY: HEURISTICS AND BIASES 3, 11 (Daniel Kahneman et al. eds., 1982); see
+generally Roger G. Noll &amp; James E. Krier, Some Implications of Cognitive Psychology for Risk
+Regulation, 19 J. LEGAL STUD. 747 (1990).</p>
+      <p>64. See George F. Loewenstein et al., Risk As Feelings, 127 PSYCHOL. BULL. 267, 272-79 (2001).
+65. See DIETRICH DORNER, THE LOGIC OF FAILURE: RECOGNIZING AND AVOIDING ERROR IN COMPLEX
+SITUATIONS 186 (1996).</p>
+      <p>66. See Timur Kuran &amp; Cass R. Sunstein, Availability Cascades and Risk Regulation, 51 STAN. L.
+REV. 683, 724-29 (1999).</p>
+      <p>67. See Morgenstern &amp; Landy, supra note 46, at 457-59.</p>
+    </sec>
+    <sec id="sec-4">
+      <title>II. DRINKING WATER: CONGRESS AND THE EPA</title>
+      <p>A. STATUTORY BACKGROUND</p>
+      <p>Regulatory statutes typically instruct agencies to require as much as
+"feasible ' 68 or to "protect the public health. ' 69 Only a few such statutes expressly
+require agency decisions to turn on cost-benefit balancing. 70 The SDWA is an
+intriguing hybrid, combining an analysis of public health and feasibility with
+reference to CBA as well. Indeed, the cost-benefit provisions of the SDWA go
+as far as any other federal statute in requiring close attention to costs and benefits, and
+because Congress has been quite interested in imposing more general
+costbenefit requirements,7 ' the SDWA might well be a harbinger of the future. For
+this reason alone, the implementation of the statute is worth careful attention.</p>
+      <p>
+        More particularly, the SDWA asks the EPA to proceed in three steps. First, the
+EPA is asked to set "maximum contaminant level goals" (MCLG) for water
+pollutants.72 The goals must be set "at the level at which no known or
+anticipated adverse effects on the health of persons occur and which allows an
+adequate margin of safety. ' 73 In practice, this statutory standard will frequently
+call for a MCLG of zero because many contaminants cannot be shown to have
+safe thresholds and because the "adequate margin of safety" language will, in
+these specific circumstances, seem to support a zero MCLG. 4 Second, the EPA
+is told to specify "a maximum contaminant level [MCL] for such contaminant
+which is as close to the maximum contaminant level goal as is feasible."75 The
+statute defines feasible (not terribly helpfully) to mean "feasible with the use of
+the best technology, treatment techniques and other means which the [EPA]
+finds .. . are available.",76 Third, the EPA is required to undertake a risk
+assessment for pollutants, discussing the level of the danger and the costs of
+achieving the requisite reduction. 7 The risk assessment is supposed to give an
+account, for the MCL being considered and for all alternative levels being
+68. See, e.g., 29 U.S.C. § 655(b)(5) (2000) ("feasible"); 42 U.S.C. §§ 7521 (a)(
+        <xref ref-type="bibr" rid="ref1">3)(A) (2000</xref>
+        ) ("will
+be available"), 7412(d)(2) (2000) ("achievable"), 7411(a)(1) (2000) ("has been adequately
+demonstrated").
+      </p>
+      <p>69. 42 U.S.C. § 7409(b)(1) (2000).</p>
+      <p>70. See, e.g., Toxic Substances Control Act, 15 U.S.C. §§ 2601-2692 (2000); Federal Insecticide,
+Fungicide, and Rodenticide Act, 7 U.S.C. §§ 136-1 36 y (2000).</p>
+      <p>71. See CASS R. SUNSTEIN, FREE MARKETS AND SOCIAL JUSTICE 356-65 (1997).
+72. 42 U.S.C. § 300g-l(b)(4)(A) (2000).
+73. Id.</p>
+      <p>
+        74. See Drinking Water Regulations, 56 Fed. Reg. 26,460 (June 7, 1991) (codified at 40 C.F.R. pts.
+141, 142) (establishing a goal of zero for lead); National Primary Drinking Water Regulations, 66 Fed.
+Reg. 6976 (Jan.
+        <xref ref-type="bibr" rid="ref15">22, 2001</xref>
+        ) (codified at 40 C.F.R. pts. 9, 141, 142) (establishing a goal of zero for
+arsenic). But see Chlorine Chemistry Council v. EPA, 206 F.3d 1286
+        <xref ref-type="bibr" rid="ref28">(D.C. Cir. 2000)</xref>
+        (invalidating a
+chloroform regulation on ground that setting a MCLG of zero was arbitrary and capricious).
+75. 42 U.S.C. § 300g-l(b)(4)(B).
+76. Id. § 300g- I (b)(4)(D).
+77. Id. § 300g-I (b)(3).
+considered, of the "[q]uantifiable and nonquantifiable health risk reduction
+benefits for which there is a factual basis in the rulemaking record"; 78 the
+"[q]uantifiable and nonquantifiable CoStS"; 7 9 the "incremental costs and benefits
+associated with each alternative";80 and "[a]ny increased health risk that may
+occur as the result of compliance, including risks associated with co-occurring
+8
+contaminants." '
+      </p>
+      <p>The risk assessment is no mere disclosure provision. The SDWA expressly
+permits-but does not require-the EPA to set a MCL at a level other than the
+feasible level if it determines that the benefits of that level "would not justify
+the costs of complying with the level. ' 8 2 On the basis of that determination, the
+EPA is permitted to set a maximum level "that maximizes health risk reduction
+benefits at a cost that is justified by the benefits. 8 3 Courts are authorized to
+review the EPA's judgment about whether the benefits of a certain level justify
+the costs, but only by asking whether that judgment is "arbitrary and
+capriCiOHS.,,84</p>
+      <p>What does all this mean? The SDWA is quite different from the Toxic
+Substances Control Act (TSCA), which expressly requires the EPA to base
+decisions on a simple comparison of costs and benefits.85 The SDWA is more
+indirect, even circuitous, in its endorsement of cost-benefit requirements. But
+the difference between the SDWA and the TSCA is more apparent than real. In
+regulating contaminants in drinking water, the EPA is required to show that its
+judgment about cost-benefit balancing is not "arbitrary," and this standard is
+essentially the same as applied under the TSCA.8 6 Perhaps the SDWA gives the
+EPA somewhat more room for the exercise of discretion. But at most, the
+difference is one of degree. It is clear that courts are authorized to invalidate an
+arbitrary or unreasoned assessment on the cost or benefit side or on the question
+of whether the benefits justify the costs. As we shall see, this point raises many
+questions for the future.</p>
+      <p>B. ARSENIC AND THE FEDERAL GOVERNMENT</p>
+      <p>Arsenic is commonly found in nature as a part of the mineral compound
+arsenopyrite.87 As a result of soil and rock erosion, arsenic is released into the
+78. Id. § 300g-l(b)(3)(C)(i)(I).
+79. Id. § 300g- I (b)(3)(C)(i)(l1l).
+80. Id. § 300g-l(b)(3)(C)(i)(IV).
+81. Id. § 300g-l(b)(3)(C)(i)(VI).
+82. Id. § 300g-l(b)(6)(A).
+83. Id.
+84. Id. § 300g-I (b)(6)(D).</p>
+      <p>85. See 15 U.S.C. §§ 2601-2692; see also Corrosion Proof Fittings v. EPA, 947 F.2d 1201 (5th Cir.
+1991).</p>
+      <p>86. See CorrosionProofFittings, 947 F.2d 1201.</p>
+      <p>87. See Karen Breslin, Removing Arsenic from Drinking Water, 106 ENvTL. HEALTH PERSP. A548
+(Nov. 1998), availableat http://ehpnetl.niehs.nih.gov/docs/1998/106-1 1/innovations-abs.html.
+water supply, where it can be found in many regions, including New England,
+eastern Michigan, and the southwestern United States.8 8 It has long been known
+that arsenic can be toxic, 89 even carcinogenic, 90 and since 1942, the EPA has
+had in place an arsenic regulation calling for an MCL of 50 ppb.91 But in the
+past decades, some evidence has suggested that arsenic may have significant
+adverse effects at levels well below the 50 ppb standard. The principal evidence
+comes from epidemiological studies in Chile, Argentina, and above all Taiwan.
+The evidence from these studies suggests that exposure levels of 300 to 600 ppb
+cause significant increases of various cancers and other adverse effects.9 2 These
+levels are of course far higher than 50 ppb; but if we extrapolate from the risk at
+high levels to what might well happen at lower levels, there could be serious
+reason for concern. I will return to this point shortly.</p>
+      <p>In 1996, Congress directed the EPA to propose a new standard for arsenic by
+January 1, 2000. 9 At the same time, Congress told the National Academy of
+Sciences and the EPA to study the health effects of arsenic in order to assist the
+rulemaking effort.94 In 1996, the EPA requested that the National Research
+Council (NRC) of the National Academy of Sciences conduct an independent
+review of arsenic toxicity data and recommend changes to the EPA's arsenic
+criteria. 95 In its 1999 report, the NRC located few studies that examined arsenic
+effects at low-level concentrations and even fewer studies in agreement.96 A
+1995 Japanese study found cancer mortality near or below expectation among
+persons exposed to arsenic in drinking water at less than 50 ppb.97 Domestic
+research in the same year revealed no association between bladder cancer risk
+and arsenic exposure, where eighty-one of eighty-eight Utah towns (ninety-two
+percent) had concentrations below 10 ppb, and only one town exceeded the 50
+ppb standard.9 8 A 1999 assessment of Utah mortality rates, which the EPA
+described as "the best U.S. study currently available," 99 found no increased
+88. Id.</p>
+      <p>89. For recent overviews, see Knashawn H. Morales et al., Risk of InternalCancersfrom Arsenic in
+Drinking Water, 108 ENVTL. HEALTH PERSP. 655 (July 2000), at http://ehpnetl.niehs.nih.gov/docs/2000/
+108p655-661morales/abstract.html.</p>
+      <p>
+        90. See SUBCOMM. ON ARSENIC IN DRINKING WATER, NAT'L RESEARCH COUNCIL, supra note 4, at 83.
+91. National Primary Drinking Water Regulations, 66 Fed. Reg. 6976, 6977-79 (Jan.
+        <xref ref-type="bibr" rid="ref15">22, 2001</xref>
+        )
+(codified at 40 C.F.R. pts. 9, 141, 142).
+      </p>
+      <p>92. See id. at 7001-03.
+93. 42 U.S.C. § 300g- (b)(12)(iv) (2000).
+94. Id. § 300g-l(b)(12)(A)(ii).
+95. See SUBCOMM. ON ARSENIC IN DRINKING WATER, NAT'L RESEARCH COUNCIL, supra note 4, at 1-3.
+96. Id. at 83-130.</p>
+      <p>97. Toshihide Tsuda, et al., Ingested Arsenic and Internal Cancer: A Historical Cohort Study
+Followed for 33 Years, 141 AM. J. EPIDEMIOLOGY 198, 206 (1995); see also SUBCOMM. ON ARSENIC IN
+DRINKING WATER, NAT'L RESEARCH COUNCIL, supra note 4, at 99 (finding results statistically unstable).</p>
+      <p>98. Michael N. Bates et al., Case-ControlStudy of Bladder Cancerand Arsenic in Drinking Water,
+141 AM. J. EPIDEMIOL. 523, 525-26 (1995).</p>
+      <p>
+        99. National Primary Drinking Water Regulations, 66 Fed. Reg. 6976, 7002 (Jan.
+        <xref ref-type="bibr" rid="ref15">22, 2001</xref>
+        ) (codified
+at 40 C.F.R. pts. 9, 141, 142).
+bladder or lung cancer risks after exposure to arsenic levels of 14 to 166 ppb per
+liter. °° More recent studies in Finland and Taiwan, however, linked increased
+risks of bladder cancer and cerebrovascular disease to groundwater arsenic
+consumption as low as 0.1 to 50 ppb.' 0 ' The Taiwan study, with its significant
+population base, seemed especially impressive. 0 2
+      </p>
+      <p>These results could have led the NRC in several different directions. It would not
+have been entirely astonishing for the NRC to find that the evidence was too
+inconclusive to support a new rule. Nonetheless, the NRC concluded that the
+Taiwan studies provided the best available evidence on human health effects of
+arsenic. 103 The NRC used linear extrapolations from these data to obtain cancer
+risks at exposure levels below 50 ppb per liter and subsequently recommended
+that the EPA should significantly lower its current standard.' °4 Indeed, the NRC
+concluded that "considering the data on bladder and lung cancer noted in the
+studies ... a similar approach for all cancers could easily result in a combined cancer
+risk on the order of 1 in 100" from exposure at 50 ppb.'0 5 The 1 in 100 risk figure
+is a special source of concern because the EPA is usually attentive to environmental
+risks at or below 1in 1 million,' °6 and a risk of t in 100 seems plainly intolerable.</p>
+      <p>Critics attacked the NRC's recommendation on the grounds that Taiwanese
+cooking and health practices put Taiwanese citizens at greater risk for arsenic
+toxicity than Americans, as demonstrated by the absence of a single report of
+U.S. arsenic-induced cancer.' 0 7 The Taiwanese population is much poorer than
+the American population and suffers from a number of dietary and nutritional
+deficiencies, including a higher intake of arsenic from food and a deficiency in
+selenium, zinc, and vitamin B 12, all of which can reduce the toxicity of arsenic.
+Animal studies even suggest the possibility that arsenic may be a nutritional
+requirement, though there is insufficient data to indicate any nutritional role in
+human health.' 0 8 Despite these criticisms, the EPA relied heavily upon the
+NRC's scientific conclusions when redeveloping its current MCL.</p>
+      <p>
+        In 2000, the EPA issued a proposed regulation setting an MCLG of 0 ppb, on
+the ground that no safe level could be identified; an MCL of 3 ppb, on the
+ground that this was the lowest feasible level; and a regulatory ceiling of 5 ppb,
+on the ground that the CBA justified this approach but not any more stringent
+mandate.' 0 9 The EPA also requested comments on regulatory ceilings of 3, 10,
+and 20 ppb, for which it provided accounts of both benefits and costs. On
+January
+        <xref ref-type="bibr" rid="ref15">22, 2001</xref>
+        , the EPA issued a final rule that essentially embodied the same
+analysis as the proposal, but with a crucial change to a regulatory ceiling of 10
+ppb rather than 5 ppb." 0 The EPA urged that its assessment of costs and benefits
+for the four different levels of stringency justified the 10 ppb level."' The rule
+was to become effective on March 23, 2001, with a compliance date of January
+23, 2006. 12
+      </p>
+      <sec id="sec-4-1">
+        <title>1. Costs</title>
+        <p>The new regulation would have required several thousand water
+systemsserving about 10 million people-to install new equipment.1 3 The overall cost
+of the 10 ppb standard would have been about $206 million.' 14 This aggregate
+figure is not entirely informative because the additional payments would vary
+considerably across the nation. For most households, the annual increase in
+water bills would be in the range of $30." 5 Water systems with 500 or fewer
+customers, however, would face significantly higher costs, ranging up to $325
+per household." 16 These water systems represent a small fraction of the total
+number of people affected by arsenic, and they tend to involve rural
+communities.</p>
+        <p>As it was required to do, the EPA also calculated the costs of alternative
+levels of regulation. A 20 ppb standard would cost about $70 million; a 5 ppb
+standard, $470 million; and a 3 ppb standard, $790 million." 17 Here, too, the
+disaggregated figures are important. The most stringent standard of 3 ppb would
+cost an average of $41 per affected household, while the 20 ppb standard would
+cost about an average of $24." 8At the extremes, the 20 ppb standard is actually
+more expensive ($351) than the 3 ppb standard ($317), because of the particular
+control technologies that would be involved. 1 9 Consider the following summary:</p>
+        <p>The EPA did not offer a population-wide breakdown to show the numbers of
+people served by the various system sizes and to examine whether the people
+who would bear the costs could do so easily or with difficulty. One analysis,
+admittedly from a group with a particular point of view, suggests that
+eightyseven percent of people who consume arsenic at a significant level in their tap
+water (over 1 ppb) are served by systems serving more than 10,000
+customers. 12' This data suggests that almost nine out of ten of the people who will have
+to pay for water technology would face annual increases of less than $30-not
+entirely trivial perhaps, but certainly not a huge expenditure.</p>
+      </sec>
+      <sec id="sec-4-2">
+        <title>2. Benefits</title>
+        <p>Within the EPA, the much harder issues involved the benefits of the 10 ppb
+requirement.' 2 2 The most easily quantified benefits involve prevented cases of
+bladder and lung cancer; here the epidemiological data, mostly from Taiwan,
+allowed quantitative estimates to be made.' 2 3 For two reasons, however, even
+these estimates should be taken with some grains of salt. The first reason is that
+there are differences between the population of Taiwan and that of the United
+States.' 24 The second reason is that a great deal turns on the nature of the
+120. Id.
+121. MUSHAK, supra note 32, at ch. 3.</p>
+        <p>122. I emphasize that I am dealing here with the evidence at the time of the decision and that
+subsequent evidence appears to have strengthened the case for stringent regulation. See SUBCOMM. ON
+ARSENIC IN DRINKING WATER, NAT'L RESEARCH COUNCIL, supra note 13.</p>
+        <p>123. 66 Fed. Reg. at 7001-04.
+124. Id. at 7003-04.
+dose-response curve. If the curve is "linear," meaning that cancer cases do not
+drop sharply at low exposure levels, many more cancers will be predicted than
+if the curve is "sublinear," meaning that after exposure declines to a certain
+level, the number of cancer cases drops off. 125 Lacking any data on the
+question, the EPA decided to assume that the dose-response curve is linear,
+noting that "[t]he use of a linear procedure to extrapolate from a higher,
+observed data range to a lower range beyond observation is a science policy
+approach that has been in use by Federal agencies for four decades."' 26 The
+EPA added that the policy objectives were "to avoid underestimating risk in
+order to protect public health and be consistent and clear across risk
+assessments."' 127 From these remarks, it seems clear that the default assumption of
+linearity is not based on science-which cannot produce a standard default
+assumption-but on a policy judgment, designed to err on the side of protecting
+ihmeaplothrtabnyt iesnsusuerbineglowag.1a2i8nst underestimation of the risks. I will return to this</p>
+        <p>Armed with the assumption of linearity, the EPA thought that estimates were
+feasible for bladder and lung cancer and calculated bladder and lung cancer
+risks using the analysis of the NRC. 129 The NRC used the Taiwan data to
+calculate a I to 1.5 per 1000 lifetime risk of male fatal bladder cancer at the
+current 50 ppb standard; it also examined the Chile and Argentina studies and
+concluded the rates of cancer were comparable to the Taiwan data.' 30 The EPA
+assessed lung cancer risks, which are known to be two to five times greater than
+bladder cancer risks, but for many of the health effects from arsenic, the EPA
+concluded that quantification was impossible.' 3'
+a. Lives and Health: Quantities. The EPA estimated that the 10 ppb
+requirement would prevent twenty-one to thirty cancer deaths and sixteen to twenty-six
+cases of curable cancer.' 32 By comparison, a 20 ppb requirement would prevent
+ten to eleven deaths and nine curable cancers; a 5 ppb requirement, twenty-nine
+to fifty-four deaths and twenty-two to forty-seven curable cancers; and a 3 ppb
+125. Id. at 7004.</p>
+        <p>126. Id. In selecting its dose-response model, the EPA examined a 2000 study by Morales which
+presented ten potential dose-response models based upon interpretations of the original Taiwan data.
+Morales et al., supra note 89. The EPA rejected those models with a comparison population because
+they resulted in supralinear dose-response relationships (higher than a linear response). 66 Fed. Reg. at
+7006. The EPA concluded that there was no basis for this type of relationship because the NRC report
+had concluded that the dose-response relationship for arsenic at low levels should be either linear or
+sublinear, with a preference for the latter. Id. The EPA chose the linear model based upon the
+above-mentioned policies. These various points are treated in detail below.</p>
+        <p>127. 66 Fed. Reg. at 7004.
+128. See discussion infra section IV.A. I.
+129. 66 Fed. Reg. at 7006.
+130. Id.
+131. Id. at 7006, 7011.
+132. Id. at 7009.
+mate" consisting of the most probable one. The goal of this suggestion is
+correct. When the underlying science and economics allow analysts to come up
+with a "best estimate" and to assign probabilities to the alternative outcomes,
+this indeed should be done. In terms of monetizing the relevant values, it seems
+correct to say that the cancer risk deserves a premium as compared to workplace
+risks, but also to insist on discounting the monetary value of the risk to take
+account of the latency period and the fewer life-years saved. Hence, rough
+estimates of $4.5 million per life saved and $1.5 million per nonfatal cancer
+prevented seem as reasonable as anything else, even if somewhat arbitrary. At
+the very least, the EPA's $6.1 million figure appears too high in light of the long
+latency period, and the AEI-Brookings $1.1 million figure appears too low in
+light of the high discount rate that it reflects and the various factors suggesting
+that the workplace studies understate the monetary value of the risk involved
+here.</p>
+        <p>But with respect to health benefits, science does not allow best estimates to
+be provided here. It would be reasonable to suggest that the high estimate of
+112 lives saved is unrealistically high and a bit of a scare tactic in light of the
+problems in the Taiwan data and the probability that the dose-response curve is
+sublinear. The estimate of zero lives saved is highly improbable. But it does
+seem to me sensible to move toward concern with life-years saved rather than
+lives saved, and because of the long latency period, the quantified benefits are
+most unlikely to be enormously higher than the $210 million price tag.2 ' On
+the other hand, they might well be higher whether or not they are much higher,
+and for reasons to be elaborated shortly, the "bottom line" numbers need not be
+dispositive.</p>
+        <p>C. LESSONS</p>
+        <p>Does all this suggest that CBA is, in cases of this sort, unhelpful? It would
+not be hard to imagine an affirmative answer to that question. A skeptic might
+conclude that because the range of uncertainty is so large, any number at all
+could be justified and the ultimate decision is essentially political or based on
+"values." This view is not exactly wrong, but it should not be taken as a
+convincing challenge to CBA.</p>
+        <p>An analysis of benefits and costs cannot resolve the ultimate judgment, but it
+can certainly inform it. Once we understand the potential effects of different
+arsenic regulations and see where the uncertainties come from, we are in a
+much better position to know what to do. Of course a decision on that count will
+be a product of "values"-how could it be otherwise? The point is that the
+values should be identified as such, so that when the government acts, its
+211. This judgment is based on the information before the EPA when it initially decided to issue the
+new regulation. New data suggest that the monetized benefits may indeed be much higher than the
+monetized costs. See SUBCOMM. ON ARSENIC IN DRINKING WATER, supra note 13, at 4.
+reasons are transparent and explicable. If what I have said thus far is correct, the
+choice of a new arsenic rule was a genuinely hard question on the data before
+the EPA in 2000. Under the best case scenario, the benefits will exceed the
+costs, though perhaps not by a great deal. Under the worst case scenario, the
+costs will exceed the benefits. It is a tribute to CBA that we know exactly why
+the ultimate judgment is hard.</p>
+      </sec>
+      <sec id="sec-4-3">
+        <title>V. CBA IN COURT</title>
+        <p>We are now in a position to see the multiple possible challenges to any
+agency decision, that involves cost-benefit balancing. Because such balancing
+has become a staple of regulatory practice, it is important for lawyers to have
+some understanding of the underlying ideas and of how agencies might be said
+to have gone wrong. There are lessons for courts as well, mostly involving the
+need for deference to agencies.</p>
+        <p>A. LAWYERS: HOW TO MAKE BENEFITS GO WAY UP OR WAY DOWN</p>
+        <p>With respect to the regulation of social risks, the legal culture is increasingly
+required to pay close attention to both science and economics, 21 2 and here legal
+understandings remain in a primitive state. If we keep in mind the arithmetic of
+arsenic, we can see how creative lawyers representing water systems or
+environmentalists might be able to mount plausible challenges to the EPA's decisions
+regardless (almost) of the content of those decisions. I do not mean to endorse
+these challenges, but simply to give a sense of what they might look like. The
+following list catalogues the potential challenges.</p>
+      </sec>
+      <sec id="sec-4-4">
+        <title>1. The Dose Response Curve</title>
+        <p>A great deal depends on the dose-response curve, and at low levels the
+scientific evidence will often be inconclusive. With the assumption of a linear
+curve, the benefits of regulation will seem far higher than they might otherwise
+be. But from the scientific point of view, that assumption might be vulnerable.
+In the case of arsenic, the most striking point is that the independent entities on
+which the EPA relies actually split on the issue, with the Scientific Advisory
+Board supporting linearity and the National Research Council tentatively
+favoring sublinearity. In addition, linearity makes more sense for genotoxic
+carcinogens, and there is a dispute about whether arsenic is genotoxic. A decision to
+assume linearity, in the face of scientific uncertainty, is best seen as a
+(reasonable) policy judgment. Under a statute that calls for a "margin of safety," such a
+judgment is plainly supportable. It may be that an agency can indulge such a
+212. See, e.g., Am. Trucking Ass'ns v. EPA, 175 F.3d 1027 (D.C. Cir. 1999) (discussing the scientific
+and economic issues involved in regulating particulates and ozone), rev'd, Whitman v. Am. Trucking
+Ass'ns, 531 U.S. 457 (2001); Corrosion Proof Fittings v. EPA, 947 F.2d 1201 (5th Cir. 1991)
+(discussing the economic costs and scientific evidence relating to asbestos regulation).
+judgment under a statute that calls for cost-benefit balancing, but certainly not if
+science clearly points in the other direction. 2 13 For a lawyer objecting to
+regulation that seems too stringent, the best claim is that sublinearity is more
+likely. 2 14 For a lawyer objecting to regulation that seems inadequate, the best
+claim is that in the absence of specific data, linearity is the standard default
+assumption on policy grounds. As a legal matter, the EPA is probably on solid
+ground in relying on the linearity assumptions if the scientific evidence is
+unclear.</p>
+      </sec>
+      <sec id="sec-4-5">
+        <title>2. Inadequate Evidence</title>
+        <p>When regulating a pollutant, the EPA will often have to rely on evidence
+from other times and areas, and it will be easy to suggest that there are relevant
+differences between the population at issue and the population from which that
+evidence derives. In the case of arsenic, the Taiwan data could certainly be
+challenged as inadequate in light of the absence of data from the United States
+confirming the basic results.</p>
+      </sec>
+      <sec id="sec-4-6">
+        <title>3. Valuation Problems</title>
+        <p>If cancer risks are involved, the agency's decision to use its ordinary VSL can
+be challenged on the ground that good evidence shows a higher VSL for risks
+that are dreaded and uncontrollable (as cancer risks are likely to be). Lawyers
+objecting to insufficiently aggressive regulation could use this evidence to
+suggest that the VSL numbers from workplace studies are simply too low.
+Lawyers objecting to overaggressive regulation could insist that the only
+reliable data come from the workplace studies and that any efforts to produce
+higher numbers are too speculative.21 5</p>
+      </sec>
+      <sec id="sec-4-7">
+        <title>4. Poor Morbidity Data</title>
+        <p>
+          Agencies frequently lack good data on morbidity risks and therefore use
+crude substitutes. These are easily subject to challenge. In the arsenic case, an
+environmental lawyer could urge that the chronic bronchitis numbers are far too
+low because a case of cancer is very likely to produce higher willingness to pay
+than a case of chronic bronchitis.2 16 For their part, industry lawyers could urge
+that chronic bronchitis is comparable or perhaps even worse, simply because it
+is chronic. Perhaps a case of cured cancer, even if it is entirely cured, is not
+much more serious than a case of any other curable disease, and perhaps a
+213. For a holding to this effect, see Chlorine Chemistry Council v. EPA 206 F.3d 1286, 1291
+          <xref ref-type="bibr" rid="ref28">(D.C.
+Cir. 2000)</xref>
+          (ruling that EPA acted arbitrarily and capriciously in overriding scientific evidence that
+chloroform is a threshold pollutant under the SDWA).
+        </p>
+        <p>214. See id. at 1287-89.</p>
+        <p>215. See ScI. ADVISORY BD., U.S. ENVTL. PROT. AGENCY, VALUING THE BENEFITS OF FATAL CANCER RISK
+REDUCTION (1999).</p>
+        <p>216. See SUICOMM. ON ARSENIC IN DRINKING WATER, supra note 13, at 33-34.
+serious chronic condition such as chronic bronchitis is more serious than a
+cured cancer. In either case, it would be easy to challenge the actual numbers
+used for chronic bronchitis as unreliable, because they were generated through
+responses by shoppers in North Carolina to hypothetical questions. Even if
+well-designed, that study is not likely to produce reliable numbers.</p>
+      </sec>
+      <sec id="sec-4-8">
+        <title>5. Lives vs. Life-Years</title>
+        <p>If an agency uses lives rather than life-years, there may be a serious problem,
+at least if the regulation would protect a large number of children or elderly
+people. For protection of children, the $6.1 million figure is arguably far too
+low; for protection of elderly people, that same figure is arguably far too
+high.2 17</p>
+      </sec>
+      <sec id="sec-4-9">
+        <title>6. Inadequate Quantification of Benefits</title>
+        <p>For a lawyer on either side, it is not hard to argue that unquantified benefits
+should be quantified, if this is at all possible.2 18 Without quantification, how can
+agency decisions be evaluated? And once a decision is made to quantify benefits
+that had formerly been unquantified, agency judgments are subject to challenge
+because the judgment about how to quantify will be highly speculative. If the
+agency has not specified a range but has relied on a fairly specific projection, it
+will be extremely vulnerable.</p>
+      </sec>
+      <sec id="sec-4-10">
+        <title>7. Choice of Discount Rate</title>
+        <p>The level of monetized benefits will differ dramatically with the chosen
+discount rate. It would be easy to challenge any agency's decision not to
+discount a risk that will come to fruition in the future. A monetary loss or a loss
+to health is worse today than years hence. Once the agency has chosen to
+discount, any particular discount rate might well be challenged. Economists
+disagree about the proper approach. If the agency chooses a discount rate for
+health in the vicinity of the discount rate for money-that is, seven to ten
+percent-its choice might well be challenged on the ground that no good
+evidence supports the view that health problems averted should be discounted at
+the same rate as financial losses averted. But if the agency chooses a discount
+rate below seven percent, it would not be hard to challenge that choice as
+essentially arbitrary and unsupported by evidence.</p>
+        <p>B. AGAINST SCIENCE COURTS</p>
+        <p>Notwithstanding the availability of countless legal challenges, the basic
+lesson for courts is simple: Hands off. When courts are reviewing an agency's
+217. It is not clear, however, how to think about willingness to pay in this context. Older people tend
+to be wealthier, and they might well be willing to pay large amounts to protect relatively few life years.
+218. See ARSENIC RULE BENEFITS REVIEW PANEL, supra note 144, at 19.
+judgments about health benefits and how to monetize them, they should give
+agencies the benefit of every reasonable doubt.</p>
+        <p>The reasons are threefold. First, the issues are exceedingly complex, and
+judges are not specialists in the area at hand. Like everyone else, they are prone
+to error. There is no systematic reason to think that a firm judicial hand will
+make things better rather than worse. Second, any judicial judgment will
+perpetuate the status quo and make rulemaking more difficult. 2 '9 Because it is
+extremely time consuming to make rules and because a clever advocate likely
+will be able to produce a plausible challenge to whatever an agency does, an
+aggressive judicial posture will essentially freeze whatever rule is currently in
+place. In many domains, people have expressed concern with the "ossification"
+of rulemaking. 220 When a statute calls for cost-benefit balancing, any
+nondeferential judicial posture will magnify the risk of ossification. Third, many of the
+underlying decisions involve values, not facts. We have seen that often the
+choice between a linear and sublinear dose-response curve cannot be based on
+direct evidence. Any choice has a large policymaking dimension. "[T]here is
+wide recognition among experts-but not necessarily in the public
+opinionthat current approaches to the regulation of most agents remain judgmental."2 2'
+In this light, courts should be reluctant to displace the judgments of
+administrators, who have advantages both as technocrats and public representatives.</p>
+        <p>This does not mean that agencies should be permitted to do whatever they
+want. We can easily imagine genuinely arbitrary decisions.2 22 But so long as the
+agency has not done something truly unreasonable, its efforts to quantify and
+monetize health benefits should be held acceptable.</p>
+      </sec>
+      <sec id="sec-4-11">
+        <title>VI. POLICY ANALYSTS: WHAT SHOULD BE DONE?</title>
+        <p>A. NO OBVIOUSLY BEST CHOICE
+1. Puzzles</p>
+        <p>On the analysis thus far, it should be clear that there was no obviously best
+choice for the EPA. Of the options considered, the most dramatic would be the
+two poles: to retain the existing 50 ppb standard or to select the 3 ppb
+standard-which the EPA deemed feasible. Neither of these choices would have
+been ludicrous, and neither should be seen as violative of the SDWA.
+Notwithstanding the NRC report, it would not be entirely irrational to conclude that the
+existing data-most of it from Taiwan-simply does not justify further
+restric219. See JERRY L. MASHAW &amp; DAVID L. HARFST, THE STRUGGLE FOR AUTO SAFETY 224-26, 245-46
+(1990).</p>
+        <p>220. See, e.g., Thomas 0. McGarity, Some Thoughts on "Deossifying" the Rulemaking Process, 41
+DuKE L.J. 1385 (1992).</p>
+        <p>221. ToXICOLOGY,supra note 2, at 1145.</p>
+        <p>
+          222. See, e.g., Chlorine Chemistry Council v. EPA., 206 F.3d 1286
+          <xref ref-type="bibr" rid="ref28">(D.C. Cir. 2000)</xref>
+          (holding EPA
+chloroform rule arbitrary and capricious).
+tions, especially in light of studies suggesting no adverse effects from low levels
+of arsenic in drinking water. And notwithstanding the AEI-Brookings study, it
+would not be impossible to produce numbers suggesting that the 3 ppb standard
+might well be justified, at least if the nonquantified benefits are taken into
+account and pegged at the higher points in the range.
+        </p>
+      </sec>
+      <sec id="sec-4-12">
+        <title>2. Tiebreakers</title>
+        <p>Could it be possible to resolve the controversy through some general,
+background considerations? When individuals and governments are not sure what to
+do, they often invoke "second-order" principles designed to simplify the inquiry
+in the event of difficulty.223 There are several possibilities here.</p>
+        <p>One solution would be to invoke the "precautionary principle," which says
+that reasonable doubts should be resolved in favor of protecting safety, health,
+and the environment. 224 The precautionary principle has had a significant
+influence on both national and international environmental policy.22 5 It also
+seems to track private behavior. People purchase smoke alarms and insurance;
+perhaps regulation of arsenic can be seen as analogous. In the face of scientific
+uncertainty, why not make an expenditure that might well turn out to avert
+serious harm?2 26 In a catchphrase: Better safe than sorry.227</p>
+        <p>
+          If this point is meant to suggest that significant investments are worthwhile to
+prevent speculative harms, it is certainly correct. But everything depends on the
+size of the investment and the speculative nature of the harm. Taken seriously,
+one problem with the precautionary principle is that it would lead to huge
+expenditures, exhausting the relevant budget before the menu of options could
+be thoroughly consulted. Indeed, the precautionary principle would lead to
+paralysis because there are risks on all sides of the equation.22 8 Recall that
+many households would be required to spend more than $300 per year for
+water; EPA Administrator Whitman has expressed a concern that the increased
+expenditure will lead many people to use small, local wells, which have heavily
+223. See Cass R. Sunstein &amp; Edna Ullmann-Margalit, Second-OrderDecisions, in BEHAVIORAL LAW
+AND ECONOMICS 187, 192-20
+          <xref ref-type="bibr" rid="ref1">3 (Cass R. Sunstein ed., 2000</xref>
+          ).
+        </p>
+        <p>224. Ken Geiser, Establishinga GeneralDuty of Precautionin EnvironmentalProtection Policiesin
+the UnitedStates, in PROTECTING PUBLIC HEALTH &amp; THE ENVIRONMENT: IMPLEMENTING THE PRECAUTIONARY
+PRINCIPLE XXi, xxiii (Carolyn Raffensperger &amp; Joel Tickner eds., 1999).</p>
+        <p>225. See Julian Morris, Defining the PrecautionaryPrinciple,in RETHINKING RISK AND THE
+PRECAUTIONARY PRINCIPLE 1, 3-7 (Julian Morris ed., 2000)</p>
+        <p>226. The point may be supported by the fact that people are generally averse to low-probability,
+high-risk outcomes, and would be willing to pay relatively high amounts so as not to run the relevant
+risks. See Daniel Kahneman &amp; Amos Tversky, ProspectTheory: An Analysis of Decision UnderRisk, in
+CHOICES, VALUES, AND FRAMES 17, 22-25 (Daniel Kahneman ed., 2000).</p>
+        <p>227. For a critical discussion, see HOWARD MARGOLIS, DEALING WITH RISK: WHY THE PUBLIC AND THE
+EXPERTS DISAGREE ON ENVIRONMENTAL ISSUES, 75-92 (1996).</p>
+        <p>228. See Indur M. Goklany, Applying the PrecautionaryPrinciplein a BroaderContext, in
+RETHINKING RISK AND THE PRECAUTIONARY PRINCIPLE, supra note 225, at 190-220.
+polluted water.22 9 In these circumstances, the precautionary principle suggests
+that new arsenic regulation is undesirable because it might sacrifice lives. Recall
+too that expensive regulations can have adverse effects on life and health and
+hence that the $210 million expenditure for arsenic regulation has, as a worst
+case scenario, significant adverse health effects, with perhaps as many as thirty
+to forty lives lost. 230 If this is so, the precautionary principle seems to argue
+against new regulation. It seems clear that precaution, by itself, can be taken to
+argue for no regulation, much regulation, and every point in between. On
+reflection, the idea is insufficiently helpful.2 3'</p>
+        <p>Perhaps a more refined argument is better. For most of the country, the
+incremental cost of the arsenic regulation is low-less than $30 per year. If the
+vast majority of people would receive additional protection at a cost that is high
+in the aggregate ($210 million, for example) but extremely low for each
+affected family, shouldn't government proceed with regulation, perhaps with
+exemptions or subsidies for those who would have to pay more? The argument
+is not implausible, but it proves too much. In many cases, it would be possible
+to do some good by asking everyone to pay, say, $2 per year. Should the EPA
+ask every American to pay $2 year, so as to create a $500 million fund to be
+used to pay for additional reductions in sulfur dioxide emissions? Carbon
+monoxide emissions? Benzene emissions? Clean-up of lead paint? Anti-tobacco
+advertising? Childhood immunizations? Relief of poverty? Because the list of
+possibilities is endless, it is unhelpful to treat small per-family costs as if they
+were zero or its moral equivalent; we do better to ensure that those funds are
+used for purposes that would do more good than harm or for the most possible
+good. This does not mean that a regulation imposing small per-family costs
+(say, $30 per family for 200 million people) should be treated as identical to a
+regulation imposing the same aggregate but higher per-family costs (say, $300
+per family for 20 million people). High per-family costs do raise particular
+concerns. But a regulation that badly fails cost-benefit balancing should not be
+accepted on the ground that each family or person will pay little. (Imagine a
+program that would require every American to pay $1 per year for little or no
+return.)</p>
+        <p>
+          229. "But we have seen instances, particularly in the West and Midwest, where arsenic is naturally
+occurring at up to 700 and more parts per billion, where the cost of remediation has forced water
+companies to close, leaving people with no way to get their water, save dig wells. And then they are
+getting water that's even worse than what they were getting through the water company." Evans, Novak,
+Hunt &amp; Shields (CNN television broadcast, Apr.
+          <xref ref-type="bibr" rid="ref14">21, 2001</xref>
+          ) (interview by Robert Novak and Al Hunt
+with Christine Todd Whitman, EPA Administrator).
+        </p>
+        <p>230. See BURNETr &amp; HAHN, supra note 149, at 8, 14 tbl.l. On the general phenomenon, see Cass R.
+Sunstein, Health-HealthTradeoffs, in SUNSTEIN, supra note 71, at 298-317.</p>
+        <p>23 1. For an effort to understand the precautionary principle in a way that takes account of multiple
+risks, see INDUR M. GOKLANY, THE PRECAUTIONARY PRINCIPLE: A CRITICAL APPRAISAL OF ENVIRONMENTAL
+RISK ASSESSMENT (2001).</p>
+        <p>Yet another tiebreaker is possible. Perhaps the EPA should refrain from
+further regulation on the theory that government should not act unless there is a
+clear demonstration that it is desirable, all things considered. Perhaps we should
+adopt a presumption against regulatory controls unless CBA shows that they are
+justified or unless there are special reasons-perhaps distributional in
+characterthat support them. Perhaps the government should not require costly
+expenditures here in view of the fact that the same expenditures might be used for other goals,
+such as crime reduction and automobile safety, where they could do more good.232</p>
+        <p>The problem is that the same kind of argument could have been used against
+a wide range of environmental regulations even though those regulations have,
+on balance, been vindicated by history.2 33 In the context of air quality
+regulation, a contemporaneous assessment of costs and benefits would in many cases
+have given rise to the same kind of uncertainty found here. Note that this is not
+to suggest that in such cases the costs would have been found to outweigh the
+benefits. The problem is instead that the most that could have been done was to
+identify a benefits range leaving a great deal of uncertainty about what to do. If
+the past is any guide, it suggests that inaction in such circumstances would be a
+foolish course.</p>
+      </sec>
+      <sec id="sec-4-13">
+        <title>3. Between the Poles?</title>
+        <p>While no particular approach would be obviously best or obviously
+unreasonable, the more reasonable approaches would appear to be between the poles. On
+the existing numbers, the 3 ppb standard is hard to justify. No data support the
+view that there would be significant health gains from moving from a 10 ppb
+ceiling to one of 3 ppb.23 4 In view of the significant expense of the restriction,
+10 ppb seems better. At the same time, the data do suggest that the 50 ppb
+standard is insufficiently protective. A new regulation might be seen as a kind of
+insurance policy, one without an enormous price tag. A choice that falls between
+the 50 and 3 ppb ceiling would seem to be best--especially if it would be
+possible to relieve the high burdens imposed on some households. Certainly the
+10 ppb approach is reasonable.</p>
+        <p>This last point raises a more general one, overlooked thus far: The EPA's
+menu of alternatives has been relatively narrow and has lacked much creativity.
+The EPA discussed four different permissible exposure levels without thinking
+more imaginatively about how to minimize the costs of arsenic regulation. The
+blame for this narrow focus lies not with the EPA, but with Congress. I now
+discuss several other approaches, designed to show more flexibility toward
+those burdened by drinking water regulation.</p>
+        <p>232. Cf BREYER, supra note 48, at 59-63 (arguing for better priority-setting).
+233. Portnoy, supra note 46, at 101-05.</p>
+        <p>234. Again, 1 am speaking of the data before the EPA when it made its initial decision to issue the 10
+ppb rule.</p>
+        <p>B. ARSENIC TARGETING AND ARSENIC WAIVING</p>
+        <p>A possible approach would involve "targeting," that is imposing regulation on
+water systems when the cost-benefit ratio is especially good. Recall that for much of
+the country, the cost of compliance with the 10 ppb standard is quite low. On
+plausible-which is not to say certainly correct-assumptions, the cost-benefit ratio
+for those systems is adequate to justify the regulation-perhaps even adequate to
+support a 5 ppb or 3 ppb standard. These points suggest a simple alternative: Impose a
+targeted rule, with a sliding scale of regulations ensuring that the cost-benefit ratio
+supports the outcome in each area. When, for example, the annual cost of regulation is
+less than $50 per household, government might impose a 5 ppb standard; when the
+annual cost is less than $150, it might impose a 10 ppb standard; when it is less than
+$350, it might impose a 20 ppb standard.</p>
+        <p>An approach of this kind would undoubtedly be controversial. Critics would
+ask: Why should people in some parts of the country be subject to more arsenic
+in their drinking water than people in other areas? Why should some people
+have very low levels of arsenic, and other people less low levels? These
+questions might seem especially difficult to answer if, as seems likely, many of
+those subject to the more lenient standard would be relatively poor. Why should
+poor people, and especially poor children, face levels of arsenic found
+unacceptably dangerous in other parts of the country? But these questions have much
+more rhetorical force than they deserve. If acceptable levels of risk are a
+function of both cost and benefit, it makes perfect sense to say that such levels
+will vary depending on the costs and benefits of controls in different localities.
+In some areas of the country, it will be worthwhile to "purchase" an additional
+increment of safety; in other areas, it will not be.</p>
+        <p>This point seems sufficient to suggest that the EPA should have the authority
+to impose national standards that are not uniform.2 35 But the SDWA forbids any
+such nonuniform standards. In keeping with its cost-benefit focus, the statute
+should be amended to allow the EPA greater flexibility.</p>
+        <p>If the EPA cannot adopt a targeted regulation, could it allow waivers for areas
+in which the benefits do not justify the costs? Once the data are disaggregated, it
+seems reasonable to consider the following option: Adopt the 10 ppb regulation
+for most water systems, when the per-family cost of compliance is low, but
+offer a variance for water systems when the per-family cost is high. This
+approach would be quite close to one involving targeted regulation. The SDWA
+does allow waivers, but only for short periods of time, and hence waivers
+produce less satisfactory outcomes than does targeting.</p>
+        <p>In contemporary environmental law, some of the most dramatic
+developments have involved the rise of market instruments for pollution control. These
+235. 1am not discussing whether national controls can be justified in principle.
+instruments take many forms, but among the most popular are "cap and trade"
+systems, in which the total level of emissions is capped at a certain level and
+polluters are allowed to trade licenses as long as the cap is respected.236 A chief
+advantage of cap-and-trade systems is that they ensure the lowest-cost means of
+achieving regulatory goals. Those who can eliminate pollution cheaply will do
+exactly that. Those for whom reductions are expensive will purchase additional
+permits.</p>
+        <p>Why not create a system of tradeable emissions rights, involving the right to
+subject people to arsenic? The idea may well seem macabre. But if so, the
+reason is likely to be a belief that arsenic is a poison seriously dangerous at any
+level. This is a form of intuitive toxicology. If we suppose that within the range
+under discussion (say 3 ppb to 20 ppb) dangerously high exposure levels will
+not occur, and we suppose that the issue is one of appropriate degrees of safety,
+we could easily imagine a cap-and-trade system. For example, government
+could create an overall cap on arsenic and give licenses to subject people to 15
+ppb, but also allow trading. As a result, companies that can reduce at low cost
+will do so, whereas those that can do so at only high cost will stay at 15 ppb or
+perhaps buy licenses to subject people to higher levels. Because of the familiar
+"hot spots" problem, government would, under this regime, take steps to ensure
+that no one is subjected to unacceptably high levels-say, 25 ppb or higher.</p>
+        <p>As compared with a system of national command-and-control, it is likely that
+a system of this kind would produce much lower costs. Indeed, a system of
+tradeable rights would likely spur considerable innovation in arsenic control
+technology, which would be a significant gain. To evaluate it, we would want to
+know the aggregate cost of the system and also compare the likely benefits to
+those that would be enjoyed under the alternatives. It is not unimaginable that a
+properly designed cap-and-trade system would produce both lower costs and
+higher benefits than the command-and-control alternative. Note in this regard
+that the Clinton Administration proposed a 10 ppb ceiling to be applied
+nationally, but that a cap-and-trade system could ensure that people would have levels
+well below 10 ppb in much of the country.</p>
+        <p>As compared with a system of arsenic targeting, the chief advantage of a
+cap-and-trade system is that it imposes less of an informational demand on the
+government, allowing the market rather than the EPA to ascertain the costs of
+arsenic reduction. Under arsenic targeting, the EPA would have to decide, in
+every area of the country, the real costs of reduction to various points-a
+difficult determination for which error is inevitable. Under cap and trade, those
+with low costs will trade their licenses, whereas those with high costs will
+attempt to acquire more in the way of arsenic rights. Of course the same
+objections that might be made to arsenic targeting might be made to a system of
+cap-and-trade. Perhaps poor people will be subject to unusually high arsenic
+236. For an excellent discussion, see A. DENNY ELLERMAN ET AL., supra note 50.
+levels. But if these objections are not convincing there, they are also
+unconvincing in this context.</p>
+        <p>Under the SDWA, however, the EPA lacks the authority to implement a
+trading system for arsenic. This is a serious gap. The statute should be amended
+to allow the EPA to permit trading if the evidence justifies that step. I emphasize
+that trading should not be allowed to create what are, under existing science,
+unacceptable hot spots.</p>
+        <p>D. ARSENIC REDUCTION SUBSIDIES</p>
+        <p>It might be suggested that the EPA should impose a stringent regulation of
+arsenic but that the federal government should subsidize communities for which
+the annual cost is high. Of course the EPA cannot offer subsidies on its own. But
+perhaps Congress should do so. In fact, Congress has made federal financial
+assistance available for water systems, and while the relevant programs contain
+a degree of discretion, it is certainly possible for financially strapped water
+systems to receive federal help.2 37</p>
+        <p>Recall that the total cost of the 10 ppb regulation would be about $210
+million each year. To say the least, this would not be a large sum in the federal
+budget. If the federal government restricted itself to paying the cost of
+compliance in areas in which the annual per-household cost exceeds $100, its total
+taxpayer bill would be about $10 million-hardly a large sum to pay.</p>
+        <p>This would not be a foolish approach to the arsenic problem. In fact, it seems
+quite reasonable. The major difficulty is that the numbers do not tell us whether
+this is the best way to spend limited taxpayer dollars. Suppose that the risks that
+the regulation is reducing are quite small, so that the regulation will save
+somewhere between 0 and 0.5 lives. Is it really worth spending $10 million to
+save between 0 and 0.5 lives? Many government programs are designed to
+decrease risks to life and health; some of those programs attempt to reduce
+violent crime. Perhaps the $10 million would be better spent on those programs.
+It would be possible to say that, as a practical matter, any $10 million subsidy is
+more likely to come from some other, less valuable use and that by using it to
+protect people against the health hazards of arsenic, we would not really be
+diverting resources from a more valuable use. Among the universe of
+imaginable government expenditures, a $10 million subsidy is hardly the worst. But in
+light of existing data, we cannot be sure that it is the best. The same
+considerations that justify cost-benefit balancing in the first place suggest that the hard
+issues cannot be avoided by arguing for an across-the-board 10 ppb standard
+accompanied by a federal subsidy for those who face a difficult financial
+burden.</p>
+        <p>
+          237. National Primary Drinking Water Regulations, 66 Fed. Reg. 6976, 6992 (Jan.
+          <xref ref-type="bibr" rid="ref15">22, 2001</xref>
+          )
+(codified at 40 C.F.R. pts. 9, 141, 142).
+        </p>
+        <p>E. ARSENIC DISCLOSURE</p>
+        <p>An alternative possibility would be to rely less on regulation and more on
+information. In many domains of regulatory policy, government has moved to
+replace command-and-control regulation with efforts to require companies to
+disclose their activities and the accompanying risks to the public.23 8 In the
+context at hand, the suggestion would be simple: Require companies to meet
+some statutory requirement-perhaps 30 ppb-so that people are not exposed to
+clear harm, but beyond that point, require companies to disclose the level of
+arsenic in their drinking water, perhaps with information that would put the
+numbers into some context. Perhaps the disclosure requirement would not apply
+if companies reached some low level (5 ppb?). We could thus imagine a kind of
+three-tiered rule with flat mandates, a disclosure requirement for a certain range,
+and a "floor" below which companies would have no disclosure duties.</p>
+        <p>For arsenic, this strategy would have both advantages and disadvantages.
+Because people are not likely to be happy to learn that their drinking water has
+relatively high levels of arsenic, one advantage of disclosure is that it could spur
+companies to reduce arsenic levels on their own, without governmental
+requirements.2 39 For companies who chose that route, it is likely that the reductions
+would not be terribly expensive. Public pressure may produce low-cost
+reductions in some areas while also allowing companies to maintain certain levels of
+arsenic if the public in those areas was not so concerned in light of the mix of
+health benefits and water costs. In this way, disclosure may even produce a kind
+of "drinking water federalism." Another advantage of disclosure is that it may
+perform an important educative role by ensuring that people will learn that
+some carcinogenic substances are not especially dangerous at low levels and
+also alerting people to the need for tradeoffs (in the form of a higher water bill).</p>
+        <p>But of course there are pitfalls as well. We have seen that the very idea of
+arsenic in drinking water seems to cause serious public alarm, in part because of
+the operation of intuitive toxicology. For a certain percentage of the population,
+disclosure of arsenic would itself signal reason for concern and perhaps produce
+excessive fear, even panic. Many people may ask why, exactly, companies are
+disclosing this fact and whether disclosure means that they are, in some sense,
+being poisoned. The point suggests that sometimes disclosure will not really
+inform people because their background beliefs will lead them to read the
+information badly. The question remains whether it is possible to give some
+contextual information so that people have an accurate sense of what the
+disclosure actually means. In this context, we should probably be unsure
+whether the contextual information would really help.</p>
+        <p>238. See generally Bradley Karkainen, Information as Environmental Regulation: TRI and
+Performance Benchmarking, Precursor to a New Paradigm?,89 GEO. L.J. 257 (2001); Cass R. Sunstein,
+InformationalRegulation andInformationalStanding:Akins andBeyond, 147 U. PA. L. Rav. 613 (1999).
+239. See Karkainen, supra note 238, at 295.</p>
+        <p>As a legal matter, the issue is simple because the EPA has no authority to use
+information disclosure as a substitute for regulation. In the particular context of the
+SDWA, Congress's choice for regulatory mandates may even make sense. But in the
+future, it would be useful to allow agencies to experiment in this vein to see if
+disclosure will, in some cases, do more good than alternative approaches.</p>
+        <p>F. THE MISSING QUESTION: DISTRIBUTIONAL ISSUES</p>
+        <p>There is one significant gap in the discussion thus far: A full account of the
+distributionaleffects of different arsenic regulations. To have an adequate sense of
+whether and how to proceed, it would be most valuable to match the assessment of
+the range of costs of the rule with an account of the income and wealth of those who
+will be subject to those costs. If, for example, those who would bear $300 or more in
+increased annual costs are also disproportionately poor, there is good reason for
+government to hesitate before imposing the regulation. It is easy to imagine a situation
+in which water quality regulation is "regressive" in the sense that its costs come down
+especially hard on poor people. That is not a decisive objection to the regulation, but it
+is certainly an important point to consider.</p>
+        <p>It would be easy to imagine the following sort of rejoinder: Shouldn't poor
+people have water that is as safe as that of wealthy people? Why should poor
+people, including poor children, have water quality inferior to that enjoyed by
+wealthy people? The simplest answer is that safety is a matter of degree, and if
+safer water quality is very expensive, then poor people are better off without it
+than with it. Cars should certainly be safe, but wealthy people are more likely
+than poor people to buy Volvos. It would not be a good idea for the government
+to force poor people to buy Volvos, and the reason is that if you are poor, you
+might reasonably use what money you have on something other than adding an
+additional margin of safety to your car. Perhaps you will use that money on
+food, or medical care, or shelter. The same is true for water quality. If the
+consequence of decreasing (small) risks is to decrease significantly family
+income for poor people, then it is perfectly legitimate for the government to
+refuse to act. Of course it is possible that the benefits of environmental
+regulation will be enjoyed disproportionately by poor people and that they will
+bear disproportionately few of the costs.</p>
+        <p>The more general suggestion is that whenever an agency is producing a
+regulatory impact analysis, it should consider a distributional analysis as well. It
+is important to know who will bear both the benefits and the burdens of
+regulation. A recent study shows, for example, that the benefits of pollution
+control in California have gone disproportionately to poor people and minority
+group members. 240 It would be extremely desirable to assemble similar
+information for drinking water regulation.</p>
+        <p>240. See Kahn, supra note 22, at 23-25.</p>
+        <p>CONCLUSION</p>
+        <p>My aim in this Article has been to cast light on the actual practice of CBA by
+considering the EPA's most highly publicized decision under the federal statute
+that most explicitly calls for that form of analysis. The basic message is that
+even when there is a considerable amount of scientific data, it is possible that
+CBA will identify only a range of reasonable choices, and often a wide range at
+that. With plausible assumptions, the nonmonetized health benefits of new
+controls on arsenic in drinking water can be made to seem very small or very
+large. Once the health benefits are monetized, the range becomes larger still,
+making it extremely difficult to compare costs against benefits.</p>
+        <p>It would be possible to take this demonstration as an attack on CBA on the
+ground that a specification of benefits and costs tells us little that we did not
+already know. 24' If CBA is justified as a way of actually producing decisions in
+hard cases, CBA has indeed been criticized by the analysis here. But this would
+be the wrong lesson. As a substitute for intuitive toxicology and for the
+crudeness of the affect heuristic, an effort to trace both costs and benefits can
+inform inquiry making decisions less of a stab in the dark. This is indeed a
+substantial gain. Once the range is specified, a judgment of value, and not of
+fact, will be involved in the ultimate decision whether or not to proceed. But the
+judgment of value will be easier to identify once we understand what we
+understand and what we do not know. A real virtue of CBA is that it helps to
+explain exactly why the choice of regulation in the case of arsenic is genuinely
+difficult. In this way CBA is a large improvement over the "intuitive
+toxicology" seen in the public reaction to the decision of the Bush Administration.</p>
+        <p>I have also attempted to provide a kind of lawyer's primer on the law of
+CBA, showing how future cases might be litigated. There is no question that
+courts will eventually be asked to assess the kinds of questions raised in this
+Article.2 42 Lawyers can drive predicted benefits up or down by manipulating the
+dose-response curve, by raising epidemiological questions, by challenging the
+discount rate, by asking about the voluntariness and controllability of the risk,
+and by quantifying difficult-to-quantify risks. We could easily imagine a dozen
+kinds of opinions invalidating a 10 ppb standard as too stringent; we could
+easily imagine the same number of opinions invalidating that standard as too
+lenient. Indeed, we could easily imagine an emerging set of doctrines in which
+courts produce a kind of common law of CBA. In view of the complexity of the
+underlying questions, many diverse views would undoubtedly be expressed by
+federal courts. I have urged that things would be simplified, and generally
+better, if courts maintained a posture of deference, rejecting agency views only
+241. This is one reading of Heinzerling, supra note 16.</p>
+        <p>242. See, e.g., Corrosion Proof Fittings v. EPA, 947 F.2d 1201 (5th Cir. 1991) (asking the court to
+evaluate a number of issues explored here, including the appropriate discount rate and both arbitrary
+and nonarbitrary ways to balance costs and benefits).
+in cases in which those views are patently unreasonable. There is indeed an
+emerging common law of cost-benefit analysis, 2 43 but thus far it is being
+generated by agencies rather than courts. This is entirely proper.</p>
+        <p>I have also discussed the underlying policy issues. The EPA could make
+many reasonable decisions here, and in the range below 50 ppb and above 5
+ppb, there is no obviously correct choice. But my principal claims have
+involved broadening the agencies' view screen. First, agencies should have the
+flexibility to produce variable standards targeting regulation to areas where it
+would survive cost-benefit balancing and also adopting economic incentives to
+ensure low-cost solutions. Second, agencies should be required to identify the
+winners and losers produced by regulation-to show when poor people or
+wealthy people are disproportionate losers or gainers. A distributional analysis
+should not be taken as conclusive, but it will help to inform the analysis. An
+effort to increase agency flexibility and also to identify both winners and losers
+would be natural steps not toward placing regulatory judgments in an arithmetic
+straightjacket, but toward ensuring that when government acts, it does so in a
+way that is informed by a full account of the consequences.</p>
+      </sec>
+    </sec>
+    <sec id="sec-5">
+      <title>APPENDIX</title>
+      <p>Dose-Response Curves</p>
+      <p>To evaluate risks associated with toxic substances and to undertake
+costbenefit analysis, it is often important to have a sense of the dose-response curve.
+For arsenic, clear evidence is absent. This appendix offers a sense of the
+possibilities.</p>
+      <p>The dose-response curve can have a variety of shapes, including linear, where
+response increases proportionally with dose. Figure (A)(1) displays the linear
+relationship between dietary dose of organophosphate insecticide dioxathion
+and inhibition of the enzyme cholinesterase in rats.</p>
+      <p>Figure (A)(2) demonstrates another linear relationship, this one between
+subcutaneous administration of carcinogenic hydrocarbon dibenzanthracene and
+tumor incidence in mice.</p>
+      <p>Chemicals such as benzene, radon, and formaldehyde exhibit sublinear
+doseresponse relationships, where elicited responses are less than proportional.
+Figure (B)(1) displays a sublinear relationship for primary pulmonary (lung)
+tumors in rats following exposure to plutonium dioxide.</p>
+      <p>Figure (B)(2) exhibits a sublinear dose-response relationship between the
+number of female rat liver foci (a precursor to cancer) and the log dose of
+phenobarbital expressed as picomole per kilogram.</p>
+      <p>Some chemicals produce no adverse effects below a certain level, resulting in
+a threshold curve. Threshold-model agents include dioxins and chrysotile
+asbes243. See COST-BENEFIT ANALYSIS, supra note 6, at 310-11.
+tos; in addition, nongenotoxic carcinogens are generally assumed to have
+threshold doses. Figure (C)(1) demonstrates a threshold for the carcinogenic
+hydrocarbon benzpyrene causing sarcomas in mice.</p>
+      <p>Dose-response relationships exceeding proportionality, such as vinyl
+chloride, are supralinear. Figure (D)(1) demonstrates a supralinear curve for the
+inhibition of carboxylesterase enzyme activities in rats as a function of
+insecticide dioxathion dose.</p>
+      <p>The slight concave-upward pattern in Figure (D)(2) demonstrates a weaker
+supralinear relationship between exposure to radiation via an atomic bomb and
+cancer deaths per 10,000 people.</p>
+      <p>Hermatic chemicals such as essential nutrients and vitamins exhibit beneficial
+effects at low doses, coupled with toxic effects at high doses, resulting in a
+u-shaped curve. The dose-response relationship of fluoride, which exerts
+positive effects at lower doses but is toxic at high doses, is outlined in Figure (E)(1).
+(A) LINEAR RELATIONSHIPS</p>
+      <p>(1) Cholinesterase
+60"
+50
+40
+2o
+10
+0</p>
+      <p>0
+100
+5
+10
+15
+20
+25
+S.D. Murphy &amp; K.L.Cheever, Effects of FeedingInsecticides:Inhibitionof
+Carboxylesterase and CholinesteraseActivities in Rats, 17 ARCHIVES ENVTL. HEALTH, 749 (1968),
+reprinted in CASARETT AND DOULL's TOXICOLOGY: THE BASIC SCIENCE OF POISONS 19,
+fig.2-2 (Mary 0. Amdur et. al. eds., Pergamon Press 5th ed. 1996).</p>
+      <p>(2) Dibenzanthracene
+Casarett and Doull's Toxicology: The Basic Science of Poisons 23, fig.2-6 (Mary 0.
+Amdur et. al. eds., Pergamon Press 5th ed. 1996), modified from W.R. Bryan &amp; M.B.
+Shimkin, QuantitativeAnalysis of Dose-Response Data Obtained with Three
+Carcinogenic Hydrocarbonsin Strain C3HMale Mice, 3 J. NAT'L CANCER INST. 503 (1943).</p>
+      <p>(1) Plutonium Dioxide
+S70+
+°
+l iiiilii l
+100
+50
+0
+200.05
+0.1
+5
+10</p>
+      <p>40</p>
+      <sec id="sec-5-1">
+        <title>Dose to Lungs (Gy)</title>
+        <p>C.L. Sanders &amp; D.L. Lundgren, Pulmonary Carcinogenesisin the F344 and Wistar Rat
+After Inhalationof Plutonium Dioxide, 144 RADIATION RES. 206, 212 (1995).
+(2) Phenobarbital</p>
+        <p>,.
+~I
+Kirk T. Kitchin et al., Dose-Response Relationship in Multistage Carcinogenesis:
+Promoters,102 ENVTL. HEALTH PERSP. 255, 257 (1994).
+(C) THRESHOLD RELATIONSHIPS</p>
+        <p>(1) Benzpyrene
+100
+-20
+,</p>
+      </sec>
+      <sec id="sec-5-2">
+        <title>Dose (mg)</title>
+        <p>CASARETT AND DOULL'S TOXICOLOGY: THE BASIC SCIENCE OF POISONS 23, fig.2-6 (Mary 0.
+Amdur et. al. eds., Pergamon Press 5th ed. 1996), modified from W.R. Bryan &amp; M.B.
+Shimkin, Quantitative Analysis of Dose-Response Data Obtained with Three
+Carcinogenic Hydrocarbonsin Strain C3HMale Mice, 3 J. NAT'L CANCER INST. 503 (1943).
+70
+60
+a 50</p>
+        <p>0
+: 40
+.2
+S.D. Murphy &amp; K.L. Cheever, Effects of FeedingInsecticides:Inhibitionof
+Carboxylesterase and CholinesteraseActivities in Rats, 17 ARCHIVES ENVTL. HEALTH, 749 (1968),
+reprinted in CASARETT AND DOULL's TOXICOLOGY: THE BASIC SCIENCE OF POISONS 19,
+fig.2-2 (Mary 0. Amdur et. al. eds., Pergamon Press 5th ed. 1996).</p>
+        <p>(2) Atomic Bomb Radiation</p>
+        <p>(1) Carboxylesterase</p>
+        <p>Dose in Centi-Sieverts (rems)
+JOHN W. GOFMAN, RADIATION-INDUCED CANCER FROM Low-DoSE EXPOSURE: AN
+INDEPENDENT ANALYSIS, fig. 14A, 14F (1990), availableat http://www.ratical.org/radiation/CNR/
+RIC/chp 14F.html#fig 14e.
+(E) U-SHAPED RELATIONSH4IPS</p>
+        <p>(1) Fluoride
+0</p>
+        <p>30
+" 20
+0
+10
+-10</p>
+      </sec>
+      <sec id="sec-5-3">
+        <title>Dose</title>
+        <p>Gordon A. Fox, EVR 2001: Risk and Toxicity 9-10, fig.2 (2000), at http://chuma.cas.usf.
+edu!-gfox/EVR2001/risk and-toxicity.pdf (last visited Sept. 4, 2002).</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          3.
+          <string-name>
+            <surname>PHILLIP L. WILLIAMS</surname>
+          </string-name>
+          ET AL.,
+          <source>PRINCIPLES OF TOXICOLOGY 456</source>
+          (
+          <year>2000</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          4. SUBCOMM.
+          <article-title>ON ARSENIC IN DRINKING WATER</article-title>
+          ,
+          <string-name>
+            <surname>NAT'L RESEARCH</surname>
+            <given-names>COUNCIL</given-names>
+          </string-name>
+          ,
+          <source>ARSENIC IN DRINKING WATER 3</source>
+          (
+          <year>1999</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          5. 147 CONG. REC. H4751 (daily ed.
+          <source>July 27</source>
+          ,
+          <year>2001</year>
+          )
+          <article-title>(statement of Rep</article-title>
+          . Anna Eshoo).
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <article-title>6. For an overview, see COST-BENEFIT ANALYSIS: LEGAL, ECONOMIC,</article-title>
+          AND
+          <string-name>
+            <surname>PHILOSOPHICAL PERSPECTIVES (Matthew D. Adler</surname>
+          </string-name>
+          &amp;
+          <article-title>Eric A</article-title>
+          . Posner eds.,
+          <year>2001</year>
+          )
+          <article-title>[hereinafter COST-BENEFIT ANALYSIS]</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          7. See, e.g.,
+          <source>Exec</source>
+          . Order No.
+          <volume>12</volume>
+          ,
+          <issue>291</issue>
+          ,46 Fed. Reg.
+          <volume>13</volume>
+          ,
+          <issue>193</issue>
+          (Feb. 17,
+          <year>1980</year>
+          ); Exec. Order No.
+          <volume>12</volume>
+          ,
+          <issue>498</issue>
+          , 50 Fed. Reg.
+          <volume>1036</volume>
+          (
+          <issue>Jan</issue>
+          . 4,
+          <year>1985</year>
+          ); Exec. Order No.
+          <volume>12</volume>
+          ,
+          <issue>866</issue>
+          , 58 Fed. Reg.
+          <volume>51</volume>
+          ,
+          <issue>735</issue>
+          (Sept. 30,
+          <year>1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          8.
+          <string-name>
+            <surname>See</surname>
+            <given-names>OFFICE</given-names>
+          </string-name>
+          <article-title>OF MGMT. AND BUDGET, ECONOMIC ANALYSIS OF FEDERAL REGULATION UNDER EXECUTIVE ORDER 12866 (</article-title>
+          <year>1996</year>
+          ), available at http://www.whitehouse.gov/omb/inforeg/riaguide.html.
+          <article-title>For a useful overview</article-title>
+          , see Richard B.
+          <string-name>
+            <surname>Stewart</surname>
+          </string-name>
+          , A New Generationof EnvironmentalRegulation?,
+          <volume>29</volume>
+          CAP. U. L. REV.
+          <volume>21</volume>
+          ,
+          <fpage>29</fpage>
+          -
+          <lpage>34</lpage>
+          (
+          <year>2001</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          9.
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Corrosion</surname>
+          </string-name>
+          <article-title>Proof Fittings v</article-title>
+          .
+          <source>EPA</source>
+          ,
+          <volume>947</volume>
+          F.2d
+          <volume>1201</volume>
+          ,
+          <issue>1217</issue>
+          (
+          <issue>5th</issue>
+          <year>Cir</year>
+          .
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          10.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          , e.g.,
+          <source>Safe Drinking Water Act (SDWA)</source>
+          ,
+          <volume>42</volume>
+          U.S.C. §§ 300f to 300j-
+          <volume>26</volume>
+          (
+          <year>2000</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          11.
+          <string-name>
+            <surname>See generally COST-BENEFIT</surname>
+            <given-names>ANALYSIS</given-names>
+          </string-name>
+          ,
+          <source>supra note 6.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          12.
+          <string-name>
+            <surname>For</surname>
+          </string-name>
+          <article-title>a superb discussion of theoretical issues</article-title>
+          , see Richard L. Revesz, EnvironmentalRegulation,
+          <string-name>
+            <surname>Cost-Benefit Analysis</surname>
+          </string-name>
+          ,
+          <source>and the Discountingof Human Lives</source>
+          ,
+          <volume>99</volume>
+          COLUM. L. REV.
+          <volume>941</volume>
+          (
+          <year>1999</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          13.
+          <string-name>
+            <surname>National Primary Drinking Water Regulations</surname>
+          </string-name>
+          ,
+          <volume>66</volume>
+          Fed. Reg.
+          <volume>28</volume>
+          ,
+          <issue>342</issue>
+          (May 22,
+          <year>2001</year>
+          ) (codified at 40 C.F.R. pts.
+          <volume>9</volume>
+          ,
+          <issue>141</issue>
+          , 142)
+          <article-title>(delaying effective date). Note that throughout I will rely on the record compiled by the EPA at the time that it made its decision; subsequent to that decision, new evidence has been found and discussed, giving rise to increased fears about the risks posed by arsenic</article-title>
+          .
+          <source>See SUBCOMM</source>
+          .
+          <article-title>ON ARSENIC IN DRINKING WATER</article-title>
+          ,
+          <string-name>
+            <surname>NAT'L RESEARCH</surname>
+          </string-name>
+          <article-title>COUNCIL, ARSENIC IN DRINKING WATER: 2001 UPDATE</article-title>
+          .
+          <article-title>In part as a result of this evidence, the EPA has decided to go forward with the Clinton Administration initiative</article-title>
+          .
+          <source>See Katherine Q. Seelye</source>
+          , EPA to Adopt Clinton Arsenic Standard,
+          <string-name>
+            <surname>N.Y. TIMES</surname>
+          </string-name>
+          ,
+          <source>Nov. 1</source>
+          ,
+          <year>2001</year>
+          , at A18.
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          14.
+          <string-name>
+            <surname>See</surname>
+            <given-names>PAUL SLOVIC</given-names>
+          </string-name>
+          ,
+          <source>THE PERCEPTION OF RISK 285</source>
+          (
+          <year>2000</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          15.
+          <string-name>
+            <surname>Id</surname>
+          </string-name>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          21.
+          <article-title>I do not explore here the question whether national standards make sense for drinking water, as opposed to reliance on state regulation. For a pertinent discussion of this question</article-title>
+          , see Richard L. Revesz, Federalismand Environmental Regulation:
+          <string-name>
+            <given-names>A Public</given-names>
+            <surname>Choice</surname>
+          </string-name>
+          <string-name>
+            <surname>Analysis</surname>
+          </string-name>
+          ,
+          <volume>115</volume>
+          HARV. L. REV.
+          <volume>553</volume>
+          ,
+          <fpage>559</fpage>
+          -
+          <lpage>83</lpage>
+          (
+          <year>2001</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          22.
+          <string-name>
+            <surname>See Matthew E. Kahn</surname>
+          </string-name>
+          ,
+          <source>The Beneficiariesof Clean Air Act Regulation</source>
+          ,
+          <volume>24</volume>
+          REG. MAG. No.
+          <volume>1</volume>
+          , at 22 (
+          <year>2001</year>
+          ), availableat http://papers.ssm.com/sol3/papers.cfm?abstractid=
+          <fpage>267073</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          23. See supra note 13.
+          <article-title>There is a brief reference to "distributive impacts"</article-title>
+          <source>in Executive Order</source>
+          <volume>12</volume>
+          ,
+          <issue>866</issue>
+          , 58 Fed. Reg.
+          <volume>51</volume>
+          ,
+          <issue>735</issue>
+          (Sept. 30,
+          <year>1993</year>
+          ).
+          <article-title>See also ABT Assocs</article-title>
+          .,
+          <string-name>
+            <surname>U.S. ENVTL. PROT. AGENCY</surname>
+          </string-name>
+          ,
+          <source>ARSENIC IN DRINKING WATER RULE: ECONOMIC ANALYSIS 8-31</source>
+          (
+          <year>2000</year>
+          )
+          <article-title>(analysis developed for EPA discussing need to explore equitable and distributional considerations, including effects on poor and minority communities), availableat www</article-title>
+          .epa.gov/safewater/ars/econ-analysis.
+          <source>pdf.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          24.
+          <string-name>
+            <surname>See National Primary Drinking Water Regulations</surname>
+          </string-name>
+          ,
+          <volume>66</volume>
+          Fed. Reg.
+          <volume>16</volume>
+          ,
+          <issue>134</issue>
+          (Mar. 23,
+          <year>2001</year>
+          )
+          <article-title>(codified at 40 C.ER</article-title>
+          . pts.
+          <volume>9</volume>
+          ,
+          <issue>141</issue>
+          , 142)
+          <article-title>(delaying arsenic rule); 66 Fed</article-title>
+          . Reg.
+          <volume>20</volume>
+          ,
+          <issue>579</issue>
+          (Apr. 23,
+          <year>2001</year>
+          )
+          <article-title>(ordering subsequent process).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          25. See Mark Barabak,
+          <string-name>
+            <surname>Bush CriticizedAs Fearof Environment Grows</surname>
+            ,
+            <given-names>L.A. TIMES</given-names>
+          </string-name>
+          , Apr.
+          <volume>30</volume>
+          ,
+          <year>2001</year>
+          , at A1.
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          26.
+          <string-name>
+            <surname>Erik</surname>
+            <given-names>Olson</given-names>
+          </string-name>
+          , Arsenic Everywhere, andBush Is Not Helping, BALT. SUN, May
+          <volume>14</volume>
+          ,
+          <year>2001</year>
+          , at 9A.
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          27.
+          <string-name>
+            <surname>John J. Fialka</surname>
+          </string-name>
+          , Arsenic and Wild Space:
+          <article-title>Green Activists from Across Spectrum Unite Against Bush, WALL ST</article-title>
+          . J.,
+          <source>Apr</source>
+          .
+          <volume>11</volume>
+          ,
+          <year>2001</year>
+          , at A20.
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          28.
+          <string-name>
+            <surname>Robert</surname>
+            <given-names>K.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Musil</surname>
+            , Arsenic on Tap,
+            <given-names>N.Y. TIMES</given-names>
+          </string-name>
+          , Apr.
+          <volume>24</volume>
+          ,
+          <year>2001</year>
+          , at A18.
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          29.
+          <string-name>
+            <surname>Michael</surname>
+            <given-names>Kinsley</given-names>
+          </string-name>
+          ,
+          <article-title>Bush Decision on Arsenic Tough to Swallow, TIMES UNION</article-title>
+          ,
+          <year>Apr</year>
+          .
+          <volume>16</volume>
+          ,
+          <year>2001</year>
+          , at A9.
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          30. 147 CONG. REC.
+          <source>H4727 (July</source>
+          <volume>27</volume>
+          ,
+          <year>2001</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          40. See David Hirshleifer,
+          <article-title>The Blind Leading the Blind: Social Influence, Fads, and Informational Cascades, in THE NEW ECONOMICS OF HUMAN BEHAVIOR 188 (Mariano Tommasi</article-title>
+          &amp; Kathyrn Ierulli eds.,
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          41.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          , e.g.,
+          <volume>147</volume>
+          CONo. REC.
+          <source>H4743 (July</source>
+          <volume>27</volume>
+          ,
+          <year>2001</year>
+          )
+          <article-title>(statement of Rep</article-title>
+          . Bonior).
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          42.
+          <string-name>
+            <surname>See Stephen F. Williams</surname>
+          </string-name>
+          , Squaringthe Vicious Circle,
+          <volume>53</volume>
+          ADMIN. L. REV.
+          <volume>257</volume>
+          ,
+          <issue>260</issue>
+          (
+          <year>2001</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          43. See Bruce Ackerman &amp;
+          <string-name>
+            <surname>Richard B. Stewart</surname>
+          </string-name>
+          ,
+          <source>Reforming Environmental Law: The Democratic CaseforMarket Incentives</source>
+          ,
+          <volume>13</volume>
+          COLUM. J.
+          <string-name>
+            <surname>ENVTL</surname>
+          </string-name>
+          .L.
+          <volume>171</volume>
+          ,
+          <fpage>172</fpage>
+          -
+          <lpage>75</lpage>
+          (
+          <year>1988</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          44. 42 U.S.C. §
+          <volume>7409</volume>
+          (b) (
+          <year>2000</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          45.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          , e.g., 33 U.S.C. §
+          <volume>1311</volume>
+          (
+          <article-title>b)(1)(A) (</article-title>
+          <year>2000</year>
+          ); 42 U.S.C. §
+          <article-title>§ 7411(a)(1), 7412(d)(2), 7475(a)(4), 7502(c)( 1)(</article-title>
+          <year>2000</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          100.
+          <string-name>
+            <surname>Denise Riedel</surname>
+          </string-name>
+          Lewis et al.,
+          <source>Drinking Water Arsenic in Utah: A Cohort Mortality Study, 107 ENVTL. HEALTH PERSP</source>
+          .
+          <volume>359</volume>
+          ,
+          <issue>362</issue>
+          (
+          <year>1999</year>
+          ), availableat http://ehpnetl.niehs.nih.gov/docs/1999/107p359- 365lewis/abstract.html.
+          <article-title>The EPA discounted these results in its final MCL report based upon the already low cancer rates of the subject population when compared to the entire state</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          101. H.Y. Chiou et al.,
+          <source>Arsenic Methylation Capacity</source>
+          , Body Retention, and
+          <article-title>Null Genotypes of Glutathione S-transferase Mi and T1 Among Current Arsenic-Exposed Residents in Taiwan, 386 MuTAT</article-title>
+          . RES.
+          <volume>197</volume>
+          ,
+          <issue>198</issue>
+          (
+          <year>1997</year>
+          )
+          <article-title>; Paivi Kurttio et al</article-title>
+          .,
+          <source>Arsenic Concentrationsin Well Water and Risk of Bladder and Kidney Cancer in Finland, 107 ENVTL. HEALTH PERSP</source>
+          .
+          <volume>705</volume>
+          (
+          <year>1999</year>
+          ), available at http:// ehpnetl .niehs.nih.gov/docs/1999/107p7O5 -710kurttio/abstract.html.
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          102. SUBCOMM.
+          <article-title>ON ARSENIC IN DRINKING WATER</article-title>
+          ,
+          <string-name>
+            <surname>NAT'L RESEARCH COUNCIL</surname>
+          </string-name>
+          <article-title>, supra note 4</article-title>
+          , at 17.
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          103.
+          <string-name>
+            <surname>Id</surname>
+          </string-name>
+          . at 7.
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          104.
+          <string-name>
+            <surname>Id</surname>
+          </string-name>
+          . at 8-9.
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          105.
+          <string-name>
+            <surname>See</surname>
+            <given-names>ABT</given-names>
+          </string-name>
+          ASSOCIATES,
+          <source>supra note 23, at 1-1 (quoting NRC report).</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          106.
+          <string-name>
+            <surname>See</surname>
+            <given-names>ROBERT PERCIVAL</given-names>
+          </string-name>
+          ET AL.,
+          <source>ENVIRONMENTAL LAW 442</source>
+          (3d ed.
+          <year>2000</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          107.
+          <string-name>
+            <surname>See Sue E. Umshler</surname>
+          </string-name>
+          ,
+          <article-title>When Arsenic is Safer in Your Cup of Tea Than in Your Local Water Treatment Plant,39 NAT</article-title>
+          . RESOURCES J.
+          <volume>565</volume>
+          ,
+          <fpage>589</fpage>
+          -
+          <lpage>92</lpage>
+          (
+          <year>1999</year>
+          )
+          <article-title>; see also National Primary Drinking Water Regulations, 66 Fed</article-title>
+          . Reg.
+          <volume>6976</volume>
+          ,
+          <fpage>7003</fpage>
+          -
+          <lpage>04</lpage>
+          (Jan. 22,
+          <year>2001</year>
+          )
+          <article-title>(codified at 40 C.ER</article-title>
+          . pts.
+          <volume>9</volume>
+          ,
+          <issue>141</issue>
+          , 142).
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          108.
+          <string-name>
+            <surname>Umshler</surname>
+          </string-name>
+          , supra note 107, at 587.
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+

@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink"><script/>
+  <front>
+    <journal-meta/>
+    <article-meta>
+      <title-group>
+        <article-title>Fast, Frugal, and (Sometimes) Wrong</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Coase-Sandor Working Paper Series in Law</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Part of the Law Commons</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Coase-Sandor Institute for Law and Economics</institution>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2003</year>
+      </pub-date>
+      <abstract>
+        <p>Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics Recommended Citation</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>Cass R. Sunstein, "Fast, Frugal, and (Sometimes) Wrong" ( John M. Olin Program in Law and Economics Working Paper No. 265,
+2005).
+PUBLIC LAW AND LEGAL THEORY WORKING PAPER NO. 110 </p>
+      <p>Cass R. Sunstein </p>
+      <p>T H E   L A W   S C H O O L  
+T H E   U N I V E R S I T Y  O F   C H I C A G O  </p>
+    </sec>
+    <sec id="sec-2">
+      <title>November 2005 </title>
+      <p> </p>
+      <p>This paper can be downloaded without charge at the John M. Olin Program in Law and 
+Economics Working Paper Series: http://www.law.uchicago.edu/Lawecon/index.html and at the </p>
+      <p>Public Law and Legal Theory Working Paper Series:  
+http://www.law.uchicago.edu/academics/publiclaw/index.html </p>
+      <p>and 
+The Social Science Research Network Electronic Paper Collection: </p>
+      <p>http://ssrn.com/abstract_id=844964  </p>
+      <sec id="sec-2-1">
+        <title>Preliminary draft 11/3/05</title>
+        <p>forthcoming in Walter Sinnott-Armstrong, ed., The Cognitive Science of Morality
+All rights reserved</p>
+      </sec>
+      <sec id="sec-2-2">
+        <title>Cass R. Sunstein University of Chicago Law School and Department of Political Science Abstract</title>
+        <p>Do moral heuristics operate in the moral domain? If so, do they lead to moral
+errors? This brief essay offers an affirmative answer to both questions. In so doing, it
+responds to an essay by Gerd Gigerenzer on the nature of heuristics, moral and
+otherwise. While focused on morality, the discussion bears on the general debate between
+those who emphasize cognitive errors, sometimes produced by heuristics, and those who
+emphasize the frequent success of heuristics in producing sensible judgments in the real
+world. General claims are that it is contentious to see moral problems as ones of
+arithmetic, and that arguments about moral heuristics will often do well to steer clear of
+contentious arguments about what morality requires.</p>
+        <p>For many problems, Gerd Gigerenzer celebrates heuristics. He believes that they
+are simple, fast, frugal, and remarkably accurate. He emphasizes that heuristics can be
+prescriptive, in the sense that they may well lead to good outcomes in the real world. In
+the moral domain, Gigerenzer is properly cautious about whether heuristics produce
+moral or immoral behavior. What I would like to do here is to emphasize the imperfect
+reliability of heuristics in general, and to suggest that their imperfect reliability raises
+serious cautionary notes about some of Gigerenzer’s broader claims.</p>
+        <p>
+          Let us begin with Gigerenzer’s illuminating remarks about the "gaze heuristic,"
+which enables baseball players (and others) to make otherwise difficult catches.
+Gigerenzer, who has often explored this particular heuristic, is quite right to emphasize
+that people who use heuristics are often not aware that they are doing so. But even a
+casual understanding of sports requires some qualification of Gigerenzer's claims. Stupid
+tennis players tend to use fast and frugal heuristics, which contribute to their stupid
+tennis. Often they think, for example, that they should hit the ball hard and deep
+whenever the opportunity arises—an intuition, or thought, that can get them into serious
+trouble. Stupid athletes adopt simple heuristics that make them dumb. By contrast, smart
+tennis players are immensely flexible, and they are able to rethink their rules of thumb as
+the occasion demands. The best athletes have an exceedingly complex set of heuristics,
+fast but not at all simple, which they deploy as the situation requires. The moral domain
+is not so very different
+          <xref ref-type="bibr" rid="ref4">(see Nussbaum, 2003)</xref>
+          . It is pervaded by fast heuristics, as
+Gigerenzer suggests, but they often misfire, and good moral agents are aware of that fact.
+        </p>
+        <p>
+          My own treatment of moral heuristics, criticized by Gigerenzer, emphasizes the
+immense importance of moral framing and the possibility that people use “simple
+heuristics that make us good”
+          <xref ref-type="bibr" rid="ref9">(Sunstein, 2005)</xref>
+          . For morality, as for issues of fact and
+logic, it is important to see that many heuristics do point us in the right direction– and
+hence to stress, as did Tversky and Kahneman
+          <xref ref-type="bibr" rid="ref10">(Tversky and Kahneman, 1974)</xref>
+          and later
+Gigerenzer, that heuristics can lead to excellent judgments in the actual world. If people
+believe that they ought not to lie, or harm innocent people, they will often do the right
+thing—especially in light of the fact that case-by-case inquiries into the morality of lying,
+or harming innocent people, could produce self-serving conclusions that produce
+grievous moral wrong. (The case of Nazi massacres, explored by Gigerenzer, can be
+understood as an example.) Moral heuristics, understood as simple rules of thumb, might
+well have a rule-utilitarian defense, in the sense that they might, on balance, produce
+morally preferable behavior even if they lead to unfortunate results in particular cases.
+        </p>
+        <p>
+          But no one should deny that in many contexts, moral and other heuristics, in the
+form of simple rules of thumb, lead to moral error on any plausible view of morality.
+Consider, for example, the idea, emphasized by Gigerenzer, that one ought to do as the
+majority does, a source of massive moral blunders
+          <xref ref-type="bibr" rid="ref7 ref8">(see Sunstein, 2003)</xref>
+          . Or consider the
+fast and frugal idea that one ought not to distort the truth—a heuristic that generally
+works well, but that also leads (in my view) to moral error when, for example, the
+distortion is necessary to avoid significant numbers of deaths. Or consider the
+actomission distinction, which makes moral sense in many domains, but which can lead to
+unsupportable moral judgments as well (Baron, 2004).
+        </p>
+        <p>Gigerenzer notes, usefully, that it may be possible to modify people’s judgments,
+including their moral judgments, by altering the background. The idea is hardly original
+(see Sunstein and Thaler, 2004), but it is true that a default rule in favor of organ
+donations might well increase what, on one view, is morally desirable behavior (id.).
+Indeed there are many applications of this point. If default rules matter, an employer,
+including the state qua employer, could dramatically increase charitable contributions by
+presuming that (for example) each employer would like to devote 2% of wages to
+charitable causes. Of course the use of default rules to steer behavior raises normative
+questions of its own (id.). The only point is that default rules greatly matter to choices,
+including those with a moral component.</p>
+        <p>Thus far, then, Gigerenzer’s general argument seems both plausible and
+illuminating, and I am merely underlining the possibility that even good heuristics will go
+wrong, for morality as for other questions. But on an important issue, Gigerenzer seems
+to me to miss some of the complexity of moral argument. His objections to maximization
+theories treat moral judgments as involving a kind of moral arithmetic, and this is a most
+contentious understanding.</p>
+        <p>To be sure, Gigenenzer is correct to stress the cognitive difficulties of undertaking
+a full ex ante calculation of the consequences of social actions. Human beings do not
+have unlimited cognitive abilities, and hence they are often unable to specify the effects
+of one or another course of action. Gigerenzer believes that satisficers, using moral
+heuristics, have important advantages over optimizers. For some questions, this is
+undoubtedly correct. But to understand the relationship between heuristics and the moral
+domain, much more must be said. Three points are especially important here.</p>
+        <p>
+          First: Gigerenzer does not mention that many people are rule-consequentialists;
+they know exactly what Gigerenzer emphasizes, and they favor clear and simple moral
+rules for that very reason
+          <xref ref-type="bibr" rid="ref3">(Hooker, 2000)</xref>
+          . A complex consequentialist calculus might
+lead to error, even if it would be preferable if properly applied. Because people are
+selfserving, and because their on-the-spot judgments are unreliable, they might do best to
+follow simple moral rules, or one-reason decision making. There are interesting
+relationships between Gigerenzer’s understanding of heuristics and rule-utilitarian
+approach to morality.
+        </p>
+        <p>
+          Second: Consequentialism can be specified in many different ways. Utilitarianism
+is one form of consequentialism, but because it require all goods and bads to be described
+along the metric of utility, it is controversial, even among consequentialists. When
+Gigerenzer speaks of the limits of maximization theories, and even of consequentialism,
+he appears to be operating under a utilitarian framework, without exploring the problem
+of plural and incommensurable goods. We might, for example, endorse a form of
+consequentialism that sees rights violations (so understood on nonutilitarian grounds) as a
+set of (very) bad consequences
+          <xref ref-type="bibr" rid="ref6">(see Sen, 1982)</xref>
+          . Gigerenzer’s exploration of moral
+problems does not recognize the complexities in consequentialist accounts of morality.
+        </p>
+        <p>
+          Third: Many people are not consequentialists at all
+          <xref ref-type="bibr" rid="ref5">(see Scheffler, 1994)</xref>
+          .
+Consider the injunction to treat people as ends, not means, an injunction that runs afoul of
+many versions of consequentialism
+          <xref ref-type="bibr" rid="ref6">(but see Sen, 1982)</xref>
+          . Hence—and this is the most
+important point—it is not enough for Gigerenzer to show that moral heuristics do a good
+(enough) real-world job of achieving what we would achieve if we were optimizers with
+unlimited abilities of calculation. Perhaps some heuristics, in some contexts, violate
+deontological commands.
+        </p>
+        <p>Return to Gigerenzer’s first example: Should a Nazi massacre be evaluated in
+utilitarian or consequentialist terms? To make the calculation, does it matter if, for
+example, there were many more Nazis than Jews, and that many Germans had a great
+deal to gain, economically and otherwise, from mass murders? Many people would
+respond that this moral atrocity counts as such whatever the outcome of a utilitarian or
+consequentialist calculus—and hence that Gigerenzer’s emphasis on the impossibility of
+ex ante calculations is often beside the point (or worse). Perhaps many moral heuristics,
+followed by most people and even most soldiers (putting Nazi soldiers to one side),
+should be seen as fast and frugal ways not of satisficing rather than optimizing, but of
+ensuring that people do what is required by nonconsequentialist accounts of morality.</p>
+        <p>
+          The existence of plural and conflicting accounts of the foundations of morality
+makes it all the more difficult to argue that moral heuristics function well. If certain fast
+and frugal heuristics are defensible on utilitarian or consequentialist grounds, they might
+still be objectionable from the moral point of view. In my view, it is for this reason
+productive to explore heuristics that might be defensible, or indefensible, on the basis of
+any view of what morality requires, or on the basis of the least contentious views of what
+morality requires
+          <xref ref-type="bibr" rid="ref9">(Sunstein, 2005)</xref>
+          .
+        </p>
+        <p>Gigerenzer seems to think that moral heuristics might be shown to be prescriptive
+if a full consequentialist calculus is not possible; but this thought too quickly treats
+morality as a problem of arithmetic. If morality ought not to be so understood, as many
+people believe, then it is not clear what is shown by Gigerenzer’s emphasis on the
+cognitive problems associated with optimizing. I emphasize that prescriptive treatments
+of moral heuristics are likely to be productive; but they should steer clear of the most
+contentious arguments about the foundations of morality.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Readers with comments should address them to:
+Professor Cass Sunstein
+University of Chicago Law School
+1111 East 60th Street
+Chicago, IL 60637
+csunstei@uchicago.edu </p>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>Chicago Working Papers in Law and Economics </title>
+      <p>(Second Series) 
+209. 
+210. 
+211. 
+212. 
+213. 
+214. 
+215. 
+216. 
+217. 
+218. 
+219. 
+220.  
+221. 
+222. 
+223. 
+224. 
+225. 
+226. 
+227. 
+228. 
+229. 
+230. 
+231. 
+232. 
+233. 
+234. 
+235. 
+236. 
+237. 
+238. 
+239. 
+240. 
+241. 
+242. 
+243. 
+244. 
+245. 
+252. </p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>Akerlof</surname>
+            ,
+            <given-names>G.</given-names>
+          </string-name>
+          <article-title>The Economics of Caste and of the Rate Race and Other Woeful Tales, in An Economic Theorist's Book of Tales (</article-title>
+          <year>1984</year>
+          ). Cambridge University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Baron</surname>
+            ,
+            <given-names>J.</given-names>
+          </string-name>
+          (
+          <year>1994</year>
+          )
+          <article-title>Nonconsequentialist decisions</article-title>
+          .
+          <source>Behavioral and Brain Sciences</source>
+          <volume>17</volume>
+          :
+          <fpage>1</fpage>
+          -
+          <lpage>10</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Hooker</surname>
+            ,
+            <given-names>B.</given-names>
+          </string-name>
+          (
+          <year>2000</year>
+          ).
+          <source>Ideal Code, Real World: A Rule-Consequentialist Theory of Morality</source>
+          . Oxford University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>Nussbaum. M.</surname>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <source>The Fragility of Goodness</source>
+          . Cambridge University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>Scheffler</surname>
+            ,
+            <given-names>S.</given-names>
+          </string-name>
+          (
+          <year>1994</year>
+          ).
+          <source>The Rejection of Consequentialism</source>
+          . Oxford University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>Sen</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          (
+          <year>1982</year>
+          ).
+          <article-title>Rights and Agency</article-title>
+          .
+          <source>Philosophy and Public Affairs</source>
+          <volume>11</volume>
+          :
+          <fpage>3</fpage>
+          -
+          <lpage>39</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>Sunstein</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <article-title>Why Societies Need Dissent</article-title>
+          . Harvard University Press.
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>Sunstein</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Thaler</surname>
+            ,
+            <given-names>R.</given-names>
+          </string-name>
+          (
+          <year>2003</year>
+          ).
+          <source>Libertarian Paternalism Is Not An Oxymoron. University of Chicago Law Review</source>
+          <volume>70</volume>
+          :
+          <fpage>1159</fpage>
+          -
+          <lpage>1202</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Sunstein</surname>
+            ,
+            <given-names>C.</given-names>
+          </string-name>
+          (
+          <year>2005</year>
+          ).
+          <source>Moral Heuristics. Behavioral and Brain Sciences</source>
+          <volume>28</volume>
+          :
+          <fpage>531</fpage>
+          -
+          <lpage>43</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Tversky</surname>
+            ,
+            <given-names>A.</given-names>
+          </string-name>
+          and
+          <string-name>
+            <surname>Kahneman</surname>
+            ,
+            <given-names>D.</given-names>
+          </string-name>
+          (
+          <year>1974</year>
+          ).
+          <article-title>Judgment under uncertainty: Heuristics and biases</article-title>
+          .
+          <source>Science</source>
+          ,
+          <volume>185</volume>
+          ,
+          <fpage>1124</fpage>
+          -
+          <lpage>1131</lpage>
+          .
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

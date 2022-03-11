@@ -1,0 +1,2280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta />
+    <article-meta>
+      <title-group>
+        <article-title>Predictably Incoherent Judgments</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Economics</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Cass R. Sunstein, Daniel Kahneman, David Schkade &amp; Ilana Ritov, "Predictably Incoherent Judgments", John M. Olin Program in Law and Economics Working Paper No.</institution>
+          <addr-line>131, 2001</addr-line>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Coase-Sandor Institute for Law and Economics</institution>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>1993</year>
+      </pub-date>
+      <fpage>30</fpage>
+      <lpage>71</lpage>
+      <kwd-group>
+        <kwd>Follow this and additional works at</kwd>
+        <kwd>https</kwd>
+        <kwd>//chicagounbound</kwd>
+        <kwd>uchicago</kwd>
+        <kwd>edu/law_and_economics</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>JOHN M. OLIN LAW &amp; ECONOMICS WORKING PAPER NO. 131 (2D SERIES)</title>
+      <p>Predictably Incoherent Judgments
+Cass R. Sunstein, Daniel Kahneman, David Schkade, and Ilana Ritov</p>
+      <p>THE LAW SCHOOL</p>
+      <p>THE UNIVERSITY OF CHICAGO
+This paper can be downloaded without charge at:</p>
+      <p>The Chicago Working Paper Series Index:
+http://www.law.uchicago.edu/Lawecon/index.html
+The Social Science Research Network Electronic Paper Collection:</p>
+      <p>http://papers.ssrn.com/paper.taf?abstract_id=279181
+Preliminary draft 7/28/01
+All rights reserved
+Cass R. Sunstein,* Daniel Kahneman,** David Schkade, *** and Ilana Ritov****</p>
+      <p>When people make moral or legal judgments in isolation, they produce a pattern
+of outcomes that they would themselves reject, if only they could see that pattern as a
+whole. A major reason is that human thinking is category-bound. When people see a case
+in isolation, they spontaneously compare it to other cases that are mainly drawn from the
+same category of harms. When people are required to compare cases that involve different
+kinds of harms, judgments that appear sensible when the problems are considered
+separately often appear incoherent and arbitrary in the broader context. Another major
+source of incoherence is what we call the translation problem: The translation of moral
+judgments into the relevant metrics of dollars and years is not grounded in either
+principle or intuition, and produces large differences among people.. The incoherence
+produced by category-bound thinking is illustrated by an experimental study of punitive
+damages and contingent valuation. We also show how category-bound thinking and the
+translation problem combine to produce anomalies in administrative penalties. The
+underlying phenomena have large implications for many topics in law, including jury
+behavior, the valuation of public goods, punitive damages, criminal sentencing, and civil
+fines. We consider institutional reforms that might overcome the problem of predictably
+incoherent judgments. Connections are also drawn to several issues in legal theory,
+including valuation of life, incommensurability, and the aspiration to global coherence in
+adjudication.</p>
+      <p>“Why didn’t the Commission sit down and really go and rationalize this
+thing . . .? The short answer to that is: We couldn’t. . . . Try listing all the crimes
+that there are in rank order of punishable merit. . . . Then collect results from
+your friends and see if they all match. I will tell you they don’t.”1
+* Karl N. Llewellyn Distinguished Service Professor, University of Chicago.
+** Eugene Higgins Professor of Psychology and Professor of Public Affairs, Princeton University
+*** Herbert D. Kelleher Professor of Business, University of Texas, Austin.
+**** Associate Professor, Hebrew University of Jerusalem. For helpful comments, we are grateful to Eric
+Posner, Richard Posner, and participants in workshops at the John F. Kennedy School of Government at
+Harvard University, the University of Chicago Law School, and Yale Law School.
+1 Justice Stephen Breyer, as quoted in The New Republic, June 6, 1994, at p. 12.</p>
+      <p>I. Introduction: Coherence and Incoherence</p>
+      <sec id="sec-1-1">
+        <title>A. Basic Claims</title>
+        <p>Coherence in law is a widely shared ideal. Almost everyone hopes for a
+legal system in which the similarly situated are treated similarly. But there are
+many obstacles to the achievement of coherence in the law. This Article is
+concerned with one particular test of coherence, and with two cognitive
+limitations that help cause many failures of that test in actual legal systems. We
+believe that these failures are also failures of justice, and that they suggest a
+pervasive problem in existing legal systems.</p>
+        <p>Our test of coherence is straightforward. We ask: When two or more
+judgments have been made separately, and each seems to make sense on its own,
+do they still make sense when considered together? When this test fails, and a
+need is felt to adjust or reverse the judgments that were made separately, we will
+speak of judgment reversals. The test of coherence can be readily applied to
+decisions by juries and by judges.2 With suitable modifications, it can also be
+applied to acts of legislators and regulators. More generally, we ask whether
+judgments made in isolation fit together in an orderly way when considered as
+part of the larger whole.</p>
+        <p>Our emphasis will be on many categories of harms with which the law is
+concerned, such as physical injury‚ commercial fraud, and ecological damage.
+Our first psychological observation is that in law, as in ordinary life, people’s
+thinking is category-bound. People do not easily cross the boundaries of
+categories3 of harms in their thinking. When they consider an individual case of
+physical injury, or commercial fraud, the frame of reference for evaluation is
+usually a set of instances of the same kind of harm.4 When setting penalties for a
+category of cases, such as violations of regulations for occupational safety,
+regulators will naturally focus on instances that belong to that category. They
+are much less likely to concern themselves with the consistency of their
+determinations with punishments for other categories of harmful conduct, such
+as damage to endangered species. Yet, as we will show, simultaneous
+2 Note that this is a test of coherence, not of social consensus, which was explored in Cass R. Sunstein, Daniel
+Kahneman &amp; David Schkade, Assessing Punitive Damages, 107 Yale LJ 2071 (1998). But the absence of
+consensus on dollar amounts, discussed below, does bear on the possibility of achieving coherence.
+3 We say a few words below on the nature of categories.
+4 Daniel Kahneman and Dale Miller. Norm Theory: Comparing reality to its alternatives, 93 Psychological
+Review 136 (1986).
+consideration of penalties for different kinds of infractions will often reveal that
+the more severe punishment was assigned to the misconduct which, in context,
+appears to be the less serious.</p>
+        <p>A second significant source of incoherence is what we shall call the
+translation problem. By this term, we refer to the distinctive problem involved in
+translating a moral judgment of some kind5 into the terms made relevant by the
+legal system, such as monetary penalties, civil fines, or criminal punishment.6
+We argue that the act of translation causes serious problems, because it is
+grounded neither in agreed-upon principle nor in widely shared intuitions. Even
+when people show coherent and consistent moral intuitions, they may show little
+consistency and coherence in translating those intuitions into numbers, such as
+dollars of fines or years in jail. Because of the translation problem, coherence
+fails: there is no guarantee that the relative severity of punishments administered
+by the system will still appear sensible, just, or fair when several punishments
+are considered together. The translation problem helps identify the cognitive
+foundations of current controversies over criminal sentencing, punitive damages,
+and contingent valuation. It affects the work not only of juries, but also of
+legislative and regulatory bodies that determine punishments for different kinds
+of misconduct within a particular category. The result, we will argue, is that the
+overall level of penalties set by different regulatory agencies may appear sensible
+when each set of regulations is considered on its own, but fail our test of
+coherence when several sets are considered at once.</p>
+        <p>We consider it self-evident that if it exists, incoherence in punishments is a
+form of injustice. We shall also assume that when the public would not believe
+that outcomes fit sensibly together, this is a problem that calls for social response.
+We will assume that these points are correct, without defending them in any
+detail.</p>
+        <p>The coherence and incoherence of punishments, both civil and criminal,
+will be the focus of our analysis, and in this domain we will attempt to show
+considerable reason for concern. Juries typically assess cases in isolation; in fact
+5 We use this term because as a matter of fact, moral judgments appear to be the foundation of punishments.
+On the economic theory of punishment, optimal deterrence is the goal, and optimal deterrence is in conflict
+with ordinary intuitions, as we discuss in detail below. A. Mitchell Polinsky &amp; Steven Shavell, Punitive
+Damages: An Economic Analysis, 111 Harv. L. Rev. 869, 870–76 (1998).For interesting reasons, the
+translation problem is not a serious one from the standpoint of economic analysis of law. We will refer to
+this point below.
+6 We initially discussed the translation problem, under the technical term “scaling without a modulus,” in
+the particular context of punitive damage awards in Sunstein, et al., supra. We generalize the problem here.
+lawyers are actually barred from referring to awards in other cases.
+Administrators, and congressional committees setting up penalties for regulatory
+misconduct, typically deal with one category of misconduct, and do not attend to
+problems of other types.7 Criminal sentences are established over time by
+different legislatures and legislative committees, with little effort to ensure a
+good fit of penalties to crimes across a broad frame of reference.8 Because
+people are not inclined to consider the overall pattern – either because it is too
+difficult to do so or because it does not occur to them to try – the problem of
+incoherence does not naturally receive attention.9 As things now stand, the
+structure of those institutions charged with making regulatory and legislative
+decisions reinforces the effects of category-bound thinking. Scandalously large
+inconsistencies can therefore persist indefinitely, in the absence of a special effort
+to impose coherence.</p>
+        <p>The fact that coherence cannot be taken for granted has significant
+implications for institutional design. It suggests, in some domains, a possible
+reason to favor judicial decisions over jury decisions, because judges are more
+likely to have a menu of cases before them. Because judges are human,10 they too
+are susceptible to producing incoherent patterns11; but especially if the risk of
+incoherence is brought to judicial attention, they might well likely to do better,
+on this count, than juries. Our claims also suggest the potential value of
+“coherence commissions,” assigned the explicit mission to ensure that decisions
+fit together as an orderly whole, or at least to correct the most serious anomalies.
+We bring the idea of “coherence commissions” in contact with many areas of the
+law, including civil and criminal penalties, punitive damages, and valuation of
+statistical lives. We will also attempt to cast new light on some large topics in
+legal theory, including the aspiration to similar treatment of the similarly
+7 Indeed, an administrator or regulator who shows explicit concern with problems that lie outside his or her
+jurisdiction risks being criticized as improperly “poaching” on someone else’s turf, or even having his
+decision held unlawful. See Pension Benefit Guaranty Corp. v. LTV Corp., 496 US 633 (1990) (allowing
+agency entrusted with pension guarantees not to consider other, relevant areas of law, and suggesting that
+any such consideration would violate the underlying statute).
+8 The goals of the United States Sentencing Commission are, on this dimension, quite unambitious. See
+below. In fact a version of the translation problem appears in the international domain, where criminal
+sentencing also shows a degree of incoherence. See Allison Marston Danner, Constructing a Hierarchy of
+Crimes in International Criminal Sentencing, Virginia Law Review (forthcoming 2001).
+9 Indeed we believe that this Article is the first to venture even a tentative assessment of the pattern of
+administrative penalties. See below.
+10 Chris Guthrie, Jeffrey Rachlinsk, Andrew Wistrich, Inside the Judicial Mind, 86 Corn. L. Rev. 778 (2001).
+11 This was an explicit rationale for the formulation of Sentencing Guidelines
+situated, the twentieth-century movement toward bureaucracy,12 and the general
+problem of “incommensurability.” Discussing several different kinds of
+incoherence, we identify some of the cognitive limits of the aspiration to global
+coherence in law,13 while also pointing the way toward institutional reforms that
+could overcome those limits. We urge that “coherence commissions” could do a
+great deal to reduce existing injustice, in a way that would provide a twenty-first
+century analogue to important, but less ambitious, institutional developments in
+the twentieth century.</p>
+      </sec>
+      <sec id="sec-1-2">
+        <title>B. Specific Points</title>
+        <p>In this Article, we will be covering many topics, some of them in
+considerable detail. For purposes of exposition, it will be useful to give an
+overview of the specific claims that undergird our general arguments about
+incoherence
+•</p>
+        <p>The moral intuitions of the public are firmly retributive in character.14
+The intensity of what we shall call “punitive intention” – the desire to
+punish wrongdoing – is influenced both by the outrageousness of an
+action and by the severity of the harm that the action caused.
+• It is extremely difficult for people to translate punitive intentions into
+the terms made relevant by the legal system, such as fines or prison
+terms. That task is not rooted in shared intuitions, moral or otherwise,
+and outcomes can be largely arbitrary and unpredictable. Different
+juries may express the same punitive intention, but come up with quite
+different dollar awards. The bodies that set administrative
+punishments for particular categories of misconduct may differ widely
+in the general range of punishments that they choose, for no principled
+reason. State legislatures may produce widely varying punishments
+for the same crime, not because of different moral judgments, but
+simply because of the translation problem.
+• If people are asked to assess cases that fall within a particular category
+of actions and harms, but are not asked to translate their punitive
+12 A helpful overview is Price Fishback &amp; Shawn Kantor, A Prelude to the Welfare State: The Origins of
+Workers” Compensation (1999); see also Jerry Mashaw, Due Process in the Administrative State (1983), for a
+valuable discussion in the context of social security disability determinations.
+13 Associated with Ronald Dworkin, Law’s Empire (1985).
+14 As recognized by the Supreme Court in Cooper v Leatherman, 532 U.S. S. Ct. (2001) at footnotes 5 and 11.
+intentions into dollars or years, people’s judgments tend to be both
+shared and coherent.15 It follows that if they are evaluating cases
+within each category, diverse people are likely to agree on how to rank
+a set of personal injury cases, business fraud cases, sexual harassment
+cases, or libel cases by their “punishable merit” (Justice Breyer’s term).
+When asked to evaluate a case separately and hence in isolation,
+people spontaneously proceed by comparing it against others falling
+within the same category.16 Thus, for example, people’s responses to a
+case of business fraud will be generated largely by comparing that case
+to other cases of business fraud. If the case of business fraud involves
+extremely egregious misconduct that caused very severe harm in this
+frame of reference, people will be extremely outraged. The fact that
+there are other categories of cases, involving actions that people view
+as more evil and harms that they think more serious, will be effectively
+neglected. We call this effect “normalization.”17
+The requirement directly to compare cases drawn from different
+categories of harmful actions can cause large shifts in moral
+evaluations, punitive intentions and actual punishments, relative to the
+judgments of the same cases in isolation. Such shifts, which we
+generically label judgment reversals, provide a diagnostic indication of
+a breakdown of coherence.</p>
+        <p>There is less consensus on the ranking of cases in the hierarchy of
+“punishable merit” when the cases involve different kinds of harms
+(e.g., personal injury vs. environmental damage) than when they
+belong to the same category. Harms from different categories may
+seem “incommensurable,” because they cannot easily be described in
+terms of the same dimensions: the question of how many animals died,
+for example, is relevant in one of these situations but not in the other.
+The difficulty of comparisons across categories of harms may be one of
+the cognitive sources of the difficulty pointed out by Justice Breyer.
+15 The claim is based on results reported by Daniel Kahneman, David Schkade &amp; Cass R. Sunstein, Shared
+Outrage and Unpredictable Awards, 16 J. Risk &amp; Uncertainty 49 (1998) and Sunstein et al., supra.
+16 See Kahneman &amp; Miller, supra; see also Daniel Kahneman, Ilana Ritov &amp; David Schkade. Economic
+preferences or attitude expressions? An analysis of dollar responses to public issues, 19 Journal of Risk &amp;
+Uncertainty 220 (1999).
+17 Id.</p>
+        <p>There is substantial consensus on the ranking of categories, including
+those created or used by the law. People agree, for example, that
+murder is worse than rape, than rape is worse than assault, and that
+assault is worse than libel. We suspect, however, that there is less
+social agreement on the ranking of categories than the on ranking of
+cases within categories.
+• In spite of the difficulties of comparing categories of cases and cases
+across categories, there is in many cases sufficient consensus to permit
+a test of coherence, which examine whether judgments made in
+isolation are still retained when explicitly compared.</p>
+        <p>We illustrate these claims by investigating judgments in several kinds of
+domains – some of them experimental, some involving actual government
+practice. The first involves punitive damages awards. Here we show that people
+rank cases within a given category of harms in a consistent and coherent fashion,
+that their judgments about isolated cases are “normalized” according to the
+category in which they fall – but that these narrowly-based and easily-made
+judgments shift when people are compelled to consider the case in a broader
+context, by forcing a comparison to a case that involves harm of a different kind.
+The second kind of problem involves contingent valuation – an influential
+method of valuation by which people assign dollar values to goods that are not
+ordinarily traded on markets.18 We observe a similar pattern here. The amount
+that the public will be willing to pay to prevent or correct some harm to a public
+good will be very different depending on whether the goods and the harms are
+viewed in isolation or in explicit comparison with harms to goods and harms
+from another category.19 This point fortifies existing doubts about the rationality
+and reliability of the contingent valuation method.20</p>
+        <p>A third kind of problem involves administrative penalties. Investigating
+actual statutory practice, we find that such penalties tend to make a great deal of
+sense within categories, because (for example) the more serious occupational
+safety and health violations are penalized more severely than the less serious
+ones. At the same time, administrative practice seems to make little sense as a
+18 See, e.g., George Tolley et al., Valuing Health For Policy (1995); Valuing Environmental Preferences (Ian
+Bateman &amp; K. G. Willis eds., 1999).
+19 See Julie Irwin, Paul Slovic, Sarah Lichtenstein &amp; Gary McClelland, Preference reversals and the
+measurement of environmental values, 6 Journal of Risk &amp; Uncertainty 5 (1993)
+20 See Peter Diamond &amp; Jerry Hausman, Contingent Valuation: Is Some Number Better Than No Number, 8
+J. Econ. Persp. 45, 49-52 (1994); Note, Ask A Silly Question, 105 Harv L Rev 1981 (1992).
+whole: Once the practices of diverse agencies are put together, the area appears
+pervaded by cross-category anomalies. What requires explanation here is both
+how such anomalies arise and why they persist. We argue that the anomalies
+arise from the combined effects of category-bound thinking and the arbitrary
+nature of the translation of moral judgments into punishments. The anomalies
+persist because of the absence of a strong need, at the individual and social
+levels, to ensure coherence. Apparently no constituency is seeking to ensure that
+the system of penalties fit together as a whole. In fact we believe that ours is the
+first effort even to explore the question of coherence in civil penalties – a point
+that attests to the fact that people can live (perhaps in ignorant bliss) with
+patterns that make little general sense. Here as well, underlying sources of the
+difficulty are category-bound judgments and the translation problem. The result
+is injustice and arbitrariness.</p>
+        <p>While emphasizing the problem of incoherence, we do not suggest that
+coherence is sufficient to produce good outcomes. Systems that are internally
+coherent can and should be criticized on independent grounds.21 It is also
+possible to insist that in some domains, the price of coherence is too steep,
+perhaps because of the administrative costs of achieving it, perhaps because
+coherence can be achieved only by altering some institutions, outcomes, and
+judgments that, on independent normative grounds, turn out to be good. But
+incoherence of the sort documented here is at the very least a serious problem,
+because it ensures a set of results that would widely be seen as indefensible and
+arbitrary. One of our largest goals is to uncover the mechanism that helps to
+produce this state of affairs, and to see what might be done about it.</p>
+      </sec>
+      <sec id="sec-1-3">
+        <title>C. Plans</title>
+        <p>This Article is organized as follows. Part II provides some general
+background on the concept of coherence. Part III explores the psychology
+underlying the forms of incoherence that is our focus here. Part IV turns to the
+basic cases of punitive damages and contingent valuation, offering experimental
+evidence of judgment reversals. In order to provide a focus for normative work
+on incoherence in law, Part V discusses the implications of our findings for
+punitive damages awards. Part VI explores more general implications by
+showing patterns of administrative penalties that most reasonable people would
+21 See Joseph Raz, The Relevance of Coherence, in Ethics in the Public Domain 261 (1994). Raz emphasizes
+that “Coherence conveys a specific good, the value of which is undeniable. What is incoherence is
+unintelligible, because it is self-contradictory, fragmented, disjointed.” Id. at 264. Raz raises serious doubts
+about coherence theories in id. at 265-70; we do not investigate the resulting complexities here.
+reject as absurdly inconsistent, and that nevertheless persist indefinitely,
+reflecting the pervasive indifference to issues of global coherence that we have
+attributed to human cognition.</p>
+        <p>Our basic purpose is descriptive, but we also contend that at a minimum,
+we have uncovered a serious problem, one that infects judgments and penalties
+in many areas of the law. While emphasizing the difficulty of achieving
+agreement on the requirements of full coherence, we suggest that many steps can
+be taken to correct the worst anomalies. In Part VII, we urge that as an ideal, the
+legal system should attempt to create institutions that would create more in the
+way of systemic rationality, and that where results do not fit, there is likely to be
+a problem of injustice. With respect to the budget, the Office of Management and
+Budget was originally created on just this ground, and the Sentencing Guidelines
+had similar aspirations (as yet unrealized, partly because of the absence of
+explicit cross-category comparisons). With respect to regulation, there are some
+related problems: the existence of large and apparently inexplicable disparities in
+expenditures per life saved is, in part, testimony to the absence of sustained
+cross-category comparisons. Of course the jury system raises special problems
+and concerns, and there are large questions about the extent to which reforms,
+even dramatic ones, might overcome the problems stressed here.</p>
+        <p>In Part VIII, we show that our analysis bears on some larger issues in legal
+theory, including the debate over the value and possibility of coherence in law
+and the nature and existence of “incommensurability.” A main theme is that any
+effort to proceed “one case at a time” will produce serious problems, because of
+identifiable features of human cognition. We also attempt to show the cognitive
+basis for the experience of incommensurability. Our closing plea is for
+institutional changes designed to overcome the problems we identify, replacing
+predictably incoherent judgments with reforms whose goal is to produce
+systemic rationality.</p>
+        <sec id="sec-1-3-1">
+          <title>II. Coherence in General</title>
+          <p>Our emphasis here will be on the particular types of incoherence that stem
+from the human tendency to make category-bound judgments, and from the
+arbitrariness of the translation of punitive intent into actual punishments. But
+this type of incoherence should be understood against a more general
+background, formed by the broader interest in coherence as a goal and by a
+continuing debate within economics and other social sciences.</p>
+          <p>Ethical and political philosophers have often viewed inconsistencies with
+concern,22 treating them as local warps in a web of beliefs that must be repaired
+by adequate reflection, in which specific beliefs are brought in line with each
+other and with broader principles.23 The search for “reflective equilibrium” is
+designed to ensure that one’s beliefs, at multiple levels of abstraction, fit together
+as a sensible whole.24 There is a similar aspiration to coherence within law,25
+though a decentralized system, with numerous judges, may well have special
+difficulty in achieving that goal.26 Our central findings here will show some new
+difficulties with efforts to achieve anything corresponding to reflective
+equilibrium within the legal system, or even in moral judgments.</p>
+          <p>“Rational agent” theories in social sciences, and much important
+theorizing in the domain of law, rest on the assumption that human agents are
+endowed with coherent systems of beliefs and preferences, and define coherence
+as the principal criterion of rationality.27 An influential definition of rationality
+avoids any normative evaluation of the specific contents of beliefs and choices,
+and refers neither to the truth of beliefs nor to the consequences of choices.28
+Only internal consistency matters.29 In modern economic thinking, and in the
+economic analysis of law in particular, coherence is considered a touchstone of
+rationality.30 The preferences of the idealized rational agent provide a coherent
+ordering of possible states of affairs, and the beliefs of that agent permit an
+ordering of events by their probabilities.31 Furthermore, the dispositions to form
+new beliefs in the light of evidence, or to make choices when new options are
+offered, are also assumed to belong to the same coherent structure.32</p>
+          <p>
+            Doubts about the possibility of achieving incoherence lie at the core of a
+continuing debate about the “rationality” of human agents, involving
+22 See Joseph Raz, The Relevance of Coherence, in Ethics in the Public Domain 261-278 (1994).
+23 See Gilbert Harmon, Change in View (1986); David Brink, Moral Realism and the Foundations of Ethics
+(1989); Germain Grisez et al., Practical Principles, Moral Truth, and Ultimate Ends, 32 Am J. Jurisprudence
+231 (1987).
+24 See John Rawls, A Theory of Justice 19-22, 46-51 (1971).
+25 See Dworkin, supra note.
+26 See Cass R. Sunstein, Legal Reasoning and Political Conflict 48-52 (1996).
+27 For overviews, see Rational Choice (
+            <xref ref-type="bibr" rid="ref24">Jon Elster ed. 1994</xref>
+            ); Gary Becker, Accounting for Tastes (1996);
+Richard A. Posner, Economic Analysis of Law ch. 1 (5th ed 1999).
+28 See John Von Neumann &amp; Oscar Morgenstern, Theory of Games and Economic Behavior (2d ed. 1947).
+29For an outline and critique, see Amartya Sen, Internal Consistency of Choice, 61 Econometrica 495 (1993).
+30 See Von Neumann &amp; Morgenstern, supra. In law, see Richard A. Posner, Economic Analysis of Law ch. 1
+(5th ed. 1999).
+31 See Gary Becker, Accounting for Tastes ch. 1 (1999); Leonard J. Savage, The Foundations of Statistics.
+(1954).
+32 See id.
+economists, decision theorists, and psychologists, as well as philosophers and
+academic lawyers.33 It is now well-known that people are not in fact perfectly
+rational.34 They are better described, in Herbert Simon’s phrase, as boundedly
+rational.35 Bounded rationality has both cognitive and motivational aspects.36
+Because of the limitations in their ability to process information, boundedly
+rational agents are not able to maintain a system of beliefs, preferences, and
+dispositions that is both comprehensive and internally coherent. At best, such
+agents are locally coherent -- achieving consistency over small regions of the
+space of possible events and outcomes, but not between more remote regions.
+Furthermore, boundedly rational agents are also cognitive misers -- they
+economize on difficult thinking and are not inclined to search for inconsistencies
+among their ideas, or even to acknowledge inconsistencies, unless they are
+pressured to do so. In particular, we will develop the claim that people
+effortlessly achieve local coherence in their rankings of actions and outcomes,
+but show limited ability and little interest in global coherence. Hence global
+incoherence can persist for long periods.
+          </p>
+          <p>As a practical matter, complete consistency of beliefs and preferences is an
+unattainable ideal for any individual, and probably for any legal system.
+Failures of consistency are inevitable, but some are easier to avoid than others.
+People are normally successful at avoiding immediate inconsistencies between
+statements they make in the same setting, but it is much harder to prevent
+remote inconsistencies between a judgment one makes now and judgments
+made, or accepted in the past. It is harder still to prevent situations in which a
+judgment that one makes now is inconsistent with a judgment that one would
+make if one were asked a different question (or the same question in different
+words). People who are unable to ensure that their current judgments are
+consistent with other judgments they accept, or with judgments they would
+make or would have made under different circumstances, inevitably produce a
+pattern of outcomes that they would themselves consider incoherent and
+indefensible. We will see this problem in many legal and policy domains.
+33 See, e.g., Choices, Values, and Frames (Daniel Kahneman &amp; Amos Tversky eds. 2000); The Rational
+Foundations of Economic Behavior (Kenneth Arrow et al. eds. 1996); Gerd Gigerenzer et al., Simple
+Heuristics That Make Us Smart (1999).
+34 For an overview, see Christine Jolls, Cass R. Sunstein &amp; Richard Thaler, A Behavioral Approach to Law
+and Economics, 50 Stan L Rev 1471, 1476-1480 (1998).
+35 See Herbert A. Simon, A Behavioral Model of Rational Choice, 69 Q. J. Econ. 99 (1955).
+36 For an overview, see Jon Elster, Sour Grapes (1983).</p>
+        </sec>
+        <sec id="sec-1-3-2">
+          <title>III. Causes of Incoherence</title>
+          <p>In this section we review in some detail the psychological underpinnings
+of the analysis to be presented in this Article. Much of our treatment here is an
+effort both to extend and generalize our earlier empirical research on punitive
+damages37 and on contingent valuation,38 and more generally to build on
+previous theoretical and empirical analyses, not yet applied to law and policy, of
+intuitive judgment,39 attitudes and emotion,40 and spontaneous categorization.41
+We also offer two empirical results that we report for the first time here. The first
+is an experiment that demonstrates category-bound incoherence in judgments of
+punitive damages and in contingent valuation. The second is an examination of
+category-bound incoherence in administrative penalties. In this section, we
+explore the psychological mechanisms in some depth.</p>
+          <p>Our previous studies indicated that the dollar numbers produced by
+jurors in civil cases involving punitive awards, and by respondents in contingent
+valuation surveys, can be interpreted as expressions of the intensity of a positive
+or negative attitude – an emotional evaluation of a defendant, or of a public
+issue.42 Specifically, we have argued that punitive damages are an expression of
+indignation or outrage on a scale of dollars, and we identified the problem of
+translating outrage onto that unfamiliar scale as a critical cause of
+unpredictability in punitive awards. We extend this conception of punishment
+here, by adding that (i) reprehensible actions are naturally categorized, and (ii)
+outrage and its manifestations – including punitive damages – involve a process
+that situates any particular case in relation to its category. We will show that this
+manifestation of category-bound thinking yields systematic incoherence in
+punitive intentions and in punitive awards.
+37 Sunstein, Kahneman &amp; Schkade, supra; Daniel Kahneman &amp; Ilana Ritov, Determinants of stated
+willingness to pay for public goods: A study in the headline method. 9 Journal of Risk &amp; Uncertainty 5
+(1994); Cass R. Sunstein, David Schkade &amp; Daniel Kahneman, Do People Want Optimal Deterrence? 29
+Journal of Legal Studies 237 (2000); Kahneman, Schkade &amp; Sunstein, supra; David Schkade, Cass R. Sunstein
+&amp; Daniel Kahneman. Deliberating about dollars: The severity shift, 100 Columbia Law Review 101 (2000);
+Kahneman, Ritov &amp; Schkade, supra.
+38 Kahneman &amp; Ritov, supra..
+39 Daniel Kahneman &amp; Shane Frederick, Representativeness revisited: Attribute substitution in intuitive
+judgment, to appear in Heuristics of Intuitive Judgment: Extensions and Applications (Thomas Gilovich,
+Dale Griffin &amp; Daniel Kahneman, eds, 2002).
+40 Kahneman, Ritov &amp; Schkade, supra; Kahneman &amp; Frederick, supra; Paul Slovic et al., The Affect Heuristic
+to appear in Heuristics of Intuitive Judgment: Extensions and Applications (Thomas Gilovich, Dale Griffin &amp;
+Daniel Kahneman, eds, 2002).
+41 Kahneman &amp; Miller, supra.
+42 We intend to take no stand on the relationship between emotion and cognition. See Jon Elster, Alchemies
+of Mind (1999); Martha Nussbaum, Upheavals of Thought (2001).</p>
+          <p>We also extend the same analysis of punishment to a task that at first
+glance seems to involve little emotion: the setting of penalties by legislative or
+administrative bodies. The leap is not as radical as it may appear at first. We
+argue that members of a society are in wide agreement on the categorization of
+reprehensible actions, and on the relative outrageousness of actions within any
+one category. Individuals and commissions that set penalties are likely to respect
+this ordering both for psychological reasons – it corresponds to their moral
+intuitions as well as to the intuitions of the public – and for political reasons:
+setting punishments that transparently violate the common ranking of
+“punishable merit” within a category will appear unjust and evoke resistance. In
+this situation as well, we argue, category-bound thinking and the problem of
+translating punitive intent into dollars or other penalties combine to produce
+global incoherence.</p>
+        </sec>
+      </sec>
+      <sec id="sec-1-4">
+        <title>A. Punitive Intent: Determinants and Expressions</title>
+        <p>We divide the task of setting punishment into two parts:
+1. the determination of punitive intent, understood as the desire to punish,
+which locates the appropriate punishment on a subjective scale that
+ranges from “no punishment at all” to “extremely severe punishment.”
+2. the translation of punitive intent into a metric that can actually be used by
+the legal system, such as dollars of fine or years in jail.</p>
+        <p>As we shall show, some forms of incoherence arise at the level of punitive
+intent, while others are caused by features of the translation process.</p>
+        <p>Social psychologists commonly identify an emotion and a tendency to
+action as elements of attitudes.43 In our usage, outrage is the emotion and
+punitive intent is the action tendency. We believe that they are directly related.
+Outrage and punitive intent both are psychological variables – along with other
+subjective variables such as brightness, loudness, pain, trust and dislike. Any
+subjective variable can be expressed in multiple ways. For example, outrage may
+be expressed by appropriate adjectives, by the choice of a number on a rating
+scale, by loud screams, or by jail sentences.</p>
+        <p>The existence of something like a moral community is assumed in the
+analysis that follows. When we speak of the outrageousness of an action or the
+punitive intention that is evoked by it, we have in mind an emotional state and a
+tendency to act that are widely shared in a relevant community. Consensus in
+moral attitudes was demonstrated in an earlier study44 in which respondents
+(drawn from jury-eligible citizens in Travis County, Texas) were asked to
+evaluate product liability cases involving physical injuries. Different groups of
+respondents used different scales in these evaluations. Some evaluated the
+outrageousness of the defendant’s behavior (always a firm, also identified by
+annual profit as an indication of its size) using a rating scale (from “Completely
+Acceptable” to “Absolutely Outrageous”); others rated their punitive intent, also
+on a rating scale (from “No Punishment” to “Extremely Severe Punishment”). A
+third group assessed the appropriate amount of punitive damages, in dollars.</p>
+        <p>We found substantial consensus in these judgments. Thus, on average,
+rich and poor; educated and less educated; white, Hispanic, and
+AfricanAmerican; old and young; male and female; and all others are likely to agree on
+how to rank and rate a set of personal injury cases in terms of their “punishable
+merit,”45 the outrageousness of the defendant’s conduct, and the punitive
+damages that are appropriate.46 Note that the agreement is between the average
+judgments for the various social groups. There is some variability in judgments
+of each case within each group, and especially for judgments made in dollars. In
+general, however, people appear to agree on what makes one personal injury
+worse than another (e.g., amount and duration of pain, disability, vulnerability
+of victims such as the elderly and the very young); they also agree on elements of
+the defendant’s behavior (e.g., intentionality, deception) that make one
+reprehensible action worse than another; and they agree as well on the severity
+of the harm inflicted on the plaintiff – provided that comparisons are restricted to
+harms of a particular type, such as physical injury. .</p>
+        <p>An analysis of the results of our study showed that the punitive awards
+assessed for 28 separate scenarios was predicted quite accurately by a very
+simple formula, which captures the psychological conception of punishment that
+we apply and extend in this article47:
+44 The results are reported in Sunstein, Kahneman &amp; Schkade, supra note, and in Kahneman, Schkade &amp;
+Sunstein, supra note.
+45 See Breyer, supra note 1.
+46 See Kahneman Schkade &amp; Sunstein, supra; at 2099. Sunstein et al., supra.
+47 The results of this analysis were described by Kahneman &amp; Frederick, supra. The severity of the harm
+associated with each of the scenarios used by Kahneman, Schkade &amp; Sunstein, supra was rated by a small
+group of Princeton students, who were not given any details about the cause of the harm.</p>
+      </sec>
+      <sec id="sec-1-5">
+        <title>Punishment ($) =</title>
+      </sec>
+      <sec id="sec-1-6">
+        <title>Outrageousness of Behavior X</title>
+      </sec>
+      <sec id="sec-1-7">
+        <title>Severity of Harm X</title>
+      </sec>
+      <sec id="sec-1-8">
+        <title>Translation factor</title>
+        <p>What this formula says is that punitive intent is proportional to the
+outrageousness of the harmful action, and that punitive intent is also
+proportional to the severity of the harm. The translation factor is required to
+transform punitive intent – here construed as a state of mind – into actual
+punishments.</p>
+        <p>Punitive intent, as this formula indicates, is firmly retributive, in the sense
+that both the act and its consequences matter.48 Because of the retributive nature
+of the underlying intuitions, the public sense of what is just punishment is
+radically at odds with the idea, popular in some academic circles, that
+punishment should be grounded largely in its deterrent function, and therefore
+directly linked to the likelihood that an act will be discovered and punished.49
+Punishments that appear just in this society are based on outrage directed at the
+action and concern with the degree of harm that the action caused.50</p>
+      </sec>
+      <sec id="sec-1-9">
+        <title>B. The Translation Problem</title>
+        <p>We have described punitive intent as a state of mind – a sense that it is
+right for a miscreant to suffer some degree of pain. Punitive intent can be
+expressed in words, such as “severe” or “mild.” To have an effect in the real
+world, however, the intention to punish must be translated onto a scale that can
+be used by the legal system, such as dollars of fine or months in jail. The
+translation factor in the formula above represents this operation of scaling.</p>
+        <p>For many classes of harms, people lack shared moral intuitions that might
+specify the translation factor. Except to the extent that they are familiar with
+existing practice, people do not have a clear, agreed-upon sense that a grossly
+reckless action should be punished with a punitive award of $50,000, or $100,000,
+48 Jonathan Baron &amp; Ilana Ritov, Intuitions about penalties and compensation in the context of tort law, 7
+Journal of Risk &amp; Uncertainty 17 (1993).
+49 Sunstein, Schkade &amp; Kahneman, supra, reported that probability of detection, which is central to the law
+and economics analysis of deterrence, is largely irrelevant to intuitions about just punishment. Punishment
+that is deliberately calibrated by probability of detection is considered unjust, when it results in similar
+actions being punished differently in different localities. Baron &amp; Ritov, supra, report that known and
+explicitly specified future impact of decisions do not substantially affect judgment, even of experts, although
+regulating future behavior is a critical factor in the theory of law and economics.
+50 See the acknowledgment of this point in Cooper v Leatherman, supra.
+or $1,000,000, or that a case of assault should be punished with a jail term of six
+months, two years, or five years. As a consequence, the translation factor that is
+used is often influenced by irrelevant considerations, personal experience, and
+random circumstances. In the case of punitive damage awards, for example, the
+plaintiff’s demand matters a great deal, simply because juries often have few
+other relevant dollar figures from which to begin.51 And because of the influence
+of these irrelevant considerations and random circumstances, actual
+punishments for transgressions are often incoherent in our sense. That is,
+different juries, who agree on punitive intent for a given set of case facts, may
+impose substantially different punishments solely because of arbitrary
+differences in their translation factors. These propositions have direct
+implications for a wide range of tasks relevant to the law. They apply with equal
+force to the determination of punishment for individual cases, and to the writing
+of statutes or regulations that specify punishments for particular transgressions.</p>
+        <p>Optimal deterrence theory offers a way of calculating the appropriate
+punishments, again by connecting dollars awards to the harm through the
+translation factor of “likelihood of compensation.”52 But we have already seen
+that this analysis violates common intuitions about just punishment.53 For those
+who seek to come up with dollar amounts that are intuitively appealing, a main
+difficulty is that harm and punishment do not generally occur in the same or
+even in commensurable units What is the appropriate fine for hunting an
+endangered bird? $50? $500? $5000? Should the punitive damages for a case of
+employment discrimination be set at three times the value of compensatory
+damages, or at fifteen times that value?</p>
+        <p>In an earlier analysis of punitive damages we focused on the arbitrariness
+of translation factors as a major cause of the notorious unpredictability of
+punitive damage awards.54 We expected, and found, large variation in the
+51 Reid Hastie, David Schkade &amp; John Payne. Juror judgments in civil cases: Effects of plaintiff’s request and
+plaintiffs identity on punitive damage awards, 23 Law &amp; Human Behavior 445 (1999); also Gretchen B.
+Chapman &amp; Brian H. Bornstein, The more you ask for, the more you get: Anchoring in personal injury
+verdicts, 10 Applied Cognitive Psychology 519 (1996) (finding similar effects for plaintiffs’ demand in the
+context of compensatory awards for personal injury).
+52 See A. Mitchell Polinsky &amp; Steven Shavell, Punitive Damages: An Economic Analysis, 111 Harv. L. Rev.
+869, 870–76 (1998).
+53 See Sunstein, Schkade &amp; Kahneman, supra. Indeed, the Supreme Court has acknowledged that punitive
+awards are not rooted in deterrent judgments. See Cooper v Leatherman, supra.
+54 Kahneman, Schkade &amp; Sunstein, supra at 2106-07. We described the juror’s task as a special case of scaling
+without a modulus. The term is borrowed from psychological experiments in which observers use numbers
+to indicate the intensity of sensations such as brightness, loudness or pain. The common practice in such
+scaling experiments is to specify a particular stimulus (e.g., a level of luminance) as a standard. Observers
+translation factor that people will apply in judging a particular case, even when
+their punitive intent is the same. In subsequent research we found that jury
+deliberations are not a cure for the variability of translation factors.55 The general
+effect of deliberation was instead a severity shift: it appears that when jurors start
+off with different translation factors, higher punishments that are proposed in
+the deliberation are more likely to be adopted, and are sometimes even exceeded
+by the jury’s award. Even after deliberation, different mock juries considering the
+same case often reach radically different decisions – punitive damage awards
+sometimes vary by a factor of 100 or more.56</p>
+        <p>It is easy to see that free-floating translation factors will often cause
+failures of our test of coherence. Imagine two juries that consider separate claims
+A and B against the same defendant, awarding $1 million for case A and $5
+million for case B. Because the translation factor that they apply may be
+different, it is entirely possible that both juries, if asked to compare the two cases,
+would agree that case A is higher in “punishable merit” than case B. The
+inevitable consequence of variability in the translation factor is incoherence in
+punishments: different individuals and different juries will make judgments that
+cannot be reconciled, even in the presence of underlying consensus on punitive
+intent.</p>
+        <p>We do not intend to imply that the translation factors that people apply
+are completely arbitrary. Indeed, data that we have reported demonstrate the
+opposite. In one of our earlier studies57 of punitive damages each case was
+presented in two versions which differed only in the annual profits of the
+defendant firm. For example this value was “$10-20 million” in one version and
+“$100-200 million” in another. The indication of the size of the defendant firm
+had a large and systematic effect on punitive awards, which were substantially
+higher for larger firms. The mechanism that produces this effect is most likely
+are instructed to assign a particular number (the modulus) to that stimulus, and to assign numbers to other
+stimuli by comparing them to the subjective intensity associated with the standard. The task may appear
+meaningless, but in fact it is one that people can carry out with fair agreement – much like the consensus
+they exhibit in judging the severity of harms or the outrageousness of behaviors. In some experiments,
+however, a modulus is not supplied, and the observers are requested to assign whatever numbers they feel
+appropriate to report the subjective intensity of their sensations. In such situations of scaling without a
+modulus, observers spontaneously adopt their own individual standard and apply it consistently.
+However, different observers choose different moduli for no apparent reason. Thus, two stimuli may be
+rated as 10 and 2 by one individual, and as 40 and 8 by another, simply because the second individual
+picked a modulus that is 5 times larger than the first.
+55 See Schkade, Sunstein &amp; Kahneman, supra.
+56 Id. at Table 5
+57 Kahneman, Schkade &amp; Sunstein, supra.
+the same that produces anchoring of awards on irrelevant factors. In this
+instance, however, the effect of firm size on awards corresponds to the sensible
+intuition that a larger financial punishment is required to inflict the same level of
+“pain” if the defendant firm is large than if it is small. Other anchoring effects
+could be defended as well: punitive awards have been found to be strongly
+correlated with compensatory awards in the same case,58 and perhaps anchoring
+of punitive on compensatory awards could be justified as appropriate, though
+this would not be an easy task.59</p>
+      </sec>
+      <sec id="sec-1-10">
+        <title>C. Categories and Frames of Reference</title>
+        <p>In this Article we study two manifestations of category-bound thinking that
+produce incoherence in punishments: (1) the frame of reference for judging
+harmful actions is linked to a category of harms, and therefore liable to change
+when cases that involve harms of different kinds are explicitly compared; (2) the
+commissions that set penalties for categories of misconduct appear to be
+unconcerned with the penalties already on the books for other categories. In
+both situations, we suggest that judgments are sensible and coherent within each
+category separately, but not when the view screen is expanded to include more
+than one category. To understand this suggestion, and the mechanisms that
+produce judgment reversals, it is necessary to know something about what
+categories are and how they operate.</p>
+        <p>
+          The term “category,” as used in this Article, is borrowed from modern
+cognitive science, where it serves to explain how people use categories and
+category labels in informal reasoning and in everyday language. 60 This concept
+of categories and categorization is quite different from an approach in which a
+category is defined by a set of necessary and sufficient conditions for
+membership. In that system, the boundary between categories are sharp and
+membership is all-or-none. In everyday language, in contrast, the boundaries of
+categories are fuzzy and membership is graded. 61 A chicken is surely a bird, but
+is not quite as good a bird as a robin, or an eagle. And a whale is not a fish, but it
+58 Theodore Eisenberg et al., The Predictability of Punitive Damages, 26 J. Legal Stud. 623, 644 (1997).
+59 It would not be easy on any theory of punitive damages. On optimal deterrence theory, a key issue is the
+multiplier; the compensatory award is in some sense an anchor, but a weak one, because a 100% likelihood
+of compensation should produce a punitive award of 0, an a 10% likelihood of compensation should
+produce a punitive award ten times that of the compensatory award. On the retributive view, there is no
+obvious translation formula.
+60 See, e.g., Daniel Reisberg, Cognition: Explorin
+          <xref ref-type="bibr" rid="ref43">g the Science of Mind (1997</xref>
+          ), ch. 8; Laurence Barsalou,
+Cognitive Psychology: An Overview for Cognitive Scientists (1992).
+61 Eleanor Rosch et al., Basic Objects in Natural Categories, 8 Cognitive Psychology 382 (1976).
+        </p>
+      </sec>
+      <sec id="sec-1-11">
+        <title>A. Categories, Coherence, Cognition</title>
+        <p>The last years have seen an intense debate about the aspiration to global
+coherence in law.127 Much of the debate has involved the appropriate conception
+of legal reasoning, an issue with both normative and descriptive dimensions.
+Ronald Dworkin has been the most prominent advocate of ambitious thinking,
+in which judges do not always restrict themselves to small pockets of problems,
+but sometimes attempt to ensure that all parts of law fit together as a principled
+whole.128 Others (including one of the current authors) have argued against this
+idea, on the ground that it would strain judicial capacities, and perhaps tend to
+produce errors of its own.129 In a discussion of particular relevance to our topic
+here, Dworkin discusses the “compartmentalization of law into separate
+departments” and sees that as a “prominent feature of legal practice.”130
+Hercules, Dworkin's idealized judge, makes judgments that “expand out from
+the immediate case before him in a series of concentric circles,” increasingly far
+afield from the particular case and category at hand.131 Hercules does not take the
+law’s compartments for granted, and he is willing to reject any idea of “local
+priority” where ‘traditional boundaries between departments have become
+mechanical and arbitrary.”132 It seems clear that Hercules is willing to attempt
+global coherence, as, for example, through “a new unification of private law that
+blurs even the long-established and once much firmer boundary between
+contract and tort.”133 Advocates of less ambitious thinking stress that judges are
+not in a good position to make global sense of multiple areas of the law, and that
+the effort to try, especially if it is early, might well overwhelm the cognitive
+capacities of judges.134</p>
+        <p>Our findings here do not resolve these issues, which have arisen in a
+much broader context than those discussed here. We have assessed judgments
+within and across categories, but in the relatively simple setting of judgments
+127 See Ronald Dworkin, Law’s Empire (1985); Cass R. Sunstein, Legal Reasoning and Political Conflict
+(1996); Cass R. Sunstein, One Case At A Time (1999); Edward McCaffery, Inside-Out Freedom’s Law, 85 Cal.
+L. Rev. 1043 (1997).
+128 See Ronald Dworkin, In Praise of Theory, 29 Ariz State L J 353 (1997).
+129 See Sunstein, supra note.
+130 Dworkin, Law’s Empire, at 251.
+131 Id. at 250.
+132 Id. at 253.
+133 Id. at 254.
+134 See Sunstein, supra note; see also Edward McCaffery, Inside-Out Freedom’s Law, 85 Cal. L. Rev. 1043
+(1997) (arguing that cognitive limitations might justify a less ambitious approach from courts, and that this
+less ambitious approach is consistent with Dworkin’s general understanding of legal interpretation as
+integrity).
+about penalties rendered in terms of dollars or years. We have not explored how
+the process of category-bound judgments would affect free speech principles in
+categories involving pornography, commercial speech, and libel, or tort and
+contract principles involving medical malpractice, building construction, and
+prescription drug companies. It would be important to know whether (for
+example) people’s judgments about the appropriate treatment of false
+commercial speech and libelous speech would be different in isolation from what
+they would be if the two categories were considered together. We do not have
+evidence on that issue. Nonetheless, we think that what we have found casts
+some fresh light on this debate, giving a more detailed account of why it is hard
+to produce global coherence, but also providing new support for Dworkin's
+view, on the ground that local pockets of coherence might well produce an
+overall pattern that is senseless, or that at least contains what everyone would
+see as senselessness.</p>
+        <p>To be sure, global coherence would be a significant strain on judicial
+capacities, in part because the mental operations involved do not come naturally.
+Judicial efforts to provide more limited forms of “local coherence,” through
+relatively unambitious reasoning by analogy, can be understood as a good way
+of avoiding cognitive overload – by focusing on the cognitively manageable
+category, and by failing to investigate problems from other categories. But our
+larger point cuts the other way, giving strong cognitive ammunition to
+Dworkin's plea for global coherence. We have provided fresh reason to believe
+that in law, the various categories showing internal coherence will not fit
+together -- and that the pattern of outcomes, generated by unambitious judges,
+will contain what they themselves would see as error and confusion. Referring
+precisely to this risk, Dworkin suggests that we “must strive, so far as we can,
+not to apply one theory of liability to pharmaceutical companies and a different
+one to motorists, not to embrace one theory of free speech when we are worried
+about pornography and another when we are worried about flag burning.”135 If
+law is to be coherent, Dworkin is entirely correct. Judges who seek only local
+coherence, or who proceed one case at a time, are highly likely to produce a
+pattern of outcomes of which they themselves would disapprove.</p>
+      </sec>
+      <sec id="sec-1-12">
+        <title>B. Commensurability and Incommensurability</title>
+        <p>Are values or options commensurable?136 In what sense? Those who object
+135 Id.
+136 See Joseph Raz, The Morality of Freedom (1985); Elizabeth Anderson, Value in Ethics and Economics
+(1993).
+to the idea of commensurability claim that people lack a shared metric by which
+to assess an array of qualitatively distinctive options, and that the use of such a
+metric can do violence to our considered judgments about how such options
+should be assessed.137 On this view, ideas like “utility” and “efficiency” are quite
+inadequate, as a way of capturing the operation of practical reason in law or
+daily life; these ideas are inadequate because they elide qualitative differences
+that matter when people reason well.138</p>
+        <p>We do not attempt to take a stand on any normative issues here, nor do
+we attempt to give anything like an account of the operation of practical reason.
+But we do suggest that our findings here help to establish a cognitive basis for
+part of the experience of “incommensurability” in both law and ordinary
+thinking. People lack confident judgments about how to rank cases from
+different categories, and their judgments on this point are not widely shared.
+Recall the difficulty of comparing a case of tax fraud with an occupational safety
+and health violation, or of ranking a case of outrageous commercial fraud with
+one involving a relatively minor physical injury. For those using ordinary
+intuitions, there is no readily available metric by which to make the relevant
+comparisons.139 It is in this particular respect that incommensurability is a
+concrete psychological phenomenon.140</p>
+        <sec id="sec-1-12-1">
+          <title>IX. Conclusion</title>
+          <p>We have attempted here to identify some pervasive features of human
+judgment and cognition – features that, we believe, account for significant
+anomalies in both private and public law. In making many judgments in law,
+people must translate a moral judgment into numerical terms, involving dollars
+or years. Moreover, people’s judgments are insistently category-bound. They do
+not naturally seek coherence across categories. Their assessment of problems,
+taken in isolation, are often different from their judgments about problems, taken
+in the context of cases from other categories. This is largely because any
+judgment, in isolation, is made against a background of a “natural” comparison
+set, consisting of problems from the same basic category. Much of the time,
+people will look at problems from other categories only when forced to do so.
+When a problem from a different category is introduced, the isolated judgment is
+137 See Anderson, supra note.
+138 See id. at 203-15.
+139 Here economics can overcome the incommensurability problem by using the metric of dollars.
+140 See also the discussion of ‘taboo tradeoffs” in Philip E. Tetlock, Coping With Trade-Offs: Psychological
+Constraints and Political Implications, in Elements of Reason 239 (Arthur Lopia et al. eds 2000).
+unsettled, and people’s judgments will shift, sometimes quite dramatically. The
+reason is that the introduction of the new problem alters the set of comparison
+cases, and shifts in judgment are a common consequence of that alteration.</p>
+          <p>The most important implication of this phenomenon is that judgments in
+isolation will predictably produce incoherence from the standpoint of the very
+people asked to make those judgments. This is true of judgments about punitive
+damage awards; it is also true of willingness to pay for public goods. Thus
+judgment shifts are easy to generate in experimental settings. Outside of those
+settings, we have seen similar results in the domains of regulatory penalties. The
+pattern of within-category coherence, and global incoherence, is a nearly
+inevitable product of adjudication, which is defined by one-shot judgments; but
+the same pattern is embedded in many domains of law and policy.</p>
+          <p>These are descriptive points. It is far less clear what to do about the
+situation. Introduction of a single problem from one separate category may make
+things worse rather than better. There is a serious risk of manipulation and
+strategic behavior here; careful selection of the comparison case can drive
+judgment in predictable directions. Deaths of buffaloes may seem a relatively
+small problem when presented alongside deaths of human beings; but deaths of
+buffaloes may seem a relatively large problem when presented alongside injuries
+to plants. In these circumstances, the ideal solution, for a legal system committed
+to obtaining people’s reflective judgments, is to move in the direction of
+ensuring, not attention to one category or two, but simultaneous appreciation of
+the large number of categories of cases to which any particular case might be
+compared.</p>
+          <p>Coherence is important; it seems to be a minimum requirement of
+rationality. But coherence is not a trumping value, and a system displaying
+incoherence may well be better than one that is coherent but pervasively unjust.
+An incoherent system in which penalties fit together, but are three times as high,
+or one-third as high, as they ought to be. Nonetheless, we think that any domain
+of law should aspire to coherence, at least as a presumption, in order to prevent
+the kinds of arbitrariness and injustice that we have found in both experimental
+and real-world settings. At the very least, efforts should be made to correct the
+most conspicuous anomalies – a goal that can be obtained without thinking that
+it is easy or even possible for people to agree on what full coherence actually
+requires.</p>
+          <p>We have emphasized throughout that for any single person, or jury, the
+achievement of coherence is an exceptionally difficult cognitive task. But steps in
+the direction of coherence are far less difficult at the level of institutional
+design.141 We close with the suggestion that the practical remedies for predictably
+incoherent judgments are institutional; they involve the creation of frameworks
+for decision that ensure a pattern of judgments that, when taken as a whole,
+reflective people could endorse. Perhaps this seems an unrealistically ambitious
+aspiration. But something of just this sort underlies many of the most impressive
+institutional innovations of the twentieth century. It should not be too much to
+expect twenty-first century institutions to build on these precedents, bringing a
+measure of rationality and sense to areas of the law that now lack them.
+141 This is a lesson of the movement to workers” compensation, as described in Fishback &amp; Kantor, supra
+note.</p>
+        </sec>
+      </sec>
+      <sec id="sec-1-13">
+        <title>Appendix A. Excepts from Instructions</title>
+      </sec>
+    </sec>
+    <sec id="sec-2">
+      <title>Background on Civil Legal Cases and Your Role</title>
+      <p>In this part of the study, we would like you to imagine that you are a juror for a
+legal case in a civil court. Civil law suits involve disputes between private individuals,
+companies, or individuals and companies, in which the plaintiff alleges that the
+defendant harmed them in some way. The primary purpose of a civil suit brought by a
+plaintiff is to seek compensation from the defendant for the alleged harm.</p>
+      <p>Civil suits involve two different types of potential damages that a defendant could
+be could be required to pay. Compensatory damages are intended to fully compensate a
+plaintiff for the harm suffered as a result of the defendant’s actions. Punitive damages
+are intended to achieve two purposes: (1) to punish the defendant for unusual
+misconduct, and (2) to deter the defendant and others from committing similar actions
+in the future.</p>
+      <p>Punitive damages should be awarded if a preponderance of the evidence shows
+that the defendant acted either maliciously or with reckless disregard for the welfare of
+others. Defendants are considered to have acted maliciously if they intended to injure or
+harm someone or their property. Defendants are considered to have acted with reckless
+disregard for the welfare of others if they were aware of the probable harm to others or
+their property but disregarded it, and their actions were a gross deviation from the
+standard of care that a normal person would use.</p>
+      <p>The case you will consider involves a special procedure that is sometimes used in
+civil trials, and which requires two different juries: (1) a trial jury, which decides
+whether the defendant should pay compensatory damages to the plaintiff, and if so in
+what amount, and (2) if compensatory damages are awarded, a separate punishment
+jury decides whether the defendant’s conduct also warrants punitive damages.</p>
+      <p>Please imagine that you are a member of the punishment jury for this case. Your
+job is to decide whether and how much the defendant should be punished, in addition
+to paying compensatory damages.</p>
+      <p>In the case you will consider, the trial jury has already ordered the defendant to
+pay compensatory damages to the plaintiff. This does not necessarily mean that
+punitive damages must also be awarded. Whether or not punitive damages should be
+awarded and if so how large they should be is completely separate from compensatory
+damages.</p>
+      <sec id="sec-2-1">
+        <title>Appendix B. Example Pair of Legal Cases142</title>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>B.1. Marking v. Royal Motors (financial harm)</title>
+      <p>Among his other large investments, William Marking owns Canyon Luxury
+Leasing, a company that leases luxury cars. He bought 1000 cars from Royal Motors, a
+manufacturer of high-priced automobiles with annual profits of around $150 million.
+Royal Motors did not disclose the fact that the paint on all 1000 cars was not the original
+factory paint: all cars had been repainted from an ugly shade of green to the current
+colors of red and black.</p>
+      <p>One month after the purchase, an employee of Royal Motors reported this fact to a
+local newspaper, and the repaintings received a great deal of national publicity. Mr.
+Marking believes that people who lease luxury cars demand perfection, and that this
+negative publicity caused a sharp decrease in business. He has sued Royal Motors for
+compensation.</p>
+      <p>Internal documents of Royal Motors produced at the trial included a management
+memo: "Marking will not be happy at all when he finds out that the cars have been
+repainted. He will feel that we took advantage of him, but it was his responsibility to
+check the cars. Anyway we run almost no risk: it will not be in Marking’s interest to
+publicize the problem, so he will not dare sue us, no matter how mad he is. The worst
+that will happen is that he won’t buy from us again.” The trial jury ordered Royal
+Motors to pay $500,000 in compensatory damages.</p>
+    </sec>
+    <sec id="sec-4">
+      <title>B.2. Glover v. General Assistance (physical harm)</title>
+      <p>Joan Glover, a five-year-old child, ingested a large number of pills of a
+nonprescription allergy medicine called Allerfree. The Allerfree bottle carried a label
+reading "Childproof Cap,” but it did not meet federal regulations for the use of that
+label.</p>
+      <p>Joan’s parents testified that they had been very careful in ensuring that all of their
+medications had childproof safety caps. Joan found the pills in a kitchen drawer and
+ingested most of the bottle. The overdose permanently weakened her respiratory
+system, which will make her more susceptible to breathing-related diseases such as
+asthma and emphysema for the rest of her life, and may reduce her life expectancy.
+Joan’s parents sued the manufacturer of Allerfree, the General Assistance company, a
+drug manufacturer with annual profits of $150 million. Internal company documents
+showed that General Assistance chose to ignore federal regulations about standards for
+using the label "childproof cap.” An internal memo presented at trial says that ‘this
+stupid, unnecessary federal regulation is a waste of our money"; it acknowledges the
+risk that Allerfree might be punished for violating the regulation but says ‘the
+punishments are extremely mild; basically we”d be asked to improve the safety caps in
+the future." The trial jury ordered General Assistance to pay the Glovers $500,000 in
+compensatory damages.</p>
+    </sec>
+    <sec id="sec-5">
+      <title>B.3. Response Scales: Isolation</title>
+      <p>What amount of punitive damages (if any) should Royal Motors be required to pay
+as punishment and to deter them and others from similar actions in the future?
+Compensatory damages do not count as part of the punishment. Please write the
+appropriate amount of punitive damages in the blank below.</p>
+      <p>$ _____________________</p>
+      <p>How severely should Royal Motors be punished because of their actions, and to
+deter them and others from similar actions in the future? Note that the compensatory
+damages that they must pay do not count as part of the punishment. Please circle the
+number that best expresses your judgment of the appropriate level of punishment.</p>
+      <p>None
+0
+1</p>
+      <p>Mild
+2
+3</p>
+      <p>Substantial
+4
+5</p>
+      <p>Severe
+6
+7
+.4. Response Scales: Comparison
+We would like you to compare this case (Glover v. General Assistance) to the legal case
+you saw earlier (Marking v. Royal Motors, which involved repainted cars).</p>
+    </sec>
+    <sec id="sec-6">
+      <title>Compared to Royal Motors, how much punishment does General Assistance deserve? (please circle your answer)</title>
+      <p>Less than
+Royal Motors</p>
+      <p>The same as
+Royal Motors</p>
+      <p>More than
+Royal Motors</p>
+      <p>What amount of punitive damages (if any) should General Assistance be required
+to pay as punishment and to deter them and others from similar actions in the future?
+Compensatory damages do not count as part of the punishment. Please write the
+appropriate amount of punitive damages in the blank below.</p>
+      <p>$ _____________________</p>
+      <p>OR</p>
+      <p>How severely should General Assistance be punished because of their actions, and
+to deter them and others from similar actions in the future? Note that the compensatory
+damages that they must pay do not count as part of the punishment. Please circle the
+number that best expresses your judgment of the appropriate level of punishment.</p>
+      <p>None
+0</p>
+      <sec id="sec-6-1">
+        <title>Appendix C. Example Pair of Public Causes143</title>
+      </sec>
+    </sec>
+    <sec id="sec-7">
+      <title>C.1. Environmental Harm</title>
+      <p>The next question moves outside the legal context. It involves problems of a more
+general nature, which concern society as a whole. In this part we are interested in your
+reaction as a member of society, rather than as a potential juror.</p>
+      <p>Dolphins in many breeding locations are threatened by pollution. The threat to
+breeding locations is expected to result in a decline of the dolphin population. A special
+fund is needed to clean up and protect dolphin breeding locations.</p>
+      <p>Increased funding to provide pollution free breeding locations for dolphins must be
+supported mostly by private contributions. Consider the possibility of making a
+voluntary contribution of money to this fund.</p>
+    </sec>
+    <sec id="sec-8">
+      <title>C.2. Harm to Humans</title>
+      <p>The next question moves outside the legal context. It involves problems of a more
+general nature, which concern society as a whole. In this part we are interested in your
+reaction as a member of society, rather than as a potential juror.</p>
+      <p>Farm workers, who are exposed to the sun for many hours, have a higher rate of
+skin cancer than the general population. Frequent medical checkup can reduce the risk.
+Increased funds are needed to establish programs for more frequent checkups of the
+threatened groups.</p>
+      <p>Increased funding for these programs must be supported mostly by private
+contributions. Consider the possibility of making a voluntary contribution of money to
+this fund.</p>
+    </sec>
+    <sec id="sec-9">
+      <title>C.3. Response Scales: Isolation</title>
+      <p>What amount of money (if any) would you be willing to contribute to the fund to
+protect dolphins? Please write your amount in the blank below.</p>
+      <p>$ ___________</p>
+      <p>OR</p>
+      <p>How much personal satisfaction would you expect to get from making a
+contribution a fund to protect dolphins? (please circle your answer)</p>
+      <p>a
+little
+1
+less than for
+most other
+contributions
+2
+a
+great extreme
+deal satisfaction
+5 6</p>
+    </sec>
+    <sec id="sec-10">
+      <title>C.4. Response Scales: Comparison</title>
+      <p>We would like you to compare this problem (farm workers” skin cancer), to the
+problem of public concern that you saw earlier (protection of dolphins).
+Compared to protecting dolphins, how much money would you be willing to contribute
+to a fund for farm workers” skin cancer? (circle your choice)
+less than for
+dolphins
+the same as for
+dolphins
+more than for
+dolphins</p>
+      <p>What amount of money (if any) would you be willing to contribute to a fund to
+reduce farm workers” skin cancer? Please write your amount in the blank below.
+$ ___________</p>
+      <p>OR</p>
+      <p>How much personal satisfaction would you expect to get from making a
+contribution a fund to reduce farm workers” skin cancer? (please circle your answer)</p>
+    </sec>
+    <sec id="sec-11">
+      <title>Appendix D. Selected Civil Penalties from Administrative Agencies</title>
+      <p>Type of violation
+Criminal</p>
+      <p>Violation of sanitary food transportation act</p>
+      <p>Violation of Filled milk act
+Violation of Filled milk act
+Violation of a serious nature
+Violation of non-serious nature
+Violation of posting requirement
+Willful violation if non-serious or regulatory
+Willful violation if serious
+Repeated violations
+Violation of record keeping- reporting
+Fail to make requested forms available
+Egg products inspection act- violation
+Above + intent to defraud or distribute
+adulterated eggs
+Federal Meat Inspection act violation
+Above + intent to defraud or distribute
+adulterated meat
+Violation of sanitary food transportation act
+Administrative penalty for CERCLA and
+EPCRA- class 1
+“ “ “</p>
+      <p>class 2
+Violation of right to know reporting under
+EPCRA
+Frivolous trade secret claim under EPCRA
+Administrative violation of CWA- class 1
+Administrative violation of CWA- class II
+Hazardous substance discharge violation of</p>
+      <p>CWA
+Agency
+OSHA
+FDA
+EPA</p>
+      <p>Civil
+Civil
+Civil
+Civil
+Civil
+Civil
+Civil
+Civil
+Up to 1000
+Up to 10000
+Up to 1000
+Up to 10000
+Same as hazardous
+material transport act
+Same as hazardous
+material transport act
+Up to 1000
+Up to 1yr prison
+Up to 25000 a day
+Up to 75000 a day
+Up to 10000 a day
+Up to 25000
+Up to 10000 a day
+25000 max
+Up to 10000 a day
+25000 max
+Up to 25000 a day
+Fish and
+Wildlife
+Service
+Civil
+Civil
+Civil
+Civil
+Civil
+Civil
+Civil</p>
+      <p>Above + gross negligence of willful
+misconduct
+Violation of FIFRA if for hire applicator or
+dealer
+Violation of FIFRA if non hire applicator
+Knowingly violate FIFRA if registrant or
+producer
+Knowingly violate FIFRA if other
+Knowingly violate FIFRA if private
+applicator
+Violation of RCRA
+Knowingly violate financial disclosure for
+solid waste disposal
+See above
+Violation of compliance requirement for solid
+waste
+Knowingly transport, treats or stores haz
+waste w/o permit
+See above (except permit) and knows that
+puts person in imminent danger of death or
+serious bodily injury
+See above and defendant is organization
+Violates requirement of solid waste disposal
+Owner fails to notify or submits false info
+about underground storage tanks
+Violation of Wild Bird Conservation Act
+Violate WBCA 111 a1 or 2 (import in
+violation of ban )or permit under 112 (
+exemptions for sci research and ltd breeding)
+Knowingly violate and import under WBCA
+11a3 ?
+If non business related and violate WBCA
+Civil violation of African Elephant
+Conservation Act
+Violation of Bald Eagle Protection Act
+Violation of ESA if knowingly violate/in
+business of im/export, taking, possessing etc
+No less than 100000
+Up to 500 1st offense
+then up to 1000
+Max 50,000
+Max 25,000
+Max 1000
+Up to 25000 a day
+Up to 2500
+Up to 1 yr prison
+Up to 25000 a day
+Up to 50000 a day or
+2 yr prison
+Up to 250,000 or 15 yr
+prison
+Up to 1,000,000
+Up to 25000
+Up to 10,000
+Up to 25000
+Up to 12000
+Up to 500
+Up to 5000
+Up to 5000
+Up to 25000
+EEOC
+Up to 1 yr prison
+Reinstate, hire,
+backpay or other
+approp equit relief
+Up to 100
+Punitive damages
+Up to 50,000
+Up to 100,000
+Up to 200,000
+Up to 300,000
+Up to 10,000
+Up to 6 mo prison
+Liable for wages and
+liquidated damages
+Up to 10,000
+Up to 1000
+Violation of ESA if knowingly violate or
+ex/import and not enumerated above
+Otherwise violate ESA
+Up to 500
+Give public info about unlawful employment Up to 1000
+practice under T7 during proceeding
+See above
+Intentional engagement in unlawful
+employment practice under T7
+Willful failure to post pertinent provisions of
+T7
+Same remedies available as under T7
+Discriminatory practice with malice
+Total damages under t7 for small business
+(under 100 employees)
+Total damages under T7 for medium
+business (over 100 less than 200 employees)
+Total damages under T7 for large business
+(Over 200 less than 500)
+Total damages under T7 for big business
+(more than 500)
+Willful violation of section 15 of equal pay
+act
+See above
+Violation of section 6 or 7 of equal pay act
+Violation of section 212 (child labor) of equal
+pay act
+Repeated or willful violation of section 6 or 7
+of EPA</p>
+    </sec>
+    <sec id="sec-12">
+      <title>Appendix E. Cost Per Life Saved</title>
+    </sec>
+    <sec id="sec-13">
+      <title>Cost-Effectiveness of Selected Regulations</title>
+      <p>Regulation Agency
+Unvented Space Heater Ban
+Aircraft Cabin Fire Protection Standard
+Auto Passive Restraint/Seat Belt Standards
+Steering Column Protection Standard
+Underground Construction Standards
+Trihalomethane Drinking Water Standards
+Aircraft Seat Cushion Flammability Standard
+Alcohol and Drug Control Standards
+Auto Fuel-System Integrity Standard
+Standards for Servicing Auto Wheel Rims
+Aircraft Floor Emergency Lighting Standard
+Concrete &amp; Masonry Construction Standards
+Crane Suspended Personnel Platform Standard
+Passive Restraints for Trucks &amp; Buses (Proposed)
+Side-Impact Standards for Autos (Dynamic)
+Children’s Sleepwear Flammability Ban
+Auto Side Door Support Standards
+Low Altitude Windshear Equipment &amp; Training
+Standards
+Electrical Equipment Standards (Metal Mines)
+Trenching and Excavation Standards
+Traffic Alert and Collision Avoidance (TCAS) Systems
+Hazard Communication Standard
+Side-Impact Standards for Trucks, Buses, and MPVs
+(Proposed)
+Grain Dust Explosion Prevention Standards
+Rear Lap/Shoulder Belts for Autos
+Standards for Radionuclides in Uranium Mines
+Benzine NESHAP (Original: Fugitive Emissions)
+Ethylene Dibromide Drinking Water Standard
+Benzene NESHAP (Revised: Coke Byproducts)
+CPSC</p>
+      <p>FAA
+NHTSA
+NHTSA
+OSHA-S</p>
+      <p>EPA
+FAA</p>
+      <p>FRA
+NHTSA
+OSHA-S</p>
+      <p>FAA
+OSHA-S
+OSHA-S
+NHTSA
+NHTSA</p>
+      <p>CPSC
+NHTSA</p>
+      <p>FAA
+MSHA
+OSHA-S</p>
+      <p>FAA
+OSHA-S
+NHTSA
+OSHA-S
+NHTSA</p>
+      <p>EPA
+EPA
+EPA
+EPA
+Cost per premature</p>
+      <p>death averted
+($ millions 1990)
+0.1
+0.1
+0.1
+0.1
+0.1
+0.2
+0.4
+0.4
+0.4
+0.4
+0.6
+0.6
+0.7
+0.7
+0.8
+0.8
+0.8
+1.3
+Asbestos Occupational Exposure Limit
+Benzene Occupational Exposure Limit
+Electrical Equipment Standards (Coal Mines)
+Arsenic Emission Standards for Glass Plants
+Ethylene Oxide Occupational Exposure Limit
+Arsenic/Copper NESHAP
+Hazardous Waste Listing for Petroleum Refining
+Sludge
+Cover/Move Uranium Mill Tailings (Inactive Sites)
+Benzene NESHAP (Revised: Transfer Operations)
+Cover/Move Uranium Mill Tailings (Active Sites)
+Acrylonitrile Occupational Exposure Limit
+Coke Ovens Occupational Exposure Limit
+Lockout/Tagout
+Asbestos Occupational Exposure Limit
+Arsenic Occupational Exposure Limit
+Asbestos Ban
+Diethylstilbestrol (DES) Cattlefeed Ban
+Benzene NESHAP (Revised: Waste Operations)
+1,2 Dichloropropane Drinking Water Standard
+Hazardous Waste Land Disposal Ban (1st 3rd)
+Municipal Solid Waste Landfill Standards (Proposed)
+Formaldehyde Occupational Exposure Limit
+Atrazine/Alachlor Drinking Water Standard
+Hazardous Waste Listing for Wood-Preserving
+Chemicals
+OSHA-H
+OSHA-H</p>
+      <p>MSHA</p>
+      <p>EPA
+OSHA-H</p>
+      <p>EPA
+EPA
+EPA
+EPA</p>
+      <p>EPA
+OSHA-H
+OSHA-H
+OSHA-S
+OSHA-H
+OSHA-H</p>
+      <p>EPA
+FDA
+EPA
+EPA
+EPA</p>
+      <p>EPA
+OSHA-H</p>
+      <p>EPA
+EPA
+Readers with comments should address them to:
+Professor Cass R. Sunstein
+Karl N. Llewellyn Distinguished Service Professor of Jurisprudence
+University of Chicago Law School
+1111 East 60th Street
+Chicago, IL 60637
+773.702.9498
+csunstei@midway.uchicago.edu
+10.
+Chicago Working Papers in Law and Economics</p>
+      <p>(Second Series)
+30.
+31.
+32.
+53.
+74.
+Lisa Bernstein, The Questionable Empirical Basis of Article 2’s Incorporation
+Strategy: A Preliminary Study (May 1999)
+Richard A. Epstein, Deconstructing Privacy: and Putting It Back Together Again
+(May 1999)
+William M. Landes, Winning the Art Lottery: The Economic Returns to the Ganz
+Collection (May 1999)
+Cass R. Sunstein, David Schkade, and Daniel Kahneman, Do People Want
+Optimal Deterrence? (June 1999)
+Tomas J. Philipson and Richard A. Posner, The Long-Run Growth in Obesity as a
+Function of Technological Change (June 1999)
+David A. Weisbach, Ironing Out the Flat Tax (August 1999)
+Eric A. Posner, A Theory of Contract Law under Conditions of Radical Judicial
+Error (August 1999)
+David Schkade, Cass R. Sunstein, and Daniel Kahneman, Are Juries Less Erratic
+than Individuals? Deliberation, Polarization, and Punitive Damages (September
+1999)
+Cass R. Sunstein, Nondelegation Canons (September 1999)
+Richard A. Posner, The Theory and Practice of Citations Analysis, with Special
+Reference to Law and Economics (September 1999)
+Randal C. Picker, Regulating Network Industries: A Look at Intel (October 1999)
+Cass R. Sunstein, Cognition and Cost-Benefit Analysis (October 1999)
+Douglas G. Baird and Edward R. Morrison, Optimal Timing and Legal
+Decisionmaking: The Case of the Liquidation Decision in Bankruptcy (October
+1999)
+Gertrud M. Fremling and Richard A. Posner, Market Signaling of Personal
+Characteristics (November 1999)
+100.
+101.
+102.
+127.
+128.
+129.</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <surname>William M. Landes</surname>
+          </string-name>
+          ,
+          <source>Copyright Protection of Letters, Diaries and Other Unpublished Works: An Economic Approach (July</source>
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <given-names>Richard A.</given-names>
+            <surname>Epstein</surname>
+          </string-name>
+          , The Path to The T. J.
+          <article-title>Hooper: The Theory and History of Custom in the Law of Tort (August</article-title>
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <source>On Property and Constitutionalism (September</source>
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <given-names>Richard A.</given-names>
+            <surname>Posner</surname>
+          </string-name>
+          , Blackmail, Privacy, and Freedom of Contract (
+          <year>February 1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <given-names>Randal C.</given-names>
+            <surname>Picker</surname>
+          </string-name>
+          , Security Interests, Misbehavior, and
+          <string-name>
+            <surname>Common Pools</surname>
+          </string-name>
+          (
+          <year>February 1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <given-names>Tomas J.</given-names>
+            <surname>Philipson</surname>
+          </string-name>
+          &amp; Richard A. Posner, Optimal Regulation of AIDS (April
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <given-names>Douglas G.</given-names>
+            <surname>Baird</surname>
+          </string-name>
+          ,
+          <source>Revisiting Auctions in Chapter 11 (April</source>
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>William M. Landes</surname>
+          </string-name>
+          ,
+          <source>Sequential versus Unitary Trials: An Economic Analysis (July</source>
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>William M. Landes</surname>
+          </string-name>
+          &amp;
+          <article-title>Richard A. Posner, The Influence of Economics on Law: A Quantitative Study</article-title>
+          (
+          <year>August 1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>Alan O. Sykes</surname>
+          </string-name>
+          ,
+          <article-title>The Welfare Economics of Immigration Law: A Theoretical Survey With An Analysis of U.S. Policy</article-title>
+          (
+          <year>September 1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <given-names>Douglas G.</given-names>
+            <surname>Baird</surname>
+          </string-name>
+          ,
+          <source>1992 Katz Lecture: Reconstructing Contracts (November</source>
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <string-name>
+            <surname>Gary S. Becker</surname>
+          </string-name>
+          , The Economic Way of Looking at Life (
+          <year>January 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Mark</surname>
+          </string-name>
+          <string-name>
+            <surname>Ramseyer</surname>
+          </string-name>
+          , Credibly Committing to Efficiency
+          <source>Wages: Cotton Spinning Cartels in Imperial Japan (March</source>
+          <year>1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Endogenous Preferences, Environmental
+          <string-name>
+            <surname>Law</surname>
+          </string-name>
+          (
+          <year>April 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <given-names>Richard A.</given-names>
+            <surname>Posner</surname>
+          </string-name>
+          ,
+          <article-title>What Do Judges and Justices Maximize? (The Same Thing Everyone Else Does)</article-title>
+          (
+          <year>April 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <string-name>
+            <given-names>Lucian</given-names>
+            <surname>Arye Bebchuk and Randal C. Picker</surname>
+          </string-name>
+          , Bankruptcy Rules,
+          <string-name>
+            <given-names>Managerial</given-names>
+            <surname>Entrenchment</surname>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Firm-Specific Human Capital</surname>
+          </string-name>
+          (
+          <year>August 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Mark</surname>
+          </string-name>
+          <string-name>
+            <surname>Ramseyer</surname>
+          </string-name>
+          ,
+          <article-title>Explicit Reasons for Implicit Contracts: The Legal Logic to the Japanese Main Bank System</article-title>
+          (
+          <year>August 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <surname>William M. Landes</surname>
+          </string-name>
+          and Richard A. Posner, The Economics of Anticipatory Adjudication (
+          <year>September 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <surname>Kenneth W. Dam</surname>
+          </string-name>
+          , The Economic Underpinnings of Patent Law (
+          <year>September 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          <string-name>
+            <surname>Alan O. Sykes</surname>
+          </string-name>
+          , An Introduction to Regression Analysis (
+          <year>October 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <string-name>
+            <given-names>Richard A.</given-names>
+            <surname>Epstein</surname>
+          </string-name>
+          ,
+          <source>The Ubiquity of the Benefit Principle (March</source>
+          <year>1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <string-name>
+            <given-names>Randal C.</given-names>
+            <surname>Picker</surname>
+          </string-name>
+          ,
+          <article-title>An Introduction to Game Theory and the Law</article-title>
+          (
+          <year>June 1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <string-name>
+            <surname>William M. Landes</surname>
+          </string-name>
+          ,
+          <source>Counterclaims: An Economic Analysis (June</source>
+          <year>1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Mark</surname>
+          </string-name>
+          <string-name>
+            <surname>Ramseyer</surname>
+          </string-name>
+          ,
+          <article-title>The Market for Children: Evidence from Early Modern Japan</article-title>
+          (
+          <year>August 1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          <string-name>
+            <given-names>Robert H.</given-names>
+            <surname>Gertner</surname>
+          </string-name>
+          and
+          <string-name>
+            <given-names>Geoffrey P.</given-names>
+            <surname>Miller</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Settlement Escrows</surname>
+          </string-name>
+          (
+          <year>August 1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          <string-name>
+            <surname>Kenneth W. Dam</surname>
+          </string-name>
+          ,
+          <source>Some Economic Considerations in the Intellectual Property Protection of Software (August</source>
+          <year>1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Rules and Rulelessness, (
+          <year>October 1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          <string-name>
+            <given-names>David</given-names>
+            <surname>Friedman</surname>
+          </string-name>
+          ,
+          <article-title>More Justice for Less Money: A Step Beyond Cimino</article-title>
+          (
+          <year>December 1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          <string-name>
+            <given-names>Daniel</given-names>
+            <surname>Shaviro</surname>
+          </string-name>
+          ,
+          <article-title>Budget Deficits and the Intergenerational Distribution of Lifetime Consumption</article-title>
+          (
+          <year>January 1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          <string-name>
+            <given-names>Douglas G.</given-names>
+            <surname>Baird</surname>
+          </string-name>
+          ,
+          <source>The Law and Economics of Contract Damages (February</source>
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          <string-name>
+            <given-names>Daniel</given-names>
+            <surname>Kessler</surname>
+          </string-name>
+          , Thomas Meites, and
+          <string-name>
+            <given-names>Geoffrey P.</given-names>
+            <surname>Miller</surname>
+          </string-name>
+          ,
+          <article-title>Explaining Deviations from the Fifty Percent Rule: A Multimodal Approach to the Selection of Cases for Litigation (March</article-title>
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          <string-name>
+            <given-names>Geoffrey P.</given-names>
+            <surname>Miller</surname>
+          </string-name>
+          ,
+          <article-title>Das Kapital: Solvency Regulation of the American Business Enterprise (April</article-title>
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          <string-name>
+            <given-names>Richard</given-names>
+            <surname>Craswell</surname>
+          </string-name>
+          , Freedom of Contract (
+          <year>August 1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          <string-name>
+            <given-names>J.</given-names>
+            <surname>Mark</surname>
+          </string-name>
+          <string-name>
+            <given-names>Ramseyer</given-names>
+            , Public
+            <surname>Choice</surname>
+          </string-name>
+          (
+          <year>November 1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          <string-name>
+            <surname>Kenneth W. Dam</surname>
+          </string-name>
+          ,
+          <source>Intellectual Property in an Age of Software and Biotechnology (November</source>
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Social Norms and Social
+          <string-name>
+            <surname>Roles</surname>
+          </string-name>
+          (
+          <year>January 1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          <string-name>
+            <given-names>J. Mark</given-names>
+            <surname>Ramseyer and Eric B. Rasmusen</surname>
+          </string-name>
+          , Judicial Independence in Civil Law Regimes: Econometrics from Japan (
+          <year>January 1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          <string-name>
+            <given-names>Richard A.</given-names>
+            <surname>Epstein</surname>
+          </string-name>
+          ,
+          <source>Transaction Costs and Property Rights: Or Do Good Fences Make Good Neighbors? (March</source>
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , The Cost-Benefit
+          <string-name>
+            <surname>State</surname>
+          </string-name>
+          (May
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>
+          <string-name>
+            <surname>William</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <article-title>Landes and Richard A. Posner, The Economics of Legal Disputes Over the Ownership of Works of Art</article-title>
+          and Other
+          <string-name>
+            <surname>Collectibles</surname>
+          </string-name>
+          (
+          <year>July 1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          , Jr. and
+          <string-name>
+            <surname>David</surname>
+            <given-names>B.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Mustard</surname>
+          </string-name>
+          , Crime, Deterrence, and
+          <article-title>Right-to-Carry Concealed Handguns</article-title>
+          (
+          <year>August 1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Health-Health Tradeoffs</surname>
+          </string-name>
+          (
+          <year>September 1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation>
+          <string-name>
+            <given-names>G.</given-names>
+            <surname>Baird</surname>
+          </string-name>
+          ,
+          <article-title>The Hidden Virtues of Chapter 11: An Overview of the Law and Economics of Financially Distressed Firms (March</article-title>
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation>
+          <string-name>
+            <given-names>Richard A.</given-names>
+            <surname>Posner</surname>
+          </string-name>
+          , Community, Wealth, and
+          <string-name>
+            <surname>Equality</surname>
+          </string-name>
+          (March
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <mixed-citation>
+          <string-name>
+            <surname>William M. Landes</surname>
+          </string-name>
+          ,
+          <source>The Art of Law and Economics: An Autobiographical Essay (March</source>
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <mixed-citation>
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <source>Behavioral Analysis of Law (April</source>
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <mixed-citation>
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          , Jr. and Kermit Daniel, Term Limits and
+          <article-title>Electoral Competitiveness: Evidence from California's State Legislative Races</article-title>
+          (May
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <mixed-citation>
+          <string-name>
+            <given-names>Randal C.</given-names>
+            <surname>Picker</surname>
+          </string-name>
+          ,
+          <article-title>Simple Games in a Complex World: A Generative Approach to the Adoption of Norms (June</article-title>
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <mixed-citation>
+          <string-name>
+            <given-names>Richard A.</given-names>
+            <surname>Epstein</surname>
+          </string-name>
+          ,
+          <article-title>Contracts Small and Contracts Large: Contract Law through the Lens of Laissez-Faire</article-title>
+          (
+          <year>August 1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref50">
+        <mixed-citation>
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Daniel Kahneman, and David Schkade,
+          <article-title>Assessing Punitive Damages (with Notes on Cognition and Valuation in Law)</article-title>
+          (
+          <year>December 1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref51">
+        <mixed-citation>
+          <string-name>
+            <surname>William M. Landes</surname>
+            , Lawrence Lessig, and
+            <given-names>Michael E.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Solimine</surname>
+          </string-name>
+          , Judicial Influence:
+          <article-title>A Citation Analysis of Federal Courts of Appeals Judges</article-title>
+          (
+          <year>January 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref52">
+        <mixed-citation>
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Jr.</surname>
+          </string-name>
+          ,
+          <article-title>A Simple Explanation for Why Campaign Expenditures are Increasing: The Government is Getting Bigger (</article-title>
+          <year>February 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref53">
+        <mixed-citation>
+          <string-name>
+            <given-names>Richard A.</given-names>
+            <surname>Posner</surname>
+          </string-name>
+          ,
+          <article-title>Values and Consequences: An Introduction to Economic Analysis of Law (March</article-title>
+          <year>1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref54">
+        <mixed-citation>
+          <string-name>
+            <surname>Denise DiPasquale and Edward L. Glaeser</surname>
+          </string-name>
+          , Incentives and Social Capital: Are Homeowners Better Citizens? (
+          <year>April 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref55">
+        <mixed-citation>
+          <string-name>
+            <given-names>Christine</given-names>
+            <surname>Jolls</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+            , and Richard Thaler,
+            <given-names>A</given-names>
+          </string-name>
+          Behavioral Approach to Law and Economics (May
+          <year>1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref56">
+        <mixed-citation>
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          , Jr.,
+          <source>Does a Helping Hand Put Others</source>
+          At Risk?: Affirmative Action, Police Departments, and
+          <string-name>
+            <surname>Crime</surname>
+          </string-name>
+          (May
+          <year>1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref57">
+        <mixed-citation>
+          <string-name>
+            <given-names>Cass R.</given-names>
+            <surname>Sunstein</surname>
+          </string-name>
+          and
+          <string-name>
+            <given-names>Edna</given-names>
+            <surname>Ullmann-Margalit</surname>
+          </string-name>
+          , Second-Order
+          <string-name>
+            <surname>Decisions</surname>
+          </string-name>
+          (
+          <year>June 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref58">
+        <mixed-citation>
+          <string-name>
+            <surname>Jonathan M. Karpoff and John R. Lott</surname>
+          </string-name>
+          , Jr., Punitive Damages:
+          <article-title>Their Determinants, Effects on Firm Value, and the Impact of Supreme Court and Congressional Attempts to Limit Awards (</article-title>
+          <year>July 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref59">
+        <mixed-citation>
+          <string-name>
+            <surname>Kenneth W. Dam</surname>
+          </string-name>
+          ,
+          <article-title>Self-Help in the Digital Jungle</article-title>
+          (
+          <year>August 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+

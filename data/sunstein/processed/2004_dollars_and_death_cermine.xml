@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink"><script/>
+  <front>
+    <journal-meta/>
+    <article-meta>
+      <title-group>
+        <article-title>Public Law and Legal Theory Working Papers 2004</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Eric A. Posner</string-name>
+          <email>eric_posner@law.uchicago.edu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Law and Legal Theory Working Papers by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Recommended Citation Cass R. Sunstein &amp; Eric Posner, "Dollars and Death", University of Chicago Public Law &amp; Legal Theory Working Paper No.</institution>
+          <addr-line>71, 2004</addr-line>
+        </aff>
+      </contrib-group>
+      <fpage>25</fpage>
+      <lpage>66</lpage>
+      <kwd-group>
+        <kwd>Follow this and additional works at</kwd>
+        <kwd>https</kwd>
+        <kwd>//chicagounbound</kwd>
+        <kwd>uchicago</kwd>
+        <kwd>edu/ public_law_and_legal_theory</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>JOHN M. OLIN LAW &amp; ECONOMICS WORKING PAPER NO. 222 (2D SERIES)</title>
+      <p>Dollars and Death
+Eric A. Posner and Cass R. Sunstein</p>
+    </sec>
+    <sec id="sec-2">
+      <title>THE LAW SCHOOL</title>
+    </sec>
+    <sec id="sec-3">
+      <title>THE UNIVERSITY OF CHICAGO</title>
+      <p>September 2004
+September 5, 2004
+Preliminary draft</p>
+      <sec id="sec-3-1">
+        <title>Forthcoming University of Chicago Law Review</title>
+        <p>All rights reserved
+Abstract. Administrative regulations and tort law both impose controls on activities that
+cause mortality risks, but they do so in puzzlingly different ways. Under a relatively new
+and still-controversial procedure, administrative regulations rely on a fixed value of a
+statistical life representing the hedonic loss from death. Under much older law, tort law in
+most states excludes hedonic loss from the calculation of damages, and instead focuses on
+loss of income, which regulatory policy ignores. Regulatory policy also disregards losses to
+dependents; tort law usually allows dependents to recover for loss of support. Regulatory
+policy generally treats the loss of the life of a child as equivalent to the loss of the life of an
+adult; tort law usually treats the loss of the life of a child as less valuable. Regulatory policy
+implicitly values foreigners as equal to Americans; tort law does not. We argue that both
+areas of law make serious mistakes in valuing life and that each should learn from the
+other. Regulatory policy properly focuses on hedonic loss from death, and tort law should
+adopt this approach. But regulatory policy should imitate tort law’s individualized approach
+to valuing the loss from death, including its inclusion of losses to dependents. If these
+changes were made, tort awards would be more uniform and predictable, and regulations
+would be less uniform and more stringent. In addition, average tort damages for wrongful
+death would be at least twice as high as they are today. With respect to dollar judgments for
+mortality risks, a pervasive issue is how to combine accuracy with administrability and
+predictability; both bodies of law could do far better on this score.</p>
+        <p>How should the legal system assign dollar values to human lives? Consider a
+highly publicized example.</p>
+        <p>On September 22, 2001, Congress enacted legislation to compensate the survivors
+of the attacks of eleven days earlier.1 Under the final regulations,2 survivors were
+permitted to claim amounts for both economic and non-economic losses. The economic
+losses were to be measured by calculating each victim’s expected lost wages from
+* Kirkland and Ellis Professor of Law, University of Chicago Law School.
+** Karl N. Llewellyn Distinguished Service Professor of Jurisprudence, University of Chicago, Law School
+and Department of Political Science. Thanks to Matthew Adler, Ward Farnsworth, Robert Hahn, Saul
+Levmore, Richard Posner, Adrian Vermeule, and W. Kip Viscusi for comments, and to Nikkie Eitmann,
+Josh Kluewer, Wayne Hsiung, Gavin Martinson, and Andres Sawicki for research assistance. Posner thanks
+the Russell Baker Scholars Fund for financial support.
+1 Air Transportation Safety and System Stabilization Act, § 405(c)1-2, 49 U.S.C § 40401 (2001).
+2 See http://www.usdoj.gov/victimcompensation/. For discussion, see Symposium, 53 DePaul L Rev 205
+(2003).</p>
+        <p>September 11, 2001 through the anticipated date of retirement, subject to several
+adjustments, including a reduction by an estimate of household consumption or
+expenditure by the victim. Noneconomic losses were set at $250,000 per victim plus
+$100,000 per surviving spouse and for each surviving child.3</p>
+        <p>In all, 2,878 families, about 97 percent of those eligible, received compensation
+from the fund, with amounts ranging from a low of $250,000 to a high of $7.1 million;
+the average award totaled about $2.1 million per family.4 Hence there was significant
+variability among awards. But the variability came amidst a serious effort to produce
+presumptive floors and caps, with a “baseline” for single decedents of $300,0005 and a
+commitment to allow awards exceeding $3,000,000 only in unusual circumstances. These
+awards have been attacked on multiple grounds, including excessive and insufficient
+variability.6</p>
+        <p>The September 11 awards reflect a strong influence from tort law, which they
+simultaneously modify. But in American law, tort doctrines provide only one of two sets
+of rules for monetizing death. The other comes from administrative regulations, and there
+are striking contrasts between the two bodies of law. One of our main goals here is to
+bring the two in contact with one another.</p>
+        <p>Countless regulations now attempt to reduce statistical risks. Cost-benefit analysis
+must generally accompany these regulations, at least if their costs are high,7 and to
+undertake that analysis, agencies must turn human lives into monetary equivalents.8 For
+example, the Environmental Protection Agency values each life at a uniform number,
+most recently $6 million.9 Through tort law, courts provide a set of fact-specific awards
+3 28 C.F.R. § 104.44 (2004).
+4 See David W. Chen, After Weighing Value of Lives, 9/11 Fund Completes Its Task, The New York
+Times, June 16, 2004, at A1.
+5 66 Fed Reg 66,274-75.
+6 See Alina Tugend, Lives in the Balance, The National Journal Government Executive, September 2003, at
+50; David W. Chen, Man Behind Sept. 11 Fund Describes Effort as a Success, With Reservations, The
+New York Times, January 1, 2004, at B3.
+7 See Stephen Breyer et al., Administrative Law and Regulatory Policy 120-35 (5th ed. 2002).
+8 A general overview can be found in Office of Management and Budget, Regulatory Analysis, Circular
+A4 (September 17, 2003), available at http://www.whitehouse.gov/omb/inforeg/regpol.html#rr
+9 See 66 Fed. Reg. at 7012. In its July 2003 regulation governing food labeling of trans fatty acids, the Food
+and Drug Administration used a VSL of $6.5 million, see 68 Fed. Reg. 41434, 41488 (July 11, 2003); in its
+March 13, 2003 proposed rule on dietary ingredients and dietary supplements, the same agency suggested a
+VSL of $5 million, see 68 Fed. Reg. 12158, 12229 (using this value to calculate the “value of a statistical
+life day”).
+that attempt to compensate for and to deter wrongful death. The resulting awards are
+highly variable. For example, courts have recently given successful plaintiffs as little as a
+few thousand dollars and as much as tens of millions of dollars.10</p>
+        <p>Notwithstanding their overlapping goals, administrative regulations and tort law
+diverge from one another in dramatic and puzzling ways. The most obvious difference is
+that tort law generally disregards the welfare loss to the person who has died; regulatory
+policy treats that loss as its central and indeed exclusive focus. Consider a few other
+differences:</p>
+        <p>Tort law focuses directly on the loss to dependents;11 regulatory policy pays
+no attention to that loss.12
+disregards lost income.</p>
+        <sec id="sec-3-1-1">
+          <title>Tort law makes damages a function of lost income; regulatory policy</title>
+          <p>Some individuation has been suggested by the interest in statistical life-years, a measure that
+naturally produces a higher degree of particularity. Office of Management &amp; Budget, Circular A-4,
+Regulatory Analysis, at 30 (Sept. 17, 2003), available at
+http://www.whitehouse.gov/omb/circulars/a004/a4.pdf. More specifically, the guidelines say:</p>
+          <p>Another way that has been used to express reductions in fatality risks is to use the life expectancy
+method, the "value of statistical life-years (VSLY) extended." If a regulation protects individuals whose
+average remaining life expectancy is 40 years, a risk reduction of one fatality is expressed as "40 life-years
+extended." Those who favor this alternative approach emphasize that the value of a statistical life is not a
+single number relevant for all situations. In particular, when there are significant differences between the
+effect on life expectancy for the population affected by a particular health risk and the populations studied
+in the labor market studies, they prefer to adopt a VSLY approach to reflect those differences. You should
+consider providing estimates of both VSL and VSLY, while recognizing the developing state of knowledge
+in this area.</p>
+          <p>Longevity may be only one of a number of relevant considerations pertaining to the rule. You
+should keep in mind that regulations with greater numbers of life-years extended are not necessarily better
+than regulations with fewer numbers of life-years extended. In any event, when you present estimates based
+on the VSLY method, you should adopt a larger VSLY estimate for senior citizens because senior citizens
+face larger overall health risks from all causes and they may have accumulated savings to spend on their
+health and safety.</p>
+          <p>The valuation of fatality risk reduction is an evolving area in both results and methodology.
+Hence, you should utilize valuation methods that you consider appropriate for the regulatory circumstances.
+Since the literature-based VSL estimates may not be entirely appropriate for the risk being evaluated (e.g.,
+the use of occupational risk premia to value reductions in risks from environmental hazards), you should
+explain your selection of estimates and any adjustments of the estimates to reflect the nature of the risk
+being evaluated. You should present estimates based on alternative approaches, and if you monetize
+mortality risk reduction, you should do so on a consistent basis to the extent feasible. Id.
+10 See below.
+11 For this and other statements about tort law, see notes below.
+12 See, e.g., Regulatory Analysis, supra note, and 66 FR 6976-01 (2001) (arsenic regulation), in support of
+all of the statements in this section on regulatory policy.
+Tort law uses a case-specific number to assess damages, making individual
+differences crucial; regulatory policy embodies a uniform number per life
+saved, one that fails to pay attention to individual differences.</p>
+          <p>Tort law focuses directly on the suffering and distress felt by the decreased;
+regulatory policy does not attend to that issue.</p>
+          <p>Tort law generally treats children as worth less than adults, because survivors
+lose less, in economic terms, when children die; regulatory policy generally
+treats children as equivalent to adults.13
+Tort law treats foreign victims of torts differently from American victims,
+implicitly valuing them less, because of deference to local law, unless they are
+killed in the United States, in which case American values are used. Insofar as
+regulations affect people outside of the country, regulatory policy generally
+ignores foreigners altogether, implicitly treating their lives as valueless.</p>
+          <p>What accounts for these differences? It is tempting to say that the answer lies in
+the conflicting goals of the two sets of controls. While tort law seeks to ensure
+compensation, especially for family members, regulatory policy is designed to produce
+optimal levels of risk. This point contains some truth. Tort law has long focused on the
+compensation of those still living—a focus that naturally leads to disregard of the
+deceased, an emphasis on what the plaintiffs have lost, and an interest in a set of highly
+individuated awards. By contrast, regulatory policy, which has assigned monetary values
+to statistical lives for little more than two decades, is concerned above all with producing
+the right deterrent signal, a concern that might seem to explain the use of a single,
+uniform number for the valuation of what most matters: the loss of life. But as a full
+account of the differences, this explanation is much too simple.14 Tort law does and
+should provide deterrence as well as compensation, and if wrongful death actions
+produce significant underdeterrence, something is seriously amiss. In any case the
+catalogue of differences raises many questions about regulatory policy even if it is
+focused on deterrence. If the goal of administrative regulation is optimal risk levels,
+13 The recent interest in “statistical life-years” would value children more than adults; see below.
+14 We return to this question in Part V.
+should regulators really use a uniform value per life saved? Should they disregard the
+suffering felt by dependents—and by those who die?15</p>
+          <p>For both bodies of law, a pervasive question is how to combine accuracy with
+administrability. A simple and uniform number, accompanied by blanket exclusions of
+values that are hard to calculate, might well be simplest to administer—and regulatory
+policy generally takes this approach.16 In addition, an effort at greater accuracy might
+invite interest-group maneuvering; a uniform number provides a degree of insulation
+against special pleading. But if full compensation and optimal deterrence are the goals,
+then a high degree of individuation should be expected, tailoring dollar amounts to the
+precise circumstances of mortality risks. Suppose, for example, that both regulators and
+courts possessed “hedometers,”17 costlessly able to calculate the anticipated or actual
+loss, to all, from every human death. If hedometers were available, courts could ensure
+perfectly accurate compensation, and both courts and regulators would bring about
+optimal deterrence, attuned to individual circumstances. If administrative costs were zero,
+different agencies should offer a wide range of diverse values for statistical lives, subject
+15 It would be possible to argue that both of these are picked up by figures for VSL: we explore that
+question below.
+16 The most explicit discussions of varying VSL have come from the EPA. In its 2003 discussion of
+hazardous air pollutants, see 68 Fed. Reg. 1660, 1693 (Jan. 13, 2003), the EPA noted that there “is general
+agreement that the value to an individual of a reduction is mortality risk can vary based on several factors,
+including the age of the individual, the type of risk, the level of control the individual has over the risk, the
+individual’s attitude toward risk, and the health status of the individual.” Nonetheless, the agency
+announced, without offering reasons, that it “prefers not to draw distinctions in the monetary value assigned
+to the lives saved even if they differ in age, health status, socioeconomic status, gender or other
+characteristic of the adult population.” Id.</p>
+          <p>An extended discussion of related issues can be found in the EPA’s arsenic proposal, see 65 Fed.
+Reg. 38888, 38945 (June 22, 2000). There the EPA noted that the “factors which may influence the
+estimate of economic benefits associated with avoided cancer fatalities include (1) a possible ‘cancer
+premium’ (i.e., the additional value or sum that people may be willing to pay to avoid the experiences of
+dread, pain and suffering, and diminished quality of life associated with cancer-related illness and ultimate
+fatality); (2) the willingness of people to pay more over time to avoid mortality risk as their income rises;
+(3) a possible premium for accepting involuntary risks as opposed to voluntary [sic] assumed risks; (4) the
+greater risk aversion of the general population as opposed to workers in the wage-risk valuation studies;
+(5) ‘altruism’ or the willingness of people to pay more to reduce risk in other sectors of the populationl and
+(6) a consideration of health status and life years remaining at the time of premature mortality.” The EPA
+acknowledged that these factors “may significantly increase the present value estimate,” but said that “there
+is currently neither a clear consensus among economists about how to simultaneously analyze each of these
+adjustments nor is there adequate empirical data to support quantitative estimates for all potentially
+significant adjustment factors.” Id. Hence the EPA solicited comments on these issues and said that it
+would ask its Scientific Advisory Board (SAB) to conduct a review. Id.
+17 For those who are skeptical of utilitarian approaches, substitute the term “eudaimeters,” based on the
+Greek notion of eudaimonia, establishing a more complex notion of well-being. See Martha Nussbaum,
+The Fragility of Goodness (1986).
+to the limitation that regulatory programs often apply to many people at once; and courts,
+focusing on individual cases, would offer an even wider range of dollar awards in the
+event of wrongful death.</p>
+          <p>Because administrative costs are high (and also because of political constraints on
+inequality18), more uniformity is inevitable; but how much? One of the most noteworthy
+features of the comparative exercise is that agencies opt for uniformity, whereas courts
+call for a high degree of individuation. Undoubtedly this difference is partly a function of
+the ex post focus of wrongful death actions and the ex ante focus of regulation. But it
+would be most surprising if the radical difference, on this count, could be justified by that
+difference in perspective.</p>
+          <p>We believe that both bodies of law can learn a great deal from the other.19 In
+particular, we suggest five large-scale reforms. First, agencies should move in the
+direction of the more individuated approach of tort law. They should not use a uniform
+number per life saved. In addition, they should consider pain and suffering, dread,20 and
+loss to dependents. These changes would make a dramatic difference for administrative
+practice, replacing the crude current effort to use a single value for statistical lives.
+Second, courts should move in the direction of administrative regulation by taking
+account of the welfare loss to the decedent. This change would significantly alter
+wrongful death cases, by producing far higher recoveries in many cases. Third, agencies
+should move in the direction of courts by including the emotional distress and other
+welfare losses incurred by dependents; courts should not ignore losses of support for
+dependents (as agencies do), but they should offer more accurate and fine-grained
+understandings of that figure. These changes would increase the stringency of
+administrative regulations and promote less arbitrary figures from courts. Fourth, both
+courts and agencies should change their valuation of the deaths of children by taking the
+child’s welfare loss seriously while also accounting for the possibility of offsetting
+18 See below.
+19 There is a third body of relevant law: criminal prohibitions. These prohibitions overlap, to some extent,
+with both tort law and administrative regulation, carving out a subset of conduct for special sanctions. By
+attending to enforcement levels and sanctions, it might even be possible to deduce an implicit value of life,
+or of statistical risks, from criminal law. Ideally, of course, legislators would ensure that all three bodies of
+law worked well together, producing the right deterrent signal. For present purposes, however, we put
+criminal law to one side.
+20On some of the complexities here, see Matthew Adler, Fear Assessment (unpublished manuscript 2004)).
+behavior by parents. Fifth, agencies and courts should evaluate mortality risks that are
+imposed on foreigners—both resident aliens and nonresident aliens whose mortality is
+affected by domestic activities—in a manner that is consistent with the diplomatic
+objectives of the political branches.</p>
+          <p>This Article is organized as follows. Part I provides the background from both tort
+law and regulatory policy. Part II discusses the theoretical basis for valuing human lives.
+Part III investigates a range of methodological difficulties and implications. Part IV
+proposes reforms to tort law and regulatory policy. Part V explores the question why tort
+law and regulatory policy currently take such different approaches to valuing loss of life.
+I. Background</p>
+          <p>A. How Tort Law Values Loss of Life</p>
+          <p>At common law, victims (that is, their estates) and dependents could not recover
+damages for wrongful death. As a result, courts did not face the problem of calculating
+damages for loss of life. In the nineteenth century, however, many states enacted statutes
+that provided for recoveries. Wrongful death statutes provided that dependents, including
+spouses and children, may recover damages for lost support. Survival statutes provided
+that the victim’s estate may recover damages for certain losses that the victim incurred as
+a result of the tort, such as medical expenses and earnings lost between injury and
+death.21 Today, most states have one or both types of statutes, or statutes that combine
+elements of each type. In addition, there has been much judge-created common law that
+can be traced to these statutes. As a general proposition, one can say that courts now
+award damages on account of death caused by a tort, but the rules vary widely by
+jurisdiction. 22</p>
+          <p>Despite the variations, there are common themes. Most courts award
+“noneconomic” damages, that is, damages for pain and suffering incurred by the victim as a
+result of the tort prior to death, and also for the distress and loss of companionship
+21 2 Dan B. Dobbs, Law of Remedies 423 (2d ed. 1993).
+22 Id., at 421-445.
+suffered by dependents or heirs.23 All states award “economic” damages. In states that
+use the “loss to dependents” measure, these damages are supposed to make dependents
+whole; roughly, they provide the support that dependents would have received if the
+victim had lived. This may be measured as lost contributions from victims to dependents
+(housing, food, and so forth), or, more crudely, future income minus victim’s expenses.
+In states that use the “loss to estate” measure, damages are supposed to approximate the
+victim’s estate if she had lived a natural life—total future income minus expenses.24</p>
+          <p>Notice that the non-economic and economic measures do not provide an award
+for the loss of life per se—that is, the victim’s “loss of life’s pleasure,” also known as
+hedonic damages. Plaintiffs suing on behalf of a victim who has no future income, no
+dependents, and no spouse, and who dies without feeling pain, should ordinarily receive
+zero damages or damages sufficient only to cover funeral expenses.25 This large category
+of people includes elderly people who are living off savings and unemployed or homeless
+people. It also includes homemakers, unless an implicit value is assigned to household
+services. And it includes children—at least in “loss to dependent” states, because children
+do not have dependents who lose support as a result of their death.26</p>
+          <p>Of course, this is a matter of formal law; in practice, damages are often awarded
+on account of the deaths of people who have no income, and often damages are in excess
+of lost income. This is partly because non-economic damages will be available in most
+cases, partly because juries are given a great deal of discretion to award damages in
+wrongful death cases and are provided little guidance by courts, and partly because courts
+use fictions in order to ensure a “reasonable” recovery.27 But if all this is true, then
+23 Id. There is every reason to believe that the resulting awards have a high degree of arbitrariness. See
+David W. Leebron, Final Moments: Damages for Pain and Suffering Prior To Death, 64 N.Y.U. L. Rev.
+256 (1989).
+24 Id., at 430-38.
+25 E.g., McGowan v. Wright, 524 So.2d 308 (Miss. 1988).
+26 In “loss to estate” states, the child’s future income will be calculated, and awarded to parents or heirs.
+See Dobbs, supra, at 436.
+27 For example, the household services of the child – which in most households, and certainly modern
+middle class households, are trivial – may be given a high value. See Dobbs, supra, at 440.
+damages for wrongful death are highly arbitrary,28 and indeed this is the conventional
+wisdom,29 supported by our own evidence as discussed below.30</p>
+          <p>Only five states permit damages for hedonic loss: Arkansas,31 Connecticut,32
+Hawaii,33 New Hampshire,34 and New Mexico.35 As a matter of theory, plaintiffs in these
+states can recover damages on account of the wrongful death of people who have no
+income and otherwise would not be entitled to non-economic damages. However, the
+statutes and judicial opinions in these states do not explain the methodology, and judges
+usually leave the calculation to the jury, with lax oversight.36 In some cases, courts
+appear to misunderstand the nature of hedonic loss—for example, confusing it with lost
+income.37</p>
+          <p>The upshot is that it is exceptionally hard to predict, as a matter of formal law,
+what damages for wrongful death will be in any particular case. However, verdict and
+settlement data can be used to paint a rough picture. We examined data from two data
+sets: (1) an unscientific Jury Verdict and Settlement data set that provides a wealth of
+information about the characteristics of the cases (“JVS”)38; and (2) a more scientific
+28 Even aside from the legal confusion, jurors do not do a good job of monetizing losses when provided
+with no clear guidance to discipline their judgments. David Schkade et al., Deliberating About Dollars: The
+Severity Shift, 100 Colum. L. Rev. 1139 (2000).
+29 See, e.g., David Baldus, John C. MacQueen, and George Woodworth, Improving Judicial Oversight of
+Jury Damages Assessments: A Proposal for the Comparative Additur/Remittitur Review of Awards for
+Nonpecuniary Harms and Punitive Damages, 80 Iowa L. Rev. 1109 (1995).
+30 See TAN infra.
+31 See Durham v. Marberry, 2004 Ark. LEXIS 179 (interpreting ambiguous 2001 amendment to Arkansas
+survival statute (Ark. Code Ann. § 16-62-101(b)) as permitting recovery for hedonic loss).
+32 See Katsetos v. Nolan, 368 A.2d 172 (Conn.1976); Chase v. Fitzgerald, 45 A.2d 789 (Conn.1946).
+33 See Montalvo v. Lapez, 884 P.2d 345, 364 (Haw. 1994).
+34 See Marcotte v. Timberlane/Hampstead School District, 733 A.2d 394 (N.H. 1999).
+35 See New Mexico St. §41-2-1 (discussed in Smith v. Ingersoll-Rand Co., 214 F.3d 1235, 1245 (N.M.
+2000)). Mississippi briefly allowed damages for hedonic losses in wrongful death cases, but the case that
+approved such damages – Choctaw Maid Farms v. Hailey, 822 So.2d 911 (2002) – was overturned by
+statute. See Brendan I. Koerner, What’s Your Happiness Worth?, Legal Affairs, January/February 2004.
+Hedonic losses may also be permitted in federal civil rights cases involving wrongful death. See Sherrod v.
+Berry, 629 F. Supp. 195, 205 (N.D.Ill.1985), rev’d on other grounds, 856 F.2d 802 (7th Cir. 1988); Frye v.
+Town of Akron, 759 F. Supp. 1320, 1325-26 (N.D. Ind. 1991). However, it is not yet clear whether other
+circuits will follow Sherrod. See Wescott v. Crinklaw, 133 F.3d 658, 660-61 (8th Cir. 1998).
+36 See Dobbs, supra, at 445.
+37 Cohen suggests that they have not, citing Lengel v. New Haven Gas Co., 111 A.2d 547 (1955), where the
+court reversed an award of $60,000 because not justified by the decedent’s lost income; the court did not
+mention hedonic loss. See Lloyd Cohen, Toward an Economic Theory of the Measurement of Damages in
+a Wrongful Death Action, 34 Emory L.J. 295, 307 (1985).
+38 The data are from the Jury Verdict and Settlements, Combined database in Lexis. This data set appears to
+have been generated from various local verdict and settlement reporting services, whose selection methods
+Civil Justice System data set that contains little information about the characteristics of
+cases (“CJS”).39
+selected to show the range of real world outcomes.
+auto accident (81 years old)
+railroad-auto accident (77 years old)
+$1.75 million
+are not disclosed. Thus, it is unsafe to assume that the data are randomly generated, and indeed Lexis
+explicitly disclaims that they are.
+39 The data were generated by the Inter-university Consortium for Political and Social Research. Data and
+other information are available online at: http://webapp.icpsr.umich.edu/cocoon/NACJD-STUDY/
+03957.xml. The website includes information on verdicts and settlements of tort lawsuits between January
+and December 2001 from the 75 largest counties in the United States. These data were randomly generated.
+40 We do not include punitive damages, pain and suffering damages, medical expenses, past income, and so
+forth, so this category is an attempt to determine the implicit valuation of the loss of life itself. Thus, we do
+include (after death) losses to dependents, both economic and noneconomic.
+41 The driver was high on drugs; we suspect that in this case, as in other high award cases, the damages
+included a punitive element, even though not classified as such.
+42 Classified as “pecuniary costs”; it is not clear what this means.</p>
+          <p>In the JVS data set, the mean award for loss of life—meaning, usually, lost
+income to dependents or the estate, or mental distress to dependents (we tried to exclude
+punitive damages, damages for pain and suffering of the victim prior to death, medical
+expenses, funeral expenses, and so forth)—was $3.1 million, and the median was $1.1
+million. This is roughly consistent with the findings of the CJS survey, in which the mean
+was about $3,759,000 and the median was $961,000 for a sample of cases from 2001.43
+Thus, the CJS survey suggests that the JVS survey may be reasonably reliable.44 In any
+event, it seems clear enough that when outliers are excluded, the tort system values lost
+lives at well under $3 million, and about half the time under $1 million.45 We suspect that
+the real amounts are somewhat lower; the evidence suggests that awards generally
+decline during post-verdict proceedings.46 The considerable variance in both data sets
+also supports the conventional wisdom that the damage awards have a degree of
+arbitrariness, that is, they are not closely tied to the underlying concerns of the tort
+system and are also erratic and unpredictable.47
+43 Thomas H. Cohen &amp; Steven K Smith, Civil Trial Cases and Verdicts in Large Counties, 2001, Bureau of
+Justice Statistics Bulletin, April 2004, NCJ 202803, at p. 10.
+44 Another data set was created by Jury Verdict Research, which claims, or appears to claim, that the data
+set is reliable. See Current Award Trends in Personal Injury (43rd ed. 2004). Statistics for 2002 jury awards
+(not settlements) are: median $1.6 million; mean $4.7 million; low of $5,809 and high of $100 million. Id.,
+at 6. Note that these awards would include such (for us) irrelevant elements as punitive damages. And see
+Viscusi’s figures, generated from an earlier Jury Verdict Research data set, which show the same pattern.
+See W. Kip Viscusi, Reforming Products Liability 108-09 (1991).
+45 We should note the problem of selection effects. Parties may be more likely to settle cases that are likely
+to produce high awards both because of risk aversion and of the likely higher litigation costs in high stakes
+cases. See A. Mitchell Polinsky, Are Punitive Damages Really Insignificant, Predictable, and Rational? A
+Comment on Eisenberg et al., 26 J. Legal Stud. 663, 668 (1997). To be sure, verdicts and settlements data
+includes settlements, and the settlements are lower than the verdicts; however, this may reflect the
+plaintiff’s risk of losing, a risk that is absent for verdicts. Still, all this means, for our purposes, is that there
+is a lot of unexplained variance in the cases: if some high amount, X, is the “real” level of damages for loss
+of life, then why are so many verdicts so much lower?
+46 See, e.g., Ivy E. Broder, Characteristics of Million Dollar Awards: Jury Verdicts and Final
+Disbursements, 11 Just. Sys. J. 349 (1986) (finding that plaintiffs ultimately received about 57 percent of
+the verdict); Neil Vidmar et al., Jury Awards for Medical Malpractice and Post-Verdict Adjustments of
+Those Awards, 48 DePaul L. Rev. 265 (finding reductions of about 7 to 60 percent in different
+jurisdictions).
+47 The standard deviation for the JVS data set is $6.1 million, with a minimum of $0 and a maximum of $50
+million. We do find it difficult to believe that the data were selected because of their variance, however, so
+the variance may be reliable (or else it just reflects gaps and inaccuracies in the data, e.g., treating punitive
+damages as if they were economic loss damages). In the CJS data set, the standard deviation is $11.7
+million, with a minimum of $705 and a maximum of $120 million, according to our own calculations. For
+analysis of product liability cases, See W. Kip Viscusi,, International Review of Law and Economics
+(1988); W. Kip Viscusi, J. Legal Studies (1988); W. Kip Viscusi, J. Legal Studies (1986).</p>
+          <p>Hence two points emerge from the wrongful death cases. The first is that in
+principle, the law calls for a highly individuated approach, one that recognizes a wide
+range of factors that bear on the degree of loss to dependents. The second is that in
+practice, actual awards on account of loss of life are usually well below $3 million and
+also characterized by great variance.</p>
+          <p>B. How Regulatory Policy Values Loss of Life</p>
+          <p>As we have noted, agencies now assign monetary values to human lives. The
+practice is recent, having become systematized only as a result of an executive order from
+1981.48 For a period, agency figures were highly and inexplicably variable.49 With some
+exceptions, however, most regulatory agencies have now converged on a fairly narrow
+range for the valuation of life: $5 million to $6.5 million. Consider the following table,
+accounting for agency valuations in the recent past:
+48 See Exec. Ord. 12291, Fed. Reg. (1981). For discussion of the origins of cost-benefit balancing in federal
+regulation, see Richard Pildes and Cass R. Sunstein, Reinventing the Regulatory State, 62 U. Chi. L. Rev. 1
+(1995).
+49 See Matthew D. Adler and Eric A. Posner, Implementing Cost-Benefit Analysis When Preferences Are
+Distorted, 29 J. Legal Stud. 1105 (2000)
+Dept. of Health &amp; Human
+Services/FDA
+Dept. of Health &amp; Human
+Services/FDA
+Dept. of Agriculture/Food Safety &amp;
+Inspection Service</p>
+          <p>Control of Emissions from Nonroad Large
+Spark-Ignition Engines, and Recreational
+Engines (Marine &amp; Land-Based)
+November 8, 2002
+67 FR 68242-01
+National Primary Drinking Water Regulations:
+Arsenic and Clarifications to Compliance and
+New Source Contaminants Monitoring
+January 22, 2001
+66 FR 6976-01
+Control of Air Pollution from New Motor
+Vehicles: Heavy-Duty Engine and Vehicle
+Standards and Highway Diesel Fuel Sulfur
+Control Requirements
+January 18, 2001
+66 FR 5002-01
+Control of Air Pollution from New Motor
+Vehicles: Tier 2 Motor Vehicle Emissions
+Standards and Gasoline Sulfur Control
+Requirements
+February 10, 2000
+65 FR 6698-01
+Findings of Significant Contribution and
+Rulemaking on Section 125 Petitions for
+Purposes of Reducing Interstate Ozone
+Transport
+January 18, 2000
+65 FR 2674-01
+Final Standards for Hazardous Air Pollutants for
+Hazardous Waste Combustors
+September 30, 1999
+64 FR 52828-01
+National Primary Drinking Water Regulations:
+Disinfectants and Disinfection Byproducts
+December 16, 1998
+63 FR 69390-01
+Financial Responsibility Requirements for
+Licensed Launch Activities
+August 26, 1998
+63 FR 45592-01
+Quality Mammography Standards
+October 28, 1997
+62 FR 55852-01
+Regulations Restricting the Sale and Distribution
+of Cigarettes and Smokeless Tobacco to Protect
+Children and Adolescents
+August 28, 1996
+61 FR 44396-01
+Pathogen Reduction; Hazard Analysis and
+Critical Control Point (HACCP) Systems
+July 25, 1996
+61 FR 38806-01
+$6 million
+Consumer Product Safety
+Commission
+Consumer Product Safety
+Commission</p>
+          <p>Aircraft Flight Simulator Use in Pilot Training,
+Testing and Checking and at Training Centers
+July 2, 1996
+61 FR 34508-01
+Requirements for Labeling of Retail Containers
+of Charcoal
+May 3, 1996
+61 FR 19818-01
+Large Multiple-Tube Fireworks Devices
+March 26, 1996
+61 FR 13084-01</p>
+          <p>What is the source of these numbers? The answer involves real-world markets,
+producing evidence of compensation levels for actual risks.50 In the workplace and for
+consumer goods, additional safety has a price; market evidence is investigated to identify
+that price.51 Agency valuations are largely a product of studies of actual workplace risks,
+attempting to determine how much workers are paid to assume mortality hazards.52 The
+relevant risks usually are in the general range of 1/10,000 to 1/100,000.53 The calculation
+of the value of a statistical life is a product of simple arithmetic. Suppose that workers
+must be paid $600, on average, to eliminate a risk of 1/10,000. If so, the value of a
+statistical life would be said to be $6 million. Additional information comes from
+contingent valuation studies, asking people how much they are willing to pay to reduce
+statistical risks of death.54 But studies of this kind are not the foundation of agency
+policies in the domain of mortality risks, apparently on the theory that real-world
+evidence is more reliable.</p>
+          <p>Several features of agency practice are noteworthy by way of comparison to
+wrongful death actions. The most obvious is that agencies provide a uniform number;
+they make no effort to individuate, even though more individuation would not be
+50 See W. Kip Viscusi, supra.
+51 A valuable and comprehensive overview can be found in W. Kip Viscusi and Joseph E. Aldy, The Value
+of a Statistical Life: A Critical Review of Market Estimates Throughout the World, 27 J. Risk and
+Uncertainty 5 (2003).
+52 See Viscusi, Fatal Tradeoffs, supra note, for discussion.
+53 See, e.g., W. Kip Viscusi, The Value of Life: Estimates With Risks by Occupation and Industry, 42
+Econ. Inquiry 29, 33 (2004) (showing fatality risks ranging from about 1/100,000 to 45/100,000).
+54 See, e.g., James Hammitt and Jin-Tau Liu, Effects of Disease Type and Latency on the Value of
+Mortality Risk, 28 J. Risk and Uncertainty 73 (2004); George Tolley et al., Valuing Health For Policy
+(1995); Valuing Environmental Preferences (Ian Bateman &amp; K. G. Willis eds., 1999); Peter Diamond &amp;
+Jerry Hausman, Contingent Valuation: Is Some Number Better Than No Number, 8 J. Econ. Persp. 45,
+4952 (1994); Note, Ask A Silly Question, 105 Harv L Rev 1981 (1992).
+difficult. In addition, agencies use a higher (average) value for loss of life to the victim
+but place no value on losses to spouses, friends, and others who suffer a welfare loss,
+economic and otherwise, in the event of death. The uniform numbers, refusing to make
+inquiries that would lead to less uniformity or that would be difficult to administer, are
+not surprising in light of the comparative youth of regulatory valuation and in light of the
+controversial nature of imaginable distinctions. More accurate, and more complex,
+valuations might be expected to follow an initial period in which assignment of some
+number of statistical lives becomes entrenched. But these points raise the theoretical
+questions that bear on both judicial and administrative practice.</p>
+          <p>C. A Comparison: The September 11 Victim Compensation Fund</p>
+          <p>As we mentioned at the outset, the September 11 Fund was influenced by tort
+principles, and it is instructive to compare the awards to dependents of deceased victims
+of the September 11 attacks both with tort wrongful death awards and with agency
+valuations of life. Table 3 displays the comparison.
+Agency55</p>
+          <p>Mean
+$3.8 million
+$2.0 million
+$5. 4 million</p>
+          <p>Median</p>
+          <p>Minimum</p>
+          <p>Maximum
+$961,000
+$1.7 million
+Note: Tort awards from the CJS data set (2001); Sept. 11 awards from Fund Website;56 agency valuations
+from Table 2 (post-2000). The Sept. 11 data are based on amounts received after deductions for life
+insurance payments, and the like; they therefore understate true valuations, probably by a few hundred
+thousand dollars.57</p>
+          <p>The Sept. 11 fund has a higher median but lower mean than the tort system does.
+The lower mean is due to the lack of extreme awards characteristic of the tort system.
+The higher median is probably due to two factors: (1) inflation from 2001 to 2004; and
+55 The agency statistics cannot be straightforwardly compared to the statistics for the other systems, because
+the former will vary depending on the relative size of the populations that the different regulations affect.
+Still, they give a general sense of the differences.
+56 Available at: http://www.usdoj.gov/victimcompensation/payments_deceased.html. The website provides
+the mean, median, and range; we calculated the standard deviation from the raw data (also provided by the
+website).
+57 See the examples provided at: http://www.usdoj.gov/victimcompensation/award_summaries.pdf. We
+have been unable to find the appropriate statistics.</p>
+          <p>Standard</p>
+          <p>Deviation
+(2) the much higher average income of the September 11 victims compared to that of the
+general population. Putting aside the outliers, then, the Sept. 11 Fund and tort awards
+seem largely consistent, and both are much lower than agency valuations. What the Sept.
+11 Fund shares with agency valuations is the much lower degree of variance than that
+found in the tort system.</p>
+          <p>II. Theory: Why Should Loss of Life Be Valued?</p>
+          <p>Many people believe that a human life is uniquely precious and therefore cannot
+be given a monetary valuation.58 Calculating the value of a human life demeans the
+victim of the wrong rather than vindicating his memory. The intuition is understandable.
+But for purposes of law and policy, what is the alternative? Awarding zero damages for
+wrongful death is hardly less demeaning, and an award of an “arbitrary” amount of
+money—either the jury or the legislature should pick a number out of thin air—is no
+better. Similarly, it is hard to believe that regulatory policy should assume that human life
+is worth nothing or, alternatively, that it has some arbitrary value.</p>
+          <p>To understand how loss of life should be valued, we need to understand the social
+purposes such a practice would advance. There is no acontextual method for assigning
+monetary values to mortality and mortality risks. We start with tort law, which is
+conventionally said to have two goals: deterrence and compensation.59 Then we turn to
+regulatory policy, which shares tort law’s goal of deterrence.</p>
+          <p>A. Tort Law and Deterrence</p>
+        </sec>
+      </sec>
+      <sec id="sec-3-2">
+        <title>1. Principles of Tort Damages</title>
+        <p>The tort system has two purposes: compensation and deterrence. Frequently, but
+not always, the two purposes lead in similar directions. If the victim of a wrongful death
+action cannot be compensated, deterrence is still a possibility. The question we now
+investigate is what level of damages produces optimal deterrence of wrongful death. Our
+basic conclusion is that two approaches are formally equivalent and will accomplish that
+task: a monetary amount, before any harm occurs, that is the multiple of the magnitude of
+58 See Frank Ackerman and Lisa Heinzerling, Priceless: On Knowing the Price of Everything and the Value
+of Nothing (2004).
+59 E.g., Erny v. Estate of Merola, 792 A.2d 1208, 1217 (N.J. 2002).
+the harm and its probability, assessed for every person who is made to face the relevant
+risk; or a monetary amount, after the harm occurs, that reflects the magnitude of the
+harm. The choice between the two approaches largely depends on questions of
+administrability.60</p>
+        <p>To understand how deterrence works, one must take an ex ante perspective.61
+Suppose that at time 1 the legal rules are chosen; at time 2 everyone chooses how to act
+and what level of care to take; and at time 3 injuries and deaths occur, and liability and
+damages are determined for wrongful death actions. On the deterrence approach, we want
+to choose legal rules at time 1 that produce damages at time 3 that give everyone optimal
+incentives at time 2.</p>
+        <p>As is well known, people can be given optimal incentives to take care if they are
+required to pay damages for any financial losses that they cause (or negligently cause).62
+Imagine, for example, that a particular behavior, such as driving, will cause $1000 in
+losses if an accident occurs. A driver can control the probability that the loss will occur
+by taking more or less care. The cost of care increases with the amount of care that is
+taken. The efficient level of care is the amount at which the marginal cost of care equals
+the expected marginal cost of an accident. By requiring the tortfeasor to pay damages, the
+law forces the driver to internalize the losses that she creates, and so she will take
+precautions when the costs of those precautions are less than the expected losses.63</p>
+        <p>We can think of the victim’s loss in two equivalent ways. We can say that the
+victim incurs the cost of the accident, L, at time 3. In our example, L = $1000. This is the
+“ex post” loss. Alternatively, we can say that the victim incurs an expected loss of pL at
+60 There are also equitable issues here; from the equitable point of view, perhaps it is worse to compensate
+everyone ex ante for risks than to compensate those for harm when those harms come to fruition (insurance
+practices are obviously relevant to an evaluation). But our focus here is on deterrence, and we do not
+engage those issues.
+61 As should be apparent, we are not dealing here with intentional killings, as in cases of homicide. It is not
+clear that the risk of being murdered should be analyzed in the same way as the risks ordinarily involved in
+wrongful death cases, which typically involve negligence in one or another form. Difficult questions are
+raised by the evident fact that people would be willing to pay different amounts to avoid statistically
+identical risks: A 1/100,000 risk of a cancer death is different from a 1/100,000 risk of a sudden
+unanticipated death (as we stress), and a 1/100,000 risk of being strangled, or of being killed in a terrorist
+attack, would undoubtedly produce its own distinctive numbers.
+62 To keep things simple, we assume throughout that only the tortfeasor can control the probability of an
+accident. This allows us to focus on the optimal level of damages for loss of life. We also focus on optimal
+incentives to take care, in which case the tort rule can be either strict liability or negligence.
+63 William M. Landes and Richard A. Posner, The Economic Structure of Tort Law (1987); Steven Shavell,
+Economic Analysis of Accident Law (1987).
+time 1, where p is the probability of the accident at time 3. This is the “ex ante” loss.
+From an economic perspective, these losses are equivalent. If an insurance market exists,
+people are assumed to be indifferent between being awarded pL, as potential victims, at
+time 1, and L, as actual victims, at time 3.64 Insurers will set the premium equal to pL,
+and they will pay out L if the accident occurs. Tort law, in theory, could either require all
+drivers to pay all potential tort victims pL at time 1, or (as in fact) only drivers who cause
+accidents to pay only actual victims L at time 3. If the insurer is subrogated (as is usually
+the case), then the victim is indifferent between these two systems, as is the insurer.
+Potential victims who want insurance can use their “damages” of pL under the first
+system to pay for the insurance premium, and simply collect from the driver under the
+second system without going through the insurance intermediary. Potential victims who
+do not want insurance could purchase an investment instrument that pays pL at time 1 in
+return for the chance of L at time 3.65</p>
+        <p>Why does the tort system award damages of L to actual victims rather than
+damages of pL to potential victims, when the two awards are equivalent? A large part of
+the answer is one of practicality. Potential victims cannot be easily identified in advance,
+and many risks are difficult or even impossible to calculate. In the unusual cases when
+the reverse is true—when courts cannot award L to actual victims because the loss will
+occur in the distant future—some courts have been willing to force potential tortfeasors
+to pay potential victims damages equal to pL.66 Thus, tort law does not, in principle, bar
+awards of pL rather than L; its focus on L stems from the fact that L is a far simpler
+foundation for judicial decisions.</p>
+      </sec>
+      <sec id="sec-3-3">
+        <title>2. Valuing Loss of Life</title>
+        <p>Now let us turn to the problem of measuring L when the loss is death. To fix
+intuitions, suppose that the (multiply unfortunate!) victim of the wrongful death tort has
+no dependents, no spouse, no friends, and no income; suppose too that the death was
+instant, involving no pain, suffering, dread, or medical expenses. Putting aside funeral
+64 We put to one side some complexities with this assumption.
+65 Cf. Robert Cooter and Ariel Porat, Anti-Insurance, 31 J. Legal Stud. 203 (2002).
+66 See Matthew D. Adler, Risk, Death and Harm: The Normative Foundations of Risk Regulation, U. Minn.
+L. Rev. 1419-21 (forthcoming 2004) and citations therein (discussing tort cases that recognize torts for
+increasing the risk of death).
+control) is based on a cost-benefit analysis that values foreign lives and American lives
+equally, at the American level. Under the stated assumptions, the second redistributes
+resources from Americans to people living in other countries. Which regulation is
+superior?</p>
+        <p>In the abstract, the answer is hardly clear, and the question cannot be sensibly
+approached without consideration of American foreign policy toward the nations that
+benefit from the regulation. Let us consider the relation between the U.S. and, say, India.
+The two states can gain a lot from each other by cooperating, but there is also a danger of
+conflict. To simplify, suppose that the U.S. wants three things from India: security
+cooperation (such as flyover rights); an open market for U.S. goods; and an improvement
+in the treatment of religious minorities. India seeks from the U.S. similar things:
+diplomatic assistance with its ongoing disputes with Pakistan; an open market for Indian
+goods; and an improvement of American treatment of Indian residents. Suppose that at a
+hypothetical stage 1, India and the U.S. achieve a balance between their aims: each gives
+a little of what the other wants.</p>
+        <p>Now at stage 2, an American regulatory agency issues an environmental
+regulation that happens to benefit India considerably, and at great cost to American
+citizens. At this point, the American diplomatic authorities might argue that because the
+U.S. is conferring a new benefit on India (say, less flooding of coastal areas), India
+should respond by conferring a new benefit on the U.S. (say, more trade). India could
+respond by saying thanks for reducing coastal flooding—that is important—but it is not
+more important to us than preserving our domestic X industry. In short, the new
+regulation disturbs the cooperative equilibrium between the U.S. and India: the U.S.,
+perceiving itself as giving more than it is getting, will (in theory) respond by withdrawing
+some other benefits, and India will retaliate. The new equilibrium could involve a lower
+level of cooperation—one in which the U.S. gives India something of little value to India
+and so gets something of little value in return—unless the U.S. government can change
+the regulation in a way that benefits India less.141</p>
+        <p>Our point is that under certain circumstances, regulations and tort rules that are
+based on inflated foreign VSLs will redistribute wealth from Americans to foreign
+141 Of course, that may be impossible, in which case cooperation should not decline.
+governments. Such transfers would not be wildly popular in the abstract, at least among
+Americans. They may nonetheless be desirable for reasons of foreign policy or social
+justice, but they should be recognized as such; the use of the inflated VSL conceals the
+magnitude of the transfer and even its nature. Further, transfers—whether disguised
+through inflated VSLs or undisguised—should cohere with foreign policy; otherwise,
+they will lead to perverse results or be ineffective. The simple conclusion is that in many
+imaginable circumstances, a high VSL, for people in other countries, will produce
+perverse redistribution or redistribution for which there is no strong claim—and that even
+when the redistribution through a high VSL seems desirable (because it benefits poor
+people on balance), there are many questions about whether regulatory agencies should
+adopt it. It follows that as a general rule, both agencies and courts should use a VSL that
+attempts to match the figure in the relevant nation.</p>
+        <p>IV. Proposals for Reform</p>
+        <p>A. Use of VSL in Regulations</p>
+        <p>Tort law offers two principal lessons for regulatory policy. The first involves the
+need for a greater degree of individuation. The second involves the need to pay attention
+to the interests of dependents. A properly designed system of valuation would move
+substantially in both directions.</p>
+      </sec>
+      <sec id="sec-3-4">
+        <title>1. Individuation</title>
+        <p>We have seen that under the theory that agencies now use, VSL is calculated on
+the basis of people’s willingness to pay. That very theory raises serious doubts about the
+government’s use of a uniform number. The appropriate value varies across both risks
+and persons. If, for example, the risk is accompanied by a high degree of pain and
+suffering, it deserves more attention than if it is not—a conclusion that is supported by
+studies finding a kind of “premium” for bad deaths.142 Agencies should therefore provide
+a higher VSL for cancer risks than for other risks, a possibility that EPA has recognized
+142 See Revesz, supra note.
+in its “sensitivity analysis” for arsenic.143 A great deal more should be done in this
+vein.144 As tort law demonstrates, a uniform number is extremely difficult to defend.</p>
+        <p>Variations across persons are important as well. To be sure, it is impractical to
+think that regulators should fully individuate risks across persons, in part because
+regulations often affect many people at once. But less fine-grained distinctions are
+possible. For example, people over sixty tend to show a lower VSL than people between
+thirty and forty.145 Regulators might build on these figures to generate different numbers
+for programs protecting people at different points along the age spectrum. Putting the
+difficult case of children to one side, agency rules should have a lower value when the
+benefited class consists largely of elderly people. A movement in this direction would
+have significant consequences for valuation; it would drive down the monetized benefits
+of a number of programs delivering health gains largely to senior citizens.</p>
+        <p>Additional distinctions are possible. If a program would benefit largely wealthy
+people, regulators might use an unusually high VSL—a point that would support a higher
+VSL for safety decisions involving airlines (the exact opposite, not incidentally, of
+current practice, which involves an unusually low number for airline safety146). More
+controversially, programs protecting the poor might be given a lower VSL, in a way that
+tracks the approach of tort law, at least where those who benefit from regulation are also
+paying for it. A possible objection to this approach is that in some circumstances, a high
+VSL, for the poor, might be beneficial to the poor, simply because they receive benefits
+for which they pay only a fragment. We do not resolve the obvious empirical and ethical
+complexities here.147 We note simply that a higher degree of individuation would be
+desirable, that in most cases it would raise no serious ethical problems, and that tort law
+shows that a movement toward greater individuation is both feasible and consistent with
+longstanding practices and intuitions.
+143 See note supra.
+144 See Sunstein, supra note.
+145 Joseph P. Aldy and W. Kip Viscusi, Age Variations in Workers’ Value of a Statistical Life (2003),
+forthcoming.
+146 See Table 2, supra, showing a lower figure for the FAA than for the EPA.
+147 See Sunstein, supra.</p>
+      </sec>
+      <sec id="sec-3-5">
+        <title>2. Dependents.</title>
+        <p>For regulatory policy, the most obvious gap is that agency numbers do not recognize the
+fact that a death causes welfare losses to many people other than the victim. If a worker is
+killed as a result of carcinogens in the workplace, others will almost always be affected.
+Agency failure to take account of the welfare losses results in numbers that are far too
+low.</p>
+        <p>We have suggested the importance of distinguishing between two sets of losses:
+grief on the one hand and lost income on the other. Following tort law, full individuation
+would take account of the fact that the size of those losses very much depends on the
+particular situation. Other things being equal, the loss of a parent with six young children
+causes more serious harm than the loss of someone without dependents. If our earlier
+calculations are correct, several million dollars would be added to the conventional
+assessment of the benefits of a regulation that saved that parent’s statistical life. A serious
+difficulty here is that agency regulations protect broad classes of people and hence it is
+quite impractical to think that agencies should make fully individual judgments about the
+welfare losses. But it is not impractical to think that agencies should adjust their numbers
+in a way that ensures that serious welfare losses are not ignored. As in the case of
+statistical risks, contingent valuation studies and market evidence might be consulted to
+generate appropriate numbers for grief. We have offered some suggestions about how
+this might be done. For regulations, individual assessments are of course impossible, but
+a positive number is better than no number, and population-wide means would be a
+sensible place to start.</p>
+        <p>In the regulatory context, there is a cautionary note. Any effort at individuation
+would have a high degree of political salience and would undoubtedly mobilize affected
+interests. Even if the social science were less ambiguous than it now is, well-organized
+groups would undoubtedly engage in special pleading, attempting to move agency
+practices in their preferred directions. A uniform number helps to insulate agencies from
+the relevant pressures. In the context of tort suits, individuation does not face those
+pressures, and hence there is little need for insulation. In principle, however,
+individuation is clearly desirable, and it seems quite pessimistic to think that the effort to
+produce greater accuracy should be rejected because of the possible effects of
+interestgroup maneuvering.</p>
+        <p>B. Use of VSL in Tort Law
+In wrongful death actions, damages should be calculated in the following way.</p>
+      </sec>
+      <sec id="sec-3-6">
+        <title>1. The Hedonic Loss of the Victim</title>
+        <p>For deterrence purposes, the tortfeasor should pay the amount that the victim
+would be willing to pay to avoid the risk that was imposed on him by the tortfeasor’s
+class of actions, divided by that risk (R/q). Damages should not be based on lost income;
+as in the regulatory context, lost income is at best a proxy for the victim’s loss.
+Deterrence can be satisfied through payment to the government, but if it is paid to the
+estate or dependents, then indirect compensation is also achieved.</p>
+        <p>The amount can be calculated in two ways. First, the VSL (or VSLY) used by
+agencies could be used, with any adjustments as necessary to reflect individual factors:
+the defendant’s risk preference, life expectancy (if VSLY is used), wealth, quality of life,
+and so forth. Indeed, it is possible that the victim’s own wages will reflect his VSL, if he
+has a risky job. So long as agencies use a uniform figure, courts might start with the
+standard $6 million figure, and then make adjustments as appropriate. If agencies used
+more refined figures, as we have argued that they should, then courts might begin with
+those figures instead, and make appropriate adjustments from that amount. Second, the
+jury could be asked to determine the hedonic loss. However, the proper jury question is
+not “what is the value of the life’s pleasures lost by the victim?” This question is too
+abstract. A better question would be: “estimate the amount of money that the victim
+would have paid to avoid the risk in question.” 148 Of course an abstract answer to that
+question would be unreliable; VSL studies should be used to educate juries about
+common valuations, so that their own estimates will be informed rather than arbitrary.149
+148 Arlen argues that courts are incapable of making such calculations, claiming that “courts’ inaccurate
+calculations would come no closer to efficient recovery amounts than would legislation establishing a flat
+statutory amount for wrongful death in the hope that the results would be efficient on average.” Arlen,
+supra, at 1134. It might be true that legislatures can do better than courts, but that is no argument for
+awarding zero damages or an (arbitrary) constant amount instead. Recall too that we are not exploring the
+complex issues raised by the possible difference between willingness to pay and willingness to accept.
+149 Many courts have refused to admit testimony about VSL studies, arguing that the science does not meet
+the Daubert standard. See, e.g., Ayres v. Robinson, 887 F. Supp. 1049 (N.D. IL 1995). This seems to us a
+mistake. For a discussion, see Reuben E. Slesinger, The Demise of Hedonic Damages Claims in Tort
+Litigation, 6 J. Legal Econ. 17 (1996). Some courts also reject VSL studies on the ground that these studies
+To ensure consistent and rational awards, we would strongly prefer the first approach, on
+the ground that juries are not well-equipped to answer these questions; but if a strong role
+for the jury is deemed important, the second would also work so long as the jury’s
+judgments are disciplined by expert witnesses and the court.</p>
+        <p>This reform would have a significant impact on tort awards, especially for the
+elderly in non-hedonic loss states. We can already see the logic of our argument at work
+in some of the hedonic loss states. Consider Thomas v. Hilburn,150 in which the jury
+awarded wrongful death damages of $300,000 to the son of the 75 year old victim. On
+appeal, the defendant argued that damages should be reduced to $66,311 for lost income,
+plus a few thousand dollars more for medical expenses, funeral expenses, and property
+damage. The court rejected the argument because Mississippi was (at the time) a hedonic
+loss state. Although our approach would have suggested a verdict of a few million or so,
+depending on the wealth and other characteristics of the victim, the court clearly
+recognized the key point that the hedonic loss of an elderly man is much higher than his
+lost income.151</p>
+        <p>In the tort context, there is an additional complication. Valuation of statistical
+risks has occurred for risks of specified magnitudes, usually ranging from 1/10,000 to
+1/100,000.152 Insofar as tort law is dealing with risks in this range, use of agency figures
+is fully appropriate. But it should be clear that these numbers need not be taken to support
+a VSL that is independent of probability.153 Suppose that people would be willing to pay
+$60 to eliminate a risk of 1/100,000. From this it does not follow that people would be
+willing to pay $6000 to eliminate a risk of 1/1000, or $60,000 to eliminate a risk of 1/100,
+reflect the losses to other people, not to the victim who is the subject of the tort dispute. However, courts
+frequently use statistics about other people in order to award damages in tort cases. For example, when
+courts calculate lost income in order to determine damages for dependents, they use mortality tables; these
+tables are based on the lives of other people, not on the victim’s own life, which would not make any sense.
+Just as courts use statistics about other people in order to estimate the victim’s life expectancy, courts
+should use statistics about other people in order to estimate how much the victim would have been willing
+to pay in order to avoid a risk of death.
+150 654 So. 2d 898, 903 (Miss. 1995).
+151 See also Motorola Communications and Electronics, Inc. v. Wilkerson, 555 So. 2d 713 (Miss. 1989)
+(allowing $150,000 award for the death of an 85 year old man); Marcotte v. Timberlane/Hampstead Sch.
+Dist., 733 A.2d 394, 407-08 (N.H. 1999) (allowing $900,000 award for the death of a child whose lost
+future income was about $700,000). New Hampshire also recognizes hedonic losses in wrongful death
+cases. See supra.
+152 See, e.g., W. Kip Viscusi, The Value of Life: Estimates With Risks by Occupation and Industry, 42 Ec.
+Inquiry 29, 33 (2004) (showing fatality risks ranging from about 1/100,000 to 45/100,000).
+153 See Richard Posner, Catastrophe: Risk and Reason (forthcoming 2004).
+or $600,000 to eliminate a risk of 1/10. It is plausible to believe that people’s WTP to
+reduce statistical risks is nonlinear.154 As the probability approaches 100%, people
+become willing to pay an amount for risk reduction that rises nonlinearly to 100% of their
+income, and—at some point—become unwilling to accept any amount in return for
+giving up their entitlement to life.155 From this it follows that if a defendant imposes risks
+that are far higher than those with which agencies deal, the agency figures are too low,
+and hence the tort system should use significantly higher ones.</p>
+        <p>The sheer variety of wrongful death actions, in terms of both probability and kind
+of death, severely complicates the inquiry into appropriate damage awards. Insofar as the
+tort system is dealing with probabilities in the general range with which agencies deal, it
+can build on (appropriately reformed) agency practice. Insofar as the tort system is
+dealing with the most egregious conduct—homicide, for example—the regulatory
+analysis of WTP does not apply directly, but a standard amount of (say) $6 million at
+least provides an appropriate floor. Insofar as the conduct imposes high probability risks,
+as through gross negligence, a similar floor is appropriate, supplemented perhaps by
+punitive damages. These suggestions are in line with our general emphasis on the fact
+that all mortality risks are not the same. What cannot be defended is the total exclusion of
+hedonic damages in wrongful death actions.
+154 See id.
+155 There is a great deal of work on disparities between willingness to pay and willingness to accept
+(WTA). See, for an overview, Russell Korobkin, The Endowment Effect and Legal Analysis, 97 Nw. U.L
+Rev. 1227 (2003). Such disparities are found in the context of risks. See, e.g., see W. Kip Viscusi et al., An
+Investigation of the Rationality of Consumer Valuations of Multiple Health Risks, 18 RAND J. Econ. 465
+(1987). It follows that people would pay less to eliminate a risk of 1/100,000 than they would demand to be
+subject to that same risk. See id. One advantage of the market data on which agencies currently rely is that
+the WTP/WTA disparity is essentially irrelevant. If workers and consumers who face a risk of 1/100,000
+receive $60 in compensation, the result can be described in terms of either WTA or WTP; any such
+description is simply a matter of framing. But we lack reliable market data about how to value much higher
+risks -- say, risks of 1/50, 1/20, or 1/10. And for such risks, willingness to accept and willingness to pay
+figures surely diverge, not least because the income constraint applies to WTP but not to WTA. People
+would undoubtedly pay a great deal to eliminate a mortality risk of 1/20; but they would demand even more
+to be subject to that risk, and many people would not incur that risk for any amount. It is not entirely clear,
+in principle, whether WTP or WTA is appropriate, though our view is that willingness to accept is correct
+and therefore the appropriate compensatory award is either infinite or higher than anyone can pay. Thus, a
+billionaire who murders someone ought to forfeit his entire wealth. As a practical matter, however, it
+probably does not make much difference that the tort system does not generate such high awards, given that
+the entire wealth of most murderers is extremely limited.</p>
+      </sec>
+      <sec id="sec-3-7">
+        <title>2. Harm to Survivors</title>
+        <p>As we have seen, calculating the loss to survivors is difficult in practice, but
+conceptually straightforward. For deterrence purposes, survivors should recover for their
+welfare loss—this means grief, mental distress, loss of companionship, and the like. It is
+less clear what dependents should recover in terms of lost support (such as lost income
+attributable to their care). The conceptually proper recovery is the amount of money that
+would make the survivor just as well off (financially) as he would have been if the death
+had not occurred, which will usually be tied to the loss of household economies of scale
+and the breadwinner’s degree of altruism. This amount may be higher than lost income (if
+the victim does a lot of work for the household that is not compensated in the market).
+And it may be lower (if the survivor can easily get a job and the victim was never very
+generous in the first place).</p>
+        <p>If our approach were adopted, tort damages would rise, especially for children and
+the elderly. As we have seen, damages for wrongful death are currently under about $3
+million, based on lost income, mental distress, and the like. Under our system, they are
+likely to be as much as $6 million or higher for the average person. As for children, tort
+damages currently should be low in jurisdictions that exclude lost income (though it is
+not clear that this is the case); and for the elderly, tort damages currently should be (and
+apparently are) low even in jurisdictions that include lost income, given that their earning
+years are almost over. By contrast, under our approach their damages are likely to be,
+again, in the $6 million or higher range.156 For adults with dependents, we suspect that an
+additional several hundred thousands of dollars per dependent would be added to the $6
+million baseline. 157
+156 Elderly people apparently have VSLs that are either equal to (or even higher than) or not much lower
+than those of younger people. See Aldy &amp; Viscusi, supra.
+157 If the victim incurs unusual pain and suffering prior to death, including the distress of anticipating one’s
+own death in the near future, this cost may not be reflected in standard VSLs. Thus, additional damages
+should be awarded for them. Damages for medical and funeral expenses should also be awarded. See Mark
+Geistfeld, Placing a Price on Pain and Suffering: A Method for Helping Juries Determine Tort Damages for
+Nonmonetary Injuries, who suggests using WTP estimates, 83 Calif. L. Rev. 773 (1995). See also David
+W. Leebron, Final Moments: Damages for Pain and Suffering Prior To Death, 64 N.Y.U. L. Rev. 256
+(1989).
+V. Positive Questions</p>
+        <p>Our comparison of tort law and regulatory policy raises an obvious positive
+question. Why do these two areas of law take such different approaches to valuing lives?
+The beginning of an answer to this question is that even though the two areas of law have
+an overlapping purpose—the deterrence of harmful conduct—they also have radically
+different historical origins and orientations: tort law is ex post and individualized, while
+regulatory law is ex ante and generalized. As a result, tort law is naturally more
+particularistic and less rule-bound. The ex ante focus of regulation pushes administrators
+away from case-specific standards and in the direction of rule-bound judgments. But this
+point raises many complexities.</p>
+        <p>A. In General</p>
+        <p>Tort law’s ex post and individualistic orientation has several consequences. First,
+the implicit (or explicit) valuation of human lives in the tort context is information-rich.
+Courts have access to a great deal of evidence about the particular parties and
+circumstances. Under the rules of evidence, all relevant evidence may be introduced to
+the court, and both plaintiff and defendant have strong incentives to take advantage of
+these rules. Given that the victim is a real, identifiable person, it is natural for the court to
+determine the actual loss, including losses to dependents, rather than to rely on statistical
+averages. In fact there is no need to rely on such averages, which provides less accurate
+information than the facts themselves.</p>
+        <p>Second, tort remedies direct the decisionmaker to compare the victim’s post-tort
+state with her pre-tort state, and to ignore the rest of society. This approach works well
+enough when the tort causes a financial loss or a physical injury, but when it kills the
+victim, the decisionmaker has no way to compare post-tort and pre-tort well-being in a
+way that can be reliably monetized. To determine the hedonic loss from death, one cannot
+look at the actual victim’s experience of death; one can rely only on statistical inference
+based on generalization from the rest of society. But in view of judicial traditions, this
+would be unfamiliar and even odd in the tort setting.</p>
+        <p>Third, and following from the first two points, tort damages tend to be highly
+variable. Juries lack reference points, so their judgments will depend heavily on the
+presentation of evidence by lawyers, and on whatever anchors,158 prejudices, and
+expectations citizens bring to the jury box. Juries might also react emotionally to the case,
+or misunderstand jury instructions, and allow irrelevant factors (like a desire for revenge)
+to influence their determination of the award.</p>
+        <p>Fourth, tort law has low public visibility, at least at the system-wide level.
+Individual awards may receive considerable public attention, but the system of awards—
+the median award, the mean award, the variance—does not.159 Hence public scrutiny is
+relatively weak unless and until a salient network of awards (as in the case of the
+September 11 fund) is announced. The difficulties of monetization, the variable figures,
+and the possible arbitrariness of many outcomes attract little in the way of scrutiny and
+review, not least because of the ex post nature of litigation and the fact that awards are
+issued one at a time.</p>
+        <p>Compare regulatory law. Regulatory decisions are ex ante and highly abstract.
+The victims of the regulated conduct are not identified, and so their personal
+characteristics do not stand out (although sometimes a disaster or crisis may provoke the
+regulation160). Whereas court cases are emotionally rich, regulatory decisions often
+(though not always) seem dry and technical, even though usually much more is at stake.</p>
+        <p>The ex ante and general orientation of regulatory policy has several consequences.
+First, because one cannot identify the actual people benefited by a regulation, one must
+rely on averages. The usual notion is that although all individuals are different,
+differences will balance each other out, so that averages can be used. Thus, if a regulation
+protects people of type X with a VSL of $7 million and people of type Y with a VSL of
+$5 million, regulators use the average valuation of $6 million for a regulation that affects
+people evenly divided into the two types.
+158 On the relevance of anchors, see Gretchen Chapman and Eric Johnson, in Heuristics and Biases: The
+Psychology of Intuitive Judgment (Thomas Gilovich et al. eds. 2002).
+159 Indeed, the extreme awards that receive media attention are, according to some, too rare to be a matter
+of concern. See Deborah Jones Merritt and Kathryn Ann Barry, Is the Tort System in Crisis? New
+Empirical Evidence, 60 Ohio St. L.J. 315 (1999). A similar argument has been made about punitive
+damages; see Theodore Eisenberg, Neil LaFountain, Brian Ostrom, David Rottman, and Martin T. Wells,
+Juries, Judges, and Punitive Damages: An Empirical Study, 87 Cornell L. Rev. 743 (2002) (arguing that
+punitive damages are roughly correlated with compensatory damages); but see and Joni Hersch and W. Kip
+Viscusi, Punitive Damages, 33 J. Legal Stud. 1 (2004) (disputing this claim).
+160 See Timur Kuran and Cass R. Sunstein, Availability Cascades and Risk Regulation, Stan L Rev (1999).</p>
+        <p>This reasoning is not implausible, and sometimes averages are appropriate despite
+their crudeness; but they can lead regulators astray. Some regulations affect only persons
+of type X, and other regulations affect only persons of type Y; then different valuations
+should be used. Indeed, we know that some regulations protect people against cancer, a
+risk that people are willing to pay a premium to avoid, whereas other regulations protect
+people against sudden unanticipated death, a risk that occasions less in the way of public
+concern.161 So too, some regulations affect the poor more than the rich, urban people
+more than rural people, and so forth. Under the very theory that animates current
+regulatory practice, individualized VSLs, taking account of these differences, are
+important.</p>
+        <p>Second, regulatory decisions affect more people than a tort award does, and thus
+are more politically salient. The greater political salience of regulatory decisions may
+have good effects simply because public scrutiny can be a corrective against ill-motivated
+or foolish decisions; but here we focus on some bad or troubling effects. The most
+obvious is that the symbolism of sensible and disaggregated regulatory decisions may
+bother people because such decisions seem in conflict with other values—here, we have
+in mind the controversy valuing human lives at all, or the likely more intense controversy
+over valuing the lives of the rich more than the lives of the poor.162 The risks of public
+skepticism may also explain agencies’ failure to value the lives of children properly and
+openly.</p>
+        <p>By contrast, the isolation of tort awards suppresses these symbolic concerns.
+Almost no one complains about the fact that poor people obtain lower damages in tort
+awards because they have lost less future income; and the existence of the disparity, and
+its longstanding character, at least raises problems for those who believe that ethical
+principles require all deaths to be valued the same way. But it appears to be politically
+difficult to draw the logical conclusion that VSLs for poor people should be lower than
+VSLs for rich people in regulatory decisionmaking.
+161 See Revesz, supra note; Hammit and Liu, supra note.
+162 Consider the controversy over the idea of “life years,” an idea that strikes many people as ethically
+problematic because it treats elderly people as less valuable than younger people. See Ackerman and
+Heinzerling, supra note.</p>
+        <p>We are unable to explain why agencies have neglected the losses to dependents.
+One possible answer is that agencies assume that victims’ WTPs for bearing risks of
+death incorporate these costs; but as we have explained, it is unlikely that these WTPs
+incorporate these costs fully. Another possible answer is lack of information; it is not
+easy to generate a plausible number to capture the costs to dependents on some
+population-wide basis. But this problem ought to be remediable. A probable contributor
+to the gap is that cost-benefit analysis and the use of VSLs is in its infancy—as a formal
+part of regulatory law, it is only about twenty-five years old163—and agencies have
+focused on the large problems while neglecting or overlooking more subtle issues. But it
+is now time for the VSL methodology to advance to a new stage of sophistication.</p>
+        <p>B. September 11 and Compensation</p>
+        <p>The different orientations of tort and regulatory law were reflected in an
+interesting way by the decisionmaking process of the commission that was set up to
+award compensation to victims of the 9/11 terrorist attack. We have briefly outlined the
+resulting regulations. Before returning to this topic, let us conduct two thought
+experiments.</p>
+        <p>First, suppose that Congress had never set up the 9/11 compensation fund, and
+instead the victims and survivors had sued under state tort law. Suppose they succeeded
+in establishing the liability of defendants such as the airlines. How would damages have
+been awarded? It is clear that wealth differences would have been seen in wrongful death
+and survivors’ awards. The dependents of investment bankers would have obtained
+awards far in excess of those obtained by the dependents of fire fighters. In addition, the
+awards would have varied significantly in light of the different characteristics of each
+victim. But there also would have been considerable inexplicable variance in the awards,
+variance that would not be traceable to relevant factors but to the vagaries of jury
+decisionmaking and the law of tort. Hence inequalities would have been pervasive—
+some a justified product of existing rules, others a result of simple “noise” in the system.</p>
+        <p>Second, suppose that an agency had, prior to the 9/11 attack, issued regulations
+designed to force the owners of buildings such as the World Trade Center to install safety
+devices that would have saved lives in case of a terrorist attack or similar disaster. Here,
+163 See Executive Order 12291, supra.
+we can be sure that the agency would have used uniform valuations—such as $6.1
+million per life saved—that would have ignored wealth differences and other differences
+between victims. The agency would also have ignored dependents.</p>
+        <p>How did the 9/11 commission make its decisions? On the one hand, the
+commission was directed by Congress to rely on tort principles, and for that reason it
+used formulas that took into account wealth differences.164 Estates of investment bankers
+did receive more compensation than estates of fire fighters.165 In addition, awards were
+an increasing function of the number of dependents. On the other hand, public and
+political discomfort with these disparate awards—which seemed to dishonor the fire
+fighters, and also to distinguish victims along class lines—led the commission to adopt
+awards that were less dispersed than would have occurred under the tort system.166</p>
+        <p>There is a lesson here. Because individual tort cases concern just one person or a
+few people, awards are unlikely to be politically salient or to be influenced by irrelevant
+political considerations. But because they are ex post and individualized, they usually fail
+to take advantage of information that is accessible only at the level of the general
+population. The 9/11 Commission combined the virtues and flaws of both approaches.
+Because of the political salience of the task, and because awarding damages to thousands
+of people made comparison easy and obvious, the commission was constrained, like
+regulatory agencies, to use relatively uniform numbers; recall that a standard number was
+used for noneconomic damages. At the same time, arbitrariness was therefore limited—in
+the sense that people in similar circumstances received similar awards. Because the
+commission was directed to use tort principles, the numbers were not fully uniform, and a
+degree of individual variation was properly allowed. But the use of tort principles also
+made it impossible to use figures for hedonic losses, and instead the commission relied
+on flawed figures such as lost income, with the result that average awards—in the $2 to
+164 See Explanation of Process for Computing Presumed Economic Loss, available at
+http://www.usdoj.gov/victimcompensation/loss_calc_deceased.html.
+165 For example, the spouse of a 40 year old with an income of $50,000 would receive a little over $1
+million, whereas the spouse of a 40 year old with an income of $225,000 would receive about $3.5 million
+– not including non-economic loss. See Explanation of Process for Computing Presumed Economic Loss,
+supra.
+166 See Chen, Man Behind, supra, at B3 (“The statute suffered from two conflicting impulses: to follow the
+standards of lost future income typical in tort cases, while at the same time making the fund fair to all
+income groups, Mr. Feinberg [the special master] said. He ultimately devised the program to prevent it
+from favoring the wealthy over the financially disadvantaged, he said.”)
+$3 million range—were less than the hedonic losses that actually occurred, according to
+the VSL methodology used by agencies.167</p>
+        <p>In normal situations, significant improvements are possible. Courts can, and ought
+to, take advantage of information about average persons when the relevant information
+about a particular victim is lacking (such as WTP to avoid the risk that produced
+death).168 And although politics will always constrain agencies, there are certainly many
+steps that agencies can take to improve their use of VSLs without running afoul of
+political constraints. At a minimum, we see no reason why agencies cannot estimate the
+losses to dependents of people who are killed by regulated conduct, and it seems likely to
+us that at least some kinds of individualization will be possible—by, for example, giving
+a premium for risks that are especially dreaded.</p>
+        <p>Conclusion</p>
+        <p>In the United States, two independent bodies of law assign dollar values to deaths.
+Regulatory agencies, drawing on willingness to pay studies, use a uniform number that
+takes no account of losses to dependents and others. In wrongful death actions, courts
+attempt to compensate survivors, failing to incorporate the loss to the decedent and
+ensuring a high degree of variability in awards. For both bodies of law, deterrence is an
+important goal, and from the standpoint of deterrence, both make serious blunders. And
+for both, a key question is how to combine accuracy and administrability.</p>
+        <p>There are two central problems with regulatory law. First, the value of a statistical
+life is uniform rather than disaggregated. The very theory that underlies current practice
+calls for far more in the way of individuation. Second, agency figures do not include the
+losses to dependents and others; the result is underdeterrence. We have made suggestions
+about how agencies might remedy these two problems. The central problem with tort law
+is that it does not include the welfare loss to the decedent; its current reliance on the
+decedent’s pre-death losses and the dependents’ losses results in undervaluation of
+167 And, bizarrely, death benefits for soldiers and public safety officials as the basis for non-economic, that
+is, mental distress, compensation for the dependents of victims. See Explanation of Process for Computing
+Presumed Economic Loss, supra.
+168 Compare the proposal of Baldus et al., supra.
+morality risks, and hence underdeterrence. We have also made suggestions about how
+both bodies of law should deal with the deaths of children and foreigners.</p>
+        <p>If our recommendations were accepted, we would expect tort awards to become
+higher, more uniform, and less arbitrary than they currently are. We would also expect
+VSLs used by regulatory agencies to be more variable—in many cases lower and in many
+cases higher. The inclusion of losses to dependents should result in more stringent
+regulations, as the effective benefit from a life saved would be increased.</p>
+        <sec id="sec-3-7-1">
+          <title>Readers with comments should address them to: Eric A. Posner University of Chicago Law School 1111 East 60th Street</title>
+        </sec>
+        <sec id="sec-3-7-2">
+          <title>Cass R. Sunstein</title>
+          <p>University of Chicago Law School
+1111 East 60th Street
+Chicago, IL 60637
+csunstei@midway.uchicago.edu
+10.
+216.
+217.
+218.
+221.
+222.</p>
+        </sec>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list/>
+  </back>
+</article>

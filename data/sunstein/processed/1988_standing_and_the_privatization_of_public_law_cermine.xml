@@ -1,0 +1,2268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>This Article is brought to you for free and open access by the Faculty Scholarship at Chicago Unbound. It has been
+accepted for inclusion in Journal Articles by an authorized administrator of Chicago Unbound. For more
+information</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Chicago Unbound</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <string-name>Recommended Citation</string-name>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Faculty Scholarship</institution>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>1988</year>
+      </pub-date>
+      <volume>88</volume>
+      <fpage>1440</fpage>
+      <lpage>1481</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>It is ironic that during the early period of administrative law,
+doctrines controlling regulatory agencies were built directly on
+commonlaw principles that administrative regulation was self-consciously
+designed to displace.' Not until the 1960s did courts, in concert with
+Congress, begin to develop an independent public law-a set of
+principles that owed their origin not only to traditional private law, but also
+to the ideas that gave rise to administrative regulation in the first
+place.2 At their best, the emerging principles revealed an
+understanding of the functions and malfunctions of regulation, the potential
+dangers of inaction and deregulation as well as overzealous intervention,
+the risks and possibilities of judicial control, the appropriate roles of
+politics and technical sophistication in the administrative process, and
+the extent to which regulatory systems repudiated the premises of
+market ordering that had been built into common-law principles. 3</p>
+      <p>The last decade has seen preliminary signs of a countermovement,
+with courts reorienting administrative law in the direction of ideas that
+last appeared in the initial encounters between the judiciary and the
+administrative state. 4 Some of those signs have been especially
+con* Professor of Law, Law School and Department of Political Science, University of
+Chicago. I am grateful to Bruce A. Ackerman, Akhil Amar, David P. Currie, Frank H.
+Easterbrook, Richard Fallon, Larry Kramer, Michael W. McConnell, Daniel Meltzer,
+Martha Minow, Richard A. Posner, Richard B. Stewart, David A. Strauss, and Joseph
+Vining for helpful comments on a previous draft; and to Margaret Antinori for valuable
+research assistance.</p>
+      <p>1. Examples include principles of standing, scope of review, ripeness, and
+reviewability, as well as interpretation of the due process clause and of article III. See J.
+Vining, Legal Identity (1978) (discussing standing); Stewart, The Reformation of
+American Administrative Law, 88 Harv. L. Rev. 1667 (1975) (discussing standing, due process,
+and reviewability); see also infra notes 8-25 and accompanying text (tracing
+development of standing).</p>
+      <p>
+        2. Some of these developments are treated in J. Vining, supra note 1; Stewart,
+supra note 1; Sunstein, Deregulation
+        <xref ref-type="bibr" rid="ref10">and the Hard-Look Doctrine, 1983</xref>
+        Sup. Ct. Rev.
+177.
+      </p>
+      <p>3. See sources cited supra note 2.</p>
+      <p>4. See infra notes 88-136 and accompanying text; see also Heckler v. Chaney, 470
+U.S. 821, 832 (1985) (holding agency inaction presumptively unreviewable); cf. Meltzer,
+Deterring Constitutional Violations by Law Enforcement Officials: Plaintiffs and
+Defendants as Private Attorneys General, 88 Colum. L. Rev. 247, 295-313 (1988)
+(criticizing asymmetry between rights of defendants to seek deterrent remedies and judicial
+skepticism toward deterrent suits brought by plaintiffs). The Court has also
+reinvigorated separation of powers obstacles to legislative experimentation with the
+administrative process, though the recent decisions call into play distinct problems of
+congressional usurpation of executive power. See, e.g., Bowsher v. Synar, 478 U.S. 714
+(1986) (invalidating Gramm-Rudman statute); INS v. Chadha, 462 U.S. 919 (1983)
+(invoking separation of powers objections to legislative veto); cf. Morrison v. Olson, 108 S.
+Ct. 2597, 2620-22 (1988) (upholding independent counsel act, in part because
+spicuous in the Supreme Court's standing decisions. 5 Recent and still
+quite tentative innovations in the law of standing have started to push
+legal doctrine in the direction of what we may call a private-law model
+of standing. Under this model, a nineteenth century private right is a
+predicate for judicial intervention; as a result, courts may not redress
+the systemic or probabilistic harms that Congress intended regulatory
+schemes to prevent.</p>
+      <p>Not fully developed until the New Deal, the private-law model
+played a large role in legal doctrine between the late 1930s and the
+early 1960s. The principal problem with that model-widely
+recognized in the 1960s and 1970s-was that it distinguished sharply
+between the legal rights of regulated entities on the one hand and those
+of regulatory beneficiaries on the other. The interests of regulated
+industries could be protected through the courts, whereas the interests of
+regulatory beneficiaries were to be vindicated through politics or not at
+all.</p>
+      <p>The private-law model was correctly repudiated in a series of
+developments culminating in the 1970s. While the model is often
+justified by reference to the case or controversy requirement of article III,
+there is in fact no basis in that article or in any other provision of the
+Constitution for the view that the private-law model is constitutional in
+status. For purposes of standing, the principal question should be
+whether Congress has created a cause of action, through the
+Administrative Procedure Act 6 (APA) or otherwise, not whether the plaintiff is
+able to invoke a nineteenth century private right.7 If the law were
+reoriented in this way, existing doctrine would be greatly simplified; and
+a focus on congressional enactments would reveal that the Court's
+current approach has resulted in some decisions denying standing when it
+Congress did not usurp executive prerogatives). Some of these ideas retain vitality. See
+Strauss, Formal and Functional Approaches to Separation-of-Powers Questions-A
+Foolish Inconsistency?, 72 Cornell L. Rev. 488,496-502 (1987) (defending the result in
+Bowsher and the continued use of separation of powers principles, understood in
+functional terms, to limit congressional initiatives).</p>
+      <p>5. For various evaluations, see Fallon, OfJusticiability, Remedies and Public Law
+Litigation: Notes on the Jurisprudence of Lyons, 59 N.Y.U. L. Rev. 1 (1984); Nichol,
+Causation as a Standing Requirement: The Unprincipled Use ofJudicial Restraint, 69
+Ky. L.J. 185 (1981); Nichol, Abusing Standing: A.Comment on Allen v. Wright, 133 U.
+Pa. L. Rev. 635 (1985) [hereinafter Abusing Standing]; Scalia, The Doctrine of Standing
+as an Essential Element of the Separation of Powers, 17 Suffolk U.L. Rev. 881, 897-99
+(1983).</p>
+      <p>6. 5 U.S.C. § 702 (1982).</p>
+      <p>7. There is a difference between the principles governing standing in the areas of
+administrative and constitutional law-mosdy because the APA creates distinctive
+standing doctrines for review of agency behavior and partly because efforts to require
+administrative agencies to comply with the governing statute raise considerations different
+from those raised by efforts to require Congress or the executive branch to comply with
+the Constitution. See infra note 197. For the most part, this discussion focuses on
+principles of standing in administrative law, although constitutional principles are frequently
+introduced.
+ought to have been granted, and others granting standing when it
+ought to have been denied.</p>
+      <p>This Article is organized in three parts. Part I traces the evolution
+of modem standing doctrine, outlining its original roots in private law,
+the creation of a novel set of standing limitations in response to the
+New Deal, and the development of an independent public law of
+standing in the 1960s and 1970s. Part II discusses the recent revival of
+private law understandings and the principles of separation of powers that
+appear to underlie that revival. Part III criticizes the recent
+developments, describes the appropriate contours of standing requirements in
+administrative law cases, and concludes with a discussion of the
+relationship between article III and standing doctrine.</p>
+      <p>I. PRIVATE LAW, PUBLIC LAW, AND THE EVOLUTION</p>
+      <p>OF STANDING DOCTRINE</p>
+      <p>For most of the nation's history, there was no distinctive body of
+standing doctrine. Whether there was standing depended on whether
+positive law created a cause of action.8 In the modem period, however,
+judicial review of administrative action has been an outgrowth of a
+simple framework.9 If administrators intruded on interests protected at
+common law, judicial review was available to test the question whether
+there was statutory authorization for what would otherwise be a
+common-law wrong. If no common-law right were at stake, judicial
+protection was unavailable. The most distinctive feature of this framework
+was the use of common-law understandings to define the judicial role in
+public-law cases.</p>
+      <p>The basic framework was built on an analogy and an identifiable
+underlying theory. The analogy was to private law, in which the issues
+of standing, cause of action, and the merits are closely intertwined. In
+an action in which A causes an injury to B, the question whether B has a
+cause of action overlaps a great deal with the question whether B has
+standing and whether B is correct on the merits. For all three issues,
+the question is whether A has violated a duty it owes to B. C, an affected
+third party, generally may not bring suit when A injures B-even if C is
+8. See Berger, Standing to Sue in Public Actions: Is it a Constitutional
+Requirement?, 78 Yale LJ. 816, 839 (1969);Jaffe, The Citizen as Litigant in Public Actions: The
+Non-Hohfeldian or Ideological Plaintiff, 116 U. Pa. L. Rev. 1033, 1044 (1968); Winter,
+The Metaphor of Standing and the Problem of Self-Governance, 40 Stan. L. Rev. 1371,
+1395-96 (1988).</p>
+      <p>9. The discussion here draws onJ. Vining, supra note 1; Stewart, supra note 1. The
+tradition of prerogative writs-most notably mandamus-provided a different
+framework, one that allowed a variety of actions when no common-law right was at stake. See
+infra note 19. The existence of the writ tradition, especially at the origin of the republic,
+makes it extremely awkward to suggest that modern notions of injury in fact, see infra
+notes 52-55 and accompanying text, have constitutional status. See Berger, supra note
+8; Jaffe, supra note 8; Winter, supra note 8.
+materially affected. 10 At private law, there is no need for a distinctive
+set of principles to govern standing.</p>
+      <p>In the early period of administrative regulation, similar ideas were
+at work in public law. II A prospective litigant could not bring suit if the
+government had regulated, or failed to regulate, some entity, even if
+the interests of the prospective litigant had been substantially and
+materially affected. At both private and public law, the question was not
+whether the litigant was harmed or whether the governmental or
+nongovernmental defendant acted unlawfully, but whether the government
+breached some duty owed to the litigant. If the litigant had no
+common-law interest at stake-if it was not the "object" of the
+regulation 12 -courts saw no legal duty suitable for legal redress. Illegality in
+the abstract was not an appropriate concern of the courts. Since the
+line between legal injury and injury in the abstract was defined by
+reference to the common law, the interests of statutory beneficiaries were
+invisible as far as the courts were concerned.</p>
+      <p>The underlying theory was based on notions of social contract.
+When citizens entered into civil society from the state of nature, they
+did so with certain rights.' 3 The state could not interfere with those
+rights except on a showing of collective authorization for the
+interference-legislative action combined with proper executive
+implementation. The relevant category of interests consisted of the rights of
+private property and liberty that had existed in the state of nature. If
+no such interest was at stake, there was simply no predicate for legal
+intervention. Common-law interests, or traditional private rights, were
+thus sharply distinguished from statutory benefits for purposes of
+standing.</p>
+      <p>It should be unsurprising that this framework operated at the same
+time as-indeed was a part of-the set of ideas associated with the
+Lochner era.1 4 When the Supreme Court invalidated social and
+economic regulation associated with the progressive and New Deal
+periods, it did so by invoking common-law categories in order to test the
+10. An exception is the third-party beneficiary doctrine in contract law. See E.
+Farnsworth, Contracts § 10.5 (1982).</p>
+      <p>11. Inroads on the framework began in The Chicago Junction Case, 264 U.S. 258
+(1924) (allowing standing for competing carriers to challenge acquisition approval by
+ICC), though the private-law understanding played a large role until the 1960s. See
+infra notes 26-67 and accompanying text.</p>
+      <p>12. The understanding of who is an object of regulation turns on an antecedent
+baseline-the nineteenth century common law-establishing the ordinary or natural
+functions of government. Under an alternative baseline, however, any beneficiary left
+unprotected by government might be treated as an object of the inadequate protection.
+See Sunstein, Lochner's Legacy, 87 Colum. L. Rev. 873 (1987) (discussing role of
+baselines in standing and other areas of public law); infra notes 61-63 and accompanying
+text. For a defense of the old view, see Scalia, supra note 5, at 887 &amp; n.28.
+13. See Stewart, supra note I, at 1672-73.</p>
+      <p>14. So-called after Lochner v. New York, 198 U.S. 45 (1905) (state law regulating
+working hours unconstitutional).
+validity of public law. 15 Intrusions on common-law interests, or
+departures from common-law principles, were thought to require special
+justification; by contrast, adherence to the common law was seen as
+unobjectionable neutrality. The use of common-law notions, sharply
+distinguishing between statutory benefits and nineteenth century
+private rights, was the central mark of the jurisprudence of the Lochner
+1 6
+period.</p>
+      <p>In the context of standing, this view had two principal implications.
+First, regulated entities-industries and others who were the object of
+regulation-had access to court to challenge agency action as
+unlawfully infringing on their common-law rights. In such cases, there was
+no problem of standing. Regulated entities were usually in the position
+of actual or prospective defendants, and there was little doubt that
+defendants had standing to resist coercive governmental action-a view
+with constitutional foundations.1 7 Second, the interests of competitors
+and regulatory beneficiaries1 8 were not legally cognizable. t 9 Those
+interests, treated as privileges or legal gratuities, were to be vindicated
+through the political process or not at all. We may describe the
+resulting framework-an ambiguous amalgam of federal common law,
+statutory construction, and constitutional law-as a private-law model of
+public law.</p>
+      <p>Another, quite different idea was at work here as well. Many
+judges who were hospitable toward administrative regulation sought to
+develop devices to minimize legal or judicial intrusions into the
+regula15. See generally L. Tribe, American Constitutional Law § 1-3, at 5, § 1-4, at 76-77
+(2d ed. 1988) (describing the Lochner-era"belief that property and its contractually
+realizable advantages were attributable to some natural order to things implicit in a revealed
+structure of common-law rights"); Sunstein, supra note 12, at 879 (common law formed
+"baseline from which to measure deviations from neutrality, or self-interested 'deals' ").
+16. See Sunstein, supra note 12, at 874.
+17. See Yakus v. United States, 321 U.S. 414 (1944).</p>
+      <p>18. Competitors and beneficiaries were considered to be "bystanders," an idea that
+depended on an assortment ofunarticulated substantive conclusions. But the
+characterization of a claim as that of a bystander operates as a conclusion or an epithet rather
+than as an analytical device. There is no prepolitical or prelegal way to decide who is a
+bystander; the term is a function of law, not of anything in the world that is independent
+of the legal system. See Havens Realty Corp. v. Coleman, 455 U.S. 363, 373 (1982)
+(indicating that statute may create an injury where none existed before).</p>
+      <p>19. See, e.g., Alabama Power Co. v. Ickes, 302 U.S. 464, 479-80 (1938)
+(competitors). An exception here can be found in the law of mandamus. As a historical matter,
+mandamus remedies quite generally permitted suits to compel government action. See
+L. Jaffe, Judicial Control of Administrative Action 468-69 (1965). But the Supreme
+Court ruled in an early case that federal courts do not have general authority to issue
+writs of mandamus, McIntire v. Wood, 11 U.S. (7 Cranch) 503, 504 (1813), and in any
+case, mandamus could not control discretionary decisions. See Wilbur v. United States
+ex rel. Kudrie, 281 U.S. 206, 218 (1930);Jarrett v. Resor, 426 F.2d 213, 216 (9th Cir.
+1970). Note, however, that such rulings were interpretations of positive law, and
+therefore of congressional intent, not of article III.
+tory process. 2 0 This development was a conspicuous part of the New
+Deal attack on legalism and the judiciary. That attack had substantive
+and institutional dimensions. The substantive dimension consisted of a
+belief that the nineteenth century catalogue of common-law rights was
+hardly natural; instead, it was a controversial regulatory system. In the
+view of the New Deal reformers, the common law was inadequate as
+such because it was excessively protective of property rights,
+insufficiently protective of the disadvantaged, and ill-adapted to economic
+welfare in an integrated national economy. 2 1 The institutional
+dimension consisted of an attack on the judicial system in favor of regulatory
+agencies, which were to be democratically controlled, technically
+expert, self-starting, and free of the traditional constraints of
+adjudication. Taken in concert, these ideas provided much of the impetus for
+administrative regulation. 2 2</p>
+      <p>Against this background, courts favorably disposed toward the
+New Deal reformation developed doctrines of standing, ripeness, and
+reviewability largely to insulate agency decisions from judicial
+intervention. 23 Such doctrines were used enthusiastically by judges associated
+with the progressive movement and the New Deal, most prominently
+Justices Brandeis and Frankfurter, who reflected the prevailing belief
+that traditional conceptions of the rule of law were incompatible with
+administrative regulation. 24 In this view, the interests supporting the
+20. See Joint Anti-Fascist Refugee Comm. v. McGrath, 341 U.S. 123, 154-55
+(1951) (Frankfurter, J., concurring) (upholding agency action by denying standing in
+part because challenged action was not final); Ashwander v. Tennessee Valley Auth., 297
+U.S. 288, 341-45 (1936) (Brandeis, J., concurring) (upholding agency's dealings with
+corporation by denying standing to corporate stockholders); cf. Fairchild v. Hughes, 258
+U.S. 126, 129-30 (1922) (dismissing prospective challenge to constitutional amendment
+and its enforcement by attorney general, by denying standing to plaintiff); Wilson v.
+Shaw, 204 U.S. 24, 30-31 (1907) (upholding agency action, in part because injunctive
+relief is inappropriate remedy to protect citizen against wrongful government act).
+Notably, in McGrath,Ashwander, and other cases, a majority of the Supreme Court rejected
+the Brandeis-Frankfurter position and allowed standing in cases that plausibly amounted
+to taxpayer suits. These and other aspects of the development of standing limitations
+are illuminatingly discussed in Winter, supra note 8.</p>
+      <p>One of the most influential achievements of A. Bickel, The Least Dangerous Branch
+(1962), was to generalize the Brandeis-Frankfurter position on standing, to remove it
+from its context, and to give it a life entirely independent of New Deal concerns. Id. at
+113-27.</p>
+      <p>21. See Sunstein, Constitutionalism After the New Deal, 101 Harv. L. Rev. 421,
+423, 437-40 (1987). In this respect, there is an alliance among Shelley v. Kraemer, 334
+U.S. 1 (1948), Erie R.R. v. Tompkins, 304 U.S. 64 (1938), and West Coast Hotel v.
+Parrish, 300 U.S. 379 (1937)-all of which recognized that the common law is a
+regulatory system and hardly prepolitical.</p>
+      <p>22. See Sunstein, supra note 21, at 424-25, 440-46.</p>
+      <p>23. See cases cited supra note 20 (cases involving standing); Switchmen's Union v.
+National Mediation Bd., 320 U.S. 297 (1943) (reviewability); FCC v. CBS, 311 U.S. 132
+(1940) (reviewability); Myers v. Bethlehem Shipbuilding Corp., 303 U.S. 41 (1938)
+(reviewability and ripeness).</p>
+      <p>24. See J. Landis, The Administrative Process 30-46 (1938) (common law wholly
+rise of regulation-technocratic expertise, flexibility, and political
+accountability-argued strongly against judicial interference. 2 5 This view
+has enjoyed a kind of renaissance in recent years, though from judges
+with a quite different political orientation.</p>
+      <p>The private-law model of standing thus reflected a confluence of
+two sets of ideas, both closely associated with the Lochner era and the
+New Deal attack on the jurisprudence of Lochner. The first, prominent
+in Lochner itself, was that the judiciary existed largely to protect
+common-law interests from governmental incursions. The common law
+formed the baseline from which courts distinguished between
+government inaction and action or neutrality and partisanship. For this
+reason, intrusions on common-law rights, and not on other sorts of
+interests, served to trigger judicial protection. The second idea-a
+reaction against Lochner on the part of those hospitable to the
+administrative state-was that doctrines of justiciability, including standing,
+should be designed to minimize the occasions for judicial intervention
+into the regulatory process.</p>
+      <p>The advocates ofjudicial control, hostile to administrative
+regulation, saw no need for judicial intervention in order to safeguard the
+interest in regulatory protection. And in light of the recent history,
+those favorable to regulation were highly suspicious of the courts. The
+idea that courts might intervene to protect regulatory beneficiaries
+from a recalcitrant agency was entirely foreign to their experience. As a
+result, there was mutual agreement on the private-law model from
+those who believed in the need for a continuing role for the legal
+system in supervising administrative regulation, and those who thought
+that adjudicative controls were to a large degree anachronistic. The
+consequence of the convergence of these ideas was that those without a
+common-law interest were unable to seek judicial relief. At the time, it
+was unclear whether this framework was rooted in federal common law
+or statutory construction-or instead whether it amounted to a largely
+revisionist reading of article 111.26</p>
+      <p>In two basic steps, courts abandoned this model. The first was the
+conclusion that interests protected by statute were also judicially
+cognizable.2 7 If the interest of a prospective litigant in freedom from
+compeinadequate as regulatory scheme); Sunstein, supra note 21, at 440-42 (describing New
+Deal attack on common law and on traditional notions of separation of powers); Winter,
+supra note 8, at 1455-57 (discussing use of standing by Brandeis and Frankfurter to
+protect legislative sphere); supra note 20 (same).</p>
+      <p>25. SeeJ. Landis, supra note 24, at 10-46.</p>
+      <p>26. See Winter, supra note 8, at 1394-96 (original conception of article III did not
+limit standing to those with common-law injuries); infra notes 205-32 and
+accompanying text.</p>
+      <p>27. See The Chicago Junction Case, 264 U.S. 258, 262-69 (1924) (allowing
+standing based on provisions of Transportation Act and Judicial Code). It may have been
+thought here that competition among the objects of regulation, including monitoring of
+compliance with regulation, would ultimately serve to protect the public as a whole.
+tition was a factor made relevant by the governing statute-if the
+agency was required by law to take that factor into account in deciding
+the merits-the litigant would have access to court in order to vindicate
+its interest.28 In such a case, the litigant would not have to show that a
+common-law interest was at stake.</p>
+      <p>The second step was the recognition of "surrogate standing," by
+which Congress could allow certain plaintiffs to bring suit to vindicate
+the claims of the public at large even though they did not themselves
+have a statutorily protected interest. This principle applied when an
+organic statute granted standing to anyone "who is aggrieved or whose
+interests are adversely affected." 2 9 Thus, for example, competitors of a
+radio station would have standing to protect the interests of listeners
+under the FCC statute.3 0</p>
+      <p>Under this framework, it was not always necessary for Congress
+expressly to confer a right to bring suit on the plaintiff. The existence
+of an interest protected by statute was sufficient. Courts treated the
+congressional desire to protect a statutory interest as an implicit grant
+of a right to bring suit. The requirements for an implicit cause of
+action were thus quite lenient.31</p>
+      <p>Moreover, the existence of an interest protected at common law
+was sufficient to confer standing, even if there was no particular
+evidence of congressional intent to allow the action to go forward. This
+conclusion reflected a background understanding, not traceable to
+statute, that the objects of regulation should ordinarily be permitted to
+raise the question whether there was legal authorization for intrusion
+on common-law interests. This understanding, part of the private-law
+model and emphasized in the New Deal period, was probably a product
+of a constitutional concern. If those seen as the objects of regulation
+were prohibited from seeking judicial review to protect liberty or
+prop28. Id.</p>
+      <p>29. E.g., Communications Act of 1934, 47 U.S.C. § 402(b)(6) (1982 &amp; Supp. III
+1985).</p>
+      <p>30. FCC v. Sanders Bros. Radio Station, 309 U.S. 470, 476-77 (1940).
+31. See infra note 37 (discussing legislative history of the APA). Modern law
+reflects a striking contrast here. See, e.g., Clarke v. Securities Indus. Ass'n, 107 S.Ct. 750,
+758 n.16 (1987) (explicitly distinguishing existence of standing under APA from
+existence of implied cause of action); California v. Sierra Club, 451 U.S. 287 (1981) (no
+implied cause of action under section 10 of Rivers and Harbors Appropriation Act of
+1899); Transamerica Mortgage Advisors, Inc. v. Lewis, 444 U.S. 11 (1979) (no implied
+cause of action for damages under section 215 of Investment Advisors Act of 1940). It
+may be possible to explain this difference in standards by reference to the nature of the
+remedies being sought. Suits brought under the APA attempt to nullify administrative
+action; implied causes of action are frequently damage actions. This explanation fits
+well with Transamerica, in which the Court implied an equitable remedy for rescission,
+but refused to permit a damage action to go forward. Transamerica,444 U.S. at 18-24.
+On some of the difficulties with implied causes of action for damages, see Stewart &amp;
+Sunstein, Public Programs and Private Rights, 95 Harv. L. Rev. 1193, 1289-1315
+(1982).
+erty interests against unauthorized executive action, a serious
+constitutional question would be raised under both the due process clause and</p>
+      <p>In contrast, no similar question was thought to be raised by a
+measure preventing statutory beneficiaries from seeking judicial relief.
+Their interests were legal gratuities."3 In the modern period, however,
+serious constitutional problems might also be raised by congressional
+efforts to deny standing to those seeking governmental assistance in
+preventing illegality by third parties.3 4</p>
+      <p>Despite these complications, there was in this period a close
+association between the existence of an implied cause of action and the
+existence of standing. The question of standing turned on whether
+Congress had explicitly or implicitly granted the plaintiff a right to
+bring suit, at least if the notion of implicit grant is understood with the
+foregoing qualifications.35 That question was in turn informed largely
+by background understandings about the circumstances in which
+judicial relief should be available.</p>
+      <p>In 1946, Congress codified the various bases for standing outlined
+above in section 702 of the APA: "A person suffering legal wrong
+because of agency action, or adversely affected or aggrieved by agency
+action within the meaning of a relevant statute, is entitled to judicial
+review thereof."a The reference to legal wrong was meant to include
+'32. See Fallon, Of Legislative Courts, Administrative Agencies, and Article III, 101
+Harv. L. Rev. 915, 954-56 (1988) (discussing article III); Hart, The Power of Congress
+to Limit the Jurisdiction of Federal Courts: An Exercise in Dialectic, 66 Harv. L. Rev.
+1362 (1953) (discussing due process clause and article III).</p>
+      <p>33. See Hart, supra note 32, at 1384-85.</p>
+      <p>34. See infra note 222 and accompanying text. In the modem period, the
+distinction between the objects and beneficiaries of regulation has become problematic and
+largely anachronistic. See infra notes 62-63 and accompanying text. In this respect, the
+constitutional questions raised by a denial ofjudicial review and a denial of standing are
+quite similar. See Fallon, supra note 32, at 963-67; cf. Logan v. Zimmerman Brush Co.,
+455 U.S. 422, 430-31 (1982) (discussing "new property" cases putting statutory benefits
+on the same footing as common-law interests). Consider also the idea that under
+modem law, a "separate indication of congressional intent to make agency action reviewable
+under the APA is not necessary; instead, the rule is that the cause ofaction for review of
+such action is available absent some clear and convincing evidence of legislative
+intention to preclude review." Japan Whaling Ass'n v. American Cetacean Soc'y, 478 U.S.
+221, 231 n.4 (1986).</p>
+      <p>A central flaw in Hart, supra note 32, is its dependence on an anachronistic
+distinction between coercive and noncoercive governmental action. Id. at 1383. Hart suggests
+that whether there is a constitutional right to judicial review depends on whether or not
+the government is acting coercively, and he defines coercion by reference to
+commonlaw categories. Id. at 1387-1401. But in the post-New Deal era, such ideas cannot be
+sustained. Indeed, reliance on pre-New Deal understandings of legal rights pervades
+Hart's dialogue.</p>
+      <p>35. See Albert, Standing to Challenge Administrative Action: An Inadequate
+Surrogate for Claim for Relief, 83 Yale L.J. 425, 451-55 (1974); Currie, Misunderstanding
+Standing, 1981 Sup. Ct. Rev. 41, 42-44.</p>
+      <p>36. 5 U.S.C. § 702 (1982). It is incorrect to interpret the APA as incorporating an
+harm to common-law, statutory, and constitutional interests; in the
+setting of administrative law, the first two were by far the most important.
+The "adversely affected or aggrieved" language was designed to allow
+for surrogate standing if the organic statute provided such standing. 37
+There was no clear indication, in the text or history of the APA,
+whether and when the beneficiaries of regulation might have standing
+to vindicate legal requirements 3 8-though they too could easily be
+thought to suffer from a legal injury in the form of harm to their
+statutorily protected interests.</p>
+      <p>In the 1960s, courts interpreted the statutorily protected interest
+aspect of the legal-wrong test in order to reach precisely this
+concluinjury-in-fact standard like that subsequently adopted in Association of Data Processing
+Serv. Orgs., Inc. v. Camp, 397 U.S. 150, 152-53 (1970). The text and history of the APA
+suggest that it was intended instead to incorporate the framework deicribed above,
+supra text accompanying notes 27-35. For this reason, the treatment in Davis, The
+Liberalized Law of Standing, 37 U. Chi. L. Rev. 450, 452-53 (1970), is off the mark.</p>
+      <p>37. The legislative history of the APA is not clear, but it tends to confirm this
+reading.</p>
+      <p>The phrase "legal wrong" means such a wrong as is specified in section 10(e).
+It means that something more than mere adverse personal effect must be
+shown in order to prevail-that is, that the adverse effect must be an illegal
+effect. Almost any governmental action may adversely affect somebody-as
+where rates or prices are fixed-but a complainant, in order to prevail, must
+show that the action is contrary to law in either substance or procedure.
+Senate Comm. on the Judiciary, Administrative Procedure Act: Legislative History, S.
+Doc. No. 248, 79th Cong., 2d Sess. 276 (1946) [hereinafter APA Leg. History]. It is
+notable in this regard that the drafters of the APA expressly conflate the issue of
+standing with the merits. Id. at 212; see also id. at 368-69 (agencies "may not willfully act or
+refuse to act .... They may not take affirmative action or negative action without the
+factual basis required by the laws under which they are proceeding .... Legal wrong
+means action or inaction in violation of the law or the facts."); id. at 308-11 (noting that
+the "adjective 'legal' is a limiting adjective").</p>
+      <p>Consider also the analysis in the highly influential report of the Attorney General's
+Committee on Administrative Procedure:</p>
+      <p>The standing may be conferred by statute; but it frequently is not so conferred
+in specific terms. The question is then whether the person has otherwise a
+private right not to have the administrative body act in the allegedly unlawful
+manner.... Whether a particular person shall have the right to contest
+administrative action ... is a question of law and policy dependent on a number of
+variable factors. Consideration, though not conclusive, has been given, for
+example, to the nature and extent of the person's interest, and the character of
+the administrative act, whether it commands conduct by the person, permits
+conduct by his rival, withholds a service or benefit which the Government is
+free to withhold, and so forth.... Except in special cases, when special
+considerations require a contrary holding,judicial review within the usuallimits is
+appropriate whether the applicant seeks protection of a constitutionalright or of a statutory or
+common-law right, privilege, or bounty.</p>
+      <p>Att'y Gen. Comm. on Admin. Procedure, Final Report: Administrative Procedure in
+Government Agencies, S. Doc. No. 8, 77th Cong., 1st Sess. 84 (1941) [hereinafter Att'y
+Gen. Rep.] (emphasis added).</p>
+      <p>38. See APA Leg. History, supra note 37 (evidence of legislative intent to provide
+standing to beneficiaries); see also infra notes 45 &amp; 50 (same).
+sion, allowing regulatory beneficiaries to vindicate claims of
+administrative illegality. Thus, for example, viewers of television, victims of
+housing discrimination, and users of the environment were able to
+bring suit because their interests were statutorily protected.3 9 This
+conclusion was a natural and unsurprising interpretation of the
+legalwrong test, since beneficiaries, at least as clearly as competitors, were
+intended to be protected by regulatory statutes.40 Here too there was a
+connection between the question of standing and the existence of an
+implied cause of action; the existence of a statutorily protected interest
+was thought to create a legal wrong under the APA. 4 1 The existence of
+a common-law interest became a sufficient but not a necessary
+condition for legal protection.4 2 Eventually, the law no longer distinguished
+sharply between the interests of regulatory beneficiaries and those of
+regulated industries.</p>
+      <p>The shift of the 1960s and 1970s was attributable to a general
+consensus that, from the standpoint of the New Deal period, was quite
+puzzling. According to the emerging view, a belief in the rule of law was
+entirely compatible with a system of administrative regulation. Legal
+controls on regulatory agencies seemed well adapted to or even
+necessary for the successful implementation of statutory programs. Judges
+and others who rejected common-law baselines in general were thus
+well disposed toward legal intervention. In their rejection of the use of</p>
+      <p>40. See cases cited supra note 39.</p>
+      <p>41. Without the APA, this conclusion might have been controversial. The existence
+of an interest protected by statute need not imply a correlative right to bring an action to
+vindicate that interest. Some of the recent cases involving implied causes ofaction make
+this point dear. See cases cited supra note 31.</p>
+      <p>42. The development of the law here thus replicated the shifting definition of
+liberty and property interests during the same period. Originally those interests were
+defined by reference to the common law. In the late 1960s and 1970s, however, statutorily
+protected interests assumed constitutional status. See Perry v. Sindermann, 408 U.S.
+593, 599-603 (1972) (professor's interest in position under de facto tenure program is
+property interest); Goldberg v. Kelly, 397 U.S. 254, 260-66 (1970) (due process
+requires that welfare recipient be afforded evidentiary hearing before benefits can be
+terminated). Here too, courts made inroads on a private-law model of public law, and for
+many of the same reasons. The distinction between common-law and statutory interests
+does, however, persist in other areas of the law. See Commodity Futures Trading
+Comm'n v. Schor, 478 U.S. 833, 854 (1986) (noting that existence of interest protected
+at common law is relevant to availability of article III tribunal); Comment, Sovereign
+Immunity and Entitlement Benefits, 56 U. Chi. L. Rev. (forthcoming 1989) (discussing
+relevance of common-law interest in sovereign immunity doctrine).
+common-law baselines in the law of standing,4 3 they were conforming
+to the understandings that gave rise to regulation in the first place; but
+the new synthesis reflected a firm rejection of the New Deal belief in an
+inevitable disjunction between the realm of law and the realm of
+administrative government. The consequence Was that judicial checks
+became a significant part of the network of controls on administrative
+behavior, controls that were designed to promote as well as to check
+regulatory intervention. 44</p>
+      <p>Three particular ideas played a role in this shift. The first was an
+understanding that congressional purposes could be defeated not only
+by overzealous regulation, but also by unlawful failure to regulate or
+agency hostility to statutory programs. 45 If conformity to law was a
+goal of administrative law, there was no reason to distinguish between
+the beneficiaries and the targets of regulation. Far from being
+incompatible with the administrative process, some measure ofjudicial
+supervision appeared to be a means of promoting agency fidelity to statutory
+purposes.</p>
+      <p>The second idea derived from widespread (though not monolithic)
+evidence of the influence of regulated industries over regulatory
+programs.4 6 In the face of such evidence, it was most peculiar to suggest
+that regulated industries, and not regulatory beneficiaries, should have
+access to court. Political remedies were no more obviously available to
+regulatory beneficiaries than to regulated entities; indeed, the
+beneficiaries faced especially severe problems of political organization. 4 7 If
+an agency failed to implement a statutory program to the legally
+required degree, it was often unrealistic to expect the political process to
+provide relief. In any case, the possible availability of political remedies
+was not thought to be a reason to deny standing to regulated entities.
+In both cases, judicial review was a means of promoting agency
+conformity to the commands of the legislative process.</p>
+      <p>The final idea was that from the standpoint of the legal system, the
+claims of regulatory beneficiaries were of no less importance than those
+of regulated industries. The interests of victims of discrimination,
+pollution, unfair labor practices, securities fraud, and other statutory
+harms seemed no less deserving of legal protection than the
+commonlaw interests that had served as the traditional predicate for judicial
+review. This conclusion was a natural-indeed inevitable- outgrowth of
+the New Deal, which arose from a belief that the common-law catalogue
+of interests was inadequate.48</p>
+      <p>The conclusion that statutory and common-law interests should
+not be sharply distinguished seemed irresistible if importance was
+assessed by reference to the beliefs of Congress, which, after all, created
+the statutory programs. The limitation of standing to those having
+traditional common-law interests at stake appeared to depend on an
+anachronistic conception of legal rights traceable above all to the
+discredited jurisprudence of Lochner v. New York. 4 9 The attack on
+common-law baselines thus merged with an attack on the belief that
+administrative autonomy was the most promising institutional
+mechanism for producing the appropriate level of regulatory control.</p>
+      <p>It would have been possible for courts to use these ideas to build
+on the legal-wrong test in such a way as to grant statutory beneficiaries
+broad standing to bring suit. Because regulatory programs quite
+generally, and indeed by definition, reflect a desire to protect beneficiaries,
+allegations of inadequate regulatory action might always be thought to
+create a liegal wrong, and therefore standing, within the meaning of the
+Schlozman &amp;J. Tierney, Organized Interests and American Democracy 341-46 (1986);
+Stewart, supra note 1, at 1684-87. A particular difficulty here stems from the
+collectiveaction problems that impose severe transaction-cost barriers to organization on the part
+of beneficiaries. See R. Hardin, Collective Action 53-54 (1982); M.Olson, The Logic of
+Collective Action 22 (1971).</p>
+      <p>47. See R. Hardin, supra note 46; M. Olson, supra note 46.
+48. See Sunstein, supra note 21, at 423, 437-46.</p>
+      <p>49. 198 U.S. 45 (1905); see supra notes 14-16 and accompanying text; see also
+Fallon, supra note 32, at 963-67; Meltzer, supra note 4, at 304. This is the central error
+in Scalia, supra note 5, at 894, which argues that standing should be limited to those
+who have at stake "individual rights." See infra notes 182-88 and accompanying text.
+APA. 50 This conclusion, in fact reached in many lower court decisions
+in the 1960s, 51 would have had the advantage of promoting fidelity to
+the text and purposes of the governing provision of the APA. It would
+also have tied the problem of standing to the question whether
+Congress had explicitly or implicitly conferred on plaintiffs a right to bring
+suit.</p>
+      <p>The Supreme Court, however, took a different route to the
+revision of standing doctrine. In its decision in Association of Data Processing
+Service Organizationsv. Camp,5 2 the Court abandoned the previous
+framework altogether, signalling a significant departure from the private-law
+underpinnings of previous law. The Court replaced the legal interest
+test with a factual inquiry into the existence of harm; the existence of a
+"legal" interest was utterly irrelevant. 53 What was relevant was
+whether there was an injury in fact that was "arguably within the zone"
+of interests protected by the statutory or constitutional provision at
+issue.5 4 The Court therefore interpreted the APA to grant standing even
+if the particular substantive statute did not confer on plaintiffs a right to
+bring suit and indeed even if there was no legal interest at all.5 5</p>
+      <p>The "arguably within the zone of interests" requirement
+responded to some of the same concerns as the legal-interest test, and it
+too called for a degree of entanglement between standing and the
+merits; but the requirement was, by design, quite lenient, and involved only
+a brief examination of the statute to see if the plaintiff's interests were
+entirely far afield from the statutory purposes. 56 Notably, however,
+Data Processingwas styled as an interpretation of the APA. As such, it
+50. There is evidence that those responsible for the APA contemplated standing on
+the part of regulatory beneficiaries. The influential and contemporaneous Attorney
+General's Committee noted that judicial review "is adapted chiefly to curbing excess of
+power, not toward compelling its exercise." Att'y Gen. Rep., supra note 37, at 76. But
+it added that "if the denial[ofaction]is based on an erroneousinterpretationof law,judicialreview
+is available to remove at least that barrier." Id. at 86; see also supra note 37 (legislative
+history of APA). Note also that the APA defines "agency action" to include "failure to
+act," 5 U.S.C. § 551(13)(1982), and authorizes courts to "compel agency action
+unlawfully withheld or unnecessarily delayed," Id. § 706(1). The contrary position is
+presented in Scalia, supra note 5, at 887-88, but the position is insufficiently attentive to
+the context and history of the APA. Cf. Heckler v. Chaney, 470 U.S. 821, 828-35 (1985)
+(holding agency inaction presumptively unreviewable, but apparently allowing review to
+overcome errors of law).</p>
+      <p>51. See cases cited supra note 39.
+52. 397 U.S. 150 (1970).</p>
+      <p>53. Id. at 153 ("[T]he legal interest test goes to the merits[;] the question of
+standing is different.").</p>
+      <p>54. Id.
+55. See id.; Currie, supra note 35, at 44 (discussing Data Processing).</p>
+      <p>56. See Clarke v. Securities Indus. Ass'n, 107 S. Ct. 750, 757 (1987) ("[T]he test
+denies a right of review if the plaintiff's interests are so marginally related to or
+inconsistent with the purposes implicit in the statute that it cannot reasonably be assumed that
+Congress intended to permit the suit."). The Supreme Court has never denied standing
+for failure to meet the "arguably within the zone" test.
+was incorrect; 57 but in actual effect, it could be interpreted so as not to
+depart substantially from the original APA framework. 58</p>
+      <p>Data Processingresponded to a belief that the private-law model no
+longer worked in public-law cases. 59 Why this is so is a complex
+matter.6 0 A principal reason was that the private-law inquiry into whether
+A has violated a duty owed to B does not quite capture the dynamics of
+public-law cases, in which disputes cannot so readily be understood in
+terms of clear rights and duties. Often administrative disputes do not
+have a bipolar structure: there may be many people on one or both
+sides of the dispute, and the agency may be authorized to consider
+numerous factors, no one of which is controlling. Since a number of
+factors are relevant, and none decisive, the right-duty relationship
+between the government and any particular legal complainant is not
+crisp and bilateral. It is important not to overstate this point. In
+public-law cases, there are rights and duties too. The failure to consider a
+relevant factor, or the consideration of an irrelevant factor, might well
+be thought of as a breach of a legal duty owed by the government to the
+complainant. But the inquiry into consideration of relevant factors
+does not have a clear parallel in private-law actions.</p>
+      <p>Moreover, once public-law plaintiffs are authorized to appear in
+court, they do not argue that the government has breached a duty owed
+to them-at least not in the common-law sense-but instead that the
+government has behaved unlawfully. 61 In this respect, public law has
+for a long time split the question of standing and the merits.</p>
+      <p>Even under Data Processing, there remained a bow in the direction
+of dispute-settlement, for the requirement of an injury in fact
+eliminated those plaintiffs with purely ideological claims. 62 But the Court
+moved dramatically in the direction of a standing doctrine that no
+57. See Currie, supra note 35, at 43-44 (contrasting standing grant in Data
+Processing with grant implied by legislative history of APA); supra notes 36-37 and
+accompanying text (legislative history of APA).</p>
+      <p>58. This is because the injury-in-fact test was designed and interpreted largely so as
+to allow standing, not for all those "affected," but for competitors and regulatory
+beneficiaries. This test in substance replicated the expansion of the legally protected interest
+model in the late 1960s and early 1970s, which built on the legal-wrong standard
+repudiated in Data Processing. See supra notes 38-42 and accompanying text.
+59. See J. Vining, supra note 1, at 39-40.
+60. See id. at 171 ("We do not know how a value becomes a public value.").
+61. See id. at 142; cf. Duke Power Co.v. Carolina Envtl. Study Group, 438 U.S. 59,
+78-79 (1978) (plaintiffs need not show a nexus between injury to them and intended
+scope of constitutional right at stake). There are, however, prudential limitations on the
+ability of one person to raise the interests of another. See generally Monaghan, Third
+Party Standing, 84 Colum. L. Rev. 277 (1984) (discussing the expansion and
+problematic nature of discretionary judicial limitations on third-party standing doctrine).</p>
+      <p>62. Here as elsewhere a standard is necessary to explain what a purely ideological
+claim is. There is no prelegal category of ideological claims; to say that a claim is
+ideological is to say that no legal right is at stake. That question will depend in turn on the
+substantive law. See infra notes 205-32 and accompanying text (discussing article III).
+longer owed its shape to common-law categories, or distinguished
+between the rights of regulated entities and regulatory beneficiaries.</p>
+      <p>Indeed-and this is the central point-that very distinction
+depended on a conceptual foundation that had become anachronistic
+precisely because it was dependent on common-law baselines. Whether
+someone is the object of regulation or its beneficiary cannot be decided
+without an independent theory outlining what it is that-govemment
+ordinarily or properly does. Regulated entities are themselves the
+beneficiaries of statutory limits on agency power-and of the common
+lawinsofar as those sources of law protect them from public or private
+incursions into their legally created spheres. The beneficiaries are the
+objects of regulation insofar as positive law authorizes such intrusions
+and affords them less protection from private conduct than they would
+like.63 Indeed, the very term "statutory beneficiary," as conventionally
+used, assumes that the common law is the ordinary backdrop or the
+usual state of affairs, and that departures from that state should be
+understood as providing special benefits and special burdens. It is not
+surprising that assumptions of this sort became impossible to sustain in
+the wake of the New Deal attack on the common law.</p>
+      <p>Notwithstanding these considerations, the Data Processingdecision
+was justifiably subject to powerful criticism. 64 First, an effort to build
+on the legal-wrong standard probably would have been superior to the
+injury-in-fact approach. All of the foregoing ideas could have been
+accommodated within the legal-wrong standard. That standard
+accurately captures the original meaning of the APA, and it has the further
+advantage of deriving standing doctrine from congressional purposes
+in enacting regulatory legislation.65 The legal-wrong test also has the
+significant virtue of dissolving the distinction between beneficiaries and
+regulated entities by making it clear that statutes provide the only
+workable metric for deciding whether there is a judicially cognizable injury.
+Whether there is such an injury cannot be decided in the abstract,
+without regard to what the law provides. The legal-wrong test does not
+build into the inquiry a distinct, extralegal category of beneficiaries. In
+this respect, it was the injury-in-fact test that was anachronistic,
+precisely because it suggested that there was a prelegal category of
+injuries-a point that has turned out to have considerable importance. 66
+In addition, and more generally, the injury-in-fact requirement
+it63. SeeJ. Vining, supra note 1, at 102-03.</p>
+      <p>64. See Stewart, Book Review, 88 Yale LJ. 1559, 1569 (1979) (describing Data
+Processingas an "unredeemed disaster").</p>
+      <p>65. See supra notes 34-35 and accompanying text; see also Currie, supra note 35,
+at 43-44 (describing legal-wrong test in original understanding of APA); Stewart, supra
+note 64, at 1569 (characterizing legal-wrong standard as providing "ample flexibility for
+recognition of emerging societal interests through judicial expansion of the statutorily
+protected-interest test").</p>
+      <p>66. See infra notes 88-136 and accompanying text.
+self was criticized as a holdover from private-law ideas from which Data
+Processinghad to some degree escaped. 6 7 That requirement, and
+standing limitations generally, are often quite sensible,68 but they have been
+justified on the basis of policies that actually have little or nothing to do
+with standing at all. Standing limitations are said to ensure that
+lawsuits are concrete rather than hypothetical or remote.69 But the
+injuryin-fact requirement and other limitations on standing do not promote
+concreteness; indeed, the problem of concreteness has nothing to do
+with the question of standing. Whether a plaintiff is able to point to an
+injury peculiar to him is a question independent of the concreteness or
+abstraction of the dispute. For example, the dispute in Sierra Club v.
+Morton 7 0-the principal modem example of a case denying standing on
+injury-in-fact grounds-was hardly hypothetical or remote.7 1 Standing
+limitations are also said to be a way of ensuring sincere or effective
+advocacy. 7 2 But institutional litigants not having injury in fact are
+particularly likely to be strong advocates. 7" It is expensive to initiate a
+lawsuit, and those who do so without meeting the standing requirements
+are especially committed. 74</p>
+      <p>Notwithstanding these problems, the Data Processingapproach
+appeared for a long time to generate a body of standing doctrine that had
+a large measure of coherence, at least under the APA.7 5 As the law
+developed, courts did not sharply distinguish between statutory
+beneficiaries and regulated class members, thus largely eliminating the
+asymmetry built into previous law.7 6 This development served to remove a
+skewed set of incentives for administrators who, under the previous
+regime, could be subject to a lawsuit in the event of overzealous
+enforcement action, but would be immunized from legal controls if they
+furnished insufficient protection. 77 There is powerful evidence that the
+recognition of standing for regulatory beneficiaries has been important
+in bringing about agency compliance with law. 78 At the same time, the
+doctrine has excluded merely ideological interests and the interest in
+law enforcement for its own sake. 79</p>
+      <p>A principal goal of the Data Processingapproach was to achieve a
+large degree of clarity and predictability. And for a period, the
+injuryin-fact requirement seemed to operate in a reasonably straightforward
+fashion. It should be clear, however, that an assessment of whether the
+plaintiff has suffered injury in fact could not be the only question for
+purposes of standing. In an integrated economy, an enormously wide
+variety of people are affected by an agency's decision to act or not to
+75. SeeJ. Vining, supra note 1, at 39-42.</p>
+      <p>76. Some asymmetry remains, however, since scarce prosecutorial resources
+provide a legitimate reason for agency inaction. The fact that agencies must allocate their
+limited resources to those problems that seem most pressing, however, has implications
+for reviewability rather than for standing. See Heckler v. Chaney, 470 U.S. 821, 831
+(1985); Sunstein, Reviewing Agency Inaction After Heckler. v. Chaney, 52 U. Chi. L.
+Rev. 653, 683 (1985).</p>
+      <p>77. Congress has recognized this risk and expressly granted rights to beneficiaries
+in many statutes. See, e.g., Surface Mining Control and Reclamation Act of 1977, 30
+U.S.C. § 1270 (1982); Energy Policy and Conservation Act, 42 U.S.C.A. § 6305 (West
+1983 &amp; Supp. 1988); Clean Air Act, 42 U.S.C. § 7604 (1982).</p>
+      <p>78. See, e.g., Exec. Office of the President, Office of Management and Budget,
+Regulatory Program of the U.S. Gov't 213-14, 432-34, 469 &amp; 492 (Apr. 1, 1986-Mar. 31,
+1987) (reflecting agency initiatives, resulting from judicially imposed deadlines in such
+areas as environmental and labor law); see also United Steelworkers of Am. v.
+Pendergrass, 819 F.2d 1263 (2d Cir. 1987) (requiring Secretary of Labor to publish
+standards for providing employees with information about hazardous chemicals,
+resulting in 29 C.F.R. §§ 1915.99, 1917.28, 1918.90 (1988)); Public Citizen Health Research
+Group v. Tyson, 796 F.2d 1479 (D.C. Cir. 1986) (finding that OSHA failed to set proper
+exposure limits for ethylene oxide, resulting in 29 C.F.R. § 1910.1047 (1987));
+International Union, United Auto., Aerospace, &amp; Agric. Implement Workers of Am. v.
+Donovan, 590 F. Supp. 747 (D.D.C. 1984) (requiring OSHA to reconsider decision not to
+issue temporary standards regarding workplace exposure to formaldehyde, resulting in
+29 C.F.R. § 1910.47 (1987)).</p>
+      <p>79. The characterization of an interest as "merely ideological" or involving "law
+enforcement for its own sake," must, however, be based on the relevant statutes; the
+characterization cannot be made in the abstract. By conferring a legal right, a statute
+might convert an ideological interest into a legal one. See infra notes 205-32 and
+accompanying text.
+act.8 0 The decision of the Environmental Protection Agency (EPA)
+whether a particular company violated an environmental statute, and
+should face civil and criminal penalties, will have consequences "in
+fact" for workers and employers in many other companies as well-not
+to mention consumers generally.</p>
+      <p>In Data Processing,the Court could not have meant to suggest that
+all affected workers, employers, and consumers could challenge all EPA
+decisions. In order to produce sensible results, courts had to build into
+the new framework some distinction between direct and indirect
+consequences of agency decisions, or between legally cognizable injuries and
+harms that Congress could not have intended to be vindicated in
+court.8 1 In this sense, the injury-in-fact test was (and is) quite
+malleable, and the standing determination inevitably depends on a range of
+considerations that the notion of injury in fact, by itself, cannot capture.</p>
+      <p>In these circumstances, the "arguably within the zone" test,
+though appearing unwieldy, served in practice as a lenient and
+workable threshold inquiry, capturing the understanding that those whose
+interests were entirely afield of statutory purposes could not bring suit.
+The test thus operated as a check against suits brought by people with
+interests unrelated to the statutory scheme.8 2 And the injury-in-fact
+test itself, in its early period, appeared to allow suits by regulatory
+beneficiaries and by adversely affected competitors, but not to allow
+standing for those whose interests were only indirectly and incidentally
+affected.8 3 Thus, the new standing doctrine seemed as if it might serve
+the function, intended by the Court in Data Processing, of ensuring that
+jurisdictional inquiries were reasonably simple and crisp,8 4 and did not
+unduly complicate the case before courts reached the merits.</p>
+      <p>Data Processing was part of a set of developments that began to
+point the way toward an independent public law.8 5 Such developments
+80. APA Leg. History, supra note 37, at 276. See the discussion of the "Donne
+effect" inJ. Vining, supra note 1, at 32.</p>
+      <p>81. Cf.J. Vining, supra note 1,at 60-62 (suggesting that courts allow suits by those
+able to invoke "public values").</p>
+      <p>82. See Clarke v. Securities Indus. Ass'n, 107 S. Ct. 750 (1987), which suggests
+that:
+[i]n cases where the plaintiff is not itself the subject of the contested regulatory
+action, the test denies a right of review if the plaintiff's interests are so
+marginally related to or inconsistent with the purposes implicit in the statute that it
+cannot be reasonably assumed that Congress intended to permit the suit.
+Id. at 757.</p>
+      <p>83. There are few cases on the point, and notions of indirect and incidental effect
+need to be unpacked.</p>
+      <p>84. Cf. Currie, Venue and the Sagebrush Rebellion, in Venue at the Crossroads 65,
+77 (S. Schlesinger ed. 1982) (emphasizing importance of simplicity in determining
+venue).</p>
+      <p>85. Other developments in this vein included the protection of statutory benefits as
+liberty or property, see supra note 42; the refusal to distinguish between deregulation
+and regulation, see Motor Vehicles Mfrs. Ass'n v. State Farm Mut. Auto. Ins. Co., 463
+tory beneficiaries to require greater regulatory protection attempt to
+vindicate injuries that ought to be cognizable politically but not
+through the judiciary. There is in this respect a clear connection
+between the causation requirements and certain conceptions of judicial
+restraint and separation of powers. The recent cases might be
+understood as an effort to narrow the judicial role in actions brought by
+statutory beneficiaries-often having numerous members-to compel
+government action against private parties. The causation requirements
+are one of several devices by which to accomplish this goal. 144</p>
+      <p>The underlying concern, captured in Allen v. Wright,14 5 is that while
+courts should protect the objects of regulation, they should be
+reluctant to compel the executive branch to undertake enforcement action
+to vindicate the general or societal interests of regulatory beneficiaries.
+In this view, suits brought to challenge "the particular programs
+agencies establish to carry out their legal obligations"1 4 6 should not
+bejudicially cognizable. The distinctive judicial role is the protection of
+traditional or individual rights against governmental overreaching. 147
+This claim purports to derive strength from the constitutional
+provision, invoked in this way in Allen and another recent decision of the
+Court, 148 that confers on the President, not the judiciary, the authority
+to "take Care that the laws be faithfully executed."' 49</p>
+      <p>The recent standing requirements belong in the same category as
+other recent decisions restricting judicial intrusions into
+administration, with respect to both substance' 5 0 and procedure.i 5 1 They reflect
+a form of judicial skepticism about both government regulation and
+court entanglement in executive functions. The congruence of these
+kinds of skepticism has been critical in the cases. The two have been
+combined in no other recent period. 152</p>
+      <p>There is a commonality between the New Deal approach and still
+tentative developments in current law, and it lies in the belief that
+administrative regulation, grounded as it is in technocratic expertise and
+political accountability, is incompatible with judicial oversight. The
+difference is that the New Deal view was rooted in hospitality toward
+regulatory intervention and fear of politically motivated invalidation, by the
+courts, of desirable administrative programs, whereas the modern
+developments are based on hostility to intervention and fear ofjudicially
+compelled regulation. But in either case, the doctrine of standing
+serves to minimize the occasions for legal intervention into the
+regulatory process, and thus to limit the strain between what are regarded as,
+two distinct mechanisms for social ordering. Understood against this
+background, the causation requirements are a means of ensuring
+against the perceived excesses of Data Processingin allowing judicial
+redress of what might be seen as essentially political grievances.' 53 That
+rationalization, however, is ultimately unpersuasive.</p>
+      <p>III. PUBLIC LAW AND STANDING</p>
+    </sec>
+    <sec id="sec-2">
+      <title>A. The Appropriate Role of Standing Limitations</title>
+      <p>As a general rule, the question for purposes of standing is whether
+Congress has created a cause of action.' 5 4 A congressional resolution
+of the standing issue is almost always authoritative. It is in this sense,
+152. Thus, in the 1930s, skepticism about the judiciary generally accompanied
+enthusiasm about regulation; among conservatives, a minority in that period, skepticism
+about regulation led to enthusiasm for the judiciary; and in the 1960s, liberal judges
+combined hospitality toward regulation with enthusiasm for an aggressive judicial role.
+See Sunstein, supra note 21, at 437-41. The general phenomenon is remarked on in
+Note, Intent, Clear Statement, and the Common Law: Statutory Interpretation in the
+Supreme Court, 95 Harv. L. Rev. 892, 910-12 (1982). See generally Sunstein, Statutes
+and the Regulatory State (Sept. 1988) (unpublished manuscript on file at the Columbia
+Law Review).</p>
+      <p>153. One of the problems with the recent trend is that it treats a dispute as
+"political," not because of the absence of legal constraints, but because the injury is different
+from what is typical at common law. Whether a grievance is political depends on the
+underlying statute; the question cannot be answered in the abstract. See infra notes
+229-30 and accompanying text. Moreover, the political question doctrine-not
+standing-is the appropriate tool for ensuring that courts do not hear cases involving issues
+not suited to the judiciary. See Henkin, Is There a "Political Question" Doctrine?, 85
+Yale LJ. 597 (1976) (suggesting political question applies where there are no legally
+cognizable standards). Properly understood, the principles of standing deal with
+appropriate plaintiffs, not with issues beyond judicial competence-though the two ideas have
+not been kept entirely separate in practice. See, e.g., Allen v. Wright, 468 U.S. 737, 751
+(1984) (suggesting that issues ofstanding must be considered in context ofseparation of
+powers).</p>
+      <p>154. There are some exceptions here. See infra notes 205-32 (discussing article III
+and only this sense, that standing limitations are part of the "case or
+controversy" requirement of article III; and it is in this sense that
+standing doctrine serves an important separation-of-powers function.</p>
+      <p>In many standing cases, however, the question whether Congress
+has created a cause of action cannot be answered simply. The
+legislature cannot be expected to resolve that question in every setting. The
+APA is of course controlling in most administrative law cases, and
+interpretation of the standing requirements of the APA is therefore the
+central question. Probably the best approach here would have been to use
+the legal-wrong test as it had been developing before Data Processing,
+focusing attention on whether the plaintiff's interest was protected by
+the underlying substantive statute. 155 The law has taken a quite
+different direction, however, and it is possible to understand the current
+injury-in-fact test as an interpretation of the APA that does relatively little
+violence to the underlying purpose of that statute. The principal
+function of the requirement of injury in fact-insofar as it provides a
+limitation on standing-is to decrease the likelihood that outsiders or
+intermeddlers t 56 will be able to disrupt mutually beneficial
+arrangements. In this respect, the requirement of injury in fact-rooted in the
+APA, not article III-promotes autonomy and self-determination on
+the part of litigants. 15 7
+and standing). In some cases, moreover, the issue is whether the Constitution itself
+creates a right to bring suit. See infra note 208.</p>
+      <p>155. See supra notes 39-51 and accompanying text.</p>
+      <p>156. Here as elsewhere it is necessary to develop a standpoint from which to
+describe some people as "intermeddlers" and others as "injured"; there is no extra-legal
+way to make that determination, or to do so without invoking controversial substantive
+considerations.</p>
+      <p>157. Stewart, supra note I, at 1735-47. In Sierra Club v. Morton, 405 U.S. 727
+(1972), the Court refused to recognize standing in an action brought by an
+environmental organization whose members had not claimed use of a recreational preserve
+threatened with an allegedly unlawful development project. Id. at 735. The Court's
+conclusion was correct, for if none of those affected by the creation of a development in
+the preserve was willing to come forward, a group of outsiders probably should not be
+permitted to do so-at least as a matter of interpretation of the APA and other relevant
+statutes. Cf. Brilmayer, The Jurisprudence of Article III: Perspectives on the "Case or
+Controversy" Requirement, 93 Harv. L. Rev. 297, 310-15 (1979) (discussing autonomy
+and self-determination as animating concerns of article III). A different result might be
+appropriate if it could be shown that those directly affected were unwilling to bring suit
+for reasons other than contentment with the status quo. See L. Tribe, supra note 15,
+§ 3-19.</p>
+      <p>At least ordinarily, the fact that the law prohibits certain activity is not a sufficient
+reason to permit a suit by outsiders. Agencies quite properly use prosecutorial
+discretion to allocate resources among various problems; some of those problems may have
+comparatively weak claims to the public fisc. If no one directly affected by government
+action is sufficiently concerned to bring suit, the usual assumption-subject to
+congressional override-ought to be that third parties should not be permitted to do so. Note,
+however, that concepts like "bystander" and "outsider" are artifacts of preexisting ideas
+about who should be able to bring suit and that all of the foregoing concerns are subject
+to congressional revision. See infra notes 205-32 and accompanying text. Congress</p>
+      <p>The causation requirements present different issues. Standing by
+themselves, they are natural corollaries of the injury-in-fact
+requirement and unobjectionable as such. But aside from their manipulability,
+the central problem is that in the suits in question here, the relevant
+harms are quite generally probabilistic or systemic. The purpose of the
+regulatory program is to redress harms of precisely that sort.' 5 8 It
+would be a large mistake to conclude that such harms are not judicially
+cognizable. Nineteenth century conceptions of injury should not be
+used to resolve standing issues in administrative law. Those
+conceptions have no place in regimes in which the legal injury is often of a
+different order. A system in which regulatory harms were not judicially
+cognizable would tend to allow regulated industries, but not regulatory
+beneficiaries, to have access to court-thus imposing a perverse set of
+incentives on administrative actors by inclining them against regulatory
+implementation when it is legally required. 5 9 Such a result would tend
+to defeat congressional purposes. 160 Nothing in article III, the APA, or
+the governing statutes justifies this result.</p>
+      <p>In cases brought under the APA, then, courts should generally
+allow standing to plaintiffs who seek to redress systemic or probabilistic
+harms. On this view, there will remain a role for the causation
+requirements,161 but the role will be the limited one suggested by the best of
+the Supreme Court's decisions on the point.' 62</p>
+      <sec id="sec-2-1">
+        <title>B. Cognizable Injuries and the Appropriate Role of Causation</title>
+        <p>It should come as no surprise that the causation requirements are
+highly manipulable. Judgments about whether or not causation is
+speculative depend on no clear metric. It is difficult to make systematic the
+inquiry into whether government action against a third party is likely to
+affect behavior in ways that will help a particular class of plaintiffs.
+Thus, the Court has found that the causation requirements were met
+when the connection between the injury, the defendant's conduct, and
+could therefore reject the outcome in SierraClub by granting standing if it so chose; and
+the best argument against the result in Sierra Club would be that the relevant statutes
+should have been interpreted to create a cause of action for the plaintiffs.</p>
+        <p>158. For the same argument in the context of constitutional claims, see Meltzer,
+supra note 4, at 304 ("The common law understanding of injury, however, is not well
+suited to deal with the distinctive problems of modern governments, which can cause
+serious harm of a systemic or probabilistic kind that does not fit into the common-law
+mold of identifiable injury to identifiable individuals.").</p>
+        <p>159. See supra note 78 (listing regulatory initiatives brought about as a result of
+suits by beneficiaries).</p>
+        <p>160. For most of the nation's history, the question for purposes of standing and
+article III was whether there was an invasion of a legal right. That question is analogous
+to the inquiry recommended here. See Winter, supra note 8, at 1395-96.</p>
+        <p>161. See infra notes 177-81 and accompanying text (discussing proper role of
+causation as a limiting requirement).</p>
+        <p>162. See cases cited infra note 163.
+the relief sought were no clearer than in Linda R.S., EKWRO, and Allen
+v. Wright.' 63 After these decisions, the precise nature of the causation
+requirements is quite obscure. 164</p>
+        <p>In particular, the causation requirements, as sometimes applied,
+threaten to make standing issues turn on considerable discovery,
+factfinding, and, worst of all, judicial speculation on the precise effects
+of regulatory initiatives. All this is a significant disadvantage over the
+pre-DataProcessingapproach, which depended on legal issues that could
+be resolved on the basis of the pleadings without complex factual
+inquiries. The new law of standing has in this respect come to be less
+crisp and certain than the previous regime-precisely the opposite of
+what the Data ProcessingCourt intended.</p>
+        <p>A large amount of doctrinal confusion is the consequence. The
+opinions of the en banc court of appeals in the Thomas case provide the
+most conspicuous example. In that case, standing was made to turn on
+an extraordinarily complicated inquiry into the real-world impact of
+fuel economy credits on automobile manufacturers.16 5 There is
+something seriously wrong with standing principles that produce so high a
+degree of confusion in what is, after all, a jurisdictional determination.
+Moreover, the relevant decisions have not turned on causation alone,
+notwithstanding their rhetoric. The inquiry into causation is in part a
+disguise for other sorts of considerations-prominently including the
+view that Congress could not have intended to grant standing to
+plaintiffs whose access to court would interfere with executive prerogatives
+about implementation.' 6 6</p>
+        <p>The manipulable nature of the inquiry into causation appears in a
+less obvious and more important place as well. The central problem in
+the causation cases is not whether there is a causal nexus among injury,
+remedy, and illegality; it is how to characterize the relevant injury.
+Whether the injury is due to the defendant's conduct, or likely to be
+163. See Duke Power Co. v. North Carolina Envtl. Study Group, Inc., 438 U.S. 59
+(1978). In Duke Powerthe plaintiffs complained that the Price-Anderson Act encouraged
+the building of a nuclear power plant in their vicinity. Id. at 69. The Court concluded
+that the various environmental and aesthetic consequences of thermal pollution were
+sufficient to qualify as injuries "in fact." Id. at 73-74. But the claim of a causal
+connection was quite speculative; it was hardly certain that such effects would occur, and their
+consequences for any particular plaintiff were highly uncertain. Other cases allowing
+standing despite relatively attenuated chains of causation include Heckler v. Mathews,
+465 U.S. 728, 737-38 (1984); Larson v. Valente, 456 U.S. 228, 239-42 (1982); Bryant v.
+Yellen, 447 U.S. 352, 366-68 (1980); Village of Arlington Heights v. Metropolitan
+Hous. Dev. Corp., 429 U.S. 252, 261-64 (1977); and United States v. SCRAP, 412 U.S.
+669, 687-90 (1973).</p>
+        <p>164. Duke Powerusefully illustrates the point. See supra note 163; see also Chayes,
+The Supreme Court, 1981 Term-Foreword: Public Law Litigation and the Burger
+Court, 96 Harv. L. Rev. 4, 20-22 (1982); Fallon, supra note 5, at 37 n.201.</p>
+        <p>165. Center for Auto Safety v. Thomas, 847 F.2d 843, 855-58 (D.C. Cir.) vacated
+per curiam, No. 85-1515 (D.C. Cir. Sept. 16, 1988) (en banc).</p>
+        <p>166. See infra notes 189-93 and accompanying text.
+remedied by a decree in his favor, depends on how the injury is
+described. In EKWRO, for example, the plaintiffs might have
+characterized their injury as an impairment of the opportunity to obtain medical
+services under a regime undistorted by unlawful tax incentives. In Allen
+v. Wright, the plaintiffs themselves argued that their injury should be
+characterized as the deprivation of an opportunity to undergo
+desegregation in school systems unaffected by unlawful tax deductions. 167
+Thus recharacterized, the injuries are not speculative at all. 168 If
+described at a certain level of generality, the causation requirements are
+comfortably met in both cases. It is for this reason that in CenterforAuto
+Safety v. Thomas, much of the dispute-under the rubric of
+causationactually turned on whether the injury to the opportunity to purchase
+fuel-efficient cars was a legally cognizable one.</p>
+        <p>The device of recharacterization of the injury may seem artificial,
+but it is at work in at least one Supreme Court decision. In Regents of the</p>
+        <sec id="sec-2-1-1">
+          <title>University of California v. Bakke,169 a question was raised about Allen</title>
+          <p>Bakke's standing. There was no showing that Bakke would have been
+admitted to the medical program of the University of California at
+Davis if the affirmative action program were invalidated. The Court
+responded that "even if Bakke had been unable to prove that he would
+have been admitted in the absence of the special program, it would not
+follow that he lacked standing.... The trial court found such an injury,
+apart from failure to be admitted, in the University's decision not to
+permit Bakke to compete for all 100 places in the class, simply because
+of his race."1 7 0 The Court thus concluded that the interference with
+the opportunity to compete was the relevant injury, and that the
+causation requirements were met with respect to that injury.1 71 For
+regulatory harms as well, the central question is whether an increased risk or
+diminished opportunity is legally cognizable, or whether particular
+plaintiffs must instead show that there is a substantial likelihood that
+particular harm will come to them as individuals.</p>
+          <p>The causation issues could, in short, turn entirely on whether
+plaintiffs are permitted to characterize the relevant harm broadly rather
+than narrowly. A relatively broad characterization has been critical not
+only in Bakke, but in a number of lower court decisions as well.1 7 2 But
+167. Allen v. Wright, 468 U.S. 737, 746 (1984).</p>
+          <p>168. Roe v. Wade, 410 U.S. 113, 124-25 (1973) (even though plaintiff no longer
+pregnant at time of court review, "pregnancy ...provides a classic justification for a
+conclusion of nonmootness"), and Laird v. Tatum, 408 U.S. 1, 10 (1972) (finding no
+legally cognizable injury as a result of data-gathering activities of Army), pose similar
+issues.</p>
+          <p>169. 438 U.S. 265 (1978).
+170. Id. at 280-81 n.14.
+171. Id.</p>
+          <p>172. See West Virginia Ass'n of Community Health Centers, Inc. v. Heckler, 734
+F.2d 1570 (D.C. Cir. 1984) (granting standing to community health center that
+characterized its injury as impairing "opportunity to compete"); Autolog Corp. v. Regan, 731
+the Supreme Court has given little or no guidance for resolving the
+problem of characterization.</p>
+          <p>On one view, the problem should be solved by looking at the
+nature of the interest protected by the relevant statutory or constitutional
+provision. The harm might be characterized broadly if the relevant
+source of law is designed to prohibit the injury thus characterized. A
+related route would be to ask straightforwardly whether Congress
+intended to confer on the plaintiff a right to bring suit. There are
+significant advantages to such an approach, and to some degree it is endorsed
+in current law. 17 3</p>
+          <p>But the DataProcessingCourt interpreted the APA to confer a cause
+of action on those harmed by agency behavior, thus separating the
+issues of standing and the merits; 1 74 and this interpretation was intended
+precisely to allow a brisk threshold determination, one that would not
+call for elaborate statutory construction. On the other hand, it is
+impossible in the hardest cases to decide standing issues without asking
+whether the governing substantive statute is designed to protect the
+plaintiffs; in those cases, some such inquiry is necessary because by
+itself, the injury-in-fact test is too open-ended and malleable in an
+integrated economy. Insofar as they act as crude surrogates for this
+inquiry, the causation requirements confirm this proposition.</p>
+          <p>A large part of the solution lies in a recognition that the problem
+of standing is generally for legislative resolution, and that if Congress
+chooses to create regulatory systems to prevent probabilistic or
+systemic injuries, the usual rule ought to be that courts should permit
+litigants suffering such injuries to bring suit. Nothing in article III or the
+APA justifies a sharp split between injuries of the nineteenth-century
+variety and injuries that regulatory systems are designed to prevent.
+The question whether there is a "case or controversy" within the
+meaning of article III depends largely or entirely on positive law, not on the
+nature of the injury. 175 Moreover, a prohibition on standing in
+regulaF.2d 25, 28-31 (D.C. Cir. 1984) (loss of employment opportunity as injury in fact);
+International Ladies' Garment Workers' Union v. Donovan, 722 F.2d 795, 809-10 (D.C.
+Cir. 1983) (granting standing to organizations challenging rescission of restrictions on
+homework); National Coalition to Ban Handguns v. Bureau of Alchohol, Tobacco &amp;
+Firearms, 715 F.2d 632, 633-34 (D.C. Cir. 1983) (granting standing to organization
+challenging issuance of firearms dealers' licenses). Compare Center for Auto Safety v.
+NHTSA, 793 F.2d 1322, 1334-35 (D.C. Cir. 1986) (recognizing denial of opportunity to
+purchase as cognizable injury) and Center for Auto Safety v. Thomas, 847 F.2d 843,
+849-50 (D.C. Cir. 1988) (en banc) (Wald, CJ.), vacated per curiam, No. 85-1515 (D.C.
+Cir. Sept. 16, 1988)(en banc) (same) with NHTSA, 793 F.2d at 1343-44 (Scalia, J.,
+dissenting) (narrowly characterizing relevant injury) and Thomas, 847 F.2d at 886
+(Silberman, J.) (injury to consumers is not constitutionally cognizable).</p>
+          <p>173. See Clarke v. Securities Indus. Ass'n, 107 S. Ct. 750, 757 (1987).
+'174. Association of Data Processing Serv. Orgs., Inc. v. Camp, 397 U.S. 150, 153
+(1970). The zone test also implicated the merits, but because of its leniency, the
+entanglement was not severe. See supra note 56 and accompanying text.</p>
+          <p>175. See infra notes 205-32 and accompanying text.
+tory cases would represent a partial return to the private-law model of
+the 1950s and 1960s, allowing regulated entities, but not regulatory
+beneficiaries, to bring suit. Such a result would skew regulatory
+incentives against implementation, thus tending to defeat congressional
+purposes and expectations.</p>
+          <p>It follows that the Centerfor Auto Safety cases were quite easy.
+Congress expressly conferred standing on the plaintiffs to redress
+regulatory harms-"any person who may be adversely affected"-and there
+was no need for elaborate speculation about the precise effects of
+administrative controls. Even if the cases had not involved a specialized
+standing provision and had arisen under the APA, the same result
+would be appropriate. The regulatory harm provided the necessary
+injury in fact, and with respect to that harm, there was no problem with
+causation. It also follows that EKWRO and Allen were wrongly decided
+as general standing cases, although EKWRO may have been correctly
+decided because the area of taxation presents special reasons for
+caution. 176</p>
+          <p>To say this is hardly to suggest that courts should abandon the
+causation requirements and the instincts that underlie them. Standing
+should be denied in three categories of cases brought under the APA.
+The first includes cases in which even broadly characterized injuries do
+not meet the causation requirements. Suppose, for example, that the
+plaintiffs are able to characterize their injuries in probabilistic or
+systemic terms, but those injuries are not likely to be redressed by a ruling
+against the defendant. 17 7 A denial of standing in such cases is a natural
+implication of the injury-in-fact requirement that the Court has found
+in the APA. If the harm, however characterized, is not likely to be
+redressed by a ruling for the plaintiffs, it is appropriate to conclude that
+there is no injury in fact. Judicial relief should be unavailable on the
+same theory as in Sierra Club v. Morton,17 8 in which the plaintiffs did not
+allege that they were actual or prospective users of the park in question.</p>
+          <p>The second category includes cases in which the injury, once
+176. See supra notes 105-06 and accompanying text.</p>
+          <p>177. United States v. SCRAP, 412 U.S. 669 (1973), is an illustration here. Even as
+recharacterized, the connection between the relief sought and the plaintiffs' injury was
+extremely loose. For other possible examples, see Community for Creative
+NonViolence v. Pierce, 814 F.2d 663, 666-70 (D.C. Cir. 1987) (denying standing to
+homeless people seeking to challenge a report on the homeless); American Legal Found. v.
+FCC, 808 F.2d 84, 89-92 (D.C. Cir. 1987) (denying standing to organization, which,
+although having no members but only supporters, attempted to challenge FCC failure to
+investigate network broadcasting concerning the CIA); California Ass'n of the Physically
+Handicapped v. FCC, 778 F.2d 823, 825-27 (D.C. Cir. 1985) (denying standing to
+association challenging transfer of ownership of television network stock on grounds that
+stock transfer was unconnected with network's employment of physically handicapped
+or network's failure to use methods of making broadcasts accessible to the hearing
+impaired).</p>
+          <p>178. 405 U.S. 727 (1972); see supra note 157.
+recharacterized, is so generalized or diffuse that all or almost all citizens
+are affected in the same way. 179 Recharacterized injuries may become
+so open-ended that they are no longer properly treated as injuries at
+all; here the proper analogy is to taxpayer or citizen standing. In such
+circumstances as well, the case is quite similar to Sierra Club v. Morton,
+and in the absence of a clear statement from Congress, standing should
+be unavailable. The APA is properly interpreted to forbid standing in
+such cases, even if the principle is understood as subject to legislative
+override. This category is relatively small, however, as Bakke, Duke
+Power, and the Centerfor Auto Safety cases reveal. It is critical not to use
+the prohibition on citizen or taxpayer standing to support a broader,
+and indefensible, view that disallows standing when a large number of
+people are affected.</p>
+          <p>Finally, and most importantly, standing should be denied to those
+seeking to redress regulatory harms when there is good reason to
+believe that Congress intended not to allow the suit to go forward. The
+presumption here should be in favor of standing, since in DataProcessing
+the Court interpreted the APA as creating a general background rule in
+favor of standing for those harmed and arguably within the zone of
+protected interests.18 0 Sometimes, however, that rule will be rebutted
+by the statutory language or structure in particular cases, as the Court
+found in Block v. Community Nutrition Institute.'8 ' By itself, the
+injury-in179. The Court's decision in SCRAP may be incorrect because the case falls in this
+category. SCRAP, 412 U.S. at 686-88. In Diamond v. Charles, 476 U.S. 54 (1986), the
+Court properly denied standing to a doctor who attempted to defend a state statute
+limiting abortion. The doctor claimed, in relevant part, that his injury consisted in a
+smaller number ofchildren available for his medical practice. Id, at 66. But if injuries of
+this sort sufficed, all or almost all citizens could defend restrictive abortiQn statutes,
+Notably, however, the DiamondCourt recognized that the Illinois legislature might grant
+standing even in such cases. Id. at 65 n.17; see also Clarke v. Securities Indus. Ass'n,
+107 S. Ct. 750, 754 n.7 (1987) (recognizing that Congress may either grant or withhold
+standing); EKWRO, 426 U.S. 26, 41 n.22 (1976) (legislature may grant standing, but
+"'plaintiff still must allege a distinct and palpable injury to himself, even if it is an injury
+shared by a large class of other possible litigants' ") (citations omitted).</p>
+          <p>In CenterforAuto Safety v. Thomas, Judge Silberman attempted to assimilate the case
+of consumer standing to the case of a harm applying to all citizens and all taxpayers.
+847 F.2d 843, 886 (D.C. Cir.) (Silberman, J., concurring), vacated per curiam, No.
+851515 (D.C. Cir. Sept. 16, 1988) (en banc). But the cases are distinct. The plaintiffs in
+CenterforAuto Safety v. Thomas consisted of a subclass of the citizenry made up of people
+who sought to purchase fuel-efficient cars; that subclass is sufficiently well-defined for
+purposes of standing. Indeed, it is no different in principle from a class of employers
+seeking to avoid regulatory controls.</p>
+          <p>180. Association of Data Processing Serv. Orgs. v. Camp, 397 U.S. 150, 153-54
+(1970).</p>
+          <p>181. 467 U.S. 340, 346-48 (1984) (finding implicit preclusion of consumer
+standing). The results in Allen v. Wright, 468 U.S. 737 (1984), and especially EKWRO, 426
+U.S. 26 (1976), might be defended on this ground, by reference to the peculiar nature of
+standing in tax cases. See supra notes 105-07 and accompanying text; see also infra
+notes 205-32 and accompanying text (discussing article III). On the background
+assumption in favor of standing for those actually harmed, see Clarke, 107 S. Ct. at 755 n.9.
+fact test is too open-ended to produce sensible results in an integrated
+economy. Millions of people are affected "in fact" by many agency
+decisions. In these circumstances, the application of the test in the
+hardest cases will inevitably depend on a judicial perception of whether the
+injury is direct or incidental, and that perception should be based on a
+reading of congressional purposes. The causation requirements have
+been made to do much of the work of restrictions on standing when
+such restrictions are a plausible understanding of legislative will. That
+issue should be approached more directly. If EKWRO was rightly
+decided, it was because the tax statutes should have been interpreted so
+as to deny standing, not because of a problem with causation; and if
+people now thought to be indirectly or incidentally harmed by
+regulatory action or inaction are to be denied standing, it is because the
+denial is a sensible reading of congressional purposes in enacting
+regulatory legislation.</p>
+          <p>The usual solution, then, is that the intended beneficiaries of
+regulatory programs should be permitted to bring suit to vindicate statutory
+requirements. In some circumstances, suits will be brought by people
+not within the zone of protected interests, or-as in Block and the tax
+context of EKWRO-there will be some other indication that Congress
+did not intend the suit to go forward. Most actions brought by
+beneficiaries to redress regulatory harms will not, however, fall within these
+categories, and the general rule of Data Processingwill control.</p>
+        </sec>
+      </sec>
+      <sec id="sec-2-2">
+        <title>C. Separationof Powers Revisited</title>
+        <p>The recent standing decisions are rooted in part in views about
+separation of powers. These views are quite distinct from notions of
+causation, standing by themselves. Three central ideas support the
+separation-of-powers concerns. The first is a belief that courts should
+protect individual rights rather than general social interests; the second
+invokes the "take Care" clause to argue against judicial interference
+with executive implementation; the third emphasizes the availability of
+the political process to protect interests in regulatory enforcement.
+These ideas are interrelated. None of them, however, supplies a
+sufficient reason for a refusal to treat probabilistic or systemic harms as
+judicially cognizable, or indeed for a general reluctance to hear actions
+brought by beneficiaries to bring about regulatory intervention.</p>
+        <p>1. The Question of Individual Rights. - There is considerable
+ambiguity in the view that courts should protect only traditional or
+individual rights. In particular, it is not clear whether standing is to be
+eliminated whenever many people are affected by the decision, or
+instead when an interest in regulatory protection-an interest not
+protected at common law-is at stake. If numbers are the crucial concern,
+standing would be foreclosed not only for regulatory beneficiaries, but
+also in cases in which many people or businesses are the object of
+government control. Such cases provide the staple of administrative law;
+consider, for example, a carcinogen regulation that affects numerous
+industries and plants. No one would argue that, in cases of this sort,
+affected industries should be deprived of access to judicial review to
+test the question of legality. Such a result would mean quite generally
+that the rulemaking activity of federal agencies could not be subject to
+challenge from the objects of regulation. For this reason, the claim that
+courts should protect only traditional or individual rights cannot be
+made in terms of numbers alone.' 8 2</p>
+        <p>It is quite plausible to suggest that citizen or taxpayer standing
+ought to be unavailable, certainly in the absence of clear congressional
+authorization.18 3 A rule of that sort can be supported by the basic
+consideration that underlies the injury-in-fact requirement. People
+ordinarily treated as bystanders ought not to be allowed to disrupt mutually
+advantageous relations, 8 4 and in any case political remedies are most
+reliable when all citizens are affected in the same way. This assumption
+is part of the set of prudential limitations on standing' 8 5 -judge-made
+clear statement principles that are subject to congressional override. l8 6
+To say that citizen or taxpayer standing should be unavailable is not,
+however, to say that when large numbers of people are affected by
+agency action, they should be remitted to political remedies, whether
+they are beneficiaries or objects of regulation. In both cases, the
+plaintiffs are seeking to require administrators to comply with statutory
+requirements; in both cases, the plaintiffs represent a subcategory of the
+citizenry; and in both cases, judicial relief should be available to bring
+about conformity to the law. i8 7 Nothing in article III argues against
+182. On this score, the analysis in SCRAP is correct. See SCRAP, 412 U.S. at
+686-88 ("To deny standing to persons who are in fact injured simply because many
+others are also injured, would mean that the most injurious and widespread government
+actions could be questioned by nobody. We cannot accept that conclusion.").
+183. See supra note 105.</p>
+        <p>184. See supra notes 156-57 and accompanying text. The term "bystander" is
+subject to the usual qualification: the question whether someone is a bystander cannot be
+decided prelegally, but is instead a function of the governing legal rules.</p>
+        <p>185. Valley Forge Christian College v. Americans United for Separation of Church
+and State, Inc., 454 U.S. 464, 474-75 (1982) (listing prudential limitations).</p>
+        <p>186. Clarke v. Securities Indus. Ass'n, 107 S. Ct. 750, 754 n.7 (1987) (prudential
+limitations subject to congressional override).</p>
+        <p>187. In Centerfor Auto Safety v. Thomas, Judge Silberman, concurring, suggests that a
+class ofconsumers ought not to have standing to challenge regulatory action that makes
+certain products available at'higher cost or not available at all-even if the relevant
+action is unlawful, and even if Congress has expressly granted standing in such cases.
+847 F.2d 843, 886 (D.C. Cir.) (Silberman, J., concurring), vacated per curiam No.
+851515 (D.C. Cir. Sept. 16, 1988) (en banc). The underlying reasoning is obscure. The
+rule against taxpayer or citizen standing is prudential in character, and the grant of
+standing to classes of consumers is designed to vindicate statutory requirements against
+administrative illegality. It is true that all citizens are in a sense consumers, id., but in
+the relevant cases a subgroup of consumers seeking to purchase a particular product is
+contending that the agency has violated statutory requirements. It is no more plausible
+to deny standing because the relevant consumers are numerous than it is plausible to
+this view, and the APA is best interpreted to grant standing in both
+cases, even if the class of plaintiffs is quite large.</p>
+        <p>An alternative view would not emphasize numbers, but would
+instead distinguish sharply between the injuries of regulated entities and
+those of regulatory beneficiaries. But this view, depending as it does on
+nineteenth century conceptions of legal harm, cannot be sustained.'8 8
+Congress has abandoned those conceptions, and in light of that
+abandonment, the interests of beneficiaries are no more "general" or
+"societal," and no less individual, than those of regulated entities.</p>
+        <p>2. The "Take Care" Clause. - It is possible to supplement the
+distinction between regulated entities and regulatory beneficiaries with a
+reference to the "take Care" clause.' 8 9 On one view, the clause makes
+it problematic for courts to compel executive implementation, rather
+than to prevent agency action. In the former case, it might seem that
+courts are usurping the President's power to "take Care" that the laws
+are faithfully executed.</p>
+        <p>The "take Care" clause, however, is a duty, not a license. 190 The
+clause requires the President to carry out the law as enacted by
+Congress. It does accord to the President-and no one else-the authority
+to control the execution of the law when Congress has not spoken, and
+that authority will involve a measure of discretion. But the President's
+discretion, and the "take Care" clause in general, do not authorize the
+executive branch to violate the law through insufficient action any more
+than they authorize it to do so through overzealous enforcement.' 9 1</p>
+        <p>If administrative action is legally inadequate or if the agency has
+violated the law by failing to act at all, there is no usurpation of
+executive prerogatives in ajudicial decision to that effect.' 92 Such a decision
+is necessary in order to vindicate congressional directives, as part of the
+judicial function "to say what the law is.' 9 3 The "take Care" clause
+deny standing to the objects of carcinogen regulation because the relevant industry has
+many members-or because the ultimate objects of regulation are consumers in that
+setting as well.</p>
+        <p>188. See supra notes 175-76 and accompanying text (arguing that the view
+depends on an anachronistic conception of injury, is inconsistent with congressional
+directives, and creates odd incentives for administrators); infra notes 205-32 (discussing
+article III).</p>
+        <p>189. The President "shall take Care that the Laws be faithfully executed." U.S.
+Const. art. II, § 3, cl. 4.</p>
+        <p>190. Allen v. Wright, 468 U.S. 737, 792-95 (1984) (Stevens, J., dissenting); see
+Miller, The President and Faithful Execution of the Laws, 40 Vand. L. Rev. 389, 396-97
+(1987).</p>
+        <p>191. Miller, supra note 190, at 398.</p>
+        <p>192. To be sure, there may be difficult remedial problems in suits of this sort. See
+Garland, Deregulation and Judicial Review, 98 Harv. L. Rev. 505, 562-63 (1985).
+Those problems, however, do not bear on the issue of standing and should be taken care
+of under a separate line of analysis. See Fallon, supra note 5, at 22-47, for a detailed
+discussion.</p>
+        <p>193. Marbury v.Madison, 5 U.S. (ICranch) 137, 177 (1803). It is for this reason
+and concerns of separation of powers argue in favor of rather than
+against a judicial role when statutory beneficiaries challenge agency
+behavior as legally inadequate.</p>
+        <p>3. PoliticalRedress. - It is not persuasive to respond that the legal
+claims of statutory beneficiaries are properly handled in the political
+process and not in the judiciary. To be sure, judicial review must be
+seen as only a part of the network of controls on administrative action.
+It is a large mistake to focus exclusively on the courts.1 9 4 In these
+cases, however, the claim is that a regulatory agency has violated a
+statute. Arguments that invoke the primacy of the democratic process call
+for judicial involvement. The plaintiff is seeking to compel the
+executive to comply with the political resolution as it is expressed in law. In
+this sense, the problem of standing presents distinctive considerations
+in the statutory realm. Nor is there a reason to distinguish between
+these claims and the legal claims of regulated industries, which are of
+course protected through the judiciary; a system that made the courts
+available only to the latter would be hard to defend.</p>
+        <p>In addition, the cases at issue involve legal, not political, claims-a
+point often missed in the opinions.' 95 If the argument is genuinely
+political in character, the plaintiff will lose on some ground other than
+standing-either because there is no plausible claim on the merits, or
+because the decision is committed to agency discretion by law.195 It is
+true that cases of this sort will often involve a wide range of interests
+and a number of affected parties. That fact should not, however,
+obscure the point that the plaintiff's objection is that the agency has
+violated a congressional directive; there are legally cognizable standards
+by which to resolve that issue. 19 7 Far better devices than standing are
+that the quotation from Allen v. Wright, see supra note 142 and accompanying text, is
+largely a muddle. The question in that case was not whether courts should be "
+'continuing monitors of the wisdom and soundness of Executive action,' "Allen, 468 U.S. at 760
+(quoting Laird v. Tatum, 408 U.S. 1, 15 (1972)); it was whether the agency's policies
+violated the governing statute. See id. at 784 (Stevens, J., dissenting).</p>
+        <p>194. See M. Reagan, Regulation: The Politics of Policy 113-17 (1987); D. Riley,
+Controlling the Federal Bureaucracy 159-60 (1987); Sunstein, supra note 21, at 463-78.</p>
+        <p>195. See Allen, 468 U.S. at 759-61; Center for Auto Safety v. Thomas, 847 F.2d
+843, 882-83 (D.C. Cir.) (Silberman, J., concurring), vacated per curiam, No. 85-1515
+(D.C. Cir. Sept. 16, 1988) (en banc).</p>
+        <p>196. Some plaihtiffs should, however, be precluded from bringing suit because of
+the generalized character of their claims. See supra note 179 and accompanying text.</p>
+        <p>197. In this respect, standing issues are quite different in the constitutional and
+statutory realms. It is at least plausible to invoke such limitations as a prudential notion
+designed to limit use of the Constitution to challenge legislative or executive behavior.
+See A. Bickel, supra note 20, at 116-27 (judiciary's self-restraint in not granting
+standing reduces clash between judiciary and other branches and preserves its power). Such
+limitations received much of their impetus from efforts to insulate New Deal programs
+from intervention from ajudiciary perceived to be hostile to regulation. See supra notes
+20-25 and accompanying text. It is far less plausible to invoke prudential concerns as a
+reason to shield administrative agencies from congressional limitations.</p>
+        <p>The best argument in this connection would emphasize that governing legal
+stanavailable for reducing inappropriate judicial intrusions in such cases,
+including, most prominently, deference on the merits.</p>
+        <p>The most general point is that there is no incompatibility between
+a system of administrative regulation and a continued regime ofjudicial
+control of administrative illegality. 198 Some of current law reflects an
+emerging but still tentative belief-reminiscent of the New Deal-in
+administrative autonomy from judicial intrusions, a belief that is
+supported by similar references to agency expertise and accountability. 199
+Here, however, the skepticism about judicial intrusion is typically
+associated with fear that courts will compel rather than proscribe
+administrative regulation 2 0 0-a peculiar reversal of the New Deal concern that
+courts would invalidate, on ideological grounds, necessary
+administrative action.</p>
+        <p>From the standpoint of the separation of powers, this skepticism is
+as myopic as its New Deal predecessor. There is no inconsistency
+between adherence to law and administrative regulation, even if legal
+intrusions occasionally produce pathologies. 20 Statutory requirements
+will sometimes call for or proscribe agency action. Under the APA,
+suits by those with a legal interest or an injury in fact as understood
+here-including both beneficiaries and regulated entities, if
+anachronistic concepts of this sort are to be used-should therefore be
+permitted.</p>
+        <p>It is, moreover, possible to read the recent cases relatively
+narrowly. Both EKWRO and Allen involved efforts by one taxpayer to
+litigate the tax liability of another. In neither case, moreover, were the
+injuries characterized as regulatory harms. Bakke, 20 2 the Centerfor Auto
+Safety cases, 20 3 and other decisions 20 4 suggest that under some
+constidards are often ambiguous and suggest that in the absence of injury to an object of
+regulation, outcomes should be the product of the political process, as reflected in
+informal interactions involving the executive branch, legislative authorities, and affected
+groups. This argument is, however, hard to defend when there is an injury in fact to a
+regulatory beneficiary who is within the zone of protected interests. See supra notes
+182-88 and accompanying text (criticizing distinction between objects and beneficiaries
+of regulation).</p>
+        <p>198. The nature ofjudicial intrusion must be made to accommodate the dynamics
+of the regulatory process, and here there is considerable room for substantive
+regulatory change and reform of the approaches of reviewing courts. See Mashaw &amp; Harfst,
+supra note 132, at 312-16 (criticizing judicial review of rulemaking in NHTSA context);
+Stewart, supra note 87, at 683-85 (suggesting market incentives replace legal regulation
+in certain settings).</p>
+        <p>199. See supra notes 20-25 and accompanying text.</p>
+        <p>200. Thus, most of the standing cases involve suits brought by regulatory
+beneficiaries.</p>
+        <p>201. See Mashaw &amp; Harfst, supra note 132, at 302-09 (discussing pathologies of
+legalism); Stewart, supra note 87, at 673-78 (same).</p>
+        <p>202. See supra notes 169-71 and accompanying text.
+203. See supra notes 117-24 and accompanying text.
+204. See cases cited supra note 172.
+tutional and statutory provisions, the device of recharacterization is
+appropriate. There is thus reason to believe that the causation
+requirements will not signal a significant departure from the
+understandings that underlay the rejection of private-law notions of standing.</p>
+      </sec>
+      <sec id="sec-2-3">
+        <title>D. Injury, Causation,and Article III: An Excursus</title>
+        <p>Because references to article III have played a prominent role in
+recent standing decisions, it is useful to conclude with a brief treatment
+of the relationship between the causation requirements, the
+characterization of injuries, and the case or controversy requirement of article
+111.205</p>
+        <p>The connection between standing limitations and article III is far
+from clear. Article III limits federal 'courts to cases or controversies,
+but this limitation does not explicitly require that plaintiffs have a
+particular stake in the outcome. A case or controversy might exist quite
+apart from whether there is an injury, legal or otherwise, to the
+complainant. To explore the problem, it is useful to distinguish among
+three conceptions of the relationship between article III and standing
+requirements. The first view would allow Congress to create judicially
+cognizable injuries whenever it chooses; the second would interpret
+article III to require a traditional private right; the third would impose
+some limitations on congressional power to create judicially
+enforceable rights, but would allow courts to redress regulatory harms of the
+sort involved in the Centerfor Auto Safety and similar cases.</p>
+        <p>On the first view, article III requires a case or controversy, but
+whether there is a case or controversy is something on which, with
+respect to standing, article III is silent. The existence of a case or
+controversy with respect to standing is a question of positive law and
+therefore for congressional resolution. Whether there is standing
+depends on whether positive law has created it by granting a cause of
+action or a legal right or immunity to the particular plaintiff. On this
+view, article III does require standing in the form of a legally
+cognizable injury; but article III does not say whether there is a legal injury in a
+particular case. The existence of standing, like the existence of
+property, depends on what the law provides. 20 6 Whether there is a "case or
+205. See generally Berger, supra note 8, at 827 (questioning the historical accuracy
+of the "personal stake" element of the article III "case or controversy" requirement in
+Flast v. Cohen); Currie, Judicial Review Under Federal Pollution Laws, 62 Iowa L. Rev.
+1221, 1225-47 (1980) (surveying requirements for judicial review under Glean Air Act
+and Federal Water Pollution Control Act); Currie, supra note 103, at 183-85 (criticizing
+Court as "unnecessarily stingy" in denying plaintiffs standing in EKWRO); Fallon, supra
+note 5, at 47-59 (arguing in favor of broad congressional power to create legal rights
+and therefore standing);Jaffe, supra note 8, at 1037-39 (arguing for a broader definition
+of "case or controversy").</p>
+        <p>206. In this respect, the problem of standing is distinct from the questions of
+ripeness, mootness, and advisory opinions. The latter requirements are not wholly within
+congressional control, though the legislative power to define injury includes some
+controversy" is not answered by article III, but instead by Congress and
+the Constitution in creating legal rights and obligations.</p>
+        <p>On this view, moreover, the existence of standing and the
+existence of a cause of action present the same basic question. And in this
+respect, the requirement of standing serves an important
+separation-ofpowers function, by ensuring that it will be Congress, rather than the
+courts, that will decide who may bring suit against the government.
+This view has two principal implications. The first is that litigants do
+not have standing unless Congress or the Constitution has granted
+them a right to bring suit. This view draws considerable support from
+the first hundred and fifty years or so of the republic. 20 7 It also receives
+significant though not unanimous support from the recent cases. 20 8
+power over these requirements as well. What is distinctive about standing is that its
+existence depends on the creation of a legal right. While there may be some limitations
+on congressional power to create standing, those limitations, if they exist, are quite
+insubstantial. See infra notes 221-32 and accompanying text. In all of these settings,
+however, the New Deal reformation has large implications; but the general relationship
+between justiciability and the rise of the administrative state is beyond the scope of the
+present discussion.</p>
+        <p>207. See Berger, supra note 8, at 22 (arguing against "personal stake"
+requirement); Jaffe, supra note 8, at 1035 (arguing in favor of private attorneys general);
+Winter, supra note 8, at 1394-1409.</p>
+        <p>208. See Clarke v. Securities Indus. Ass'n, 107 S.Ct. 750, 757-58 (1987); Havens
+Realty Corp. v. Coleman, 455 U.S. 363, 372-73 (1982). But see Allen v. Wright, 468
+U.S. 737 (1984); EKWRO, 426 U.S. 26 (1976).</p>
+        <p>When the objects of regulation are seeking to test the question of authorization, it is
+plausible to understand previous doctrine as having been rooted in a belief that the due
+process clause implicitly furnishes a cause of action to bring suit. It was on this
+understanding that courts permitted regulated entities to challenge unlawful administrative
+incursions on their interests. This reading of the cases raises interesting questions
+about more modern and more controversial cases in which plaintiffs claim that a
+constitutional provision implicitly creates a cause of action. See, e.g., Bivens v. Six Unknown
+Named Agents of Fed. Bureau of Narcotics, 403 U.S. 388, 390-92 (1971). The
+difference is that in some of the most controversial of the modern cases, damages are often
+sought, and it may be less clear that plaintiffs are seeking to fend off unauthorized
+governmental intervention; but that distinction is quite thin.</p>
+        <p>On this view, moreover, some of the cases involving standing to assert
+constitutional claims raise the question, not whether there is injury in fact, but whether the
+relevant provision creates a cause of action. Flast v. Cohen, 392 U.S. 83 (1968), would
+be understood as recognizing an implied cause of action under the establishment clause
+when certain conditions are met. Valley Forge Christian College v. Americans United
+for Separation of Church and State, 454 U.S. 464 (1982), denied a cause of action when
+those conditions were not met. Bivens, Flast, and Valley Forge thus raise closely related
+questions. Furthermore, the struggle over the characterization of the plaintiff's injury in
+cases involving constitutional claims might be understood as part of an effort to define
+the circumstances in which constitutional provisions implicitly create causes of action.
+In addition, the manipulable character of the causation requirements in constitutional
+cases might be defended on the basis of the (controversial) claim, made most notably in
+A. Bickel, supra note 20, at 115-27, that courts use doctrines of justiciability so as to
+control the amount and timing of their intervention into the democratic process. The
+discussion in the text, however, deals with the question whether and when the
+ConstituThe second implication is that if Congress has granted such a right,
+there is no problem under article III.</p>
+        <p>Notably, the pre-Data Processingview of standing largely
+incorporates this understanding of article 111.209 The legal-interest test reflects
+a conception of standing that draws an inference of congressional
+intent to allow the plaintiffs' action to go forward on the basis of the
+congressional desire to protect their interests in the regulatory process.</p>
+        <p>There is much to be said in favor of this view of article 111.210
+Insofar as it suggests that the problem of standing is largely within
+congressional control, it seems to be correct as a matter of both history and
+logic. The basic position has, moreover, been accepted explicitly or
+implicitly in a number of recent decisions by the Supreme Court.2 1 1
+Those decisions recognize that the problem of standing is, in
+administrative-law cases, governed by the APA, 21 2 and that Congress can create
+standing if it chooses. 2 13 In this view, Congress can create a legal
+injury where none had existed before. Consider the fact that the
+Freedom of Information Act creates a cause of action for "any person, 2 14
+and that the injury, thus defined, has raised no constitutional
+problem. 21 5 Consider also the legislative creation of citizens' suits under
+various statutes 216 and the creation of legal injuries quite foreign to the
+common law. 2 17
+tion permits Congress to create a cause of action, not with the quite distinct question
+whether the Constitution creates a cause of action of its own force.</p>
+        <p>209. See supra notes 23-51 and accompanying text.</p>
+        <p>210. See Albert, supra note 35, at 450-56 (whether there is standing is the same
+question as whether there is private right of action); Fallon, supra note 5, at 30-34
+(Congress can "adjust doctrines ofjusticiability to allow private parties to enforce
+constitutional rights").</p>
+        <p>211. See Clarke, 107 S. Ct. at 757-58; Diamond v. Charles, 476 U.S. 54, 65 n.17
+(1986); Havens Realty Corp., 455 U.S. at 373 ("The actual or threatened injury required
+by Art. III may exist solely by virtue of 'statutes creating legal rights, the invasion of
+which creates standing .......")(quoting Linda R.S. v. Richard D., 410 U.S. 614, 617 n.3
+(1973)); Association of Data Processing Serv. Orgs., Inc. v. Camp, 397 U.S. 150, 155-56
+(1970).</p>
+        <p>212. 5 U.S.C. § 702 (1982).</p>
+        <p>
+          213. See cases cited supra note 211; see also Tennessee Valley Auth. v. Hill, 437
+U.S. 153, 164 n.15 (1978) (statute allows "any person" to commence a civil action to
+enjoin any individual or government agency that is alleged to be in violation of the
+Endangered Species Act of 1973); Trafficante v. Metropolitan Life Ins. Co., 409 U.S. 205,
+209-10 (1972)
+          <xref ref-type="bibr" rid="ref1">(Congress intended that complaints by private persons be the primary
+method of obtaining compliance with the Civil Rights Act of 1968)</xref>
+          . See generally Fallon,
+supra note 5, at 48-54 (recognizing broad congressional power to create legal rights and
+therefore standing).
+        </p>
+        <p>214. 5 U.S.C. § 552 (1982).</p>
+        <p>215. See, e.g., Brandon v. Eckard, 569 F.2d 683, 687-88 (D.C. Cir. 1977) (affirming
+validity of congressional grant of standing in FOIA cases).</p>
+        <p>216. See, e.g., Surface Mining Control and Reclamation Act of 1977, 30 U.S.C.
+§ 1270 (1982); Energy Policy and Conservation Act, 42 U.S.C.A. § 6305 (West 1983 &amp;
+Supp. 1988); Clean Air Act, 42 U.S.C. § 7604 (1982).</p>
+        <p>217. See Havens Realty Corp. v. Coleman, 455 U.S. 363, 373 (1982) (Section 804</p>
+        <p>For the most part, the question of standing therefore involves the
+meaning of congressional enactments. 2 18 The Data Processing
+requirement of "injury in fact" has confused this point. But it is notable that
+the Supreme Court has also said that this requirement is a creation of
+Congress in enacting the APA, emphasizing that the APA generally
+creates standing for those whb are harmed, and that there need be no
+separate indication of congressional intent to create a cause of
+action.2 1 9 The downfall of the legal interest test in Data Processingis thus
+an interpretation of the APA, 220 and the problem of standing in this
+sense remains within congressional control.</p>
+        <p>
+          The claim that the problem of standing is for congressional
+resolution might be thought to run into two sorts of constitutional objections.
+First, the denial of standing, like the denial ofjudicial review, 22 1 might
+sometimes raise serious problems under the due process clause or
+article III. If, for example, Congress provided that those subject to
+environmental regulation could not seek review of the regulation, a serious
+problem would arise under the Constitution. In the modem period,
+the same proposition may sometimes hold for regulatory
+beneficiaries. 22 2 From this direction, one can find a limitation, even if a
+relaof Fair Housing Act of 1968 "establishes an enforceable right to truthful information
+concerning the availability of housing"); Trafficante, 409 U.S. at 212
+          <xref ref-type="bibr" rid="ref1">(Civil Rights Act of
+1968 creates right to protection against housing discrimination)</xref>
+          .
+        </p>
+        <p>218. See Clarke v. Securities Indus. Ass'n, 107 S. Ct. 750, 754 (1987) (describing
+the problem in Data Processingas "basically one of interpreting congressional intent");
+id. at 755 n.9, 757, 758 n.16 (emphasizing that availability of standing is different from
+availability of implied cause of action because of broad purposes of standing provision
+of APA).</p>
+        <p>219. See id.</p>
+        <p>220. But seeJ. Vining, supra note 1, at 39-41; supra notes 36-37 and
+accompanying text.</p>
+        <p>221. See supra note 34 and accompanying text.</p>
+        <p>222. The denial of standing to regulatory beneficiaries would be most likely to run
+into constitutional obstacles if the benefit is individual rather than collective. The issues
+would be (a) whether the due process clause requires judicial review of the
+administrative determination and (b) whether article III requires some role for a federal court in
+supervising the administrative decision. See Fallon, supra note 32, at 963-67; cf.
+Webster v. Doe, 108 S. Ct. 2047, 2051-52 (1988) (construing CIA statute so as to permit
+judicial review of constitutional claims); id. at 2058-60 (Scalia, J., dissenting) (arguing
+that there is no general right to judicial review); Goldberg v. Kelly, 397 U.S. 254,
+260-61 (1970) (welfare benefits qualify as property for purposes ofprocedural due
+process).</p>
+        <p>If the answer to either question is in the affirmative, a legislative repeal of the
+standing provisions of the APA, or a general effort to insulate administrators from judicial
+review, would run into serious constitutional difficulty-unless heavy reliance is placed
+on the distinction between legislative and adjudicative determinations. Compare
+BiMetallic Inv. Co. v. State Bd. of Equalization, 239 U.S. 441, 445 (1915) (taxpayer has no
+due process right to a hearing when tax is part of general statute within state power)
+with Londoner v. Denver, 210 U.S. 373, 385 (1908) (when state legislature commits the
+tively unimportant one in practice, 223 on the claim that the question of
+standing is for congressional resolution.</p>
+        <p>The second constitutional objection is that the grant of standing
+might sometimes be thought to raise questions under article III-an
+objection that can be generalized into a second and different view of
+the relationship between article III and standing requirements. On this
+view, article III does impose substantive limitations on the sorts of
+injuries that can be redressed in federal court. Only injuries to nineteenth
+century individual rights-those that are, or that resemble,
+commonlaw harms-can be remedied by the judiciary. Congress is without
+power to allow federal courts to remedy certain sorts of injuries, even if
+it attempts to create a cause of action to do precisely that. This view
+takes various forms. 224 In all of those forms, however, the central point
+is plain: article III allows federal courts to vindicate some injuries and
+not others, and the line between them depends on traditional
+conceptions of what constitutes a legal harm.</p>
+        <p>Some of the Court's decisions offer support for this view,
+appearing to conflate APA and constitutional standards, 22 5 to require a
+judicially approved injury in fact no matter what Congress has said, and at
+least to imply that the Constitution disallows standing even if Congress
+has created it.226 For this reason, it is controversial to claim that there
+are no limitations on congressional power to grant standing. To be
+sure, any such limitations should come up infrequently even if they
+exist. But on one view, the requirement of an injury in fact stems from
+determination of the tax to a subordinate body, taxpayer has due process right to a
+hearing).</p>
+        <p>There would be no anomaly in a constitutional order that permitted Congress to
+grant standing freely but limited its power to deny it. A principle of that sort is rooted in
+the idea, with powerful roots in current law, that whether there is a legal "case" is a
+function of positive law, but that there are constitutional limits on Congress's power to
+authorize administrative officials to make unreviewable decisions about legal rights. But
+a detailed exploration of these complex issues is beyond the scope of the present
+discussion.</p>
+        <p>223. The background rule recognized in the APA, allowing standing for regulated
+entities and beneficiaries, means that the constitutional objection will come up quite
+rarely, if at all.</p>
+        <p>224. Thus it might be said that Congress is without power to authorize courts to
+remedy probabilistic or systemic harms, or that courts may redress only injuries of the
+sort cognizable at common law, or, more narrowly, that article III forbids Congress from
+conferring on citizens a right to vindicate merely ideological claims. On the latter view,
+Sierra Club v. Morton, 405 U.S. 727 (1972), is properly decided as a matter of article III,
+but Congress has the constitutional power to overrule the decisions in, for example,
+Allen v. Wright, 468 U.S. 737 (1984), EKWRO, 426 U.S. 26 (1976), and Warth v. Seldin,
+422 U.S. 490 (1975).</p>
+        <p>225. Allen, 468 U.S. at 750-56; EKWRO, 426 U.S. at 38; United States v. SCRAP,
+412 U.S. 669 (1973). But see Clarke v. Securities Indus. Ass'n, 107 S. Ct. 750 (1987).</p>
+        <p>226. Allen, 468 U.S. at 750-52; EKWRO, 426 U.S. at 38-41. The cases are,
+however, quite ambiguous on this point. See supra note 208.
+article III; it forbids courts to redress or prevent regulatory harms; and
+the requirement cannot be overcome by statute.</p>
+        <p>That view is, however, misguided. 22 7 The best interpretation of
+article III would recognize that Congress has the authority to define
+legal rights and obligations, and that it may therefore, by statute, create
+an injury in fact where, as far as the legal system was concerned, there
+had been no injury before. Article III does not require an injury in fact,
+even if the APA does, and article III certainly does not require a
+traditional private right. Article III requires a case or controversy, a concept
+that depends on the acts of Congress. Many of the Court's decisions
+appear to recognize this point.2 28</p>
+        <p>In this respect, the question whether an injury is merely ideological
+or instead legal is one of positive law; there is no pre- or post-legal
+metric for distinguishing between the two. This view draws support
+from the original understanding of the case-or-controversy
+requirement.2 29 It also draws support from the view, prominent in the
+postNew Deal period as well as in the founding era, that whether there is a
+case or controversy, or a legal injury and legal right, cannot be
+understood independently of what the law provides. The modem network of
+legal rights may or may not closely resemble the sorts of interests
+protected at common law, and nothing in the Constitution requires that
+they do so. There is much to be said, then, in favor of the view that
+article III does not limit Congress' power to grant standing, and that
+the only limitations, grounded in article III and the due process clause,
+are those that prohibit Congress from denying standing in certain
+cases. The contrary position is based on a peculiar and quite modem
+revisionist reading of the Brandeis-Frankfurter effort-itself
+revisionist-to immunize administrative regulation from judicial control. 23 0</p>
+        <p>Like the second view, and unlike the first, the third approach reads
+article III as imposing substantive limitations on the sorts of injuries
+that plaintiffs may invoke; but it would allow courts to redress injuries
+that do not in any sense resemble those recognized at common law. On
+this view, Congress could not enact a statute providing, for example,
+that all citizens may bring suit to redress all official illegality. The
+requirement of an injury in fact is thus constitutional in status; it is not
+solely an interpretation of the APA; and merely ideological or law
+enforcement interests cannot be converted into legal harm by legislative
+227. See supra notes 206-20 and accompanying text; see also Berger, supra note 8,
+at 827; Fallon, supra note 5, at 30-34; Stewart, supra note 1, at 1735-42 (all resolving
+the question in the same way as the text).</p>
+        <p>228. See supra note 208.</p>
+        <p>229. See Winter, supra note 8, at 1394-97; see also Berger, supra note 8, at 827,
+832-35 (arguing against requirement of personal stake); Jaffe, supra note 8, at 1034
+(same).</p>
+        <p>230. See Winter, supra note 8, at 1442-52; supra notes 20-25 and accompanying
+text.
+fiat. 23 1 On the other hand, this third view would allow systemic or
+probabilistic harms to be redressed if Congress has created a regulatory
+system to reduce or eliminate those harms. If article III is to be
+understood as imposing substantive limitations on the sorts of injuries that
+may suffice for federal jurisdiction, this third position is preferable to
+the second-even though, for reasons suggested above, the best view is
+that article III permits Congress to create standing as it chooses.</p>
+        <p>It would be ironic indeed if article III were interpreted to preclude
+federal courts from compelling regulatory agencies to adhere to the
+will of Congress by undertaking enforcement action to the degree or of
+the nature that statutes require. Such an interpretation would be
+reminiscent, above all, of the early period of administrative law, when
+constitutional provisions were similarly interpreted so as to frustrate
+regulatory initiatives in deference to private-law understandings of the
+legal system.2 32</p>
+        <p>CONCLUSION</p>
+        <p>The rise of administrative regulation was a deliberate rejection of
+common-law principles. In particular, regulatory regimes often
+repudiated common-law baselines for distinguishing between inaction and
+action, or neutrality and partisanship. In these circumstances, it is not
+surprising that the principles governing legal control of administrative
+behavior have largely abandoned common-law categories, allowing
+courts to remedy violations of statutorily protected interests.</p>
+        <p>Recent decisions by the Supreme Court and some lower courts,
+however, threaten to reintroduce a sharp distinction between the
+interests of regulatory beneficiaries and those ofregulated entities, a
+distinction that would move the law not only toward the period before Data
+Processing, but toward anachronistic understandings that restricted the
+category of legally cognizable interests to nineteenth century private
+rights. The recent use of the causation requirements has been justified
+as an inference from the system of separation of powers, but it is more
+realistically understood as an outgrowth of a private-law model of
+public law, one that stems not from a belief in judicial restraint in the
+abstract, but instead from hostility to suits brought by beneficiaries of
+regulatory programs to ensure fidelity to statute. The reintroduction of
+such hostility would not only be inconsistent with a wide range of cases
+pointing in the direction of an independent public law; it would also
+contradict the text and history of article III, fly in the face of
+congressional understandings and expectations, and skew administrative
+incentives in undesirable directions.</p>
+        <p>231. The view that Congress should be entitled to define legal rights as it wishes is,
+however, supported by judicial acceptance ofvarious provisions furnishing citizens' suits
+against public and private actors. See supra note 77.</p>
+        <p>232. See, e.g., Lochner v. New York, 198 U.S. 45 (1905).</p>
+        <p>Such a step should be firmly resisted. For the most part, the
+question of standing is for legislative resolution. Because the constitutional
+constraints are thin, the law of standing has generally depended on
+congressional intent, which must sometimes be extrapolated on the
+basis of background understandings about the circumstances in which
+judicial relief ought to be presumed to be available.</p>
+        <p>In the 1970s, the Supreme Court interpreted the APA as granting
+standing to almost all those actually harmed by administrative
+illegality2 3 3 -an interpretation that departed from the original understanding
+of the APA, but that can be understood in a way that is largely
+consistent with the basic purposes of that statute, and that placed the
+problem of standing in the control of Congress, where it largely belongs.
+Neither the APA nor article III need be interpreted to make
+commonlaw conceptions of injury controlling in public-law cases. The
+development of a set of independent, principles of public law is a large task
+indeed; but in the context of itanding, a revival of private-law ideas,
+coexisting with administrative regulation, would be singularly
+illconceived.</p>
+        <p>233. The qualification is necessary because (a) the "zone" test prevented suit by
+those whose interests were entirely far afield of the statute and (b) the injury-in-fact test
+had to be interpreted in such a way as to exclude suits by those incidentally or indirectly
+harmed.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          39.
+          <article-title>Office of Communication of the United Church of Christ v</article-title>
+          .
+          <source>FCC</source>
+          ,
+          <volume>359</volume>
+          F.2d
+          <volume>994</volume>
+          ,
+          <fpage>1000</fpage>
+          -06
+          <string-name>
+            <surname>(D.C. Cir</surname>
+          </string-name>
+          .
+          <year>1966</year>
+          )
+          <article-title>(viewers of television had standing under Federal Communications Act to contest renewal ofbroadcast license); Norwalk CORE v</article-title>
+          .
+          <source>Norwalk Redevelopment Agency</source>
+          ,
+          <volume>395</volume>
+          F.2d
+          <volume>920</volume>
+          ,
+          <fpage>932</fpage>
+          -
+          <lpage>37</lpage>
+          (
+          <issue>2d</issue>
+          <year>Cir</year>
+          .
+          <year>1968</year>
+          )
+          <article-title>(alleged housing discrimination victims had standing under Housing Acts of 1949 and 1954); Scenic Hudson Preservation Conference v</article-title>
+          .
+          <source>FPC</source>
+          ,
+          <volume>354</volume>
+          F.2d
+          <volume>608</volume>
+          ,
+          <fpage>615</fpage>
+          -
+          <lpage>17</lpage>
+          (
+          <issue>2d</issue>
+          <year>Cir</year>
+          .
+          <year>1965</year>
+          )
+          <article-title>(users of environment have standing under Federal Power Act to protect their interests from activities of FPC), cert</article-title>
+          . denied, 384 U.S.
+          <volume>941</volume>
+          (
+          <year>1966</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          67.
+          <string-name>
+            <surname>See L. Tribe</surname>
+          </string-name>
+          , supra note 15, at 1571;
+          <article-title>Tushnet, The Sociology of Article III: A Response to Professor Brilmayer, 93</article-title>
+          <string-name>
+            <given-names>Harv. L.</given-names>
+            <surname>Rev</surname>
+          </string-name>
+          .
+          <volume>1698</volume>
+          (
+          <year>1980</year>
+          ).
+          <article-title>On the ahistorical character of the injury-in-fact test</article-title>
+          ,
+          <source>see Berger, supra note 8</source>
+          , at 827; see also Jaffe,
+          <source>supra note 8</source>
+          , at 1035-37,
+          <issue>1047</issue>
+          (
+          <article-title>Anglo-American courts not restricted by requirement of Hohfeldian plaintiff, and courts should explicitly recognize this and the importance of individual conscience).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          68.
+          <source>See infra notes 156-57</source>
+          ,
+          <fpage>176</fpage>
+          -
+          <lpage>81</lpage>
+          and
+          <article-title>accompanying text (defending injury-infact limitation of APA); infra notes 205-32 and accompanying text (discussing possible article III limitations)</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          69.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          , e.g.,
+          <article-title>Valley Forge Christian College v</article-title>
+          .
+          <source>Americans United for Separation of Church and State</source>
+          , 454 U.S.
+          <volume>464</volume>
+          ,
+          <fpage>471</fpage>
+          -
+          <lpage>76</lpage>
+          (
+          <year>1982</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          70. 405 U.S.
+          <volume>727</volume>
+          (
+          <year>1972</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          71.
+          <article-title>See id. at 734 (alleged injury was adverse effect on national park of recreational development that would "impair the enjoyment of the park for future generations"</article-title>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          72.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          , e.g.,
+          <source>Valley Forge</source>
+          , 454 U.S. at 472-73.
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          73. See Jaffe,
+          <source>supra note 8</source>
+          , at 1044; Meltzer, supra note 4, at 295-313.
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          74.
+          <article-title>The injury-in-fact requirement, however, might be justified as an interpretation of the APA that promotes autonomy and self-determination on the part of those directly affected</article-title>
+          .
+          <source>See infra note 157 and accompanying text.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <article-title>An additional justification for standing limitations is that they are an effective means of limiting the federal caseload. But unless there is an independent reason for the limitation in question, it is an entirely arbitrary way of accomplishing that goal; and in any case, there is little evidence that the elimination of standing requirements would materially affect the number of suits brought in federal court. Indeed, the available evidence suggests that broadened standing has produced very little in the way of increased lawsuits-perhaps an unsurprising result in light of the numerous costs, monetary and nonmonetary, of initiating litigation</article-title>
+          .
+          <source>See K. Davis, Administrative Law Treatise 222-27</source>
+          ,
+          <issue>338</issue>
+          (
+          <year>1983</year>
+          )
+          <article-title>; Fadil, Citizen Suits Against Polluters: Picking Up the Pace, 9</article-title>
+          <string-name>
+            <given-names>Harv. Envtl. L.</given-names>
+            <surname>Rev</surname>
+          </string-name>
+          .
+          <volume>23</volume>
+          ,
+          <issue>29</issue>
+          ,
+          <issue>39</issue>
+          (
+          <year>1985</year>
+          ); Meltzer, supra note 4, at 308-
+          <fpage>09</fpage>
+          .
+          <article-title>Standing limitations are also said to be a component of judicial restraint, or to serve the system of separation of powers. This claim raises more complex issues and is discussed infra notes 182-204 and accompanying text. decision not to bring enforcement proceedings against unauthorized use of approved drug); Block v</article-title>
+          .
+          <source>Community Nutrition Inst.</source>
+          ,
+          <volume>467</volume>
+          U.S.
+          <volume>340</volume>
+          ,
+          <issue>352</issue>
+          (
+          <year>1984</year>
+          )
+          <article-title>(refusing to recognize standing for consumers under Agricultural Marketing Agreement Act); Laird v</article-title>
+          .
+          <source>Tatum</source>
+          , 408 U.S.
+          <volume>1</volume>
+          ,
+          <issue>15</issue>
+          (
+          <year>1972</year>
+          )
+          <article-title>(refusing to allow standing to challenge data-gathering system used by Army at riots</article-title>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          144. See City of Los Angeles v.
+          <source>Lyons</source>
+          , 461 U.S.
+          <volume>95</volume>
+          (
+          <year>1983</year>
+          )
+          <article-title>(refusing to allow equitable relief on basis of past use of "choke holds" by police), discussed critically in Meltzer, supra note 4</article-title>
+          , at 297-327; Rizzo v.
+          <source>Goode</source>
+          , 423 U.S.
+          <volume>362</volume>
+          ,
+          <fpage>371</fpage>
+          -
+          <lpage>76</lpage>
+          ,
+          <issue>380</issue>
+          (
+          <year>1976</year>
+          )
+          <article-title>(refusing to permit injunctive relief on basis of past incidents of mistreatment of black citizens by police); O'Shea v</article-title>
+          .
+          <source>Littleton</source>
+          , 414 U.S.
+          <volume>488</volume>
+          ,
+          <issue>498</issue>
+          ,
+          <issue>502</issue>
+          (
+          <year>1974</year>
+          )
+          <article-title>(illegal bond-setting, sentencing, and other practices by magistrate and circuit courtjudge not sufficient basis for equitable relief</article-title>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          145.
+          <source>See supra notes 107-09 and. accompanying text.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          146. Allen v.
+          <source>Wright</source>
+          , 468 U.S.
+          <volume>737</volume>
+          ,
+          <issue>759</issue>
+          (
+          <year>1984</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          147. See Scalia,
+          <source>supra note 5</source>
+          , at 894-
+          <fpage>97</fpage>
+          .
+          <article-title>The cases thus far have not, however, endorsed this general view</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          148.
+          <string-name>
+            <surname>Allen</surname>
+          </string-name>
+          , 468 U.S. at 761; Heckler v.
+          <source>Chaney</source>
+          , 470 U.S.
+          <volume>821</volume>
+          ,
+          <issue>832</issue>
+          (
+          <year>1985</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          149. U.S. Const. art. II, §
+          <volume>3</volume>
+          ,
+          <issue>cl</issue>
+          . 4.
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          150. See Chevron USA v.
+          <source>NRDC</source>
+          , 467 U.S.
+          <volume>837</volume>
+          ,
+          <fpage>864</fpage>
+          -
+          <lpage>66</lpage>
+          (
+          <year>1984</year>
+          )
+          <article-title>(calling for judicial deference to agency interpretations of law).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          151.
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          <article-title>Vermont Yankee Nuclear Power Corp</article-title>
+          . v.
+          <source>NRDC</source>
+          , 435 U.S.
+          <volume>519</volume>
+          ,
+          <fpage>543</fpage>
+          -
+          <lpage>49</lpage>
+          (
+          <year>1978</year>
+          ).
+          <article-title>The Court stated that in drafting the APA, "Congress intended that the discretion of the agencies and not that of the courts be exercised in determining when extra procedural devices should be employed." Id. at 546 (emphasis in original).</article-title>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+

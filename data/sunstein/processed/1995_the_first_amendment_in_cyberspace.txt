@@ -1,0 +1,2965 @@
+Yale Law Journal Company, Inc.
+
+The Yale Law Journal, Vol. 104, No. 7 (May, 1995), pp. 1757-1804
+
+ 
+
+The First Amendment in Cyberspace 
+Author(s): Cass R. Sunstein 
+Source: 
+Published by: 
+Stable URL: 
+Accessed: 29-10-2015 11:08 UTC
+
+ 
+Yale Law Journal Company, Inc.
+http://www.jstor.org/stable/797031
+
+ 
+
+ 
+
+Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at http://www.jstor.org/page/
+info/about/policies/terms.jsp
+
+ 
+
+JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content 
+in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. 
+For more information about JSTOR, please contact support@jstor.org.
+
+Yale Law Journal Company, Inc. is collaborating with JSTOR to digitize, preserve and extend access to The Yale Law Journal.
+
+ 
+
+ 
+
+http://www.jstor.org
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+The First Amendment in Cyberspace 
+
+Cass R. Sunsteint 
+
+I go on this great republican principle, that the people will have virtue 
+and intelligence to select men of virtue and wisdom. Is there no virtue 
+among us?  If  there be  not,  we  are in  a  wretched situation. No 
+theoretical checks, no form of government, can render us secure. To 
+suppose that any form of government will secure liberty or happiness 
+without any virtue in the people, is  a  chimerical idea. If  there be 
+sufficient  virtue  and  intelligence in  the  community, it  will  be 
+exercised in the selection of these men; so that we do not depend on 
+their virtue, or put confidence in our rulers, but in the people who are 
+to choose them.' 
+
+[T]he right of  electing the members of  the Government constitutes 
+more particularly the essence of a free and responsible government. 
+The value and efficacy of this right depends on the knowledge of the 
+comparative merits and demerits of the candidates for public trust, and 
+on  the  equal freedom, consequently, of  examining and discussing 
+these merits and demerits of the candidates respectively.2 
+
+"[T]elevision is just another appliance. It's a toaster with pictures."3 
+
+t  Karl N. Llewellyn Distinguished Service Professor of Jurisprudence, Law School and Department 
+of Political Science, University of Chicago. I am grateful to Elena Kagan, Larry Lessig, Geoffrey Stone, 
+David Strauss, and Eugene Volokh for helpful comments, and to Sophie Clark for research assistance and 
+valuable discussions. An overlapping but much shorter essay, The Future of the First Amendment, appears 
+as an afterword to CASS R. SUNSTEIN, DEMOCRACY AND THE PROBLEM OF FREE SPEECH (2d ed. 1995). 
+
+1.  James Madison, Remarks to the Virginia Convention (June 20,  1788), in 3 THE DEBATES IN THE 
+SEVERAL STATE CONVENTIONS ON THE ADOPTION OF THE FEDERAL CONSTuMON 536-37  (photo. reprint 
+1987) (Jonathan Elliot ed., 2d ed.  1836). 
+
+2.  James Madison, Report on  the Virginia Resolutions, Feb. 7,  1777,  in  6  WRITINGS OF JAMES 
+
+MADISON 341, 397 (Gaillard Hunt ed., 1906) In his report, Madison objects to the Sedition Act on First 
+Amendment grounds. 
+
+3.  Bernard D. Nossiter, Licenses To Coin Money: The FCC.'s  Big Giveaway Show, 240 NATION 402 
+
+(1985) (quoting Mark Fowler, former FCC Chair). 
+
+1757 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1758 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+I.  THE FUTURE 
+
+Imagine you  had  a  device  that combined a  telephone, a  TV,  a 
+camcorder, and a personal computer. No  matter where you went or 
+what time it was, your child could see you and talk to you, you could 
+watch a replay of your team's last game, you could browse the latest 
+additions to the library, or you could find the best prices in town on 
+groceries, furniture, clothes-whatever  you needed. 
+
+Imagine further the dramatic changes in your life if: 
+* The best schools, teachers, and courses were available to  all 
+students,  without  regard to  geography, distance,  resources,  or 
+disability; 
+
+* The vast resources of art, literature, and science were available 
+everywhere, not just  in  large institutions or big-city libraries and 
+museums; 
+
+* Services that improve America's health care system and respond 
+to other important social needs were available on-line, without waiting 
+in line, when and where you needed them; 
+
+* You could live in many places without foregoing opportunities 
+for useful and fulfilling employment, by  "telecommuting" to  your 
+office through an electronic highway . . . 
+
+* You could see the latest movies, play the hottest video games, 
+or bank and shop from the comfort of  your home whenever you 
+chose; 
+
+* You could obtain government information directly or through 
+local organizations like libraries, apply for and receive government 
+benefits electronically, and get in  touch with government officials 
+easily .... 
+
+Thus wrote the Department of Commerce on September 15, 1993, when the 
+federal government announced an "Agenda for Action" with respect to "the 
+National  Information Infrastructure."5 The  statement may  seem  weirdly 
+futuristic, but the nation is not at all far from what it prophesies, and in ways 
+that have already altered social and legal relations and categories. 
+
+Consider the  extraordinarily rapid development of  the  institution of 
+electronic mail, which lies somewhere between ordinary conversation ("voice 
+mail") and ordinary written communication ("snail mail" or "hard mail"), or 
+which perhaps should be described as something else altogether. E-mail has its 
+own characteristic norms and constraints. Those norms and constraints are an 
+important part of the informal, unwritten law of cyberspace. The norms and 
+constraints are a form of customary law, determining how and when people 
+
+4.  Administration Policy Statement, 58 Fed. Reg. 49,026 (1993). 
+5.  Id. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1759 
+
+communicate with one another.6 Perhaps there will be a formal codification 
+movement before too long; certainly the norms and constraints are codified in 
+the sense that, without government assistance, they are easily accessible by 
+people who want to know what they are.7 
+
+The Commerce Department's claims about location have started to come 
+true. What it meant to "live in California" became altogether different, after 
+the invention of  the airplane, from what it  meant in  (say)  1910. With the 
+advent of new communications technologies, the meaning of the statement, "I 
+live  in California" has changed at least as dramatically. If people can have 
+instant access to all libraries and all movies, and if they can communicate with 
+a wide range of public officials, pharmacists, educators, doctors, and lawyers 
+by  touching a  few  buttons, they  may  as  well  (for  most  purposes) live 
+anywhere. 
+
+In any case, the existence of  technological change promises to test the 
+system of  free expression in dramatic ways. What should be expected with 
+respect to the First Amendment? 
+
+II.  THE PRESENT: MARKETS AND MADISON 
+
+There are two free speech traditions in the United States, not simply one.8 
+There have been two models of the First Amendment, corresponding to the 
+two  free  speech  traditions. The  first emphasizes well-functioning speech 
+markets. It can be traced to Justice Holmes' great Abrams dissent,9 where the 
+notion of a "market in ideas" received its preeminent exposition. The market 
+model  emerges  as  well  from  Miami  Herald  Publishing  Co.  v.  Tornillo,10 
+invalidating a "right of reply" law as applied to candidates for elected office. 
+It finds its most recent defining statement not in judicial decisions, but in an 
+FCC opinion rejecting the fairness doctrine. 
+
+The second tradition, and the second model, focuses on public deliberation. 
+The  second  model can  be  traced from its  origins in  the  work of  James 
+Madison,12 with his  attack on  the idea of  seditious libel,  to  Justice Louis 
+Brandeis, with his suggestion that "the greatest menace to freedom is an inert 
+
+6.  See  HOWARD  RHEINGOLD,  THE  VIRTUAL  COMMUNITY  38-64  (1993). The area thus fortifies the 
+analysis  in ROBERT C. ELLICKSON, ORDER WITHOUT LAW (1991),  of  how  social  norms can develop  lawlike 
+constraints in the absence of actual law. 
+
+7.  LEXIS Counsel Connect has posted a statement of recommended online etiquette, which, following 
+customary usage, it calls "netiquette." LEXIS Counsel Connect, Netiquette, Aug. 13, 1994, available online 
+at LEXIS Counsel Connect, Discuss Menu, Browse: About the Discussion Groups Forum. 
+
+8.  The distinction is elided in the best general treatment, HARRY KALVEN JR., A WORTHY TRADITION 
+
+(1992). 
+
+9.  Abrams v. United States, 250 U.S. 616, 624 (1919) (Holmes, J., dissenting). 
+10.  418 U.S. 241 (1974). 
+11.  Syracuse Peace Council v. Television Station WTVH, 2 F.C.C.R. 5043, 5054-55  (1987). 
+12.  See CAss  R.  SUNSTEIN,  DEMOCRACY  AND  THE  PROBLEM  OF  FREE  SPEECH  at  xvi-xvii  (1993). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1760 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+people,""3 through the work of Alexander Meiklejohn, who associated the free 
+speech principle not with laissez-faire economics, but with ideals of democratic 
+deliberation.14 The  Madisonian tradition culminated in  New  York Times v. 
+Sullivan15 and the  reaffirmation of  the  fairness doctrine in  the  Red Lion 
+case,16 with  the  Supreme Court's suggestion that governmental efforts to 
+encourage diverse views and attention to public issues are compatible with the 
+free speech principle--even if they result in regulatory controls on the owners 
+of speech sources. 
+
+Under the marketplace metaphor, the First Amendment requires-at  least 
+as  a  presumption-a  free  speech market, or  in  other words a  system of 
+unrestricted economic markets in speech. Government must respect the forces 
+of  supply and demand. At the very least, it may not regulate the content of 
+speech so as to push the speech market in its preferred directions. Certainly it 
+must be  neutral with  respect to  viewpoint. A  key  point for  marketplace 
+advocates is that great distrust of government is especially appropriate when 
+speech is  at  issue. Illicit motives are far too  likely to  underlie regulatory 
+initiatives. For the marketplace model, Tornillo'7 is perhaps the central case. 
+The FCC has at times come close to endorsing the market model, above all in 
+its  decision abandoning the fairness doctrine.'8 When the FCC did this, it 
+referred to the operation of the forces of  supply and demand, and suggested 
+that those forces would produce an optimal mix of  entertainment options."9 
+Hence former FCC Chair Mark Fowler described television as "just another 
+appliance. It's  a  toaster with  pictures."20 Undoubtedly, the  rise  of  new 
+communications technologies will be taken to fortify this claim.21 
+
+Those who endorse the marketplace model do not claim that government 
+may not do anything at all. Of course government may set up the basic rules 
+of property and contract; it is these rules that make markets feasible. Without 
+such rules, markets cannot exist  at all.22 Government is  also permitted to 
+
+13.  Whitney v. California, 274 U.S. 357, 375 (1927) (Brandeis, J., concurring). 
+14.  ALEXANDER MEIKLEJOHN, FREE SPEECH AND ITS RELATION TO SELF-GOVERNMENT (1948). 
+15.  376 U.S. 254 (1964). 
+16.  Red Lion Broadcasting Co. v. FCC, 395 U.S. 367 (1969). 
+17.  418 U.S. 241 (1978). 
+18.  See Syracuse Peace Council v. Television Station WTVH, 2 F.C.C.R. 5043, 5055 (1987). 
+19.  See id. 
+20.  Nossiter, supra note 3, at 402. 
+21.  See  Thomas G.  Krattenmaker &  L.A. Powe, Jr., Converging First Amendment Principles for 
+
+Converging Communications Media, 104 YALE L.J. 1719 (1995). 
+
+22.  Thus wrote the greatest critic of socialism in the 20th century: 
+
+It is regrettable, though not difficult to explain, that in the past much less attention has 
+been given to the positive requirements of a successful working of the competitive system than 
+to  these  [previously discussed] negative points. The functioning of  a  competition not only 
+requires adequate organization of  certain institutions like money, markets, and channels of 
+information-some  of  which can never be adequately provided by private enterprise-but  it 
+depends, above all, on the existence of  an appropriate legal system, a legal system designed 
+both to preserve competition and to make it operate as beneficially as possible.... 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1761 
+
+protect against market failures, especially by  preventing monopolies and 
+monopolistic practices. Structural regulation is  acceptable so  long as it is  a 
+content-neutral attempt to ensure competition. It is therefore important to note 
+that advocates of marketplaces and democracy might work together in seeking 
+to curtail monopoly. Of course, the prevention of monopoly is a precondition 
+for well-functioning information markets. 
+
+Government has a final authority, though this authority does not easily fall 
+within the marketplace model itself. Most people who accept the marketplace 
+model acknowledge that government is permitted to regulate the various well- 
+defined  categories  of  controllable speech,  such  as  obscenity,  false  or 
+misleading commercial speech, and libel.23 This acknowledgment will  have 
+large and not yet  explored consequences for government controls on  new 
+information technologies. Perhaps the government's power to control obscene, 
+threatening, or libelous speech will justify special rules for cyberspace.24 But 
+with these qualifications, the commitment to  free economic markets is  the 
+basic constitutional creed. 
+
+Many  people  think that there is  now  nothing distinctive about the 
+electronic media or about modern communications technologies that justifies 
+an  additional governmental role.25 If  such a  role  was  ever justified, they 
+would  argue, it  was  because of  problems of  scarcity. When  only  three 
+television networks exhausted the available options, a market failure may have 
+called for regulation designed to ensure that significant numbers of  people 
+were not left without their preferred programming.26 But this is  no longer a 
+problem. With so dramatic a proliferation of stations, most people can obtain 
+the  programming they  want, or  will  be  able to  soon.27 With cyberspace, 
+people  will  be  able  to  make  or  to  participate in  their  own  preferred 
+programming in their own preferred "locations" on the Internet. With new 
+technologies, perhaps there are no  real problems calling for governmental 
+controls, except for those designed to establish the basic framework. 
+
+In  no  system that could be  rationally defended would the  state just  do  nothing. An 
+effective competitive system needs an intelligently designed and continuously adjusted legal 
+framework as much as any other. 
+
+FRIEDRICH A. HAYEK, THE ROAD TO SERFDOM 38-39  (1944). 
+
+23.  See Metromedia, Inc. v. San Diego, 453 U.S. 490 (1981); Gertz v. Robert Welch, Inc., 418 U.S. 
+
+323 (1974); Miller v. California, 413 U.S.  15 (1973). 
+
+24.  See infra part V.C.7. 
+25.  See, e.g., Syracuse Peace Council v. Television Station WTVH, 2 F.C.C.R. 5043 (1987); THOMAS 
+G.  KRATTENMAKER &  LUCAS A.  POWE, JR.,  REGULATING BROADCAST PROGRAMMING 277  (1994); 
+Krattenmaker & Powe, supra note 21. 
+
+26.  See BRUCE M. OWEN & STEVEN S. WILDMAN, VIDEO ECONOMICS 
+27.  Of course, significant numbers of  Americans do not have cable television-now  about 38% of 
+households that have television-and  many citizens are without access to the Internet. NRTC Executive: 
+DirecTv a Big Hit in the Country, MULTICHANNEL NEWS, Dec. 15, 1994, at 32 [hereinafter DirecTv a Big 
+Hit]; see infra text accompanying notes 145-51. 
+
+(1992). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1762 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+The second model, receiving its most sustained attention in the writings 
+of Alexander Meiklejohn,28 emphasizes that our constitutional system is one 
+of  deliberative democracy. This system prizes both political (not economic) 
+equality and a shared civic culture. It seeks to promote, as a central democratic 
+goal, reflective and deliberative debate about possible courses of action. The 
+Madisonian model sees the right of free expression as a key part of the system 
+of public deliberation. 
+
+On  this  view,  even  a  well-functioning information market29 is  not 
+immune from government controls. Government is certainly not permitted to 
+regulate speech however it wants; it may not restrict speech on the basis of 
+viewpoint. But it  may regulate the electronic media or even cyberspace to 
+promote, in a sufficiently neutral way, a well-functioning democratic regime. 
+It may attempt to  promote attention to public issues. It may try to  ensure 
+diversity of  view. It may promote political speech at the expense of  other 
+forms of speech. In particular, educational and public-affairs programming, on 
+the Madisonian view, has a special place. 
+
+I  cannot attempt in  this space to  defend fully the proposition that the 
+Madisonian conception is  superior to the marketplace alternative as a matter 
+of constitutional law;30 a few brief notes will have to suffice. The argument 
+for the Madisonian conception is partly historical; the American free speech 
+tradition owes much of its origin and shape to a conception of democratic self- 
+government. The marketplace conception is a creation of the twentieth century, 
+not of  the eighteenth. As  a matter of history, it confuses modern notions of 
+consumer sovereignty in the marketplace with democratic understandings of 
+sovereignty, symbolized by the transfer of sovereignty from the King to "We 
+the  People." The  American free  speech tradition finds its  origin in  that 
+conception of sovereignty, which, in Madison's view, doomed the Sedition Act 
+on constitutional grounds.31 
+
+But the argument for Madisonianism does not rest only on history; it is 
+partly evaluative as well. We are unlikely to be able to make sense of  our 
+considered judgments about free speech problems without insisting that the free 
+speech principle is centrally (though certainly not exclusively) connected with 
+democratic goals,32 and without acknowledging that marketplace thinking is 
+inadequately connected with  the  point and function of  a  system  of  free 
+expression.  A  well-functioning democracy requires a  degree  of  citizen 
+participation, which requires a degree of  information;33 and large disparities 
+
+28.  See MEIKLEJOHN, supra note 14. 
+29.  See the futuristic picture in Eugene Volokh, Cheap Speech and What It Will Do,  104 YALE L.J. 
+
+1805 (1995), on the risks posed by such a system. 
+
+30.  I try to do this in SUNSTEIN, supra note 12. 
+31.  Id. at xvii. 
+32.  See JOSEPH RAz,  ETHics  IN THE PUBLIC DOMAIN, 136-38  (1994). 
+33.  See supra text accompanying notes 1-2. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1763 
+
+in  political (as opposed to  economic) equality are damaging to  democratic 
+aspirations.34 To  the  extent  that  the  Madisonian view  prizes  education, 
+democratic deliberation, and  political  equality, it  is  connected,  as  the 
+marketplace conception  is  not,  with  the  highest  ideals  of  American 
+constitutionalism. 
+
+Some  people  think  that  the  distinction between  marketplace and 
+Madisonian models  is  now  an  anachronism.35 Perhaps the  two  models 
+conflicted at an earlier stage in history; but in one view, Madison has no place 
+in  an  era  of  limitless broadcasting options and cyberspace. Perhaps new 
+technologies now mean that Madisonian goals can best be satisfied in a system 
+of  free markets. Now that so many channels, e-mail options, and discussion 
+"places" are available, cannot everyone read or see what they wish? If people 
+want to  spend their time on public issues, are there not countless available 
+opportunities? Is this not especially true with the emergence of the Internet? 
+Is it not hopelessly paternalistic, or anachronistic, for government to regulate 
+for Madisonian reasons? 
+
+I do not believe that these questions are rhetorical. We know enough to 
+know that even in a period of limitless options, our communications system 
+may fail to promote an educated citizenry and political equality. Madisonian 
+goals may be severely compromised even under technologically extraordinary 
+conditions. There is  no  logical  or  a  priori  connection between  a  well- 
+functioning system of  free expression and limitless broadcasting or Internet 
+options. We could well imagine a science fiction story in which a wide range 
+of  options coexisted with little or  no  high-quality fare for children, with 
+widespread political apathy or ignorance, and with social balkanization in 
+which  most  people's  consumption choices  simply  reinforced their  own 
+prejudices and platitudes, or even worse. 
+
+Quite outside of  science fiction, it  is  foreseeable that free markets in 
+communications will  be  a  mixed blessing. They  could  create a  kind of 
+accelerating "race to the bottom," in which many or most people see  low- 
+quality  programming involving  trumped-up scandals  or  sensationalistic 
+anecdotes calling for little in terms of  quality or quantity of  attention. It is 
+easily imaginable that well-functioning markets in communications will bring 
+about a situation in which many of those interested in politics merely fortify 
+their own unreflective judgments, and are exposed to little or nothing in the 
+way of competing views,  Itis  eaiyimaginable  that the content of the most 
+
+easily 
+
+36 It 
+
+34.  See the discussion of the fair value of political liberties in JOHN RAWLS, POLITICAL LIBERALISM 
+
+356-63  (1993). 
+
+35.  See generally KRATTENMAKER & POWE, supra note 25. 
+36.  Note  in  this  regard The  Wall Street Journal's recently released Personal Journal, which  is 
+available online. Each subscriber receives only the portion of the Journal that is "relevant" to him, which 
+includes major headlines and news stories on the 10 corporations he has chosen to follow. See Michael 
+Putzel, A  Personal Journal from Dow  Jones, BOSTON GLOBE, Feb. 6,  1995, at  19; Morning Edition: 
+"Personal Journal" Delivers News Based on Need (NPR radio broadcast, Mar. 11, 1995). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1764 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+widely viewed programming will be affected by the desires of advertisers, in 
+such a way as to produce shows that represent a bland, watered-down version 
+of  conventional morality, and that do not engage serious issues in a serious 
+way for fear of offending some group in the audience.37 
+
+Consider, by way of summary of existing fare, the suggestion that 
+
+TV  favors a  mentality in  which  certain things no  longer matter 
+particularly: skills like the ability to enjoy a complex argument, for 
+instance, or to perceive nuances, or to keep in mind large amounts of 
+significant information, or to remember today what someone said last 
+month, or to consider strong and carefully argued opinions in defiance 
+of  what  is  conventionally called  "balance." Its  content  lurches 
+between violence of  action, emotional hyperbole, and blandness of 
+opinion....  Commercial TV...  has come to present society as a 
+pagan circus of freaks, pseudo-heroes, and wild morons, struggles on 
+the sand of a Colosseum without walls. It thus helps immeasurably to 
+worsen the defects of American public education and of tabloid news 
+38 
+in print. 
+
+* 
+
+From  the  standpoint of  the  present,  it  is  easily  imaginable that  the 
+the  personal  computer  carrying  out  communications 
+television-or 
+indeed  become  "just  another  appliance  ... 
+a  toaster  with 
+functions-will 
+pictures," and that the educative or aspirational goals of the First Amendment 
+will be lost or even forgotten. 
+
+I shall say more about these points below.39 For now it is safe to say that 
+the law of free speech will ultimately have to make some hard choices about 
+the marketplace and democratic models. It is also safe to say that the changing 
+nature of the information market will test the two models in new ways. In fact, 
+the Supreme Court has recently offered an important discussion of the topic, 
+Turner Broadcasting System, Inc. v. FCC.40 Turner is also the most sustained 
+exploration of the relationship between conventional legal categories and the 
+new information technologies. The decision contains a range of lessons for the 
+future. 
+
+My principal purpose here is to discuss the role of the First Amendment 
+and  Madisonianism  in  cyberspace-or,  more  simply,  the  nature  of 
+constitutional constraints on government regulation of electronic broadcasting, 
+especially in the aftermath of Turner. In so doing, I will cover a good deal of 
+ground, and a number of issues of law and policy, in a relatively short space. 
+I  do,  however, offer  three relatively simple  goals  to  help  organize the 
+discussion. Most  important, I  attempt to  make a  defense  of  Madisonian 
+
+37.  See C. EDWIN BAKER, ADVERTISING AND A DEMOCRATIC PRESS 44-70  (1994). 
+38.  Robert Hughes, Why Watch It, Anyway?, N.Y. REV. BooKS, Feb. 16, 1995, at 38. 
+39.  See infra part V.B.2. 
+40.  114 S. Ct. 2445 (1994). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1765 
+
+conceptions of free speech, even in a period in which scarcity is no longer a 
+serious problem. The defense stresses the risks of sensationalism, ignorance, 
+failure  of  deliberation, and  balkanization-risks  that  are  in  some  ways 
+heightened by  new  developments. In  the  process I  discuss  some  of  the 
+questions that are likely to arise in the next generation of free speech law. 
+
+I have two other goals as well. I attempt to identify an intriguing and new 
+model of  the First Amendment and to ask whether that model-the  Turner 
+model-is  well  adapted to  the  future of  the  speech market. A  relatively 
+detailed and somewhat technical discussion of  Turner should prove useful, 
+because the case raises the larger issues in a concrete setting. 
+
+I also urge that, for the most part, the emerging technologies do not raise 
+new questions about basic principle but instead produce new areas for applying 
+or perhaps testing old principles. The existing analogies are often very good, 
+and this means that the new law can begin by building fairly comfortably on 
+the old. The principal problem with the old law is not so much that it is poorly 
+adapted for current issues-though  in some cases it may be-but  that it does 
+not depend on  a  clear sense of  the purpose or point of  the system of  free 
+expression.  In  building  law  for  an  age  of  cyberspace,  government 
+officials-within  the judiciary and elsewhere-should  be particularly careful 
+not to treat doctrinal categories as ends in themselves. Much less should they 
+act as  if  the First Amendment is  a purposeless abstraction unconnected to 
+ascertainable social goals. Instead they should keep in  mind that the free 
+speech principle has  a  point, or  a  set  of  points. Among its  points is  the 
+commitment to democratic self-government. 
+
+III.  TURNER: A  NEW DEPARTURE? 
+
+The Turner case is by far the most important judicial discussion of new 
+media technologies, and it  has  a  range of  implications for  the  future. I 
+therefore begin with that case, turning to broader issues of law and policy in 
+Part V. It  is  important, however, to  say  that Turner involved two  highly 
+distinctive problems: (a) the peculiar "bottleneck" produced by  the current 
+system  of  cable  television, in  which cable  owners can  control access  to 
+programming; and (b) the possible risk to free television programming created 
+by the rise of pay television. These problems turned out to be central to the 
+outcome in the case. For this reason, Turner is quite different from imaginable 
+future cases involving new information technologies, including the Internet, 
+which includes no bottleneck problem. Significantly, the Internet is owned by 
+no  one  and  controlled by  no  organization. But  at  least  potentially, the 
+principles in Turner will extend quite broadly. This is especially true insofar 
+as  the  Court adopted ingredients of  an  entirely new  model  of  the  First 
+Amendment and insofar as  the Court set  out principles governing content 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1766 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+discrimination, viewer access, speaker access, and regulation of  owners of 
+speech sources. 
+
+A.  The Background 
+
+In the last decade, it has become clear that cable television will  be in 
+potential competition with free broadcasting. In 1992, motivated in large part 
+by  concerns about this  form of  competition, Congress enacted the  Cable 
+Television Consumer Protection and Competition Act  (the Act).41 The Act 
+contains a  range of  provisions designed to  protect broadcasting and local 
+producers, and also at least nominally designed to protect certain consumers 
+from practices by  the  cable industry. The relevant provisions include rate 
+regulations for cable operators, a prohibition on exclusive franchise agreements 
+between cable operators and municipalities, and restrictions on  affiliations 
+between cable programmers and cable operators.42 
+
+A major part of the Act was motivated by the fear that cable television's 
+success  could  damage broadcast television.43 If  cable  flourishes, perhaps 
+broadcasters will  fail?  The  scenario seems  at  least  plausible in  light  of 
+important differences in relevant technologies. Broadcast television comes, of 
+course, from transmitting antennae. It is available for free, though in its current 
+form, it cannot provide more than a few stations. By contrast, cable systems 
+make use of a physical connection between television sets and a transmission 
+facility, and through this route cable operators can provide a large number of 
+stations. Cable operators are of course in a position to decide which stations, 
+and which station owners, will be available on cable television; cable operators 
+could thus refuse to carry local broadcasters. To be sure, cable operators must 
+respond to forces of supply and demand, and perhaps they would do poorly if 
+they failed to  carry local broadcasters. But because they have "bottleneck 
+control" over  the  stations that  they  will  carry, they  are  in  one  sense 
+monopolists, or at least so Congress appears to have thought. 
+
+For purposes of  policymaking, an important consideration is  that about 
+forty percent of Americans lack a cable connection, and must therefore rely on 
+broadcast stations.44 (This is  a  point of  general importance in  light of  the 
+possibility that access to  communications technology will  in the future be 
+unequally distributed.) In the Act, the potential conflict between cable and 
+broadcast television  led  Congress to  set  out  two  crucial, hotly  disputed 
+provisions. Both provisions required cable operators to  carry the signals of 
+
+41.  47 U.S.C. ?? 534-535  (Supp. V  1993). 
+42.  See the outline in Turner, 114 S. Ct. at 2452-53. 
+43.  See  S.  REP. No.  92,  102d Cong., 1st Sess.  3-4  (1991), reprinted in  1992 U.S.C.C.A.N. 1133, 
+
+1135-36. 
+
+44.  114 S.  Ct. at 2451. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1767 
+
+local broadcast television stations. These "must-carry" rules were the focus of 
+the Turner case. 
+
+The  first  provision,  section  4,  imposes  must-carry rules  for  "local 
+commercial television stations."45 Under the Act, cable systems with more 
+than twelve active channels and more than three hundred available channels 
+must set aside as many as one-third of their channels for commercial broadcast 
+stations requesting carriage.46 These stations are defined to  include all full- 
+power television broadcasters except those that qualify as  "noncommercial 
+educational" stations.47 
+
+Section  5  adds a  different requirement.48 It  governs "noncommercial 
+educational television stations," defined to include (a) stations that are owned 
+and  operated  by  a  municipality  and  that  transmit  "predominantly 
+noncommercial programs for educational purposes"49 or (b) stations that are 
+licensed by the FCC as such stations and that are eligible to receive grants 
+from the Corporation for Public Broadcasting.50 Section 5  imposes separate 
+must-carry rules on noncommercial educational stations. A cable system with 
+more than thirty-six channels must carry each local public broadcast station 
+requesting carriage;51 a  station having between thirteen and thirty-six must 
+carry between one and three;52 and a station with twelve or fewer channels 
+must carry at least one.53 
+
+What was the purpose of the must-carry rules? This is a complex matter. 
+A  skeptic, or perhaps a realist, might well  say that the rules were simply a 
+product of  the  political power of  the  broadcasting industry. Perhaps the 
+broadcasting industry was  trying to  protect its  economic interests at  the 
+expense of cable. This is a quite reasonable suggestion, for it is unlikely that 
+market arrangements would lead to a situation in which significant numbers 
+of  Americans are entirely without access  to  television broadcasting. The 
+scenario that Congress apparently feared-a  victory of cable television over the 
+broadcasting industry, with the result that forty percent of Americans would 
+lack  television  at  all-seems  wildly  unrealistic. Insofar as  Congress was 
+responding to  the  interests of  local  broadcasters, it  may  well  have  been 
+catering to interest-power rather than attempting to protect otherwise deprived 
+consumers. 
+
+Here there is  a large lesson for the future. New  regulations, ostensibly 
+defended as public-interested or as helping viewers and consumers, will often 
+
+45.  47 U.S.C. ? 534 (Supp. V  1993) 
+46.  Id. ? 534(b)(1). 
+47.  Id. ? 534(b)(1)(A)-(B). 
+48.  Id. ? 535. 
+49.  Id. ? 535(l)(1)(B). 
+50.  Id. ? 535(l)(1)(A)(ii). 
+51.  Id. ? 535(b)(1). 
+52.  Id. ? 535(b)(3). 
+53.  Id. ? 535(b)(2). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1768 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+be a product of private self-interest, and not good for the public at all. It is 
+undoubtedly true that industries will often seek government help against the 
+marketplace, invoking public-spirited justifications for self-interested ends.54 
+Whether and to what extent this is a constitutional (as opposed to a political) 
+problem may  be  disputed.55 But  it  points to  a  distinctive and legitimate 
+concern about governmental regulation of the communications industry. 
+
+The interest-group account therefore has considerable plausibility. On the 
+other hand, some people might reasonably think that the must-carry rules were 
+a good-faith effort to protect local broadcasters, not because of their political 
+power, but because their speech is valuable. Their speech is valuable because 
+it ensures that viewers will be able to see discussion of local political issues. 
+Perhaps the must-carry rules-especially  section 5, but perhaps section 4  as 
+well-had  powerful Madisonian justifications insofar as cable operators might 
+choose  stations that failed to  offer adequate discussion of  issues of  public 
+concern, especially to the local community. Other observers might invoke a 
+different justification, also with Madisonian overtones. Perhaps the effort to 
+protect broadcasters was  a  legitimate effort to  safeguard the broadcasting 
+industry, not  because of  the  political power of  the broadcasters, and not 
+because of the content of broadcast service, but because millions of Americans 
+must rely on broadcasters for their programming. Perhaps Congress wanted to 
+ensure universal viewer access to the television market. On this view, the key 
+goal behind the must-carry rules was to ensure viewer access. 
+
+Let us put these possibilities to one side and take up the constitutional 
+issue. In Turner, the cable operators challenged sections 4 and 5 as inconsistent 
+with the First Amendment. They did not make a distinction between section 
+4  and section 5;  to  the cable companies, both provisions were illegitimate 
+interferences with their right to choose such programming as they wished. For 
+obvious  reasons,  the  government also  made  no  such  distinctions. The 
+government wanted to defend both provisions, and a defense of section 5, by 
+itself, would produce only a partial victory. The key aspects of the case lay in 
+the operators' contention that both sections amounted to a form of  content 
+regulation, and that even if they should be seen as content-neutral, they were 
+unconstitutional because inadequately justified. 
+
+B.  The Genesis of the Turner Model 
+
+In its response, the Court created something very much like a new model 
+for understanding the relationship between new technologies and the First 
+
+54.  This is  a simple insight of public choice theory. See generally DANIEL A.  FARBER & PHILIP P. 
+
+FRICKEY, LAW AND PUBLIC CHOICE (1991). 
+
+55.  See Turner Broadcasting Sys.,  Inc. v. FCC, 819  F. Supp. 32,  65  (D.D.C.  1993) (Williams, J., 
+dissenting)  (treating interest-group feature of  case  as  relevant to  constitutional issue),  vacated and 
+remanded, 114 S. Ct. 2445 (1994). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1769 
+
+Amendment. This model is a competitor to the marketplace and Madisonian 
+alternatives. And while it is somewhat unruly, it is not difficult to describe. It 
+comes from the five basic components of  the Court's response to the cable 
+operators' challenge. 
+
+First, the Court held that cable television would not be subject to the more 
+lenient free speech limitations applied to broadcasters.56 On the Court's view, 
+the key to the old broadcast cases was scarcity, and scarcity is not a problem 
+for cable stations. To be  sure, there are possible "market dysfunctions" for 
+cable television; as noted, cable operators may in a sense be a monopoly by 
+virtue of  their "bottleneck control." But this structural fact did not, in the 
+Court's view,  dictate a  more lenient approach in the cable context. In the 
+Court's view, the key point in the past cases had to do with scarcity. 
+
+This  is  an  especially  significant holding.57 It  suggests  that  new 
+technologies will generally be subject to ordinary free speech standards, not to 
+the more lenient standards applied to broadcasters. Scarcity is rarely a problem 
+for new technologies. 
+
+Second, the Court said that the Act  was content-neutral, and therefore 
+subject to the more lenient standards governing content-neutral restrictions on 
+speech. For the Court, the central point is that "the must-carry rules, on their 
+face, impose burdens and confer benefits without reference to the content of 
+speech."58 This is  because "the extent of  the interference does not depend 
+upon the content of the cable operators' programming."59 In the Court's view, 
+the regulations are certainly speaker-based, since we have to know who the 
+speaker is  to know whether the regulations apply; but they are not content- 
+based, since they do not punish or require speech of a particular content. 
+
+This  holding is  also  quite important. It  means that Congress will  be 
+permitted to regulate particular technologies in particular ways, so long as the 
+regulation is not transparently a subterfuge for a legislative desire to promote 
+particular points of view. It means that Congress can give special benefits to 
+special sources, or impose special burdens on disfavored industries. 
+
+Third, the Court said that there was insufficient reason to believe that a 
+content-based "purpose" underlay the content-neutral must-carry law.60 Hence 
+the content neutrality of the law could not be impeached by an investigation 
+of  the  factors that led  to  its  enactment. The  Court explored the  relevant 
+
+56.  Turner Broadcasting Sys., Inc. v. FCC, 114 S. Ct. 2445, 2456-58  (1994). 
+57.  It is  also quite vulnerable. All goods are scarce, in a sense, and hence the scarcity rationale has 
+never been a secure one. See Ronald H. Coase, The Federal Communications Commission, 2 J.L. & ECON. 
+1, 14, 20 (1959). Perhaps market failures of a certain sort justified special controls on local broadcasting. 
+See OWEN & WILDMAN, supra note 26, at 275-76.  But if this is true, the question becomes whether there 
+are market failures, and of  what sorts, rather than whether there is  "scarcity." Hence the Court's crisp 
+distinction between scarce sources and nonscarce sources is quite crude. 
+
+58.  114 S. Ct. at 2460. 
+59.  Id. 
+60.  Id. at 2461-62. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1770 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+legislative findings, which showed not only a (by hypothesis questionable61) 
+congressional interest in encouraging the sorts of programming offered by local 
+broadcasters, but also a distinctive and legitimate concern that cable operators 
+have a strong financial interest in favoring their own affiliated programmers, 
+and in doing so  at the expense of broadcast stations. The findings therefore 
+suggested that the cable operators have an economic incentive not to carry 
+local signals. 
+
+This fact led to the important problem supporting the Act: Without the 
+must-carry provision, Congress concluded, there would be  a  threat to  the 
+continued availability of free local broadcast television.62 The elimination of 
+broadcast television would in turn be undesirable not because broadcasters 
+deserve protection as such-they  do not-but  because (a) broadcast television 
+is free and (b) there is a substantial government interest in assuring access to 
+free  programming, especially  for  people  who  cannot afford to  pay  for 
+television. As  Congress had it,  the must-carry rules would ensure that the 
+broadcast stations would stay in business. 
+
+The  Court said  that this  purpose-the  protection of  access  to  free 
+programming through the protection of broadcast stations-was  unrelated to 
+the  content of  broadcast expression and was  therefore legitimate. It  was 
+significant in this regard that for Congress to  seek to protect broadcasters, 
+Congress did not have to favor any particular kind or speech or any particular 
+point of  view.  To  be  sure, and importantly, Congress' description of  the 
+purposes of the Act also referred to a content-based concern-to  the effect that 
+broadcast programming is "an important source of local news[,] public-affairs 
+programming and  other local  broadcast services critical to  an  informed 
+electorate," and  also  to  the  judgment that  noncommercial television  in 
+particular "provides educational and informational programming to the Nation's 
+citizens."63 On the Court's view, however, these statements did not show that 
+the law was content-based. The acknowledgment of certain virtues of broadcast 
+programming did not mean that Congress enacted the legislation because it 
+regarded  broadcast programming as  substantively preferable to  cable 
+programming. 
+
+Fourth, the Court said that strict judicial scrutiny was not required by the 
+fact  that the  provisions (a)  compel speech by  cable  operators, (b)  favor 
+broadcast programmers over cable programmers, and (c)  single out certain 
+members of  the press for disfavored treatment.M The fact that speech was 
+mandated was irrelevant because the mandate was content-neutral and because 
+
+61.  It is  questionable because it is content-discriminatory. In the end, content discrimination of this 
+sort might be legitimate, see infra text accompanying notes 77-82  (discussing Justice O'Connor's analysis), 
+but there is of course a presumption against it. 
+
+62.  114 S. Ct. at 2455. 
+63.  Id. 
+64.  Id. at 2464. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1771 
+
+cable operators would not be forced to alter their own messages to respond to 
+the broadcast signals. So too, the Court said that a speaker-based regulation 
+would not face special judicial hostility so long as it was content-neutral. It 
+was important in this regard that the regulation of this particular industry was 
+based on the special characteristics of that industry-in  short, "the bottleneck 
+monopoly power exercised by cable operators and the dangers this power poses 
+to the viability of broadcast television."65 In such a case, the Court concluded, 
+legislative selectivity would be acceptable. 
+
+These conclusions are also of  special importance for the future. They 
+reinforce the point that Congress may favor some industries over others. They 
+also suggest that Congress may compel companies to give access to speakers, 
+at least so  long as (a) the companies themselves are permitted to  offer the 
+messages they favor and (b) the access rights are given out on  a  content- 
+neutral basis. The Turner Court stressed the governmental goal of  ensuring 
+access to free programming for viewers; but in upholding the Act, it also said 
+that it was legitimate to require access for speakers, so long as the requirement 
+of content neutrality was met. 
+
+Finally, the  Court explored the question whether the must-carry rules 
+
+would be acceptable as content-neutral regulations of speech. Content-neutral 
+regulations may well  be  invalid if  they fail a kind of  balancing test.66 The 
+Court concluded that "intermediate scrutiny" would be applied.67 The Court 
+said  the  appropriate test,  drawing on  familiar cases,68 would  involve  an 
+exploration whether the  regulation furthers an  important or  substantial 
+government interest and whether the restriction on First Amendment freedoms 
+is no greater than necessary to promote that government interest. The Court 
+had no difficulty in finding three substantial interests: (a) preserving free local 
+television, (b) promoting the widespread dissemination of information from a 
+multiplicity of  sources, and (c) promoting fair competition in the market for 
+television  programming.69 On  the  Court's view,  each  of  these  was  both 
+important and legitimate. 
+
+What is  of  particular interest is  the fact that interests (a)  and (b)  are 
+connected with Madisonian aspirations. Thus in an especially significant step, 
+the Court suggested that a content-neutral effort to promote diversity may well 
+be justified. In its most straightforward endorsement of the Madisonian view, 
+the Court said that "assuring that the public has access to a multiplicity of 
+information sources is  a  governmental purpose of  the highest order, for it 
+
+65.  Id. at 2468. 
+66.  See, e.g., United States v. O'Brien, 391 U.S. 367 (1968) (requiring that speech regulation serve 
+
+important government interest and be narrowly tailored to achieve that interest). 
+
+67.  114 S. Ct. at 2469. 
+68.  See, e.g., O'Brien, 391 U.S. at 377. 
+69.  114 S. Ct. at 2469. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1772 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+promotes  values  central  to  the  First  Amendment."70 Hence  the  Court 
+expressed special concern, in a perhaps self-conscious echo of Red Lion, over 
+the  cable  operator's "gatekeeper[] control over  most  (if  not  all)  of  the 
+television programming that is channeled into the subscriber's home."71 The 
+Court also emphasized "[t]he potential for abuse of this private power over a 
+central avenue of  communication. "72  It  stressed that the First Amendment 
+"does not disable the government from taking steps to  ensure that private 
+interests not  restrict, through physical control of  a  critical pathway of 
+communication, the free flow of information and ideas."73 
+
+On the other hand, the Court thought that it was impossible to decide the 
+case without a better factual record than had been developed thus far.74 As 
+it  stood, the record was insufficient to  show whether the must-carry rules 
+would serve these legitimate interests. Would local broadcasters actually be 
+jeopardized without the  must-carry rules? Here we  should return to  the 
+possibility, of which the Court was surely aware, that the rules were really an 
+effort to favor the broadcasting industry, not to help viewers. 
+
+The  Court suggested that courts should maintain a  basic  posture of 
+deference to Congress' predictive judgments.75 In its view, judges should not 
+second-guess those judgments even if they distrust them. On the other hand, 
+Congress' judgments would  face  a  form of  independent judicial review, 
+designed to ensure that Congress had made "reasonable inferences based on 
+substantial evidence."76 The Court therefore remanded the case to the lower 
+court for factual findings on (a) the question whether cable operators would 
+refuse significant numbers of broadcast stations without the must-carry rules 
+and (b)  the question whether broadcast stations, if  denied carriage, would 
+deteriorate to a substantial degree or fail altogether. 
+
+Justice O'Connor's dissenting opinion, joined by three other Justices, also 
+deserves some  discussion, since the opinion may have considerable future 
+importance in view of the obvious internal fragmentation of the Court on these 
+questions. Justice O'Connor insisted above all that the must-carry rules were 
+based on content.77 To reach this conclusion, she investigated the Act and its 
+history to show that the nominally neutral measures were in fact designed to 
+promote  local  programming. In  her  view,  the  existence  of  content 
+discrimination was  not  decisive  against the  must-carry rules. It  was  still 
+necessary to see whether the government could bring forward a strong interest, 
+
+70.  Id. at 2470. 
+71.  Id. at 2466. 
+72.  Id. 
+73.  Id. 
+74.  Id. at 2472. 
+75.  Id. at 2471. This was Justice Stevens' major point; he would have affirmed rather than remanded 
+
+for this reason. See id. at 2473. 
+
+76.  Id. at 2471. 
+77.  Id. at 2479. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1773 
+
+and show that the regulation promoted that interest. But Justice O'Connor 
+found that the government could not meet its burden. 
+
+In Justice O'Connor's view, the interest in  "localism" was insufficient 
+justification.78 In words that have considerable bearing on what government 
+may do with any information superhighway: 
+
+It is  for private speakers and listeners, not for the government, to 
+decide what fraction of their news and entertainment ought to be of 
+a  local  character and what fraction ought to  be  of  a  national (or 
+international) one. And the same is true of the interest in diversity of 
+viewpoints: While the government may subsidize speakers that it 
+thinks provide novel points of view, it may not restrict other speakers 
+on the theory that what they say is more conventional.79 
+
+Justice O'Connor referred independently to the interests in public-affairs 
+programming and educational programming, finding that these interests are 
+"somewhat weightier" than the interest in localism. But in her view, "it is  a 
+difficult question whether they are compelling enough to justify restricting 
+other sorts of  speech."80 Because of  the difficulty of  that question, Justice 
+O'Connor did not say whether "the Government could set some channels aside 
+for educational or news programming."8 (This is of course a central issue for 
+the future.) 
+
+In  her  view,  the  Act  was  too  crudely tailored to  be  justified as  an 
+educational or  public-affairs measure. The  Act  did  not  neutrally favor 
+educational or public-affairs programming, since it burdened equally "CNN, 
+C-Span, the Discovery Channel, the New Inspirational Network, and other 
+channels with as much claim as PBS to being educational or related to public 
+affairs."82 Whether or  not  a  neutral law  favoring educational and public- 
+affairs programming could survive constitutional scrutiny, this Act could not, 
+for it was insufficiently neutral. 
+
+IV.  THE TURNER MODEL 
+
+A.  Description 
+
+I  have noted that there have been two free speech traditions and two 
+principal models of  free  speech. The marketplace model eschews content 
+regulation; it  is  animated by  the  notion  of  consumer sovereignty. The 
+Madisonian model may permit and even welcome content regulation; it  is 
+
+78.  Id.  at  2478. 
+79.  Id. 
+80.  Id. 
+81.  Id.  at  2479. 
+82.  Id. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1774 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+rooted in  an  understanding of  political sovereignty. There is  now  a  third 
+model-the  Turner model-of  what government may  do.  An  interesting 
+question, not fully resolved by Turner itself, has to do with the extent to which 
+the Turner model will incorporate features of its predecessors. 
+
+The  new  model  has  four  simple  components. Under  Turner, (a) 
+government may regulate (not merely subsidize) new speech sources so as to 
+ensure access for viewers who would otherwise be without free programming 
+and (b) government may require owners of speech sources to provide access 
+to speakers, at least if the owners are not conventional speakers too; but (c) 
+government must do all this on a content-neutral basis (at least as a general 
+rule); but (d) government may support its regulation not only by reference to 
+the provision of "access to free television programming" but also by invoking 
+such democratic goals as the need to ensure "an outlet for exchange on matters 
+of local concern" and "access to a multiplicity of information sources."83 
+
+Remarkably, every Justice on the Court appeared to accept (a), (b), and (c) 
+and parts of (d) (with minor qualifications). Perhaps the most notable feature 
+of the Court's opinion is its emphasis on the legitimacy and the importance of 
+ensuring general public (viewer) access to free programming. In this way, the 
+Court accepted at least a modest aspect of the Madisonian ideal, connected 
+with both political equality and broad dissemination of  information. This 
+general goal is likely to have continuing importance in governmental efforts 
+to control the information superhighway so as to ensure viewer and listener 
+access. The Turner Court has put its stamp of approval on that goal. Recall in 
+particular that the government justified the must-carry rules on the theory that 
+without those rules, ordinary broadcasters would be unable to  survive. The 
+consequence  would  be  that  people  without  cable  would  be  without 
+broadcasting at all. The Court enthusiastically accepted this claim. It said that 
+"to preserve access  to  free television programming for the 40  percent of 
+Americans without cable" was a legitimate interest.84 This holding suggests 
+that the government may provide access not only through subsidies, but also 
+through regulation. 
+
+On the other hand, the Court's quite odd refusal85 to distinguish between 
+sections 4 and 5 and its use of the presumption against content discrimination 
+seem to support the marketplace model. Certainly the Court did not say that 
+it would be receptive to content discrimination if the discrimination were an 
+effort to promote attention to public affairs and exposure to diverse sources. 
+The Court did not claim or in any way imply that educational and public- 
+affairs programming could be required consistently with the First Amendment. 
+On the contrary, it suggested that it would view any content discrimination, 
+
+83.  Id. at 2469-70. 
+84.  Id. at 2479. 
+85.  See  infra  text  accompanying  notes  86-87. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1775 
+
+including  content  discrimination having  these  goals,  with  considerable 
+skepticism. The result is a large degree of confusion with respect to whether 
+and how government may promote Madisonian aspirations. I will return to this 
+point. 
+
+B.  A Problem: Commerce vs. Public Affairs 
+
+The  Court's major internal dispute involved the question whether the 
+content neutrality of  the  must-carry rules was  impeached by  the  history 
+suggesting  that  Congress  was  particularly enthusiastic  about  local 
+programming. This is  an issue on which reasonable people may disagree; it 
+turns largely on the extent to which statements in the legislative history will 
+be  used  to  cast  light  on  legislative  goals.  But  the  issue  of  content 
+discrimination seems, on  inspection, to  rest on  a  matter not discussed by 
+anyone on the Court; it is principally that matter, not the legislative history, 
+that raises special issues about content discrimination. 
+
+More concretely: From the standpoint of traditional free speech argument, 
+there is  an obvious problem with the analysis offered by the Turner Court. 
+Section 4  and section 5  are quite different; they appear to  have different 
+justifications. In any case, different carriage requirements in the two sections, 
+targeted to  two  different kinds  of  broadcasting, plainly  reveal  content 
+discrimination. The two sections explicitly define their correlative obligations 
+in terms of the nature, or content, of the programming. This is proof of content 
+discrimination. 
+
+How should that discrimination be handled? Under the Madisonian view, 
+there is all the difference in the world between section 4  and section 5. As I 
+have noted, section 5 imposes certain carriage requirements for educational and 
+public-affairs  stations,  whereas  section  4 
+imposes  different  carriage 
+requirements for commercial stations. For Madisonians, section 5 stands on far 
+stronger ground, since  it  is  apparently an  effort to  ensure education and 
+attention to  public  issues.  It  seems  to  serve  straightforward democratic 
+functions. This does not mean that it is necessarily legitimate. Perhaps Justice 
+O'Connor's response-to  the effect that section 5 does not adequately promote 
+that goal-is  decisive as against a Madisonian defense of section 5. But section 
+4 appears to stand on far weaker ground from the Madisonian standpoint. Thus 
+Madisonians would distinguish between the two provisions and would be far 
+more  hospitable  toward section  5.86 
+
+In fact, the Court should have analyzed the two sections differently. The 
+validity of  section 4  turned on whether the factual record could support the 
+
+86.  See Monroe E. Price & Donald W. Hawthorne, Saving Public Television: The Remand of Turner 
+Broadcasting  and  the Future  of  Cable  Regulation,  17 HASTINGS COMM. &  ENT. L.J. 65,  91-95  (1994),  for 
+an  argument that on  remand, the  district court should uphold section  5  even  if  it  finds section 4 
+unconstitutional. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1776 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+idea that the section was necessary to ensure the continued availability of free 
+public television. On this score the Court's basic solution-a  remand-was 
+quite reasonable, even if the statute was treated as content-based. On remand, 
+the question would be whether content regulation of this sort was sufficiently 
+justified as a means of saving free public television. 
+
+The  analysis for section 5  should be  quite different. The provision of 
+educational and public-affairs programming is entirely legitimate, certainly if 
+there is no substantial intrusion on speakers who want to provide another kind 
+of  programming.87 The  validity of  section 5  thus should have  turned on 
+whether it was sufficiently tailored to the provision of educational and public- 
+affairs programming. Perhaps Justice O'Connor was right in doubting whether 
+adequate tailoring could be shown; in any case this is the issue to be decided. 
+In short, both provisions are content-based, but this phrase should not be used 
+as a talisman. The question was whether the content-based restrictions were 
+sufficiently connected with legitimate goals. An approach of this kind would 
+have been the most reasonable one to take. 
+
+On the other hand, within the marketplace model, the very existence of 
+two  separate sections is  problematic. Why should the government concern 
+itself with whether stations are commercial or noncommercial? Marketplace 
+advocates would find the Act objectionable simply by virtue of the fact that 
+it distinguishes between commercial and noncommercial stations. To them, the 
+fact that two different sections impose different carriage requirements shows 
+that there is content discrimination in the Act. 
+
+Under the two prevailing free speech models, then, it would make sense 
+either to  treat section 5  along a  different track from section 4  (the better 
+approach), or to question them both as content-discriminatory on their face. 
+Both  of  these  approaches would have been  quite plausible. Remarkably, 
+however, no Justice in Turner took either approach. Indeed, no Justice drew 
+any distinction at all between section 4 and section 5, and no Justice urged that 
+the  existence  of  two  different sections  showed  that  there  was  content 
+discrimination. 
+
+This is a genuine puzzle. Why did no Justice invoke Madisonian goals to 
+treat section 5 more generously? Why did no Justice invoke content neutrality 
+to complain about the existence of two separate sections? As we have seen, 
+none of the parties raised the issue, and perhaps the question was not squarely 
+presented, permitting the Court to  decide the case  on  a  narrower and less 
+controversial ground. Under the approach of both the majority and the dissent, 
+it may not have been necessary to answer the hard questions of whether and 
+how government might promote educational and public-affairs programming. 
+
+87.  Thus it could be imagined that a serious question would be raised if Congress said that a humor 
+
+magazine had to educate too, or that speakers on a comedy show had to have serious bits as well. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1777 
+
+But  why  did  no  Justice suggest that the  two  sections embodied content 
+discrimination? This question is much harder to answer. 
+
+Perhaps the Court had something like the following in mind. The two 
+sections involve speakers rather than speech; they point to the nature of the 
+station, not to the nature of the programming. Thus the Act may perhaps be 
+understood as imposing a speaker-based restriction of the sort that the Court 
+found legitimate insofar as the Act applied only to cable television. 
+
+On reflection, however, this response seems implausible. The kind of 
+speaker-based restriction reflected in the two sections has everything to do with 
+content. The definition of section 5 stations is inextricably intertwined with the 
+speech  offered by  such  stations. So  too  with the  definition of  section 4 
+stations. The Court therefore appears to  have blundered in  failing to  find 
+content discrimination in the existence of two separate sections. Perhaps the 
+content discrimination could have been justified if the Court had attended to 
+separate justifications for the two provisions, or at least the Court might have 
+upheld section 5 if it could have met Justice O'Connor's concerns. I return to 
+this point below. 
+
+C.  A Paradox and a Provisional Solution: Madisonians and Marketeers vs. 
+
+Turner? 
+
+Now let us proceed to a larger matter. As I have noted, the Turner Court 
+did not accept a Madisonian model of  free speech. The distinction between 
+content-based and content-neutral restrictions was crucial to the opinion, and 
+that distinction hardly emerges from a Madisonian model, which would carve 
+up the free speech universe in a different way. But the Court certainly did not 
+accept the marketplace model in its entirety. In addition to emphasizing the 
+legitimacy of ensuring access to free programming-and of doing so through 
+regulation rather than subsidy-the  Court stressed more or less  democratic 
+justifications  for  the  must-carry rules,  including  broad  exposure  to 
+programming on public issues, and to a multiplicity of sources of information. 
+It might be argued both that Turner is insufficiently responsive to marketplace 
+concerns and that Turner is a Madisonian failure insofar as the Turner model 
+appears to  do  nothing about the problem of  low-quality programming and 
+insufficient exposure to public debate. 
+
+1.  The Paradox 
+
+An especially distinctive feature of the Court's opinion is its ambivalence 
+about the legitimacy of  governmental efforts to promote diversity. There is 
+ambivalence on this score because while the Court invoked diversity as a goal, 
+it  also  made its  skepticism about content-based regulation quite clear, and 
+many imaginable efforts to promote diversity are content-based. Consider the 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1778 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+fairness doctrine as well as many European initiatives to promote diversity in 
+the media.88 The Court found it  necessary to  insist that Congress was not 
+trying, through the must-carry rules, to ensure exposure to local news sources. 
+On the other hand, the Court suggested that a content-neutral effort to 
+promote diversity may well be justified. Hence the Court offered a number of 
+justifications for regulation of cable technology. As we have seen, the Court 
+expressed concern over the cable operator's "gatekeeper[] control over most 
+(if not all) of the television programming that is channeled into the subscriber's 
+home."89 The  Court emphasized "[t]he potential for  abuse of  this  private 
+power over a central avenue of communication."90 The Court stressed that the 
+First Amendment "does not disable the government from taking steps to ensure 
+that private interests not restrict, through physical control of a critical pathway 
+of  communication, the free flow of  information and ideas."91 And thus the 
+Court emphasized "the importance of local broadcasting units" in promoting 
+attention to  public issues.92 In these ways, the Turner opinion contains an 
+echo, albeit a faint one, of the highly Madisonian analysis in Red Lion. 
+
+There is therefore an important paradox at the heart of the Turner model. 
+The paradox emerges from (a) the presumptive invalidity of  content-based 
+restrictions, accompanied by (b) the insistence by the Court on the legitimacy 
+of  the goals of  providing access to a multiplicity of  sources and outlets for 
+exchanges on issues of local concern. This is a paradox because if these goals 
+are legitimate, content-based regulation designed to promote them might well 
+be  thought legitimate too.  If  government may  engage  in  content-neutral 
+restrictions designed self-consciously to provide access to many sources, why 
+may it  not favor certain speech directly? The most natural way to provide 
+certain kinds of programming is through content-based regulation.93 
+
+2.  Substantive Doctrine and Institutional Constraints 
+
+The question then arises: If diversity is a legitimate goal, why might the 
+Turner model be superior to the Madisonian model? One possible view is that 
+the Turner model is not superior, but that it should be regarded instead as a 
+cautious and incompletely theorized step94 that appropriately leaves gaps for 
+
+88.  See SUNSTEIN, supra note 12, at 77-81  (noting that several European high courts have found that 
+governments were not merely permitted to promote diversity in the media, but were constitutionally obliged 
+to do so); see also ELI NOAM, TELECOMMUNICATIONS 
+
+IN EUROPE (1992). 
+
+89.  Turner Broadcasting Sys., Inc. v. FCC, 114 S. Ct. 2445, 2466 (1994). 
+90.  Id. 
+91.  Id. 
+92.  Id. at 2469. 
+93.  Cf. Metro Broadcasting v. FCC, 497 U.S. 547 (1990) (upholding affirmative action for minority 
+owners on  theory that this  indirect, content-neutral approach would  provide broadcasting of  certain 
+content-even  though nondiscriminatory alternative, pursuing that very same goal directly, would probably 
+be unconstitutional). 
+
+94.  We might even  see the outcome as an incompletely theorized agreement, a distinctive kind of 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1779 
+
+future refinement. Perhaps the Turner model will have to be elaborated, as it 
+clearly can be, to make clear that well-tailored efforts to promote diversity and 
+broader democratic goals are legitimate even if they are content-based. 
+
+For reasons to be  suggested, this would indeed be a sensible step. But 
+there is another point. Despite appearances, there is good reason for the Turner 
+Court's skepticism toward content-based regulation, and the reason operates by 
+reference to institutional considerations involving the distinctive characteristics 
+of judge-made doctrine. Those considerations have everything to do with the 
+potential superiority of  (not  entirely accurate) rules  of  law  over  highly 
+individuated, case-by-case judgments. This defense of Turner says not that the 
+case  reflects the best  understanding of  the substantive content of  the free 
+speech principle, but that it may be the best way for the Supreme Court to 
+police that principle in light of its institutional limits. 
+
+In brief: In light of the nature of the current electronic media, in which 
+scarcity is  a  decreasing problem, a  presumptive requirement of  content 
+neutrality may  well  be  the  best  way  for judges  to  police  objectionable 
+governmental purposes, especially in the form of viewpoint discrimination.95 
+If government favors speech of certain kinds through content regulation, there 
+is always a risk that it is actually trying to favor certain views. For example, 
+a  regulatory requirement of  discussion of  abortion, or  race relations, or 
+feminism would raise serious fears to the effect that government is seeking to 
+promote certain positions. Through insisting on content neutrality-again, at 
+least  as  a  presumption-courts  can  minimize the  risk  of  impermissibly 
+motivated legislation, and they can do so while limiting the institutional burden 
+faced by judges making more individualized judgments. The presumption in 
+favor  of  content neutrality has  the  fortunate consequence of  making it 
+unnecessary for  courts to  answer hard case-by-case questions about the 
+legitimacy of diverse initiatives, many of which will, predictably, be based on 
+illegitimate motivations. 
+
+We might thus offer a  cautious defense of  the Turner model over the 
+Madisonian model. The defense would depend on the view that the Turner 
+model may well best combine the virtues of (a) judicial administrability (a real 
+problem  for  Madisonians96), (b)  appreciation of  the  risk  of  viewpoint 
+discrimination (a real problem for Madisonians too), and (c) an understanding 
+of the hazards of relying on markets alone (addressed by Turner insofar as the 
+Court allows Congress considerable room to maneuver). For this reason, the 
+
+judicial judgment. See  Cass  R.  Sunstein, Incompletely Theorized Agreements, 108  HARV.  L.  REV. 
+(forthcoming May 1995). 
+
+95.  See  the  valuable analysis  in  Elena  Kagan, Private Speech,  Public  Purpose: The  Role  of 
+Governmental Motive in First Amendment Doctrine (unpublished manuscript, on file with author), on which 
+I draw for this and the preceding paragraph. 
+
+96.  See Krattenmaker & Powe, supra note 21. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1780 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+Turner model  may  well  be  better, at  least  in  broad outline,  than  the 
+Madisonian and marketplace alternatives. 
+
+3.  Countervailing Considerations 
+
+There are important countervailing considerations. As indicated above,97 
+the application of  the Turner model to technologies other than cable raises 
+serious problems, for  cable  presents the  special  question of  "bottleneck 
+control." Many of  the other new technologies raise questions not involving 
+anything like  "bottleneck control," which was  central to  the resolution in 
+Turner. In  general, regulation of  the  Internet raises no  such problem. In 
+Turner, moreover, the principal access issue was the right to hear; in other 
+cases, the central issue, also one of  access, will  involve the right to  speak. 
+Sometimes the principal question will be whether certain speakers can have 
+access to certain audiences. In other contexts, regulatory efforts may involve 
+educational goals more straightforwardly, as in guarantees of free media time 
+to  candidates or  in  provisions to  ensure public-affairs programming or 
+programming for children. 
+
+As  I  have argued, moreover, speech should not be treated as  a  simple 
+commodity, especially in a period dominated by attention to sensationalistic 
+scandals and low-quality fare.98 In  light  of  the  cultural consequences of 
+broadcasting-through, for example, its effects on democratic processes and 
+children's education-we  should not think of  electronic media as "just .. 
+appliance[s]," or  as  "toaster[s] with pictures."99 At  least part of  the First 
+Amendment inquiry should turn on the relationship between what broadcasters 
+provide and what a  well-functioning democracy requires. If  we  have any 
+sympathy for Brandeis' judgment-shared by Madison19-that "the greatest 
+menace  to  freedom is  an  inert people," we  will  acknowledge that the 
+marketplace model may not perform an adequate educative role, and that a 
+system of free markets may well disserve democratic ideals. 
+
+Of  course there are hard issues  about which bodies are authorized to 
+decide what programming ought to be  offered.101 But the Turner model is 
+vulnerable insofar as it brackets the deeper issues and addresses Madisonian 
+concerns with the useful but crude doctrinal categories "content-based" and 
+"content-neutral." Those categories are crude because they are not tightly 
+
+97.  See the introduction to Part III supra. 
+98.  There is  of  course a  large and insufficiently analyzed problem: defining the relevant market. 
+Perhaps those interested in Madisonian goals should focus on the entirety of the free speech market, seeing 
+magazines, broadcasting, and even books as aspects of a single market, to be taken as a whole. I cannot 
+address this issue here. 
+
+99.  See Nossiter, supra note 3. 
+100.  See supra text accompanying note 1. 
+101.  See KRATTENMAKER  & POWE, supra note 25 (stressing this problem). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1781 
+
+connected with any plausible conception of  the basic point or points of  a 
+system of free speech. 
+
+Some  qualifications of  the  Turner model,  pointing  in  Madisonian 
+directions, are  therefore desirable. The  majority does  not  foreclose  such 
+qualifications, and Justice O'Connor's dissenting opinion actually makes some 
+space for arguments of this sort. I will suggest some important qualifications 
+that are nonetheless consistent with the general spirit of Turner itself. 
+
+V.  SPEECH, EMERGING MEDIA, AND CYBERSPACE 
+
+A.  New Possibilities and New Problems: Referenda in Cyberspace and 
+
+Related Issues 
+
+It  should  be  unnecessary to  emphasize that  the  explosion  of  new 
+technologies opens up extraordinary new possibilities. As the Department of 
+Commerce's predictions suggest, ordinary people might ultimately participate 
+in  a  communications network in which hundreds of  millions of  people, or 
+more, can communicate with each other and indeed with all sorts of  service 
+providers-libraries, doctors, accountants, lawyers, legislators, shopkeepers, 
+pharmacies, grocery stores, museums, Internal Revenue Service employees, 
+restaurants, and more. If you need an answer to a medical question, you may 
+be able to push a few buttons and receive a reliable answer. If you want to 
+order food for delivery, you would be able to do so in a matter of seconds. If 
+you have a question about sports or music or clothing, or about the eighteenth 
+century, you  could get  an instant answer. People can now purchase many 
+goods on their credit cards without leaving home. It may soon be possible to 
+receive a  college  education without leaving home.102 As  I  have suggested, 
+the very notions of "location" and "home" will change in extraordinary ways. 
+Many of the relevant changes have already occurred. Consider the fact that 
+in 1989, there were about 47.5 million cable television subscribers, accounting 
+for 52.5% of television households-whereas by 1995, there were 59 million 
+subscribers, accounting for 61.8% of  television households.103 Consider the 
+following chart:'04 
+
+102.  See In 2050,  Computers May Be  Collegian's "Campus", CHI. TRIB., Nov. 7,  1994, at 4.  It is 
+revealing that many of  the footnotes in this Essay come from newspapers and weekly news magazines. 
+With respect to communications technologies, development is occurring so rapidly that other sources are 
+often obsolete upon publication. 
+
+103.  See DirecTv a Big Hit, supra note 27. 
+104.  Id. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1782 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+Year 
+
+Millions of 
+TV 
+Households 
+
+Millions 
+of  Homes 
+Passed 
+by Cable 
+
+Homes 
+Passed 
+as a % 
+of TV 
+Homes 
+
+Millions of 
+Cable 
+Households 
+
+Cable 
+Subscribers 
+as a % of 
+Homes 
+Passed 
+
+Cable 
+Penetration 
+of TV 
+Households 
+(%) 
+
+1989 
+
+1990 
+
+1991 
+
+1992 
+
+1993 
+
+1994 
+
+1995 
+
+92.1105 
+
+90.4 
+
+92.1 
+
+93.1 
+
+93.1 
+
+94.2 
+
+95.4 
+
+80.0 
+
+84.4 
+
+87.2 
+
+88.9 
+
+90.1 
+
+91.3 
+
+92.5 
+
+88.5 
+
+91.6 
+
+93.7 
+
+96.5 
+
+96.8 
+
+96.9 
+
+97.0 
+
+47.5 
+
+50.5 
+
+52.6 
+
+54.3 
+
+56.2 
+
+57.2 
+
+59.0 
+
+59.4 
+
+59.8 
+
+60.3 
+
+61.1 
+
+62.4 
+
+62.7 
+
+63.8 
+
+52.5 
+
+54.8 
+
+56.5 
+
+59.0 
+
+60.4 
+
+60.7 
+
+61.8 
+
+TABLE 1. 
+
+The number of  subscribers to  major online services is  also  increasing 
+rapidly,  with  6.3  million  American  subscribers.10 Consider  also  the 
+following chart:107 
+
+Technology 
+
+Number of Users 
+
+Internet 
+
+30-40  million 
+
+CompuServe 
+
+America  Online 
+
+Prodigy 
+
+The  WELL 
+
+Women's  Wire 
+
+2,700,000 
+
+2,300,000 
+
+2,000,000 
+
+11,000 
+
+1300 
+
+TABLE 2. 
+
+The forerunners of the "information superhighway" are thus increasingly 
+available to large numbers of people. In this Section, I discuss some large and 
+general questions about communications in  a  democracy; I  turn to  more 
+specific policy issues in Sections B and C. 
+
+105.  Revised downward based on  1990 census. 
+106.  On-Line Computer Services Had Another Boom Year, Survey Says, L.A. TIMES, Jan. 14,  1995, 
+
+at D2. 
+
+107.  This chart was compiled on the basis of data in John Flinn, The Line on On-Line Services, S.F. 
+EXAMINER, Mar. 1,  1995, at Bi,  and Philip Elmer-DeWitt, Welcome to Cyberspace, TIME, Spring 1995 
+(Special Issue), at 9. In some countries the number of Internet users has grown more than 1000% in the 
+past three years. Id. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1783 
+
+1.  Economics and Democracy 
+
+Technological developments enjoyed by so many people bring with them 
+extraordinary promise  and  opportunities from  the  standpoints of  both 
+Madisonianism and  the  marketplace. From nearly108 any  point  of  view, 
+nostalgia for preexisting speech markets makes little sense. 
+
+The economic point is obvious, for the costs of transacting-of  obtaining 
+information and  entering  into  mutually beneficial  deals-will  decrease 
+enormously, and hence it will be much easier for consumers to get what they 
+want, whatever it  is  that they want. To say the least, a  shopping trip-for 
+groceries, books, medicines, housing, trial transcripts, clothing-will  be much 
+simpler than it now is; it may well be significantly simpler now than it was 
+when  this  Essay  was  first written.'09 In  these  ways  the  new  information 
+technologies are a great boon. 
+
+At the same time, and equally important, there are potential democratic 
+gains, since communication among citizens and between citizens and their 
+representatives will be far easier. Citizens may be able to express their views 
+to public officials and to receive answers more effectively. To state a view or 
+ask a question on the issue of  the day, no town meeting need be arranged. 
+High-quality, substantive discussions may  well  be  possible  among large 
+numbers of people; town meetings that are genuinely deliberative may become 
+commonplace. Voting may occur through the Internet. This is one of the most 
+intriguing features of cyberspace.110 It will be possible to obtain a great deal 
+of information about candidates and their positions. 
+
+In fact much of this has already occurred. The practice of journalism has 
+changed in  the  sense that reporters communicate regularly with readers.1"1 
+Before the  1994 elections, public library computers delivered considerable 
+information about the candidates via the World Wide Web of the Internet.112 
+The Web also allows people to  see photographs of  candidates and to  have 
+access to dozens of pages of information about them and their positions. The 
+Web may be used nationally for these purposes as early as 1996. A number of 
+elected officials-in  the White House, the Senate, and the House-now  have 
+e-mail addresses and communicate with their constituents in cyberspace. 
+
+In Minnesota, five candidates for governor and three candidates for the 
+senate  participated in  debates on  electronic mail.113 In  1993,  President 
+
+108.  The qualification is necessary because of threats posed by the new technologies to the possibility 
+of  commonly  shared experience and to  exposure to  positions contrary to  one's  own.  See  infra text 
+accompanying notes 121-28. 
+
+109.  See Barrett Seaman, The Future Is Already Here, TIME, Spring 1995 (Special Issue), at 30-33. 
+110.  See generally RHEINGOLD, supra note 6. 
+111.  See David S. Jackson, Extra! Readers Talk Back!, TIME, Spring 1995 (Special Issue), at 60. 
+112.  Peter H. Lewis, Voters and Candidates Meet on Information Superhighway, N.Y. TIMES, Nov. 
+
+6,  1994, at 30. 
+113.  Id. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1784 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+Clinton established connections with millions of  e-mail users, putting his 
+address into their system and inviting them to give reactions on public issues. 
+Candidates generally are obtaining and publicizing e-mail addresses.114 Thus 
+presidential candidate Lamar Alexander launched his campaign with a forum 
+via  America Online, in which he spoke to all those who chose to join the 
+forum.11' The Madisonian framework was  based partly on  the  assumption 
+that  large-scale  substantive  discussions  would  not  be  practicable.116 
+Technology may well render that assumption anachronistic. 
+
+The result may be  of  particular benefit for people of  moderate or low 
+income. People without substantial means may nonetheless make their views 
+heard. So too relatively poor candidates may be able to communicate more 
+cheaply.117 In this  way  the new  communications technologies may relieve 
+some  of  the  pressure for  campaign finance restrictions by  promoting the 
+Madisonian goal of political equality.118 In the midst of economic inequality, 
+perhaps technological advances can make political equality a more realistic 
+goal. 119 
+
+Moreover, education about public issues will be much simpler and cheaper. 
+The government, and relevant interest groups, will be able to state their cases 
+far more easily. And after touching a few buttons, people will be able to have 
+access  to  substantial information about policy  dilemmas-possible  wars, 
+environmental risks and regulations, legal developments, trials, medical reform, 
+and a good deal more. Consider as simply one example, the astonishing service 
+LEXIS Counsel Connect. With this  service a  lawyer can  have  access  to 
+essentially all proposed laws. A lawyer can also join substantive "discussion 
+groups," dealing with, for example, the Simpson trial, recent tax developments, 
+risk  regulation, securities arbitration, affirmative action, LEXIS  Counsel 
+Connect, cyberspace, the First Amendment in cyberspace, and much more. The 
+proliferation of law-related discussion groups on law-related topics is one tiny 
+illustration of  a remarkable cultural development. Thus the Usenet includes 
+more than 10,000 discussion groups, dealing with particle physics, ring-tailed 
+lemurs, and Rush Limbaugh, among countless others.120 
+
+114.  See Howard Fineman with Stephen A. Tuttle, The Brave New World of Cybertribes, NEWSWEEK, 
+
+Feb. 27,  1995, at 30-33. 
+115.  See id. at 30. 
+116.  See THE FEDERALIST No. 70 (Alexander Hamilton). 
+117.  See Lewis, supra note 112. 
+118.  Thus Madison listed "establishing a political equality among all" as the first means of combatting 
+the "evil" of  parties. See James Madison, Parties, NAT'L GAZETTE, Jan. 23,  1792, reprinted in  14 THE 
+PAPERS OF JAMES MADISON 197-98 (Robert A. Rutland et al. eds., 1983). On the risks of government by 
+referendum, see DAVID B. MAGLEBY, DIREcT LEGISLATION (1984). 
+
+119.  See the discussion of Vice President Gore's proposals in RHEINGOLD, 
+
+supra note 6, at 304, which 
+
+calls for avoiding "information haves" and "have-nots." 
+
+120.  Elmer-DeWitt, supra note 107, at 4, 9-10.  A special advantage of the Internet is its grassroots, 
+"bottom-up" quality. In contrast to the mass media, in which a large broadcaster speaks to millions, the 
+Internet allows individual citizens to  spread news or commentary to one person, or to  hundreds, or to 
+thousands, or  to  millions. The  problem of  access to  the  media is  in  this  respect greatly reduced. A 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1785 
+
+2.  Dangers 
+
+At least from the standpoint of the founding era, and from the standpoint 
+of democratic theory, the new technology also carries with it significant risks. 
+There are two major problems. The first is  an absence of  deliberation. The 
+second is an increase in social balkanization. 
+
+a.  Absence of Deliberation 
+
+The  Madisonian view  of  course  places  a  high  premium on  public 
+deliberation, and  it  disfavors  immediate  and  inadequately considered 
+governmental reactions to  pressures from the  citizenry. 121  The  American 
+polity is a republic, not a direct democracy, and for legitimate reasons; direct 
+democracy is unlikely to provide successful governance, for it is too likely to 
+be free from deliberation and unduly subject to short-time reactions and sheer 
+manipulation. From the inception of the American system a large point of the 
+system of  republicanism has been to  "refine and enlarge the public view" 
+through the system of representation.122 
+
+This process of refinement and enlargement is endangered by decreased 
+costs of communication. As I have noted, discussions in cyberspace may well 
+be  both  substantive and deliberative; electronic mail  and the  Internet in 
+particular  hold  out  considerable  promise  on 
+score.123  But 
+communications between citizens and their representatives may also be reactive 
+to  short-term impulses,  and  may  consist  of  simple  referenda results 
+insufficiently filtered by reflection and discussion. 
+
+this 
+
+In the current period, there is thus a serious risk that low-cost or costless 
+communication will increase government's responsiveness to myopic or poorly 
+considered public outcries, or to sensationalistic or sentimental anecdotes that 
+are a poor basis for governance. Although the apparent presence of  diverse 
+public voices is often celebrated, electoral campaigns and treatment of public 
+issues already suffer from myopia and sensationalism,124 and in a way that 
+compromises founding ideals.  On  this  count it  is  hardly clear that new 
+technologies will  improve matters. They may even make things worse. The 
+phenomenon of "talk radio" has achieved considerable attention in this regard. 
+It is surely desirable to provide forums in which citizens can speak With one 
+
+decentralized system has the distinct virtue of promoting Jeffersonian aspirations to citizenship. 
+
+121.  See THE FEDERALIST No. 10 (James Madison); see also JOSEPH M. BESSETTE, THE MILD VOICE 
+
+OF REASON (1994). 
+
+RHEINGOLD, supra note 6. 
+
+122.  THE FEDERALIST No.  10 (James Madison). 
+123.  See  supra  text  accompanying note  120  (discussing LEXIS  Counsel  Connect); see  also 
+
+124.  See generally SHANTO IYENGAR, Is ANYONE RESPONSIBLE? (1992); SHANTO IYENGAR & DONALD 
+R.  KINDER, NEWS THAT MATTERS  (1987); PHYLLIS KANISS, MAKING LOCAL NEWS (1989).  See  also 
+STEPHEN BREYER, BREAKING THE VICIOUS CIRCLE 33-51  (1993). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1786 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+another, especially on  public issues. But it  is  not desirable if  government 
+officials are reacting to immediate reactions to misleading or sensationalistic 
+presentations of issues. 
+
+Ross  Perot's  conception of  an  "electronic town  meeting" is  hardly 
+consistent with founding aspirations, at least if the meeting has the power to 
+make decisions all by itself. Democracy by soundbite is hardly a perfect ideal. 
+New  technologies  may  make  democracy by  soundbite far  more  likely. 
+Everything depends on how those technologies are deployed in communicating 
+to public officials. 
+
+We can make these points more vivid with a thought experiment. Imagine 
+that through the new technologies, the communications options were truly 
+limitless. Each person could design his own communications universe. Each 
+person could see those things that he wanted to see, and only those things. 
+Insulation from unwelcome material would be costless. Choice of particular 
+subjects and points of view would be costless too. Would such a system be a 
+communications utopia? Would it fulfill First Amendment aspirations?125 
+
+The answer is by no means simple. Of course a system of this kind would 
+have advantages. It might well overcome some of the problems produced by 
+extremes of  wealth and poverty, at least insofar as poor people could both 
+speak and hear far more cheaply. But the aspiration to an informed citizenry 
+may not be well served. Under the hypothesized system, perhaps most people 
+would be rarely or poorly informed. Perhaps their consumption choices would 
+disserve democratic ideals.126 If the system of free expression is designed to 
+ensure against an "inert people," we cannot know, a priori, whether a system 
+of well-functioning free markets would be desirable. 
+
+b.  Balkanization and Self-Insulation 
+
+The hypothesized system would have another problem: It would allow 
+people to screen out ideas, facts, or accounts of facts that they find disturbing. 
+In the current system, people are often confronted with ideas and facts that 
+they find uncongenial. This is  an important democratic good; it  promotes 
+education and discussion. A well-functioning system of free expression is one 
+in which people are exposed to ideas that compete with their own, so that they 
+can test their own views and understand other perspectives even when they 
+disagree. This process can produce a capacity for empathy and understanding, 
+so  that other people are not dehumanized even across sharp differences in 
+judgment and perspective. Important forms of commonality and respect might 
+emerge simply by virtue of presenting the perspectives of others from others' 
+points of view. 
+
+125.  For a description of the possibility of such a system, see Volokh, supra note 29. 
+126.  On the issue of choice, see infra part V.B.2. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1787 
+
+A  system of  individually designed communications options could, by 
+contrast, result in  a  high degree of  balkanization, in  which people are not 
+presented with new or contrary perspectives. Such a nation could not easily 
+satisfy democratic and deliberative goals. In such a  nation, communication 
+among people with different perspectives might be far more difficult than it 
+now is; mutual intelligibility may become difficult or even impossible. In such 
+a  nation,  there  may  be  little  commonality among  people  with  diverse 
+commitments, as one group caricatures another or understands it by means of 
+simple slogans that debase reality and eliminate mutual understanding. 
+
+These suggestions are far from hypothetical. They capture a significant part 
+of  the reality of  current communications in  America. They create serious 
+political risks. 
+
+3.  A Caution About Responses 
+
+It is far from clear how government can or should overcome these various 
+problems. Certainly government should not be  permitted to  censor citizen 
+efforts to  communicate with representatives, even  if  such communications 
+carry risks to deliberative ideals. It does seem clear, however, that government 
+should be cautious about spurring on its own the use of new technologies to 
+promote immediate, massive public reactions to popular issues. Government 
+by  referendum is  at  best  a  mixed  blessing,  with  possible  unfortunate 
+consequences wherever it is tried.127 The electronic media should not be used 
+to create a form of government by referendum. Regulatory efforts to facilitate 
+communication need not be transformed into an effort to abandon republican 
+goals. 
+
+Rather than spurring referenda in cyberspace, or referenda by soundbite, 
+government should seek to promote deliberation and reflection as part of the 
+process of eliciting popular opinion. 28 Any such efforts might well be made 
+part of  a  general strategy for turning new communications technologies to 
+constitutional ends. As we have seen, electronic mail has considerable promise 
+on this score. 
+
+B.  Some Policy Dilemmas 
+
+A large question for both constitutional law and public policy has yet to 
+receive a  full  democratic or a judicial answer: To what extent, if  any, do 
+Madisonian ideals have  a  place  in  the  world of  new  technologies, or  in 
+cyberspace? Some people think that the absence of  scarcity eliminates the 
+
+127.  See generally MAGLEBY, supra note 118. 
+128.  See  the discussion of  the deliberative opinion poll  in  JAMES S.  FISHKIN, DEMOCRACY AND 
+
+DELIBERATION 1-2,  84 (1991). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1788 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+argument for governmental regulation, at least if  it is  designed to promote 
+attention to public issues, to increase diversity, or to raise the quality of public 
+debate.'29 If  outlets are unlimited, why  is  regulation of  any value? In the 
+future, people will be able to listen to whatever they want, perhaps to speak 
+to whomever they choose. Ought this not to be a constitutional ideal? 
+
+The question is meant to answer itself, but perhaps enough has been said 
+to show that it hardly does that. Recall first that structural regulation, assigning 
+property rights and making agreements possible, is  a precondition for well- 
+functioning markets. Laissez-faire is a hopeless misdescription of free markets. 
+A  large government role,  with coercive features, is  required to  maintain 
+markets. Part of  the  role  also  requires steps  to  prevent monopoly  and 
+monopolistic practices. 
+
+Moreover, Madisonian goals need not be thought anachronistic in a period 
+of  infinite outlets. In  a  system of  infinite outlets, the  goal  of  consumer 
+sovereignty may well be adequately promoted. That goal has a distinguished 
+place in both law and public policy. But it should not be identified with the 
+Constitution's free  speech  guarantee. The  Constitution does  not  require 
+consumer sovereignty; for the most part, the decision whether to qualify or 
+replace that goal with Madisonian aspirations should be made democratically 
+rather than judicially. A  democratic citizenry armed with  a  constitutional 
+guarantee of free speech need not see consumer sovereignty as its fundamental 
+aspiration.130 Certainly it may choose consumer sovereignty if  it  likes. But 
+it  may  seek  instead to  ensure high-quality fare for children, even  if  this 
+approach departs from consumer satisfaction. It may seek more generally to 
+promote educational and public-affairs programming. 
+
+The choice between these alternatives should be made through the political 
+branches rather than as a matter of constitutional law. In this Section, I try to 
+support this basic conclusion, and to do so in a way that is attuned to many of 
+the pathologies of "command-and-control" regulation. The goal for the future 
+is to incorporate Madisonian aspirations in a regulatory framework that is alert 
+to the difficulty of anticipating future tastes and developments, that sees that 
+incentives are better than commands, and that attempts to  structure future 
+change rather than to dictate its content. 
+
+129.  See KRAnIENMAKER &  POWE, supra note 25. 
+130.  It  is  revealing in  this regard that many European nations do  not identify their free  speech 
+principle with consumer sovereignty. See  SUNSTEIN, supra note  12, at 77-81.  The experience of  the 
+Bundesverfassungsgericht (German Constitutional Court) is  of  special interest, for the Court has self- 
+consciously decided that democratic aspirations require the government to regulate the broadcast media to 
+create a  forum for speakers with a  broad range of  interests and opinions. See  DAVID P. CURRIE, THE 
+CONSTTUTION OF THE FEDERAL REPUBLIC OF GERMANY 227-33  (1994);  CASs  R. SUNSTEIN, supra note 
+12, at 77-79  (discussing recent Bundesverfassungsgericht cases). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1789 
+
+1.  Advertising 
+
+It  is  commonly  thought  that  viewers  and  listeners  purchase  a 
+communications product, and that their purchase decisions should be respected; 
+but this picture is not altogether right. The decisions of viewers and listeners 
+are different from most consumption decisions, in the sense that viewers and 
+listeners often pay nothing for programming, and often they are, in a sense, the 
+product that is being sold. For much commercial programming, a key source 
+of revenues is advertisers, and programmers deliver viewers to advertisers in 
+return for money. For this reason the broadcasting market is not a conventional 
+one in which people purchase their preferred products. People's viewing and 
+listening time is bought and sold. 
+
+There  is  an  important consequence for  the  substantive content  of 
+broadcasting: What is provided in a communications market is not the same 
+as what viewers would like to  see. Advertisers have some power over the 
+content  of  communication, for  they  may  withdraw their  support from 
+disfavored programming. They may withdraw their support not simply because 
+the  programming does  not  attract viewers,  but  also  because  (a)  the 
+programming is  critical of  the  particular advertisers, (b)  it  is  critical of 
+commerce is general, (c) it stirs up a controversial reaction from some part of 
+the  audience, or  (d)  it  is  "depressing" or creates "an unfavorable buying 
+atmosphere." There is  a great deal of  evidence that advertiser control does 
+affect  the  content of  programming."3' Controversial programs have  been 
+punished; presentations of  contested issues,  such  as  abortion, have  been 
+affected by advertisers' goals.132 
+
+In  an  era  of  numerous options,  the  influence of  advertising over 
+programming content should be less troublesome, since controversial points of 
+view should find an outlet. Certainly there is no such problem on the Internet. 
+But there will nonetheless continue to be a structural problem in broadcasting 
+markets, since viewers' demand for programs will not be fully responsible for 
+the programs that are actually provided. Many imaginable proposals could help 
+counter this problem. Such proposals should not be found unconstitutional even 
+if consumer sovereignty is the overriding policy goal.'33 
+
+2.  "Choice" and Culture 
+
+If we put the questions raised by advertisers to one side, we might urge 
+that there is a decisive argument in favor of the marketplace model and against 
+Madisonianism. The  marketplace ideal  values  "choice,"  whereas  the 
+
+131.  See the extensive discussion in BAKER, supra note 37, at 44-70;  see also SUNSTEIN, supra note 
+
+12, at 62-66. 
+
+132.  See BAKER, supra note 37, at 55-65. 
+133.  See id. at 83-117. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1790 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+Madisonian alternative can be seen to reflect a form of dangerous paternalism, 
+or disrespect for people's diverse judgments about entertainment options.'34 
+Perhaps Madisonianism is  illiberal insofar as it does not respect the widely 
+divergent conceptions of the good that are reflected in consumption choices. 
+The argument is certainly plausible. In most arenas, consumers are allowed 
+to  choose  as  they  wish,  and  governmental interference requires special 
+justification. But in this context, at least, the argument from choice is quite 
+unconvincing, for it wrongly takes people's consumption choices as definitive 
+or exhaustive of "choice." In fact the notion of "choice" is a complex one that 
+admits of  no  such simple understanding.'35 In a democratic society, people 
+make choices as citizens too. They make choices in democratic arenas as well 
+as in stores and before their computers. What those choices are depends on the 
+context in which they are made. 
+
+For this reason, the insistence on respect for "choice," as a defense of the 
+marketplace model, sets  up the legal problem in  a  question-begging way. 
+People do make choices as consumers, and these choices should perhaps be 
+respected. But those choices are heavily geared to the particular setting in 
+which they are made-programming consumption. They do not represent some 
+acontextual entity  called  "choice." In  fact  there is  no  such  acontextual 
+entity. 
+
+The question is not whether or not to respect "choice," but what sorts of 
+choices  to  respect. More  particularly, the  question is  whether to  allow 
+democratic choices to make inroads on consumption choices. In a free society, 
+consumption choices should usually be respected. But the Constitution does not 
+require this result, and in  some settings democratic judgments contrary to 
+consumption choices  are  legitimate.  For  example,  a  requirement that 
+broadcasters provide free media time for candidates might well receive broad 
+public support, even if viewers would, at the relevant time, opt for commercial 
+programming."37 There  should  be  no  constitutional barrier to  such  a 
+requirement. 
+
+The central point is that in their capacity as citizens assessing the speech 
+market, people may well  make choices, or offer considered judgments, that 
+diverge from their choices  as  consumers.138 Acting  through their elected 
+representatives, the public may well seek to promote (for example) educational 
+
+134.  See, e.g., Syracuse Peace Council v. Television Station WTVH, 2 F.C.C.R. 5043, 5052 (1987); 
+
+KRATrENMAKER &  POWE, supra note 25. 
+
+135.  See ELIZABETH ANDERSON, VALUE IN ETHICS AND ECONOMICS 190-216  (1993). 
+136.  See Richard H. Pildes & Cass R. Sunstein, Reinventing the Regulatory State, 62 U. CHI. L.  REV. 
+
+1, 78-79  (1995); Amartya Sen, Internal Consistency of Choice, 61 ECONOMETRICA 495 (1993). 
+
+137.  Of course it  is possible that any regulatory requirements would be futile, since people might 
+simply change the channel, or cease watching at all. This may be a good objection, as a matter of policy, 
+to any particular initiative. The important point is that it is an objection of policy, not of constitutional law. 
+138.  See HOWARD MARGOLIS, SELFISHNESS, ALTRUISM, AND RATIONALITY (1987); Cass R. Sunstein, 
+
+Preferences and Politics, 20  PHIL. &  PUB. AFF. 3  (1991). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1791 
+
+programming, attention to  public issues,  and diverse views.  Perhaps the 
+public-or  a majority acting in its democratic capacity-believes  that education 
+and discussion of public issues are both individual and collective goods. Any 
+system of expression has cultural consequences; it helps create and sustain a 
+certain kind of  culture. Perhaps the public wants to  ensure a  culture of  a 
+certain sort,  notwithstanding consumption choices.139 Perhaps it  seeks  to 
+protect children and adolescents, and sees regulation of broadcasting as a way 
+of accomplishing that goal. Perhaps people believe that their own consumption 
+choices are less than ideal, and that for justice-regarding or altruistic reasons, 
+or because of their basic commitments and judgments, regulations should force 
+broadcasters or cable operators to improve on existing low-quality fare. 
+
+Perhaps people seek and hence choose to ensure something like a political 
+community, not in the sense of  a place where everyone believes the same 
+thing, but in the sense of a polity in which people are generally aware of the 
+issues that are important to the future of the polity. Perhaps people think that 
+the broadcasting media should have a degree of continuity with the educational 
+system, in the sense that broad dissemination of knowledge and exposure to 
+different views  are part of  what citizens in  a  democratic polity  deserve. 
+Perhaps people believe that many citizens do not value certain high-quality 
+programming partly because they have not been exposed to it, and perhaps 
+experiments are designed to see if tastes for such programming can be fueled 
+through exposure.140 
+
+Would measures stimulated by such thoughts be objectionable, illegitimate, 
+or even unconstitutional? Would they interfere in an impermissible way with 
+something called "choice"? I do not believe so. Surely any such efforts should 
+be policed by courts, so  as to ensure that government is  not discriminating 
+against or in favor of certain viewpoints. The mere fact that the democratic 
+majority seeks to overcome consumption choices is not legitimating by itself; 
+the  democratic judgment may  be  unacceptable if  it  involves  viewpoint 
+discrimination or content discrimination suggestive of  viewpoint bias. But 
+rightly conceived, our constitutional heritage does not disable the public, acting 
+through the constitutional channels, from improving the operation of the speech 
+market in  the  ways  that I  have- suggested. Whether it  should do  so  is  a 
+question to be answered democratically rather than judicially. 
+
+139.  Compare the discussion of the right to free speech in RAZ, supra note 32, at 131-54. 
+
+If I were to choose between living in a society which enjoys freedom of expression, but not 
+having the right myself, or enjoying the right in a society which does not have it, I would have 
+no hesitation in judging that my own personal interest is better served by the first option. 
+
+Id. at 39. 
+
+140.  Cf. JON ELSTER, SOUR GRAPES (1983) (discussing adaptive preferences); Sushil Bikhchandani 
+et al., A  Theory of Fads Fashion, Custom and Culture Change as Informational Cascades, 100 J. POL. 
+ECON. 992 (1992) (theorizing that because decisions based upon limited information are fragile, relatively 
+unimportant new information may radically shift social equilibria). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1792 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+3.  Analogies 
+
+An important issue for the future involves the use of old analogies in novel 
+settings. The  new  technologies will  greatly increase the  opportunities for 
+intrusive, fraudulent, harassing, threatening, libelous, or obscene speech.141 
+With a few brief touches of a finger, a speaker is now be able to communicate 
+to thousands or even millions of people-or  to pinpoint a message, perhaps a 
+commercial, harassing, threatening invasive message, to a particular person. A 
+libelous  message,  or  grotesque invasions of  privacy, can  be  sent  almost 
+costlessly. Perhaps reputations and lives  will  be  easily  ruined or  at  least 
+damaged. There are difficult questions about the extent to which an owner of 
+a computer service might be held liable for what appears on that service.142 
+
+At this stage, it remains unclear whether the conventional legal standards 
+should be altered to meet such problems. For the most part, those standards 
+generally seem an adequate start and must simply be adapted to new settings. 
+For purposes of assessing cyberspace, there are often apt analogies on which 
+to draw. In fact the legal culture has no way to think about the new problems 
+except via analogies. The analogies are built into our very language: e-mail, 
+electronic bulletin boards, cyberspace, cyberspaces,'43 and much more.1" 
+
+Thus, for example, ordinary mail provides a  promising foundation on 
+which to build the assessment of legal issues associated with electronic mail. 
+It is far from clear that the standards for libelous or fraudulent communication 
+must shift with the new  technologies. To be  sure, there will  be  new  and 
+somewhat vexing occasions for evaluating the old standards. Judges may not 
+understand the novel  situations, especially those involving the Internet. In 
+particular, the  low  cost  of  sending and receiving electronic mail,  and of 
+sending it  to  thousands or  millions  of  people,  may  produce some  new 
+developments and put high pressure on old categories. Certainly it is likely that 
+new and unanticipated problems will arise and a degree of judicial caution is 
+therefore desirable in invoking the First Amendment. But it is by no means 
+clear that the basic principles will themselves have to be much changed. 
+
+4.  Access 
+
+I have noted that the government has said that "universal access" is one 
+of  its  goals  for the information superhighway. The question of  access has 
+
+141.  See, e.g., Anne Wells Branscomb, Anonymity, Autonomy, and Accountability: Challenges to the 
+First Amendment in Cyberspaces, 104 YALE L.J.  1639 (1995); Lawrence Lessig, The Path of Cyberlaw, 
+104 YALE L.J. 1743 (1995); Volokh, supra note 29. 
+
+142.  See infra note 169, discussing S. 314, the proposed Communications Decency Act of  1995. 
+143.  See Branscomb, supra note 141. 
+144.  See Lessig, supra note 141, at 1744; see also Cass R. Sunstein, On Analogical Reasoning, 106 
+HARV. L. REv. 741 (1993); Cass R. Sunstein, Political Conflict and Legal Judgment, 1996 THE TANNER 
+LECTuREs IN HUMAN VALUES (forthcoming). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1793 
+
+several  dimensions. To  some  extent  it  is  designed to  ensure access  to 
+broadcasting options for viewers and listeners-the  central problem in Turner. 
+Here a particular concern is that poor people should not be deprived of access 
+to  a  valuable  good.  Currently the  expense  of  Internet connections  is 
+prohibitively  high  for  many  families.  This  may  entail  a  form  of 
+disenfranchisement and to  some extent the problem is  to ensure access for 
+certain speakers who want to reach part of the viewing or listening public. In 
+cyberspace, of course, people are both listeners and speakers. 
+
+Perhaps the goal of universal viewer or listener access should be viewed 
+with skepticism. The government does not guarantee universal access to cars, 
+or housing, or food, or even health care. It may seem puzzling to suggest that 
+universal access to information technologies is an important social goal. But 
+the suggestion can be shown to be less puzzling than it appears. Suppose, for 
+example, that a certain network becomes a principal means by which people 
+communicate  with  their  elected  representatives; suppose  that  such 
+communications become a principal part of public deliberation and in that way 
+ancillary to the right to vote. Suppose too that companies engage in a form of 
+"electronic redlining," in which they bypass poorer areas, both rural and in the 
+inner city.145 We  know  that a  poll  tax  is  unconstitutional because of  its 
+harmful effects  on  political  equality.16 On  a  broadly similar principle, 
+universal access to the network might be thought desirable. To be sure, such 
+access would be most unlikely to be constitutionally mandated, since the right 
+to vote is technically not involved. But universal access could be seen to be 
+part of the goal of political equality. More generally, universal access might 
+be  necessary if  the network is  to  serve its intended function of  promoting 
+broad discussion between citizens and representatives. It is notable that at least 
+seven million Americans, most of whom are poor, lack telephones, and hence 
+are without basic access.147 
+
+The point might be generalized. For any particular speaker, part of  the 
+advantage of  having access to  a  certain means of  communication is  that 
+everyone, or almost everyone, or a wide range of people, can be reached. The 
+Postal Service, for example, is justified in part on the ground that a national 
+system of mail is necessary or at least helpful for those who send mail; we can 
+be assured that any letter can reach everyone. The claim is controversial. But 
+perhaps a  requirement of  universal access  can  be  justified  not  as  an 
+inefficient"48 effort to  subsidize people who would be  without service, but 
+on the quite different ground that universal service is a way of promoting the 
+
+145.  Suneel Ratan, A New Divide Between Haves and Have-Nots?, TIME,  Spring 1995 (Special Issue), 
+
+146.  See Harper v. Virginia Bd. of Elections, 383 U.S. 663, 666 (1966). 
+147.  See Ratan, supra note 145, at 26. 
+148.  It is likely to be inefficient when compared with subsidies for people who are unable to afford 
+
+at 25, 26. 
+
+access. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1794 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+communicative interests of those who already have service. The interests of the 
+latter group may well be promoted by ensuring that they can reach everyone, 
+or nearly everyone. 
+
+Arguments of  this  kind  have  been  used  throughout the  history  of 
+telecommunications regulation. For most of the twentieth century, there have 
+been cross-subsidies, as local companies with local monopolies have charged 
+high  prices  to  certain customers (usually businesses)  with  which  they 
+subsidized less profitable services. Perhaps a similar model would make sense 
+for modern technologies. The issue is  already receiving considerable public 
+attention.149 
+
+There are, however, significant inefficiencies in  this  model  of  cross- 
+subsidization,150 and a system of open-ended competition may well be better 
+than one based on universal access. It may be that open-ended competition will 
+provide universal access in any case, or something very close to it. Or it may 
+be that open-ended competition, combined with selective subsidies, would be 
+better than the regulatory approach. This question cannot easily be answered 
+in the abstract. Certainly debate over universal access should not be resolved 
+by constitutional fiat. This is an area for public debate and a large degree of 
+experimentation. 
+
+5.  Incentives Rather than Command-and-Control 
+
+In  general, any  regulatory controls should take the  form of  flexible 
+incentives rather than rigid commands. Command-and-control systems are 
+usually ineffective in achieving their own goals; they tend to promote interest- 
+group  power,  in  which  well-organized private groups  are  able  to  use 
+governmental authority to redistribute wealth or opportunities in their favor; 
+they also tend to be inefficient.151 
+
+I  cannot discuss this  issue  in  detail here, but the  explosion  of  new 
+technologies reinforces the point. It is predictable that owners of some services 
+will  attempt to  obtain governmental aid to disadvantage actual or potential 
+competitors.152 Especially in  an  era of  rapid and only  partly foreseeable 
+technological change, the government's basic duty is to provide a framework 
+for competitive development,153 rather than specification of  end-states. Any 
+
+149.  See Vice President Gore's suggestions, outlined in RHEINGOLD, 
+150.  See STEPHEN BREYER, REGULATION AND ITS REFORM (1982). 
+151.  See generally Bruce A.  Ackerman & Richard B.  Stewart, Reforming Environmental Law, 13 
+COLUM. J. ENvTL. L.  171 (1988). A  vigorous popular treatment is  PHILIP K. HOWARD, THE DEATH OF 
+COMMON SENSE (1994). FRIEDRICH A. HAYEK, THE CONSTITUTION OF LIBERTY (1960), can well be read 
+as a sustained attack on command-and-control regulation, and what Hayek says bears directly on efforts 
+to regulate emerging technologies. 
+
+supra note 6, at 11. 
+
+152.  See, e.g., The Cable Act, 47 U.S.C. ?? 534-535  (Supp. V  1993); supra text accompanying notes 
+
+153.  This is a Hayekian point connected with the difficulty of foreseeing the future. See HAYEK, supra 
+
+54-55. 
+
+note 151. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1795 
+
+such specifications will likely prove counterproductive in light of developments 
+that cannot now be predicted. 
+
+This is not to say that government regulation has no place, or even that 
+government should restrict itself  to  the  task of  ensuring well-functioning 
+markets. But even good Madisonians should insist that rigid dictates ought to 
+be  avoided. Regulation will  do far better if  it takes the form of  incentives 
+rather than mandates. Consider, as possible forerunners of future approaches, 
+the FCC's use of auction systems accompanied by the grant of "points" toward 
+licensing'54  for  preferred licensees.  Consider too  the  use  of  government 
+subsidies to  public broadcasting or to certain high-quality programs, or the 
+transfer of  resources from  commercial broadcasters for  the  benefit  of 
+noncommercial, educational, or public-affairs programming. Initiatives of this 
+sort would not mandate particular results but instead would create pressures to 
+improve the speech market. 
+
+C.  Law 
+
+The  ultimate shape of  constitutional constraints on  regulation of  the 
+electronic media cannot be foreseen. Too many new possibilities will come 
+into view. Too many distinctions will become relevant. Consider, for example, 
+the fact that for many dozens of  years, there has been a  clear difference 
+between  two  different  kinds  of  communication. The  first  is  ordinary 
+broadcasting or publishing, in which an owner makes available a certain range 
+of  communications; offers that range of  communications as  an indivisible 
+package  for  hundreds, thousands, or  millions  of  subscribers; and  sells 
+advertising time for commercial interests. The second involves the mail, in 
+which one person typically sends a message to another, or in which one person 
+might send a message to a group of people; in any case mail involves highly 
+differentiated, rather than indivisible, communication, in the sense that no 
+single "package" is  made available to wide ranges of  people. Moreover, no 
+advertisers need be  involved. Many of  the complexities in free speech law 
+have arisen from this distinction, though the implications of the distinction are 
+of course sharply contested. 
+
+New technologies may weaken or even undo the distinction between these 
+two categories. In the long-term future, the "mail" analogy may become the 
+more apposite one, as it becomes simpler and cheaper for a person to send 
+communications to any particular person, or to a large group of  people, on 
+such terms as  he  chooses. Communications may decreasingly come  in  an 
+indivisible package, and increasingly take the particular form that the particular 
+actors choose. Perhaps in the future, "broadcasting" will increasingly have this 
+
+154.  Consider the FCC's quite promising auction system, in which points are granted to minority and 
+women applicants. See John McMillan, Selling Spectrum Rights, J. ECON. PERSP., Summer 1994, at 145. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1796 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+characteristic. Often the purchaser of the relevant information will pay for it 
+without  the  intermediation of  advertisers.'55 In  such  a  future,  the 
+constitutional issues will take on different dimensions. A key question will be 
+the extent to which the owner or manager of the "mail" may be held liable for 
+injuries that occur as a result of use of some service. It will be plausible to say 
+that just as the United States and Federal Express are not liable for harms 
+caused by packages they carry, so too the owner of an electronic service ought 
+not to pay damages for harms that owners cannot reasonably be expected to 
+prevent or control. But it is far too soon to offer particular judgments on the 
+issues that will arise. 
+
+It is nonetheless possible to describe certain categories of regulation and 
+to set out some general guidelines about how they might be approached. I have 
+suggested that existing law  provides principles and analogies on  which it 
+makes  sense  to  draw. An  exploration of  new  problems confirms this 
+suggestion.  It  shows  that  current  categories  can  be  invoked  fairly 
+straightforwardly to make sense of likely future dilemmas. 
+
+A large lesson may emerge from the discussion. Often participants in legal 
+disputes, and especially in constitutional disputes, disagree sharply with respect 
+to high-level, abstract issues; the debate between Madisonians and marketplace 
+advocates is  an  obvious  illustration. But  sometimes such  disputants can 
+converge, or narrow their disagreement a great deal, by grappling with highly 
+particular problems. In other words, debate over abstractions may conceal a 
+potential for productive discussion and even agreement over particulars.156 
+Perhaps this is a strategy through which we might make much progress in the 
+next generation of free speech law. 
+
+1.  Requiring  Competition 
+
+Many actual and imaginable legislative efforts are designed to  ensure 
+competition in the new communications markets. There is  no constitutional 
+problem with such efforts.'57 The only qualification is that some such efforts 
+might be  seen as subterfuge for content regulation, disguised by a claimed 
+need to  promote monopoly; but this should be  a  relatively rare event. If 
+government is genuinely attempting to prevent monopolistic practices, and to 
+offer a  structure in which competition can take place, there is  no basis for 
+constitutional complaint. Here First Amendment theorists of widely divergent 
+views might be brought into agreement. 
+
+155.  It is now impossible to know exactly what sorts of communications packages will be provided. 
+156.  See Sunstein, supra note 94. 
+157.  See  also  KRATTENMAKER &  POWE, supra  note  25  (favoring legal  efforts  to  encourage 
+
+competition). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1797 
+
+2.  Subsidizing New Media 
+
+It is predictable that government might seek to assist certain technologies 
+that offer great promise for the future. Some such efforts may in fact be a 
+result of  interest-group pressure. But in  general, there is  no  constitutional 
+obstacle to government efforts to subsidize preferred communications sources. 
+Perhaps government believes that some technological innovations are especially 
+likely to do well, or that they could receive particularly valuable benefits from 
+national assistance. At  least so  long as  there is  no  reason to  believe  that 
+government is  favoring speech of  a certain content, efforts of  this kind are 
+unobjectionable as a matter of law.158 They may be objectionable as a matter 
+of policy, since government may make bad judgments reflecting confusion or 
+factional influence; but that is a different issue. 
+
+3.  Subsidizing Particular Programming or Particular Broadcasters 
+
+In her dissenting opinion in Turner, Justice O'Connor suggested that the 
+appropriate response to  government desire for  programming of  a  certain 
+content is not regulation but instead subsidization.159 This idea fits well with 
+the  basic  model  for  campaign finance regulation, set  out  in  Buckley v. 
+It  also  fits  with  the  idea,  found  in  Rust  v.  Sullivan,161 
+that  the 
+Valeo.'60 
+government is unconstrained in its power to subsidize such speech as it prefers. 
+Hence there should be no constitutional objection to government efforts to fund 
+public broadcasting, to pay for high-quality fare for children, or to  support 
+programming that deals with public affairs.'62 Perhaps government might do 
+this for certain uses of the Internet. 
+
+To be sure, it is doubtful that Rust would be taken to its logical extreme. 
+Could the government fund the Democratic Convention but not the Republican 
+Convention? Could the government announce that it would fund only those 
+public-affairs programs that spoke approvingly of current government policy? 
+If we take the First Amendment to ban viewpoint discrimination, funding of 
+this  kind should be  held to  be  improperly motivated. On the other hand, 
+government subsidies of educational and public-affairs programming need not 
+
+158.  This follows from Rust v. Sullivan, 500 U.S.  173 (1991). 
+159.  Turner Broadcasting Sys., Inc. v. FCC, 114 S. Ct. 2445, 2478 (1994) (O'Connor, J., dissenting). 
+160.  424 U.S.  1 (1976) 
+161.  500 U.S.  173 (1991). 
+162.  There is  a  question of  policy  in  the background, made highly visible  by  controversy over 
+government funding of  the Corporation for Public Broadcasting and the National Endowment for the 
+Humanities. In principle, such funding is justified in light of  the "public good" features of  the relevant 
+products and in light of the possibility that the funded sources can increase opportunities for preference 
+formation by providing greater exposure to high-quality material. See ANDERSON, supra note 135, at 149. 
+But the ultimate value of funding depends on a range of more practical and empirical issues that cannot 
+be decided a priori, including the actual products that result, the opportunities to provide private funding 
+instead, and the alternative use of government money. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1798 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+raise  serious  risks  of  viewpoint  discrimination. It  therefore  seems 
+unexceptionable for government, short of viewpoint discrimination, to subsidize 
+those broadcasters whose programming it prefers, even if any such preference 
+embodies  content  discrimination. So  too,  government might  promote 
+"conversations" or fora on e-mail that involve issues of public importance, or 
+that attempt to promote educational goals for children or even adults.163 
+
+4.  Leaving Admittedly "Open" Channels Available to Others Who Would 
+
+Not Otherwise Get Carriage 
+
+Suppose  that  a  particular communications carrier has  room  for  five 
+hundred channels; suppose that four hundred channels are filled, but that one 
+hundred are left open. Would it be legitimate for government to say that the 
+one hundred must be filled by stations that would otherwise be unable be pay 
+for carriage? Let us  suppose that the stations would be  chosen through a 
+content-neutral system, such as a lottery. From the First Amendment point of 
+view, this approach seems acceptable. The government would be attempting 
+to  ensure access for speakers who would otherwise be  unable to reach the 
+audience. It is possible that as a matter of policy, government should have to 
+provide some payment to the carrier in return for the access requirement. But 
+there does not seem to be a First Amendment problem. 
+
+5.  Requiring Carriers To Be Common Carriers for a Certain Number of 
+Stations, Filling Vacancies with a Lottery System or Timesharing 
+
+In  her  dissenting opinion in  Turner, Justice O'Connor suggested the 
+possibility that carriers could be required to set aside certain channels to be 
+filled by a random method.64 The advantage of this approach is that it would 
+promote access  for  people  who  would otherwise be  denied carriage, but 
+without involving  government in  decisions about preferred content. This 
+approach should raise no First Amendment difficulties. 
+
+6.  Imposing Structural Regulation Designed Not To Prevent a 
+
+Conventional Market Failure, But To Ensure Universal or Near- 
+Universal Consumer Access to Networks 
+
+The  protection of  broadcasters in  Turner was  specifically designed to 
+ensure continued viewer access  to  free programming. Notably, the  Court 
+permitted government to  achieve this  goal  through regulation rather than 
+
+163.  See supra text accompanying notes 112-15 (discussing role of new technologies in connection 
+
+with elections). 
+
+164.  Turner Broadcasting Sys., Inc. v. FCC, 114 S. Ct. 2445, 2480 (O'Connor, J., dissenting). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1799 
+
+through subsidy. Of course subsidy is the simpler and ordinarily more efficient 
+route. If government wants to make sure that all consumers have access to 
+communications networks, why should government not be required to pay to 
+allow such access, on a kind of  analogue to the food stamp program? The 
+ordinary response to a problem of  access is  not to fix prices but instead to 
+subsidize people who would otherwise be without access. The Turner Court 
+apparently believed that it is constitutionally acceptable for the government to 
+ensure that industry (and subscribers), rather than taxpayers, provide the 
+funding for those who would otherwise lack access. 
+
+The precise implications of this holding remain to be seen. It is impossible 
+to  foresee the range of  structural regulations that might be proposed in an 
+effort to ensure that all or almost all citizens have access to free programming 
+or to some communications network, including any parts of the "informational 
+superhighway." Some such regulations might in fact be based on other, more 
+invidious motives, such as favoritism toward a particular set of  suppliers; as 
+we  have seen, this may well  be  true of  the measure in  Turner itself. The 
+Turner decision  means  that  courts  should  review  with  some  care  any 
+governmental claim that regulation is actually based on an effort to promote 
+free access. But the key point here is that if the claim can be made out on the 
+facts, structural regulation should be found acceptable. 
+
+7.  Protecting Against Obscene, Libelous, Violent, Commercial, or 
+
+Harassing Broadcasting or Messages 
+
+New technologies have greatly expanded the opportunity to communicate 
+obscene, libelous, violent, or harassing messages-perhaps to general groups 
+via stations on (for example) cable television, perhaps to particular people via 
+electronic mail.'65 Invasions of  privacy are far more likely. The  Internet 
+poses  special problems on these counts. As  a general rule, any restrictions 
+should be  treated like those governing ordinary speech, with ordinary mail 
+providing the best analogy. If restrictions are narrowly tailored, and supported 
+by a sufficiently strong record, they should be upheld. 
+
+Consider in this regard the highly publicized case involving "cyberporn" 
+
+at the University of  Michigan.166 A  student is  alleged to have distributed a 
+fictional story involving a fellow student, explicitly named, who was, in the 
+story, raped, tortured, and finally killed. The  first question raised here is 
+whether state or federal law provides a cause of action for conduct of this sort. 
+Perhaps the story amounts to a threat, or a form of libel, or perhaps the most 
+plausible state law claim would be based on intentional infliction of emotional 
+
+165.  See Branscomb, supra note 141. 
+166.  See Stephen Levy, TechnoMania, NEWSWEEK, Feb. 27,  1995, at 24, 29; Peter H. Lewis, Writer 
+
+Arrested After Sending Violent Fiction over Internet, N.Y  TIMES, Feb. 11, 1995, at A10. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1800 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+distress. The next question is  whether, if  a state law claim is  available, the 
+award of damages would violate the First Amendment. At first glance it seems 
+that the question should be resolved in the same way as any case in which a 
+writer uses a real person's name in fiction of this sort. And it certainly does 
+not seem clear that the First Amendment should prohibit states from awarding 
+damages for conduct of this kind, so long as no political issue is involved.167 
+Perhaps the ease of massive distribution of such materials, which can be sent 
+to much of the world with the touch of a button, argues in favor of loosening 
+the constitutional constraints on compensatory damages. 
+
+What of a regulatory regime designed to prevent invasion of privacy, libel, 
+unwanted commercial messages, and obscenity,168 harassment, or infliction 
+of  emotional distress? Some such regulatory regime will ultimately make a 
+great deal of sense. The principal obstacles are that the regulations should be 
+both clear and narrow. It is easy to imagine a broad or vague regulation, one 
+that would seize upon the sexually explicit or violent nature of communication 
+to justify regulation that is far broader than necessary. Moreover, it is possible 
+to imagine a situation in which liability was extended to any owner or operator 
+who could have no knowledge of  the particular materials being sent.169 The 
+underlying question, having to do with efficient risk allocation, involves the 
+extent to  which a  carrier might be  expected to  find and to  stop unlawful 
+messages; that question depends upon the relevant technology. 
+
+Consider more particularly possible efforts to control the distribution of 
+sexually explicit materials on the Internet. Insofar as the government seeks to 
+ban materials that are technically obscene, and imposes civil  or  criminal 
+liability on  someone with specific intent to  distribute such materials, there 
+should be  no  constitutional problem. By  hypothesis, these  materials lack 
+constitutional protection, and materials lacking constitutional protection can be 
+banned in cyberspace as everywhere else. On the other hand, many actual and 
+imaginable bills would extend beyond the technically obscene, to include (for 
+example) materials that are "indecent," or "lewd," or  "filthy."170 Terms of 
+this sort create a serious risk of unconstitutional vagueness or overbreadth.171 
+At least at first glance, they appear unconstitutional for that reason. 
+
+167.  See Hustler v. Falwell, 485 U.S. 46, 51-52  (1988). 
+168.  See  S.  314,  104th Cong.,  1st Sess.  ?  2(a)  (1995),  which would have extended liability to 
+
+telecommunications providers of obscene materials. 
+
+169.  In January 1995, for example, Senator Jim Exon (D-Neb.) introduced S. 314, the Communications 
+Decency Act of  1995, in the U.S. Senate. In an effort to control digital pornography, it originally would 
+have made all  telecommunications providers doing business in  the United States (from the telephone 
+companies, all the way down to offices that use local area networks) liable for the content of anything sent 
+over their networks. As it emerged from committee, S. 314 exempted carriers from liability. Id.; see also 
+Peter H. Lewis, Despite a New Plan for  Cooling It Off, Cybersex Stays Hot, N.Y. TIMES, Mar. 26,  1995, 
+at 1, 34 (discussing S. 314 and its potential unconstitutionality) 
+
+170.  See, e.g., S. 314,  104th Cong., 1st Sess. (1995). 
+171.  Sable Communications of  California, Inc. v. FCC, 492  U.S.  115,  126-31  (1989); Action for 
+Children's Television v. FCC, 11 F.3d 170 (D.C. Cir. 1993); Action for Children's Television v. FCC, 932 
+F.2d 1504 (D.C. Cir. 1991), cert. denied, 112 S. Ct. 1281 (1992). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1801 
+
+The best justification for expansive terms of this kind would be to protect 
+children  from  harmful materials. It  is  true  that  the  Internet contains 
+pornography accessible to children, some of it coming from adults explicitly 
+seeking sexual relations with children. There is in fact material on the Internet 
+containing requests to  children for their home addresses.'72 Solicitations to 
+engage in unlawful activity are unprotected by the First Amendment, whether 
+they  occur on  the  Internet or  anywhere else.  For this  reason, regulation 
+designed to prevent these sorts of requests should not be held unconstitutional. 
+
+But when government goes beyond solicitation, and bans "indecent" or 
+"filthy" material in general, the question is quite different. Here a central issue 
+is whether the government has chosen the least restrictive means of preventing 
+the relevant harms to children. In a case involving "dial-a-porn," for example, 
+the  Court struck down a  ban on  "indecent" materials on  the  ground that 
+children could be protected in other ways.173 On the Madisonian view, this 
+outcome  is  questionable, since  "dial-a-porn" ranks  low  on  the  First 
+Amendment hierarchy. But under existing law, it seems clear that in order to 
+support an extension beyond obscenity, Congress would have to show that less 
+restrictive alternatives would be  ineffectual. The question then becomes a 
+factual one: What sorts of  technological options exist by  which parents or 
+others can provide the relevant protection? To answer this question, it would 
+be necessary to explore the possibility of creating "locks" within the Internet, 
+for use by  parents, or perhaps for use by  those who write certain sorts of 
+materials. 174 
+
+Different questions would be raised by the imposition of civil or criminal 
+liability not on  the distributors having specific intent to  distribute, but on 
+carriers who have no knowledge of the specific materials at issue, and could 
+not obtain such knowledge without considerable difficulty and expense. It 
+might be  thought that the carrier should be treated like a  publisher, and a 
+publisher can of course be held liable for obscene or libelous materials even 
+if the publisher has no specific knowledge of the offending material. But in 
+light of the relatively low costs of search in the world of magazine and book 
+publishing, it is reasonable to think that a publisher should be charged with 
+having control over the content of its publications. Perhaps the same cannot be 
+said for the owner of an electronic mail service. Here the proper analogy might 
+instead be  the carriage of  mail, in  which owners of  services are not held 
+criminally or civilly liable for obscene or libelous materials. The underlying 
+theory is that it would be unreasonable to expect such owners to inspect all the 
+materials they transport, and the imposition of criminal liability, at least, would 
+have an unacceptably harmful effect upon a desirable service involving the 
+
+172.  James  Coates,  Access  to Answers,  CHI. TRIB., Mar. 27,  1995,  ?  4,  at  1, 4. 
+173.  Sable  Communications,  492  U.S.  at  128-31. 
+174.  See  Jerry Berman  & Daniel  J. Weitzner, Abundance  and  User  Control:  Renewing  the Democratic 
+
+Heart of the First Amendment in the Age of Interactive Media, 104 YALE L.J. 1619, 1632-34  (1995). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1802 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+distribution of a great deal of protected speech. If carriers were held liable for 
+distributing unprotected speech, there would inevitably be an adverse effect on 
+the dissemination of protected speech too. In other words, the problem with 
+carrier liability, in this context, is that it would interfere with protected as well 
+as unprotected speech. 
+
+How do these points bear on the First Amendment issue with respect to 
+the Internet? Some of the services that provide access to the Internet should 
+not themselves be treated as speakers; they are providers of speech, but their 
+own speech is not at issue. This point is closely related to the debate in Turner 
+about the  speech status of  cable carriers. But whether or not a  carrier or 
+provider is a speaker, a harmful effect on speech would raise First Amendment 
+issues. We can  see  this point with an analogy. Certainly it  would not be 
+constitutional to say that truck owners will be criminally liable for carrying 
+newspapers containing articles critical of the President. Such a measure would 
+be unconstitutional in its purposes and in its effects, even if the truck owners 
+are not speakers. From this we can see that a criminal penalty on carriers of 
+material that is  independently protected by the First Amendment should be 
+unconstitutional. Thus a criminal penalty could not be imposed for providing 
+"filthy" speech, at least if "filthy" speech is otherwise protected. 
+
+But a penalty imposed on otherwise unprotected materials raises a different 
+question. Suppose that the government imposes criminal liability on carriers 
+or providers of admittedly obscene material on the Internet. The adverse effect 
+on unprotected speech should not by itself be found to offend the Constitution, 
+even if there would be a harmful economic effect, and even unfairness, for the 
+provider of the service. Instead the constitutional question should turn on the 
+extent  of  the  adverse effects  on  the  dissemination of  materials that are 
+protected by  the  Constitution. If,  for example, the  imposition of  criminal 
+liability for the distribution of unprotected speech had serious harmful effects 
+for the distribution of protected speech, the First Amendment issue would be 
+quite severe. But that question cannot be answered in the abstract; it depends 
+on what the relevant record shows with respect to any such adverse effects. 
+To answer that question, we  need to know whether carrier liability, for 
+unprotected speech, has a  significant adverse effect on protected speech as 
+well. We need to know, in short, whether the proper analogy is to a publisher 
+or instead to a carrier of  mail. It is  therefore important to know whether a 
+carrier could, at relatively low expense, filter out constitutionally unprotected 
+material, or whether, on the contrary, the imposition of criminal liability for 
+unprotected material would drive legitimate carriers out of business, or force 
+them to try to undertake impossible or unrealistically expensive "searches." 
+The  answer to  this  question will  depend in  large part on  the  state  of 
+technology. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1995] 
+
+Sunstein 
+
+1803 
+
+8.  Imposing Content-Based Regulation Designed To Ensure Public- 
+
+Affairs and Educational Programming 
+
+It can readily be imagined that Congress might seek to promote education 
+via regulation or subsidy of  new media. It might try to ensure attention to 
+public affairs. Suppose, for example, that Congress sets aside a  number of 
+channels for public-affairs and educational programming, on the theory that the 
+marketplace provides too much commercial programming. This notion has in 
+fact been under active consideration in Congress. Thus a recent bill would 
+have required all telecommunications carriers to provide access at preferential 
+rates to educational and health care institutions, state and local governments, 
+public  broadcast stations, libraries and  other public  entities,  community 
+newspapers, and broadcasters in the smallest markets.175 
+
+Turner certainly does not stand for the proposition that such efforts are 
+constitutional. By hypothesis, any such regulation would be content-based. It 
+would therefore meet with a high level of judicial skepticism. On the other 
+hand,  Turner does  not  authoritatively suggest  that  such  efforts  are 
+unconstitutional. The Court did not itself say whether it would accept content 
+discrimination designed to promote Madisonian goals. Certainly the opinion 
+suggests that the government's burden would be a significant one. But it does 
+not resolve the question. 
+
+It is notable that Justice O'Connor's opinion appears quite sensible on this 
+point,  and  she  leaves  the  issue  open.176 As  I  have  noted, her  principal 
+argument is that the "must-carry" rules are too crude. Certainly crudely tailored 
+measures give  reason to believe that interest-group pressures, rather than a 
+legitimate effort to improve educational and public-affairs programming, are 
+at work. But if the relevant measures actually promote Madisonian goals, they 
+should be upheld. There is of course reason to fear that any such measures 
+have less  legitimate purposes and functions, and hence a degree of judicial 
+skepticism is  appropriate. But narrow measures, actually promoting those 
+purposes, are constitutionally legitimate. 
+
+VI.  MADISON IN CYBERSPACE? 
+
+Do Madisonian ideals have an enduring role in American thought about 
+freedom of speech? The Supreme Court has not said for certain; its signals are 
+quite  mixed;  and the  existence of  new  technologies makes the  question 
+different and far more complex than it once was. It is conceivable that in a 
+world of newly emerging and countless options, the market will prove literally 
+
+175.  S.  1822, 103d Cong., 2d Sess. ?  103(a) (1994) (Communications Act of  1994). 
+176.  Turner Broadcasting Sys., Inc. v. FCC, 114 S. Ct. 2445, 2478 (O'Connor, J., dissenting). 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+1804 
+
+The Yale Law Journal 
+
+[Vol. 104: 1757 
+
+unstoppable, as novel possibilities outstrip even well-motivated government 
+controls. 
+
+If  so,  this  result  should  not  be  entirely lamented. It  would  be  an 
+understatement to  say that a  world in  which consumers can choose  from 
+limitless choices has many advantages, not least from the Madisonian point of 
+view. If choices are limitless, people interested in politics can see and listen 
+to politics; perhaps they can even participate in politics, and in ways that were 
+impossible just a decade ago. But that world would be far from perfect. It may 
+increase social  balkanization. It  may not promote deliberation, but foster 
+instead a series of referenda in cyberspace that betray constitutional goals. 
+
+My central point here has been that the system of free expression is not 
+an aimless abstraction. Far from being an outgrowth of neoclassical economics, 
+the First Amendment has independent and identifiable purposes. Free speech 
+doctrine, with its proliferating tests, distinctions, and subparts, should not lose 
+touch with those purposes. Rooted in  a  remarkable conception of  political 
+sovereignty, the goals of the First Amendment are closely connected with the 
+founding commitment to a particular kind of polity: a deliberative democracy 
+among informed citizens who are political equals. It follows that instead of 
+allowing new technologies to use democratic processes for their own purposes, 
+constitutional law should be concerned with harnessing those technologies for 
+democratic ends-including  the founding aspirations to public deliberation, 
+citizenship, political equality, and even a certain kind of  virtue. If the new 
+technologies offer risks on these scores, they hold out enormous promise as 
+well. I have argued here that whether that promise will be realized depends in 
+significant part on judgments of law, including judgments about the point of 
+the First Amendment. 
+
+This content downloaded from 139.80.123.48 on Thu, 29 Oct 2015 11:08:21 UTC
+All use subject to JSTOR Terms and Conditions
+
+

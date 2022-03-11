@@ -1,0 +1,2730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta/>
+    <article-meta>
+      <title-group>
+        <article-title>Statistics, Not Memories: W hat Was the Standard of Care for Administering Antenatal Steroids to Women in Preterm Labor between 1985 and 2000?</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Coase-Sandor Working Paper Series in Law</string-name>
+          <email>unbound@law.uchicago.edu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <string-name>Recommended Citation</string-name>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Address reprint requests to: William L.</institution>
+          <addr-line>Meadow, MD, PhD</addr-line>
+          ,
+          <institution>Department of Pediatrics, MC 6060, University of Chicago Children's Hospital</institution>
+          ,
+          <addr-line>5825 South Maryland Avenue, Chicago, IL 60637</addr-line>
+          ,
+          <country country="US">USA</country>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Coase-Sandor Institute for Law and Economics</institution>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2003</year>
+      </pub-date>
+      <volume>102</volume>
+      <issue>2</issue>
+      <fpage>354</fpage>
+      <lpage>371</lpage>
+      <abstract>
+        <p>Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>Cass R. Sunstein, William Meadow &amp; Anthony Bell, "Statistics, Not Memories: What Was the Standard of Care for Administering
+Antenatal Steroids to Women in Preterm Labor between 1985 and 2000?" ( John M. Olin Program in Law and Economics Working
+Paper No. 1
+JOHN M. OLIN LAW &amp; ECONOMICS WORKING PAPER NO. 195</p>
+      <p>(2D SERIES)</p>
+      <p>
+        Statistics, Not Memories: What Was the Standard of Care for
+Administering Antenatal Steroids to Women in Preterm Labor
+between 1985 and 2000?
+William L. Meadow, Anthony Bell, and Cass R. Sunstein
+Statistics, Not Memories: What
+Was the Standard of Care for
+Administering Antenatal
+Steroids to Women in Preterm
+Labor Between 1985 and 2000?
+William L. Meadow, MD, PhD,
+Anthony Bell, MD, and Cass R. Sunstein, JD
+Department of Pediatrics and Law School, University of Chicago, Chicago, Illinois
+We determined the frequency of antenatal corticosteroid use
+for mothers with threatened premature delivery in 1985,
+1990, 1995, and 2000. We next compared published data to
+the surveyed recollections of 302 obstetricians who were
+practicing during these years. Two points emerged. First,
+published reports reveal that the use of antenatal corticosteroids
+increased steadily, from 8% in 1985 to 20% in 1990, 52% in
+1995, and 75% in 2000 (P &lt; .001). Second, “expert” opinions
+derived from the recollections of practicing obstetricians
+consistently overestimated the actual use of antenatal
+corticosteroids during the year in question—31% versus 8% for 1985,
+56% versus 20% for 1990, 78% versus 52% for 1995, and 92%
+versus 72% for 2000 (all Ps &lt; .001). The use of antenatal
+corticosteroids by obstetricians in the past 15 years reveals a
+phenomenon that is widely recognized
+elsewhere—retrospective memories are often wrong, and when they are wrong
+they are not randomly wrong. Rather, recollections are
+systematically skewed toward an outcome that, in hindsight, is
+considered desirable (the “Monday morning quarterback”
+phenomenon). We offer a simple proposal. In determining
+the “standard of medical care,” the legal system should rely on
+statistical data about doctors’ performance rather than the
+recollections of experts about doctors’ performance. The
+fallible memories of isolated experts are a crude second-best, far
+inferior to the data that they approximate. Widespread
+adoption of this view by professional physician organizations
+would dramatically increase the rationality of expert
+testimony in medical malpractice tort law.
+        <xref ref-type="bibr" rid="ref2 ref81">(Obstet Gynecol
+2003;102:356 – 62. © 2003 by The American College of
+Obstetricians and Gynecologists.)</xref>
+        Imagine this: In the early 1990s, a woman was admitted
+to an obstetric service in the early stages of labor at 28
+weeks’ gestation. At the time of admission, her fetus was
+estimated to weigh 0.9 kg (2 lb). The likelihood of
+survival for an infant born at that gestation in the early
+1990s was approximately 80%. However, the likelihood
+that the infant would exhibit respiratory distress
+syndrome (RDS) of prematurity after birth was also
+approximately 80%. There had been reports in the medical
+literature for more than a decade that administration of
+antenatal corticosteroids might reduce the incidence and
+severity of RDS in infants after birth. However, the
+indications and side effects of administering antenatal
+corticosteroids to mothers were not well understood.
+      </p>
+      <p>Some obstetricians used antenatal corticosteroids
+routinely in the early 1990s. Most did not. This woman’s
+obstetrician did not.</p>
+      <p>The woman delivered the infant at 28 weeks’
+gestation, and it weighed 0.9 kg (2 lb). The infant was sick
+with RDS but did not die. It suffered long-term
+permanent morbidity related to the RDS. The obstetrician was
+sued for malpractice—specifically, for failing to
+administer antenatal corticosteroids to the mother before
+delivery.</p>
+      <p>At trial, the plaintiff’s expert claimed that in the early
+1990s it was the “standard of care” to administer
+antenatal corticosteroids, and that a failure to have
+administered them to this mother constituted medical
+negligence. This claim was based on the expert’s experience
+and training in the field. A defense expert argued that
+only a minority of obstetricians were using antenatal
+corticosteroids in the early 1990s, and consequently the
+standard of care, which he took to be the use of
+“ordinary care in similar circumstances,” did not require
+antenatal corticosteroids in this case. The defense expert
+buttressed his opinion by pointing to a large body of
+medical literature. Published articles described the
+experience of more than 30,000 women in the early 1990s
+who delivered comparably premature infants. The
+overall percentage receiving antenatal corticosteroids was
+20%.</p>
+      <p>How should a juror decide which of these arguments
+is more persuasive? More precisely, how much weight
+should be given to statistical descriptions of medical
+practice versus anecdotal recollection of an expert’s
+individual experience?</p>
+      <p>In most jurisdictions in the United States, jurors are
+instructed that a doctor must “use the skill and care that
+is ordinarily used by reasonably well-qualified doctors in
+similar cases. . . . A failure to do so is a form of
+negligence called malpractice.”1,2 Moreover, except in
+unusually obvious circumstances (such as operating on the</p>
+      <p>0029-7844/03/$30.00
+doi:10.1016/S0029-7844(03)00510-6
+wrong limb), lay jurors are not expected to understand
+what level of care physicians ordinarily provide and
+consequently are informed by the testimony of medical
+expert witnesses. Expert witnesses, in turn, are expected
+to describe the relevant standards of medical care by
+reflecting on their own professional experience.2</p>
+      <p>A problem immediately arises, although it is not
+usually recognized as such. No additional instructions are
+offered regarding the mechanism by which the expert is
+supposed to convert experience, knowledge, and
+training into an opinion. One might assume that the expert is
+being asked to recall what he or she and his or her
+reasonably well-qualified colleagues usually did in
+similar circumstances and testify accordingly. This seems
+obvious. However, there is much more to say. To begin
+with, a great deal of literature over several decades in
+many related areas of memory research suggests that
+anecdotal recollection of past experience is flawed.3,4
+Moreover, anecdotal recall is not randomly wrong—
+rather, it tends to be skewed in the direction that in
+hindsight would have been preferred. That is, once an
+outcome is known to have occurred, the predominant
+reaction is “I knew it all along.” This is often called the
+“Monday morning quarterback” phenomenon.5,6</p>
+      <p>Experts are not immune to such memory flaws. Even
+professional golfers misremember. In an extensive
+survey, golfers on average claimed that the percentage of
+6-foot putts they made was 75%, but actual observation
+put the number significantly lower, at 55%.7 As another
+example, when emergency room physicians were asked
+how long it took them to diagnose and begin antibiotic
+treatment for children with suspected meningitis, they
+recalled 46 minutes. Actual observation found the
+number to be significantly longer, at 120 minutes.8</p>
+      <p>These examples are not elicited to demonstrate that
+professional golfers or emergency room physicians are
+deliberately untruthful. Rather, selective skewed recall
+appears to be part of us all. We would all rewrite parts of
+history if we could, and in our minds, we cannot help
+doing it.</p>
+      <p>We have explored the Monday morning quarterback
+phenomenon in the context of administration of
+antenatal corticosteroids to women in preterm labor in the
+United States over the past 15 years. To do so, we first
+determined the actual use of antenatal corticosteroids at
+5-year intervals between 1985 and 2000, as documented
+in reports from tens of thousands of patients in the
+medical literature. We then sampled the recollections of
+several hundred potential “expert witnesses”:
+obstetricians who had been in clinical practice during the period
+in question. We compared the published data to the
+recollections of the obstetric specialists.</p>
+    </sec>
+    <sec id="sec-2">
+      <title>MATERIALS AND METHODS</title>
+    </sec>
+    <sec id="sec-3">
+      <title>Published Data on Antenatal Corticosteroid Use From 1985 Through 2000</title>
+      <p>
+        To estimate the actual frequency of antenatal
+corticosteroid use, we searched MEDLINE and PubMed for the
+MeSH key word “antenatal corticosteroids.” We then
+found and read each article that pertained to the
+incidence of antenatal corticosteroid use in human infants in
+1985, 1990, 1995, and 2000
+        <xref ref-type="bibr" rid="ref70 ref71 ref74 ref77">(Wright LL, Fanaroff AA,
+Poole WK, Carlo W, Vohr BR, Ehrenksang RA, Scott
+BJ, McDonald SA. Repeat courses of antenatal steroids:
+Risks and benefits [abstract]. Pediatr Res 2001;49:287A)</xref>
+        <xref ref-type="bibr" rid="ref100 ref102 ref103 ref49 ref50 ref78 ref79 ref80 ref81 ref82 ref83 ref84 ref85 ref86 ref87 ref90 ref93 ref94 ref96 ref98">(Narendran V, Donovan EF, Hoath SB, Warner BB,
+Steichen JJ, Jobe AH. Comparison between early bubble
+CPAP and conventional CPAP in reducing the
+incidence of chronic lung disease [abstract]. Pediatr Res
+2002;51:337A)</xref>
+        .9 –24 In addition, a National Institutes of
+Health (NIH) conference on the use of antenatal
+corticosteroids convened in 1994 produced many articles that
+dealt directly and indirectly with antenatal corticosteroid
+use and contained numerous references to earlier
+studies. After 1994, several publications directly assessed the
+impact of the NIH consensus statement on increasing the
+use of antenatal corticosteroids. Finally, to assess recent
+antenatal corticosteroid use
+        <xref ref-type="bibr" rid="ref56 ref58 ref59">(around the year 2000)</xref>
+        we
+could not rely on published literature, as much remains
+in press or under review. Consequently, we reviewed
+abstracts from pediatric academic societies and the
+Society of Maternal/Fetal Medicine.
+      </p>
+      <p>We restricted our database to mothers for whom
+antenatal corticosteroids might appropriately have been
+prescribed. Consequently, we reviewed publications
+with one of two possible inclusion criteria: 1)
+prematurity or low birth weight—typically, very low birth weight
+(VLBW) infants (birth weight less than 1500 g)—where
+data were reported from population-based neonatal
+intensive care unit outcome studies, or 2) RDS—typically,
+mechanically ventilated infants—where data were
+derived from studies of the efficacy of surfactant
+administration.
+“Expert Opinions” About Antenatal Corticosteroid Use
+From 1985 Through 2000
+We had no way of determining which obstetricians had
+ever served as expert witnesses, nor were we interested
+in sampling just that subset. Rather, we were interested
+in demonstrating the phenomenon of hindsight bias for
+the field as a whole. Consequently, we obtained a list of
+all registered obstetricians in the United States from Ross
+Laboratories. The obstetricians were identified by city
+and state. We sent out two mailings of 500 surveys each
+to ten randomly selected obstetricians in each of the 50
+states. We received 153 responses from the first survey
+and 149 responses from the second survey.</p>
+      <p>The survey questionnaire described a hypothetic case
+of a woman presenting in early labor at approximately
+28 weeks’ gestation. The obstetricians were asked two
+questions regarding the use of antenatal corticosteroids
+for this woman:
+1) What percentage of obstetricians do you think were
+using antenatal corticosteroids in such cases in 1985,
+1990, 1995, and 2000?
+2) Was it your personal practice to administer antenatal
+corticosteroids in such cases in 1985, 1990, 1995, and
+2000?</p>
+    </sec>
+    <sec id="sec-4">
+      <title>Statistical Analyses</title>
+      <p>Two separate mailings were sent to obstetricians
+between July 2000 and June 2001. Responses regarding
+antenatal corticosteroid use from the first mailing were
+compared with those from the second mailing using both
+two-way analysis of variance, with year as the
+withingroup variable and mailing as the across-group variable,
+and comparison of proportions test, with correction for
+multiple comparisons. No significant differences were
+found comparing results from the first and second
+mailings. Consequently, data from the two mailings were
+combined.</p>
+      <p>Responses from the obstetricians regarding antenatal
+corticosteroids were then contrasted with data derived
+from the medical literature using two-way analysis of
+variance, z scores derived from the comparison of
+proportions test, and 2 analysis.25 Meta-analysis of the
+multiple published descriptions of antenatal
+corticosteroid use during each period was performed using the
+number of patients involved, not the number of hospitals
+or publications. For all tests, an level of P .01 was
+required to assume statistical significance.</p>
+    </sec>
+    <sec id="sec-5">
+      <title>RESULTS</title>
+      <p>Table 1 shows antenatal corticosteroid use in 1985,
+1990, 1995, and 2000, as determined from case reports of
+92,169 infants in the medical literature. Figure 1
+contrasts the use of antenatal corticosteroids as reported in
+the medical literature with the compiled recollections of
+302 “expert” obstetrician respondents to our
+questionnaire. Two points are readily apparent. First, published
+reports revealed that the use of antenatal corticosteroids
+increased steadily, from 8% in 1985 to 20% in 1990, 52%
+in 1995, and 75% in 2000 (P .001). Second, expert
+opinions derived from the recollections of practicing
+obstetricians consistently overestimated the actual use of
+antenatal corticosteroids during every year in question:
+31% versus 8% for 1985, 56% versus 20% for 1990, 78%
+versus 52% for 1995, and 92% versus 72% for 2000 (all
+Ps .001).</p>
+      <p>
+        In addition to consistently overestimating their
+colleagues’ use of antenatal corticosteroids from 1985 to
+2000, the obstetrician respondents consistently ranked
+their personal use higher than their estimates of the
+average behavior at the time: 68% versus 3
+        <xref ref-type="bibr" rid="ref3">1% in 1985</xref>
+        ,
+88% versus 56% in 1990, 99% versus 78% in 1995, and
+100% versus 92% in 2000 (all Ps .01).
+      </p>
+    </sec>
+    <sec id="sec-6">
+      <title>DISCUSSION</title>
+      <p>We demonstrate a phenomenon that is widely
+recognized elsewhere: Retrospective memories are often
+wrong, and when they are wrong they are not randomly
+wrong. Rather, recollections are systematically skewed
+toward an outcome that, in hindsight, is considered
+desirable.</p>
+      <p>Over the past 15 years it has become widely accepted
+that antenatal corticosteroid administration to women in
+preterm labor significantly reduces complications in
+prematurely delivered infants.9 –12 Antenatal corticosteroid
+use has risen roughly ten-fold, from 8% to 75% for
+prematurely delivered infants during this period.
+Consequently, viewed retrospectively from the vantage point
+of 2001, antenatal corticosteroid use for women in
+preterm labor at 28 weeks’ gestation has always been
+desirable. As we hypothesized, the recollections of 302
+obstetricians surveyed in 2001 about the use of antenatal
+corticosteroids for preterm labor in the past 15 years
+were wrong and predictably skewed. Obstetricians
+recalled antenatal corticosteroid use to have been greater
+than it demonstrably was at each 5-year interval between
+1985 and 2000.</p>
+      <p>To the extent that obstetricians like the ones in our
+survey might serve as expert witnesses in antenatal
+corticosteroid cases, testifying about ordinary care in similar
+circumstances based upon their recollection of their own
+personal experience, they are likely to be wrong. What
+do such discrepancies between recollections of expert
+practitioners and objective documentation of medical
+practice imply for expert testimony in cases of alleged
+medical negligence?</p>
+    </sec>
+    <sec id="sec-7">
+      <title>Personal Knowledge and Statistical Knowledge</title>
+      <p>A substantial body of evidence on the psychology of
+decision making documents systematic biases in the anecdotal
+recall of experience. People are excessively optimistic about
+what can happen or has happened; at the same time, they
+are overconfident about the accuracy of their
+memories.26–28 Medical experts are not immune from this
+phenomenon.3,8,29–31 Moreover, and perhaps most
+importantly from the standpoint of malpractice testimony, people
+reliably suffer from hindsight bias. Once an outcome is
+known to have occurred, the predominant reaction is “I
+knew it all along.”3,5,29–31 Excessive optimism and skewed
+recall about past practices appear to be human nature. This
+point raises some serious problems for adjudication of
+negligence allegations.</p>
+      <p>A central purpose of medical malpractice law is to protect
+the general public by ensuring that physicians provide
+reasonable care. Reasonable care is determined, at least in
+part, by asking about ordinary practice. If descriptions of
+ordinary practice are important to the judicial process, why
+should jurors and judges rely on the fallible and
+anecdotedriven recollection of an individual expert’s experience,
+especially if we know that this recollection is likely to be
+wrong? Instead, why not inform jurors and judges of the
+verified and reverifiable collective experience of dozens,
+hundreds, or even thousands of cases reported by
+comparably expert physicians? Citations of practice distributions
+derived from published medical literature could provide a
+necessary buffer for jurors specifically and the public more
+generally against the inevitable possibility that an individual
+expert’s memory is faulty.</p>
+    </sec>
+    <sec id="sec-8">
+      <title>Methodological Concerns With Reliance on Databases</title>
+      <p>Several methodological concerns must be addressed
+directly. Most reflect difficulties traditionally associated
+with meta-analysis of the efficacy of medical procedures.
+Comparisons across and within studies of different size
+may be difficult to describe succinctly. How is one to
+balance a small study from a single center with a large
+study from multiple centers? As an example from the
+antenatal corticosteroid analysis, in 1990 14% of 11,077
+infants reported from 446 centers in the Exosurf
+Neonatal Treatment Investigational New Drug Program
+received antenatal corticosteroids,12 compared with 20%
+of 480 infants reported from a single center by Teberg et
+al.13 Should we consider the number of studies or the
+number of patients within studies? Further, single
+publications that report data from multiple centers often
+describe a wide spectrum of behavior around a mean value.
+As an example, the use of antenatal corticosteroids
+among the 30 reporting centers of the Vermont-Oxford
+Trials Network in 1990 ranged from 0% to 58%.18
+Finally, inclusion criteria may differ across studies.
+Consider in the context of antenatal corticosteroids whether
+a hypothetic published article included or excluded
+mothers with premature rupture of membranes,
+pregnancies above 32 gestational weeks, pregnancies below
+26 gestational weeks, or twins. Each of these conditions
+has, at times, been argued to be a contraindication for
+administration of antenatal corticosteroids.9 –11</p>
+      <p>There are two related questions here, one narrow and
+one broad. Narrowly, how can we deal with published
+data in the context of the standard of care for antenatal
+corticosteroids? More generally, given the recognition
+that published studies will always have overlapping but
+nonidentical inclusion criteria and that they will
+inevitably invoke an interval of uncertainty around every point
+estimate, how can statistical analysis ever determine the
+standard of care for a single case?</p>
+      <p>In the specific instance of antenatal corticosteroids,
+one might proceed as follows: Our survey was
+deliberately designed to ask obstetricians about behavior in a
+single “idealized” case, analogous to the opinion an
+expert witness would be asked to provide in a single case
+of alleged negligence. Published data are, inevitably,
+more messy. Even when antenatal corticosteroid use is
+intended in all cases, we must assume there will be some
+“slippage,” such as mothers who for one reason or
+another did not receive antenatal corticosteroids even
+though the doctors intended them to do so.
+Consequently, the actual use of antenatal corticosteroids will
+always be a bit lower than the intended use. How can we
+account for this slippage in our data-based formulation of
+standard medical care?</p>
+      <p>We might start by assuming that by the year 2000
+almost all obstetricians wanted to use antenatal
+corticosteroids in idealized cases of women threatening preterm
+delivery. We then can look to see how close the
+obstetricians came to that ideal and note that the answer is
+“quite close.” In 2000, approximately 75% of 30,000
+mothers who delivered VLBW infants received
+antenatal corticosteroids (cf Figure 1 and Table 1). This, then,
+can be taken as a “ceiling” against which other
+comparisons can be measured. As an example, in 1990, 20% of
+all VLBW infants actually received antenatal
+corticosteroids, compared with a theoretic ceiling of 75% who
+might have received antenatal corticosteroids.
+Consequently, the “adjusted” antenatal corticosteroid use in
+idealized circumstances in 1990 was approximately 20 of
+75 (27%). Even after adjustment for slippage, this value is
+significantly lower than the 56% that our obstetricians
+recalled for antenatal corticosteroid use in 1990. For
+every time interval studied, even after adjusting
+published reports of antenatal corticosteroid use to account
+for the potential of nonideal cases, “expert recollection”
+still significantly overestimated adjusted antenatal
+corticosteroid use.</p>
+      <p>There is a larger claim here. Meta-analysis has become
+widely accepted in modern medicine. Indeed, it has
+become essential to the growth of evidence-based
+medical care in obstetrics and elsewhere. However,
+metaanalysis is complicated. One possible response to these
+complexities might be to argue that statistical analysis is
+just too hard for judges, lawyers, and juries to
+understand. If this is true, then attempts to import data into the
+courtroom are doomed. In such a postmodern legal
+world, the scientific method would be abandoned and
+only anecdotal narrative would survive.</p>
+      <p>There is another response, which we favor. We
+welcome methodological complexities and encourage their
+elucidation enthusiastically. With this view, the more
+light shone upon the meaning of data and the difficulties
+of importing it the better, precisely because accuracy is
+what is most important. Whatever difficulties might arise
+in importing statistical methodology into the courtroom,
+these problems pale against the alternative: relying on
+the memories of individual experts, where none of the
+methodological rigor required for scientific analysis is
+applied, or even acknowledged, and where the
+recollections are almost certain to be inaccurate.</p>
+    </sec>
+    <sec id="sec-9">
+      <title>Ordinary Practice and the Standard of Medical Care</title>
+      <p>Is standard medical care always the standard of medical
+care? That is, are physicians obliged to administer the
+care that is “ordinarily provided in the same or similar
+circumstances,”1 or are physicians obliged to conform to
+a more aspirational standard, “the care that should be
+provided in such circumstances”? In other words, does
+customary practice determine negligence?</p>
+      <p>There is a dispute about the weight to be given to
+ordinary practice in medical negligence cases. In some
+jurisdictions, custom defines reasonable conduct.32– 40
+However, in other jurisdictions, both federal41 and
+state,42– 45 a more aspirational standard is applied (not
+what physicians ordinarily do, but what a reasonable
+physician should have done), and customary medical
+treatment is not decisive on the exercise of standard care.</p>
+      <p>In these latter jurisdictions, do statistical compilations of
+normative practice become irrelevant to expert
+testimony regarding the standard of care?</p>
+      <p>The answer is “No.” Even when ordinary practice is
+not controlling, it is always relevant, and when it is
+relevant, juries and judges should learn what it actually
+is. Moreover, in their attempts to influence judge and
+jury, experts ought to distinguish exhortation from
+normative description. As an example, consider expert
+testimony in the context of an allegation concerning
+whether use of antenatal corticosteroids for a woman in
+preterm labor in the early 1990s was part of the ordinary
+standard of care. One can envision an expert obstetric
+witness saying that one should have given antenatal
+corticosteroids to this woman or even that he or she would
+have given antenatal corticosteroids (although,
+intriguingly, our data suggest that even these memories are
+flawed). However, under no circumstances could an
+expert accurately claim that administration of antenatal
+corticosteroids in the early 1990s conformed to ordinary
+care in similar circumstances. That point is sufficient for
+our purposes here. If legal authorities want to depart
+from the standard of ordinary care, they should do so
+with an accurate rather than fanciful understanding of
+what ordinary care is (cf Meadow46,47).</p>
+      <p>There can be no doubt that experts know a great deal
+about topics on which ordinary people lack information.</p>
+      <p>But experts, no less than other people, are subject to
+predictable memory biases. As a specific example, we
+have shown that a majority of obstetricians “recalled”
+antenatal corticosteroid use to be common in the early
+1990s, but the best available data suggest that only a
+small minority of obstetricians were actually using
+antenatal corticosteroids during this time.</p>
+      <p>We offer a simple proposal. In determining the
+standard of medical care, the legal system should rely,
+whenever it can and far more than it now does, on statistical
+data about doctors’ performance rather than the
+opinions of experts about doctors’ performance. The fallible
+memories of isolated experts would be seen as a kind of
+crude second-best, far inferior to the data that they
+approximate. Widespread adoption of this view by
+professional physician organizations, supplemented by
+anticipatory publication of practice distributions for
+potentially problematic clinical scenarios, would dramatically
+increase the sense and rationality of expert testimony in
+medical malpractice tort law.
+Readers with comments should address them to:
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.</p>
+      <p>Chicago Working Papers in Law and Economics</p>
+      <p>(Second Series)</p>
+      <p>Richard A. Epstein, Deconstructing Privacy: and Putting It Back Together Again
+(May 1999)
+William M. Landes, Winning the Art Lottery: The Economic Returns to the Ganz
+Collection (May 1999)
+Cass R. Sunstein, David Schkade, and Daniel Kahneman, Do People Want
+Optimal Deterrence? (June 1999)
+Tomas J. Philipson and Richard A. Posner, The Long-Run Growth in Obesity as a
+Function of Technological Change (June 1999)
+David A. Weisbach, Ironing Out the Flat Tax (August 1999)
+Eric A. Posner, A Theory of Contract Law under Conditions of Radical Judicial
+Error (August 1999)
+David Schkade, Cass R. Sunstein, and Daniel Kahneman, Are Juries Less Erratic
+than Individuals? Deliberation, Polarization, and Punitive Damages (September
+1999)
+Cass R. Sunstein, Nondelegation Canons (September 1999)
+Richard A. Posner, The Theory and Practice of Citations Analysis, with Special
+Reference to Law and Economics (September 1999)
+Randal C. Picker, Regulating Network Industries: A Look at Intel (October 1999)
+Cass R. Sunstein, Cognition and Cost-Benefit Analysis (October 1999)
+Douglas G. Baird and Edward R. Morrison, Optimal Timing and Legal
+Decisionmaking: The Case of the Liquidation Decision in Bankruptcy (October
+1999)
+Gertrud M. Fremling and Richard A. Posner, Market Signaling of Personal
+Characteristics (November 1999)
+Matthew D. Adler and Eric A. Posner, Implementing Cost-Benefit Analysis When
+Preferences Are Distorted (November 1999)
+Richard A. Posner, Orwell versus Huxley: Economics, Technology, Privacy, and
+Satire (November 1999)
+David A. Weisbach, Should the Tax Law Require Current Accrual of Interest on
+Derivative Financial Instruments? (December 1999)
+Cass R. Sunstein, The Law of Group Polarization (December 1999)
+Eric A. Posner, Agency Models in Law and Economics (January 2000)
+Karen Eggleston, Eric A. Posner, and Richard Zeckhauser, Simplicity and
+Complexity in Contracts (January 2000)
+Douglas G. Baird and Robert K. Rasmussen, Boyd=s Legacy and Blackstone=s
+Ghost (February 2000)
+David Schkade, Cass R. Sunstein, Daniel Kahneman, Deliberating about Dollars:
+The Severity Shift (February 2000)
+Richard A. Posner and Eric B. Rasmusen, Creating and Enforcing Norms, with
+Special Reference to Sanctions (March 2000)
+Douglas Lichtman, Property Rights in Emerging Platform Technologies (April
+2000)
+125.
+126.
+175.
+176.
+180.
+181.
+182.
+184.
+185.
+191.
+192.
+193.
+194.
+195.
+196.</p>
+      <p>Richard A. Epstein, Into the Frying Pan: Standing and Privity under the
+Telecommunications Act of 1996 and Beyond (December 2002)
+Douglas G. Baird, In Coase’s Footsteps (January 2003)
+David A. Weisbach, Measurement and Tax Depreciation Policy: The Case of
+Short-Term Assets (January 2003)
+Randal C. Picker, Understanding Statutory Bundles: Does the Sherman Act Come
+with the 1996 Telecommunications Act? (January 2003)
+Douglas Lichtman and Randal C. Picker, Entry Policy in Local
+Telecommunications: Iowa Utilities and Verizon (January 2003)
+William Landes and Douglas Lichtman, Indirect Liability for Copyright
+Infringement: An Economic Perspective (February 2003)
+Cass R. Sunstein, Moral Heuristics (March 2003)
+Amitai Aviram, Regulation by Networks (March 2003)
+Richard A. Epstein, Class Actions: Aggregation, Amplification and Distortion
+(April 2003)
+Richard A. Epstein, The “Necessary” History of Property and Liberty (April
+2003)
+Eric A. Posner, Transfer Regulations and Cost-Effectiveness Analysis (April 2003)
+Cass R. Sunstein and Richard H. Thaler, Libertarian Paternalizm Is Not an
+Oxymoron (May 2003)
+Alan O. Sykes, The Economics of WTO Rules on Subsidies and Countervailing
+Measures (May 2003)
+Alan O. Sykes, The Safeguards Mess: A Critique of WTO Jurisprudence (May
+2003)
+Alan O. Sykes, International Trade and Human Rights: An Economic Perspective
+(May 2003)
+Saul Levmore and Kyle Logue, Insuring against Terrorism—and Crime (June
+2003)
+Richard A. Epstein, Trade Secrets as Private Property: Their Constitutional
+Protection (June 2003)
+Cass R. Sunstein, Lives, Life-Years, and Willingness to Pay (June 2003)
+Amitai Aviram, The Paradox of Spontaneous Formation of Private Legal Systems
+(July 2003)
+Robert Cooter and Ariel Porat, Decreasing Liability Contracts (July 2003)
+David A. Weisbach and Jacob Nussim, The Integration of Tax and Spending
+Programs (September 2003)
+William L. Meadow, Anthony Bell, and Cass R. Sunstein, Statistics, Not
+Memories: What Was the Standard of Care for Administering Antenatal Steroids
+to Women in Preterm Labor between 1985 and 2000? (September 2003)
+Cass R. Sunstein, What Did Lawrence Hold? Of Autonomy, Desuetude, Sexuality,
+and Marriage (September 2003)</p>
+    </sec>
+  </body><script/>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          VOL.
+          <volume>102</volume>
+          , NO. 2,
+          <string-name>
+            <surname>AUGUST 2003</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <article-title>© 2003 by The American College of Obstetricians and Gynecologists</article-title>
+          . Published by Elsevier.
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          1.
+          <article-title>Illinois pattern jury instructions, malpractice. McCafferty MD and</article-title>
+          Meyers SM, eds.
+          <source>Medical Malpractice Bases of Liability. McGraw-Hill</source>
+          ,
+          <year>1985</year>
+          .
+          <volume>105</volume>
+          .01.
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          2.
+          <string-name>
+            <surname>McCafferty</surname>
+            <given-names>MD</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Meyer</surname>
+            <given-names>SM</given-names>
+          </string-name>
+          .
+          <article-title>Medical malpractice bases of liability. Colorado Springs, Colorado: Shepard's/ McGraw-</article-title>
+          <string-name>
+            <surname>Hill</surname>
+          </string-name>
+          ,
+          <year>1985</year>
+          :
+          <volume>2</volume>
+          .
+          <fpage>30</fpage>
+          -
+          <issue>35</issue>
+          ,
+          <fpage>5</fpage>
+          .03,
+          <fpage>34</fpage>
+          -
+          <lpage>39</lpage>
+          ,
+          <fpage>134</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          3.
+          <string-name>
+            <surname>Tversky</surname>
+            <given-names>A</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Kahneman</surname>
+            <given-names>D</given-names>
+          </string-name>
+          .
+          <article-title>Judgment under uncertainty: Heuristics and biases</article-title>
+          . In:
+          <string-name>
+            <surname>Connolly</surname>
+            <given-names>T</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Arkes</surname>
+            <given-names>HR</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hammond</surname>
+            <given-names>KR</given-names>
+          </string-name>
+          , eds. Judgment and
+          <article-title>decision making: An interdisciplinary reader</article-title>
+          . 2nd ed. Cambridge, United Kingdom: Cambridge University Press,
+          <year>2000</year>
+          :
+          <fpage>38</fpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          4.
+          <string-name>
+            <surname>Einhorn</surname>
+            <given-names>H</given-names>
+          </string-name>
+          .
+          <article-title>Expert judgment: Some necessary conditions and an example</article-title>
+          . In:
+          <string-name>
+            <surname>Connolly</surname>
+            <given-names>T</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Arkes</surname>
+            <given-names>HR</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hammond</surname>
+            <given-names>KR</given-names>
+          </string-name>
+          , eds. Judgment and
+          <article-title>decision making: An interdisciplinary reader</article-title>
+          . 2nd ed. Cambridge, United Kingdom: Cambridge University Press,
+          <year>2000</year>
+          :
+          <fpage>324</fpage>
+          -
+          <lpage>5</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          5.
+          <string-name>
+            <surname>Hoch</surname>
+            <given-names>SJ</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Loewenstein</surname>
+            <given-names>GF</given-names>
+          </string-name>
+          .
+          <article-title>Outcome feedback: Hindsight and information</article-title>
+          .
+          <source>J Exp Psychol Learn Mem Cogn</source>
+          <year>1989</year>
+          ;
+          <volume>15</volume>
+          :
+          <fpage>605</fpage>
+          -
+          <lpage>19</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          6.
+          <string-name>
+            <surname>Fischoff</surname>
+            <given-names>B</given-names>
+          </string-name>
+          .
+          <article-title>Hindsight is not equal to foresight: The effect of outcome knowledge on judgment under uncertainty</article-title>
+          .
+          <source>J Exp Psychol Hum Percept Perform</source>
+          <year>1975</year>
+          ;
+          <volume>1</volume>
+          :
+          <fpage>288</fpage>
+          -
+          <lpage>99</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          7.
+          <string-name>
+            <surname>Diaz</surname>
+            <given-names>J</given-names>
+          </string-name>
+          . Perils of putting.
+          <source>Sports Ill 1989 Apr</source>
+          <volume>3</volume>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          8.
+          <string-name>
+            <surname>Meadow</surname>
+            <given-names>WL</given-names>
+          </string-name>
+          , et al.
+          <article-title>Ought “standard care” be the “standard of care”? A study of the time to administration of antibiotics in children with meningitis</article-title>
+          .
+          <source>Am J Dis Child</source>
+          <year>1993</year>
+          ;
+          <volume>147</volume>
+          :
+          <fpage>40</fpage>
+          -
+          <lpage>4</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          9.
+          <string-name>
+            <surname>Crowley</surname>
+            <given-names>PA</given-names>
+          </string-name>
+          .
+          <article-title>Antenatal corticosteroid therapy: A metaanalysis of the randomized trials, 1972 to 1994</article-title>
+          .
+          <source>Am J Obstet Gynecol</source>
+          <year>1995</year>
+          ;
+          <volume>175</volume>
+          :
+          <fpage>322</fpage>
+          -
+          <lpage>33</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          10.
+          <string-name>
+            <surname>Wright</surname>
+            <given-names>LL</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Horbar</surname>
+            <given-names>JD</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Gunkel</surname>
+            <given-names>H</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Verter</surname>
+            <given-names>J</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Younes</surname>
+            <given-names>N</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Andrews</surname>
+            <given-names>EB</given-names>
+          </string-name>
+          , et al.
+          <article-title>Evidence from multicenter networks on the current use and effectiveness of antenatal corticosteroids in low birth weight infants</article-title>
+          .
+          <source>Am J Obstet Gynecol</source>
+          <year>1995</year>
+          ;
+          <volume>175</volume>
+          :
+          <fpage>263</fpage>
+          -
+          <lpage>74</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          11.
+          <article-title>National Institutes of Health Consensus Development Conference statement. Effect of corticosteroids for fetal maturation on perinatal outcomes</article-title>
+          ,
+          <source>February 28 -March 2</source>
+          ,
+          <year>1994</year>
+          .
+          <source>Am J Obstet Gynecol</source>
+          <year>1995</year>
+          ;
+          <volume>173</volume>
+          :
+          <fpage>246</fpage>
+          -
+          <lpage>52</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          12.
+          <string-name>
+            <surname>Andrews</surname>
+            <given-names>EB</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Marcucci</surname>
+            <given-names>G</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>White</surname>
+            <given-names>A</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Long</surname>
+            <given-names>W. Associations</given-names>
+          </string-name>
+          <article-title>between use of antenatal corticosteroids and neonatal outcomes within the Exosurf Neonatal Treatment Investigational New Drug Program</article-title>
+          .
+          <source>Am J Obstet Gynecol</source>
+          <year>1995</year>
+          ;
+          <volume>175</volume>
+          :
+          <fpage>290</fpage>
+          -
+          <lpage>5</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          13.
+          <string-name>
+            <surname>Teberg</surname>
+            <given-names>AJ</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hodgeman</surname>
+            <given-names>JE</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Barton</surname>
+            <given-names>L</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Chan</surname>
+            <given-names>LS</given-names>
+          </string-name>
+          .
+          <article-title>Nursery survival for infants of birth weight 500-1500 grams during 1982-1995</article-title>
+          .
+          <source>J Perinatol</source>
+          <year>2001</year>
+          ;
+          <volume>21</volume>
+          :
+          <fpage>97</fpage>
+          -
+          <lpage>106</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          14.
+          <string-name>
+            <surname>Bronstein</surname>
+            <given-names>JM</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Goldenberg</surname>
+            <given-names>RL</given-names>
+          </string-name>
+          .
+          <article-title>Practice variation in the use of corticosteroids: A comparison of eight data sets</article-title>
+          .
+          <source>Am J Obstet Gynecol</source>
+          <year>1995</year>
+          ;
+          <volume>173</volume>
+          :
+          <fpage>296</fpage>
+          -
+          <lpage>8</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          15.
+          <string-name>
+            <surname>Leviton</surname>
+            <given-names>LC</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Baker</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hassol</surname>
+            <given-names>A</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Goldenberg</surname>
+            <given-names>RL</given-names>
+          </string-name>
+          .
+          <article-title>An exploration of opinion and practice patterns affecting low use of antenatal corticosteroids</article-title>
+          .
+          <source>Am J Obstet Gynecol</source>
+          <year>1995</year>
+          ;
+          <volume>175</volume>
+          :
+          <fpage>312</fpage>
+          -
+          <lpage>6</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          16.
+          <string-name>
+            <surname>Piper</surname>
+            <given-names>JM</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Mitchel</surname>
+            <given-names>EF</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Snowden</surname>
+            <given-names>M</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hall</surname>
+            <given-names>C</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Adams</surname>
+            <given-names>M</given-names>
+          </string-name>
+          , Taylor P.
+          <article-title>Validation of 1989 Tennessee birth certificates using maternal and newborn hospital records</article-title>
+          .
+          <source>Am J Epidemiol</source>
+          <year>1993</year>
+          ;
+          <volume>137</volume>
+          :
+          <fpage>758</fpage>
+          -
+          <lpage>68</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          17.
+          <string-name>
+            <surname>Wright</surname>
+            <given-names>LL</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Verter</surname>
+            <given-names>J</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Younes</surname>
+            <given-names>N</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Stevenson</surname>
+            <given-names>D</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Fanaroff</surname>
+            <given-names>AA</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Shankaran</surname>
+            <given-names>S</given-names>
+          </string-name>
+          , et al.
+          <article-title>Antenatal corticosteroid administration and neonatal outcome in very low birth weight infants: The NICHD Neonatal Research Network</article-title>
+          .
+          <source>Am J Obstet Gynecol</source>
+          <year>1995</year>
+          ;
+          <volume>175</volume>
+          :
+          <fpage>269</fpage>
+          -
+          <lpage>74</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          18.
+          <string-name>
+            <surname>Vermont-Oxford Trials Network Database Project Investigators. The</surname>
+          </string-name>
+          Vermont-Oxford Trials Network:
+          <article-title>Very low birth weight outcomes for 1990</article-title>
+          .
+          <source>Pediatrics</source>
+          <year>1993</year>
+          ;
+          <volume>91</volume>
+          :
+          <fpage>540</fpage>
+          -
+          <lpage>5</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          19.
+          <string-name>
+            <surname>Horbar</surname>
+            <given-names>JD</given-names>
+          </string-name>
+          .
+          <article-title>Increasing use of antenatal corticosteroid therapy between 1990 and 1993 in Vermont Oxford Network</article-title>
+          .
+          <source>J Perinatol</source>
+          <year>1997</year>
+          ;
+          <volume>17</volume>
+          :
+          <fpage>309</fpage>
+          -
+          <lpage>13</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          20.
+          <string-name>
+            <surname>Horbar</surname>
+            <given-names>JD</given-names>
+          </string-name>
+          .
+          <article-title>Antenatal corticosteroid treatment and neonatal outcomes for infants 501 to 1500 gm in the Vermont-Oxford Trials network</article-title>
+          .
+          <source>Am J Obstet Gynecol</source>
+          <year>1995</year>
+          ;
+          <volume>175</volume>
+          :
+          <fpage>275</fpage>
+          -
+          <lpage>80</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          21.
+          <string-name>
+            <surname>Palta</surname>
+            <given-names>M</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Sadek-Badawi</surname>
+            <given-names>M</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Evans</surname>
+            <given-names>M</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Weinstein</surname>
+            <given-names>MR</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>McGuinnes</surname>
+            <given-names>G</given-names>
+          </string-name>
+          .
+          <article-title>Functional assessment of a multicenter very low-birth-weight cohort at age 5 years</article-title>
+          .
+          <source>Newborn Lung Project. Arch Pediatr Adolesc Med</source>
+          <year>2000</year>
+          ;
+          <volume>154</volume>
+          :
+          <fpage>23</fpage>
+          -
+          <lpage>30</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          22.
+          <string-name>
+            <surname>Leviton</surname>
+            <given-names>LC</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Goldenberg</surname>
+            <given-names>RL</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Baker</surname>
+            <given-names>C</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Schwartz</surname>
+            <given-names>RM</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Freda</surname>
+            <given-names>MC</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Fish</surname>
+            <given-names>LJ</given-names>
+          </string-name>
+          , et al.
+          <article-title>Methods to encourage the use of antenatal corticosteroid therapy for fetal maturation: A randomized controlled trial</article-title>
+          .
+          <source>JAMA</source>
+          <year>1999</year>
+          ;
+          <volume>281</volume>
+          :
+          <fpage>46</fpage>
+          -
+          <lpage>52</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          23.
+          <string-name>
+            <surname>Golden</surname>
+            <given-names>WE</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Hopkins</surname>
+            <given-names>RH</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Sanchez</surname>
+            <given-names>NP</given-names>
+          </string-name>
+          .
+          <article-title>Antenatal corticosteroids for the prevention of neonatal respiratory distress in a predominanty rural state medicaid population</article-title>
+          .
+          <source>Obstet Gynecol</source>
+          <year>1998</year>
+          ;
+          <volume>92</volume>
+          :
+          <fpage>837</fpage>
+          -
+          <lpage>41</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          24.
+          <string-name>
+            <surname>Horbar</surname>
+            <given-names>JD</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Badger</surname>
+            <given-names>GJ</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Carpenter</surname>
+            <given-names>JH</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Fanaroff</surname>
+            <given-names>AA</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Kilpatrick</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>LaCorte</surname>
+            <given-names>M</given-names>
+          </string-name>
+          , et al.
+          <article-title>Trends in mortality and morbidity for very low birth weight infants,</article-title>
+          <year>1991</year>
+          -
+          <fpage>1999</fpage>
+          .
+          <source>Pediatrics</source>
+          <year>2002</year>
+          ;
+          <volume>110</volume>
+          :
+          <fpage>143</fpage>
+          -
+          <lpage>51</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          25.
+          <string-name>
+            <surname>Glanz</surname>
+            <given-names>SA</given-names>
+          </string-name>
+          . Primer of biostatistics. New York: McGrawHill,
+          <year>1988</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          26.
+          <string-name>
+            <surname>Weinstein</surname>
+            <given-names>ND</given-names>
+          </string-name>
+          .
+          <article-title>Unrealistic optimism about future life events</article-title>
+          .
+          <source>J Pers Soc Psychol</source>
+          <year>1980</year>
+          ;
+          <volume>39</volume>
+          :
+          <fpage>806</fpage>
+          -
+          <lpage>20</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          27.
+          <string-name>
+            <surname>Neisser U. John</surname>
+          </string-name>
+          <article-title>Dean's memory: A case study</article-title>
+          .
+          <source>Cognition</source>
+          <year>1981</year>
+          ;
+          <volume>9</volume>
+          :
+          <fpage>1</fpage>
+          -
+          <lpage>22</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          28.
+          <string-name>
+            <surname>Hinzman</surname>
+            <given-names>DL</given-names>
+          </string-name>
+          .
+          <article-title>Repetition and memory</article-title>
+          . In: Bowe GH, ed.
+          <article-title>The psychology of learning and motivation</article-title>
+          . Vol
+          <volume>10</volume>
+          . New York: Academic Press,
+          <year>1976</year>
+          :
+          <fpage>47</fpage>
+          -
+          <lpage>91</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          29.
+          <string-name>
+            <surname>Arkes</surname>
+            <given-names>HR</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Wortman</surname>
+            <given-names>RL</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Saville</surname>
+            <given-names>PD</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Harkness</surname>
+            <given-names>AR</given-names>
+          </string-name>
+          .
+          <article-title>Hindsight bias among physicians weighting the likelihood of diagnosis</article-title>
+          .
+          <source>J Appl Psychol</source>
+          <year>1981</year>
+          ;
+          <volume>66</volume>
+          :
+          <fpage>252</fpage>
+          -
+          <lpage>4</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          30. Berlin L.
+          <article-title>Hindsight bias</article-title>
+          .
+          <source>AJR Am J Roentegenol</source>
+          <year>2000</year>
+          ;
+          <volume>175</volume>
+          :
+          <fpage>597</fpage>
+          -
+          <lpage>601</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          31.
+          <string-name>
+            <surname>Lichtenstein</surname>
+            <given-names>S</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Fischoff</surname>
+            <given-names>B</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Phillips</surname>
+            <given-names>LD</given-names>
+          </string-name>
+          .
+          <article-title>Calibration of probabilities: State of the art</article-title>
+          . In:
+          <string-name>
+            <surname>Kahneman</surname>
+            <given-names>D</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Slovic</surname>
+            <given-names>P</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Tversky</surname>
+            <given-names>A</given-names>
+          </string-name>
+          , eds.
+          <article-title>Judgment under uncertainty: Heuristics and biases</article-title>
+          . New York: Cambridge University Press,
+          <year>1982</year>
+          :
+          <fpage>306</fpage>
+          -
+          <lpage>34</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          32.
+          <string-name>
+            <surname>Epstein</surname>
+            <given-names>RA</given-names>
+          </string-name>
+          .
+          <article-title>Cases and materials on torts</article-title>
+          .
+          <source>7th ed. Gaithersburg, Maryland: Aspen Law &amp; Business</source>
+          ,
+          <year>2000</year>
+          :
+          <fpage>201</fpage>
+          -
+          <lpage>42</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          33.
+          <string-name>
+            <surname>Keeton</surname>
+            <given-names>WP</given-names>
+          </string-name>
+          , ed.
+          <source>Prosser and Keeton on the law of torts. 5th ed. St. Paul</source>
+          , Minnesota: West Publishing Co,
+          <year>1984</year>
+          :
+          <fpage>193</fpage>
+          -
+          <lpage>195</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          34. The TJ Hooper,
+          <volume>60</volume>
+          F2d
+          <fpage>737</fpage>
+          ,
+          <issue>740</issue>
+          (2nd Cir),
+          <source>cert denied, 287 US 662</source>
+          (
+          <year>1932</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          35.
+          <string-name>
+            <surname>Burgess</surname>
+          </string-name>
+          v Superior Court,
+          <volume>831</volume>
+          P2d
+          <fpage>1197</fpage>
+          ,
+          <issue>1206</issue>
+          (Cal
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          36.
+          <string-name>
+            <surname>Cross</surname>
+          </string-name>
+          v Huttenlocher,
+          <volume>440</volume>
+          A2d
+          <fpage>952</fpage>
+          ,
+          <issue>954</issue>
+          (Conn
+          <year>1981</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          37.
+          <string-name>
+            <surname>Spensieri</surname>
+          </string-name>
+          v Lasky,
+          <volume>723</volume>
+          NE2d
+          <fpage>544</fpage>
+          ,
+          <issue>548</issue>
+          (NY
+          <year>1999</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>
+          38.
+          <string-name>
+            <surname>Toth</surname>
+          </string-name>
+          v Community Hospital,
+          <volume>239</volume>
+          NE2d
+          <fpage>368</fpage>
+          ,
+          <issue>372</issue>
+          (NY
+          <year>1968</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>
+          39. MacPherson v Ellis,
+          <volume>287</volume>
+          SE2d
+          <fpage>892</fpage>
+          ,
+          <issue>896</issue>
+          (NC
+          <year>1982</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>
+          40. Boone v Fisher, no.
+          <fpage>13</fpage>
+          -96-001-CV,
+          <year>2000</year>
+          <article-title>Tex App LEXIS 4244, at *4 (Tex App 2000 Jun 22</article-title>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation>
+          41.
+          <string-name>
+            <surname>McNeill</surname>
+          </string-name>
+          v United States, 519
+          <source>F Supp</source>
+          <volume>283</volume>
+          ,
+          <issue>288</issue>
+          (DSC
+          <year>1981</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation>
+          42.
+          <string-name>
+            <surname>Vassos</surname>
+          </string-name>
+          v Roussalis,
+          <volume>625</volume>
+          P2d
+          <fpage>768</fpage>
+          ,
+          <issue>772</issue>
+          (Wyo
+          <year>1981</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <mixed-citation>
+          43.
+          <string-name>
+            <surname>Advincula</surname>
+          </string-name>
+          v United Blood Services,
+          <volume>678</volume>
+          NE2d
+          <fpage>1009</fpage>
+          ,
+          <issue>1027</issue>
+          (Ill
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <mixed-citation>
+          44.
+          <string-name>
+            <surname>Darling</surname>
+          </string-name>
+          v Charleston Community Memorial Hospital,
+          <volume>211</volume>
+          NE2d
+          <fpage>253</fpage>
+          ,
+          <issue>257</issue>
+          (Ill
+          <year>1965</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <mixed-citation>
+          45.
+          <string-name>
+            <surname>Helling</surname>
+          </string-name>
+          v Carey,
+          <volume>83</volume>
+          Wash2d
+          <fpage>514</fpage>
+          ,
+          <issue>519</issue>
+          P2d 9811 (
+          <year>1974</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <mixed-citation>
+          46.
+          <string-name>
+            <surname>Meadow</surname>
+            <given-names>WL</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Sunstein</surname>
+            <given-names>C</given-names>
+          </string-name>
+          . Statistics, not experts.
+          <source>Duke Law J</source>
+          <year>2001</year>
+          ;
+          <volume>51</volume>
+          :
+          <fpage>629</fpage>
+          -
+          <lpage>43</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <mixed-citation>
+          47.
+          <string-name>
+            <surname>Meadow</surname>
+            <given-names>WL</given-names>
+          </string-name>
+          .
+          <article-title>Operationalizing the standard of medical care: Uses and limitations of epidemiology to guide expert testimony in medical negligence allegations</article-title>
+          .
+          <source>Wake Forest Law Rev</source>
+          <year>2002</year>
+          ;
+          <volume>37</volume>
+          :
+          <fpage>675</fpage>
+          -
+          <lpage>98</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref50">
+        <mixed-citation>
+          <source>Received October 31</source>
+          ,
+          <year>2002</year>
+          .
+          <source>Received in revised form February 28</source>
+          ,
+          <year>2003</year>
+          . Accepted March 13,
+          <year>2003</year>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref51">
+        <mixed-citation>
+          98.
+          <string-name>
+            <surname>Cass</surname>
+            <given-names>R.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Sunstein</surname>
+            and
+            <given-names>Edna</given-names>
+          </string-name>
+          <string-name>
+            <surname>Ullmann-Margalit</surname>
+          </string-name>
+          , Solidarity in Consumption (May
+          <year>2000</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref52">
+        <mixed-citation>
+          99.
+          <string-name>
+            <surname>David</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Weisbach</surname>
+          </string-name>
+          ,
+          <article-title>An Economic Analysis of Anti-Tax Avoidance Laws</article-title>
+          (May
+          <year>2000</year>
+          , revised May
+          <year>2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref53">
+        <mixed-citation>
+          100.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <article-title>Human Behavior and the Law of Work (June</article-title>
+          <year>2000</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref54">
+        <mixed-citation>
+          101.
+          <string-name>
+            <surname>William</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Landes</surname>
+          </string-name>
+          and Richard A. Posner, Harmless
+          <string-name>
+            <surname>Error</surname>
+          </string-name>
+          (
+          <year>June 2000</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref55">
+        <mixed-citation>
+          102.
+          <string-name>
+            <surname>Robert</surname>
+            <given-names>H.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Frank</surname>
+          </string-name>
+          and
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Cost-Benefit Analysis</surname>
+            and
+            <given-names>Relative</given-names>
+          </string-name>
+          <string-name>
+            <surname>Position</surname>
+          </string-name>
+          (
+          <year>August 2000</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref56">
+        <mixed-citation>
+          103.
+          <string-name>
+            <surname>Eric</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Posner</surname>
+          </string-name>
+          , Law and the
+          <string-name>
+            <surname>Emotions</surname>
+          </string-name>
+          (
+          <year>September 2000</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref57">
+        <mixed-citation>
+          104.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Cost-Benefit Default Principles</surname>
+          </string-name>
+          (
+          <year>October 2000</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref58">
+        <mixed-citation>
+          105.
+          <string-name>
+            <given-names>Jack</given-names>
+            <surname>Goldsmith</surname>
+          </string-name>
+          and
+          <string-name>
+            <given-names>Alan</given-names>
+            <surname>Sykes</surname>
+          </string-name>
+          ,
+          <source>The Dormant Commerce Clause and the Internet (November</source>
+          <year>2000</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref59">
+        <mixed-citation>
+          106. Richard A. Posner,
+          <source>Antitrust in the New Economy (November</source>
+          <year>2000</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref60">
+        <mixed-citation>
+          107.
+          <string-name>
+            <surname>Douglas</surname>
+            <given-names>Lichtman</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>Scott</given-names>
+            <surname>Baker</surname>
+          </string-name>
+          , and Kate Kraus,
+          <article-title>Strategic Disclosure in the Patent System (November</article-title>
+          <year>2000</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref61">
+        <mixed-citation>
+          108. Jack L.
+          <article-title>Goldsmith and Eric A</article-title>
+          .
+          <string-name>
+            <surname>Posner</surname>
+            , Moral and Legal Rhetoric in International Relations:
+            <given-names>A Rational</given-names>
+          </string-name>
+          <string-name>
+            <surname>Choice Perspective</surname>
+          </string-name>
+          (
+          <year>November 2000</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref62">
+        <mixed-citation>
+          109.
+          <string-name>
+            <given-names>William</given-names>
+            <surname>Meadow</surname>
+          </string-name>
+          and
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Statistics, Not
+          <string-name>
+            <surname>Experts</surname>
+          </string-name>
+          (
+          <year>December 2000</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref63">
+        <mixed-citation>
+          110.
+          <string-name>
+            <surname>Saul</surname>
+            <given-names>Levmore</given-names>
+          </string-name>
+          ,
+          <source>Conjunction and Aggregation (December</source>
+          <year>2000</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref64">
+        <mixed-citation>
+          111.
+          <string-name>
+            <surname>Saul</surname>
+            <given-names>Levmore</given-names>
+          </string-name>
+          ,
+          <source>Puzzling Stock Options and Compensation Norms (December</source>
+          <year>2000</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref65">
+        <mixed-citation>
+          112.
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Epstein</surname>
+          </string-name>
+          and
+          <string-name>
+            <surname>Alan O. Sykes</surname>
+          </string-name>
+          ,
+          <article-title>The Assault on Managed Care: Vicarious Liability, Class Actions and the Patient=s Bill of Rights (December</article-title>
+          <year>2000</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref66">
+        <mixed-citation>
+          113.
+          <string-name>
+            <surname>William M. Landes</surname>
+          </string-name>
+          , Copyright,
+          <source>Borrowed Images and Appropriation Art: An Economic Approach (December</source>
+          <year>2000</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref67">
+        <mixed-citation>
+          114.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Switching the Default Rule (
+          <year>January 2001</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref68">
+        <mixed-citation>
+          115.
+          <string-name>
+            <surname>George</surname>
+            <given-names>G</given-names>
+          </string-name>
+          . Triantis,
+          <source>Financial Contract Design in the World of Venture Capital (January</source>
+          <year>2001</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref69">
+        <mixed-citation>
+          116.
+          <string-name>
+            <surname>Jack</surname>
+            <given-names>Goldsmith</given-names>
+          </string-name>
+          , Statutory Foreign Affairs Preemption (
+          <year>February 2001</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref70">
+        <mixed-citation>
+          117. Richard Hynes and
+          <string-name>
+            <given-names>Eric A.</given-names>
+            <surname>Posner</surname>
+          </string-name>
+          ,
+          <source>The Law and Economics of Consumer Finance (February</source>
+          <year>2001</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref71">
+        <mixed-citation>
+          118.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Academic Fads and
+          <article-title>Fashions (with Special Reference to Law)</article-title>
+          (
+          <year>March 2001</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref72">
+        <mixed-citation>
+          119.
+          <string-name>
+            <surname>Eric</surname>
+          </string-name>
+          <article-title>A. Posner, Controlling Agencies with Cost-Benefit Analysis: A Positive Political Theory Perspective (April</article-title>
+          <year>2001</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref73">
+        <mixed-citation>
+          120.
+          <string-name>
+            <surname>Douglas</surname>
+            <given-names>G</given-names>
+          </string-name>
+          . Baird, Does Bogart Still Get Scale?
+          <article-title>Rights of Publicity in the Digital Age (April</article-title>
+          <year>2001</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref74">
+        <mixed-citation>
+          121.
+          <string-name>
+            <surname>Douglas</surname>
+            <given-names>G.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Baird and Robert K. Rasmussen</surname>
+          </string-name>
+          , Control Rights,
+          <source>Priority Rights and the Conceptual Foundations of Corporate Reorganization (April</source>
+          <year>2001</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref75">
+        <mixed-citation>
+          122.
+          <string-name>
+            <surname>David</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Weisbach</surname>
+          </string-name>
+          , Ten Truths about Tax Shelters (May
+          <year>2001</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref76">
+        <mixed-citation>
+          123.
+          <string-name>
+            <surname>William M. Landes</surname>
+          </string-name>
+          ,
+          <article-title>What Has the Visual Arts Rights Act of 1990 Accomplished?</article-title>
+          (May
+          <year>2001</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref77">
+        <mixed-citation>
+          124.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Social and Economic Rights? Lessons from South Africa (May
+          <year>2001</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref78">
+        <mixed-citation>
+          148.
+          <string-name>
+            <surname>David</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Weisbach</surname>
+          </string-name>
+          ,
+          <source>Taxes and Torts in the Redistribution of Income (April</source>
+          <year>2002</year>
+          ,
+          <source>Coase Lecture February</source>
+          <year>2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref79">
+        <mixed-citation>
+          149.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <source>Beyond the Precautionary Principle (April</source>
+          <year>2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref80">
+        <mixed-citation>
+          150.
+          <string-name>
+            <surname>Robert</surname>
+            <given-names>W.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Hahn</surname>
+          </string-name>
+          and
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <article-title>A New Executive Order for Improving Federal Regulation? Deeper</article-title>
+          and
+          <string-name>
+            <given-names>Wider</given-names>
+            <surname>Cost-Benefit Analysis</surname>
+          </string-name>
+          (
+          <year>April 2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref81">
+        <mixed-citation>
+          151.
+          <string-name>
+            <surname>Douglas</surname>
+            <given-names>Lichtman</given-names>
+          </string-name>
+          ,
+          <article-title>Copyright as a Rule of Evidence</article-title>
+          (May
+          <year>2002</year>
+          , updated
+          <year>January 2003</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref82">
+        <mixed-citation>
+          152.
+          <string-name>
+            <surname>Richard</surname>
+          </string-name>
+          <article-title>A. Epstein, Steady the Course: Property Rights in Genetic Material</article-title>
+          (May
+          <year>2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref83">
+        <mixed-citation>
+          153.
+          <string-name>
+            <given-names>Jack</given-names>
+            <surname>Goldsmith</surname>
+          </string-name>
+          and
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <article-title>Military Tribunals and Legal Culture: What a Difference Sixty Years Makes</article-title>
+          (
+          <year>June 2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref84">
+        <mixed-citation>
+          154.
+          <string-name>
+            <surname>William</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Landes</surname>
+          </string-name>
+          and Richard A. Posner, Indefinitely Renewable Copyright (
+          <year>July 2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref85">
+        <mixed-citation>
+          155.
+          <string-name>
+            <given-names>Anne</given-names>
+            <surname>Gron</surname>
+          </string-name>
+          and
+          <string-name>
+            <surname>Alan O. Sykes</surname>
+            , Terrorism and
+            <given-names>Insurance</given-names>
+          </string-name>
+          <string-name>
+            <surname>Markets</surname>
+          </string-name>
+          :
+          <article-title>A Role for the Government as Insurer?</article-title>
+          (
+          <year>July 2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref86">
+        <mixed-citation>
+          156.
+          <string-name>
+            <surname>Cass</surname>
+            <given-names>R.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Sunstein</surname>
+            and
+            <given-names>Adrian</given-names>
+          </string-name>
+          <string-name>
+            <surname>Vermeule</surname>
+          </string-name>
+          ,
+          <source>Interpretation and Institutions (July</source>
+          <year>2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref87">
+        <mixed-citation>
+          157.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <article-title>The Rights of Animals: A Very Short Primer</article-title>
+          (
+          <year>August 2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref88">
+        <mixed-citation>
+          158.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Avoiding Absurdity?
+          <article-title>A New Canon in Regulatory Law (with Notes on Interpretive Theory)</article-title>
+          (
+          <year>August 2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref89">
+        <mixed-citation>
+          159.
+          <string-name>
+            <surname>Randal</surname>
+            <given-names>C</given-names>
+          </string-name>
+          .
+          <article-title>Picker, From Edison to the Broadcast Flag: Mechanisms of Consent and Refusal and the Propertization of Copyright (September</article-title>
+          <year>2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref90">
+        <mixed-citation>
+          160.
+          <string-name>
+            <surname>Eric</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Posner</surname>
+          </string-name>
+          ,
+          <article-title>A Theory of the Laws of War (September</article-title>
+          <year>2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref91">
+        <mixed-citation>
+          161 Eric
+          <string-name>
+            <surname>A. Posner</surname>
+          </string-name>
+          , Probability Errors:
+          <article-title>Some Positive and Normative Implications for Tort and</article-title>
+          Contract
+          <string-name>
+            <surname>Law</surname>
+          </string-name>
+          (
+          <year>September 2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref92">
+        <mixed-citation>
+          162. Lior Jacob Strahilevitz, Charismatic Code,
+          <article-title>Social Norms, and the Emergence of Cooperation on the File-Swapping Networks</article-title>
+          (
+          <year>September 2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref93">
+        <mixed-citation>
+          163.
+          <string-name>
+            <surname>David</surname>
+          </string-name>
+          <article-title>A. Weisbach, Does the X-Tax Mark the Spot?</article-title>
+          (
+          <year>September 2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref94">
+        <mixed-citation>
+          164.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Conformity and Dissent (
+          <year>September 2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref95">
+        <mixed-citation>
+          165.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Hazardous Heuristics (
+          <year>October 2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref96">
+        <mixed-citation>
+          166.
+          <string-name>
+            <surname>Douglas</surname>
+            <given-names>Lichtman</given-names>
+          </string-name>
+          ,
+          <article-title>Uncertainty and the Standard for Preliminary Relief</article-title>
+          (
+          <year>October 2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref97">
+        <mixed-citation>
+          167.
+          <string-name>
+            <surname>Edward</surname>
+            <given-names>T.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Swaine</surname>
+          </string-name>
+          , Rational
+          <string-name>
+            <surname>Custom</surname>
+          </string-name>
+          (
+          <year>November 2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref98">
+        <mixed-citation>
+          168.
+          <string-name>
+            <surname>Julie</surname>
+            <given-names>Roin</given-names>
+          </string-name>
+          ,
+          <source>Truth in Government: Beyond the Tax Expenditure Budget (November</source>
+          <year>2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref99">
+        <mixed-citation>
+          169.
+          <string-name>
+            <surname>Avraham D. Tabbach</surname>
+          </string-name>
+          , Criminal Behavior, Sanctions, and
+          <source>Income Taxation: An Economic Analysis (November</source>
+          <year>2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref100">
+        <mixed-citation>
+          170.
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Epstein</surname>
+          </string-name>
+          , In Defense of “Old” Public Health:
+          <article-title>The Legal Framework for the Regulation of Public Health</article-title>
+          (
+          <year>December 2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref101">
+        <mixed-citation>
+          171.
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Epstein</surname>
+          </string-name>
+          ,
+          <article-title>Animals as Objects, or Subjects</article-title>
+          , of Rights (
+          <year>December 2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref102">
+        <mixed-citation>
+          172.
+          <string-name>
+            <surname>David</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Weisbach</surname>
+          </string-name>
+          ,
+          <article-title>Taxation and Risk-Taking with Multiple Tax Rates</article-title>
+          (
+          <year>December 2002</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref103">
+        <mixed-citation>
+          173.
+          <string-name>
+            <surname>Douglas</surname>
+            <given-names>G.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Baird and Robert K. Rasmussen</surname>
+          </string-name>
+          ,
+          <source>The End of Bankruptcy (December</source>
+          <year>2002</year>
+          )
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

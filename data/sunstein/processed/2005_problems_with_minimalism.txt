@@ -1,0 +1,1220 @@
+University of Chicago Law School 
+University of Chicago Law School 
+Chicago Unbound 
+Chicago Unbound 
+
+Journal Articles 
+
+2005 
+
+Problems with Minimalism 
+Problems with Minimalism 
+
+Cass R. Sunstein 
+
+Faculty Scholarship 
+
+Follow this and additional works at: https://chicagounbound.uchicago.edu/journal_articles 
+
+ Part of the Law Commons 
+
+Recommended Citation 
+Recommended Citation 
+Cass R. Sunstein, "Problems with Minimalism," 58 Stanford Law Review 1899 (2005). 
+
+This Article is brought to you for free and open access by the Faculty Scholarship at Chicago Unbound. It has been 
+accepted for inclusion in Journal Articles by an authorized administrator of Chicago Unbound. For more 
+information, please contact unbound@law.uchicago.edu. 
+
+PROBLEMS  WITH  MINIMALISM
+
+Cass R.  Sunstein*
+
+Much  of Justice  Sandra Day  O'Connor's work  on  the  Supreme  Court
+embodies a commitment  to judicial minimalism, understood as a preference for
+narrow rulings, closely  attuned to particular facts. In many  contexts, however,
+that  commitment 
+is  hard  to  justify,  simply  because  it 
+imposes  severe
+decisionmaking burdens on others and may well create more, rather than fewer,
+errors. For  this  reason,  a  general preference for  minimalism  is  no  more
+defensible than a general preference for rules. The  choice between narrow and
+wide rulings cannot itself be made by  rules or even presumptions; it requires a
+case-by-case inquiry. The  argument is  illustrated throughout this  Article  with
+reference  to  the  problem  of  affirmative  action,  where  Justice  O'Connor's
+preference for particularity resulted in the  imposition of a constitutional mandate
+on admissions offices  that is not simple to defend in principle. In some contexts,
+however, narrow rulings are indeed preferable, in  large part because they give
+flexibility to politically accountable officials. Justice O'Connor's minimalism is
+best understood as reflecting a  belief that  in dfficult  cases at the frontiers of
+constitutional law, judges would do best to avoid firm rules that they might come
+to regret.
+
+IN TROD UCTION ..............................................................................................  1900
+I.  AFFIRMATIVE  ACTION,  RULES, AND  TRANSPARENCY  ...............................  1903
+II.  RULES,  STANDARDS,  AND MINIMALISM  ...................................................  1907
+A.  M inimalism and Its Discontents ........................................................  1908
+B . The  Case for Rules?  ..........................................................................  1910
+1. In  defense of rules .......................................................................  1910
+2.  M eta-questions ............................................................................  1912
+3.  M inim alism 's  dom ain ..................................................................  1914
+III. D EM OCRA CY ...........................................................................................  19 15
+C ON CLU SION .................................................................................................  19 17
+
+*  Karl  N.  Llewellyn  Distinguished  Service  Professor  of Jurisprudence,  the  University
+of Chicago  Law  School,  Department  of Political  Science,  and  the  College.  I am  grateful  to
+Christine  Jolls  for helpful  discussions  and  to  James  Weingarten  for research  assistance  and
+excellent  comments.
+
+1899
+
+HeinOnline  -- 58 Stan. L. Rev. 1899 2005-2006
+
+1900
+
+STANFORD LAW REVIEW
+
+[Vol.  58:1899
+
+INTRODUCTION
+
+Consider two  admissions programs:
+
+"  Program  A  gives  a  specified  number  of  points  to  every  African-
+American  applicant.  More  particularly,  every  such  applicant  receives
+ten points,  simply by  virtue of being African-American.  Ten points are
+not  trivial, but  they are  far  from  enough  to  ensure  admission.  Children
+of  alumni,  for  example,  receive  fifteen  points;  specified  academic
+achievements  produce  thirty points;  athletic  accomplishments  result  in
+the addition  of fifteen points. Admission  is  unlikely unless  an applicant
+receives  at least sixty points.
+
+"  Program  B  dispenses  with  a  point  system.  Every  applicant  receives
+individualized  consideration  from  one  of eight  admissions  officers.  In
+hard  cases,  the  admissions  officers  meet  in  "teams"  of  three;  in  the
+hardest  cases,  all  eight  admissions  officers  meet  as  a  group.  For
+African-American  applicants,  race  counts  as  a  plus,  though  numbers
+are  not assigned.
+Under  existing  law,  Program  A is  unconstitutional  because  it  is  too  rule-
+bound.1 Program  B is  permissible because  it calls  for "holistic"  consideration  of
+individual  applicants.  More than  anyone  else,  Justice  Sandra  Day O'Connor is
+responsible  for the fact that constitutional  law distinguishes  so sharply  between
+the  two  programs.  While  Justice  O'Connor  and  Justice  Breyer  voted  to  strike
+down  a  variation  on  Program A  and  to  uphold  a  variation  on Program  B, 3  the
+seven  other  Justices  would  treat  the  two  the  same,  either  upholding  or
+invalidating  both  programs.4
+
+Consistent  with  its general  opposition  to rigid  affirmative  action programs,
+the  Court  has  long  made  clear  that  educational  institutions  cannot  "insulat[e]
+each category  of applicants with  certain desired  qualifications  from  competition
+with  all  other  applicants." 5  Extending  that  principle,  the  Court  has  also
+invalidated  a  point  system,  analogous  to  Program  A,  used  for  undergraduate
+
+1.  See  Gratz  v.  Bollinger,  539  U.S.  244,  270, 275  (2003)  (holding that  the  University
+of Michigan's  freshman  admissions  policy,  "which  automatically  distributes  20  points,  or
+one-fifth  of  the  points  needed  to  guarantee  admission,  to  every  single  'underrepresented
+minority'  applicant  solely  because  of race,"  violated  the  Equal  Protection  Clause  because  it
+was  "not  narrowly  tailored  to  achieve  [the  University's]  asserted  compelling  interest  in
+diversity).
+
+2.  Grutter  v.  Bollinger,  539  U.S.  306,  337  (2003)  (emphasizing  that  the  admissions
+program  in question  "engages  in  a highly  individualized,  holistic  review  of each  applicant's
+file  ...  ").
+
+3.  See  Gratz, 539  U.S.  at  276-80  (O'Connor,  J.,  concurring);  id. at  281-82  (Breyer, J.,
+
+concurring);  Grutter, 539  U.S. at 311-44  (O'Connor, J.).
+4.  See  Gratz, 539  U.S. 244;  Grutter, 539  U.S.  306.
+5.  Grutter, 539  U.S.  at  334  (quoting  Regents  of Univ.  of Cal.  v.  Bakke, 438  U.S. 265,
+
+315  (1978)).
+
+HeinOnline  -- 58 Stan. L. Rev. 1900 2005-2006
+
+April  2006]
+
+PROBLEMS  WITH MINIMALISM
+
+1901
+
+admissions  at  the  University  of Michigan. 6  In  that  system,  students  received  a
+specified  set  of points  for  various  attributes,  including  academic  performance
+(up  to  110  points),  in-state  residence  (ten  points), having  alumni  parents  (four
+points),  athletic  recruitment  (twenty  points),  and  being  a  member  of  an
+underrepresented  minority  group  (twenty points).7
+
+The Court did not  rule that the twenty points  were  too high;  it  ruled  instead
+that  a  point  system,  in  the  context  of racial  preference,  is  invalid  as  such.  The
+Court  stressed  "the  importance  of considering  each  particular  applicant  as  an
+individual,  assessing  all  of the  qualities  that  the  individual  possesses,  and  in
+turn,  evaluating  that  individual's  ability  to  contribute  to  the  unique  setting  of
+higher  education." 8  The  problem  with  the  point  system  is  that  its  automatic
+nature  simply  does  not  allow  for  individualized  consideration.  And  the  easy
+administrability  of  this  automatic  system  does  not  constitute  an  adequate
+excuse,  for "the  fact that  the  implementation  of a program  capable  of providing
+individualized  consideration  might  present  administrative  challenges  does  not
+render  constitutional  an otherwise problematic  system." 9
+
+By  contrast,  in  Grutter v.  Bollinger, Justice  O'Connor  wrote  the  Court's
+opinion  permitting  educational 
+institutions 
+to  create  affirmative  action
+programs  if they  do not  assign  points  or  impose  quotas  but  merely  include  race
+as  a  "plus"  within  a  system  of highly  individualized judgment.10  At least  such
+programs  are  acceptable  if  they  remain  "flexible  enough  to  ensure  that  each
+applicant  is  evaluated  as  an  individual.""l  Hence,  the  Court  permits  race-
+conscious  admissions  if, in the words  of Justice  O'Connor's  opinion, there  is "a
+highly  individualized,  holistic  review  of each  applicant's  file,  giving  serious
+consideration  to  all  the  ways  an  applicant  might  contribute  to  a  diverse
+educational  environment." 12  When  no  policy  gives  "automatic  acceptance  or
+rejection  based  on  any  single  'soft'  variable,"  and  when 
+there  are  "no
+mechanical,  predetermined  diversity 
+'bonuses'  based  on  race  or  ethnicity,"
+affirmative  action is permissible.13
+
+In  drawing  a  sharp  line  between  rigid  and  more  particularized  programs,
+Justice  O'Connor  acted  in  a  way  that  fits  with  her  jurisprudence  far  more
+generally.  She  has  essentially  required  educational  institutions  to  proceed  in  a
+way  that  fits  her  own  "holistic"  practice-her  preference  for  case-by-case
+judgment,  unburdened  by  clear  rules.  Because  of her  general  commitment  to
+particularized  consideration,  Justice  O'Connor  has  stood  as  the  Court's  most
+
+6.  Gratz, 539 U.S.  at 249-51.
+7.  Id. at 277-78.
+8.  Id. at 271  (citing Bakke, 438  U.S.  265).
+9.  Id. at 275.
+10.  Grutter, 539  U.S. at 334.
+11.  Id. at 337.
+12.  Id.
+13.  Id.
+
+HeinOnline  -- 58 Stan. L. Rev. 1901 2005-2006
+
+1902
+
+STANFORD LAW REVIEW
+
+[Vol. 58:1899
+
+prominent  minimalist,  asking  for  narrow  rulings  rather  than  broad  ones.  In
+joining  the  Court's  decision  to  invalidate  a  Chicago  gang-loitering  ordinance,
+for example,  Justice  O'Connor went  out of her way to  suggest that another  such
+ordinance,  more cautiously  drawn by the  city  or more  narrowly  construed by a
+state  supreme  court,  might  well  pass  constitutional  muster. 14  In  addition,
+Justice  O'Connor is  largely  responsible  for the  "undue  burden"  standard  in the
+area  of abortion'15_a  standard  that  is  rule-free  and that  calls for  close  attention
+to  the  details  of the particular  restriction  at  issue.  In the  context  of restrictions
+on  commercial  advertising, Justice  O'Connor  has  also  written  narrow  opinions,
+carefully  tailored  to  particular  facts. 16  The  same  is  true  in  the  context  of the
+Establishment  Clause,  where  her  jurisprudence  has  a  noteworthy  minimalist
+dimension.
+
+17
+
+To  be  sure,  no  one  believes  that  all  details  are  relevant.  No  one  contends
+that judges  should  attend  to  the astrological  sign  of the  litigants,  or the  second
+letter  of their last  names,  or the hour of the day  on which  certiorari  was  sought.
+But  in  many  cases,  Justice  O'Connor  has  shown  an  unquestionable  preference
+for  decisions  that are  narrowly  tailored,  that leave  a  great  deal  undecided,  and
+that preserve  flexibility  for  the  future.  In  these  respects,  Justice  O'Connor has
+taken  an  approach  to  constitutional  law that  builds  on  common  law  processes,
+with  their tendency  toward  incremental development. 18
+
+My  purpose  here  is  to  raise  questions  about  that  preference.  I  begin  with
+the  suggestion  that  in  the  context  of affirmative  action,  Justice  O'Connor's
+interest  in  case-by-case  judgment  has  led  her  to  a  puzzling  and  probably
+indefensible  conclusion.  It is  hardly  clear that the  Constitution  should be taken
+to  require  a  procedure  that  sacrifices  transparency,  predictability,  and  equal
+treatment-and  that  does  so  while  imposing  significant  burdens  on  officials
+who must evaluate  particular applications  for admission. This  objection  leads to
+a  much  more  general  point.  Any  defense  of  minimalist  adjudication  is
+essentially the same  in principle  as a  defense of standards  over rules-and  there
+is  no  reason  to  think  that  such  a  defense  can  be  made  convincing  in  all  of the
+contexts  in  which  Justice  O'Connor  has  ruled  narrowly.  In  short,  the  choice
+
+14.  See  City  of  Chicago  v.  Morales,  527  U.S.  41,  68 
+
+(1999)  (O'Connor,  J.,
+
+concurring).
+
+15.  See  Planned Parenthood of Se. Pa.  v. Casey,  505 U.S.  833  (1992).
+16.  See  Thompson  v.  W.  States  Med.  Ctr.,  535  U.S.  357  (2002)  (striking  down  as
+unconstitutional  restrictions  on  commercial  speech  provisions  of  the  Food  and  Drug
+Administration  Modernization  Act of  1997 that  exempted  compounded  drugs  from  standard
+approval  requirements only  if providers  "refrain[ed]  from  advertising or promoting particular
+compounded  drugs").
+
+17.  See Elk  Grove Unified  Sch. Dist. v. Newdow,  542  U.S.  1, 33  (2004)  (O'Connor, J.,
+concurring)  ("[T]here  are  different categories  of Establishment  Clause  cases,  which  may  call
+for different approaches.").
+
+18.  For  a  classic  treatment,  see  EDWARD  H.  LEVI,  AN  INTRODUCTION  TO  LEGAL
+REASONING  (1949).  For  an  effort to  link  constitutional  law  and  common  law,  see  David  A.
+Strauss,  Common Law Constitutional Interpretation, 63  U. CHI.  L. REV.  877  (1996).
+
+HeinOnline  -- 58 Stan. L. Rev. 1902 2005-2006
+
+April  2006]
+
+PROBLEMS WITH MINIMALISM
+
+1903
+
+between  narrow  and wide rulings cannot  itself be  resolved by rule.
+
+Ironically,  Justice  O'Connor's  own  practice  suggested  a  kind  of
+presumption  in  favor  of  minimalism.  As  a  first  approximation,  the  better
+approach  rejects  any  such  presumption  and  calls  instead  for  a  case-by-case
+inquiry  into whether  case-by-case  decisions  are  desirable.  This  point serves as  a
+challenge  to  minimalism  as  a  general  project,  but  it  also  helps  to  produce  a
+reconstruction  and  defense  of the  claim  that  seems  to  me  to  animate  much  of
+Justice  O'Connor's  work:  in  the  hardest cases,  at the  frontiers  of constitutional
+law,  the  Court  usually  does best  if it  proceeds  narrowly  and  if  it  avoids  steps
+that  might be  confounded  by  unanticipated  circumstances.  The  arguments  that
+support  minimalism  in  particular  cases  also  support  this  general  use  of
+minimalism.  As  we  shall  see,  there  is  a  democratic  argument  on behalf of the
+same  position.
+
+I.  AFFIRMATIVE  ACTION,  RULES,  AND  TRANSPARENCY
+
+Begin with  affirmative  action.  We  can imagine  an admissions  program that
+operates  on  the  basis  of a  simple  rule,  as  in  the idea  that anyone  with a  certain
+score  on  the LSAT  will  be  admitted,  and anyone  with  a  score  below  that  level
+will be rejected.  If affirmative  action  is  to be  introduced,  we  could  imagine  an
+equally  simple  rule-saying,  for  example,  that  African-American  candidates
+will be  admitted  even  if their LSAT  scores  are  below  the  ordinary  requirement
+so  long as the  scores are  also  above  a  specified  level. We  could  also imagine  an
+admissions  program  that  operates  on  the  basis  of  a  complex  rule.  The
+University  of  Michigan  undergraduate  program  is  an  example;  it  offered  a
+range  of factors  listed  in  advance,  with  each  being  given  a  specified  weight.
+Rules  can  certainly  make  reference  to  a  large  number  of  factors  and,  in  that
+sense,  incorporate  a  high  degree  of particularity.  The  identifying  feature  of a
+rule-bound  system  is  not  that  it  makes  one  or two  features  central,  but  that  it
+involves  full  or nearly  full  specification,  before  the  fact,  of the  factors  that  are
+relevant  and also of the weight  that will be  assigned to them. 19
+
+Such  a  system  contrasts  with  rule-free  systems,  which  involve  no  such
+before-the-fact  specification,  and  which  require  officials 
+in
+individual cases,  either the  relevant  factors  or the weight  to be  given to each  (or
+both).  We  could  imagine  an  entirely  open-ended  admissions  process,  in  which
+admissions  officers  are  asked  to  identify  the  governing  criteria  as  they  see  fit.
+Under  such  a process,  individual  officers  could decide  whether to consider,  and
+how  much  to  consider,  LSAT  scores,  extracurricular  activities,  background,
+geography,  essays,  race,  religion,  point  of view,  musical  tastes,  and  so  forth;
+their exercise  of discretion  would be unmonitored  and unconstrained.
+
+to  specify, 
+
+19.  See  generally Louis  Kaplow,  Rules  Versus  Standards:  An  Economic Analysis, 42
+DUKE  L.J.  557  (1992)  (offering  an  economic  analysis  of the  choice  between  promulgating
+legal  commands  as  rules or  standards).
+
+HeinOnline  -- 58 Stan. L. Rev. 1903 2005-2006
+
+1904
+
+STANFORD LAW REVIEW
+
+[Vol.  58:1899
+
+Alternatively,  we  could  imagine  a  process  that  rested  on  factors  that  were
+specified  but  unweighted-saying,  for  example,  that  officers  must  consider
+academic  achievement,  extracurricular  activities,  race,  geography,  athletic
+achievement,  familial connections  to the  institutions, and so  forth. This process
+would  be  "holistic,"  not  in  the  sense  that  admissions  officers  could  consider
+such  factors  as  they  saw  fit,  but  in  the  sense  that  it  would  not  offer  anything
+like  a  specification  of the  weight  to be  assigned  to the  different  variables.  The
+weight  of  each  factor  would  be  decided  individually  in  particular  cases.  If
+admissions  officers  wanted to give  great weight to extracurricular  activities but
+little weight  to familial  connections,  they would be permitted to do exactly  that;
+the  opposite  preference  would  be acceptable  as  well  as  far  as  the  institution  is
+concerned.  Indeed,  a  near-zero  weight  would  seem  to  be  permissible.  Perhaps
+admissions  officers  could  even  give  no weight to  race,  or some  other  factor,  if
+that is  what they wanted  to do.
+
+The  key  point  is  that  to 
+
+the  extent  that  institutions  do  not  specify
+admissions  criteria  in  advance,  or  permit  officers  to  weigh  those  criteria  in
+individual  cases,  they  ensure  that  the  content  of the  governing  "law"  will be
+made  on  the  spot,  in the process  of assessing  applications.  This  is  the  essential
+difference  between  a  rule-bound  and  a  rule-free  system.  Of course  there  is  a
+continuum  here,  not  a  sharp  dichotomy.  We  could  imagine admissions  systems
+that  specify  a  great  deal  but  still  leave  some  discretion  for  on-the-spot
+decisions.  We  could  imagine  systems  that  specify  little  but  do  not  leave
+admissions  officers utterly unconstrained.
+
+A  court  could  coherently  say  that  the  constitutional  issue  turns  on  the
+degree of the  racial  preference.  Perhaps  a  constitutional  distinction  should  be
+drawn  between  different  sorts  of rules:  those  that give  excessive  weight to  race
+and  those  that  do  not.  On  this  view,  an  admissions  office  may  not  accord
+"undue  significance"  to  race,  in  a  kind  of  analogue  to  the  "undue  burden"
+standard  in  the  law  of  abortion.  Undue  significance  would  be  found,  for
+example,  in  a  rule  allowing  all  African-American  applicants  to  be  admitted
+simply  by  virtue  of their  skin  color.  At  the  same  time,  an  admissions  office
+might  be  allowed  to  grant  one  point,  or  a  few  more,  to  African-American
+applicants.  In  other words,  there would  be no  logical  difficulty  with  saying that
+some  weight, but not  too  much, may be  given to  race.  An "undue  significance"
+standard  would  itself  require  a  form  of  individuation  at  the  level  of judicial
+administration,  but  perhaps  it  could  be  specified  either  in  advance  or  through
+application.
+
+But-and  this 
+
+is  the  key  point-undue  significance, 
+
+in  the  form  of
+excessive  weight,  is  not  Justice  O'Connor's  concern.  Rigidity,  not  weight,  is
+her  objection.  She  does  not contend  that  the  University  of Michigan  accorded
+too  many  points  to  race-an  objection  that  would  also  apply  to  rule-free
+systems  if, in  actual  operation,  they  gave  an  extremely  strong  preference  to
+African-American  applicants.  Justice  O'Connor's  complaint  is  about  ruleness
+as  such,  in  the  form  of an  ex  ante  specification  of the  weight  to  be  given  to
+
+HeinOnline  -- 58 Stan. L. Rev. 1904 2005-2006
+
+April  2006]
+
+PROBLEMS WITH MINIMALISM
+
+1905
+
+race.  Hence  the  distinction  between  Program  A  and  Program  B  is  not  that
+Program  A gives  more  attention  to  race;  it  is  that  Program  A is  more  rigid  and
+imposes  firm limits  on individual discretion.
+
+But  is  this  objection  convincing?  Consider  the  behavior  of an  admissions
+officer  engaged  in  review  of  applications  under  Program  B.  So  long  as
+affirmative  action  is  in  place,  Program  B  will  operate,  in  a  sense,  as  the
+functional  equivalent of a  point  system;  the  only  difference  is  that its  essential
+characteristics,  above  all  the  weight  given  to  race,  are  not  disclosed  or
+systematized.  As  Program  B  is  administered,  each  admissions  officer  will
+inevitably  be  operating  with  her  own  informal  point  system,  in  the  form  of a
+rough  sense  of how much weight to give  to  the  relevant  factors.  (If an  officer's
+decisions  were  recorded,  and  if  there  were  enough  of  them,  it  should  be
+possible  to  discern,  retrospectively  at  least,  the  number  of "points"  given  to
+race  in  the  average  case.)  Whether  the  implicit  point  system  will  be  constant
+across  officers,  or  across  applicants,  is  anyone's  guess.  We  can  go  further.
+Program  B  can  be  drawn  up  so  as  to  require  each  officer  to  give  some
+(unspecified)  weight  to  race,  or  so  as  to  permit  officers  to  give  some
+(unspecified)  weight to  race  if they  choose.  In this  sense,  race  may or may  not
+matter at  all,  depending  on the judgment of each officer.
+
+The  key  point  is  that  under  Program  B,  it  is  unlikely  that  any  particular
+officer will  be  able to  give constant, rather  than fluctuating,  weight  to race. It is
+even  less  likely  that  different  officers  will  use  the  same  system,  in  the  sense
+that  they  will  allocate  the  same  informal  points,  or  weight,  to  race.  The
+resulting  criteria  will  likely  be  highly  variable  across  applicants,  and  they  will
+not  be  transparent  to  anyone.  It  follows  that  as  compared  to  Program  A,
+Program  B  sacrifices  three  important  values:  predictability,  transparency,  and
+equal  treatment.  It  does  so  while  also  imposing  significant  decisionmaking
+burdens on individual  officers,  who have to  decide how much  weight to  give to
+race  in individual  cases.
+
+It  is  tempting  to  think  that  the  real  difference  between  Program  A  and
+Program  B  is  that  the  latter  is  fairer,  less  mechanical,  and  more  accurate,
+precisely  because  it  is  so  highly  individualized.  In  fact  Justice  O'Connor's
+opinion  in  Grutter seems  to be  based  on a  judgment  to  precisely  this  effect. 20
+But  the  appearance  is  a  kind  of  optical  illusion.  Program  B  also  involves
+something  akin  to  a  point  system,  in the  sense  that  affirmative  value  is  placed
+on  race;  the  difference  is  that  points  are  not  formally  assigned,  and  hence
+variability  will  likely  arise  from  applicant  to  applicant,  with  a  corresponding
+lack  of transparency  and equal  treatment.  Different  African-Americans  will  be
+treated  differently,  as  some  obtain  larger  racial  bonuses  than  others.  At  first
+glance,  it  is  not  at  all  clear  why  that  procedure  should  be  constitutionally
+
+20.  See  Grutter  v.  Bollinger,  539  U.S.  306,  337  (2003)  ("The  importance  of  this
+individualized  consideration  in  the  context  of  a  race-conscious  admissions  program  is
+paramount.").
+
+HeinOnline  -- 58 Stan. L. Rev. 1905 2005-2006
+
+1906
+
+preferred.
+
+STANFORD LA  W REVIEW
+
+[Vol.  58:1899
+
+Is  anything  at  all  gained  with  Program  B?  The  most  obvious  point  is  that
+under Program B, there will be  a  greater lack of knowledge,  in individual  cases,
+about  what  role,  if any,  race  played  in an  admissions  decision.  For this reason,
+the  lack  of transparency  may  itself be  a  benefit;  perhaps  there  are  expressive
+reasons  for  it.  With  Program B,  a  successful  applicant  does  not  know  that  he
+was  affected  by  being  the  beneficiary  of affirmative  action.  Such  an  applicant
+can  think,  plausibly,  that affirmative  action played no  role  in  his case.  Perhaps
+Program  A  imposes  a  kind  of general  stigma  that  Program  B  does  not, simply
+because  under Program A  every  African-American  knows  that a certain  number
+of points  were  awarded  (and  every  white applicant  knows  that  the  same  points
+were  not  awarded).  Under  Program  B,  perhaps  applicants  can  think  that  their
+own  individual  characteristics  may  have  been  all  that  mattered,  with  race
+playing  little or no  role.
+
+But  it  is  reasonable  to  wonder  whether  this  possibility,  a  matter  of
+appearance  and  psychology  rather  than  reality,  really  distinguishes  the  two
+programs,  and  it  is  reasonable  to  doubt  that  it  should  make  a  constitutional
+difference.  Under  Program  A,  it  remains  possible  that  African-American
+applicants,  like  athletes  and  children  of  alumni,  did  not  really  "need"  the
+points-that  race played no  role in their admission.  Along  this dimension, there
+is  no evident  difference  between  the  two programs. 2 1 At least it  is  not clear that
+beneficiaries  of Program A  feel  more stigmatized,  or are  more stigmatized,  than
+beneficiaries  of Program B. And even  if this  is  so,  it  is not  clear that Program A
+is constitutionally inferior  for that reason. Stigmas  of various kinds  are  imposed
+by  many public  decisions,  such  as  the  decision  to  admit  a  child of an  alumnus
+or  an  especially  good  football  player,  and  stigmas  are  not  unconstitutional
+because  of their  status  as  such.  In  any  case,  Program  A,  far  more  than Program
+B,  is  likely  to  yield  equal  treatment.  Why  is  the  latter  superior  to  the  former,
+under  a  constitutional  provision  designed  to  ensure  the  equal  protection  of the
+laws?
+
+Any  judgment  on  that  point  requires  an  interpretation  of  the  Equal
+Protection  Clause,  which  is  not  my  topic  here.  Perhaps  Justice  O'Connor
+believes  that expressive  values  lie at  the  heart  of the  Clause,  that  Program A  is
+far  inferior  to  Program  B  on  expressive  grounds,  and  that  the  constitutional
+issue  must  turn on  that  distinction.  But  at  the very  least, we  should  be  able  to
+see  that  it  is  not  simple  to  explain  why  Justice  O'Connor  concluded  that
+Program B is constitutionally  acceptable,  whereas  Program A is not. To be  sure,
+a  holistic,  particularistic  program  is  less  transparent  and  less  predictable  than
+
+21.  Perhaps  a  program  akin  to  Program  B  would  be  different,  in  expressive  terms,  if
+officers  could  decide,  in  individual  cases,  to  give  no  weight  to  race-if  applicants  could
+believe  in  the  possibility  that race played  no role  at all.  But  it  is unclear  that this  possibility
+should  make  a  constitutional  difference,  and  in  most  "holistic"  admissions  programs,  it  is
+generally  agreed  that race plays  a positive role  for African-American  applicants.
+
+HeinOnline  -- 58 Stan. L. Rev. 1906 2005-2006
+
+April  2006]
+
+PROBLEMS WITH MINIMALISM
+
+1907
+
+one that uses points, but is  that a  constitutional  advantage?
+
+My  discussion  of the  example  is  meant  not  only  to  indicate  a  difficulty
+with an  important area  of constitutional  law, but also  to help to  identify  a  series
+of problems  with  particularistic  judgments.  They  might well  lead  to inequality.
+They  impose  burdens  on  subsequent  decisionmakers,  in a  way  that might  lead
+to  errors  and  arbitrariness.  They  increase  unpredictability.  They  reduce
+transparency.  They  might  increase  the number  and size  of mistakes  at  the same
+time  that  they  increase  the  costs  of decisions.  These  problems  beset  not  only
+case-by-case  admissions  decisions,  but  also  what  Justice  O'Connor  frequently
+prefers:  case-by-case  rulings  from the  Supreme  Court.
+
+II.  RULES,  STANDARDS,  AND  MINIMALISM
+
+small 
+
+interest 
+
+steps  along 
+
+For  the  last  generation,  Justice  O'Connor  has  been  the  Court's  leading
+minimalist,  in  a  way  that  has  left  a  large  impact  on  American  law.  Her
+minimalism  embodies  an 
+in 
+two  distinct
+dimensions. 22  First,  she  favors  rulings  that  are  narrow rather than  wide.
+Narrow rulings  do  not venture  far  beyond the  problem at  hand;  they  attempt to
+focus  on the  particulars  of the  dispute before  the  Court.  When presented  with  a
+choice  between  narrow  and  wide  rulings,  Justice  O'Connor  often  opts  for the
+former.23  To  be  sure,  the  difference  between  narrowness  and  width  is  one  of
+degree rather  than kind;  no one favors  rulings  that  are  limited to people with the
+same  birthdays  as  those  of  the  litigants  before  the  Court.  But  among  the
+reasonable  alternatives,  Justice  O'Connor  shows  a  frequent  preference  for  the
+narrower options.
+
+Justice  O'Connor  also  seeks  rulings  that  are  shallow rather than  deep.
+Shallow  rulings  attempt  to produce  outcomes  and  rationales  on  which  diverse
+people  can  agree,  notwithstanding  their  disagreement  on  fundamental  issues.
+For example,  there  are  many  disputes  about  the  underlying  purpose  of the  free
+speech  guarantee:  does 
+to  protect  democratic  self-
+government,  the  marketplace  of ideas,  or  individual  autonomy? 24  Minimalists
+hope  not  to resolve  these  disputes.25 They  seek judgments  and rulings  that  can
+
+the  guarantee  aim 
+
+22.  I  explore  minimalism  in  CASS  R.  SUNSTEIN,  RADICALS  IN ROBES:  WHY  EXTREME
+RIGHT-WING  COURTS ARE  WRONG  FOR  AMERICA  (2005);  CASS  R. SuNsTErN,  ONE  CASE AT  A
+TIME:  JUDICIAL MINIMALISM  ON THE  SUPREME  COURT  (1999).
+
+23.  See  Elk  Grove  Unified  Sch.  Dist. v.  Newdow,  542  U.S.  1, 33-45  (2004);  Grutter,
+539  U.S. at 311-44;  Thompson v.  W. States  Med. Ctr.,  535  U.S.  357  (2002);  City of Chicago
+v.  Morales,  527  U.S.  41,  68  (1999);  Planned  Parenthood  of Se.  Pa.  v.  Casey,  505  U.S.  833
+(1992).
+
+24.  See FREDERICK  SCHAUER,  FREE  SPEECH: A  PHILOSOPHICAL ENQUIRY  (1982).
+25.  See,  e.g.,  Hamdi  v.  Rumsfeld,  542  U.S.  507  (2004)  (refusing  to  offer  ambitious
+account  of President's  authority  as  Commander  in  Chief);  Virginia  v.  Black,  538  U.S.  343
+(2003)  (upholding  ban  on  cross-burning  with  intent  to  intimidate  without ambitious  account
+of First Amendment).
+
+HeinOnline  -- 58 Stan. L. Rev. 1907 2005-2006
+
+1908
+
+STANFORD LA WREVIEW
+
+[Vol. 58:1899
+
+attract  support  from  people  who  are  committed  to  one  or  another  of  these
+foundational  understandings,  or  who  are  unsure  about  the  foundations  of the
+free  speech  principle. 26  The  interest  in  shallowness  raises  distinctive  issues, 27
+and I shall  be exploring narrowness  rather than shallowness here.
+
+A.  Minimalism and Its Discontents
+
+The  discussion  of affirmative  action  does  not demonstrate  that minimalism
+is  a  mistake  or  that  Justice  O'Connor  has  generally  been  wrong  in  seeking
+narrow  rulings  and  in  expressing  caution  about  judgments  that  extend  far
+beyond  the  facts  of particular  cases.  To  understand  the  uses  and  limits  of
+minimalism,  it  is  necessary  to  broaden  the  viewscreen,  venturing  well  beyond
+any particular context.  Consider, for example,  the  following propositions:
+
+" The  constitutional  status  of  sex  segregation  in  education  cannot  be
+settled  by  rule.  Often  segregated  institutions  will  be  invalid,  but  it
+remains  possible  that they can be  adequately justified.28
+" The  President  is  required  to  provide  some  kind  of procedure  before
+detaining  suspected  terrorists,  but  the  extent  of the required  procedure
+should  be  elaborated  in  particular  cases,  not  through  firm  rules  laid
+down in advance. 29
+" Commercial  advertising  is  often  entitled  to  protection  under  the  First
+Amendment,  but  the  protection  is  far  from  absolute;  the  extent  of
+protection,  in individual  cases, depends on  a balancing  test.30
+" Under  the  Equal  Protection  Clause,  most  classifications  face  mere
+rationality  review.  But  for  some  classifications,  rationality  review  is
+more  searching,  in a  way  that will  doom (among  other measures)  some
+but not all forms  of discrimination  on the  basis  of sexual  orientation. 3 1
+" In  the  context  of statewide  recounts  held  under  a  single judge,  states
+must  develop  adequate  standards  to constrain  the  exercise  of discretion
+
+26.  See  Cass  R.  Sunstein,  Incompletely  Theorized Agreements,  108  HARV.  L.  REv.
+1733  (1993)  (discussing  possibility  of reaching  agreements  on  practices  or  decisions  amidst
+disagreements  on large  theoretical  issues).
+
+27.  See  id. (discussing  the  issues  involved  in "shallow"  rulings).
+28.  See  Miss.  Univ.  for  Women  v.  Hogan,  458  U.S.  718  (1982)  (holding  that  state-
+supported  university's  policy  of  denying  otherwise  qualified  males  the  right  to  enroll  for
+credit  in  its  nursing  school  violated  the  Equal  Protection  Clause);  see also United  States  v.
+Virginia,  518  U.S.  515  (1996)  (holding  that  the  Commonwealth  of Virginia's  exclusion  of
+women  from  a  citizen-soldier  program  at  a  state  military  college  violated  the  Equal
+Protection  Clause  because Virginia  did  not show an  exceedingly  persuasive justification,  and
+the  remedial  program  offered  by  the  Commonwealth  was  not  sufficiently  comparable  in
+substance  to survive  equal protection  evaluation).
+
+29.  Hamdi, 542  U.S.  507.
+30.  Thompson v.  W. States Med. Ctr.,  535  U.S.  357,  367  (2002).
+31.  See Lawrence  v. Texas,  539  U.S.  558,  579-85 (2003)  (O'Connor, J.,  concurring).
+
+HeinOnline  -- 58 Stan. L. Rev. 1908 2005-2006
+
+April  2006]
+
+PROBLEMS WITH MINIMALISM
+
+1909
+
+by  those  who  are  counting  votes. 32  But  this  requirement  may  not  be
+applicable  in  other settings. 33
+" Restrictions  on  the  right  to  choose  abortion  should  be  evaluated  not
+through  the  rigid trimester  system  of Roe v.  Wade, but through  a more
+flexible  standard,  one  that  forbids  any  "undue  burden"  on  the right  to
+choose.
+
+34
+
+35
+
+" Public  acknowledgements  of  the  existence  of  God  do  not  always
+offend  the  Establishment  Clause;  history  and  context  matter  a  great
+deal.
+In  all  of  these  cases,  it  would  be  possible  to  argue  that  case-by-case
+judgments  are  desirable,  not  for  the  obscure  reasons  that  underlie  Grutter, but
+on  the  ground  that  the  Court  lacks  the  information  that  would  permit  it  to
+produce  sensible  rules.  For example,  a judge might  not  want  to set  out  any rule
+to  govern  the  constitutional  status  of commercial  advertising,  on  the  ground
+that  the  relevant  situations  are  hard  to foresee  in  advance,  and  any  simple  rule
+would  be  confounded  by  circumstances.  Or  a  judge  might  believe  that  the
+procedural  protection  to  be  accorded  to  enemy  combatants  cannot  easily  be
+specified  in  an  initial  encounter  with  that  problem;  perhaps  it  is  best  to  avoid
+rules  and to  rely instead  on an  incompletely  specified  decision,  one  that will be
+given  content  as  particular  cases  arise.  Perhaps  public  acknowledgements  of
+God are  acceptable  if they do  not amount  to  an effort  to  inculcate  any particular
+set  of religious  convictions,  but  perhaps  that  test  is  itself only  a  crude  gesture
+toward  an  appropriate  set  of governing  principles,  which  must  emerge  from
+careful  investigation  of particular cases.
+
+If all  this  is  so,  then Justice  O'Connor's  general  preference  for minimalism
+can  be  justified  on  the  same  grounds  that  support  standards  over  rules;3 6
+indeed,  her  own  preference  for  minimalism  is  very  close,  analytically,  to  a
+preference  for  standards  over  rules.  Importantly,  the  two  preferences  are  not
+identical.  A  holding  that  is  governed  by  a  standard  is,  in  a  relevant  respect,
+narrow,  because  the  standard  needs  to  be  specified  in  particular  cases;  but  a
+narrow  decision  need  not  be  a  standard  at  all.  Such  a  decision  may  even  be  a
+rule,  restricted  to  an  unusual  set  of facts;  it  may  endorse  a  rule  and  reject  a
+standard  of any  kind.  (Indeed,  a  holding  is  always  a  rule,  at  least  insofar  as  it
+
+32.  Bush  v.  Gore,  531  U.S.  98,  109  (2000)  ("The  recount  process  ... 
+
+is  inconsistent
+with the  minimum procedures  necessary  to protect  the fundamental  right  of each voter  in the
+special  instance  of a statewide  recount  under the  authority  of a single  state judicial officer.").
+33.  Id. at  107  (emphasizing  a  lack  of uniform  standards  guiding the  discretion  of vote
+
+counters).
+
+34.  Planned  Parenthood  of Se.  Pa.  v.  Casey,  505  U.S.  833,  869-79  (1992);  see  also
+
+Webster v.  Reprod. Health  Servs.,  492  U.S. 490,  522-31  (1989)  (O'Connor, J.,  concurring).
+
+35.  See  Elk  Grove  Unified  Sch.  Dist.  v.  Newdow,  542  U.S.  1,  33-45  (2004)
+
+(O'Connor, J.,  concurring).
+
+36.  See Kaplow,  supra note  19,  at 557.
+
+HeinOnline  -- 58 Stan. L. Rev. 1909 2005-2006
+
+1910
+
+STANFORD LA  W RE VIEW
+
+[Vol.  58:1899
+
+binds  the  parties,  and  a  rationale  for a  holding  is  often  a  standard.)  What  I  am
+emphasizing  is  that  by  its  very  nature,  a  minimalist  ruling  leaves  a  great  deal
+undecided,  in  a  way  that frees  up future  decisionmakers  but  also  leaves  them  to
+some  extent  at sea.  This  is  exactly  the  characteristic  that  distinguishes  standards
+from  rules.  Insofar  as  Justice  O'Connor prefers  narrow  rulings  to  wide  ones, it
+is  for  the  same  kinds  of reasons  that  lead  some  people  to  prefer  standards  to
+rules.
+
+That preference  makes the  most  sense  when  it  serves  to  reduce  the number
+and  magnitude  of  errors  and  when  it  serves  as  well  to  reduce  the  aggregate
+burdens  of decision. 37  Suppose  that the  Supreme  Court  is  attempting  to resolve
+a  difficult  question  involving,  say,  the  constitutional  status  of  segregation  on
+the  basis  of sex.  The  Court might think  that it  lacks the  information  that would
+enable  it  to  set  out  a  sensible  rule.  It  may  believe  that  sex  segregation  is  not
+acceptable  when  such  a  practice  excludes  women  from  a valuable  educational
+opportunity,  but  that  it  is permissible  to  have  sex-segregated  sports  teams  and
+that  the  legitimacy  of sex-segregated  high  school  education  presents  a  difficult
+question.  The  Court  might  believe  that  a  simple  rule-sex  segregation  yes  or
+sex  segregation  no-would  be  outrun  by  reality.  It  might  also  believe  that  a
+complex  rule,  specifying  the  validity  of segregation  across  diverse  contexts,  is
+too difficult  to  set out  during an early  encounter  with the  question.
+
+Points  of  this  kind  might  well  justify  a  preference  for  narrow  rulings  in
+
+many  contexts.  The problem-a  general  one for those  who  favor narrowness-
+is  that  there  is  no  reason  to  think  that  judges  should  systematically favor
+standards  over  rules.  Whether  standards  are  desirable,  and whether  narrowness
+makes  sense,  depends  on whether  the  arguments  that justify  them  apply  in  the
+particular  case.  There  is  no  justification  for  a  general  presumption  in  favor  of
+standards  or minimalism.  To  the extent  that Justice  O'Connor has  adopted  such
+a  general presumption, 38  she  seems  to have erred.
+
+B.  The  Case for Rules?
+
+1. In defense of rules
+
+It  is  possible  to  go  further.  In  an  influential  essay,  Justice  Scalia  made  a
+general argument  on  behalf  of rules  over  case-by-case  judgments. 39  Justice
+Scalia  marshals  a  range  of considerations  on  behalf  of rules-considerations
+that  track  those  that  argue  against  a  "holistic"  admissions  process.  Justice
+
+37.  See id.
+38.  I do  not claim  that  she has  adopted  any  such  presumption;  a judgment to  that effect
+would  require  a  sustained  analysis  of her  votes  and  opinions.  I contend  only  that  in  many
+prominent  cases  she has  struck  a minimalist  chord and  embraced narrowness.
+
+39.  Antonin  Scalia,  The  Rule  of Law  Is  a Law  of Rules,  56  U.  CHI.  L.  REv.  1175
+
+(1989).
+
+HeinOnline  -- 58 Stan. L. Rev. 1910 2005-2006
+
+April 2006]
+
+PROBLEMS  WITH MINIMALISM
+
+Scalia  emphasizes  that  case-by-case  judgments  introduce  unpredictability. 40
+They threaten  to  deny both  the  reality  and  the appearance  of equal  treatment.4 1
+They  export  decision  costs  to  others-above  all,  to  lower  courts  and  litigants,
+who  must  give  effective  content  to  the  law.4 2  At  the  same  time,  they  leave
+judges  free  to exercise  their discretion  so as  to favor  their preferred  causes,  in a
+way  that  also  leaves  liberty  at  risk  when  the  Court  faces  intense  political
+pressure.
+
+43
+
+Rule-bound  decisions  have  the  dual  virtues  of  binding  judges,  thus
+reducing  the  exercise  of discretion,  and  also  of  stiffening  the  judicial  spine
+when  the  stakes  are  highest.44  "The  chances  that  frail  men  and  women  will
+stand  up  to  their unpleasant  duty  are  greatly  increased  if they  can  stand  behind
+the  solid  shield  of a  firm,  clear  principle  enunciated  in  earlier  cases.' ' 5  This
+point,  made  in  1989,  has  evident  power  in  the  face  of contemporary  conflicts
+between  individual  rights and efforts  to protect  the nation against  terror. Justice
+Scalia  is  linking  a  point about  method  with  a  point  about  substance.  If judges
+embrace  his  method,  they  are  more  likely  to  respect  the  Constitution's
+substance  when the  going  gets  tough.
+
+Justice  Scalia's  argument  is  strengthened  by  the  fact  that  the  Supreme
+Court is  not  an  ordinary  tribunal,  entrusted  with  deciding  particular  cases.  It  is
+not  a  trial  court  or even  a  court  of appeals.  One  of its  principal  functions  is  to
+provide  guidance  for numerous  other judges, public  officials,  and private  actors
+potentially  involved  with  the  legal  system.4 6  When  focusing  on  a  particular
+case,  the  Court  may  not  readily  "see"  the  large  assortment  of burdens  that  it
+imposes on  others by virtue of its reticence. It  may be much better  for the Court
+to  risk  error  by venturing  more  broadly  than  to  leave  others  at  sea  about  the
+law's  requirements.  If  the  Court  does  not  say  much  about  the  obligation  to
+provide  procedures  to  enemy  combatants,  it may create terrible  guessing  games
+for the executive  branch  and for  lower courts,  in  a way  that imposes  high  costs
+and  burdens.  Alert  to  the  Court's  role  in  a  hierarchical  legal  system,  Justice
+Scalia  contends  that  the  preference  for  common  law  methods,  focused  on
+narrow  rulings, should be reversed.
+
+In  attacking  case-by-case  judgments,  Justice  Scalia 
+
+is  best  taken  as
+marshaling  a  set  of considerations  that  support  rules  over standards.  If we  are
+interested  in minimizing the  costs of errors and  the costs  of decisions, we  might
+well  conclude  that the  Court  should frequently  choose  width  over narrowness.
+
+40.  Id. at  1179.
+41. 
+Id.  at  1178.
+42.  See id. at 1180-81.
+43.  Id. at  1180.
+44.  Id.
+45.  Id.
+46.  See Peter L.  Strauss,  One Hundred Fifty  Cases Per Year: Some Implications of the
+Supreme  Court's Limited Resources for Judicial Review  of Agency  Action,  87  COLUM.  L.
+REv.  1093  (1987).
+
+HeinOnline  -- 58 Stan. L. Rev. 1911 2005-2006
+
+1912
+
+STANFORD LAW REVIEW
+
+[Vol.  58:1899
+
+Wide  rulings  will  impose  decisional  burdens  on the  Court,  to be  sure,  but  those
+burdens  might well be lower  than those  associated with narrow  rulings. Perhaps
+rules  will  be  overinclusive,  but  they  might  well  produce  lower  error  costs,  on
+balance, than  those  emerging from  a regime  of case-by-case  decisions.
+
+2. Meta-questions
+
+But Justice  Scalia  does  not  make  the  implausible  suggestion  that  the Court
+should always  avoid case-by-case  particularism.  He acknowledges  that  a degree
+of particularism  is  sometimes  not  "avoidable. ' '4 7  His  claim  is  only  that  when
+rules  are  "possible,"  the  Court should rely on  them. But why does Justice  Scalia
+contend  that  rules  should  be  chosen  unless  the  rule  of law  "must...  leave
+off'? 48  It  would  be  more  plausible  to  say  that  the  choice  between  rules  and
+particularity,  or  width  and  narrowness,  should  depend  on  which  is  best,  all
+things  considered.  Rules  and width  should not be  selected  merely  because  they
+are  possible  if they  are  not  optimal.  The  question  whether  they  are  optimal
+cannot  itself be  settled  by  rule.  And  if this  point  is  right,  then  at  the  meta-
+level-in  the  choice  between  rules  or  width  and  particularity-we  should
+follow Justice  O'Connor's  approach and be particularistic.  No rule  can possibly
+resolve  the meta-question.  It  follows that a  case-by-case  inquiry,  into the choice
+between  rules  and  particularity  or  of  the  optimal  degree  of  ruleness,  is  the
+correct  way to make  that choice.
+
+But this  conclusion  does  not mean  that  Justice  O'Connor  has  been  right  to
+opt,  so  much  of the  time,  for  particularity.  On  the  contrary,  it  immediately
+raises  the possibility that  she  has been wrong,  simply because  it  is  unlikely that
+a  case-by-case  inquiry  would  generally  suggest  that  a  case-by-case  inquiry  is
+best.  But  Justice  Scalia  has  not  adequately  supported  his  apparent  suggestion
+that  there  should be a  kind  of presumption  in  favor of wide  rules,  rather than  a
+case-by-case  inquiry  into  whether  wide  rules  make  sense  in  the  particular
+context.
+
+49
+
+Is there  anything  that Justice  Scalia might say at  this point? Perhaps  Justice
+Scalia  believes  that  there  is  a  real  risk that  a  case-by-case  inquiry  at  the  meta-
+level will  misfire-that  if we are  concerned with  decision costs  and error  costs,
+we  will do best  with  a  presumption  in  favor  of rules,  or  at  least  with  constant
+alertness  to  their  virtues.  On  this  view,  the  problems  that  beset  case-by-case
+decisions  in  individual  cases  also  beset  such  decisions  about  whether  to
+proceed  via  rules  or  instead  through  particularized  decisions.  The  idea  that
+is  not
+courts  should 
+
+reject  case-by-case 
+
+judgments  unless 
+
+that  course 
+
+47.  Scalia, supra note  39, at  1187.
+48.  Id. (emphasis  added).
+49.  Indeed,  Judge  Richard  Posner  has  stated,  "No  sensible  person  supposes  that  rules
+are  always  superior  to  standards,  or vice-versa  ...." MindGames,  Inc.  v. W.  Pub.  Co.,  218
+F.3d 652, 657 (7th Cir. 2000).
+
+HeinOnline  -- 58 Stan. L. Rev. 1912 2005-2006
+
+April  2006]
+
+PROBLEMS WITH MINIMALISM
+
+1913
+
+"avoidable"  might  not  produce  the  optimal  results  that  would  follow  if courts
+could  costlessly  engage  in  accurate  case-by-case  inquiries.  But  because  they
+cannot,  they  might  do  best  with  a  presumption  on  behalf  of  rules.  The
+presumption  makes  case-by-case  decisions  less  burdensome  (at the  meta-level,
+as  elsewhere),  simply  because 
+the
+presumption  pushes  judges,  and  especially  Justices,  in  the  right  direction,  in  a
+way  that  replicates  what  would  emerge  from  a  system  in  which  case-by-case
+judgments  could be made  costlessly  and accurately.
+
+is  a  presumption.  And  perhaps 
+
+it 
+
+But  Justice  Scalia  does  not attempt  to defend  his  position  in this  way,  and
+for  excellent  reason.  He 
+is  best  taken  to  have  marshaled  a  series  of
+considerations  against  case-by-case  judgments,  without  having  demonstrated
+that those  considerations justify a rule  or a presumption in favor of wide rulings
+from the  Supreme  Court.  The weight,  or force,  of those  considerations  depends
+on  the  same  factors  that  underlie  the  general  choice  between  rules  and
+standards.  To  summarize  a  complex  story: 50  When  the  Court's  decision  must
+be applied by numerous  actors,  dealing  with  frequent or common  situations,  the
+argument  for  rule-bound  decisions  has  great  force.  When  there  is  reason  to
+distrust those  who would  operate  free  from rules,  there  is  a  good  argument  for
+rules.  When  predictability  is  exceedingly  important,  case-by-case  decisions
+impose  high  costs.  When  the  potential  rulemaker  has  the  information  to
+produce  good  rules, there is  every reason  to produce  rules.
+
+But no general  argument  in favor  of rules would  make  much sense,  even at
+the  meta-level.  When  the Court  lacks  relevant  information,  so that  any rule  will
+predictably  misfire,  rules  are  hazardous.  When  there  are  few  decisions  in  the
+pertinent  domain,  the  argument  for  rules  is  less  insistent.  When  the  potential
+rulemaker  cannot  be  confident  about  any  rule,  rules  may  not  be  worthwhile.
+When  subsequent  decisionmakers  can  be  trusted,  because  of their  competence
+and  lack of bias, the  argument  for avoiding  rules is  certainly  strengthened.
+
+Perhaps  Justice  O'Connor's  view  is  the  converse  of Justice  Scalia's-and
+similarly  vulnerable.  Perhaps  she  believes  that  for  the  Supreme  Court,  it  is
+frequently  or typically  the case  that the  case-by-case  inquiry,  at the  meta-level,
+will  produce  a  judgment  in  favor  of  case-by-case  decisions.  Her  implicit
+judgment  to  that  effect  might  reflect  the  application  of a  case-by-case  meta-
+rule.  But  it  is  difficult  to  see  how  such  a  meta-rule  might  be  defended,
+especially  if we  notice  that minimalist  decisions  from the  Court do not promote
+predictability  and  impose  high  decisional  burdens  on  fallible  actors  at  later
+stages.  Too  much  of the  time,  narrow  rulings  are  properly  subject  to  Justice
+Scalia's  critique.
+
+It  is possible  to identify  specific  domains  in which  the  argument for rules  is
+difficult  to  resist.  Consider  the  question  whether  speed  limits  should  involve
+standards  or  rules-a  question  easily  resolved  in  favor  of the  latter  in  part
+
+50.  The  best  discussion  of the  choice  between  rules  and  standards  remains  Kaplow,
+
+supra note  19.
+
+HeinOnline  -- 58 Stan. L. Rev. 1913 2005-2006
+
+1914
+
+STANFORD LAW RE VIEW
+
+[Vol.  58:1899
+
+because  of the  need  for  predictability  and  the  sheer  number  of decisions  that
+must be made.  So too, there  are domains  in which  the argument  for standards  is
+strong.  For  decisions  involving  parole,  for  example,  a  rigidly  rule-bound
+system, forbidding  a  degree  of individualized  attention,  would  risk a  high  level
+of error.  But for adjudication  as a  whole, even  at the  Supreme  Court,  no general
+conclusion makes  much  sense.
+
+3.  Minimalism 's domain
+
+It  might  be  possible,  however,  to  defend  Justice  O'Connor's  approach  in
+narrower  terms,  and the  discussion  thus far should enable  us to  see the  form the
+defense  might take.
+
+In  my view,  the  most promising  claim on her behalf involves  a particularly
+important  subset  of  cases  on  the  Supreme  Court's  docket:  the  "frontiers"
+questions  in  constitutional  law.  By  their  very  nature,  these  questions  are
+unlikely  to  come  up  often  and  require  answers  about  which  the  Court  cannot
+always  be  confident.  In  these domains,  the  argument  for  wide rulings,  offering
+large  and  hard-to-reverse  steps,  is  substantially  weakened.  Two  considerations
+are  relevant  here.  First,  predictability  is  likely  to  be  less  important,  simply
+because  the  relevant  questions  arise  infrequently.  Second,  the  likelihood  that  a
+wide  ruling  will  misfire  is  often  high,  simply  because  the  Court  lacks  much
+familiarity  with  the context.
+
+Indeed,  this  latter  point  has  been  emphasized  by  Justice  Breyer  in  the
+context of the use  of new  technologies  to compromise  privacy, where  he insists
+that  courts  do  not  have  the  experience  that  would  justify  width. 5'  Much  of
+Justice  O'Connor's  jurisprudence  might  be taken to have  generalized  the  point.
+Her  largely  minimalist  opinion  in  Hamdi can  be  understood  in  exactly  these
+terms; 52  in  its  first  decisions  involving  conflicts  between  constitutional  rights
+and  the  war  on  terror,  the  Supreme  Court  had  good  reason  to  proceed
+cautiously.  The  same  point  helps  to justify  the  Court's  minimalism  in Bush v.
+Gore, where  a most  unusual  controversy  with  enormous  stakes  might  be  taken
+as  a  good  occasion  for  particularly  small  steps. 53  The  same  can  be  said  in
+defense  of Justice  O'Connor's reluctance  to  embrace  a  broad  ruling  during the
+Court's first  encounter with  gang-loitering  legislation. 54
+
+None  of this  means  that  minimalism is  always  appropriate  in constitutional
+cases.  When  the  area  requires  a  high  degree  of predictability,  and  when  the
+Court  has  had  a  great  deal  of experience  with  the  area,  width  might  well  be
+
+51.  See  STEPHEN  BREYER,  ACTIVE  LIBERTY: 
+
+INTERPRETING  OUR  DEMOCRATIC
+
+CONSTITrrION  70-73 (2005).
+
+52.  Hamdi  v. Rumsfeld,  542  U.S.  507 (2004).
+53.  531  U.S. 98  (2000).
+54.  See  City  of  Chicago  v.  Morales,  527  U.S.  41,  64-69  (1999)  (O'Connor,  J.,
+
+concurring).
+
+HeinOnline  -- 58 Stan. L. Rev. 1914 2005-2006
+
+April 2006]
+
+PROBLEMS WITH MINIMALISM
+
+1915
+
+justified. The  same  conclusion  follows  if the  Court,  notwithstanding  its  lack  of
+experience,  has  good  reason  for  confidence  in a  wide  ruling.  The  only  point  is
+that  in  many  frontiers  cases,  the  very  arguments  that  justify  standards  will
+justify minimalism  as well.  In  short, Justice  O'Connor's practice of minimalism
+is best defended  on the ground that  it can be  found in exactly  the  areas  in which
+an  assessment  of  the  contest  between  rules  and  standards  argues  most
+powerfully  in favor of the  latter.
+
+III. DEMOCRACY
+
+Thus  far  my  emphasis  has  been  on  error  costs  and  decision  costs-the
+conventional  foundation  for analysis  of the choice  between  rules  and  standards.
+But there is  another  issue,  and it  has  to do with  the  relationship  between Justice
+O'Connor's preference  for  minimalism and  democratic  self-government.  There
+are  two different points here.
+
+function" 
+
+First, the  Court  might  choose  a narrow  ruling precisely  because  it  seeks  to
+retain  room  for  democratic  debate  and  experimentation.  Justice  Frankfurter's
+the  most  elaborate
+in  the  Steel  Seizure  Case  offers 
+concurring  opinion 
+discussion  of the  basic  claim. 55  He  emphasized  that  "[r]igorous  adherence  to
+in
+the  narrow  scope  of  the  judicial 
+constitutional  cases  when  national  security  is  at  risk,  notwithstanding  the
+national  "eagerness  to  settle-preferably  forever-a  specific  problem  on  the
+basis  of  the  broadest  possible  constitutional  pronouncements  .... "56  In  his
+view,  the Court's  duty  "lies  in  the  opposite  direction,"  through judgments  that
+to  consider  "delicate  problems  of  power  under  the
+make 
+Constitution." 57  Thus,  the  Court  has  an  obligation  "to  avoid  putting  fetters
+upon  the  future  by  needless  pronouncements  today." 5 8  Justice  Frankfurter  is
+naturally  read to  be  emphasizing  the  costs  of error,  but his  emphasis  is  also  on
+"putting  fetters"  on  those  involved in democratic  self-government.
+
+it  unnecessary 
+
+is  especially 
+
+important 
+
+If  the  Court  were  able  to  invalidate  a  legally  unacceptable  decision  in  a
+way  that  nonetheless  would  maintain  flexibility  for  other  institutions,  it  might
+do  so for that very  reason, at  least  if it  cannot be  confident  that a  broader  ruling
+is  correct. 59  And  indeed,  Justice  O'Connor's  separate  opinion  in  Morales, the
+gang-loitering  case,  emphasized  the  continued  authority  of  state  and  local
+governments. 60  Narrow  rulings permit  a  kind  of continuing  dialogue  within the
+
+55.  Youngstown  Sheet  &  Tube  Co.  v.  Sawyer,  343  U.S.  579,  594-97  (1952)
+
+(Frankfurter,  J.,  concurring).
+
+56.  Id. at 594.
+57.  Id. at 595.
+58.  Id. at 596.
+59.  See  Hamdi  v.  Rumsfeld,  542  U.S.  507,  577-78  (2004)  (Scalia,  J.,  dissenting)
+(contrasting  the Court's  institutional  deficiencies  with  Congress's  flexibility  in  setting  terms
+for suspension  of writ  of habeas corpus).
+
+60.  See  City  of  Chicago  v.  Morales,  527  U.S.  41,  64-69  (1999)  (O'Connor,  J.,
+
+HeinOnline  -- 58 Stan. L. Rev. 1915 2005-2006
+
+1916
+
+STANFORD  LA WREVIEW
+
+[Vol.  58:1899
+
+polity,  and  between  the  Court  and  other  institutions,  in  a  way  that  promotes
+learning.6 1  As  between  wide  and  narrow  invalidations, 
+latter  have
+significant advantages  for just that reason.
+
+the 
+
+This,  in  fact,  is  a  large  part  of  Justice  Breyer's  claim  in  the  context  of
+privacy, 62  where  narrowness  ensures  that  the  legislature  will  not  be  foreclosed
+by  an  inadequately 
+informed  decision  from  the  Court.  The  same  point
+emphatically  holds  amidst  the  war  on  terror.  In  Hamdi, the  Court  pointedly
+declined  to  say  anything  about  the  President's  power  as  Commander  in  Chief,
+relying  instead on statutory  authorization. 63  At  least where  the  issue  has  a  great
+deal  of novelty,  and where  the  Court  is unsure  how  to  handle  it, a  great  deal  is
+to  be  gained  by  allowing 
+for
+experimentation.
+
+the  democratic  process  continuing  room 
+
+idea  that 
+
+Second,  some  minimalist  rulings  are  democracy-forcing, in  the  particular
+sense  that  they  work  to  ensure  that  decisions  are  made  by  the  democratically
+preferred  institution  of  government.  The  most  prominent  example 
+is  the
+Avoidance  Canon-the 
+intrusions  on  constitutionally  sensitive
+interests  must  be  authorized  by  Congress  and  may  not  be  made  by  the
+executive  alone. 64  Justice  O'Connor  has  attempted  to  vindicate  this  idea  in
+prominent  cases.6 5  The  simple  idea  is  that  when  a  reasonable  constitutional
+objection  is  raised,  the  Court  does  best,  if  it  possibly  can,  to  construe  the
+relevant statute  so  as to  make  it unnecessary  to  address that  objection,  and so  as
+to  force  the  national  legislature  to confront  it  directly  and  first.  The Avoidance
+Canon  is  minimalist  in  the  simple  sense  that  it  ensures  narrower  rulings  than
+constitutional  invalidations.  But  it  also  has  the  distinctive  property  of forcing
+national legislators  to deal  with the question  squarely and unambiguously.
+
+The  same  general  idea  helps  to  explain  Justice  O'Connor's  controversial
+opinion  in  the  Brown &  Williamson  case. 66  There  the  Court  struck  down  the
+FDA's assertion  of regulatory  jurisdiction  over tobacco  and  tobacco  products,
+notwithstanding  the  ambiguity  of the  statutory  language  and  the  ordinary  rule
+that  agencies  are  permitted  to  interpret  ambiguous  statutes  as  they  see  fit.67
+Early  on,  Justice  O'Connor's  opinion  suggests  that  "we  must  be  guided  to  a
+degree  by  common  sense  as  to  the  manner  in  which  Congress  is  likely  to
+delegate  a  policy  decision  of  such  economic  and  political  magnitude  to  an
+
+concurring)
+
+61.  See BREYER,  supra note 51,  at 73-74.
+62.  See id.
+63.  Hamdi, 542  U.S.  at  517 ("We  do  not reach the question  whether Article  II provides
+in  fact  authorized  Hamdi's
+
+such  authority,  however,  because  . . . Congress  has 
+detention  .... ).
+
+64.  See, e.g.,  Kent v. Dulles,  357  U.S.  116,  127-31  (1958).
+65.  See Rust  v. Sullivan,  500  U.S.  173,  223-25  (1991)  (O'Connor, J., dissenting).
+66.  FDA  v. Brown  & Williamson Tobacco  Corp.,  529 U.S.  120 (2000).
+67.  See Chevron,  USA,  Inc.  v. Natural  Res. Def. Council,  Inc.,  467 U.S.  837  (1984).
+
+HeinOnline  -- 58 Stan. L. Rev. 1916 2005-2006
+
+April  2006]
+
+PROBLEMS WITH MINIMALISM
+
+1917
+
+administrative  agency. ' 68 This  is a  clear suggestion  that  for certain  questions of
+great "economic  and political  magnitude,"  a  legislative  resolution,  rather than a
+delegation  to an  agency,  will  be  anticipated.  And in  closing,  her  opinion  insists
+"that Congress  could  not have  intended  to delegate  a decision of such  economic
+and  political  significance  to  an  agency  in  so  cryptic  a  fashion." 69  We  might
+well  take  this  passage  to  suggest  a  kind  of democracy-forcing  minimalism,  in
+the  form  of a  suggestion  that if the  United  States  government  is  going to  assert
+jurisdiction  over the tobacco  industry,  it must be  because  of a  clear judgment  to
+that  effect  from  Congress  and  not  because  of the  construction  of ambiguous
+terms by an administrative  agency.
+
+A  general  effort  to  defend  Justice  O'Connor's  approach,  focusing  on
+frontiers  cases,  might  invoke  these  points  as  well.  When  minimalism  is
+defensible  in  democratic  terms,  it  is  in precisely  these  areas,  simply  because  it
+is  there  that  the  Supreme  Court  should  be  reluctant  to  foreclose  democratic
+experimentation,  and  there  too  that  the  Court  might  evince  a  preference  for
+judgments  by  the nation's  lawmakers.  At  the very  least, I suggest  that  ideas  of
+this kind  play a significant  role in Justice O'Connor's work on the  Court.
+
+CONCLUSION
+
+One  of my  central  goals  in  this  Article  has  been  to  raise  some  questions
+about minimalism-to  suggest that  any  general  preference  for narrow,  case-by-
+case  rulings  would  be  too crude  and  reflexive,  and  insufficiently  attuned  to  the
+frequent  advantages  of width.  In  Justice  O'Connor's  opinions,  the  most  vivid
+example  of this  problem  can  be  found  in  the  context  of  affirmative  action,
+where  she  approves  "holistic"  admissions  decisions  but  disapproves  of point
+systems.  The  difficulty  is  that  in  key  respects,  holistic  decisions  involve  the
+functional  equivalent  of a  point  system-but  in  a  way  that  is  not  transparent,
+that  eliminates  predictability,  and 
+that  almost  certainly  ensures  unequal
+treatment  of  the  similarly  situated.  The  idea  that  the  Constitution  requires
+"holistic"  judgment  neglects  the  many  benefits  of clarity  and  width,  not  least
+from the  standpoint of equality  itself.
+
+None  of this  means  that  width  is  always  preferable,  or  even  that  courts
+should adopt  a  presumption  in  its  favor.  The  choice  between  narrow  and  wide
+rulings  must  itself be  made  on  a  case-by-case  basis;  no  rule  is  adequate  to  the
+task.  Where  the Court's  decision  must be  applied  in  many  contexts,  and  when
+the  issue  frequently recurs,  the argument  for width  may well be  irresistible.  But
+where  the  issue  arises  infrequently,  and  when  the  Court  lacks  the  information
+that  would  enable  it  to  produce  a  wide  rule  in  which  it  has  much  confidence,
+the  argument  for narrowness  is  quite strong.
+
+68.  Brown &  Williamson, 529  U.S. at  133.
+69.  Id  at  160.
+
+HeinOnline  -- 58 Stan. L. Rev. 1917 2005-2006
+
+1918 
+
+STANFORD LAW RE VIEW 
+
+[Vol. 58:1899
+
+In  the context of the war on terror, there  is  good  reason to avoid wide  rules,
+they  are  so  likely  to  misfire.  But  in  the  context  of  sex
+simply  because 
+discrimination,  the  Court has  earned the right to  create  strong  presumptions  that
+are  also  wide.  Ideas  of this  kind  follow  from  a  conventional  inquiry  into  the
+costs  of decisions  and the  costs of errors.  They  are  also  supported  by  reference
+to  democratic  considerations.  I have emphasized  that narrow  rulings often  leave
+democracy  room  to  maneuver;  an  additional  point  is  that  some  forms  of
+minimalism  turn  out to be  democracy-forcing.
+
+With 
+
+respect 
+
+to  method,  a  sympathetic  understanding  of  Justice
+O'Connor's  legacy  might  therefore  take  the  following  form.  In  the  most
+difficult  and  sensitive  cases,  at  the  frontiers  of  constitutional  law,  the  Court
+usually  does  best  if it  proceeds  narrowly.  It  does  so  not  because  there  is  any
+general  reason  to prefer  narrowness  to width,  but because  there  are  identifiable
+settings  in  which width  is likely  to misfire,  and in  which  it  is  best to preserve  a
+large space  for public  dialogue  and debate.  Understood  in  these  (narrow)  terms,
+Justice  O'Connor's  preference  for  narrowness  is  likely  to  leave  an  enduring
+mark on  constitutional  law.
+
+HeinOnline  -- 58 Stan. L. Rev. 1918 2005-2006
+
+

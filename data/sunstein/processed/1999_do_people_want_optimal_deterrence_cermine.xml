@@ -1,0 +1,1978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>J.
+Legal Stud.</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Do People Want Optimal Deterrence?</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Coase-Sandor Working Paper Series in Law</string-name>
+          <email>unbound@law.uchicago.edu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <string-name>Recommended Citation</string-name>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Coase-Sandor Institute for Law and Economics</institution>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>David Schkade, Cass R. Sunstein &amp; Daniel Kahneman, "Do People Want Optimal Deterrence?", John M. Olin Program in Law and Economics Working Paper No.</institution>
+          <addr-line>77, 1999</addr-line>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>1997</year>
+      </pub-date>
+      <volume>623</volume>
+      <issue>1997</issue>
+      <abstract>
+        <p>Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>JOHN M. OLIN LAW &amp; ECONOMICS WORKING PAPER NO. 77
+(2D SERIES)</p>
+      <p>Do People Want Optimal Deterrence?
+Cass R. Sunstein, David Schkade, and Daniel Kahneman</p>
+      <p>THE LAW SCHOOL</p>
+      <p>THE UNIVERSITY OF CHICAGO</p>
+    </sec>
+    <sec id="sec-2">
+      <title>This paper can be downloaded without charge at:</title>
+    </sec>
+    <sec id="sec-3">
+      <title>The Chicago Working Paper Series Index: http://www.law.uchicago.edu/Publications/Working/index.html The Social Science Research Network Electronic Paper Collection: http://papers.ssrn.com/paper.taf?abstract_id=166168</title>
+      <p>Cass R. Sunstein,* David Schkade,** and Daniel Kahneman***
+For those interested in the effects of law on human behavior,
+deterrence is of course the central question. No one doubts that legal
+sanctions, civil and criminal, can have significant behavioral
+consequences. Thus the economic theory of punishment in general,
+and of punitive damages in particular, is designed to ensure optimal
+deterrence of private and public misconduct. Emphasizing this
+point, many observers have suggested that participants in the legal
+system should be asked to choose among punishments by answering
+explicit questions about how to achieve optimal deterrence.1 To take
+just one illustration, Polinsky and Shavell have gone so far to offer a
+model jury instruction, one that would direct jurors to focus their
+attention on the probability that the defendant’s act would be
+detected.2</p>
+      <p>Extending and elaborating on the standard law-and-economics
+wisdom on this topic, Polinsky and Shavell urge that the principal
+purpose of punitive awards is to make up for the shortfall in
+compensatory damages, a shortfall caused by the failure of potential
+plaintiffs to detect the injury and to seek compensation. Polinsky
+and Shavell would ask jurors to multiply the compensatory award by
+* Karl N. Llewellyn Distinguished Service Professor of Jurisprudence, Law
+School and Department of Political Science, University of Chicago.
+** Professor of Management and William R. Spriegel Fellow, Graduate School
+of Business, University of Texas, Ausin.
+*** Eugene Higgins Professor of Psychology and Professor of Public Affairs,
+Princeton University. The authors are grateful to the Exxon Corporation for
+financial support for the first of the studies contained in this Article; Exxon
+bears no responsibility for our analysis or our conclusions. We are also grateful
+to Douglas Baird, Jonathan Baron, Riohard Craswell, Daniel Kahan, Saul
+Levmore, Martha Nussbaum, Eric Posner, Richard Posner, and David
+Weisbach for helpful comments on an earlier draft.
+1 See, e.g., Robert D. Cooter, Economic Analysis of Punitive Damages, 56 S
+Cal L Rev 79 (1982); William Landes and Richard Posner, The Economic
+Structure of Tort Law 160-63 (1987); Robert Cooter, Punitive Damages for
+Deterrence: When and How Much?, 40 Ala L Rev 1143 (1989).
+2 A. Mitchell Polinsky and Steven Shavell, Punitive Damages: An Economic
+Analysis, 111 Harv. L. Rev. 869 (1999).
+the probability that injured persons would not detect and receive
+compensation for the injury.3 Thus, for example, no punitive award
+should be permitted when the probability of compensation is 100%,
+and the compensatory award should be doubled when the probability
+is 50%.4 Polinsky and Shavell object that in the real world, jurors do
+not attempt to promote optimal deterrence; their jury instruction is
+designed to move juror performance in that direction.5</p>
+      <p>An obvious question raised by proposals of this kind is whether
+jurors are able or willing to carry out the relevant tasks. Perhaps it is
+unlikely that jurors could master the complex causal issues involved in
+making ex ante probability judgments; hindsight bias, for example,
+might contaminate the inquiry (causing artificially diminished
+awards).6 But even more basic questions are whether citizens
+generally would approve of this approach to punitive damages, and
+whether jurors would be willing to perform this task if asked to do
+so. Previous research suggests that people’s judgments about punitive
+damage awards are a reflection of outrage at the defendant’s actions
+rather than of deterrence.7 This is not to say that people do not care
+about deterrence; of course they do. Our hypothesis here is that they
+3 Id. at 957-62.
+4 There are some qualifications here. Polinsky and Shavell would also allow
+punitive damages to force the defendant to disgorge socially illicit gains; here
+the purpose would allow be to promote optimal deterrence by ensuring that the
+defendant, if an individual, is not able to profit from (illicit) hedonic gains
+from, say, an assault or rape. Id. at 909-10, 954. Note also that it is possible to
+imagine routes to optimal deterrence that diverge from the conventional
+“multiplier” approach. See Richard Craswell, Deterrence and Damages: The
+Multiplier Principle and its Alternatives, 97 Mich. L. Rev. (forthcoming
+1999). These and other qualifications are essentially irrelevant to our claims
+here.
+5 See id.
+6 See Jeffrey Rachlinski, A Positive Psychological Theory of Judging i n
+Hindsight, 65 U Chi L Rev (1998) ; Reid Hastie, David Schkade and John
+Payne, Juror judgments in civil cases: Hindsight effects on punitive liability
+judgments. Law and Human Behavior (1999).
+7 See Jonathan Baron and Ilana Ritov, Intuitions About Penalties and
+Compensation in the Context of Torty Law, 7 J Risk and Uncertainty 17
+(1993); Jonathan Baron, R. Gowda, and Howard Kunreuther, Attitudes toward
+Managing Hazardous Waste: What Should be Cleaned Up and Who Should
+Pay for It, 13 Risk Analysis 183 (1993); Cass R. Sunstein, Daniel Kahneman,
+and David Schkade, Assessing Punitive Damages, 107 Yale LJ 2071 (1998).
+do not attempt to promote optimal deterrence; for this reason they
+do not make the kinds of distinctions that are obvious, even
+secondnature, for those who study deterrence questions. Above all, they
+may not believe that in order to ensure optimal deterrence, the
+amount that a given defendant is required to pay should be increased
+or decreased depending on the probability of detection , a central
+claim in the economic analysis of law.8</p>
+      <p>In this paper we discuss two studies designed to test whether
+people believe in optimal deterrence. In the first study, we focus
+people’s attention on the probability of detection, in order to see
+how this variable influences their judgments. If people do not
+attempt to promote optimal deterrence, this factor would be viewed
+as largely irrelevant (a point that we qualify below). This finding
+would in turn have implications for the role of juries in
+implementing deterrent goals. If optimal deterrence is the purpose of
+some legal reform, that purpose could be met with resistance in the
+jury system. If optimal deterrence is the goal of legal reform, it may
+be necessary to rely on less populist institutions, such as regulatory
+agencies.</p>
+      <p>In the second study, we ask the optimal deterrence question
+more directly. We present subjects with the question whether it is
+proper, or fair, for public officials (including judges) to vary the
+degree of punishment with the probability of detection. We ask
+whether it is proper for judges to refuse to allow punitive damages
+when the probability of detection is 100%, and also whether the
+Internal Revenue Service should increase penalties when a smaller
+number of agents means that there will be a larger degree of
+undetected tax cheating. Compared to the first study, this is a more
+straightforward test of the question whether people want optimal
+deterrence. If people reject explicit official decisions to vary
+punishment with the probability of detection, it is safe to include
+that they do not believe in achieving optimal deterrence.
+8 See Polinsky and Shavell, supra note; Landes and Posner, supra note. A low
+probability of detection might, however, suggest stealthiness, and for that
+reason increase the penalty in certain circumstances, because it increases
+outrage. See below. We have not tested that question here.</p>
+      <p>Outside of the context of punitive damages, psychological work
+on punishment has suggested that when thinking about
+punishment, people are not simple consequentialists, and that their
+ideas about punishment diverge from what would be expected from
+an optimal deterrence approach. For example, Baron and Ritov
+studied people’s judgments about penalties in tort cases involving
+harms resulting from the use of vaccines and birth control pills.9 I n
+one case, subjects were told that the result of a higher penalty would
+be to make companies try harder to make safer products. In an
+adjacent case, subjects were told that the consequence of a higher
+penalty would be to make the company more likely to stop making
+the product, with the result that less safe products would be on the
+market. Most subjects, including a group of judges, gave the same
+penalties in both cases.</p>
+      <p>A related study found no reduction in penalty even when
+subjects were told that the amount of the penalty would have no
+effect on future behavior—because the penalty was secret, the
+company had insurance, and the company was about to go out of
+business.10 While not directly tied to the topic of optimal deterrence,
+these studies strongly suggest that intuitive punishment judgments
+are not tailored to consequentialist goals.</p>
+      <p>Another test of punishment judgments asked subjects,
+including judges and legislators, to choose penalties for dumping
+hazardous waste.11 In one case, the penalty would make companies
+9 Jonathan Baron and Ilana Ritov, Intuitions About Penalties and
+Compensation in the Context of Tort Law, 7 J Risk and Uncertainty 17
+(1993).
+10 See id.
+11 Jonathan Baron, R. Gowda, and Howard Kunreuther, Attitudes toward
+Managing Hazardous Waste: What Should be Cleaned Up and Who Should
+Pay for It, 13 Risk Analysis 183 (1993). There is, in fact, a large literature
+documenting that deterrence considerations do not explain public opinion
+toward punishment, even when members of the public say that “deterrence” is
+their primary concern. See, e.g., Tom R. Tyler &amp; Renee Weber, Support for
+the Death Penalty: Instrumental Response to Crime, or Symbolic Attitude, 17
+L. &amp; Soc'y Rev. 21 (1982); Phoebe C. Ellsworth &amp; Samuel R. Gross,
+Hardening of the Attitudes: Americans’ Views on the Death Penalty, 50 J. Soc.
+Issues 19 (1994).
+try harder to avoid waste. In another, the penalty would lead
+companies to cease making a beneficial product. Most people did not
+penalize companies differently in the two cases. Perhaps most
+strikingly, people preferred to require companies to clean up their
+own waste, even if the waste did not threaten anyone, instead of
+spending the same amount to clean up far more dangerous waste
+produced by another, now-defunct company.</p>
+      <p>These studies indicate that when assessing punishment, people
+do not focus solely on social consequences, at least not in any simple
+way. If this is true, it is reasonable to think that people also do not
+attempt to promote optimal deterrence. But this proposition has not
+been tested. We attempt to make some progress on the question
+here, above all by asking people to focus on a key variable: the
+probability of detection.</p>
+      <sec id="sec-3-1">
+        <title>II. Study 1</title>
+      </sec>
+      <sec id="sec-3-2">
+        <title>The Irrelevance of Probability of Detection</title>
+        <sec id="sec-3-2-1">
+          <title>A. Design and Sample</title>
+          <p>The first study offered three personal injury cases (see
+Appendix) to test the effect of explicitly varying the probability of
+detection on juror judgments. The question we examined was
+whether people would offer different judgments about penalty levels
+when the probability of detection was varied. In one case, for
+example, the plaintiff suffered serious post-operative complications
+after surgery on his broken leg. He claimed that the surgeon was
+incompetent, and sued the owner of the hospital. The hospital had
+previously received several complaints about the surgeon, but had not
+disciplined him. Compensatory damages had already been awarded.</p>
+          <p>Three versions of each case were prepared. These differed only
+in the relative frequency of detection, which was set at 1 out of 100,
+1 out of 10, or 1 out of 5. The level of compensatory damages was
+the same for all cases ($200,000) as was firm size (annual profits of
+around $150 million). Here, for example, is the relevant wording for
+one of the cases:</p>
+          <p>
+            “In situations like this, victims who deserve
+compensation do not always receive it because (
+            <xref ref-type="bibr" rid="ref1">1</xref>
+            ) they
+don’t know what caused their problem and therefore
+don’t sue, (
+            <xref ref-type="bibr" rid="ref2">2</xref>
+            ) they don’t know that they can sue, or (
+            <xref ref-type="bibr" rid="ref3">3</xref>
+            )
+they sue and lose, even though they deserve to win
+under the law, because their lawyers are not good
+enough. Research has shown that in only 1 out of 100
+situations where someone has an experience like Joan
+Glover is the company eventually required to pay
+compensation to the victim.”
+          </p>
+          <p>Note that several features of this design were specifically selected
+in order to enhance the likelihood that respondents would use,
+rather than ignore, the information provided on the probability of
+detection. Both firm size and compensatory damages were held
+constant, and these were the only other quantitative factors
+presented; moreover, a quantitative response was required. Thus the
+design drew attention to the only number that varied between cases,
+the probability of detection, increasing the chance that it would be
+thought relevant. The probability information was also provided in
+the form of relative frequencies, which are more easily understood
+and processed than decimals. Jurors were specifically directed to
+deterrence (as well as retribution) in the jury instructions (see
+Appendix). Note also that our purpose, in this study, was not to ask
+directly whether the legal system should pursue optimal deterrence,
+nor to see if people could or would pay attention to probability of
+detection if required to do so, but instead to examine whether
+information on that question would be used appropriately if provided
+and emphasized. Any answer would tell us a great deal about people’s
+intuitive approach to punishment questions.</p>
+          <p>
+            Respondents were randomly assigned to one of nine conditions,
+which were constructed to ensure that (
+            <xref ref-type="bibr" rid="ref1">1</xref>
+            ) each respondent judged
+all three cases, (
+            <xref ref-type="bibr" rid="ref2">2</xref>
+            ) each respondent judged all three levels of
+probability of detection, (
+            <xref ref-type="bibr" rid="ref3">3</xref>
+            ) across respondents, all nine
+combinations of case and probability of detection were equally
+represented in each of the three ordinal positions (first, second,
+third). The design is summarized in Table 3 (in the Appendix).
+          </p>
+          <p>A total of 699 jury-eligible citizens from Phoenix, Arizona were
+recruited and paid by a survey firm. Session sizes varied from 23 to 29
+and were held in conference rooms of local hotels. Participants were
+randomly assigned to one of the nine conditions described above,
+resulting in the sample allocation in Table 3 in the Appendix. The
+data were analyzed using a repeated measures analysis of variance,
+with probability of detection, case, and sequence as independent
+variables, along with a subject factor. Because the award distribution
+is severely right skewed, as is typical of punitive damages awards,12
+the natural log of awards was used as the dependent variable.</p>
+        </sec>
+        <sec id="sec-3-2-2">
+          <title>B. Results and Implications</title>
+          <p>
+            The basic result was both striking and simple. Changes in the
+probability of detection did not produce significant changes in dollar
+awards, even though it was varied by a factor of 20; this was
+apparently irrelevant to their dollar judgments (Table 1). 13 To be
+sure, there does appear to be a positive trend in the means, but this
+difference is not statistically significant (F(
+            <xref ref-type="bibr" rid="ref2">2,1336</xref>
+            ) = 0.5, p &gt; .50),
+and even if it were, it is in the opposite direction of that required by
+the deterrence argument: The greater the likelihood of detection,
+the higher the award. The clear implications of this result are (
+            <xref ref-type="bibr" rid="ref1">1</xref>
+            )
+that explicitly drawing people’s attention to a low probability of
+detection does not by itself produce higher or materially different
+awards and (
+            <xref ref-type="bibr" rid="ref2">2</xref>
+            ) that optimal deterrence is, to that important extent,
+not promoted by people’s spontaneous judgments about appropriate
+punishment.
+          </p>
+          <p>
+            Nothing said here excludes the possibility that if specifically
+required to think about issues of optimal deterrence, as urged by
+Polinsky and Shavell, jurors might be willing to do so. Study 1 does
+not demonstrate that the proposed Polinsky-Shavell jury instruction
+would necessarily be met with a form of civil disobedience. It
+remains possible that people do care about deterrence but do not
+understand the relationship between probability of detection and
+(optimal) deterrence; perhaps they are confused about how best to
+deter. Perhaps they do not understand the risk of overdeterrence and
+12 See Sunstein, Kahneman, and Schkade, supra note.
+13 When interpreting a non-significant result as meaningful it is important to
+be sure that enough statistical power was present. Note that we did find
+significant effects of case (F(
+            <xref ref-type="bibr" rid="ref2">2,1336</xref>
+            ) = 4.7, p &lt; .01), sequence (F(
+            <xref ref-type="bibr" rid="ref2">2,1336</xref>
+            ) = 9.1, p
+&lt; .001), and a case by sequence interaction (F(
+            <xref ref-type="bibr" rid="ref2">2,1336</xref>
+            ) = 5.2, p &lt; .01). It is
+therefore clear that we had sufficient statistical power(with over 2000 total
+observations) to detect any effect of probability of detection if one in fact
+existed.
+underdeterrence and might be willing to think in these terms if the
+concepts were explained. Nor did we undertake a within-subjects
+test of the sort described in Part I; we do not know whether
+respondents, confronted with two cases, otherwise identical but
+with different probabilities of detection, would treat the two cases in
+the same way. And while the first study tests whether jurors will
+take account of the low probability of detection when prominently
+placed before them, it does not ask for reactions to officials or
+institutions who have done exactly that. Our second study sheds
+some light on these issues.
+* These figures are derived from the mean log awards used in the
+analysis of variance. To make the figures more easily interpreted, the
+mean log award for each cell was converted to $ by taking the
+inverse. For example, the mean log award for the Glover case with a
+1/100 probability was 13.426, and e13.426 = 677,399.
+          </p>
+        </sec>
+      </sec>
+      <sec id="sec-3-3">
+        <title>III. Study 2</title>
+      </sec>
+      <sec id="sec-3-4">
+        <title>Do People Accept Optimal Deterrence Policies?</title>
+        <sec id="sec-3-4-1">
+          <title>A. Introduction, Method, Stimuli</title>
+          <p>The first study did not expressly ask people whether optimal
+deterrence policies were appropriate or proper. In our second study,
+we asked University of Chicago Law School students to answer this
+question. The general hypothesis was that most people would reject
+optimal deterrence policies if chosen by an administrative agency or
+by a district court. The University of Chicago Law School, however,
+would seem to be extremely unfavorable terrain for this hypothesis.
+University of Chicago Law School students generally learn a great
+deal about deterrence theory in their first year of law school, and
+they study optimal deterrence in their required courses about the law
+of tort and criminal law. Thus training in the first year of law school
+alerts University of Chicago students to the possibility of over- or
+underdeterrence and to the need to consider both level and
+probability of penalty in achieving optimal deterrence. It would
+therefore be reasonable to speculate that a large percentage of
+students would accept optimal deterrence theory. But the speculation
+would be wrong.</p>
+          <p>Two questions were presented to 84 students in the first session
+of a general administrative law class, taken by both second-year and
+third-year students. The questions involved enforcement policy and
+punitive damages. The question involving enforcement policy was
+this:</p>
+          <p>“Suppose that the Internal Revenue Service
+(IRS) has a large number of agents per 10,000
+people in California, but a small number of agents
+per 10,000 people in Utah; suppose too that because
+of practical constraints, the IRS cannot increase the
+number of agents in Utah. Suppose that you are
+head of the IRS, and that your second-in-command
+has sent you a memorandum saying, ‘To make up for
+the shortfall of agents in Utah, ensure the right level
+of deterrence, we need to impose higher penalties for
+tax violations in Utah than for tax violations in</p>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="sec-4">
+      <title>California. I recommend that you adopt a policy to</title>
+      <p>this effect.’ Putting aside purely political
+considerations, would you agree with this policy?”
+The question involving punitive damages was this:</p>
+      <p>“Tom Johnson, a construction worker, was
+severely injured as a result of grotesquely reckless
+safety practices by his employer. In the trial,
+uncontradicted experts testified that Johnson’s
+employer ‘did not even try to take the most minimal
+and obvious precautions to protect workers against
+serious risks to life and health.’ The jury awarded
+Johnson $50,000 in compensatory damages and
+$300,000 in punitive damages. The trial judge set
+aside the punitive award on the ground that ‘there
+was essentially no chance that Johnson would not
+seek and receive compensation, and hence there is
+no need for punitive damages in this case.’ Assume
+that the trial judge was correct on his factual
+claim—and thus that there was no chance that
+Johnson would not seek and receive full
+compensation. Do you agree that punitive damages
+should not be awarded?”</p>
+      <p>
+        Respondents were asked to give one of four answers to these
+questions: strongly disagree (
+        <xref ref-type="bibr" rid="ref1">1</xref>
+        ), somewhat disagree (
+        <xref ref-type="bibr" rid="ref2">2</xref>
+        ), somewhat
+agree (
+        <xref ref-type="bibr" rid="ref3">3</xref>
+        ), strongly agree (
+        <xref ref-type="bibr" rid="ref4">4</xref>
+        ). (Note that we did not ask whether the
+result was “fair,” believing that this formulation might bias answers
+against optimal deterrence policies.) The question order was varied;
+about half of respondents answered the IRS question first, and
+about half answered it second. Since it seemed that an unusual
+number of respondents, having been schooled in optimal deterrence
+policies, would accept those policies, we also asked a follow-up
+question for each problem. The question was whether most other
+people would agree with the policy. Thus, each participant gave four
+responses, all on a 1-4 disagree-agree scale: Self and Other ratings
+for both the IRS and punitive damages questions.
+      </p>
+      <sec id="sec-4-1">
+        <title>B. Results and Comments</title>
+        <p>The simplest statement of the result is that very strong
+majorities of respondents rejected optimal deterrence policies in both
+settings, disagreeing with both the IRS policy and the punitive
+damage ruling. More particularly, 84% rejected the judge’s decision
+to set aside the punitive damage award, and 75%, rejected the IRS’
+policy. Substantial majorities believed that most other people would
+also reject the optimal deterrence policy—67% of respondents said
+that most people would disagree with the punitive damage
+judgment, and 87% of respondents said that most people would
+disagree with the IRS policy. In short, substantial majorities both
+rejected the optimal deterrence approach and believed that most
+people would reject the optimal deterrence approach.</p>
+        <p>The overwhelming majorities with respect to the punitive
+damage judgment are especially noteworthy. Respondents at the
+University of Chicago Law School are well aware of the economic
+theory of punitive awards. They apparently rejected that theory with
+the thought that reckless or invidious behavior deserves to be
+punished, whatever deterrence theory may suggest. Hence the
+respondents’ refusal to accept optimal deterrence theory provides
+some information about the content of punitive intuitions: I n
+general, moral judgments about inappropriate behavior are affected
+little or not at all by the probability of detection.</p>
+        <p>There is an interesting wrinkle in the findings: More people
+disapproved of the punitive damages judgment than believed that
+most people would disapprove of the punitive damage judgment. It is
+not clear how to account for this. But subsequent informal
+discussion suggested a possible explanation: A small group of
+students who disagreed with the judge’s decision to set aside the
+punitive award believed that because of the publicity given to
+apparently excessive punitive awards, most people would approve of a
+judge’s decision to set aside any such award.</p>
+        <p>tn ree</p>
+        <p>g
+e
+c a
+re is
+P D
+MR
+r
+t A
+S
+ry t
+a
+2</p>
+        <p>s
+le lt
+b u
+a s</p>
+        <p>e
+T
+m
+m
+u
+S
+R
+2
+y
+d
+u
+t
+S
+m A
+o
+S
+d
+e
+t
+a
+R
+n
+n
+o
+i
+t
+s
+e
+u
+r</p>
+        <p>r
+so e e
+e lfe th lf h
+r</p>
+        <p>t
+e
+P S O S</p>
+        <p>O
+iev eg
+t a
+i
+S S n m
+R R u a
+iev eg ll
+t a ra
+i
+n m
+u a
+e
+v
+2
+1</p>
+      </sec>
+      <sec id="sec-4-2">
+        <title>C. Implications and Puzzles</title>
+        <p>The obvious implication of this study is that people generally
+reject optimal deterrence policies. The IRS example is a
+conventional regulatory effort to increase penalties because of the
+low probability of detection; the punitive damage case is a
+conventional application of conventional optimal deterrence theory.
+If even University of Chicago Law School students reject optimal
+deterrence approaches by a substantial margin, there is no reason to
+expect, and every reason to doubt, that such policies would obtain
+majority or even significant support elsewhere.14</p>
+        <p>Several questions might be asked about the implications of these
+findings. In the IRS study, the question asked about an IRS increase
+in penalties because of a lower probability of detection in Utah.
+Would people’s answers shift if respondents were asked about an
+IRS decrease in penalties because of a higher probability of detection
+in California?15 In other words, the answers may have been affected
+not only by the (apparently unjustified) inequality between citizens
+of Utah and citizens of California, but also because of a framing
+effect in which the former were being subjected to what might seem
+to be unusually high penalties. Perhaps a different framing of the
+question would produce a shift in answers. Or perhaps the key
+problem in the IRS case was the evident inequality between similarly
+situated citizens. Would respondents reject an optimal deterrence
+policy if it was global—if, for example, an administrative agency
+increased penalties in 2001 because of reduced enforcement
+14 In light of the unambiguous support for our hypothesis—that people reject
+optimal deterrence policies—in this unfavorable population, any study with the
+general juror pool would add little for our limited purpose here, which is to
+show that in their intuitive punishment judgments, people do not attempt to
+promote optimal deterrence. Of course this is not to deny the value of
+obtaining more information about the judgments of diverse groups, including
+large samples of ordinary citizens (as in Study 1); such information could
+produce a great deal of further information about intuitive punishment
+judgments, as discussed below.
+15 There is also a question whether the effect we find is partly an “IRS
+effect”—that antipathy of the IRS helps drive disapproval of the policy. We
+cannot rule out this possibility. But it is quite doubtful that the result would be
+substantially different if (say) the Environmental Protection Agency or the
+Occupational Safety and Health Administration were substituted for the IRS.
+resources, or if a new agency offered high penalties because of
+underfunding?</p>
+        <p>Similarly, the punitive damages problem involved a judicial
+elimination of the jury award because of a 100% probability of
+detection, an outcome that apparently seemed outrageous to many
+respondents. It is easy to imagine a case in which the judge increases
+the penalty because the probability of detection was (say) 10%. We
+know from Study 1 that such an increase would not occur to jurors
+spontaneously. But how many people would find this outcome
+unacceptable?</p>
+        <p>These are important questions, and some answers would give
+more precise information about the psychology of punishment. But
+they do not bear on the general issue pursued here, which is whether
+people attempt to promote optimal deterrence. Even if variations in
+the cases might increase the number of people willing to approve of
+some probability-penalty tradeoff, it would not follow that optimal
+deterrence policies fit comfortably with moral intuitions. We have
+offered considerable evidence that they do not. The fact that optimal
+deterrence policies are rejected in both the administrative and the
+judicial domains, among a group most likely to be predisposed in
+their favor, strongly suggests that any effort to move in the direction
+of optimal deterrence would encounter strong popular resistance.</p>
+        <p>The claims that people do not attempt to promote optimal
+deterrence policies, and that they are likely to reject many such
+policies, raise two further issues. The first has to do with the
+structure (if any) of people’s judgments, if those judgments are not
+based on the idea of optimal deterrence. In previous work we have
+started to develop a descriptive model of punitive damages, with
+implications for punishment judgments in general. 16 The essential
+claim is that punitive awards emerge from a cascade of judgments,
+moving from outrage to punitive intent to dollar awards. The
+evaluative aspect of outrage can be measured on bounded numerical
+scales, and even within diverse demographic groups, there is
+considerable uniformity in outrage judgments, thus measured.17
+16 See Daniel Kahneman, David Schkade, and Cass R. Sunstein, Shared
+Outrage and Erratic Awards: The Psychology of Punitive Damages, 16 J. Risk
+&amp; Uncertainty (1998); Sunstein, Kahneman, and Schkade, supra note.
+17 See Sunstein, Kahneman, and Schkade, 107 Yale LJ at 2097-2100.
+Punitive intent, which can also be measured on bounded numerical
+scales, is determined both by outrage and by additional factors, such
+as harm, which do not affect outrage itself. Dollar awards emerge
+from a combination of punitive intent and still additional factors,
+such as firm size, which do not themselves affect punitive intent
+(measured on a bounded numerical scale).</p>
+        <p>It should be clear that as described, the outrage model does not
+incorporate any effort to seek optimal deterrence. But as we have
+noted, it remains possible that a low probability of detection would
+affect outrage, not because deterrence requires severe punishment,
+but because a stealthy act is more outrageous than one that is out in
+the open. We suspect that if the probability of detection sometimes
+matters—if a low or for that matter high probability drives up dollar
+awards—it is because of the increased outrage elicited by a stealthy or
+shameless act. It would be feasible, for example, to examine whether
+people would offer higher awards when the defendant’s conduct was
+extremely open and thus indicated a kind of obliviousness to
+widespread social norms; it would equally be possible to explore
+whether people would offer higher awards when a defendant took
+careful (fiendish?) steps to conceal his wrongdoing. From the
+standpoint of retribution, and outrage, it is not clear, in the abstract,
+whether a defendant should be deemed stealthy and sneaky, and
+hence more severely punished when the probability of detection is
+low, or instead deemed shameless, and hence more severely punished
+when the probability of detection is high. It is reasonable to think
+that outrage, and hence dollar awards, might be increased through
+cases that exemplify either phenomenon.</p>
+        <p>The second issue has to do with the relationship between our
+findings and the real world of punitive damages. Here the question
+is whether juries tend to increase awards because the probability of
+detection was low. There is no evidence that this happens, and
+considerable reason to believe that it does not. Those who claim that
+punitive awards are predictable show that the compensatory award
+tends to “anchor” the punitive award, that is, the punitive award is
+much affected by the compensatory award.18 Juries do not add a
+special multiplier when the probability of compensation is low, nor
+do they refuse to go beyond the compensatory award when the
+probability is 100%. Polinsky and Shavell themselves give a number
+of examples of cases in which the probability of detection did not
+matter and suggest that judicial determinations “do not reflect in any
+clear manner the formula that achieves optimal deterrence.”19 We
+agree that the inevitably messy real-world data show that juries do
+not pursue optimal deterrence. What we have added is less messy
+evidence that people do not promote optimal deterrence even when
+given information that would enable, even encourage them to do
+so—and also that people reject optimal deterrence policies in
+important settings.</p>
+        <sec id="sec-4-2-1">
+          <title>IV. Conclusions</title>
+          <p>People do not spontaneously think in terms of optimal
+deterrence and indeed they would be reluctant to accept effort to
+build the law on the foundation of optimal deterrence theory. Their
+proposed punishments do not differ depending on the probability of
+deterrence, even when this factor is specifically drawn to their
+attention. In addition, people reject law enforcement policies that
+increase or decrease penalties because of the probability of detection.
+These findings have several implications.</p>
+          <p>First: Serious practical issues would be raised by any effort to
+require ordinary people to think in terms of optimal deterrence. Any
+such effort could run up against widely held moral intuitions. This
+does not mean that people will not obey the law. But there is a
+serious risk that a jury instruction asking jurors to think in terms of
+optimal deterrence would not be followed in the real world.</p>
+          <p>Second: The public will be skeptical of an effort to base law
+enforcement policy on principles of optimal deterrence. An attempt
+to move policy in this direction could be widely perceived as unfair
+and wrong. Even if the perception is naïve or ignorant—and we
+take no stand here on the normative question—it is important for
+policymakers to know about it.</p>
+          <p>Third: If government is going to base its enforcement policy on
+the idea of optimal deterrence, it has several alternatives. It might
+keep its policy quiet. Alternatively, it might attempt to educate the
+19 See Polinsky and Shavell, supra note, at 897; see also 897-904.
+public, so as to convince people that this is, in fact, the proper
+strategy. Or it might use optimal deterrence policies in settings in
+which they can be “framed” so as to fit most comfortably with moral
+intuitions.20 Perhaps more promisingly, it might use less populist
+institutions to promote the relevant goals. It might, for example,
+shift decisional authority away from juries and toward bureaucracies,
+with the knowledge that whatever ordinary people think, the
+relevant administrators will seek to promote optimal deterrence.
+20 We have suggested several possibilities above, though we have not
+investigated them here.</p>
+        </sec>
+        <sec id="sec-4-2-2">
+          <title>Appendix</title>
+        </sec>
+      </sec>
+    </sec>
+    <sec id="sec-5">
+      <title>Study 1 Design Summary</title>
+      <sec id="sec-5-1">
+        <title>Instructions and Stimuli</title>
+        <sec id="sec-5-1-1">
+          <title>Juror Instructions (excerpts)</title>
+          <p>In this study we would like you to imagine that you are a juror
+for a legal case in a civil court. Civil law suits involve disputes
+between private individuals, companies, or individuals and
+companies, in which the plaintiff alleges that the defendant harmed
+them in some way. The primary purpose of a civil suit brought by a
+plaintiff is to seek compensation from the defendant for the alleged
+harm.</p>
+          <p>
+            Civil suits involve two different types of potential damages that
+a defendant could be could be required to pay. Compensatory damages
+are intended to fully compensate a plaintiff for the harm suffered as a
+result of the defendant’s actions. Punitive damages are intended to
+achieve two purposes: (
+            <xref ref-type="bibr" rid="ref1">1</xref>
+            ) to punish the defendant for unusual
+misconduct, and (
+            <xref ref-type="bibr" rid="ref2">2</xref>
+            ) to deter the defendant and others from
+committing similar actions in the future.
+          </p>
+          <p>Punitive damages should be awarded if a preponderance of the
+evidence shows that the defendants acted either maliciously or with
+reckless disregard for the welfare of others. Defendants are
+considered to have acted maliciously if they intended to injure or
+harm someone. Defendants are considered to have acted with
+reckless disregard for the welfare of others if they were aware of the
+probable harm to others but disregarded it, and their actions were a
+gross deviation from the standard of care that a normal person would
+use.</p>
+          <p>Civil suits differ from criminal cases, in which the government
+prosecutes an individual or a company for alleged violations of the
+law. Plaintiffs in a civil trial must prove their claim by “a
+preponderance of the evidence,” which means that it is more likely
+than not that the plaintiff’s claim is justified. This differs from
+criminal trials, where the prosecution must prove the defendant’s
+guilt “beyond a reasonable doubt,” which is a much stronger level of
+proof.</p>
+          <p>Please imagine that you are a member of the jury for this case.
+Your job is to decide whether and how much the defendant should
+be punished, in addition to paying compensatory damages. In the
+case you will consider, the jury has already ordered the defendant to
+pay compensatory damages to the plaintiff. This does not necessarily
+mean that punitive damages must also be awarded. Whether or not
+punitive damages should be awarded and if so how large they should
+be is completely separate from compensatory damages.</p>
+        </sec>
+      </sec>
+      <sec id="sec-5-2">
+        <title>Glover v. General Assistance</title>
+        <p>Joan Glover, a five-year-old child, ingested a large number of
+pills of a non-prescription allergy medicine called Allerfree. The
+Allerfree bottle carried a label reading "Childproof Cap", but it did
+not meet federal regulations for the use of that label. Joan's parents
+testified that they had been very careful in ensuring that all of their
+medications had childproof safety caps. Joan found the pills in a
+kitchen drawer and ingested most of the bottle. The overdose
+permanently weakened her respiratory system, which will make her
+more susceptible to breathing-related diseases such as asthma and
+emphysema for the rest of her life, and may reduce her life
+expectancy.Joan's parents sued the manufacturer of Allerfree, the
+General Assistance company, a drug manufacturer with annual
+profits of around $150 million. Internal company documents
+showed that General Assistance had chosen to ignore federal
+regulations about the standards for using the label "childproof cap".
+An internal memo presented at trial says that "this stupid,
+unnecessary federal regulation is a waste of our money"; it
+acknowledges the risk that Allerfree might be punished for violating
+the regulation but says "the punishments are extremely mild;
+basically we'd be asked to improve the safety caps in the future." The
+trial jury ordered General Assistance to pay the Glovers $200,000 in
+compensatory damages for the harm done to Joan's health.</p>
+        <p>
+          In situations like this, victims who deserve compensation do not
+always receive it because (
+          <xref ref-type="bibr" rid="ref1">1</xref>
+          ) they don’t know what caused their
+problem and therefore don’t sue, (
+          <xref ref-type="bibr" rid="ref2">2</xref>
+          ) they don’t know that they can
+sue, or (
+          <xref ref-type="bibr" rid="ref3">3</xref>
+          ) they sue and lose, even though they deserve to win under
+the law, because their lawyers are not good enough. Research has
+shown that in only 1 out of 5 situations where someone has an
+experience like Joan Glover is the company eventually required to pay
+compensation to the victim. As you have seen, the trial jury has
+already ordered General Assistance to pay the plaintiff the Glovers
+$200,000 in compensatory damages as full compensation for the
+harm suffered. As a member of the punishment jury for this case,
+your job now is to decide how much in punitive damages (if any)
+General Assistance should be required to pay, in addition to paying
+these compensatory damages.
+_______________________________________________
+___________
+        </p>
+        <p>What amount of punitive damages (if any) should General
+Assistance be required to pay as punishment and to deter them and
+others from similar actions in the future? Compensatory damages do
+not count as part of the punishment. Please write the appropriate
+amount of punitive damages in the blank below.</p>
+        <p>$ _____________________</p>
+      </sec>
+      <sec id="sec-5-3">
+        <title>Fredericks v. HealthServe Corp.</title>
+        <p>Tom Fredericks suffered serious post-operative complications
+after surgery on his broken leg. He claimed that the surgeon was
+incompetent, and sued the owner of the hospital, HealthServe
+Corporation, a national health care company with annual profits of
+$150 million.Normally, the type of operation Fredericks had involves
+only minor initial pain, and after two months the leg is completely
+healed. However, Fredericks was in excruciating pain for three
+months, and was on crutches for six months. He still has difficulty
+sitting for long periods, and experiences muscle spasms and
+swelling.Evidence presented at trial showed that the surgeon hurried
+through the operation by leaving out certain standard medical
+precautions. HealthServe had previously received several complaints
+about the surgeon, but had not disciplined him. A former secretary
+testified that a manager said, “So he makes a few mistakes; he does
+more operations per day than other doctors, and that helps our
+bottom line. Besides, he hasn’t killed anyone yet.” The trial jury
+ordered HealthServe to pay Fredericks $200,000 in compensatory
+damages.</p>
+      </sec>
+      <sec id="sec-5-4">
+        <title>Elegin v. T &amp; C Components</title>
+        <p>Paul Elegin was seriously injured in an automobile accident
+which occurred when his steering malfunctioned. He claimed that
+the cause of the accident was a defectively designed steering system
+and sued the manufacturer, T &amp; C Components.Although he was
+wearing his seatbelt, Elegin suffered a broken pelvis and a severely
+fractured cheekbone, both of which required surgery. He was in
+severe pain for six months as his pelvis healed. The cheekbone injury
+permanently disfigured his face, and he has frequent and debilitating
+migraine headaches.T &amp; C Components, a company with annual
+profits of $150 million, is a major supplier of parts to the largest auto
+manufacturers in the country. Internal company research reports
+presented at trial include the statement “the steering system may be
+subject to dangerous malfunction on variable road surfaces.
+Recommend retest and possible redesign.” T &amp; C never attempted
+to correct or redesign the mechanisms detailed in the reports, or
+conduct a retest. A memo stated “engineers worry too
+much—testing for everything they think of would be too expensive.”
+The trial jury ordered T &amp; C to pay Elegin $200,000 in
+compensatory damages.
+This working paper is a preliminary draft dated 5/23/99.
+All rights reserved. Readers with comments should address them to:</p>
+      </sec>
+    </sec>
+    <sec id="sec-6">
+      <title>Cass R. Sunstein</title>
+      <p>Karl N. Llewellyn Distinguished Service Professor
+University of Chicago Law School
+1111 East 60th Street
+Chicago, IL 60637</p>
+      <p>Chicago Working Papers in Law and Economics</p>
+      <p>(Second Series)
+71. Jonathan M. Karpoff, John R. Lott, Jr., and Graeme Rankine,
+Environmental Violations, Legal Penalties, and Reputation
+Costs (March 1999)
+72. Matthew D. Adler and Eric A. Posner, Rethinking
+Cost</p>
+      <p>Benefit Analysis (April 1999)
+73. John R. Lott, Jr. and William M. Landes, Multiple Victim
+Public Shooting, Bombings, and Right-to-Carry Concealed
+Handgun Laws: Contrasting Private and Public Law
+Enforcement (April 1999)
+74. Lisa Bernstein, The Questionable Empirical Basis of Article 2’s</p>
+      <p>Incorporation Strategy: A Preliminary Study (May 1999)
+75. Richard A. Epstein, Deconstructing Privacy: and Putting It</p>
+      <p>Back Together Again (May 1999)
+76. William M. Landes, Winning the Art Lottery: The Economic</p>
+      <p>Returns to the Ganz Collection (May 1999)
+77. Cass R. Sunstein, David Schkade, and Daniel Kahneman, Do
+People Want Optimal Deterrence? (June 1999)</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          1.
+          <string-name>
+            <surname>William</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Landes</surname>
+          </string-name>
+          ,
+          <source>Copyright Protection of Letters, Diaries and Other Unpublished Works: An Economic Approach (July</source>
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          2.
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Epstein</surname>
+          </string-name>
+          , The Path to The T. J.
+          <article-title>Hooper: The Theory and History of Custom in the Law of Tort (August</article-title>
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          3.
+          <string-name>
+            <surname>Cass</surname>
+            <given-names>R.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Sunstein</surname>
+          </string-name>
+          ,
+          <source>On Property and Constitutionalism (September</source>
+          <year>1991</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          4.
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Posner</surname>
+          </string-name>
+          , Blackmail, Privacy, and Freedom of Contract (
+          <year>February 1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          5.
+          <string-name>
+            <surname>Randal</surname>
+            <given-names>C.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Picker</surname>
+          </string-name>
+          , Security Interests, Misbehavior, and
+          <string-name>
+            <surname>Common Pools</surname>
+          </string-name>
+          (
+          <year>February 1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          6.
+          <string-name>
+            <surname>Tomas</surname>
+            <given-names>J.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Philipson</surname>
+          </string-name>
+          &amp; Richard A. Posner, Optimal Regulation of AIDS (April
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          7.
+          <string-name>
+            <surname>Douglas</surname>
+            <given-names>G</given-names>
+          </string-name>
+          . Baird,
+          <source>Revisiting Auctions in Chapter 11 (April</source>
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          8.
+          <string-name>
+            <surname>William</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Landes</surname>
+          </string-name>
+          ,
+          <source>Sequential versus Unitary Trials: An Economic Analysis (July</source>
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          9.
+          <string-name>
+            <surname>William</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Landes</surname>
+          </string-name>
+          &amp;
+          <article-title>Richard A. Posner, The Influence of Economics on Law: A Quantitative Study</article-title>
+          (
+          <year>August 1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          10.
+          <string-name>
+            <surname>Alan O. Sykes</surname>
+          </string-name>
+          ,
+          <article-title>The Welfare Economics of Immigration Law: A Theoretical Survey With An Analysis of U.S. Policy</article-title>
+          (
+          <year>September 1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          11.
+          <string-name>
+            <surname>Douglas</surname>
+            <given-names>G.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Baird</surname>
+          </string-name>
+          ,
+          <source>1992 Katz Lecture: Reconstructing Contracts (November</source>
+          <year>1992</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          12.
+          <string-name>
+            <surname>Gary</surname>
+            <given-names>S.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Becker</surname>
+          </string-name>
+          , The Economic Way of Looking at Life (
+          <year>January 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          13.
+          <string-name>
+            <surname>J. Mark</surname>
+            <given-names>Ramseyer</given-names>
+          </string-name>
+          , Credibly Committing to Efficiency
+          <source>Wages: Cotton Spinning Cartels in Imperial Japan (March</source>
+          <year>1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          14.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Endogenous Preferences, Environmental
+          <string-name>
+            <surname>Law</surname>
+          </string-name>
+          (
+          <year>April 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          15.
+          <string-name>
+            <surname>Richard</surname>
+          </string-name>
+          <article-title>A. Posner, What Do Judges and Justices Maximize? (The Same Thing Everyone Else Does)</article-title>
+          (
+          <year>April 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          16. Lucian Arye Bebchuk and
+          <string-name>
+            <surname>Randal C. Picker</surname>
+            , Bankruptcy Rules,
+            <given-names>Managerial</given-names>
+          </string-name>
+          <string-name>
+            <surname>Entrenchment</surname>
+          </string-name>
+          , and
+          <string-name>
+            <surname>Firm-Specific Human Capital</surname>
+          </string-name>
+          (
+          <year>August 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          17.
+          <string-name>
+            <surname>J. Mark</surname>
+            <given-names>Ramseyer</given-names>
+          </string-name>
+          ,
+          <article-title>Explicit Reasons for Implicit Contracts: The Legal Logic to the Japanese Main Bank System</article-title>
+          (
+          <year>August 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          18.
+          <string-name>
+            <surname>William</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Landes</surname>
+          </string-name>
+          and Richard A. Posner, The Economics of Anticipatory Adjudication (
+          <year>September 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          19.
+          <string-name>
+            <surname>Kenneth</surname>
+            <given-names>W.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Dam</surname>
+          </string-name>
+          , The Economic Underpinnings of Patent Law (
+          <year>September 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          20.
+          <string-name>
+            <surname>Alan O. Sykes</surname>
+          </string-name>
+          , An Introduction to Regression Analysis (
+          <year>October 1993</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          21.
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Epstein</surname>
+          </string-name>
+          ,
+          <source>The Ubiquity of the Benefit Principle (March</source>
+          <year>1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          22.
+          <string-name>
+            <surname>Randal</surname>
+            <given-names>C.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Picker</surname>
+          </string-name>
+          ,
+          <article-title>An Introduction to Game Theory and the Law</article-title>
+          (
+          <year>June 1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          23.
+          <string-name>
+            <surname>William M. Landes</surname>
+          </string-name>
+          ,
+          <source>Counterclaims: An Economic Analysis (June</source>
+          <year>1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          24.
+          <string-name>
+            <surname>J. Mark</surname>
+            <given-names>Ramseyer</given-names>
+          </string-name>
+          ,
+          <article-title>The Market for Children: Evidence from Early Modern Japan</article-title>
+          (
+          <year>August 1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          25.
+          <string-name>
+            <surname>Robert</surname>
+            <given-names>H.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Gertner</surname>
+            and
+            <given-names>Geoffrey P.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Miller</surname>
+            ,
+            <given-names>Settlement Escrows</given-names>
+          </string-name>
+          (
+          <year>August 1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          26.
+          <string-name>
+            <surname>Kenneth</surname>
+            <given-names>W.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Dam</surname>
+          </string-name>
+          ,
+          <source>Some Economic Considerations in the Intellectual Property Protection of Software (August</source>
+          <year>1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          27.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Rules and Rulelessness, (
+          <year>October 1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          28. David Friedman,
+          <article-title>More Justice for Less Money: A Step Beyond Cimino</article-title>
+          (
+          <year>December 1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          29. Daniel Shaviro,
+          <article-title>Budget Deficits and the Intergenerational Distribution of Lifetime Consumption</article-title>
+          (
+          <year>January 1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          30.
+          <string-name>
+            <surname>Douglas</surname>
+            <given-names>G</given-names>
+          </string-name>
+          . Baird,
+          <source>The Law and Economics of Contract Damages (February</source>
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          31. Daniel Kessler, Thomas Meites, and
+          <string-name>
+            <given-names>Geoffrey P.</given-names>
+            <surname>Miller</surname>
+          </string-name>
+          ,
+          <article-title>Explaining Deviations from the Fifty Percent Rule: A Multimodal Approach to the Selection of Cases for Litigation (March</article-title>
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          32.
+          <string-name>
+            <surname>Geoffrey</surname>
+            <given-names>P.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Miller</surname>
+          </string-name>
+          ,
+          <article-title>Das Kapital: Solvency Regulation of the American Business Enterprise (April</article-title>
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          33. Richard Craswell, Freedom of Contract (
+          <year>August 1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          34.
+          <string-name>
+            <surname>J. Mark</surname>
+            <given-names>Ramseyer</given-names>
+          </string-name>
+          , Public
+          <string-name>
+            <surname>Choice</surname>
+          </string-name>
+          (
+          <year>November 1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          35.
+          <string-name>
+            <surname>Kenneth</surname>
+            <given-names>W.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Dam</surname>
+          </string-name>
+          ,
+          <source>Intellectual Property in an Age of Software and Biotechnology (November</source>
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          36.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Social Norms and Social
+          <string-name>
+            <surname>Roles</surname>
+          </string-name>
+          (
+          <year>January 1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          37.
+          <string-name>
+            <surname>J. Mark</surname>
+          </string-name>
+          Ramseyer and
+          <string-name>
+            <surname>Eric B. Rasmusen</surname>
+          </string-name>
+          , Judicial Independence in Civil Law Regimes: Econometrics from Japan (
+          <year>January 1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          38.
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Epstein</surname>
+          </string-name>
+          ,
+          <source>Transaction Costs and Property Rights: Or Do Good Fences Make Good Neighbors? (March</source>
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          39.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , The Cost-Benefit
+          <string-name>
+            <surname>State</surname>
+          </string-name>
+          (May
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>
+          40.
+          <string-name>
+            <surname>William</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <article-title>Landes and Richard A. Posner, The Economics of Legal Disputes Over the Ownership of Works of Art</article-title>
+          and Other
+          <string-name>
+            <surname>Collectibles</surname>
+          </string-name>
+          (
+          <year>July 1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>
+          41.
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          , Jr. and
+          <string-name>
+            <surname>David</surname>
+            <given-names>B.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Mustard</surname>
+          </string-name>
+          , Crime, Deterrence, and
+          <article-title>Right-to-Carry Concealed Handguns</article-title>
+          (
+          <year>August 1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>
+          42.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Health-Health Tradeoffs</surname>
+          </string-name>
+          (
+          <year>September 1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation>
+          43.
+          <string-name>
+            <surname>Douglas</surname>
+            <given-names>G</given-names>
+          </string-name>
+          .
+          <article-title>Baird, The Hidden Virtues of Chapter 11: An Overview of the la</article-title>
+          and
+          <source>Economics of Financially Distressed Firms (March</source>
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation>
+          44. Richard A. Posner, Community, Wealth, and
+          <string-name>
+            <surname>Equality</surname>
+          </string-name>
+          (March
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <mixed-citation>
+          45.
+          <string-name>
+            <surname>William M. Landes</surname>
+          </string-name>
+          ,
+          <source>The Art of Law and Economics: An Autobiographical Essay (March</source>
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <mixed-citation>
+          46.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <source>Behavioral Analysis of Law (April</source>
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <mixed-citation>
+          47.
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          , Jr. and Kermit Daniel, Term Limits and
+          <article-title>Electoral Competitiveness: Evidence from California's State Legislative Races</article-title>
+          (May
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <mixed-citation>
+          48.
+          <string-name>
+            <surname>Randal</surname>
+            <given-names>C.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Picker</surname>
+          </string-name>
+          ,
+          <article-title>Simple Games in a Complex World: A Generative Approach to the Adoption of Norms (June</article-title>
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <mixed-citation>
+          49.
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Epstein</surname>
+          </string-name>
+          ,
+          <article-title>Contracts Small and Contracts Large: Contract Law through the Lens of Laissez-Faire</article-title>
+          (
+          <year>August 1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref50">
+        <mixed-citation>
+          50.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Daniel Kahneman, and David Schkade,
+          <article-title>Assessing Punitive Damages (with Notes on Cognition and Valuation in Law)</article-title>
+          (
+          <year>December 1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref51">
+        <mixed-citation>
+          51.
+          <string-name>
+            <surname>William M. Landes</surname>
+            , Lawrence Lessig, and
+            <given-names>Michael E.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Solimine</surname>
+          </string-name>
+          , Judicial Influence:
+          <article-title>A Citation Analysis of Federal Courts of Appeals Judges</article-title>
+          (
+          <year>January 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref52">
+        <mixed-citation>
+          52.
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Jr.</surname>
+          </string-name>
+          ,
+          <article-title>A Simple Explanation for Why Campaign Expenditures are Increasing: The Government is Getting Bigger (</article-title>
+          <year>February 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref53">
+        <mixed-citation>
+          53.
+          <string-name>
+            <surname>Richard</surname>
+          </string-name>
+          <article-title>A. Posner, Values and Consequences: An Introduction to Economic Analysis of Law (March</article-title>
+          <year>1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref54">
+        <mixed-citation>
+          54.
+          <string-name>
+            <surname>Denise DiPasquale and Edward L. Glaeser</surname>
+          </string-name>
+          , Incentives and Social Capital: Are Homeowners Better Citizens? (
+          <year>April 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref55">
+        <mixed-citation>
+          55.
+          <string-name>
+            <surname>Christine</surname>
+            <given-names>Jolls</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+            , and Richard Thaler,
+            <given-names>A</given-names>
+          </string-name>
+          Behavioral Approach to Law and Economics (May
+          <year>1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref56">
+        <mixed-citation>
+          56.
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          , Jr.,
+          <source>Does a Helping Hand Put Others</source>
+          At Risk?: Affirmative Action, Police Departments, and
+          <string-name>
+            <surname>Crime</surname>
+          </string-name>
+          (May
+          <year>1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref57">
+        <mixed-citation>
+          57.
+          <string-name>
+            <surname>Cass</surname>
+            <given-names>R.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Sunstein</surname>
+            and
+            <given-names>Edna</given-names>
+          </string-name>
+          <string-name>
+            <surname>Ullmann-Margalit</surname>
+          </string-name>
+          , Second-Order
+          <string-name>
+            <surname>Decisions</surname>
+          </string-name>
+          (
+          <year>June 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref58">
+        <mixed-citation>
+          58.
+          <string-name>
+            <surname>Jonathan</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Karpoff and John R. Lott</surname>
+          </string-name>
+          , Jr., Punitive Damages:
+          <article-title>Their Determinants, Effects on Firm Value, and the Impact of Supreme Court and Congressional Attempts to Limit Awards (</article-title>
+          <year>July 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref59">
+        <mixed-citation>
+          59.
+          <string-name>
+            <surname>Kenneth</surname>
+            <given-names>W.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Dam</surname>
+          </string-name>
+          ,
+          <article-title>Self-Help in the Digital Jungle</article-title>
+          (
+          <year>August 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref60">
+        <mixed-citation>
+          60.
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          , Jr.,
+          <article-title>How Dramatically Did Women's Suffrage Change the Size and Scope of Government?</article-title>
+          (
+          <year>September 1998</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref61">
+        <mixed-citation>
+          61.
+          <string-name>
+            <surname>Kevin</surname>
+          </string-name>
+          <article-title>A. Kordana and Eric A</article-title>
+          .
+          <string-name>
+            <surname>Posner</surname>
+          </string-name>
+          ,
+          <source>A Positive Theory of Chapter</source>
+          <volume>11</volume>
+          (
+          <year>October 1998</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref62">
+        <mixed-citation>
+          62.
+          <string-name>
+            <surname>David</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Weisbach</surname>
+          </string-name>
+          , Line Drawing, Doctrine, and
+          <article-title>Efficiency in the Tax Law (November</article-title>
+          <year>1998</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref63">
+        <mixed-citation>
+          63. Jack L.
+          <article-title>Goldsmith and Eric A</article-title>
+          .
+          <string-name>
+            <surname>Posner</surname>
+          </string-name>
+          ,
+          <source>A Theory of Customary International Law (November</source>
+          <year>1998</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref64">
+        <mixed-citation>
+          64.
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          , Jr.,
+          <string-name>
+            <surname>Public</surname>
+            <given-names>Schooling</given-names>
+          </string-name>
+          , Indoctrination, and
+          <string-name>
+            <surname>Totalitarianism</surname>
+          </string-name>
+          (December
+          <year>1998</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref65">
+        <mixed-citation>
+          65.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <article-title>Private Broadcasters and the Public Interest: Notes Toward A “Third Way”</article-title>
+          (
+          <year>January 1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref66">
+        <mixed-citation>
+          66.
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Posner</surname>
+          </string-name>
+          ,
+          <article-title>An Economic Approach to the Law of Evidence (February</article-title>
+          <year>1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref67">
+        <mixed-citation>
+          67.
+          <string-name>
+            <surname>Yannis</surname>
+            <given-names>Bakos</given-names>
+          </string-name>
+          , Erik Brynjolfsson, Douglas Lichtman, Shared Information Goods (
+          <year>February 1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref68">
+        <mixed-citation>
+          68.
+          <string-name>
+            <surname>Kenneth</surname>
+            <given-names>W.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Dam</surname>
+          </string-name>
+          ,
+          <source>Intellectual Property and the Academic Enterprise (February</source>
+          <year>1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref69">
+        <mixed-citation>
+          69.
+          <string-name>
+            <surname>Gertrud</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <article-title>Fremling and Richard A. Posner, Status Signaling and the Law, with Particular Application to Sexual Harassment (March</article-title>
+          <year>1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref70">
+        <mixed-citation>
+          70.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Must Formalism Be Defended Empirically? (
+          <year>March 1999</year>
+          )
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+

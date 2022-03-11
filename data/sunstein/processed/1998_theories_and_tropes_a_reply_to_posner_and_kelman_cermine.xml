@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>This Article is brought to you for free and open access by the Faculty Scholarship at Chicago Unbound. It has been
+accepted for inclusion in Journal Articles by an authorized administrator of Chicago Unbound. For more
+information</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Theories and Tropes: A Reply to Posner and Kelman</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Richard H. Thaler</string-name>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <string-name>Recommended Citation</string-name>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Assistant Professor of Law, Harvard Law School</institution>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Cass R. Sunstein, Christine Jolls &amp; Richard H. Thaler, "Theories and Tropes: A Reply to Posner</institution>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution>Faculty Scholarship</institution>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>1997</year>
+      </pub-date>
+      <volume>50</volume>
+      <fpage>1997</fpage>
+      <lpage>1998</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>that it is merely one of several equally valid ways of viewing the world, we
+disagree; we believe that behavioral law and economics should be regarded as
+more than an "interpretive trope" and that it will help to shed light on legal
+problems and produce improvements in the legal system.</p>
+      <p>A small note at the outset: Both Judge Posner and Professor Kelman
+frequently use the word "irrationality," and they write as if "irrationality" and
+"irrational behavior" are at the heart of behavioral economics and behavioral
+law and economics. But our article intentionally avoided that word, on the
+ground that it is not useful and is likely to mislead. We do far better to
+specify how human beings actually behave (and depart from the conventional
+theory) than to argue whether they are "irrational." Hence we refer to quasi
+rational agents and to bounded rationality, bounded willpower, and bounded
+self-interest, three ideas of special relevance to Posner's comment, to which
+we now turn.</p>
+    </sec>
+    <sec id="sec-2">
+      <title>I. POSNER</title>
+      <p>A reader of Judge Posner's commentary might be left with the impression
+that there are large disagreements between us. This impression would be
+false. Posner accepts the most important points of our article; he
+acknowledges the existence of the three bounds, and he agrees that the phenomena we
+discuss are real and potentially important to economics and law. Much of his
+discussion consists of quibbling about what is really a minor matter: whether
+we should call a given behavior rational or not. Posner is also concerned to
+show the sources of the three bounds, an important subject to be sure, but one
+on which we are agnostic. Our goal here is to reduce the perceived distance
+between our views and straighten out the most important misunderstandings.</p>
+      <sec id="sec-2-1">
+        <title>A- Framingthe Debate</title>
+        <p>Seeming to have learned more from the study of cognitive psychology
+than he lets on, Judge Posner begins with a clever framing manipulation. He
+says that we (implicitly) define behavioral economics negatively as
+"economics minus the assumption that people are rational maximizers of their
+satisfactions."8 He contrasts this negative approach to what he prefers, the
+positive "enriching" approach he claims for standard economic theorizing.9
+As readers of our article realize, we offer no such negative definition; in fact
+we often use precisely the same concept, "enriching" the standard economic
+model, that is offered by Judge Posner.10</p>
+        <p>Indeed, as we will make clear below, our goals and tools are remarkably
+similar. The primary problem Posner seems to have with our approach is our
+reluctance to call all behavior rational. To Posner, a model that is rational is
+good, disciplined, scientific, and enriching, whereas a model that is quasi
+ra8.Posner, supranote 1, at 1552.
+9. Id. at 1567.</p>
+        <p>10. Id.; Christine Jolls, Cass Sunstein &amp; Richard Thaler, A BehavioralApproach to Law and
+Economics, 50 STAN. L. REV. 1471, 1475 (1998) [hereinafter "JST"].</p>
+        <p>HeinOnline -- 50 Stan. L. Rev. 1594 1997-1998
+tional is bad, undisciplined, unscientific, and subtracting. Posner seems to be
+using the heretofore undiscovered "rationality heuristic" (if it uses rational
+models, it is good). Like all heuristics, this one sometimes works well, but it
+can lead to systematic biases.</p>
+        <p>In this case the primary bias is one that Colin Camerer calls, in
+conversation, the "sufficiency bias." Throughout Posner's commentary, he goes
+through the following ritual. He discusses one of the phenomena we identify
+as problematic for economic theory; he offers a modification or elaboration on
+the standard theory that could, in principle, be consistent with this
+phenomenon; and then he declares victory. Posner seems to think that the fact that it is
+possible to tell a rational choice story consistent with the data is sufficient to
+establish that this explanation is the correct one. This is obviously a fallacy.
+In no case does he offer evidence to suggest that his preferred explanation is
+correct, nor even a test that would, in principle, discriminate between his
+explanation and ours. For those of us who believe in falsifiability, this is an
+unfortunate omission.</p>
+      </sec>
+      <sec id="sec-2-2">
+        <title>B. Three Bounds</title>
+      </sec>
+      <sec id="sec-2-3">
+        <title>1. Bounded rationality.</title>
+        <p>To his credit, Posner offers a definition of rationality: "choosing the best
+means to the chooser's ends."" But at many places he acknowledges that
+people often do not choose the best means to their own ends. He agrees that
+there is substantial evidence in favor of what he insists, in our view
+misleadingly, on calling "cognitive quirks"' 2 (a subtle suggestion that these are minor
+and unsystematic departures from the standard model). Still, he claims that,
+in general, bounded rationality either can be accommodated within a more
+refined rational choice model, or does not upset the predictions of the standard
+model, or both. He claims that we are simply willing to "give up on
+rationalchoice economics too soon."'13</p>
+        <p>Whether this is true of course depends on what the evidence shows.
+Posner suggests, for example, that the standard economic analysis of
+transportation is unaffected by people's ("irrational"--his term) fear of flying, and that
+the economic analysis of voting is unaffected by ("irrational"--again his
+term) voting behavior. 14 In some contexts a standard analysis of
+transportation and of voting may work (although for the same reasons we gave in our
+article, we continue to question assertions such as that standard analysis is
+helpful in predicting "why the old vote more than the young"; 5 if in fact the
+young voted more, could it not be said that voting for them was more novel
+and thus generated greater utility?). A standard analysis cannot, however, tell
+us all of what we need to know. Behavioral economists would predict that
+11. Id. at 1551.
+12. Id. at 1553.
+13. Id. at 1556.
+14. Id. at 1554-55.
+15. Id. at 1554.
+both market behavior and government behavior in the airline industry are
+affected by bounded rationality, as, for example, when additional safety
+measures are taken and mandated in the aftermath of a crash (a prediction of the
+availability heuristic)-even if such measures are not defensible on traditional
+grounds and even decrease aggregate safety (by producing a shift toward
+other, more dangerous modes of transportation, such as driving). We would
+also predict that bounded rationality (the availability heuristic, overoptimism,
+and framing effects) is relevant to voting behavior-and also that people are
+more likely to vote if they think that most people are voting (not a prediction
+of the conventional analysis, in fact a conundrum under that analysis, but a
+reasonable inference from models involving cooperative behaviorl 6).</p>
+        <p>The behavioral economics of transportation and voting are in fact
+extremely interesting; the notion that all the important aspects of these behaviors
+are well-explained by standard economics strikes us as, well, overoptimistic.</p>
+      </sec>
+      <sec id="sec-2-4">
+        <title>Bounded willpower.</title>
+        <p>Posner agrees that self-control problems are real: "I do not doubt that
+there is such a thing as weakness of will.' u 7 Indeed, he thinks that analysis of
+the behavior that presents such problems "may require abandoning a tacit
+assumption of most economic analysis-that the self is a unity."' 8 We share the
+view that people are often in struggles with themselves-struggles that the
+wiser part of their personality sometimes loses. (Posner suggests at one point
+that we "do not discuss the 'multiple selves' approach"; 19 but such temporal
+inconsistency of preference is precisely what hyperbolic discounting
+reflects.2 0)</p>
+        <p>We disagree, though, with Posner's view that information provides an
+obvious explanation for hyperbolic discounting.2 ' Posner suggests that people
+may discount sharply in the relatively near future because they know they
+have a particular need for cash now, whereas for times in the distant future it
+is hard to envision "what might make [one] pay in effect a huge interest rate
+to reallocate consumption. '22 It is true that people may sometimes have less
+information about their future needs than about their present ones, but it is not
+clear why lack of information alone would cause them to err systematically on
+the side of underestimating future needs. Given the lack of information about
+the future, it is quite possible that the need for immediate cash will be much
+more intense in the future.</p>
+        <p>16. See John 0. Ledyard, Public Goods: A Survey of Experimental Research, in THE
+HANDBOOK OF EXPERIMENTAL ECONOMICS 111, 121-22 (John H. Kagel &amp; Alvin E. Roth eds.,
+1995).</p>
+        <p>17. Posner, supranote 1,at 1555.
+18. Id.
+19. Id. at 1556.</p>
+        <p>20. See David Laibson, Golden Eggs andHyperbolic Discounting, 112 Q.J. ECON. 443, 445
+(1997).</p>
+        <p>21. See Posner, supra note 1, at 1555.
+22. Id.</p>
+      </sec>
+      <sec id="sec-2-5">
+        <title>Bounded self-interest.</title>
+        <p>Posner agrees that people do not act only from financial self-interest, and
+he appears to think that this is important to both economics and law. His
+chief objection to our discussion of bounded self-interest is that we do not link
+it with the two other bounds, making our approach to enriching the standard
+economic model appear disconnected and, in his view, antitheoretical. We do
+not see how Posner's proposed approach is more theorized, in the relevant
+sense, than ours, as we will now explain.</p>
+      </sec>
+      <sec id="sec-2-6">
+        <title>C. Theory and Antitheory</title>
+        <p>As noted, Posner claims that behavioral economics is "undertheorized. 2' 3
+Our article should have been entitled, he says, "A Psychological Critique of
+Economic Analysis of Law" rather than "A Behavioral Approach to Law and
+Economics. '24 In his view, behavioral economics is "purely empirical,"
+defined "by its subject rather than by its method," and unable to make
+predictions?5</p>
+        <p>We intended to create-and to show to be warranted-precisely the
+opposite impression. There have been many important theoretical advances in
+behavioral economics; a number of them are cited in our article.26 Consider, for
+example, prospect theory, the specification of biases and heuristics, and
+models of fairness-related behavior-all discussed in some detail in our article.
+Though much remains to be done, each of these contains a set of theoretical
+claims. Behavioral economists interested in law would predict, for example,
+that injunctions will stick in nuisance cases, that participants in lawsuits will
+display self-serving bias, that the allocation of a legal entitlement will matter
+to the ultimate outcome, that laws will reflect widespread judgments about
+fairness organized around reference points, that the pattern of environmental
+regulation will reflect the use of familiar heuristics, that people will be
+overoptimistic about risk-all topics developed in our article. Of course it is true
+that there is much more to be learned and that in many contexts good
+predictions are difficult. To the extent that he is saying more than this, we are left
+with the impression that Posner's claim of undertheorization is based on
+Posner's (undefended but more than implicit) view that an essential part of a good
+theory is that it be a rational choice theory.</p>
+        <p>Predictions can be hard for any model, standard or behavioral, and a basic
+problem in judging the success of any model, rational or quasi rational, is
+knowing what constitutes a true prediction of the model rather than a post hoc
+explanation. A case in point is Posner's discussion of AIDS. In support of
+the rational choice model, he cites the prediction that the AIDS epidemic will
+increase the rate of unwanted pregnancies by "inducing a rational substitution
+of condoms" for birth-control pills.27 But the example raises two obvious
+questions. First, was this really an ex ante prediction? Second, if so, is this
+really a victory for rationality? Isn't it quite possible that a rational woman
+who viewed both AIDS and pregnancy as undesirable would choose to use
+both a condom and a pill (despite the cost of using two forms of protection)?
+How would a rational actor model decide, ex ante, between this prediction
+and the alternative? How, then, does the rational choice approach provide a
+more "theorized" analysis than the behavioral approach?</p>
+        <p>Of course, predictions are sometimes robust to departures from
+unbounded rationality; an example discussed in our article is downward-sloping
+demand.28 If economics only consisted of this sort of prediction, many of the
+bounds we discuss would not matter. But in these cases there would also be
+no need for (or benefit from) rational choice models. Recall that Posner
+defines rational as "choosing the best" in terms of benefits and costs, implying
+an optimal tradeoff analysis (including decisionmaking and information
+acquisition costs). 29 This optimizing model is much richer than merely buying
+less of a good when the price goes up; as we pointed out, even laboratory rats
+do this.30 The richness adds precision to the theory and also renders it
+falsifiable (and in many cases, false; Posner's own discussion acknowledges many
+examples). In defense of rational choice theory, and in urging that we give up
+on it too quickly, Posner cites our claim that the fact that random choice (by
+rats or human beings) in a situation of scarcity will generate a
+downwardsloping demand curve shows that downward-sloping demand "is not evidence
+in support of optimizing models."' 31 He declares our analysis "wrong":
+"Buyers do not choose randomly. Rationality is the only reasonable
+explanation for their reactions to changes in relative prices. '32 Wrong. Gary
+Becker's demonstration that random choice yields downward-sloping demand
+extends easily to almost any choice behavior.33 A mix of budget-constrained
+consumers, some of whom just buy the brand their mother did, some of whom
+buy anything with Michael Jordan's picture on it, some of whom always buy
+the brand on the right, and so forth, will also buy less of goods whose prices
+27. Posner, supranote 1, at 1557.
+28. JST, supranote 10, at 1481-82.
+29. Posner, supranote 1, at 1551.
+30. JST, supranote 10, at 1481-82.
+31. Posner, supranote 1, at 1556.
+32. Id.</p>
+        <p>33. Gary S. Becker, IrrationalBehavior and Economic Theory, 70 J. POL. ECON. 1, 5, 7
+(1962).
+rise (because they have limited budgets). As Becker says, "[T]he negative
+slope of market demand curves... is equally consistent with individual
+irrationality [and individual rationality] and cannot distinguish between them." 34
+Consumers can be doing almost anything and this result will still hold.
+(Would Posner respond that whatever they do, people are "choosing the best
+means to the chooser's ends"? If so, does that theory make any falsifiable
+predictions?)</p>
+        <p>We stress this relatively minor point because much of the evidence Posner
+marshals in support of rational choice models falls into just this category. We
+are willing to stipulate that demand curves slope down. But we agree with
+Becker's analysis that this result depends not at all on unbounded rationality.
+We also think that for analyzing behavior related to law, it is necessary to say
+much more, by way of theory, than that demand curves slope down and that
+people choose the best means to their ends.</p>
+        <p>Posner offers a further criticism of the idea that sound predictions about
+law must take into account the bounds we emphasize. He says that random
+behavior may often be treated as rational actor behavior because "the
+distribution of... random behaviors" may have the same mean as rational actors'
+behavior.35 This is a common response to behavioral economics, and
+conceivably it could be true; but there is absolutely no reason to think it is, and
+(as is usually the case) none is offered by the source of the criticism. Each of
+the legal applications discussed in our article is an instance in which the
+evidence suggests that people are likely to err in a systematic direction-and
+hence that they will behave differently in systematic ways from unboundedly
+rational agents.</p>
+      </sec>
+      <sec id="sec-2-7">
+        <title>D. EvolutionaryBiology</title>
+        <p>Following Karl Popper, Posner is enthusiastic about falsifiability as the
+essential feature of a successful scientific theory.36 For present purposes we
+intend no quarrel with this idea. Posner is even more enthusiastic about
+evolutionary biology, and he thinks that it is important to show that behavior
+which departs from traditional economic assumptions is a result of
+evolutionary forces. 37 For present purposes we do not intend to quarrel with
+evolutionary biology either. (As we stated in our article, the notion that the bounds on
+human behavior are adaptive is wholly consistent with our approach.38 ) But it
+is not easy to stand, as Posner does, with both Popper and evolutionary
+biology. The problem is that Popper's views have been subject to criticism in the
+34. Id. at 13.
+35. Posner, supranote 1,at 1556.
+36. Id. at 1560-61.
+37. Id.at 1561-64.</p>
+        <p>38. JST, supra note 10, at 1477-78. Thus, we do not disagree with the idea that "while it may
+appear that the agents are acting irrationally," it is possible that they are "processing incomplete
+information as well as it can be processed." Kelman, supra note 4, at 1583. For instance, the use of
+"more general rules of thumb about when information is relevant" may be the best approach under
+the circumstances, "even if it results occasionally in the use of information that is not in fact
+probative." Id.
+philosophy of science, and evolutionary biology is part of the standard
+criticism of Popper. The reason is that evolutionary biology is an unfalsifiable
+theory.</p>
+        <p>We are agnostic on the question whether biology can explain the behavior
+we discuss in our article, but we do not think that Posner has shown that it
+can. Consider, for example, his claim that the endowment effect (in which
+opportunity costs are underweighted relative to out-of-pocket costs) or the
+sunk cost fallacy can be derived from evolution.39 No doubt it is possible to
+produce an evolutionary model in which paying attention to sunk costs, or
+displaying loss aversion, is adaptive. The problem is that it is also possible,
+indeed easier, to derive another model in which ignoring sunk costs, and
+equating opportunity costs to out-of-pocket costs, is also adaptive (based on
+the standard reasoning offered to economics students who are being taught
+why sunk costs should be ignored and opportunity costs equated with
+out-ofpocket costs). Indeed, there is a long tradition in economics, going back at
+least to Milton Friedman, of arguing that such forces are precisely why the
+assumptions of economics must be true (that competition or evolution will drive
+out the people who don't do what they are supposed to).40 It is difficult to see
+what conclusions should be drawn from the fact that evolution can be shown
+to produce a behavior andthe absence of that behavior.</p>
+        <p>Note that we are not saying that biology is not capable of making
+predictions. We are simply saying that the fact that one can tell an evolution-based
+story for why a particular behavior might have emerged neither implies the
+existence of a falsifiable theory nor (more importantly) is particularly helpful.
+To do better economic analysis we need theories that can help us predict when
+sunk costs are more likely to be ignored, or when opportunity costs are more
+likely to be given full weight. So far, however, such insights have come more
+from psychology than from biology.</p>
+        <p>We agree that much of the behavior we discuss can be considered a
+vestige of our long held instincts. In the case ofbounded willpower, this is
+obviously true. The instinct to eat when hungry is present in every species, but it
+can get one in trouble when food becomes abundant and exercise
+unnecessary. Ancient man needed neither Weightwatchers nor Stairmasters. Aspects
+of bounded rationality can also be explained, speculatively but plausibly, in
+evolutionary terms; the heuristics and biases literature in psychology is
+explicitly based on the premise that the heuristics which emerge are those that
+are useful on average.41 Availability is highly correlated with frequency, and
+using the availability heuristic may be a sensible strategy in most
+circumstances. Behavior that has survived the test of time may or may not have a lot
+to do with biology, and while it would be interesting (and in some ways
+potentially valuable) to know, a behavioral approach to the economic analysis of
+law can proceed whether or not the evolutionary account is right.
+39. Posner, supranote 1, at 1562-63, 1565.</p>
+        <p>40. MILTON FRIEDMAN, The Methodology of Positive Economics, in ESSAYS IN POSITIVE
+ECONOMICs 3, 21-22 (1953).</p>
+        <p>41. See JST, supranote 10, at 1477-78.</p>
+        <p>HeinOnline -- 50 Stan. L. Rev. 1600 1997-1998</p>
+      </sec>
+      <sec id="sec-2-8">
+        <title>E. Smaller Points</title>
+        <p>We do not intend here to respond to all of Posner's particular claims. In
+many places he has raised good questions for further research, behavioral and
+otherwise.</p>
+      </sec>
+      <sec id="sec-2-9">
+        <title>1. The ultimatum game and the endowment effect.</title>
+        <p>Posner claims that our analysis of the ultimatum game is merely a
+"labeling of the result of the game. '42 He prefers an analysis that depends on what
+he calls "negative altruism" and "signaling. '43 We are not sure that we
+understand the difference between his negative altruism explanation and our own;
+here is another case where Posner's "enriched" version of economics is
+simply a form of behavioral economics. Where we part company has to do with
+signaling. If the signaling explanation has any content, then it would seem to
+predict that Responders would accept small offers (such as the fifty cents
+offered by the least generous of the Proposers in our study) as long as their
+actions were completely anonymous (not known to the Proposer or anyone else
+including the experimenter.) Of course, these are exactly the conditions in
+our experiments (as well as the other ultimatum game experiments in the
+literature). How then can their actions be called signaling-unless they are
+signaling to themselves?</p>
+        <p>Posner also has various explanations for why we might observe the
+endowment effect within a rational choice model. 44 Though he claims that these
+explanations are falsifiable, he offers neither evidence in support of them nor
+tests he would accept as valid. For example, he points out that an endowment
+effect might be rational for a good with no substitutes, and that this
+observation might explain the large discrepancies that are observed between
+willingness to pay and willingness to accept for environmental goods.45 However,
+this observation cannot explain the difference in buying and selling prices for
+the coffee mugs in the mugs experiments (since the mugs were for sale in the
+campus book store). This suggests that the absence of substitutes cannot be
+the only explanation for the observed behavior.</p>
+        <p>Posner also suggests that the outcome of the mugs experiments might be
+explained by rational habit formation. 46 He does not say exactly how this
+works; one possibility is that we are used to thinking, correctly, that we like
+the things we own because we picked them out ourselves and have
+subsequently become accustomed to them. In the mugs experiment, this is not the
+case, but perhaps we act, out of habit, as if the mug had been in our
+possession for a long time. This is an interesting speculation, though no empirical
+support is offered on its behalf. More important, suppose this explanation is
+true. This in no way alters the behavioral analysis. Recall that the mugs
+ex42. Posner, supra note 1,at 1564.
+43. Id. at 1564-65.
+44. Id. at 1565-67.
+45. Id.at 1566.
+46. Id.at 1566-67.
+periments were designed to test (i.e., falsify) a prediction of behavioral
+economics, namely that the ultimate allocation of property rights would depend
+on the initial assignment of those rights even when transaction costs were
+zero. The experimenters were unable to reject this prediction. The
+"prebehavioral economic analysis" (to use Posner's phrase 47-one we like!) of this
+experiment was surely that the mugs market would be identical to the token
+market; that is, the Coase theorem would hold. The behavioral economic
+analysis is that the granting of property rights will affect the allocation of
+those rights. Posner's "habit formation" hypothesis leads to exactly the same
+prediction as the behavioral analysis, and hence to rejection of the Coase
+theorem. We are not sure about the hypothesis, but we are pleased to agree on the
+prediction, and we are looking forward to a revised treatment of the Coase
+theorem in the next edition ofEconomic Analysis ofLaw.</p>
+      </sec>
+      <sec id="sec-2-10">
+        <title>Crime, Optimism, andChildbirth.</title>
+        <p>Posner has various responses to our interpretation of Jon Gruber's
+empirical study of childbirth benefits. 48 Many of these responses are acknowledged
+in our original discussion; we expressly stated that the endowment effect is
+not the only possible explanation for the empirical findings. One response
+that we did not mention-and that strikes us as particularly odd-is Posner's
+objection to our stressing the role of one variable (the endowment effect)
+while retaining the rest of the rational choice apparatus. Why, he asks, do we
+not think that other behavioral factors were not also at play?49 The answer, of
+course, is simplicity. We add complexity one step at a time just as he does.
+When he suggests that signaling, asymmetric information, risk aversion,
+altruism, and other traditional rational choice add-ons provide an alternative
+explanation for some phenomenon, he does not say why another factor is not
+also present. We do not challenge this way of proceeding. Users of both
+methods are forced (because of bounded rationality) to enrich their models
+one step at a time. It is, of course, possible to combine two features in one
+analysis. This is exactly what we have done in our sunk cost ultimatum game.
+We used the mental accounting of sunk costs to predict that Responders
+would demand even more (closer to half the amount to be divided) if they had
+put up the money themselves. We then attempted to falsify this prediction,
+unsuccessfully.</p>
+        <p>Still, Posner grants that we are "on to something. '50 He just predicts that
+rational choice plus evolutionary biology will prove more useful in
+understanding these phenomena. Time will tell.</p>
+        <p>47. Id. at 1552.
+48. Id. at 1568-70.
+49. Id. at 1569-70.
+50. Id. at 1570.</p>
+      </sec>
+      <sec id="sec-2-11">
+        <title>EmpiricalEvidence.</title>
+        <p>Posner says that we make "exaggerated claims for the empirical
+robustness of behavioral economics." 5 1 What, he asks, is the theoretical or
+empirical basis for supposing that the experimental environment is similar to the real
+world? This is a perfectly reasonable question that behavioral economists
+have been busy exploring. For example, the original research on both mental
+accounting and prospect theory was experimental. Yet these concepts have
+proven useful in explaining field phenomena as diverse as the asset allocation
+decisions of pension plan participants, the behavior of cab drivers, and the
+equity premium puzzle.52 We await similar tests of the alternatives Posner
+favors.</p>
+        <p>One of the best examples of doing precisely what Posner seems to want is
+the study of self-serving bias by Linda Babcock, Xianghong Wang, and
+George Loewenstein. 53 Posner misinterprets the results of this study. He is
+right, of course, that there is nothing surprising in the fact that each side in a
+lawsuit will publicly adopt self-serving analogues. And he grants that there is
+such a thing as a role bias. But he is wrong in concluding that this study adds
+nothing, or that the survey respondents are just posturing to the researchers (as
+well as to their counterparts).5 4 What the authors show is that the answers the
+two parties give to the survey help explain the incidence of strikes. Why, if
+the two sides are just posturing, would their "meaningless" answers help
+explain their actual behavior? It seems that, while posturing to the other side (or
+even to the researchers), the bargainers end up posturing to themselves in a
+way that they have difficulty overcoming. We also refer readers once again to
+the study's own discussion of the problem of strategic behavior and the
+evidence against this explanation for the study's findings. 55</p>
+        <p>Posner is also incorrect in asserting that the empirical findings on whether
+parties bargain around court orders "vindicate rather than challenge
+rationality."' 56 Posner reasons that "[i]f a case that has become final through
+exhaustion of appellate remedies could have been settled, because the remedy sought
+by the plaintiff would cost the defendant more than it would benefit the
+plaintiff, the case would have been settled earlier-at the latest after the judgment
+in the trial court and before the appeal. '57 We fail to see this reasoning. For
+if the defendant thinks there is a good chance a verdict for the plaintiff will be
+overturned on appeal, it will have no reason to settle the case prior to appeal,
+even if the plaintiffs remedy would cost the defendant more than it would
+benefit the plaintiff; the defendant is hoping to have to pay nothing. In any
+event, we offer the empirical findings on settlement not to challenge
+"rationality," but to suggest that motivations other than material self-interest help to
+account for behavior relevant to law-a point to which Posner offers no
+objection.</p>
+      </sec>
+      <sec id="sec-2-12">
+        <title>4. Bureaucratsand debiasing.</title>
+        <p>Posner's commentary on our normative analysis is misplaced. We never
+suggested that experts would be charged with determining the populace's
+"authentic preferences. ' 58 We do not think people have orderly preferences,
+so charging anyone with determining them would be a meaningless
+assignment. Nor do we suggest that bureaucrats would be immune from bounded
+rationality. Indeed, we emphasize precisely the opposite position.5 9</p>
+        <p>Posner also faults us for not advocating education and psychiatry to cure
+"cognitive quirks and weakness of will. '60 In some circumstances, debiasing
+techniques may work for instances of bounded rationality, and this is an
+important area for further investigation. We mention several specific
+applications in our article. 6 1 Perhaps education and psychiatry can help with
+bounded willpower as well, but the problem has been with us at least since the
+time of Adam and Eve, and we are not optimistic about a cure any time soon.
+In any case, while educators and psychiatrists are doing their best to reduce
+the impact of bounded rationality and bounded willpower, we will continue
+our efforts to model these phenomena and learn more about how they affect
+the economics of the law, and also about how their harmful effects might be
+reduced. We hope that no one will attempt to cure bounded self-interest.</p>
+      </sec>
+      <sec id="sec-2-13">
+        <title>Equitypremiumpuzzle.</title>
+        <p>Posner suggests that we have succumbed to the hindsight bias; he says we
+conclude that people are irrationally risk averse from the fact, known only in
+hindsight, that stock returns have been so high.62 We should note that we are
+not responsible for declaring the high returns on equities a "puzzle." The
+puzzle was declared by rational choice theorists Mehra and Prescott, who
+were admirably attempting to make the theory of investment decision-making
+falsifiable by asking how large an historical equity premium would be
+consistent with reasonable (in their view) levels of risk aversion. 63 They decided
+that the returns up to the mid 1980s, when they wrote their article, were too
+high. Since their article was written, the equity premium in the United States
+58. Id. at 1575.
+59. JST, supranote 10, at 1475, 1541, 1543-45.
+60. Posner, supranote 1, at 1575.
+61. JST, supranote 10, at 1504, 1527, 1544.
+62. Posner, supranote 1,at 1572 n.41.</p>
+        <p>63. See Siegel &amp; Thaler, supra note 52, at 192, for a discussion. The original article is Rajnish
+Mehra &amp; Edward C. Prescott, The EquityPremium:A Puzzle, 15 J. MONETARY ECON. 145 (1985).</p>
+        <p>HeinOnline -- 50 Stan. L. Rev. 1604 1997-1998
+has been even higher than in the past, and a substantial equity premium has
+been found in most countries around the world.64 These facts provide
+out-ofsample tests of the equity premium puzzle.</p>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>II. KELMAN</title>
+      <p>Professor Kelman has considerable sympathy for behavioral economics.
+His basic complaint is that far from providing a "fuller, more accurate"
+account of human behavior, behavioral economics should recognize that it is
+merely one of "a variety of interpretive traditions" engaged in making up
+"stories" about social practices. 65 Kelman thinks that behavioral economics
+and rational choice theory are "bound together in a form of rhetorical duet or
+ritualized dance. '66 In his view, the two therefore stand together in
+"irreconcilable mutual dependence. '67 Kelman also contends that behavioral
+economics mostly offers "anecdot[es]. '' 68 In Kelman's view, this is not so much
+a criticism as a suggestion about the need to avoid "hubris. '69 In light of "the
+rich, inexorably overwhelming data with which we have to
+deal,...o.pentextured interpretivism" is all that we have.70 His complaint is that behavioral
+economists, and the behavioral approach to law and economics, claim to
+provide more than that.</p>
+      <sec id="sec-3-1">
+        <title>A. Tropes?</title>
+        <p>It is not clear to us why Professor Kelman prefers "interpretive tropes" to
+what behavioral economists are trying to do. Kelman does not show that
+analysts are unable to develop and to test hypotheses about the relationship
+between incentives, including law, and human behavior. We hope to have
+suggested a number of promising examples in our article. To be sure, in
+many areas we know much less than we should; as we emphasized throughout
+the article, one of our most important goals in this project is to outline an
+extended research agenda. The solution to this problem is to do more
+investigating in order to figure out which hypotheses are true. There is nothing
+hubristic about that.</p>
+        <p>Kelman thinks that our hope that behavioral economics can supplement
+standard economics is wrong because they are in "irreconcilable mutual
+dependence. ' 71 We do not understand this objection. While it is surely true that
+behavioral economics relies greatly on traditional economic tools (since it is,
+indeed, merely an approach to doing economics), behavioral economics is
+intended as an improvement because it contains more realistic assumptions
+about human behavior.</p>
+        <p>Of course Kelman is right to say that some imaginable debates amount to
+stylized rhetorical patterns, or "moves," involving those who are not and those
+who are committed to traditional rationality assumptions. Psychologists
+concerned with bounded rationality may claim to have found hindsight bias; those
+committed to unbounded rationality may say that what appears to be hindsight
+bias is really not that at all, but rather is a normative judgment about the
+appropriate legal regime. Behavioral economists may point to the results of the
+ultimatum game as suggesting that people will sacrifice some money to
+punish someone who they think has mistreated them; traditional economists may
+reply (as Kelman does in their name) that people care about various psychic
+goods and are willing to sacrifice their material self-interest to obtain these
+goods.72 And so on.</p>
+        <p>Some debates may indeed have this form. But taken in this stylized way,
+the disagreements between the two camps are awfully tedious. The real task
+is to be clear about both the hypothesis being tested and the data, and to go
+back and forth between them to see whether the hypothesis in question can be
+falsified.</p>
+        <p>Consider a few examples. Of course there is nothing to prevent
+economists from saying that because people care about "psychic goods," the results
+of the ultimatum game are no surprise. But this response has a major defect.
+It either makes rational choice theory incapable of generating predictions at
+all (because whatever happens can be said to have been a result of the relevant
+utility function, constructed ex post), or it converts rational choice theory into
+a primitive form of behavioral economics. It is plainly better to do what
+behavioral economists are doing, that is, to be explicit about the bounded nature
+of self-interest and to see what hypotheses fit the data and might be used to
+make predictions, and then test them. Indeed, it is worth remembering that
+the ultimatum game was invented precisely to test ideas about resisting unfair
+behavior.73</p>
+        <p>Or consider Kelman's claim that hindsight bias is not what it appears to
+be and the results may well reflect a form of rational Bayesian updating or
+normative judgments about liability schemes. 74 This is an intriguing claim
+that is difficult to evaluate without seeing the relevant experiments, but
+Kelman does not say anything to undermine the central empirical work on
+hindsight bias. Consider, for example, Baruch Fischhoff s early study, where
+people were asked to say how likely certain events were to happen during
+72. Id. at 1585 n.24.</p>
+        <p>73. See Werner GUth, Rolf Schmittberger &amp; Bemd Schwairze, An ExperimentalAnalysis
+ofUltimatum Bargaining,3 J. ECON. BEHAV. &amp; ORG. 367, 367-68 (1982). Giith, Schmittberger, and
+Schwarze, after defining the ultimatum game, proceeded to test people's behavior in the game. See
+id. at 373-77.</p>
+        <p>74. Kelman, supranote 4, at 1583-84.</p>
+        <p>HeinOnline -- 50 Stan. L. Rev. 1606 1997-1998
+Nixon's trip to China, and then asked to remember their earlier predictions.75
+Their remembered probabilities were higher for things that happened. This is
+surely a bias. Or consider the work by Colin Camerer and others on the
+"curse of knowledge," in which subjects who are told the actual earnings for a
+company are unable to give good estimates of what other subjects, who do not
+know the outcome, will predict.76 Of course there may be some studies that
+attribute some behavior to hindsight bias where some other interpretation is
+possible, or even plausible.</p>
+        <p>With respect to the equity premium puzzle, Kelman thinks that a
+surprisingly high equity premium gives people the profitable opportunity to sell
+bonds to unwitting investors and use the proceeds to buy stocks, making a
+killing.77 Although this critique is based on standard economic thinking, the
+analysis is flawed. The opportunity Kelman identifies is not a true arbitrage
+opportunity (meaning without risk); as we suggested in our article, there are
+costs to arbitrage in equity markets.78 Investment bankers could try what
+Kelman suggests, at their own risk, assuming they could convince investors
+that their bonds were risk-free (despite the risks the banks were taking on). If
+enough people could do this, then the equity premium might shrink. But this
+is precisely the kind of question that behavioral economists have been
+successfully addressing, namely, how do the forces of competition and
+arbitrageurs interact with quasi rational agents? 79</p>
+        <p>Kelman is right to emphasize the importance of sorting out possible
+alternative explanations and of understanding what kinds of effects are at work in
+different settings. Our basic point is that we have important empirical issues
+here, and no reason to think that we are left only with "interpretive tropes" or
+"dances." Dancing has its place, but in this context, people should stop
+dancing and get to work.</p>
+      </sec>
+      <sec id="sec-3-2">
+        <title>B. Incompleteness</title>
+        <p>Sounding a bit like Posner, Kelman also complains that behavioral
+economics is an incomplete theory.80 He objects, for example, that behavioral
+economics cannot predict the domain in which quasi rationality will be
+important; that we do not know when and how much people will sacrifice their
+material interest for the sake of fairness; that the relationship between
+legislative behavior and widely shared fairness norms is ambiguous; 81 that the use of
+the availability heuristic to explain environmental law leaves many gaps in
+understanding the demand for environmental regulation. Generally speaking,
+we agree. There is a lot of work to do. To be sure, we already have far more
+than "counterstories." Matthew Rabin, for example, has developed a model
+of fairness behavior, 82 and there is a good deal of empirical work (cited and
+discussed in our article) in this domain. The role of the availability heuristic
+in producing regulation has already received considerable attention (again,
+examples are cited in our article). This is not to say that all of Kelman's
+questions have been answered; as we have repeatedly said, we think there is a
+lot more to do.</p>
+        <p>Our discussion of the legal examples just mentioned, and the others in our
+article, was intended both as an effort to make new progress in behavioral law
+and economics, and, equally importantly, an effort to suggest directions for
+future research. One of our central points is that behavioral law and
+economics is "incomplete" at this extremely early stage. A great deal remains to be
+learned about the actual (as opposed to hypothesized) relationship between
+law and human behavior. We hope that Posner and Kelman, both occasional
+past practitioners of behavioral economics, will join the many people now
+engaged in that endeavor.</p>
+        <p>81. Kelman misunderstands us when he suggests that we believe that legislators "seek
+reelection above all." Kelnan, supra note 4, at 1590. We have only assumed this for purposes ofanalysis.
+82. Rabin, supranote 26.</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          23.
+          <string-name>
+            <surname>Id</surname>
+          </string-name>
+          .at 1559.
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          24.
+          <string-name>
+            <surname>Id</surname>
+          </string-name>
+          .at 1558.
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          25.
+          <string-name>
+            <surname>Id</surname>
+          </string-name>
+          .at 1559.
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          26. On bounded rationality, see Daniel Kahneman &amp; Amos
+          <string-name>
+            <surname>Tversky</surname>
+          </string-name>
+          ,
+          <source>Prospect Theory: An Analysis ofDecision UnderRisk, 47 ECONOMETRICA 263</source>
+          (
+          <year>1979</year>
+          ).
+          <article-title>On bounded willpower, see Laibson</article-title>
+          , supranote
+          <volume>20</volume>
+          ;
+          <string-name>
+            <surname>Ted O'Donahue &amp; Matthew Rabin</surname>
+          </string-name>
+          , DoingIt Now orLater (Berkeley Department of Economics Working Paper No.
+          <fpage>97</fpage>
+          -
+          <lpage>253</lpage>
+          , Jan.
+          <year>1997</year>
+          ); Richard H. Thaler &amp;
+          <string-name>
+            <surname>H.M. Shefrin</surname>
+          </string-name>
+          ,
+          <source>An Economic Theory ofSelf-Control, 89 J. POL. ECON</source>
+          .
+          <volume>392</volume>
+          (
+          <year>1981</year>
+          ).
+          <article-title>(The last two are not cited in our original article</article-title>
+          .)
+          <article-title>On bounded self-interest, see Matthew Rabin</article-title>
+          ,
+          <source>IncorporatingFairnessinto Game Theory and Economics</source>
+          ,
+          <source>83 AM. ECON. REV</source>
+          .
+          <volume>1281</volume>
+          (
+          <year>1993</year>
+          ).
+          <article-title>New theoretical work is even emerging that uses psychology to explain the anomalous behavior of stock prices</article-title>
+          . See Nicholas Barberis,
+          <string-name>
+            <given-names>Andrei</given-names>
+            <surname>Shleifer</surname>
+          </string-name>
+          &amp; Robert
+          <string-name>
+            <surname>Vishny</surname>
+          </string-name>
+          ,
+          <source>A Model of Investor Sentiment, 49 J. FIN. ECON. (forthcoming Sept</source>
+          .
+          <year>1998</year>
+          ); Kent Daniel, David Hirshleifer &amp;
+          <article-title>Avanidhar Subrahmanyam, InvestorPsychology and Securit' Market Under-</article-title>
+          and
+          <string-name>
+            <surname>Over-reactions</surname>
+          </string-name>
+          ,
+          <source>J. FIN</source>
+          . (forthcoming
+          <year>1998</year>
+          )
+          <article-title>(manuscript</article-title>
+          available at &lt;http://www.cob.ohio-state.edu/dept/fm/joumallabstract.htm#futurearticles&gt;).
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>HeinOnline -- 50 Stan</surname>
+          </string-name>
+          . L. Rev.
+          <volume>1597</volume>
+          <fpage>1997</fpage>
+          -
+          <lpage>1998</lpage>
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          51.
+          <string-name>
+            <surname>Id</surname>
+          </string-name>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          52. See Schlomo Benartzi &amp;
+          <string-name>
+            <surname>Richard H. Thaler</surname>
+          </string-name>
+          ,
+          <source>Risk Aversion or Myopia? Choices in Repeated Gambles and Retirement Investments (Nov. 8</source>
+          ,
+          <year>1997</year>
+          )
+          <article-title>(unpublished manuscript, on file with the Stanford Law Review); Colin Camerer</article-title>
+          , Linda Babcock, George Loewenstein &amp; Richard Thaler, LaborSupply ofNew York City Cabdrivers:
+          <source>One Day at a Time</source>
+          ,
+          <volume>112</volume>
+          Q.J. ECON.
+          <volume>407</volume>
+          (
+          <year>1997</year>
+          );
+          <article-title>Jeremy J</article-title>
+          . Siegel &amp;
+          <string-name>
+            <surname>Richard H. Thaler</surname>
+          </string-name>
+          ,
+          <source>Anomalies: The Equity Premium Puzzle</source>
+          ,
+          <volume>11</volume>
+          J. ECON. PERSP.,
+          <source>Winter</source>
+          <year>1997</year>
+          , at 191.
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          53.
+          <string-name>
+            <surname>Linda</surname>
+            <given-names>Babcock</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <given-names>Xianghong</given-names>
+            <surname>Wang</surname>
+          </string-name>
+          &amp; George
+          <string-name>
+            <surname>Loewenstein</surname>
+          </string-name>
+          , Choosingthe Wrong Pond:
+          <article-title>Social Comparisonsin NegotiationthatReflect a Self-Serving Bias, 111 Q</article-title>
+          .J. ECON.
+          <volume>1</volume>
+          (
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          54.
+          <string-name>
+            <surname>Posner</surname>
+          </string-name>
+          , supranote 1, at 1573.
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          55.
+          <string-name>
+            <surname>Babcock</surname>
+          </string-name>
+          et al.,
+          <source>supranote 53</source>
+          , at 17-18.
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          56.
+          <string-name>
+            <surname>Posner</surname>
+          </string-name>
+          , supranote 1, at 1572.
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          57.
+          <string-name>
+            <surname>Id</surname>
+          </string-name>
+          . at 1571-72.
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          75.
+          <string-name>
+            <surname>Baruch</surname>
+            <given-names>Fischhoff</given-names>
+          </string-name>
+          , Hindsight --
+          <source>Foresight:The Effect ofOutcome Knowledge on Judgment Under Uncertainty, I J. EXPERIMENTAL PSYCHOL</source>
+          .
+          <source>HUM. PERCEPTION &amp; PERFORMANCE</source>
+          <volume>288</volume>
+          ,
+          <issue>297</issue>
+          (
+          <year>1975</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          76.
+          <string-name>
+            <surname>Colin</surname>
+            <given-names>Camerer</given-names>
+          </string-name>
+          , George Loewenstein &amp; Martin
+          <string-name>
+            <surname>Weber</surname>
+          </string-name>
+          ,
+          <source>The Curse ofKnowledge in Economic Settings:An EtperimentalAnalysis</source>
+          ,
+          <volume>97</volume>
+          J. POL. ECON.
+          <volume>1232</volume>
+          (
+          <year>1989</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          77.
+          <string-name>
+            <surname>Kelman</surname>
+          </string-name>
+          , supranote 4, at 1586-87.
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          78. JST, supranote
+          <volume>10</volume>
+          , at 1485.
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          79. See Jeffrey Pontiff, Costly Arbitrage: Evidencefrom
+          <string-name>
+            <surname>Closed-End</surname>
+            <given-names>Funds</given-names>
+          </string-name>
+          ,
+          <volume>111</volume>
+          Q.J. ECON.
+          <volume>1135</volume>
+          (
+          <year>1996</year>
+          ); Thomas Russell &amp;
+          <string-name>
+            <surname>Richard H. Thaler</surname>
+          </string-name>
+          ,
+          <article-title>The Relevance of Quasi RationalBehavior in Competitive Markets</article-title>
+          , in RICHARD H. THALER,
+          <source>QUASI RATIONAL ECONOMICS 239</source>
+          (
+          <year>1991</year>
+          ); Andrei Shleifer &amp;
+          <string-name>
+            <surname>Robert W. Vishny</surname>
+          </string-name>
+          , The Limits ofArbitrage,
+          <volume>52</volume>
+          J. FIN.
+          <volume>35</volume>
+          (
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          80.
+          <string-name>
+            <surname>Kelman</surname>
+          </string-name>
+          , supra note 4, at 1580,
+          <fpage>1586</fpage>
+          -
+          <lpage>90</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <surname>HeinOnline -- 50 Stan</surname>
+          </string-name>
+          . L. Rev.
+          <volume>1607</volume>
+          <fpage>1997</fpage>
+          -
+          <lpage>1998</lpage>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+

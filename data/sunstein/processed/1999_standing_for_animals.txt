@@ -1,0 +1,1724 @@
+Public Law and Legal Theory Working Papers
+
+Working Papers
+
+University of Chicago Law School
+Chicago Unbound
+
+1999
+
+Standing for Animals
+Cass R. Sunstein
+
+Follow this and additional works at: https://chicagounbound.uchicago.edu/
+public_law_and_legal_theory
+
+Part of the Law Commons
+
+Chicago Unbound includes both works in progress and final versions of articles. Please be aware that
+a more recent version of this article may be available on Chicago Unbound, SSRN or elsewhere.
+
+Recommended Citation
+Cass R. Sunstein, "Standing for Animals" (University of Chicago Public Law & Legal Theory Working Paper No. 6, 1999).
+
+This Working Paper is brought to you for free and open access by the Working Papers at Chicago Unbound. It has been accepted for inclusion in Public
+Law and Legal Theory Working Papers by an authorized administrator of Chicago Unbound. For more information, please contact
+unbound@law.uchicago.edu.
+
+CHICAGO
+
+PUBLIC LAW AND LEGAL THEORY WORKING PAPER NO. 06
+
+Standing  for  Animals
+
+Cass R. Sunstein
+
+THE  LAW  SCHOOL
+THE  UNIVERSITY  OF  CHICAGO
+
+This paper can be downloaded without charge at:
+
+The Social Science Research Network Electronic Paper Collection:
+http://papers.ssrn.com/paper.taf?abstract_id=196212
+
+Standing for Animals
+
+Cass R. Sunstein*
+
+In  the  last  decades,  the  protection  of  animals  has  become  a
+pervasive goal of federal statutory law. Indeed, Congress has enacted
+more  than  fifty  statutes  designed  to  protect  the  well-being  of
+animals.1
+
+Of  these  the  most  prominent  is  the  Animal  Welfare  Act
+(AWA),2 which contains a wide range of safeguards against cruelty
+and mistreatment, and which creates an incipient bill of rights for
+animals.3  If  vigorously  enforced,  the  AWA,  alongside  other
+enactments,  would  prevent  a  wide  range  of  abusive  practices.  As
+often, however, there is a large gap between statutory text and real-
+world  implementation.  Many  people  have  criticized  the  national
+government’s enforcement efforts under these statutes, contending
+that the executive branch has violated the law by issuing weak and
+inadequate regulations, making the relevant statutes symbolic rather
+than real.4 These complaints raise a central and largely unexplored
+question,5 one that will inevitably increase in prominence over time:
+Under  what  circumstances  will  standing  be  available  for  those,
+
+                              
+                 
+* Karl N. Llewellyn Distinguished Service Professor, Law School and Department
+of  Political  Science,  University  of  Chicago.  I  am  grateful  to  Brooke  May  for
+superb  research  assistance,  to  Jill  Hasday  and  Adrian  Vermeule  for  valuable
+comments, and to Martha Nussbaum for helpful discussions.
+1  For  an  already  dated  overview,  see  Henry  Cohen,  Federal  Animal  Protection
+Statutes, 1 Animal Law 143 (1995). Of course human beings are animals too, and
+there  is  an  oddity,  and  perhaps  a  pernicious  one,  in  the  linguistic  convention  of
+distinguishing  between  human  beings  and  animals.  See  James  Rachels, Created
+From Animals (1990). For simplicity I use the convention at several points here.
+2 7 USC 2131 et seq,
+3 See 7 USC 2131 et seq. I use the word “incipient” because many qualifications
+are necessary to the view that the AWA creates a genuine animals’ bill of rights.
+See  Gary  Francione,  Animals,  Property,  and  the  Law  185-248  (1995),  for  an
+extended and highly critical discussion.
+4  See,  e.g.,  Animal  Legal  Defense  Fund  v.  Espy,  23  F.3d  496  (DC  Cir  1994);
+Animal Legal Defense Fund, Inc. v. Glickman, 154 F.3d 426 (DC Cir 1998).
+5 Valuable discussion can be found in Francione, supra note, at 65-89.
+
+Chicago Public Law and Legal Theory Working Paper
+
+2
+
+human  and  non-human,  who  seek  to  challenge  unlawful
+mistreatment of animals?6
+
+Current  doctrine  is  exceptionally  confusing  on  this  question.7
+One of my chief goals here is to dispel some of the confusion, in a
+way that, I hope, will illuminate the law of standing and the question
+of “animal rights” as a whole. My principal conclusion is that human
+beings, invoking their own injuries as a predicate for the action, are
+entitled  to  sue  to  protect  the  interests  of  animals  in  a  variety  of
+settings.  More  particularly,  three  categories  of  persons—those
+deprived  of  legally  required  information,  those  facing  “aesthetic”
+injury, and those suffering competitively—have standing to protect
+the legal interests of animals.
+
+This conclusion is part of a more general one: the question of
+standing  is  mostly  for  legislative  resolution,  and  both  people  and
+animals have standing to protect animals to the extent that Congress
+has said that they have standing. Under existing law, this means (in
+my  view  unfortunately)  that  animals  lack  standing  to  sue  in  their
+own right, for Congress has restricted standing to “persons.” But it
+also  means  that  Congress  can  accord  standing  to  animals  if  it
+chooses to do so.
+
+As  we  will  see,  these  conclusions  about  animal  and  human
+standing raise a number of questions about existing law and suggests
+some promising directions for rethinking it, not only in the context
+of standing to protect animals but more generally. In the process of
+discussing  the  standing  question,  I  also  offer  a  few  notes  on  the
+much-debated  topic  of  animal  rights.8  My  plea  here  is  for
+disaggregation. From the legal point of view, there is nothing at all
+                              
+                 
+6 A famous article urged that standing should be accorded to non-human objects.
+See  Christopher  Stone,  Should  Trees  Have  Standing?,  45  S.  Cal.  L.  Rev.  450
+(1972). The principal difference between that article and this one has to do with
+the  conception  of  the  law  of  standing.  In  my  view,  the  standing  question  is  for
+legislative resolution. The claim that people have standing to protect the rights of
+animals,  and  that  animals  may  be  given  standing  to  have  suit  brought  on  their
+behalf in their own name, is a claim about the nature of legislative power.
+7 See, e.g., Animal Legal Defense Fund v. Glickman, 154 F.2 426 (DC Cir. 1998)
+(7-4 division on en banc court); Japan Whaling Association v. American Cetacean
+Society, 478 US 221 (1986).
+8 See Peter Singer, Animal Liberation (1976); Gary Francione, Animals, Property,
+and the Law (1995).
+
+3
+
+Standing for Animals
+
+new or unfamiliar in the idea of “animal rights”; on the contrary, it is
+entirely clear that animals have legal rights, at least of a certain kind.9
+An investigation of the question of standing helps show that the real
+issues  involve  problems  of  enforcement  and  scope.  Much
+illumination  can  be  gained  by  dividing  the  question  of  “animal
+rights” into its component parts. For those who believe (as I do) that
+any general attack on the notion of “animal rights” is implausible,10
+and who notice that a growing commitment to animal welfare is an
+unmistakable  part  of  modern  public  law,  the  strategy  of
+disaggregation  seems  best  suited  toward  producing  both  analytical
+clarity  and  future  progress.  To  this  end  I  offer  a  recommendation
+that is modest but that would do considerable good; animal welfare
+statutes should be amended to grant a private cause of action against
+those  who  violate  them,  so  as  to  allow  private  claimants  to
+supplement agency enforcement efforts.
+
+I. Animal Rights in Action
+
+Without much fanfare or advance foresight, American law has
+come to recognize a wide array of protections for animals.11 Indeed,
+it  would  not  be  too  much  to  say  that  federal  and  state  law  now
+guarantee a set of “animal rights.”12 Some people believe that while
+
+                              
+                 
+9  Thus  there  is  disagreement  here  with  the  sharp  distinction  drawn  in  Gary
+Francione,  Animals,  Property,  and  the  Law  (1998),  between  “animal  rights”  and
+“animal  welfare.”  Statutes  protecting  animal  welfare  protect  a  form  of  animal
+rights,  and  there  is  nothing  in  the  notion  of  “rights”  or  “welfare”  that  calls  for
+much, or little, protection of the relevant interests. Rights can be defeasible, and
+an  interest  in  “welfare”  may  create  a  strong  presumption. Francione convincingly
+shows,  however,  that  the  interests  of  animals  are  given  remarkably  and
+indefensibly little weight under many state and federal laws.
+10  See  James  Rachels,  Created  From  Animals:The  Moral  Implications  of
+Darwinism (1990), for general discussion.
+11  Remarkably  little  academic  attention  has  been  given  to  this  development.
+Relevant  discussion  can  be  found  in  Dichter,  Legal  Definitions  of  Cruelty  and
+Animal  Rights,  7  BC  Envtl.  Aff.  L.  Rev.  147  (1978);  Susan  Godkin,  The
+Evolution of Animal Rights, 18 Colum. Human Rights L. Rev. 259 (1987).
+12 American law thus rejects Kant’s view that animals are mere things and that any
+duties owed to them really involve duties owed to people. “But  so  far  as  animals
+are concerned we have no direct duties. Animals . . . are there merely as means to
+an end. That end is man.” The reason to avoid cruelty to animals is that “He who
+
+                 
+                              
+
+Chicago Public Law and Legal Theory Working Paper
+
+4
+
+animals  lack  rights,  human  beings  have  duties  to  them.13  It  is  not
+clear what turns on this distinction, a point to which I will return.
+But it is clear that as a matter of positive law, animals have rights in
+the same sense that people have rights, at least under those statutes
+that are enforceable only by public officials.14
+
+A. State Law: Cruelty, Expansively Construed
+
+The  common  law  contained  a  good  deal  of  uncertainty  about
+cruelty to animals. Courts generally suggested that such cruelty was
+not unlawful unless it worked an injury to the owner, who was the
+
+                              
+
+                              
+is cruel to animals becomes hard also in his dealings with man.” Immanuel Kant,
+Lectures on Ethics 239-40.
+13 Thus Kant believed that “indirect duties” were due to animals only for the sake
+of  human  beings;  see  id.  See  also  John  Rawls,  A  Theory  of  Justice  512  (1971),
+suggesting,  in  a  qualified  way,  that  animals  are  not  due  justice  but  are  due
+consideration: “While I have no maintained that the capacity for a sense of justice
+is necessary in order to be owed the duties of justice, it does seem that we are not
+required to give strict justice anyway to creatures lacking this capacity. But it does
+not follow that there are no requirements at all in regard to them . . . Certainly it is
+wrong to be cruel to animals and the destruction of a whole species can be a great
+evil.  The  capacity  for  feelings  for  pleasure  and  pain  and  for  the  forms  of  life  of
+which  animals  are  capable  clearly  impose  duties  of  compassion  and  humanity  in
+their case. I shall not attempt to explain these considered beliefs. They are outside
+the scope of the theory of justice . . . .” This is a brief passage, almost an aside, and
+it  is  not  clear  what  Rawls  means  by  “strict  justice.”  An  obvious  problem  is  why
+“the” theory of justice should find the question of fairness to animals outside of its
+scope.  See  also  the  emphasis  on  “moral  persons,”  with  among  other  things  an
+ability to have a sense of justice, as those to whom “equal justice” is owed, id. at
+505, a suggestion that raises obvious problems for, eg, the mentally retarded. My
+suspicion,  though  I  cannot  establish  the  point  here,  is  that  the  evident  problems
+with  entirely  excluding  animals  from  the  topic  of  justice  raises  difficulties  for
+contractarian theories in general.
+14 This is true, for example, of many criminal and regulatory statutes that do not
+create private rights of action. Of course the words “at least” are important; duties
+created  by  the  criminal  law  are  generally  accompanied  by  parallel  common  law
+rights, so that people ordinarily have rights to protect themselves in the event that
+the prosecutor fails to act. But this is not always the case; under the Federal Trade
+Commission Act, to take one of many examples, there is no private right o action.
+It is important here to avoid purely semantic disagreements; the only point is that
+animals  have  rights  in  the  same  sense  that  people  have  many  rights  that  they
+cannot enforce on their own.
+
+5
+
+Standing for Animals
+
+essential rights holder15; but they sometimes concluded that cruelty
+could count as a common law misdemeanor.16 The common law has
+of  course  been  superseded  by  state  statutes,  and  every  state  now
+purports  to  provide  significant  safeguards  against  cruelty  or
+mistreatment of animals. Hence it is now said, in many jurisdictions,
+that “animals have rights, which, like those of human beings, are to
+be  protected.”17  The  relevant  provisions  are  broadly  phrased  and
+seem  to  offer  significant  safeguards;  but  in  practice,  enforcement
+activity is sporadic and unreliable.18
+
+What  is  perhaps  most  striking  is  that  the  relevant  statutes  go
+well beyond beating, injuring, and the like, and impose affirmative
+duties on people with animals in their care. Omissions may count as
+cruelty;  so  too  for  overworking  or  underfeeding  animals,  or  for
+depriving  them  of  adequate  protection.19  Owners  must  offer
+adequate  sustenance  and  shelter.20  As  a  matter  of  statutory  text,
+defenses and excuses are quite limited. Protection of life or property
+is  a  defense  against  a  charge  of  unlawful  killing  of  an  animal,  but
+there must be a reasonable proportion between the danger presented
+and the action taken21; and anger, intoxication, and impulse provide
+neither defense nor excuse.22
+
+New York contains a representative set of provisions. Anyone
+who  has  impounded  or  confined  an  animal  is  obliged  to  provide
+good air, water, shelter, and food.23 Criminal penalties are imposed
+on anyone who transports an animal in a cruel or inhuman manner,
+                 
+                              
+15 Allen v. Commonwealth, 77 Pa. Super. 244 (1921); McCausland v. People, 145
+P 685 (1914); Waters v. People, 46 P 112 (1896).
+16 Stage Horse Cases, 15 Abb Pr. N.S. 51; Ross’s Case, 3 City Hall Rec. 191.
+17 State v. Karstendiek, 22 So 845 (1897); Hodge v. State,79 Tenn. 528 (1883).
+18 See Francione, supra, at 119-133.
+19 See 3A Corpus Juris Secondum 101, p. 586.
+20 State v, Gorsoeclose, 171 P2d 863, 67 Idaho 71(1946); Ames v. Ohio, 11 Ohio
+NPNS 385; State v. Goodall, 175 P 857; 90 Or. 485.
+21 See Grizzle v. State, 707 P2d 1210 (1985); Rushin v., State, 267 SE2d 473 (Ct.
+App. Ga. 1980); State v. Libby, 556 A.2d 1099 (1989). On the relation between
+statutes  preventing  cruelty  to  animals  and  medical  or  scientific  experimentation,
+see 42 ALR4th 860.
+22 3A Corpus Juris Secundum 106, pp. 590-91.
+23 NY Agri & Mkts 356.
+
+Chicago Public Law and Legal Theory Working Paper
+
+6
+
+or in such a way as to subject it to torture or suffering, conditions
+that  can  come  about  through  neglect.24  People  who  transport  an
+animal on railroads or cars are required to allow the animal out for
+rest, feeding, and water every five hours.25  Those  who  abandon  an
+animal,  including  a  pet,  face  criminal  penalties.26  A  separate
+provision forbids people from torturing, beating, maiming, or killing
+any animal, and also requires people to provide adequate food and
+drink.27  Indeed  it  is  generally  a  crime  not  to  provide  necessary
+sustenance,  food,  water,  shelter,  and  protection  from  severe
+weather.28  New  York,  like  most  states,  forbids  overworking  an
+animal, or using it for work when it is not physically fit.29 Compare
+in  this  regard  the  unusually  protective  California  statute,  which
+imposes  criminal  liability  on  negligent  as  well  as  intentional
+overworking,  overdriving,  or  torturing  of  animals.30  “Torture”  is
+defined not in its ordinary language sense, but to include any act or
+omission  “whereby  unnecessary  or  unjustified  physical  pain  or
+suffering is caused or permitted.”31
+
+There are three noteworthy points about state prohibitions on
+cruelty to animals. First, enforcement can occur only through public
+prosecution;  the  state  has  a  monopoly  on  implementation.32  The
+point is important because prosecution occurs only in a subset of the
+most egregious cases; there is a great deal of difference between what
+these  statutes  ban  and  what  in  practice  is  permitted  to  occur.33
+                              
+                 
+24 NY Agri & Mkts 379a.
+25 NY Agri & Mkts 359.
+26 NY Agri & Mkts 355.
+27 NY Agri & Mkts 353.
+28 See Griffth v. State, 43 SE 251 (1903); Commonwealth v. Lufkin, 7 Allen 579;
+State  v.  Groseclose,  171  P2d  863  (1946);  Reynolds  v.  State,  569  NE2d  680
+(1991).
+29  See  Commonwealth  v.  Wood,  111  Mass  408  (1873);  State  v.  Goodall,  175  P
+857; State v. Prince, 94 A 966.
+30 Cal. Penal Code 597b.
+31 Cal Penal Code 599b.
+32 The only exception is that animal owners also have actions in property or tort to
+recover  the  monetary  equivalent  of  damage  done  to  all  objects  within  their
+possession, including animals.
+33 See Francione, supra note.
+
+7
+
+Standing for Animals
+
+Private  enforcement  would  obviously  make  a  great  deal  of
+difference.34 Second, duties to animals, and the correlative rights of
+animals, exist largely by virtue of a particular relationship voluntarily
+assumed by human beings—that of owner, transporter, driver, and
+so  forth.  There  are  no  obligations  of  good  samaritanship,  for
+example,  or  of  affirmative  obligations  to  animals  not  within  one’s
+domain or care. In these ways the network of duties to animals tracks
+the  corresponding  network  for  duties  to  human  beings,  many  of
+which  are  enforced  publicly  rather  than  privately,  and  which
+generally do not include obligations of good samaritanship. Third,
+state law protections do not apply to the use of animals for medical
+or scientific purposes, or for use as food, or for cruelty in connection
+with  the  production  of  animals  as  food;  here  cruel  and  abusive
+practices are generally unregulated at the state level.35
+
+It would be an overstatement to say that the relevant provisions
+are  entirely  symbolic.  But  because  they  are  vulnerable  to
+prosecutorial  decisions,  and  because  few  prosecutors  have  them  a
+high  priority,  they  have  a  largely  expressive  dimension.  They  say
+much more than they do. They express an aspiration, but one that is
+routinely violated in practice, and violated without reprisal.
+
+B. Federal Law: Species, Mammals, Horses, Others
+
+In  the  last  several  decades,  a  remarkable  number  of  federal
+statutes  have  been  enacted  to  protect  species,  animals,  and  animal
+welfare. Over fifty such statutes are now in place, and the number is
+growing.36  The  most  famous  of  these  statutes  is  the  Endangered
+Species Act,37 designed to protect against extinction of threatened or
+endangered  species,  enforced  publicly  rather  than  privately,  and
+raising  a  number  of  knotty  standing  problems.38  A  great  deal  of
+
+                              
+                 
+34  This  is  an  evident  motivation  for  the  recommendation  in  Steven  M.  Wise,
+Recovery of Common Law Damages for Emotional Distress, Loss of Society, and
+Loss  of  Companionship  for  the  Wrongful  Death  of  A  Companion  Animal,  4
+Animal Law 33 (1998).
+35 See Francione, supra note.
+36 See Cohen, supra note.
+37 16 USC 1531
+38 See Lujan v. Defenders of Wildlife, 504 US 555 (1992).
+
+Chicago Public Law and Legal Theory Working Paper
+
+8
+
+litigation  has  involved  the  meaning  of  the  Marine  Mammal
+Protection  Act,39  which  imposes  a  selective  moratorium  on  the
+taking  and  importation  of  marine  mammals  and  marine  mammal
+products.40 A particular provision outlaws commercial whaling.41  It
+also  requires  the  Secretary  of  the  Interior  to  issue  regulations  to
+protect marine mammals from unlawful activity.42
+
+Federal law contains a number of more specialized provisions.
+An important statute is specifically designed to protect horses from
+cruel  treatment  and  in  particular  from  the  exploitation  of  injured
+horses.43 The key statute involving game parks provides, “no person
+shall  kill  any  game  in  said  park  except  under  an  order  from  the
+Secretary of the Interior for the protection of persons or to protect or
+prevent  the  extermination  of  other  animals  or  birds."44  Another
+statute  is  designed  to  protect  migratory  bird  habitat  and  also  to
+protect habitat for mammals, including bears, moose, and wolves.45
+Federal  law  imposes  a  moratorium  on  the  importation  of  raw  and
+worked ivory, as a way of helping to protect the African elephant.46
+It  is  a  federal  crime  to  shoot  birds,  fish,  or  mammals  from  an
+aircraft, or to use an aircraft to harass birds, fish, or animals.47 It is
+also a federal crime to kill or harass wild horses or burros48  and  to
+possess,  sell,  buy,  or  transport  any  bald  or  golden  eagle,  alive  or
+dead.49  The  Secretary  of  Agriculture  is  charged  with  ensuring  that
+slaughtering of animals must be “humane,” and Congress lists two
+methods that are designed to ensure “rapid and effective” killing.50
+
+                              
+                 
+39 16 USC 1372(a)(2)(A).
+40 16 USC 1371 et seq,
+41 16 USC 1372(f).
+42 16 USC 1373
+43 15 USC 1822. See Thornton v. U.S. Dept. of Agriculture, C.A.11 1983,
+44 16 U.S.C.A. 352
+45 16 USC 676.
+46 16 USC 4201 et seq.
+47 18 USC 742j-1.
+48 16 USC 1331 et seq.
+49 16 USC 668 et seq.
+50 7 USC 1901 et seq.
+
+9
+
+Standing for Animals
+
+C. A Federal Bill of Rights for Animals (?)
+
+In  terms  of  animal  protection,  however,  by  far  the  most
+important measure is the Animal Welfare Act, which imposes, on
+those  who  deal  in  or  with  animals,  a  wide  range  of  negative
+constraints  and  affirmative  duties.51  The  Act  begins  with  an
+elaborate statement of purposes, emphasizing the need for “humane
+care  and  treatment”  in  exhibition  of  animals,  transportation  of
+animals,  and  “use”  of  animals  “as  pets.”52  There  is  a  flat  ban  on
+commercial  ventures  in  which  animals  are  supposed  to  fight.53
+Licenses are required for all those who sell animals for exhibition or
+for  “use”  as  a  pet.54  The  Secretary  is  also  asked  to  issue  “humane
+standards”  with  respect  to  “the  purchase,  handling,  or  sale  of
+animals”  by  “dealers,  research  facilities,  and  exhibitors  at  auction
+sales.”55
+
+The key provision of the statute requires the Secretary to issue
+“standards  to  govern  the  humane  handling,  care,  treatment,  and
+transportation  of  animals  by  dealers,  research  facilities,  and
+exhibitors.”56  These  are  supposed  to 
+include  “minimum
+requirements”  governing  “handling,  housing,  feeding,  watering,
+sanitation,  ventilation,  shelter  from  extremes  of  weather  and
+temperatures,  adequate  veterinary  care.”57  A  separate  provision
+requires minimum requirements for “exercise of dogs”58  and  “for  a
+physical environment adequate to promote the psychological well-
+being of primates.”59 Animals in research facilities must be protected
+in  addition  through  requirements  “to  ensure  that  animal  pain  and
+distress are minimized.”60 In “any practice which could cause pain to
+                              
+                 
+51 7 USC 2131 et seq,
+52 Id. at 2131.
+53 7 USC 2156.
+54 7 USC 2134.
+55 7 USC 2142,
+56 7 USC 2143.
+57 7 USC 2143(a)(2)(A).
+58  See  Animal  Legal  Defense  Fund  v.  Secretary  of  Agriculture,  813  F Supp  882
+(DDCC 1993), vacated, 29 F.3d 720 (DC Cir 1993).
+59 7 USC 2143(a)(2)(B).
+60 Lesser v Espy, 34 F.3d 1301 (7th Cir. 1994).
+
+Chicago Public Law and Legal Theory Working Paper
+
+10
+
+animals,”  a  veterinarian  must  be  consulted  in  planning,  and
+tranquilizers,  analgesics,  and  anesthetics  must  be  used.61  An
+independent  provision  requires  compliance  by  the  national
+government with the Secretary’s standards.62  Breeders  of  dogs  and
+cats must allow inspections and may not transport underage dogs.63
+The Act also contains a set of recordkeeping requirements, designed
+to  ensure  that  dealers,  exhibitors,  research  facilities,  and  handlers
+provide  records,  evidently  designed  to  allow  federal  monitoring  of
+the treatment of animals.64
+
+Most state statutes do some of the work of the Animal Welfare
+Act  by  forbidding  cruelty  and  requiring  adequate  nutrition  and
+shelter.  But  the  Act  goes  beyond  state  law  by  imposing  a  federal
+presence and also by imposing numerous requirements not contained
+in  state  law.  These  include  requirements  of  exercise  for  dogs,
+minimizing pain and distress to animals used in research, adequate
+veterinary care in general, recordkeeping, and a physical environment
+that will promote the psychological well-being of primates.
+
+By  virtue  of  its  scope,  the  Animal  Welfare  Act  promises  an
+ambitious set of safeguards against cruel or injurious practices; taken
+together with other federal statutes, above all the Marine Mammal
+Protection  Act,  it  suggests  that  national  law  is  committed  to
+something not very different from a bill of rights for animals.65 But
+here  too  there  is  a  question  whether  statutory  law  is  not  largely
+expressive and symbolic, a statement of good intentions, delivering
+far  more  on  paper  than  in  the  world.66  Many  people  have
+complained  that  these  statutes  have  been  indifferently  or  even
+unlawfully enforced, not least via regulations that do far less than the
+statute  requires.67  The  Departure  of  Agriculture  has  hardly  been
+eager  to  enforce  the  AWA,  and  neither  citizens  nor  animals  have
+
+                              
+                 
+61 7 USC 2143(a)(3)(C)(i); 7 USC 2143(a)(3)(C)(ii)
+62 7 USC 2143.
+63 Cox v. US Dept of Agriculture, 925 F.2d 1102 (8th Cir. 1991).
+64 7 USC 2140; 7 USC 2142.
+65 A notable exception involves animals raised for use as food or clothing.
+66 See Francione, supra, at 185-248.
+67  See,  e.g.,  Animal  Legal  Defense  Fund  v.  Espy,23  F.3d  496  (DC  Cir  1994);
+Animal Legal Defense Fund, Inc. v. Glickman, 154 F.3d 426 (DC Cir 1998).
+
+11
+
+Standing for Animals
+
+been  given  an  express  cause  of  action  against  facilities  that  are  in
+violation.68  An  important  question  therefore  becomes:  Who  has
+standing  to  bring  suit  to  require  compliance  with  law  governing
+animal welfare?
+
+II. Standing:
+Human Beings, Human Rights, and Animal Welfare
+
+Under  current  doctrine,  Article  III  is  understood  to  require
+plaintiffs  to  show:  (1)  an  injury  in  fact  that  (2)  is  a  result  of  the
+action of the defendant and that (3) would be redressed by a decree
+on the plaintiff’s behalf.69 There are also “prudential” requirements,
+that  is,  standing  rules  that  can  be  eliminated  if  Congress  does  so
+expressly. The most important of these require (1) that the injury be
+“arguably within the zone of interests” protected or regulated by the
+statute in action70 and (2) that the injury not be widely generalized,
+that is, it must not be shared by all or most citizens.71 Under what
+circumstances do these requirements permit or bar an action brought
+to  prevent  unlawful  injury  done  to  an  animal?  The  most  general
+question  is  when  human  beings  may  invoke  their  own  “injuries  in
+fact” to challenge harms done to animals. I suggest here that three
+kinds of injuries are relevant: deprivation of information, competitive
+injury, and aesthetic harm. My major interest here is in unpacking
+the implications of current standing doctrine in this unusual context;
+I deal below with further complexities.
+
+                              
+                 
+68 See IPPL v. IBR, 799 F.2d 934 (4th Cir 1986).
+69  See,  e.g.,  Lujan  v.  Defenders  of  Wildlife,  504  US  555  (1992);  FEC  v. Akins,
+118 S Ct 1777 (1998).
+70 See Clarke v. SIA, 479 US 388 (1987); Data Processing v. Camp, 397 US 150
+(1970);  National  Credit  Union  Admin.  v.  First  National  Bank  118  S  Ct  927
+(1998).
+71 See FEC v. Akins, 118 S Ct 1777 (1998). There the Court held that Congress
+could give standing to “any person” to require disclosure of information about an
+alleged “political committee.”
+
+Chicago Public Law and Legal Theory Working Paper
+
+12
+
+A. Existing Law: Informational Standing
+
+It is now established that Congress can confer on citizens—even
+on  citizens  as  a  whole—a  right  to  obtain  information.72  It  is  also
+established  that  Congress  can  give  citizens—even  all  citizens—a
+right to bring suit to vindicate that interest.73 If Congress says that
+people  have  a  right  to  information  of  a  certain  kind,  and  if  that
+information  is  denied,  Congress  is  permitted  to  say  that  the
+deprivation of information counts as an “injury in fact” for which suit
+may be brought.
+
+These points suggest the first route by which people might have
+standing to protect the rights of animals. Suppose, for example, that
+a statute obliges laboratories and zoos to provide to the government,
+or  even  the  public  at  large,  information  about  their  treatment  of
+animals  within  their  care.  Suppose  that  it  is  urged  that  under  the
+government’s legally insufficient regulations, far less information is
+forthcoming  than  would  be  available  under  a  legally  sufficient
+regulation.  If  Congress  has  granted  standing  to  “any  person”  to
+contest  violations  of  this  duty  of  disclosure,  there  should  be  no
+constitutional obstacle to the suit; The deprivation of the requisite
+information counts as the “injury in fact.”
+
+The  “if”  in  the  preceding  sentence  is  an  extremely  important
+qualification,  for  Congress  has  not  given  citizens  standing  to  seek
+information  that  bears  on  animal  welfare.74  Neither  the  Animal
+Welfare Act nor the Marine Mammal Protection Act contains any
+such grant. When Congress has not spoken clearly, plaintiffs must
+therefore rely on the Administrative Procedure Act, which requires
+them to show as well (a) that their injury is arguably within the zone
+of interests protected or regulated by the statute and (b) that their
+injury is not too “widely generalized.” Thus, for example, if a citizen
+is unable to distinguish himself from any other citizen complains of
+                              
+                 
+72  See  FEC  v. Akins, 118 S  Ct 1777 (1998). For general discussion, see Cass R.
+Sunstein,  Informational  Standing  and  Informational  Regulation:  Akins  and
+Beyond, 147 U Pa L Rev 613 (1999).
+73 Id.
+74 The only exception is the Endangered Species Act, which does give standing to
+“any  person,”  but  not  to  receive  information.  Of  course  the  opportunity  to  see  a
+member of an endangered species may provide information, but that is a different
+matter. See Lujan v. Defenders of Wildlife, supra.
+
+13
+
+Standing for Animals
+
+unlawful deprivation of information involving treatment of animals,
+his  injury  will  probably  be  held  too  widely  generalized  to  be
+cognizable.75  And  in  some  cases,  the  plaintiffs’  interests  might  be
+deemed too far afield of the interests protected or regulated by the
+statute.
+
+Consider  in  the  latter  regard  Animal  Legal  Defense  Fund  v.
+Espy.76  There  the  Animal  Legal  Defense  Fund  and  the  Humane
+Society of the United States challenged what they saw as an unduly
+narrow  definition  of  “animal”  for  purposes  of  the  Animal Welfare
+Act, a definition that would exclude birds, rats, and mice from the
+category  “animal.”  The  plaintiffs  claimed  injury  from  the  fact  that
+the  narrow  definition  of  animal,  which  would  undermine  “their
+attempts  to  gather  and  disseminate  information  on  laboratory
+conditions  for  those  animals.”77  With  a  broader  definition,
+laboratories  would  be  required  to  provide  more  information  about
+their  treatment  of  animals,  and  the  plaintiffs  contended  that  they
+would  use  that  information  in  “public  education  and  rulemaking
+proceedings.”78 The narrow definition of “animal” would also make it
+harder for plaintiffs to educate the laboratories about the “humane
+treatment of birds, rats, and mice.”79
+
+It  is  clear  that  the  plaintiffs  would  have  had  standing  if
+Congress had expressly said that they have standing. But under the
+APA,  the  court  held  otherwise.  Its  central  claim  was  that  the
+informational injury did not fall within the zone of interests of the
+statute. The Animal Defense Fund was not attempting to protect its
+members’  own  legal  rights,  but  “simply  to  educate  all  those  who
+desire to promote the statute’s substantive purpose.”80 Informational
+standing would require not merely a “general corporate purpose to
+promote the interests to which the statute is addressed” but also “a
+congressional intent to benefit the organization” or some evidence
+that  the  organization  is  “a  peculiarly  suitable  challenger  of
+
+                              
+                 
+75 See Akins, 118 S Ct at 1791.
+76 23 F.3d 496 (DC Cir 1994).
+77 23 F.3d at 501.
+78 Id.
+79 Id.
+80 23 F.3d at 503.
+
+Chicago Public Law and Legal Theory Working Paper
+
+14
+
+administrative neglect.”81  In  this  regard  the  court  emphasized  that
+the Animal Welfare Act creates an oversight committee consisting
+of private citizens designed to ensure compliance with the Act. Thus
+“the organizations are not the intended representatives of the public
+interest in animal welfare.”82
+
+The  general  approach  suggested  in  Espy  is  quite  sound;
+sometimes those who invoke rights under a statute protected animal
+welfare  will  not  be  within  the  statutory  zone  of  interests.  But  the
+particular holding is quite doubtful. As the Supreme Court has made
+clear, the zone of interests test is not meant to be demanding,83 and
+if any group is within the zone of interests of the Act, members of
+the  Animal  Legal  Defense  Fund  count  as  such.  The  strongest
+argument for the court’s conclusion would be that the existence of
+the oversight committee should be taken to negate standing for other
+private organizations concerned about inadequate enforcement.84 But
+this is a fragile argument. It would be at least as plausible to say that
+private  lawsuits  do  not  displace  but  complement  the  work  of  the
+oversight committee. For present purposes what matters is less the
+particular  evaluation  than  the  general  suggestion  that  for  actions
+brought  under  the  APA,  those  who  complain  of  a  deprivation  of
+information  may  suffer  injury  in  fact  but  fall  outside  the  zone  of
+statutorily protected interests.
+
+B. Existing Law: Competitive Injuries
+ It has become a platitude to suggest that many apparently
+public-spirited  statutes  are  enacted,  or  take  the  form  they  do,
+because  of  the  competitive  benefits  they  provide  to  individuals  or
+companies  with  self-interested  states  in  the  outcome.85  If
+                 
+                              
+81 23 F.3d at 503, quoting Hazardous Waste Treatment Council v. EPA, 274 U.S.
+App. D.C. 44, 861 F.2d 277, 283 (D.C. Cir. 1988), cert. denied, 490 U.S. 1106,
+104 L. Ed. 2d 1020, 109 S. Ct. 3157 (1989).
+82 23 F.3d at 503.
+83 See Clarke, supra; National Credit Association Admin., supra.
+84  See  Block  v.  Community  Nutrition  Inst.,  467  US  340  (1984)  (holding  that
+creation of specific standing for some negated standing for others not specifically
+granted standing).
+85  For  the  classic  demonstration  in  the  context  of  environmental  law,  see  Bruce
+Ackerman and William Hassler, Clean Coal/Dirty Air (1981).
+
+15
+
+Standing for Animals
+
+government enforces such statutes inadequately, competitors might
+be injured “in fact.” The Supreme Court has been quite willing to
+allow competitors to challenge unlawful governmental action adverse
+to  their  interests.86  For  example,  the  Court  has  allowed  a  set  of
+individual  banks,  and  also  the  American  Bankers  Association,  to
+challenge  agency  action  allowing  credit  unions  to  create  multiple
+unrelated employer groups, an action that, in the banks’ view, would
+give credit unions an unlawful competitive advantage.87
+
+This line of cases raises legitimate (though not yet explored88)
+possibilities for human standing to protect animal welfare. Suppose,
+for example, that the statute at issue places certain companies at a
+competitive  disadvantage,  by  forbidding  those  companies  from
+engaging in practices that would help them in the marketplace. The
+proposed ban on the importation of products made with dog or cat
+fur  is  an  example;  the  ban  would  plainly  help  companies  that  sell
+ordinary  or  synthetic  fur  coats.  The  existing  cases  on  competitor
+standing  suggest  that  such  companies  would  be  entitled  to  sue  to
+create legally required enforcement action. Or suppose that a statute
+designed  to  protect  animal  welfare  is  obeyed  by  some  commercial
+actors but not by others; suppose too that compliance is costly and
+hence that those who disobey are at a competitive advantage (as is
+highly  likely).  At  first  glance,  a  company  that  complies  with  the
+Animal  Welfare  Act  (in  testing  pain-relief  products,  for  example)
+would  seem  to  have  standing  to  challenge  governmental  practices
+that allow its competitors to do whatever they wish.
+
+ There are two obstacles to competitor standing in this context.
+
+First, the competitor must be arguably within the zone of interests
+protected by the statute, and in some cases, it is easy to imagine an
+argument that the competitor’s interests are simply too far afield.89
+Whether  the  argument  is  convincing  depends  on  the  particular
+                              
+                 
+86 See Association of Sata Processing Service Org. v. Camp, 397 US 150 (1970);
+Clarke  v.  Securities  Industry  Assn.,  479  US  388  (1987);  National  Credit  Union
+Adm. V. First National Bank, 118 S Ct 927 (1998).
+87 See National Credit Union, supra.
+88  I  have  been  unable  to  find  any  case  in  which  a  litigant  invoked  competitive
+injuries  in  challenging  violations  of  a  statute  designed  to  protect  animals.  But  as
+the text explains, there should be many opportunities.
+89 See Air Courier Conf. v. American Postal Workers Union, 498 US 517 (1991).
+
+Chicago Public Law and Legal Theory Working Paper
+
+16
+
+statute and on whether its background reveals a lack of concern with
+the  plaintiff’s  interests.  The  cases  suggest  that  courts  are  quite
+willing to presume that statutes do show such an interest and hence
+that  competitor  standing  is  highly  likely.90  Second,  a  competitor
+might  have  problems  along  the  dimension  of redressability. If, for
+example, a statute is applied to forbid the importation of coats lined
+with cat fur, how, exactly, will any particular competitor be helped?
+The cases suggest that competitor standing will be presumed in cases
+of this kind,91 but the issue raises a number of complexities. I return
+to this point below.
+
+C. Existing Law: Aesthetic Injuries
+
+In many cases, a plaintiff objecting to harm done to an animal
+seeks  to  claim  an  “aesthetic  injury.”  In  a  number  of  these  cases,
+standing is available. But there is considerable conflict in the lower
+courts, and the outcomes seems quite unruly and even odd. Let us
+begin with some polar cases.
+
+1.  No  injuries  and  no  plans. Suppose that a citizen, activist, or
+researcher  objects  to  the  unlawful  and  inhumane  treatment  of
+animals in a certain facility; the facility may be a zoo, or it may be a
+laboratory  engaged  in  experimentation.  Suppose  that  the  citizen,
+activist, or researcher attempts to bring suit. On the facts as stated,
+the outcome is clear: Standing is unavailable, for there is no injury in
+fact. The plaintiffs have only an ideological interest in the dispute,
+and they are attempting to enforce the law for its own sake. Under
+current  law,  there  is  universal  agreement  on  this  point.92  The  key
+holding  is  Lujan  v.  Defenders  of  Wildlife,  where  the  plaintiffs,
+including  people  interested  in  seeing  and  studying  members  of  an
+endangered  species,  challenged  a  federal  decision  not  to  apply  the
+Endangered Species Act extraterritorially. The Court held that the
+plaintiffs  lacked  standing  because  they  had  no  plan  to  visit  the
+members of the species; whether they had a concrete interest of this
+
+                              
+                 
+90 See note supra.
+91 See note supra.
+92  See  Lujan  v.  Defenders  of  Wildlife,  504  US  555  (1992)  (199);  Sierra  Club  v.
+Morton,  405  US  727,  734  (1972);  Humane  Society  v. Bobbitt,  46  F.3d  93  (DC
+Cir 1995)
+
+17
+
+Standing for Animals
+
+kind  was,  on  a  reasonable  reading  of  the  complaint,  purely
+speculative.  Thus  they  failed  to  show  an  injury  in  fact.  Along  the
+same  lines,  consider  Animal  Lovers  Volunteer  Association  v.
+Weinberger,93 in which the plaintiffs sought to enjoin aerial shooting
+of goats on a military enclave for which public access is unavailable.
+The court held that standing was unavailable because the members
+did not visit the enclave and hence lacked any concrete injury.
+
+2.  Plans, scientists, visitors.  Now  assume  that  certain  scientists
+and  researchers  are  attempting  to  see  and  study  members  of  a
+particular  species;  that  their  desire  to  see  and  study  the  relevant
+animals is imminent and definite rather than conjectural; and that
+they challenge government action that, on their view, will reduce the
+supply of animals available for study. Under current law, it appears
+clear that the scientists and researchers have standing.94 In Defenders
+of Wildlife, the Court acknowledged as much, suggesting that if the
+plaintiffs had procured a plane ticket, the injury in fact requirement
+would be met.95 The injury in fact consists of the reduced likelihood
+that they will be able to engage in the relevant research.
+
+As we will see, questions might be raised about this analysis; but
+the law appears settled on the point. The key case is Japan Whaling
+Assn. v. American Cetacean Soc.96 There several wildlife conservation
+groups,  including  members  who  were  committed  to  watching  and
+studying  whales,  objected  to  the  failure  of  the  Secretary  of
+Commerce  to  certify  that  nationals  in  Japan  were  engaged  in  acts
+diminishing the effectiveness of the International Convention for the
+Regulation of Whaling. The consequence of certification of Japan by
+the  Secretary  of  Commerce  would  be  to  require  the  Secretary  of
+State to reduce, by at least 50%, Japan’s fishing allocation within the
+United States.97 In a brief discussion in a footnote, the Court held
+that  the  wildlife  organizations  had  standing.  “They  undoubtedly
+have alleged a sufficient ‘injury in fact’ in that the whale watching
+
+                 
+                              
+93 765 F.2d 937 (9th Cir. 1985).
+94 See Humane Society v. Babbitt, 46 F.3d 93, 97 (DC Cir. 1995).
+95  Note,  however,  that  a  plurality  of  the  Court  doubted  that  the  redressability
+requirements would be met even in that event. See below.
+96 478 US 221 (1986).
+97 Id. at 236.
+
+Chicago Public Law and Legal Theory Working Paper
+
+18
+
+and  studying  of  their  members  will  be  adversely  affected  by
+continued whale harvesting.”98 Indeed, the same conclusion applies
+not only to scientists and researchers, but also to everyone with an
+interest  in  observing  members  of  the  relevant  species,  even  if  the
+interest is “for purely esthetic purposes.”99  Thus  in  Animal Welfare
+Institute  v.  Kreps,100  the  court  held  that  members  of  the  plaintiff
+organization had standing to challenge a waiver of the moratorium
+on  marine  mammal  importation  under  the  Marine  Mammal
+Protection Act. The court referred to the ability of the members “to
+see,  photograph,  and  enjoy  Cape  fur  seals  alive  in  their  natural
+habitat  under  conditions  in  which  the  animals  are  not  subject  to
+excessive harvesting, inhumane treatment and slaughter of pups that
+are very young and still nursing.”101
+
+3.  Visitors  and  observers,  with  a  species  that  is  unthreatened  and
+unendangered. The intermediate cases, and the difficult ones under
+current  law,  arise  when  there  is  no  argument  that  the  species  will
+dwindle  in  number,  but  when  a  plaintiff  alleges  that  the  difficult
+conditions faced by the animal will cause, to the plaintiff, an injury
+in fact, defined in “aesthetic” terms. An obvious oddity here is that
+the  plaintiff  is  likely  to  be  concerned  ethically  or  morally,  not
+“aesthetically”—at  least  if  the  notion  of  the  “aesthetic”  is  taken  to
+refer to judgments, not ethical or moral in character, about beauty or
+ugliness. Nonetheless, it is the aesthetic injury that is the basis for
+the suit.
+
+The leading case is Animal Legal Defense Fund v. Glickman,102 in
+which an en banc panel for the D.C. Circuit was sharply divided. In
+
+                              
+                 
+98 Id. at 231 n. 4.
+99 Defenders of Wildlife, 504 US at 562-63.
+100 561 F2d 1002 (DC Cir 1977).
+101  Id.  at  1007.  See  also  Alaska  Fish  &  Wildlife  Fed/n  v. Dunkle, 829 F.2d 933
+(9th  Cir.  1987),  granting  standing  to  those  “who  wish  to  hunt.,  photograph,
+observe,  or  carry  out  scientific  studies  on  migratory  birds,”  in  the  context  of  a
+challenge to agreements that would permit the hunting of such birds in Alaska);
+Humane  Society  of  the  United  States  v.  Hodel,  840  F.2d  45  (DC  Cir  1988)
+(allowing society members who visited wildlife refuges standing to challenge ruling
+expanding  hunting,  on  the  ground  that  members  would  be  subjected  to
+environmental degradation, fewer numbers of animals, and corpses).
+102 154 F.3d 426 (1998).
+
+19
+
+Standing for Animals
+
+that case, Marc Jurnove, an employee and volunteer for animal relief
+and rescue organizations, complained about what he believed to be
+the unlawful treatment of many animals at the Long Island Game
+Farm Park and Zoo. Jurnave contended that he had visited the park
+at least nine times between May 1995 and June 1996, and that the
+unlawful  and  inhumane  treatment  caused  “injury  to  this  aesthetic
+interest  in  observing  animals  living  under  humane  conditions.”103
+Thus Jurnave did not urge that he had special interest in the decent
+treatment  of  animals  by  virtue  of  his  service  as  employee  and
+volunteer for animal relief and rescue organizations. What mattered
+was that he was a visitor to the zoo.
+
+The court held that the aesthetic interest counted as an injury in
+fact and that Jurnove had “far more” than an abstract interest in law
+enforcement  in  its  own  sake.104  In  the  court’s  view,  Jurnove
+established an aesthetic interest that he had repeatedly attempted to
+promote  by  “visiting  a  particular  animal  exhibition  to  observe
+particular animals there.”105 Thus the court concluded that an injury
+in fact could be established “to a plaintiff’s interest in the quality and
+condition of an environmental area that he used.”106 The court also
+concluded that Jurnave could satisfy the two causation requirements.
+The current USDA regulations allegedly permitted the conditions of
+which  Jurnave  complained;  thus  the  injury  was  due  to  the
+government’s  action.  Standing  would  be  found  for  “plaintiffs  who
+claimed  aesthetic  injury  .  .  .  based  on  the  government’s  failure  to
+adequately regulate a third party.”107 In addition, the injury would be
+redressed  by  a  decree  in  Jurnave’s  favor,  for  “more  stringent
+regulations  .  .  .  would  necessarily  alleviate  [his]  aesthetic  injury
+during his planned, future trips to the Game Farm.”108
+
+The  dissenting  judges  contended  that  none  of  the  Article  III
+requirements  had  been  met.  They  contended  that  for  those
+complaining  of  an  injury  to  the  aesthetic  interest  in  observing
+
+                              
+                 
+103 Id. at 431.
+104 Id. at 432.
+105 Id. at 432.
+106 Id. at 436.
+107 Id. at 440.
+108 Id. at 443.
+
+Chicago Public Law and Legal Theory Working Paper
+
+20
+
+animals, standing was limited to “diminution-of-the-species.”109  By
+itself aesthetic injury, “a matter of individual taste,” could not justify
+standing.110  “Aesthetic  injury,”  thus  understood,  was  no  different
+from the interest in law enforcement of its own sake. In their view,
+Jurnave’s  claim  would  allow  standing  for  those  seeking  to  view
+“animals in any manner that does not comport with” the plaintiff’s
+“individual taste.” Thus “a sadist with an interest in seeing animals
+kept under inhumane conditions” would have standing to contest the
+inhumane treatment.111 In other words, this was a purely “subjective”
+interest, not a legally cognizable one.
+
+The  dissenters  urged  as  well  that  Jurnave  could  not  show
+sufficient  causation.  The  inhumane  treatment  was  not  caused  by
+government; it was caused by the zoo. Thus the dissenters found it
+“frightening  at  a  constitutional  level”  to  suggest  “that  the
+government causes everything that it does not prevent.”112 A judicial
+order  invalidating  the  regulation  and  directing  the  USDA  to
+promulgate a new regulation would mandate new conditions at parks
+and zoos, but “it would require sheer speculation to presume that any
+enrichment  devices  specified  in  a  future  regulation  would  satisfy
+Jurnove’s  aesthetic  tastes.”113  Thus  it  was  far  too  conjectural  to
+connect the decree sought to protection of the interests invoked by
+Jurnove.
+
+If the goal is simply to describe current law, the majority view
+seems correct. In Japan  Whaling, and in cases that follow it, courts
+did  not  say  that  an  “injury  in  fact”  would  exist  if  and  only  if  the
+action at issue would diminish the number of members of the species
+at issue. Nor is it clear why “diminution of the species” should count
+as an injury in fact and harms of the sort invoked by Jurnove should
+not. If the question is whether the plaintiff has suffered an “injury,”
+why  are  the  two  different?  At  the  same  time,  there  are  serious
+problems  in  the  majority’s  analysis,  a  point  to  which  I  will  return
+below.
+
+                              
+                 
+109 Id. at 448.
+110 Id.
+111 Id. at 448-49.
+112 Id. at 452.
+113 Id. at 454.
+
+21
+
+Standing for Animals
+
+D. Evaluation
+
+1. Injuries without injuries? As noted, those without an “injury in
+fact” are not entitled to bring suit. But what is an “injury in fact”? In
+the environmental area, it is well known that people are willing to
+pay a certain amount, sometimes a very large amount, to ensure the
+“existence”  of  endangered  species.  The  United  States  government
+takes  account  of  “existence  value”  in  calculating  the  costs  and
+benefits of certain courses of action.114 If someone is willing to pay
+for the existence of some animal or set of animals, in what sense is
+that person not “injured” when the animal is killed?
+
+I do not mean to suggest that this question cannot be answered.
+Perhaps it could be said that someone who is willing to pay for some
+state of affairs wants that state of affairs to exist, but that the injury
+that comes from the disfavored state of affairs is not something that
+the legal system should, or constitutionally may, treat as an injury “in
+fact.”115 On the conventional understanding, this person is interested
+in law enforcement for its own sake, or in a state of affairs that he
+supports  for  merely  ideological  reasons.  What  is  important  for
+present purposes is to recognize that the legal system is denying that
+people suffer injury “in fact” for reasons that involve not “facts” but
+judgments  about  what  facts,  and  what  harms,  ought  to  count  for
+legal purposes. I will return to this point below.
+
+2.  Morals  and  aesthetics.  The  Animal  Legal  Defense  Fund  case
+raises  fresh  questions  about  the  nature  of  the  “injury  in  fact”
+requirement. Many people wish to see animals; many people wish to
+see animals treated in certain ways. Do all such people always have
+                              
+                 
+114 Ohio v. Department of Interior, 880 F.2d 432 (DC Cir 1989).
+115  The  “injury  in  fact”  test  has  been  criticized  on  grounds  of  this  kind  in  many
+places, See, eg, William Fletcher, The Structure of Standing, 98 Yale LJ 221, 229
+(1988);  David  Currie,  Misunderstanding  Standing,  1981  Sup.  Ct.  Rev.  41,  42;
+Cass R. Sunstein, What’s Standing After Lujan, 91 Mich L Rev 163 (1992). See
+also International Primate Protection League v. Administrators of Tulane, 500 US
+72,  77  (1991),  where  the  Court  says  that  “standing  is  gauged  by  the  specific
+common law, statutory, or constitutional claims that a party presents,” and notes
+that  standing  “should  be  seen  as  a  question  of  substantive  law,  answerable  by
+reference  to  the  statutory  and  constitutional  provision  whose  protection  is
+invoked.”  Id.  at  77.  See  also Lujan,  supra,  504  US  at  560,  where  the  Court  says
+that  “the  plaintiff  must  have  suffered  an  ‘injury  in  fact’—an  invasion  of  a  legally
+protected interest.”
+
+Chicago Public Law and Legal Theory Working Paper
+
+22
+
+standing, when their wishes are violated? One puzzle of the court’s
+holding  is  that  it  seems  to  offer  an  affirmative  answer  to  this
+question.  Another  puzzle  is  that  the  real  objection  of  the  relevant
+plaintiffs seems ethical or moral, not aesthetic. And a final puzzle is
+the  court’s  suggestion  that  Jurnave,  unlike  a  sadist,  has  standing
+because  his  interest  is  “legally  protected”:  “[N]ot  every  aesthetic
+interest  can  form  the  basis  for  a  lawsuit;  our  injury-in-fact  test
+protects  only  those  aesthetic  interests  that  have  been  ‘legally
+protected.’”116 Let us attempt to sort out these puzzles.
+
+Of course people do not have standing whenever they have an
+“aesthetic  injury”—if  this  term  refers  to  a  subjective  perception  of
+disgust or distaste or offense. The requirement of “injury in fact” is
+designed  to  bar  suits  based  on  perceptions  of  this  sort.  People  in
+California might well feel disgust or distaste or offense if they hear
+of  racial  discrimination,  or  a  commercial  development,  on  Long
+Island; but this does not give them standing. Under current law, it is
+necessary  for  them  to  be  victims  of  discrimination,  or  materially
+affected by it. If their complaint involves commercial development,
+they  must  visit  the  relevant  area.  But  this  point  raises  a  genuine
+problem about the conception of “injury in fact.” Surely the Animal
+Legal Defense Fund dissenters are correct to doubt whether a sadist
+would  have  standing  to  contest  regulations  that  make  conditions
+more humane for animals—even though there is no doubting that a
+case  can  be  imagined  in  which  the  sadist  suffers  no  less,  “in  fact,”
+than  Jurnave.  This  point  leaves  the  court’s  decision  open  to  the
+objection  that  it  really  depends  on  sympathy  for  Jurnave  on  the
+merits. But something else is at work. Recall that the court’s answer
+is that any injury in fact must be “legally cognizable”; it objects that
+the  sadist  would  have  no  legally  cognizable  interest.  To  this  the
+dissenting  opinion,  naturally  enough,  objects  that  the  response
+confuses  the  “injury  in  fact”  inquiry  with  an  inquiry  whether  the
+plaintiff is arguably within the zone of protected interests.
+
+The objection is correct, but it does not count against the court’s
+decision.  There  is  no  way  to  inquire  into  “injury  in  fact”  without
+making  inquiries  into  law  as  well.  People  suffer  injuries  “in  fact”
+every  day,  not  least  aesthetic  injuries,  and  these  injuries  do  not
+
+                              
+                 
+116 154 F.3d at 434 n. 7.
+
+23
+
+Standing for Animals
+
+provide  the  basis  for  a  suit  in  federal  court.117  The  question  is
+whether  some  source  of  law  recognizes  those  injuries.  Before  the
+enactment of the Animal Welfare Act, a person who complained of
+mistreatment of animals in a zoo would have no cognizable injury,
+no  interest  protected  by  law.  After  the  enactment  of  the  Animal
+Welfare Act, such mistreatment may well be unlawful, and someone
+who complains about it will count as a proper plaintiff if he can show
+a particular interest in its prevention. Jurnave certainly was able to
+show  this  interest.  The  case  would  be  different  if  a  plaintiff  never
+visited the animals at all, not because such a nonvisitor would have
+no injury at all, but because Congress has not given members of the
+general  public  a  right  to  bring  suit  to  ensure  law  enforcement.  A
+possible  objection  would  be  that  Congress  conferred  no  cause  of
+action  on  Jurnave.  But  under  the  APA  as  it  has  come  to  be
+understood, someone who suffers a material  injury  is  permitted  to
+bring suit so long as he is within the zone of protected interests and
+stands  apart  from  members  of  the  general  public.  Of  course
+Congress can deny standing to such people if it chooses to do so.
+
+The basic conclusions are therefore as follows. If Congress seeks
+to give standing to people to protect interests relating to the well-
+being  of  animals,  it  must  comply  with  the  injury-in-fact
+requirement.  That  requirement  is  met  if  a  person  has  a
+nonspeculative  plan  to  visit,  study,  or  see  the  animals  in  question.
+Under  the  Administrative  Procedure  Act,  the  same  conclusion
+follows, with two qualifications: Plaintiffs must show that they fall
+within the zone of interests protected by the Act, and they must also
+show that in terms of their interests and concerns, they are different
+from citizens generally.
+
+3.  Redressability.  The  issue  of  redressability  raises  further
+puzzles.  On  the  authority  of  Japan  Whaling,  it  seems  generally
+agreed that those who fear the loss of an animal or of animals may
+bring suit to prevent governmental action that threatens to create the
+loss. But there is some tension in the cases, particularly because the
+Japan Whaling  Court  did  not  deal  with  the  redressability problem,
+which, to get slightly ahead of the story, seems quite severe: How,
+
+                              
+                 
+117 See Fletcher, supra note; Sunstein, supra note.
+
+Chicago Public Law and Legal Theory Working Paper
+
+24
+
+exactly, would a decree in favor of the American Cetacean Society
+benefit its members?
+
+In  Lujan  v.  Defenders  of  Wildlife,  the  Supreme  Court  did  not
+merely  hold  that  those  without  a  particular  plan  to  see  or  visit
+members of an endangered species lacked standing. A plurality also
+said  that  the  redressability  requirements  were  not  met,  for  even  if
+there was such a plan, the injury was not a result of the government’s
+action,  nor  would  it  be  redressed  by  a  decree  on  the  plaintiffs’
+behalf.118 For example, the United States was funding under 10% of
+the  disputed  development  project;  if  the  United  States  withdrew
+funding, would there be any effect on the species that the plaintiffs
+sought to preserve? “Respondents have provided nothing to indicate
+that the projects they have named will either be suspended, or do less
+harm  to  the  listed  species,  if  that  fraction  is  eliminated.”119  In
+addition, the Court noted that the defendant was the Secretary of
+the Interior, not the relevant funding agencies. It was not clear that
+the funding agencies were funding, in law or in fact, by the decision
+of  the  Secretary,  even  if  he  concluded  that  the  EDA  applied
+extraterritorially.
+
+On  this  count,  the  plurality  view  in Defenders of Wildlife  is  in
+conspicuous tension with the majority view in both Akins and Japan
+Whaling, where it was also contended that a decree in the plaintiffs’
+favor would not redress their injury. How do these cases bear on the
+redressability  issue  when  human  beings  are  attempting  to  guard
+against harms to animals?
+
+Consider  first  cases  in  which  people  seek  to  observe  a  species
+whose numbers will allegedly be reduced as a result of government
+action.  This  was  the  situation  in  Japan Whaling,  where  the  Court
+stated,  in  its  footnote  discussion,  that  continued  whale  harvesting
+would impair the members’ interest in whale watching and studying.
+This was a statement about injury in fact; the Court did not discuss
+the  redressability  problems.  Now  it  seems  clear  that  if  the  action
+under review would result in the elimination or near-elimination of
+whales, the redressability requirements would be met. But there were
+several problems in the case. First, a decision to “certify” Japan would
+
+                 
+                              
+118 505 US at 567-69.
+119 505 US at 568.
+
+25
+
+Standing for Animals
+
+not  necessarily  result  in  compliance,  by  Japan,  with  international
+conventions with respect to the killing of whales. Perhaps the only
+consequence  would  be  that  Japan  would  face  sanctions  from  the
+Secretary of State. Second, it is not at all clear that compliance with
+Japan would have any material consequences for any member of the
+American Cetacean Society. Even if fewer whales were killed, how,
+concretely,  would  that  redress  the  members’  injury.  In  short,  the
+difficulty  here  is  that  the  reduced  number  of  total  whales  will  not
+necessarily cause any harm to the plaintiff; for this reason, there is a
+possible objection to standing on grounds of both redressability and
+injury in fact.
+
+These  problems  suggest  that  in  order  to  know  whether  the
+causation  requirements  are  met,  it  is  necessary  to  know  how  to
+characterize the relevant injury. If the injury is characterized as an
+adverse  effect  on  the  desire  to  see  a  particular  whales  at  particular
+times,  the  plaintiffs  will  have  a  very  difficult  time  in  establishing
+standing. But if the injury is characterized as an increased probability
+of one kind or another, the causation requirements are plainly met.
+Japan  Whaling  must  be  understood  as  holding  that  the  decreased
+availability of whales is itself a legally cognizable injury, and also that
+the increased likelihood of decreased availability, brought about by
+the failure to certify Japan, counts as a legally cognizable injury. This
+holding,  to  be  defensible  as  such,  must  depend  on  some  kind  of
+characterization  of  the  injury  that  the  underlying  source  of  law  is
+designed to prevent.
+
+Compare,  for  example,  the  Court’s  decision  that  white
+construction contractors had standing to challenge a racial set aside
+program,  even  though  they  could  not  show  that  they  would  have
+received a contract without the program; the equal protection clause
+protects the opportunity to compete on equal terms, and that injury
+would be redressed by a decree in the plaintiffs’ favor.120 Similarly,
+the cases recognizing standing for competitors must be taken to have
+held  that  the  redressability  requirements  were,  not  because  any
+particular plaintiff would necessarily have benefited materially, but
+because the injury consists of the inability to compete on the terms
+prescribed by Congress. From these points we can see the weakness
+
+                              
+                 
+120 Northeastern Florida Chapter v. Jacksonville, 508 US 658 (1993).
+
+Chicago Public Law and Legal Theory Working Paper
+
+26
+
+in  the  plurality’s  view  on  the  redressability  issue  in  Defenders  of
+Wildlife. The plaintiffs were complaining, not that particular species
+members would die, but that there was an increased risk of death as
+a result of the unlawful use of federal funds to sponsor the relevant
+program. If the plaintiffs were correct on the law—and that was an
+issue for the merits—the statute was designed to prevent American
+funds from being used in programs that might result in the death of
+members  of  an  endangered  species.  The  injury,  so  characterized,
+would have been redressed by a decree in their favor.
+
+Two conclusions follow. First, competitors who suffer “injury in
+fact” need not worry about the redressability requirements. Second,
+plaintiffs claiming “aesthetic” injuries will probably have standing if
+they  are  complaining  about  the  government’s  failure  to  issue  or
+enforce regulations that, if issued or enforced, would eliminate those
+injuries.
+
+4. Competitors within the zone? The thrust of the discussion thus
+far  has  been  that  the  standing  question  should  be  focussed  on
+legislative instructions. Injuries qualify as such if a statute qualifies
+them as such; whether an injury is redressable depends on how it is
+characterized, and the best way to characterize it is to examine the
+relevant  source  of  law.  But  all  this  does  raise  a  puzzle  for  at  least
+some competitors. Perhaps some statutes protecting animal rights or
+welfare  are  enacted  in  part  because  of  their  beneficial  effects  for
+competitors;  but  others  are  designed  to  protect  animals,  and  have
+nothing to do with competitors at all, whose economic advantage is
+entirely incidental. This point suggests that an inspection of some
+statutes will show that competitors are not even arguably within the
+zone.121 The best response would point to the fact that competitive
+advantages,  for  those  who  comply  with  the  relevant  laws,  are  a
+means to the end sought by the statute. In most cases, this response
+should be sufficient, though reasonable people will differ in assessing
+statutes that are usually unclear on the point.
+
+                              
+                 
+121 Air Courier Conf. v. American Postal Workers Union, 498 US 517 (1991).
+
+27
+
+Standing for Animals
+
+E. Summary
+The discussion is best summarized with a set of stylized cases.
+1.  A  group  of  citizens  concerned  about  animal  suffering  or
+about  threats  to  the  continued  existence  of  a  species  challenge
+government  action  that,  on  their  view,  leads  to  unlawful  harm  to
+animals.  On  the  facts  as  stated,  no  standing  is  available,  even  if
+Congress  has  conferred  a  cause  of  action  on  “any  person.”  The
+reason is that there is no injury in fact.
+
+2.  Same  as  case  1,  but  the  group  alleges  that  it  has  members
+who wish to see, enjoy, or study the relevant animals. No standing is
+available,  even  if  Congress  has  conferred  a  cause  of  action  of  “any
+person,” because on the facts as stated, no member has a sufficiently
+concrete plan in mind, and hence there is no injury in fact.
+
+3.  A  group  of  citizens  seeks  information  bearing  on  the
+treatment  of  animals  under  the  Animal  Welfare  Act;  the  group
+contends that the information must be both compiled and disclosed.
+If Congress has granted a cause of action to “any person,” standing is
+available.  If  Congress  has  not  conferred  such  a  cause  of  action,
+standing is unavailable—unless the group can establish that it has a
+special interest in the information that distinguishes it from citizens
+generally and that it is within the zone of interests protected by the
+statute.
+
+4. Someone who regularly visits a zoo challenges violations of
+the  Animal  Welfare  Act  at  that  zoo.  Standing  is  available  if
+Congress has conferred a cause of action on “any person.” The case is
+somewhat  more  difficult  without  such  a  special  grant  of  standing,
+but  the  suit  should  be  justiciable  in  that  case  as  well,  because  the
+injury in fact test is met, because the plaintiff is within the zone of
+protected  interests,  and  because  the  plaintiff  has  an  interest  that
+distinguishes him from members of the public as a whole.
+
+5.  Company  A,  a  producer  of  certain  medicines  challenges
+commercial practices by Company B; company A contends that the
+practices of Company B are violative of the Animal Welfare Act and
+led  to  the  production  of  medicines  that  serve  as  competition  for
+Company  A’s  products.  Standing  is  probably  available,  because
+Company A suffers an injury in fact, and because Company A is at
+least arguably within the zone of interests protected by the statute in
+question.
+
+Chicago Public Law and Legal Theory Working Paper
+
+28
+
+III. Do Animals Have Standing?
+
+A. A Simmering Dispute With A Simple Answer
+
+Do animals have standing? Several cases so suggest. In Palila v.
+Hawaii  Dept.  of  Land  and  Natural  Resources,122  the  court  said  that
+“[a]s an endangered species under the Endangered Species Act, . . .
+the  bird  (Loxioodes  bailleui),  a  member  of  the  Hawaiian  honey-
+creeper  family,  also  has  legal  status  and  wings  its  way  into  federal
+court as a plaintiff in its own right.”123 In a remarkably large number
+of cases in the federal reports, animals appear as named plaintiffs.124
+But  some  courts  have  held  that  animals  cannot  bring  suit  in  their
+own name.125 Of course any animals who are entitled to bring suit in
+this way would be represented by counsel, who would owe guardian-
+like obligations and make decisions, subject to those obligations, on
+their clients’ behalf. But this type of proceeding is hardly foreign to
+our law; consider suits brough on behalf of children or corporations.
+From the discussion thus far, it should be clear that the question
+whether animals have standing depends on the content of positive
+law. If Congress has not given standing to animals, the issue is at an
+end. Generally, of course, Congress grants standing to “persons,” as
+it  does  under  the  general  standing  provision  of  the  APA,126  the
+Marine  Mammal  Protection  Act,127  and  the  Endangered  Species
+Act.”128 Indeed I have not been able to find any federal statute that
+allows animals to sue in their own name. As a rule, the question is
+therefore quite clear: Animals lack standing as such, simply because
+no relevant statute confers a cause of action on animals.
+                              
+                 
+122 852 F.2d 1106, 1107 (9th Cir. 1988).
+123 Id. at 1107.
+124  See,  e.g.,  Northern  Spotted  Owl  v.  Hodel,  716  F.  Supp.  479  (WD  Wash
+1988); Northern Spotted Owl v. Lujan, 758 F. Supp 621 (WD Wash 1991); Mt.
+Graham Red Squirrel v. Yeutter, 930 F.2d 703 (9th Cir 1991).
+125  See  Hawaiiean  Cow  v.  Lujan,  D.  Hawaii,  Sept  13,  1991;  Citizens  to  End
+Animal  Suffering  and  Exploitation  v.  New  England  Aquarium,  836  F. Supp.  45
+(D Mass 1993).
+126 See 5 USC 702 (referring to “any person suffering legal wrong”).
+127 16 USC 1374.
+128 16 USC 1531.
+
+29
+
+Standing for Animals
+
+B. The Question of Legislative Power
+
+It seems possible, however, that before long, Congress will grant
+standing  to  animals  to  protect  their  own  rights  and  interests.
+Congress might do this in the belief that in some contexts, it will be
+hard to find any person with an injury in fact to bring suit in his own
+name.  Consider,  for  example,  a  proposed  statutory  ban  on  the
+importation of goods made with dog or cat fur129—a statutory ban
+that if disregarded, might not be easily enforceable by human beings.
+And even if statutes protecting animal welfare might be enforceable
+by human beings, Congress might grant standing to animals in their
+own right, partly to make a public statement about whose interests
+are most directly at stake,130 partly to increase the number of private
+monitors  of  illegality,  and  partly  to  bypass  complex  inquiries  into
+whether prospective human plaintiffs have injuries in fact.
+
+Suppose that Congress does grant a cause of action to animals
+directly, to allow them to prevent actions harmful to their interests,
+such as extinction or suffering. Is there anything problematic in this
+course  of  action?  The  only  serious  question  is  constitutional  in
+nature:  whether  the  grant  of  standing  would  violate  Article  III’s
+requirement of a “case or controversy.”131 Perhaps it could be argued
+that Congress could not constitutionally confer standing on animals.
+On this view, the modern understanding of what qualifies as a “case
+or  controversy”  should  be  based  on  an  inquiry  into  what  the
+founding generation understood to count as such. To say the least,
+the founding generation did not anticipate that dogs or chimpanzees
+could bring suit in their own name. Ideas of this kind have been used
+to limit the class of disputes that Congress can place in an Article III
+court132; perhaps they could be used to forbid Congress from giving
+standing to animals.
+                              
+                 
+129 The impetus for the ban is that dogs and cats are often cruelly treated and a ban
+would reduce the market for the cruel treatment.
+130 See Cass R. Sunstein, The Expressive Function of Law, 144 U Pa L Rev 2021
+(1996).
+131 U.S. Const. Art. III, section 1.
+132  See  Lujan  v.  Defenders  of  Wildlife,  504  US  555  (1992);  see  also  Antonin
+Scalia,  The  Doctrine  of  Standing  As  An  Essential  Element  of  the  Separation  of
+Powers, 17 Suffolk L Rev 881 (1983).
+
+Chicago Public Law and Legal Theory Working Paper
+
+30
+
+A  central  problem  with  this  objection  is  that  Congress  is
+frequently permitted to create juridical persons, and to allow them to
+bring  suit  in  their  own  right.  Corporations  are  the  most  obvious
+example.  But  legal  rights  are  also  given  to  trusts,  municipalities,
+partnerships, and even ships.133  In  an  era  in  which  slaves  were  not
+“persons,” it was acceptable to allow actions to be brought on behalf
+of slaves. In the same way, Congress might say that animals at risk of
+injury or mistreatment have a right to bring suit in their own name.
+Nothing in the requirement of a “case or controversy” should be read
+to forbid Congress from treating animals as owners of legal rights.
+The “case or controversy” requires means that courts may not hear
+cases  in  which  there  is  no  cause  of  action,  and  it  imposes  other
+limitations  on  judicial  power,  including,  under  current  doctrine,
+prohibitions on mootness, political questions, and merely ideological
+claims.  To  be  sure,  the  framers  anticipated  that  plaintiffs  would
+ordinarily be human beings. But nothing in the Constitution limits
+Congress’ power to give standing to others. The conclusion is that if
+Congress wants to give animals standing to bring suit to protect their
+legal interests, it is permitted to do so.
+
+IV. Implications and Speculations
+
+This  is  not  the  place  for  a  general  treatment  of  the  law  of
+standing of the question of “animal rights.” But the discussion does
+bear  on  those  issues,  and  it  may  therefore  be  useful  to  offer  a  few
+brief speculations here.
+
+A. Standing and the Problem of Injury in Fact
+
+The area of standing to protect animals suggests (yet again) the
+extreme awkwardness of continuing to proceed as if “injury in fact” is
+a necessary or sufficient condition for standing.134 Many people have
+injuries “in fact” in connection with the suffering of others, human
+or nonhuman, but they do not have standing for that reason. If Jones
+sees an act of abuse directed against a child, a friend, or a horse, he
+may well suffer injury, indeed he may well be willing to pay a great
+deal  to  avoid  that  injury;  but  by  virtue  of  that  injury,  he  is  not
+                 
+                              
+133 See Stone, supra note, at 452.
+134 Many people have raised this concern. See, e.g., Fletcher, supra note.
+
+31
+
+Standing for Animals
+
+entitled to bring suit in federal court. Some source of law must make
+that  injury  legally  cognizable.  In  the  three  sorts  of  cases  I  have
+discussed—informational,  competitive,  and  aesthetic  injury—
+standing  exists  to  the  extent  that  it  makes  sense  to  interpret  the
+relevant  source  of  law  as  giving  particular  persons  a  right  to  bring
+suit.  The  most  important  point  to  recognize  is  that  Congress  has
+control over that question.
+
+The  second  most  important  point  to  recognize  is  a  corollary:
+When the cases seem hard, it is because it is not clear, from those
+statutes that have been enacted, whether the plaintiff has been given
+a right to bring suit. Hence the information cases are easiest when
+Congress  has  spoken  unambiguously  on  the  question.  Competitor
+standing is generally easy too, for the Court has suggested that when
+a competitor is injured “in fact,” it should be assumed that Congress
+sought to prevent that injury. The aesthetic injury cases are harder if
+it  is  unclear  whether,  in  enacting  the  statutes  protecting  animal
+welfare, Congress should be taken to have granted a private cause of
+action to people who are distressed by seeing mistreated animals. It
+is  for  this  reason  that  the  two  Animal  Legal  Defense  Fund  cases
+could  have  gone  the  other  way;  the  real  dispute  involved  the  best
+reading of the underlying statute. It is important to recognize these
+points  partly  because  they  clarify  a  topic  that  is  otherwise  quite
+confusing,  partly  because  they  make  it  possible  to  see  what
+reasonable people might be disagreeing about, and above all because
+they  place  control  of  the  standing  question  in  the  hands  of  the
+democratic process, which is where it belongs.
+
+B. Disaggregating Animal Rights
+
+What  about  the  question  of  “animal  rights”135?  Many  people
+reject  the  idea  that  animals  can  have  “rights,”  often  on  the  theory
+that rights  belong along to those with certain  cognitive  capacities,
+limited to human beings. Some people think that it is important to
+say that animals lack “rights” even if people have duties to animals.
+Without answering the largest questions about the nature of rights,
+we might suggest that for certain purposes, at least, it is most useful
+
+                 
+                              
+135  See  James  Rachels,  Created  From  Animals:  The  Moral  Implications  of
+Darwinism (1990).
+
+Chicago Public Law and Legal Theory Working Paper
+
+32
+
+to treat “rights” as legally enforceable claims of one kind or another.
+If rights are understood in this mundane and pragmatic way, there is
+nothing  novel  or  unfamilar  about  the  notion  of  animal  rights.
+Indeed,  animals  have  long  had  a  wide  range  of  “rights”  against
+cruelty  and  mistreatment  under  state  law,  and  these  rights  have
+recently been growing in both state and national legislatures.
+
+For purposes of knowing whether animals “have rights,” it is not
+sufficient to know whether animals are able to vindicate these rights
+in  their  own  name.  Many  of  the  most  familiar  and  celebrated  of
+human  rights  are  enforceable  only  by  public  authorities.  We  have
+seen  that  mere  neglect  of  animal  welfare  counts  as  a  criminal
+violation, and people are under an affirmative obligation to expend
+resources for the care and protection of animals. In many states, a
+failure to feed or shelter an animal can amount to, in practice, to a
+violation  of  an  animal’s  rights;  the  Animal  Welfare  Act  creates
+national  rights  to  food,  shelter,  even  adequate  ventilation  and
+medical care. Indeed, animals have, under current law, a remarkable
+set of legal entitlements, including property rights of various sorts,136
+and they enjoy these rights against their “owners.” The reason that
+the  relevant  rights  do  not  matter  in  the  world—to  the  extent  that
+they  do  not—is  that  little  enforcement  activity  is  directed  against
+violations.  The  real  question,  and  the  question  on  which  much
+future  debate  is  inevitable,  is  the  extent  and  dimension  of  animal
+rights, not their existence.
+
+In  an  instructive  discussion  of  the  general  problem  Gary
+Francione makes a sharp distinction between “animal welfare” and
+“animal  rights.”  He  contends  that  American  law  is  committed  to
+preventing  infliction  of  “unnecessary”  pain  on  animals  and  to
+ensuring that animals are treated “humanely.”137 This commitment
+results in a form of balancing in which animals, generally treated as
+mere property, end up losing whenever human interests can be found
+on  the  other  side.  “To  label  something  property,  is,  for  all  intents
+and  purposes,  to  conclude  that  the  entity  so  labeled  possesses  no
+interests that merit protection and that the entity is solely a means to
+
+                 
+                              
+136 These are not rights to exclusive possession, of course.
+137 Francione, supra, at 253.
+
+33
+
+Standing for Animals
+
+the  end  determined  by  the  property  owner.”138  Francione  seeks  to
+replace  “legal  welfarism”  with  a  system  of  animal  rights,  in  which
+ultimately animals are regarded as having “inherent worth and value”
+and are not treated as property at all.
+
+Much  of  what  Francione  argues  seems  convincing.  Often
+animals have been regarded as means to human ends, and often the
+status of animals as mere property has helped to ensure this unjust
+state  of  affairs.  Of  course  animals  should  not  be  treated  as  mere
+means to human ends, if only because they are capable of suffering,
+and  in  any  case  both  state  and  federal  law  are  firmly  committed
+against the notion of animals as mere means. But there is nothing
+magical in the notions of “animal welfare” and “animal rights”; what
+matters is not the abstractions but the concrete meanings given to
+them. It is possible to imagine a regime of animal “rights” in which
+the permissible justifications for intrusions are so numerous, and so
+undemanding, that animals are hardly protected at all. It is possible
+to  imagine  a  regime  of  animal  “welfare”  in  which  the  interest  in
+avoiding pain and suffering is taken extremely seriously, so much so
+that  it  overcomes  many  significant  human  interests.  In  fact  it  is
+reasonable  to  think  that  all  or  most  legal  rights  qualify  as  such
+because of their beneficial effects on welfare, however understood;
+on  this  view,  legal  rights  are  instrumental  to  well-being,  suitably
+defined.139 Francione seems wrong to contrast “welfare” and “rights”
+so sharply.
+
+What about the notion of animals as property? Here the stakes
+are a mixture of substantive and rhetorical. If the status of property
+means the status of means to the ends of others, or a status of human
+domination  and  control,  animals  should  not  have  the  status  of
+property.  But  even  inanimate  objects  are  protected  against
+domination and control; you may not burn down your house, and if
+you  have  certain  kinds  of  property,  you  are  prevented  from
+destroying it. Animals currently count as property, but on the law as
+it  is  on  the  books,  they  are  nonetheless  protected  against  a  wide
+range of injuries. We can imagine a situation in which animals are
+
+                              
+                 
+138 Id.
+139 This general view is defended in Stephen Holmes and Cass R. Sunstein, The
+Cost of Rights (1999).
+
+Chicago Public Law and Legal Theory Working Paper
+
+34
+
+“owned” but in which the right of ownership does not include rights
+to  inflict  suffering;  indeed  that  is  not  far  from  the  law  as  it  now
+stands.  But  the  rhetoric  may  matter.  In  the  long  term  it  may  well
+make  sense  to  think  of  animals  as  something  other  than  property,
+partly  in  order  to  clarify  their  status  as  beings  with  rights  of  their
+own.140
+
+Let me conclude, however, with a more modest suggestion. A
+serious  problem  under  the  principal  national  protection  against
+animal suffering—the AWA—is that the Department of Agriculture
+lacks sufficient resources to enforce it adequately. At a minimum, the
+Act should be amended so as to create a private cause of action by
+affected persons and animals, to bring suit against facilities that are
+operating  in  violation  of  the  Act.  A  serious  problem  with  current
+animal  welfare  statutes,  including  the  AWA,  is  an  absence  of
+sufficient enforcement activity, a problem that stems at least partly
+from  limited  federal  resources.  At  least  when  a  violation  of  the
+statute is unambiguous, private parties should be permitted to bring
+suit directly against violators. This system of dual public and private
+enforcement  would  track  the  pattern  under  many  federal
+environmental  statutes;  there  is  no  reason  that  it  should  not  be
+followed for statutes protecting animal welfare.
+
+V. Conclusion
+
+There is nothing new or unfamiliar in the idea of animal rights.
+In the last thirty years, protection of animal “rights”—in the form of
+protection of animal welfare—has become an unmistakable part of
+federal law. The serious issues are ones of definition (what kinds of
+rights  do  animals  have?)  and  of  enforcement  (who  is  entitled  to
+enforce existing rights and duties?).
+
+My principal topic here has involved that aspect of enforcement
+that comes under the rubric of standing. The conclusions for which I
+                 
+                              
+140 Nothing I have said here deals with the question how to resolve serious conflicts
+between  animal  well-being  and  human  well-being—conflicts  that  might  arise
+when,  for  example,  laboratory  experiments  on  animals  are  necessary  to  combat
+illnesses  in  human  beings.  I  am  suggesting  that  a  great  deal  could  be  done  to
+reduce  animal  suffering—sometimes  a  product  of  cruelty,  often  a  product  of
+simple  negligence—without  attempting  to  answer  the  hard  questions  involving
+serious conflicts.
+
+35
+
+Standing for Animals
+
+have  argued  are  best  divided  into  two  categories—when  Congress
+has power to confer standing, through explicit statement, and when
+standing exists under existing law. We have seen that Congress can
+give people standing to bring suit to obtain information bearing on
+the treatment of animals. Congress can also give people standing to
+bring  suit  to  vindicate  aesthetic  interests  in  ensuring  the  humane
+treatment of animals, so long as such people have an actual plan to
+see the relevant animals. Congress can give people standing to bring
+suit  to  prevent  an  increased  likelihood  that  members  of  certain
+species  will  decrease  in  number,  so  long  as  such  people  have  an
+imminent, nonspeculative plan to see or study the relevant animals.
+Finally,  Congress  has  the  authority  to  grant  animals  standing  to
+protect  their  interests,  in  the  sense  that  injured  animals  might  be
+counted  as  juridical  persons,  to  be  protected  by  human  plaintiffs
+initiating proceedings on their behalf.
+
+Under  the  APA  as  it  now  stands,  a  person  has  standing  to
+obtain information involving the well-being of animals, unless the
+statute  gives  rise  to  a  contrary  inference  or  the  plaintiff  cannot
+distinguish his interest from that of the public at large. Under the
+APA, a person has standing to protect animals that she likes to see
+or  to  study,  if  the  action  at  issue  threatens  to  diminish  the
+population of the relevant species. The principal qualification to this
+claim is that the law has a degree of uncertainty with respect to when
+the relevant injury will be attributed to the government’s conduct.141
+Under the APA, a person has standing to protect animals that she
+likes to see or study, if the plaintiff has an imminent and not merely
+speculative plan to see or study the relevant animals.
+
+Under existing statutes, animals do not have standing as such to
+protect their own interests. But Congress is entitled to grant them
+standing  if  it  chooses  to  do  so.  Building  on  these  claims,  I  have
+suggested  that  Congress  should  grant  a  private  cause  of  action,  to
+injured persons and to animals themselves, to prevent practices that
+are  already  unlawful.  Legislative  decisions  on  such  questions  will
+have  considerable  symbolic  importance.  But  they  will  not  be  only
+symbolic,  for  they  will  help  define  the  real-world  meaning  of
+
+                 
+                              
+141  Compare  Lujan  v.  Defenders  of  Wildlife,  504  US  555  (1992),  with  Akins  v.
+FEC, 118 S Ct 1777 (1998).
+
+Chicago Public Law and Legal Theory Working Paper
+
+36
+
+statutory texts that attempt to protect animal welfare—statutes that
+now promise a great deal but deliver far too little.
+
+37
+
+Standing for Animals
+
+Appendix: Major Federal Statutes Protecting Animals
+
+Endangered Species Act, 16 USC 1531-1543
+
+Animal Welfare Act, 7 USC 2131-2159
+
+Humane Slaughter Act, 7 USC 1901-1906
+
+Marine Mammal Protection Act, 16 USC 1361-1407
+
+Airborne Hunting Act, 16 USC 742j-1
+
+Wild Free-Roaming Horses and Burros Act, 16 USC 1331-1340
+
+Dolphin Protection Consumer Information Act, 16 USC 1385
+
+Bald and Golden Eagle Protection Act, 16 USC 668-668d
+
+Chicago Public Law and Legal Theory Working Paper
+
+38
+
+Readers with comments should address them to:
+
+Cass R. Sunstein
+Karl N. Llewellyn Distinguished Service Professor of Jurisprudence
+The University of Chicago Law School
+1111 E. 60th Street
+Chicago, IL 60637
+
+

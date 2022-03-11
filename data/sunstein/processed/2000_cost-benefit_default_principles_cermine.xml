@@ -1,0 +1,2276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Id. at</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Cost-Benefit Default Principles</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Coase-Sandor Working Paper Series in Law</string-name>
+          <email>unbound@law.uchicago.edu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Coase-Sandor Institute for Law and Economics</institution>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <volume>134</volume>
+      <fpage>1</fpage>
+      <lpage>46</lpage>
+      <abstract>
+        <p>Follow this and additional works at: https://chicagounbound.uchicago.edu/law_and_economics Part of the Law Commons Recommended Citation Cass R. Sunstein, "Cost-Benefit Default Principles" ( John M. Olin Program in Law and Economics Working Paper No. 104, 2000).</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>JOHN M. OLIN LAW &amp; ECONOMICS WORKING PAPER NO. 104 (2D SERIES)</title>
+      <p>COST-BENEFIT DEFAULT PRINCIPLES</p>
+      <p>Cass R. Sunstein
+This paper can be downloaded without charge at:</p>
+      <p>The Chicago Working Paper Series Index:
+http://www.law.uchicago.edu/Publications/Working/index.html
+The Social Science Research Network Electronic Paper Collection:
+http://papers.ssrn.com/paper.taf?abstract_id=247884
+Preliminary draft 3/6/01
+All rights reserved</p>
+    </sec>
+    <sec id="sec-2">
+      <title>Cost-Benefit Default Principles</title>
+      <sec id="sec-2-1">
+        <title>Cass R. Sunstein* Abstract</title>
+        <p>In an important but thus far unnoticed development, federal courts have created a new series of
+“default principles” for statutory interpretation, authorizing regulatory agencies, when statutes are unclear,
+(a) to exempt trivial risks from regulation and thus to develop a kind of common law of “acceptable risks,”
+(b) to take account of substitute risks created by regulation, and thus to engage in “health-health” tradeoffs,
+(c) to consider whether compliance with regulation is feasible, (d) to take costs into account, and (e) to
+engage in cost-benefit balancing, and thus to develop a kind of common law of cost-benefit analysis. These
+cost-benefit default principles are both legitimate and salutary, because they give rationality and sense the
+benefit of the doubt. At the same time, they leave many open questions. They do not say whether agencies
+are required, and not merely permitted, to go in the direction they indicate; they do not indicate when
+agencies might reasonably reject the principles; and they do not say what, specifically, will be counted as an
+“acceptable” risk or a sensible form of cost-benefit analysis. Addressing the open questions, this Article
+urges that the principles should ordinarily be taken as mandatory, not merely permissive; that agencies may
+reject them in certain identifiable circumstances; and that steps should be taken toward quantitative analysis
+of the effects of regulation, designed to discipline the relevant inquiries. An understanding of these points
+should promote understanding of emerging “second generation” debates, involving not whether to adopt a
+presumption in favor of cost-benefit balancing, but when the presumption is rebutted, and what, in
+particular, cost-benefit analysis should be taken to entail.</p>
+        <p>“Courts should be reluctant to apply the literal terms of a statute to mandate pointless
+expenditures of effort. . . . Unless Congress has been extraordinarily rigid, there is likely a basis
+for an implication of de minimis authority to provide exemption when the burdens of regulation
+yield a gain of trivial or no value.”1</p>
+        <p>“It seems bizarre that a statute intended to improve human health would . . . lock the
+agency into looking at only one half of a substance’s health effects in determining the maximum
+level of that substance.”2
+* Karl N. Llewellyn Distinguished Service Professor, University of Chicago Law School and
+Department of Political Science. I am grateful to Elizabeth Garrett, Robert Hahn, Eric Posner, and
+Richard Posner for helpful comments on a previous draft.
+1 Alabama Power Co. v. Costle, 636 F.2d 323, 360-61 (DC Cir 1979).
+2 American Trucking Association v. EPA, 173 F.3d 1027, 1052 (DC Cir 1999).
+“It is only where there is ‘clear congressional intent to preclude consideration of cost’
+that we find agencies barred from considering costs.”3</p>
+        <p>"In order better to achieve regulatory goals - for example, to allocate resources so that
+they save more lives or produce a cleaner environment - regulators must often take account of all
+of a proposed regulation's adverse effects, at least where those effects clearly threaten serious and
+disproportionate public harm. Hence, I believe that, other things being equal, we should read
+silences or ambiguities in the language of regulatory statutes as permitting, not forbidding, this
+type of rational regulation."4</p>
+        <p>“The rule-implicit valuation of a life is high – about $4 million – but not so astronomical,
+certainly by regulatory standards, as to call the rationality of the rule seriously into question,
+especially when we consider that neither Hepatis B nor AIDS is a disease of old people. These
+diseases are no respecters of youth; they cut off people in their working years, and thus in their
+prime, and it is natural to set a high value on the lost years.”5</p>
+        <p>Risks never exist in isolation. They are part of systems. For that reason,
+any effort to reduce a single risk will have a range of consequences, some of them
+likely unintended.</p>
+        <p>
+          If the Federal Aviation Administration (FAA) increases security at
+airports, so as to make flying safer, it will also make flying less convenient and
+more expensive, and thus lead some people to drive instead.6 Flying is much
+safer than driving, and hence the FAA’s measures might increase the number of
+lives lost on balance. If noise levels are reduced at the Grand Canyon, so that
+people can enjoy the area in peace and quiet, air tourism there will have to be
+dramatically reduced, so that fewer people can enjoy the area at all.7 If the
+Occupational Safety and Health Administration increases regulation of benzene,
+a carcinogenic substance, it might lead companies to use an unsafe and perhaps a
+less safe substitute; it might also decrease wages of affected workers, and
+decrease the number of jobs in the relevant industry. People who have less
+money, and who are unemployed, tend to live shorter lives -- and hence
+occupational regulation might, under certain circumstances, sacrifice more lives
+3 Michigan v. EPA, 213 F.3d 663, 678 (DC Cir 2000).
+4 Whitman v. American Trucking Associations (Feb. 27. 2001) (Breyer, J., concurring in part and
+concurring in the judgment).
+5 American Dental Association v. Martin, 984 F.2d 823, 827 (7th Cir. 1993).
+6 See Robert W. Hahn, The Economics of Airline Safety, 20 Harv. . L. &amp; Pub. Policy 791 (1997).
+7 Grand Canyon Air Tour Coalition v. FAA, 154 F.3d 4
+          <xref ref-type="bibr" rid="ref32">55 (DC Cir 1998</xref>
+          ).
+than it saves.8 Of course the unintended consequences of risk regulation might be
+desirable rather than undesirable – as, for example, where regulation spurs new
+pollution control technologies.
+        </p>
+        <p>Now consider the following cases:
+1. The Clean Air Act requires the Environmental Protection Agency
+(EPA) to issue standards controlling any substance that “contributes
+significantly” to pollution problems in certain areas. EPA issues
+regulations governing relevant pollutants, but without considering the
+costs of compliance. Industries challenge the regulations on the ground
+that cost is a statutorily relevant factor.9
+2. The National Highway Traffic Safety Administration (NHTSA) is
+asked to promote fuel economy in automobiles “to the extent feasible.”
+NHTSA issues fuel economy standards that are admittedly feasible, in
+the sense that no one doubts that they are technologically and
+economically possible. But the Coalition for Automobile Safety, a
+public interest organization, contends that the effect of the standards
+will be to lead manufacturers to produce smaller and more dangerous
+cars. The Coalition contends that NHTSA acted unlawfully in failing to
+take this effect into account.10
+3. A federal statute requires the Occupational Safety and Health</p>
+        <p>Administration to regulate toxic substances “to the extent feasible.”11
+OSHA interprets this language to require it to consider whether the
+regulation is technologically feasible and whether it is “practicable,”
+economically speaking, for the industry to comply. OSHA imposes a
+regulation that is admittedly “feasible” under this test; but the statute
+cannot pass a cost-benefit test, because the benefits are low and the
+costs are high. Insisting that costs should be compared with benefits,
+industries subject to the regulation complain that it is unlawful.12
+8 See Symposium, Risk-Risk Analysis, 8 J Risk and Uncertainty 5 (1994).
+9 Cf. Michigan v. EPA, 213 F.3d 663, 678 (DC Cir 2000) (finding cost a permissible factor for the
+agency to consider under a similar statute; Lead Industries v. EPA, 647 F.2d 1130 (DC Cir 1980)
+(finding cost an irrelevant factor under provisions governing national ambient air quality
+standards).
+10 See Competitive Enterprise Institute v. NHTSA, 956 F.2d 321 (DC Cir. 1992).
+11 29 USC 655(b)(5).
+12 ATMI v. Donovan, 452 U.S. 490 (1981).</p>
+        <p>In which of these cases has the agency acted unlawfully? The question is
+of immense importance, both for regulatory policy and for the relationship
+between courts and agencies. One of my main purposes here is to demonstrate
+that federal law has now built a novel set of rules for statutory construction: the
+cost-benefit default principles. In brief, these principles (1) allow de minimis
+exceptions to regulatory requirements; (2) authorize agencies to permit
+“acceptable” risks, departing from a requirement of “absolute” safety; (3) permit
+agencies to take account of both costs and feasibility; and (4) allow agencies to
+balance costs against benefits. Taken as a whole, the cost-benefit default
+principles are making a substantial difference to regulatory policy, both because
+of their effects in litigated cases and because of their systemic consequences for
+regulation.13</p>
+        <p>Even when thus specified, however, the default principles raise many
+questions. For the most part, the cost-benefit default principles say what agencies
+are permitted to do. It is not clear whether the default principles also mean that
+where statutes are ambiguous, agencies will be required to do any of these
+things. Nor do the principles give much indication of how agencies permitting
+”acceptable” risks, or engaging in cost-benefit analysis, might be expected to
+proceed. What does it mean to say that agencies are permitted to “consider”
+costs? Would it be unlawful for an agency to say that even very high costs are
+worth incurring? In what way should the monetary valuation of human life be
+constrained? What counts as an acceptable or de minimis risk? How should
+agencies deal with the interests of future generations?</p>
+        <p>However these questions are resolved, there can be no doubt that the
+cost-benefit default principles have emerged as a central part of what amounts to
+the federal common law of regulatory policy. Of course most of that common
+law, including the incipient federal common law of cost-benefit analysis, will
+emerge, and is emerging, from regulatory agencies, which have to decide how
+much to regulate, and why.14 Here agencies are the principal architects of what is
+13 See Robert Percival et al., Environmental Regulation 425 (4th ed 2000). I discuss the relevance of
+the important decision in Whitman v. American Trucking Associations, S. Ct. (Feb. 28, 2001),
+below.
+14 Hence, for example, different agencies have come up with different dollar figures by which to
+value statistical lives; this is a central part of agency-made common law of cost-benefit analysis.
+See the table in Matthew Adler and Eric Posner, Implementing Cost-Benefit Analysis When
+Preferences Are Distorted, 29 J. Legal Stud. 1105, 1146 (2000). There are also striking variations in
+agency selection of discount rate, that is, the treatment of costs and benefits (such as lives saved)
+unmistakably a form of common law. But courts will undoubtedly play an
+important role,15 and it is in the interaction between agencies and judges that
+binding law will emerge. Among my largest purposes here is to understand the
+nature of the cost-benefit default principles, their legitimacy, and their future
+content.16</p>
+        <p>There is a still more general point in the background. The steady
+emergence of the cost-benefit default principles signals the impending
+conclusion, in all branches of government,17 of a “first generation” debate over
+whether cost-benefit analysis is desirable.18 That debate appears to be
+terminating with a general victory for its proponents, in the form of a
+presumption in favor of their view (signaled above all, perhaps, by President
+Clinton’s substantial endorsement of cost-benefit balancing via Executive
+Order19). The “second generation” debates raise difficult questions about how
+(not whether) to engage in cost-benefit analysis – how to value life and health,
+how to deal with the interests of future generations, how to generate rules of
+thumb to simplify complex inquiries, how to ensure that agencies do what they
+are supposed to do, how and when to diverge from the conclusion
+recommended by cost-benefit analysis, how to determine the roles of agencies
+and courts in contested cases. My identification and assessment of the
+costbenefit default principles is intended as a contribution to these “second
+generation” debates. An especially important “second generation” question is
+in the future. See Comment, Judicial Review of Discount Rates Used in Regulatory Cost-Benefit
+Analysis, 65 U Chi L Rev 1333, 1364-69 (1998) (documenting variations ranging from 2% to 10%).
+These issues are treated below.
+15 See, e.g., Corrosion Proof Fittings v. EPA, 947 F.2d 1201 (5th Cir. 1991) (striking down agency
+regulation of asbestos under statute calling for cost-benefit balancing).
+16 It is important to see that many federal agencies do not comply with the apparent requirements
+of cost-benefit balancing in existing executive orders. Robert Hahn has shown that compliance is
+episodic and that a great deal needs to be done to systematize the process. See Robert W. Hahn et
+al., Empirical Analysis: Assessing Regulatory Impact Analysis: The Failure of Agencies To
+Comply With Executive Order 12866, 23 Harv J. L &amp; PP 859 (2000). Here as elsewhere, there is a
+large difference between law on the books and law in the world. I do not attempt here to address
+the important issue of how to ensure compliance with principles that call for attention to costs
+and benefits. But judicial review of agency action can serve as a partial corrective at least,
+ensuring that in the egregious cases, agency action will be held invalid for failure to comply with
+the principles. This point is discussed at several places below.
+17 Within Congress, see eg, 5 USC 1532, 1535; within the executive, see note supra.
+18 For discussion, see Symposium, 29 J. Legal Stud. 837 (2000); Lisa Heinzerling, Regulatory Costs
+of Mythic Proportions, 106 Yale LJ 1981 (1998).
+19 See Executive Order 12866, 58 Fed Reg 51735 (1993).
+when, if ever, the presumption in favor of cost-benefit balancing is rebutted. I
+attempt to make a start in answering that complex question.</p>
+        <p>The Article is organized as follows. Part II traces the rise of cost-benefit
+default rules in federal law; it begins with the emergence of cost-benefit
+principles, outlines statutory formulations, and then elaborates the default rules.
+Part III explores the underlying considerations in some detail – what supports
+the use of default principles generally and these default principles in particular.
+In Part III, I address the general question when the presumption in favor of the
+principles might be rebutted. Part IV turns to the question whether agencies
+should be required to do what the cost-benefit default principles permit them to
+do. Part V deals briefly with a set of issues that an agency must address if it is
+going to engage in cost-benefit balancing. Part VI is a brief conclusion.</p>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>Considering and Not Considering Costs</title>
+      <p>A. From 1970s Environmentalism to the Cost-Benefit State? A Prefatory Note</p>
+      <p>I will not attempt to resolve the broad question whether cost-benefit analysis
+is a good idea, or whether the many recent initiatives in that direction should be
+approved or modified.20 But as background to an understanding of the
+costbenefit default principles, a brief discussion is in order.</p>
+      <p>The rise of interest in cost-benefit balancing signals a dramatic shift from the
+initial stages of national risk regulation. Those stages were undergirded by
+might be called “1970s environmentalism,” which placed a high premium on
+immediate responses to long-neglected problems, which emphasized the
+existence of problems rather than their magnitude, and which was often rooted
+in moral indignation directed at the behavior of those who created pollution and
+other risks to safety and health.21 Defining aspects of 1970s environmentalism can
+be found in the apparently cost-blind national ambient air quality provisions of
+the Clean Air Act22 and in statutory provisions requiring “the best available
+technology” without an assessment of either costs or benefits.23
+20 For a range of perspectives, see Symposium, 29 J. Legal Stud. 837 (2000).
+21 See Bruce Ackerman and Richard B. Stewart, Reforming Environmental Law, 13 Colum. J. Env.
+L. 171 (1988).
+22 42 USC 7409(b).
+23 See, eg, 33 USC 1311(b)(1)AA), 42 USC 7411(a)(1), 7412(d)(2), 7475(a)(4), 7502(c)(1).</p>
+      <p>No one should deny that 1970s environmentalism has done an enormous
+amount of good, helping to produce dramatic improvements in many domains,
+above all in the context of air pollution, where ambient air quality has improved
+for all major pollutants.24 Indeed, 1970s environmentalism appears, by most
+accounts, to survive cost-benefit balancing, producing aggregate benefits in the
+trillions of dollars, well in excess of the aggregate costs.25 EPA’s own estimates
+suggest that as a result of the Clean Air Act, there were no less than 184,000
+fewer premature deaths among people thirty years of age or older in 1990 – and
+also that there were 39,000 fewer cases of congestive heart failure, 89,000 fewer
+cases of hospital admissions for respiratory problems, 674,000 fewer cases of
+chronic bronchitis, and 850,000 fewer asthma attacks.26 EPA finds annual costs of
+air pollution control at $32 billion, hardly a trivial number, but less than 4% of
+the annual benefits of $1.1 trillion.27 Even if the EPA’s own numbers show an
+implausibly high ratio, significant adjustments still reveal benefits far higher
+than costs.28</p>
+      <p>
+        More generally, OMB has, for the last several years, engaged in a full
+accounting of the costs and benefits of regulation.29 In general, the report shows
+benefits in excess of cost. While the government’s own numbers should be
+discounted – agency accounts may well be self-serving – at least they provide a
+good place to start.30 In its 2000 report, OMB finds total regulatory benefits
+ranging from $254 billion to $1.8 trillion, with total costs ranging from $146
+billion to $229 billion, for net benefits ranging from $25 billion to $1.65 trillion.31
+A more disaggregated picture is also encouraging. In the transportation sector,
+the benefits range from $84 billion to $110 billion, with the costs from $15 billion
+to $18 billion, for net benefits of $66 billion to $95 billion.32 In the net benefits
+range from $9 billion to $12 billion. Much of the uncertainty stems from
+uncertainty about environmental benefits and costs, producing a range from $-73
+24 See Economic Analyses at EPA 455-56
+        <xref ref-type="bibr" rid="ref30">(Richard Morgenstern ed. 1998)</xref>
+        ; Paul Portnoy, Air
+Pollution Policy, in Public Policies for Environmental Protection 77, 101-105 (Paul Portnoy and
+Robert Stavins eds 2000).
+25 Id.
+26 Portnoy, supra, at 102-03.
+27 Id. at 109.
+28 Id. at 113 (showing a benefit-cost ratio of 3 to 1).
+29 Available at http://www.whitehouse.gov/omb/inforeg/index.html.
+30 For a good but sometimes dated overview, see Robert Hahn, What Do The Government’s Own
+Numbers Tell Us?, in Risks, Costs, and Lives Saved (Robert Hahn ed 1995).
+31 Id.; see 2000 report, charts, table 4.
+32 Id.
+billion in net benefits to over $1.5 trillion in net benefits.33 For most government
+action, however, the benefits seem to exceed the costs.34 As especially good
+examples, consider the following regulations, all from recent years:
+      </p>
+      <p>But even though the overall picture is no cause for alarm, a closer look at
+federal regulatory policy shows a wide range of problems. Perhaps foremost is</p>
+      <p>260-1900
+330-360
+50-1,200
+110-1200
+136-736
+0
+260-1900
+510-580
+50-1,200
+110-1200
+136-736
+12,000113,000
+260-1900
+440-500
+50-1,200
+110-1200
+136-736
+-20,00086,000
+exceptionally poor priority-setting, with substantial resources sometimes going
+to small problems, and with little attention to some serious problems.35 There are
+also unnecessarily high costs, with no less than $400 billion being attributable to
+compliance costs each year,36 including $130 billion on environmental protection
+alone.37 OMB’s own report shows some disturbing numbers: For the next fifteen
+years, OSHA’s methylene chloride regulation will have annual costs of $100
+million and annual benefits of $40 million38; a regulation calling for roadway
+worker protection has benefits of $30 million, but equivalent costs; the
+costbenefit ratio for airbag depowering regulation seems bad, though there is
+uncertainty in the data39; EPA’s regulation for financial assurance for municipal
+solid waste landfills has monetized benefits of $0, but costs of $100 million, and
+this is expected for the next fifteen years.40 By way of general illustration,
+consider the following table,41 all drawn from recent regulations:
+35 This is the theme of Stephen Breyer, Breaking the Vicious Circle (1995).
+36 Thomas Hopkins, The Costs of Federal Regulation, 2 J Reg and Soc. Costs 5, 25 tbl. 2 (1992).
+37 Paul Portney and Robert Stavins, Regulatory Review of Environmental Policy, 8 J Risk and
+Uncertainty 111, 119 n. 1 (1995).
+38 Id., table 12.
+39 Id.
+40 Id.
+41 Id.
+Pulp and -150 to 0
+paper effluent
+guidelines
+Ozone 0
+standards
+Child restraint -40 to 40
+system
+Vessel -220
+response
+plans
+Nitrogen -57 to 29
+oxide
+emission from
+new fossil fuel
+fired steam
+generating
+units
+-150 to 0
+-150 to 0</p>
+      <p>-240 to 0
+-235 to 240
+-840 to 1190</p>
+      <p>-9,200 to -1000
+-40 to 40
+-220
+-40 to 40
+-220
+-40 to 40
+-220
+-57 to 29
+-57 to 29
+-57 to 29</p>
+      <p>These figures, drawn from regulations in a single year, show a less than
+coherent pattern of regulation, especially when Table 1 is put together with Table
+2. According to one study, better allocations of health expenditures could save,
+each year, 60,000 additional lives at no additional cost – and such allocations
+could maintain the current level of lives saved with $31 billion in annual
+savings.42 The point has been dramatized by repeated demonstrations that some
+regulations create significant substitute risks43 -- and that with cheaper, more
+effective tools, regulation could achieve its basic goals while saving billions of
+dollars.44</p>
+      <p>In these circumstances, the most attractive parts of the movement for
+costbenefit analysis have been rooted not in especially controversial judgments about
+what government ought to be doing, but instead in a more mundane search for
+pragmatic instruments designed to reduce the three central problems of poor
+priority-setting, excessively costly tools, and inattention to the unfortunate
+sideeffects of regulation. By drawing attention to costs and benefits, it should be
+42 Tammy Tengs et al., Five Hundred Life-Saving Interventions and Their Cost-Effectiveness, 15
+Risk Analysis 369 (1995).
+43 See John Graham and Jonathan Wiener, Risk vs. Risk (1995).
+44 See, e.g., A. Denny Ellerman et al., Markets in Clean Air (2000); Robert Stavins, Market-Based
+Environmental Policies, in Public Policies for Environmental Protection, supra, at 31, 35-55.
+possible to spur the most obviously desirable regulations, to deter the most
+obviously undesirable ones, to encourage a broader view of consequences, and to
+promote a search for least-cost methods of achieving regulatory goals.45 Notice
+here that so defended, cost-benefit analysis is not only an obstacle to unjustified
+regulation; it should be a spur to government as well, showing that it should
+attend to neglected problems. If cost-benefit balancing is supported on these
+highly pragmatic grounds, the central question is whether that form of balancing
+is actually producing what can be taken as policy improvements by people with
+diverse views about appropriate policy.</p>
+      <p>On these counts, the record of cost-benefit analysis, at least within the EPA, is
+generally encouraging.46 Assessments of costs and benefits has, for example,
+helped produce more stringent and rapid regulation of lead in gasoline;
+promoted more stringent regulation of lead in drinking water; led to stronger
+controls on air pollution at the Grand Canyon and the Navaho Generating
+Station; and produced a reformulated gasoline rule that promotes stronger
+controls on air pollutants.47 In these areas, cost-benefit analysis, far from being
+only a check on regulation, has indeed spurred governmental attention to
+serious problems.</p>
+      <p>
+        Cost-benefit analysis has also led to regulations that accomplish statutory
+goals at lower cost, or that do not devote limited private and public resources to
+areas where they are unlikely to do much good. With respect to asbestos, for
+example, an analysis of benefits and costs led the EPA to tie the phase-down
+schedules to the costs of substitutes, and also to exempt certain products from a
+flat ban.48 With respect to lead in gasoline and control of CFCs (destructive of the
+ozone layer), cost-benefit analysis helped promote the use of economic incentives
+rather than command-and-control regulation49; economic incentives are much
+cheaper and make more stringent regulation possible in the first place. For
+regulation of sludge, protection of farmworkers, water pollution regulation for
+the Great Lakes, and controls on organic chemicals, cost-benefit analysis helped
+regulators produce modifications that significantly reduced costs.50 For modern
+government, one of the most serious problems appears to be, not agency use of
+45 For many examples, see Economic Analysis at EPA
+        <xref ref-type="bibr" rid="ref15 ref17">(Richard Morgenstern ed. 1996)</xref>
+        .
+46 See id.
+47 See id. at 458.
+48 Id. at 458.
+49 Id. at 49-86; 131-169.
+50 Id. at 458.
+cost-benefit analysis, but frequent noncompliance with executive branch
+requirements that agencies engage in such analysis.51
+      </p>
+      <p>Of course cost-benefit analysis is hardly uncontroversial.52 Insofar as both
+costs and benefits are being measured by the economic criterion of “private
+willingness to pay,” there are many issues. Poor people often have little ability
+and hence little willingness to pay; some people will be inadequately informed,
+and hence show unwillingness to pay for benefits that would make their lives go
+better53; and perhaps regulatory agencies should seek, not private willingness to
+pay, but public judgments, as expressed in public arenas.54 Society is not best
+taken as some maximizing machine, in which aggregate output is all that
+matters. Sometimes a regulation producing $5 million in benefits but $6 million
+in costs will be worthwhile, if those who bear the costs (perhaps representing
+dollar losses alone?) can do so easily, and if those who receive the benefits
+(perhaps representing lives and illnesses averted?) are especially needy.</p>
+      <p>In view of these problems, the strongest arguments for cost-benefit balancing
+are based, not only on neoclassical economics, but also on an understanding of
+human cognition, on democratic considerations, and on an assessment of the
+real-world record of such balancing.55 Begin with cognition: People have a hard
+time in understanding the systemic consequences of one-shot interventions.56
+Unless they are asked to seek a full accounting, they are likely to focus on small
+parts of problems, producing inadequate or even counterproductive solutions.57
+Cost-benefit analysis is a way of producing that full accounting. Ordinary people
+also have difficulty in calculating probabilities, and they tend to rely on rules of
+thumb, or heuristics, that can lead them to make systematic errors.58 Cost-benefit
+analysis is a natural corrective here. Because of intense emotional reactions to
+51 See Hahn, supra note.
+52 For a general challenge to quantification, see Lisa Heinzerling, Regulatory Costs of Mythic
+Proportions, 106 Yale LJ 1981 (1998).
+53 See Adler and Posner, supra note.
+54 Many of these points are pressed in Elizabeth Anderson, Value in Ethics and Economics (1993).
+55 I attempt to develop this point in Cass R. Sunstein, Cognition and Cost-Benefit Analysis, 29 J.
+Legal Stud. 1059 (2000). In the same vein, see Allan Gibbard, Risk and Value, in Values At Risk
+94-112 (Douglas MacLean ed 1986).
+56 See Dietrich Dorner, The Logic of Failure (1994).
+57 Id.
+58 Amos Tversky and Daniel Kahneman, Judgment under Uncertainty: Heurisics and Biases, in
+Judgment unde Uncertainty: Heuristics and Biases 3, 11 (Daniel Kahneman, Paul Slovic, and
+Amos Tversky eds 1982); Roger Noll and James Krier, Some Implications of Cognitive
+psychology for Risk regulation, 19 J. Legal Stud. 747 (1990).
+particular incidents, people often make mistakes in thinking about the
+seriousness of certain risks.59 Cost-benefit balancing should help government
+resist demands for regulation that are rooted in misperceptions of facts.</p>
+      <p>With respect to democracy, the case for cost-benefit analysis is strengthened
+by the fact that interest-groups are often able to use these cognitive problems
+strategically, thus fending off regulation that is desirable, or pressing for
+regulation when the argument on its behalf is fragile.60 Here cost-benefit analysis,
+taken as an input into decisions, can protect democratic processes by exposing an
+account of consequences to public view. With respect to pragmatic
+considerations, a review of the record suggests that cost-benefit balancing leads
+to improvements, not on any controversial view of how to value the goods at
+stake, but simply because such balancing leads to more stringent regulation of
+serious problems, less costly ways of achieving regulatory goals, and a reduction
+in expenditures for problems that are, by any account, relatively minor.61</p>
+      <p>
+        None of these points suggests that cost-benefit analysis is a panacea for the
+problems that I have identified. Everything depends on questions of
+implementation, and there are also hard questions about appropriate valuation,
+questions to which I shall return. Sometimes respect for rights, or concerns about
+irreversibility, justify a rejection of cost-benefit balancing.62 The central point is
+that cost-benefit analysis can be seen, not as opposition to some abstraction
+called “regulation,” and not as an endorsement of the economic approach to
+valuation, but as a real-world instrument, designed to ensure that the
+consequences of regulation are placed before relevant officials and the public as a
+whole, and intended to spur attention to neglected problems while at the same
+time ensuring that limited resources will be devoted to areas where they will do
+the most good. So understood, cost-benefit analysis promises to attract support
+from a wide range of people with diverse perspectives on contested issues – a
+promise realized in the apparently growing bipartisan consensus on some form
+of cost-benefit balancing in many domains of regulatory policy.63 An
+understanding of this consensus is an indispensable background for approaching
+the cost-benefit default principles.
+59 See George Loewenstein et al., Risk As Feelings (forthcoming 2001).
+60 See Timur Kuran and Cass R. Sunstein, Availability Cascades and Risk Regulation, 51 Stan. L.
+Rev. 6
+        <xref ref-type="bibr" rid="ref60">83 (1999</xref>
+        ).
+61 See Economic Analysis at EPA 455-76.
+62 TVA v. Hill, 437 US 153 (1978).
+63 See Executive Order 12866, 58 Fed Reg 51735 (1993).
+      </p>
+      <sec id="sec-3-1">
+        <title>B. Statutory Terms</title>
+        <p>My emphasis here will be on the relationship between these points and
+judgemade default rules for statutory interpretation. But judge-made rules have
+considerable overlap with approaches taken explicitly by Congress, in statutes
+governing health, safety, and the environment. In fact there is undoubtedly an
+interaction effect between statutes and judge-made law, with default principles
+emerging from statutory formulations and vice-versa. Part of the argument for
+the cost-benefit default principles is that they do not reflect purely judicial
+polcymakng; those principles fit well with explicit enactments in other areas of
+the law. In dealing with the role of benefits and costs, federal statutes tend to fall
+in the following categories. I order the statutes roughly in accordance with their
+treatment of cost-benefit balancing, beginning with those that most flatly reject it,
+and ending with those that unambiguously embrace it.</p>
+        <p>1. Flat bans on consideration of costs. Some statutes, exemplifying 1970s
+environmentalism, appear to forbid any consideration of cost. Perhaps
+the most famous example is the Delaney Clause, which for a long period
+prohibited food additives that “induce cancer in man or animal.”64 In the
+face of that language, the government sought to permit additives that,
+while carcinogenic, created only the most miniscule risks of cancer –
+lower risks, in fact than those that would come from eating one peanut
+with the FDA-permitted level of aflatoxins every 250 days, and much
+lower risks than come from spending about 17 hours every year in Denver
+(with its high elevation and radiation levels) rather than the District of
+Columbia.65 Nonetheless, the Delaney Clause was taken to forbid any
+form of balancing. 66 But a far more important example comes from the
+most fundamental provisions of the Clean Air Act, governing national
+ambient air quality standards.67 For a long time, the national ambient air
+quality standards set under that Act have been understood to be based on
+“public health” alone.68 The EPA’s judgment is to be grounded only in
+benefits; the cost of compliance is irrelevant.
+64 21 USC 376(b)(5)(B).
+65 Public Citizen v. Young, 831 F.2d 1108 (DC Cir 1987).
+66 Id.
+67 42 USC 7409(b).
+68 Lead Industries v. EPA, 647 F.2d 1130 (DC Cir 1980). See also Union Electric Company v. EPA,
+427 US 246 (1976) (holding that EPA may not consider economic and technological feasibility
+when approving or disapproving a state implementation plan). As noted, the issue is currently
+before the Supreme Court. See note supra.
+2. Significant risk requirements. An alternative formulation is to require the
+agency to address only “significant” or “unacceptable” risks. On this
+view, risks that do not reach a certain level need not and perhaps may not
+be addressed. This is the prevailing interpretation of the Occupational
+Safety and Health Act, under both the toxic substance provisions and the
+more general provisions of the Act.69 A requirement of a “significant risk”
+falls short of cost-benefit analysis in the sense that it is entirely
+benefitsbased; costs are irrelevant as such. Once benefits fall below a certain
+threshold, regulation is not required and in fact is banned.70 Once benefits
+rise above that threshold, regulation is permissible, even if the benefits
+seem low in comparison to the costs.
+3. Substitute risks and health-health tradeoffs. Some statutes require
+agencies to consider whether a regulation controlling one risk would, in so
+doing, create a substitute risk. If so, agencies are permitted to decline to
+regulate, or to regulate to a different point. These are clear statutory
+recognition of health-health tradeoffs, which arise when there are health
+concerns on both sides of the equation, from both more and less
+regulation.71 Many statutory “consideration” requirements72 have an
+unambiguous feature of this sort, for example by requiring agencies
+entrusted with reducing air pollution problems to take account as well of
+“non-air quality health and environmental impacts.” The Toxic
+Substances Control Act similarly requires the EPA to take account of
+substitute risks.73
+4. Feasibility requirements. Some statutes require agencies to regulate “to
+the extent feasible” or “achievable.”74 These expressions are far from
+transparent. But as generally understood, such statutes put the focus not
+on benefits but solely on costs, and on costs in a particular way: They
+forbid an agency from regulating to a point that is neither (a) technically
+69 Industrial Union Department, AFL-CIO v. API, 448 US 607 (1980); International Union, UAW v.
+OSHA, 37 F.3d 605 (DC Cir 1994).
+70 American Trucking Assn. v. EPA, 175 F.3d 1027 (DC Cir 1999), appears to endorse this view for
+regulation of air pollutants, on the theory that an interpretation that would allow the EPA to pick
+any point it chooses would violate the nondelegation doctrine.
+71 See John Graham and Jonathan Wiener, Risk vs. Risk (1995).
+72 42 USC 7429 (a) (2) (OSHA); 42 USC 300g-1(b)(4)(B) (Safe Drinking Water Act).
+73 Corrosion Proof Fittings v. EPA, 947 F.2d 1201 (5th Cir. 1991).
+74 See, eg, 29 USC 655(b)(5).
+feasible, because the relevant control technology does not exist, nor (b)
+economically feasible, because the industry cannot bear the cost without
+significant or massive business failures.75 The line between (a) and (b),
+usually treated as crisp and simple, is hardly that; whether a requirement
+is technically feasible will usually depend on the level of resources that are
+devoted to it. In practice, (a) and (b) therefore overlap in practice, with (b)
+serving as a separate category only on those occasions when even with
+massive use of existing resources, the technology cannot be brought into
+existence. Noteworthy here is the fact that while a significant risk
+requirement is entirely benefits-based, a feasibility requirement looks
+exclusively at the cost side of the equation. Such a requirement is a
+“block” of excessively expensive regulation.
+5. “Consideration” requirements. A large number of statutes ask agencies to
+“take into consideration” various factors, including cost, in addition to the
+principal factor to which the statute draws the agency’s attention (such as
+clean air or water). The most common formulation, now standard, asks
+the agency to produce the “maximum degree of reduction” that is
+“achievable,” after “taking into consideration [1] the cost of achieving
+such emission reduction, and [2] any [a] non-air quality health and
+environmental impacts and [b] energy requirements.”76 The basic idea
+here is that the agency is supposed to qualify the pursuit of the
+“maximum” achievable reduction by asking (a) whether the cost is
+excessive, (b) whether energy requirements would be adversely affected,
+and (c) whether the “maximum” requirement might create health and
+environmental harms by, for example, increasing water pollution though
+reducing air pollution. Under the Safe Drinking Water Act, EPA is
+similarly instructed to back away from the maximum feasible level if the
+benefits of the stricter standard “would not justify the costs of complying
+with the level.”77
+6. Cost-benefit requirements. Several statutes ask agencies to balance costs
+against benefits, mostly through a prohibition on “unreasonable risks,”
+alongside a definition of “unreasonable” that refers to both costs and
+benefits. The most prominent examples are the Toxic Substances Control
+75 452 US 490, 508-09 (1976); ADL-CIO v, OSHA. 965 F.2d 962, 980 (11th Cir 1992).
+76 42 USC 7429 (a) (2) (OSHA); 42 USC 300g-1(b)(4)(B) (Safe Drinking Water Act).
+77 42 USC 300g-1(b)(6).
+Act78 and the Federal Insecticide, Fungicide, and Rodenticide Act.79 Here
+the agency is required to calculate both costs and benefits and to compare
+them against each other. If the costs exceed the benefits, regulation is
+unacceptable. More recently, cost-benefit analysis is mandated by the Safe
+Drinking Water Act Amendments.80 While Congress has thus far resisted
+efforts to impose a cost-benefit “supermandate” calling for a general
+decision rule based on cost-benefit balancing,81 Congress has enacted
+legislation requiring assessment, and public disclosure, of costs and
+benefits of major regulations.82 OMB itself has been required to produce
+annual accounting of costs and benefits.83</p>
+        <p>In the abstract, the distinctions among these kinds of provisions should be
+clear enough. A statute that calls for consideration of substitute risks does not
+require cost-benefit balancing, because it is more narrowly concerned to ensure
+that risks (generally to health) do not increase on balance; under a statute calling
+for health-health tradeoffs, it is irrelevant that costs as such exceed benefits. A
+statute that requires that regulations be “feasible” is ordinarily taken to entail no
+comparison between costs and benefits, but a cost-focused inquiry into what
+industry is able to do -- whereas a statute that regulates “significant risks” is
+ordinarily taken to entail no comparison between costs and benefits, but a
+benefit-centered inquiry into the magnitude of the risk to be addressed.</p>
+        <p>Of course many open questions remain, and I will return to those
+questions in Part IV. Let us simply take this menu of options as the background
+for understanding the nature of the cost-benefit default rules.</p>
+      </sec>
+      <sec id="sec-3-2">
+        <title>C. The Default Rules Identified: An Overview</title>
+        <p>If Congress has been genuinely clear, the legal issue is at an end. But statutory
+terms are frequently ambiguous (this is an initial difficulty), and sometimes an
+interpretive problem is created by general language that seems not to reflect
+78 15 USC 2605 (a).
+79 7 USC 136a(a).
+80 42 USC 300g-1(b)(3).
+81 See Cass R. Sunstein, Congress, Constitutional Moments, and the Cost-Benefit State, 48 Stan. L.
+Rev. 247 (1996).
+82 5 USC 1532, 1535
+83 See, eg, section 625 of the Treasury and General Government Appropriations Act, 1998, PL
+10561; section 638(a) of the 1999 Omnibus Consolidated and Emergency Supplemental
+Appropriations Act.
+anything like congressional consideration of the specific point at issue (this is a
+second difficulty). In the face of statutory uncertainty, cases provide support for
+each of the following principles. For some of the principles, the law is more
+developed than for others; but each of the principles is an identifiable part of
+contemporary public law.</p>
+        <p>-- Unless Congress has clearly said otherwise, agencies will be permitted to
+make de minimis exceptions to statutory requirements, by exempting small
+risks from regulatory controls.84
+-- Unless Congress has clearly said otherwise, agencies will be permitted to
+take costs into account in issuing regulations. In its current form, this
+principle means that where statutes are ambiguous, agencies will have the
+authority to consider costs as well as benefits.85
+-- Unless Congress has clearly said otherwise, agencies will be permitted to
+balance the health risks created by regulation against the health benefits
+created by regulation.86
+-- Unless Congress has clearly said otherwise, agencies will be permitted to
+decline to regulate past the point where regulation would be economically or
+technologically feasible.87
+-- Unless Congress has clearly said otherwise, agencies will be expected to
+balance costs against benefits in issuing regulations.88</p>
+      </sec>
+      <sec id="sec-3-3">
+        <title>Now let us explore some details.</title>
+        <p>D. De Minimis Exceptions</p>
+        <p>1. The basic idea. In a series of cases, the D.C. Circuit has developed a
+principle authorizing agencies to make de minimis exceptions to regulatory
+requirements. The initial case was Monsanto Co. v. Kennedy.89 There the agency
+banned acrylonitrile on the ground that it counts as a “food additive,” migrating
+in small amounts from bottle into drinks within bottles. The FDA concluded that
+the ban was justified on safety grounds, a conclusion that the court found
+inadequately justified. But what is more important in the case is the general
+language with which the court remanded the case to the FDA. The court stressed
+84 See, e.g. Committee on Sensible Transportation, Inc. v. Dole, 826 F.2d 60 (DC Cir 1987).
+85 213 F. 2d 663 at XX.
+86 This principle appears to underlie American Trucking Association v. EPA, 175 F.3d 1027 (1999).
+87 See NRDC v. EPA, 824 F.2d 1146 (DC Cir. 1987).
+88 956 F.2d 321 (DC Cir 1992).
+89 613 F.2d 947 (DC Cir 1979).
+governmental assistance.255 Notwithstanding this risk, there are several possible
+grounds for making adjustments. For example, an agency might make a
+reasonable upward adjustment if it believes that children are largely at risk
+-perhaps because more life-years are at stake, perhaps because children are
+unable to protect themselves and hence have a special equitable claim to
+government resources.256 A downward adjustment would similarly be lawful if
+the agency finds that mostly old people are at risk, so that any extensions of lives
+would produce a low level of savings in terms of life-years. Or the agency might
+reasonably conclude that special attention should be given to risks faced by poor
+people or African-Americans, on the ground that existing injustice is
+compounded in a situation in which health and environmental dangers are thus
+concentrated.</p>
+        <p>Agencies should also be permitted to take into account the fact that people
+care about relative economic position, not only absolute economic position, and
+thus to adjust market valuations upwards.257 And the agency could reasonably
+employ “incidence analysis” to conclude that regulation should go forward
+notwithstanding the fact tha benefits exceed costs (see the reference to
+distributional considerations in OMB’s “best practices” document, in the
+appendix). If, for example, the benefits are $800 million, but enjoyed mostly by
+low-income workers, whereas the costs are $900 million, but faced mostly by
+consumers generally, it seems reasonable for the agency to go forward, at least if
+Congress has not expressly precluded that judgment.</p>
+        <p>There is a larger point here. In addition to knowing the benefits and costs
+of regulation, it is necessary to know who bears those costs and enjoys those
+benefits, and also the particular nature of those costs and benefits. Suppose, for
+example, that an occupational safety and health regulation would have a total
+cost of $600 million, and that the monetized benefits would be $400 million
+(including, let us say, 40 lives saved per year, and hence $200 million in
+monetized savings from fatalities averted). Is it clear that this regulation should
+not go forward? For various reasons it is not. If the people who are saved are
+children or teenagers, the uniform lives saved number might undervalue the
+relevant benefits. Equally important: What does the $600 million mean,
+concretely? Does it mean that prices will increase, by a little, for many people?
+255 See Viscusi, supra note (documenting abuses of this kind).
+256 See the acknowledgement of the relevance of life-years in American Dental Association v.
+Martin, 984 F.2d 823, 827 (7th Cir. 1993).
+257 See Robert Frank and Cass R. Sunstein, Cost-Benefit Analysis and Relative Position, U Chi L
+Rev (forthcoming 2001).
+That cost might be worth incurring. So too if the consequence of the $600 million
+expenditure would be a reduction in annual profits for companies that already
+make billions. Or does the cost mean that poor people will lose their jobs? An
+ideal cost-benefit analysis would tell us something about the incidence of both
+costs and benefits. It makes sense to say that the “bottom line” numbers will not
+be decisive when an incidence analysis shows that those numbers should be
+adjusted to take account of the identify of the winners and losers. Of course it is
+possible to think that we lack the tools to engage in a good incidence analysis, or
+that an assessment of distributional issues will be subject to interest-group
+manipulation, and hence that the “bottom line” numbers should be used for
+pragmatic reasons.258</p>
+        <p>While these points give agencies a degree of flexibility, they do not give
+them carte blanche, because they operate in limited domains, and because they
+come with a duty of reasoned explanation. This duty is procedural, but it is far
+more than that. In the Corrosion Proof Fittings case, for example, it is hard to see
+how the agency could have justified the extreme cost-benefit ratios that applied
+to certain bans on asbestos.259</p>
+        <p>3. The discount rate. Perhaps the most difficult issue here, from the
+theoretical point of view, involves the selection of the appropriate discount rate.
+How should the agency value future gains and losses? In terms of ultimate
+outcomes, the choice matters a great deal. If an agency chooses a discount rate of
+2%, the outcome will be very different from what it would be an agency chooses
+a discount rate of 10%; the benefits calculation will shift dramatically as a result.
+If a human life is valued at $8 million, and if an agency chooses a 10% discount
+rate, a life saved 100 years from now is worth only $581.260 “At a discount rate of
+five pecent, one death next year counts for more than a billion deaths in 500
+years.”261 OMB suggests a 7% discount rate (see Appendix); but this is highly
+controversial. A key question is therefore: What legal constraints should be
+imposed on the agency’s choice?262
+258 See Viscusi, Risk Equity, supra note.
+259 947 F.2d 1201 (5th Cir. 1991).
+260 See Michael Gerrard, Demons and Anegls in Hazardous Waste Regulation, 92 NW L Rev 706,
+742-43 (1998).
+261 Derek Parfit, Reasons and Persons 357 (1984).
+262 Valuable treatments include Richard Revesz, Environmental Regulation, Cost-Benefit
+Analysis, and the Discounting of Human Lives, 99 Col L Rev 941 (1999); Comment, Judicial
+Review of Discount Rates Used in Regulatory Cost-Benefit Analysis, 65 U Chi L Rev 1333 (1998).</p>
+        <p>My basic conclusion is that it is much harder to untangle the theoretical
+issue than to identify the appropriate posture of reviewing courts. In this highly
+technical area, courts should adopt a posture of deference, requiring agencies
+only to produce a reasonable explanation for their choice and to show a degree of
+consistency. Part of the reason for deference is the extreme complexity of the
+underlying issues. Part of the reason is the risk that an aggressive judicial posture
+would contribute to the “ossification” of rulemaking263 -- a particular problem in
+this setting, because any particular discount rate will be easy to challenge, with
+reasonable arguments suggesting that it is too low or too high.264 To understand
+these points, some details are in order.</p>
+        <p>Usually statutes are silent on the question of appropriate discount rate. In
+fact I have been unable to find any statute that specifies a discount rate for
+agencies to follow. On judicial review, the question will therefore involve a claim
+that the agency’s choice is arbitrary. Here the national government shows
+strikingly (and inexplicably) variable practices. As noted, the Office of
+Management and Budget suggests a 7% discount rate,265 departing from a 10%
+rate in the 1980s.266 But agencies are not bound by OMB guidelines, and they
+have ranged from as low as 3% (Food and Drug Administration, Department of
+Housing and Urban development ) to as high as 10% (EPA).267 In fact the same
+agency sometimes endorses different discount rates for no apparent reason
+-with EPA, for example, selecting a 3% rate for regulation of lead-based paint as
+compared to 7% for regulation of drinking water, and 10% rates, respectively,
+for regulation of emissions from locomotives.268 Here government practice seems
+extremely erratic.</p>
+        <p>From the purely economic standpoint, there are serious conundrums
+here.269 The impetus for discounting future effects stems from the judgment that
+in the context of money, discounting future benefits and losses is entirely
+rational, even simple: A dollar today is worth more than a dollar tomorrow.
+There are two reasons: investment value (or opportunity cost) and pure time
+263 Thomas McGarity, Some Thoughts on “Deossifying” the Rulemaking Process, 1992 Duke LJ
+1385.
+264 I am therefore disagreeing with the endorsement of “hard look” review in the excellent
+Comment, supra note.
+265 See OMB, Benefit-Cost Analysis of Federal Programs, 57 Fed Reg at 53520 (1992).
+266 See appendix for details; see also Revesz, supra note, at 950.
+267 See Comment, supra note, at 1336-37.
+268 Id. at 1337.
+269 See id. at 1341-1350; see also Appendix for excerpts from OMB’s own account.
+preference.270 A dollar today can be invested, and for this reason it is worth more
+than a dollar a year from now. An emphasis on the investment value of money
+yields a discount rate of roughly 5%-7%. Quite apart from this point, people
+generally seem to have a preference for receiving money sooner rather than later.
+People value current consumption more than they value future consumption; for
+this reason alone, $1000 is worth more today than it is in a decade. An inquiry
+into pure time preference produces discount rates of 1%-3%. Though they lead to
+different numbers, both points justify discounting future income gains and
+losses.</p>
+        <p>So far, so good. The problem is that notwithstanding conventional
+wisdom among economists, these points are not easily taken to justify a discount
+rate for the nonmonetary benefits of regulation (see table 5 for an overview of
+such benefits). If a regulation will save ten lives this year, and ten years annually
+for the next ten years, it cannot plausibly be urged that the future savings are
+worth less than the current savings, on the ground that a current life saved can
+be immediately “invested.” The point about investment value, or the
+opportunity cost of using capital, seems utterly irrelevant here. With time
+preference, things are less clear. Perhaps people would rather save ten lives
+today than ten lives in a decade. But it is unclear that this is so; and even if it is,
+what moral status would such a time preference have? Almost certainly it makes
+sense to say that it would be worse for you to lose your limb now than to lose it
+in ten years; in the latter case, you will have ten years of use of the limb. And
+probably it makes sense to say that agencies should attend to life-years saved,
+not only lives saved. But holding all this constant, the death of a thirty-five year
+old in 2004 does not seem worth more than the death of a thirty-five year old in
+2044. And since different people are involved, the moral problem is serious: The
+preference of the chooser in 2002 is certainly relevant to determining that
+chooser’s own fate, and the timing of risks that might come to fruition for that
+chooser; but the chooser’s preference cannot easily be used to determine the fate
+of someone not yet born.</p>
+        <p>These points suggest that, as Richard Revesz suggests, it is important to
+distinguish two issues that go under the name of “discounting” and that have yet
+to be separated in administrative practice: (a) latent harms, in the form of
+exposures whose consequences will occur late in someone’s lifetime; and (b)
+harms to future generations.271 It is reasonable to say that latent harms should
+count for less than immediate ones, since they remove few years from people’s
+lives. Some kind of discount rate is sensible here, although OMB’s 7% figure is
+probably too high.272 The case of harms to future generations, or people not yet
+born, is altogether different, and in that case the usual grounds for discounting
+monetary benefits are quite inapplicable. For this reason some people think that
+no discounting is appropriate for the nonmonetary benefits of regulation.273 On
+this view, a life-year saved is a life-year saved, and it does not matter, for
+purposes of valuation, when the saving occurs.</p>
+        <p>But there is a major objection to this way of proceeding: It would appear
+to require truly extraordinary sacrifices from the present for the sake of the
+(infinite) future. Perhaps the “failure to discount would leave all generations at a
+subsistence level of existence, because benefits would be postponed perpetually
+for the future.”274 On the other hand, it is not clear that the assumption behind
+this objection is convincing. Technological and other advances made by the
+current generation benefit future generations as well, and hence impoverishment
+of the current generation would inevitably harm those who will come later.275 In
+any case there is a hard ethical question here – how much the current generation
+should suffer for the benefit of the future – and a judgment against discounting
+would not answer that question unless we were sure that as a matter of policy,
+we should be engaging in maximizing some aggregate welfare function.276 It is
+not at all clear that this form of maximization is the appropriate choice to make.</p>
+        <p>At this point it should be clear that these issues are exceedingly complex
+and that agencies asked to engage in cost-benefit analysis have no clear path to
+an appropriate choice of discount rate. My principal topic, however, is not
+regulatory policy, but the implementation of the cost-benefit default principles.
+In the face of the underlying conundrums, the most that a reviewing court can
+require is a rationale for the agency’s choice that is both articulated and
+reasonable. There are several possibilities here,277 suggesting what courts should
+and should not do.
+272 See id. at 981-87.
+273 Id. at 987-1009 (offering a qualified version of this view).
+274 See David Pearce and R. Kelly Turner, Economics of Natural Resources and the Environment
+223-24 (1990).
+275 Revesz, supra note, at 994.
+276 Tyler Cowen and Derek Perfit, Against the Social Discount Rate, in Justice Between Age
+Groups and Generations 149 (Peter Laslett and James Fishkin eds. 1992).
+277 For a good discussion, see Daniel Farber, Ecopragmatism (1999).
+! Courts should not require costs and benefits to have the same discount
+rate, at least not if costs are to be absorbed in terms of dollars and
+benefits will come in terms of fatalities and illnesses averted. It follows
+that in Corrosion Proof Fittings case, the court of appeals was quite
+wrong to tell EPA to produce an “apples-to-apples comparison, even if
+this entails discounting benefits of a non-monetary nature.”278
+! Courts should not simply defer to agency decisions as a “policy
+choice,” as did one court in an unusually complex setting.279 What is
+necessary is some kind of explanation for the choice.
+! Courts should acknowledge that good explanations can be given for a
+wide range of choices – between, say, a discount rate of 0% (for future
+generations, not latent harms) and 7% (OMB’s suggestion). So long as
+the agency gives a sensible rationale and departs from it only on the
+basis of articulated reasons, courts should respect the choice. The
+value judgments here can be reasonably disputed, and they should be
+made democratically, not judicially. It follows that in the context of
+discount rates, as elsewhere, the common law of cost-benefit analysis is
+to be developed at the administrative level, subject only to judicial
+review for reasonableness.</p>
+      </sec>
+    </sec>
+    <sec id="sec-4">
+      <title>Conclusion</title>
+      <p>In this Article I have attempted to identify the cost-benefit default
+principles, to defend their use, and to explore their meaning for the future. In the
+face of statutory ambiguity, courts are now permitting agencies to refuse to
+regulate when a significant risk is not shown; to refuse to regulate beyond the
+point where regulation is not feasible; to consider costs; and to engage in a form
+of cost-benefit balancing. At their least intrusive, the cost-benefit default rules
+allow the agency to go in the suggested direction when the statute is unclear. At
+their most intrusive, the principles require the agency to act in the way they
+suggest unless Congress has unambiguously said otherwise.</p>
+      <p>I have argued on behalf of both the least and most intrusive version of the
+cost-benefit default rules, by suggesting that they are likely to give sense and
+rationality the benefit of the doubt. At the same time, I have urged that the
+argument on their behalf is presumptive only, and that in certain contexts,
+agencies have good reasons for embarking on a different course. The question is
+278 Corrosion Proof Fittings, supa note, 947 F.2d at 1218.
+279 880 F 2d at 465.
+whether agencies have been able to suffer a reasonable defense of their decision
+to that effect.</p>
+      <p>I have also attempted to set out some guidelines for the future, both under
+the cost-benefit default principles and under statutes that point in the same
+direction. It is necessary for agencies to particularize the idea of “significant”
+and “de minimis” risks through quantitative guidelines. A large point here is
+that the statistical probability of harm is not all that matters; the size of the
+exposed population is important as well. “Feasibility” is not an off-on switch,
+and here too agencies should specify what they understand the term to mean,
+beginning with the admittedly vague notion that massive dislocations would be
+both necessary and sufficient to show that regulation is not feasible. We have
+seen that with respect to valuation of life and health, market measures can
+provide a good start, from which agencies are entitled to make reasonable
+adjustments. We have also seen that the most difficult issue involves selection of
+the appropriate discount rate. Reviewing courts should not require agencies to
+apply the same discount rate to life and health that they apply to money; with
+respect to discounting, there are good reasons to distinguish money from other
+goods. The most that courts can do is to impose ceilings and floors on agency
+judgments, by requiring a good rationale for whatever discount rate is chosen.</p>
+      <p>The most general conclusion, signaled by the rise of the cost-benefit
+default principles, is that the nation is nearing the end of a “first generation”
+debate about whether to adopt a presumption in favor of cost-benefit balancing,
+and rapidly moving into a “second generation” debate about when the
+presumption is rebutted, and about what cost-benefit analysis specifically entails.
+If cost-benefit analysis is to be defended, it is not because of especially
+controversial judgments of value, but because of a belief that regulatory action
+should be judged largely in terms of its consequences.280 Suitably specified and
+understood, the cost-benefit default principles should be regarded, not as a
+technique for stalling desirable regulation, but as a pragmatic effort to ensure
+that regulation responds to serious problems rather than to trivial or imaginary
+ones. And if they are seen in these terms, the cost-benefit default principles
+operate not only a foundation for deterring regulation that promises to do less
+280 Of course there is no way of assessing consequences, or even identifying them, that is entirely
+neutral on evaluative questions. What I mean to suggest is that agreed-upon understandings can
+do the necessary work here. See the outline of the track record of cost-benefit analysis at EPA,
+supra.
+281 See the account, supra, of instances in which cost-benefit balancing spurred regulatory action.</p>
+    </sec>
+    <sec id="sec-5">
+      <title>Appendix: Excerpts from OMB Guidance on Cost-Benefit Analysis</title>
+      <p>The following consists of excerpts from OMB’s “best practices” guidelines
+for cost-benefit analysis. Because the understanding of cost-benefit analysis is so
+much better developed within OMB than within courts and the legal culture, it is
+worth attending, with some care, to OMB’s suggestions. I have challenged some
+of OMB’s claims – especially on the appropriate discount rate – but there is no
+question that OMB has offered a helpful and thoughful treatment of many of the
+underlying problems.</p>
+      <p>January 11, 1996</p>
+      <p>Economic Analysis of Federal Regulations under Executive Order 12866</p>
+      <sec id="sec-5-1">
+        <title>III. ANALYSIS OF BENEFITS AND COSTS</title>
+        <p>. . .</p>
+        <p>A. General Principles
+3. Discounting. One of the problems that arises in developing a
+benefitcost analysis is that the benefits and costs often occur in different time periods.
+When this occurs, it is not appropriate, when comparing benefits and costs, to
+simply add up the benefits and costs accruing over time. Discounting takes
+account of the fact that resources (goods or services) that are available in a given
+year are worth more than the identical resources available in a later year. One
+reason for this is that resources can be invested so as to return more resources
+later. In addition, people tend to be impatient and to prefer earlier consumption
+over later consumption.</p>
+        <p>(a) Basic considerations. Constant-dollar benefits and costs must be
+discounted to present values before benefits and costs in different years can be
+added together to determine overall net benefits. To obtain constant dollar
+estimates, benefit and cost streams in nominal dollars should be adjusted to
+correct for inflation. The basic guidance on discount rates for regulatory and
+other analyses is provided in OMB Circular A-94. The discount rate specified in
+that guidance is intended to be an approximation of the opportunity cost of
+capital, which is the before-tax rate of return to incremental private investment.
+The Circular A-94 rate, which was revised in 1992 based on an extensive review
+and public comment, reflects the rates of return on low yielding forms of capital,
+such as housing, as well as the higher rates of returns yielded by corporate
+capital. This average rate currently is estimated to be 7 percent in real terms (i.e.,
+after adjusting for inflation). . . .</p>
+        <p>Even those benefits and costs that are hard to quantify in monetary terms
+should be discounted.. . . .</p>
+        <p>(b) Additional considerations. Modern research in economic theory has
+established a preferred model for discounting, sometimes referred to as the
+shadow price approach. The basic concept is that economic welfare is ultimately
+determined by consumption; investment affects welfare only to the extent that it
+affects current and future consumption. Thus, any effect that a government
+program has on public or private investment must be converted to an associated
+stream of effects on consumption before being discounted.</p>
+        <p>Converting investment-related benefits and costs to their
+consumptionequivalents as required by this approach involves calculating the "shadow price
+of capital." This shadow price reflects the present value of the future changes in
+consumption arising from a marginal change in investment, using the
+consumption rate of interest (also termed the rate of time preference) as the
+discount rate. . . .</p>
+        <p>4. Treatment of Risk and Uncertainty. . . . Often risks, benefits, and costs
+are measured imperfectly because key parameters are not known precisely;
+instead, the economic analysis must rely upon statistical probability distributions
+for the values of parameters. Both the inherent lack of certainty about the
+consequences of a potential hazard (for example, the odds of contracting cancer)
+and the lack of complete knowledge about parameter values that define risk
+relationships (for example, the relationship between presence of a carcinogen in
+the food supply and the rate of absorption of the carcinogen) should be
+considered.</p>
+        <p>. . .</p>
+        <p>(a) Risk assessment. . . . Data relating to effects that can be identified may
+be sketchy, incomplete, or subject to measurement error or statistical bias.
+Exposures and sensitivities to risks may vary considerably across the affected
+population. These difficulties can lead, for example, to a range of quantitative
+estimates of risk in health and ecological risk assessments that can span several
+orders of magnitude. Uncertainties in cost estimates also can be significant, in
+particular because of lack of experience with the adjustments that markets can
+make to reduce regulatory burdens, the difficulty of identifying and quantifying
+opportunity cost, and the potential for enhanced or retarded technical
+innovation. All of these concerns should be reflected in the uncertainties about
+outcomes that should be incorporated in the analysis.</p>
+        <p>The treatment of uncertainty in developing risk, benefit, and cost
+information also must be guided by the principles of full disclosure and
+transparency, as with other elements of an EA. Data, models, and their
+implications for risk assessment should be identified in the risk characterization.
+. . . .</p>
+        <p>In order for the EA to evaluate outcomes involving risks, risk assessments
+must provide some estimates of the probability distribution of risks with and
+without the regulation. Whenever it is possible to quantitatively characterize the
+probability distributions, some estimates of central tendency (e.g., mean and
+median) must be provided in addition to ranges, variances, specified low-end
+and high-end percentile estimates, and other characteristics of the distribution.</p>
+        <p>Overall risk estimates cannot be more precise than their most uncertain
+component. Thus, risk estimates should be reported in a way that reflects the
+degree of uncertainty present in order to prevent creating a false sense of
+precision. The accuracy with which quantitative estimates are reported must be
+supported by the quality of the data and models used. In all cases, the level of
+precision should be stated explicitly.</p>
+        <p>Overall uncertainty is typically a consequence of uncertainties about many
+different factors. Appropriate statistical techniques should be used to combine
+uncertainties about separate factors into an overall probability distribution for a
+risk. . . .</p>
+        <p>Uncertainty may arise from a variety of fundamentally different sources,
+including lack of data, variability in populations or natural conditions,
+limitations in fundamental scientific knowledge (both social and natural)
+resulting in lack of knowledge about key relationships, or fundamental
+unpredictability of various phenomena. The nature of these different sources
+may suggest different approaches. For example, when uncertainty is due to lack
+of information, one policy alternative may be to defer action pending further
+study. One factor that may help determine whether further study is justifiable as
+a policy alternative is an evaluation of the potential benefits of the information
+relative to the resources needed to acquire it and the potential costs of delaying
+action. When uncertainty is due largely to observable variability in populations
+or natural conditions, one policy alternative may be to refine targeting, that is, to
+differentiate policies across key subgroups. Analysis of such policies should
+consider the incremental benefits of improved efficiency from targeting, any
+incremental costs of monitoring and enforcement, and changes in the
+distribution of benefits and costs. . . .</p>
+        <p>7. Nonmonetized Benefits and Costs. Presentation of monetized benefits
+and costs is preferred where acceptable estimates are possible. However,
+monetization of some of the effects of regulations is often difficult if not
+impossible, and even the quantification of some effects may not be easy. Effects
+that cannot be fully monetized or otherwise quantified should be described.
+Those effects that can be quantified should be presented along with qualitative
+information to characterize effects that are not quantified.</p>
+        <p>Irrespective of the presentation of monetized benefits and costs, the EA
+should present available physical or other quantitative measures of the effects of
+the alternative actions to help decisionmakers understand the full effects of
+alternative actions. These include the magnitude, timing, and likelihood of
+impacts, plus other relevant dimensions (e.g., irreversibility and uniqueness). For
+instance, assume the effects of a water quality regulation include increases in fish
+populations and habitat over the affected stream segments and that it is not
+possible to monetize such effects. It would then be appropriate to describe the
+benefits in terms of stream miles of habitat improvement and increases in fish
+population by species (as well as to describe the timing and likelihood of such
+effects, etc.). . . .</p>
+        <p>8. Distributional Effects and Equity. Those who bear the costs of a
+regulation and those who enjoy its benefits often are not the same people. The
+term "distributional effects" refers to the description of the net effects of a
+regulatory alternative across the population and economy, divided up in various
+ways (e.g., income groups, race, sex, industrial sector). Benefits and costs of a
+regulation may be distributed unevenly over time, perhaps spanning several
+generations. Distributional effects may also arise through "transfer payments"
+arising from a regulatory action. For example, the revenue collected through a
+fee, surcharge, or tax (in excess of the cost of any service provided) is a transfer
+payments.</p>
+        <p>Where distributive effects are thought to be important, the effects of
+various regulatory alternatives should be described quantitatively to the extent
+possible, including their magnitude, likelihood, and incidence of effects on
+particular groups. Agencies should be alert for situations in which regulatory
+alternatives result in significant changes in treatment or outcomes for different
+groups. Effects on the distribution of income that are transmitted through
+changes in market prices can be important, albeit sometimes difficult to assess.
+The EA should also present information on the streams of benefits and costs over
+time in order to provide a basis for judging intertemporal distributional
+consequences, particularly where intergenerational effects are concerned.</p>
+        <p>There are no generally accepted principles for determining when one
+distribution of net benefits is more equitable than another. Thus, the EA should
+be careful to describe distributional effects without judging their fairness. These
+descriptions should be broad, focusing on large groups with small effects per
+capita as well as on small groups experiencing large effects per capita. Equity
+issues not related to the distribution of policy effects should be noted when
+important and described quantitatively to the extent feasible.</p>
+      </sec>
+      <sec id="sec-5-2">
+        <title>B. Benefit Estimates</title>
+        <p>. . .</p>
+        <p>The calculation of benefits (including benefits of risk reductions) should
+reflect the full probability distribution of potential consequences. For example,
+extreme safety or health results should be weighted, along with other possible
+outcomes, by estimates of their probability of occurrence based on the available
+evidence to estimate the expected result of a proposed regulation. To the extent
+possible, the probability distributions of benefits should be presented. Extreme
+estimates should be presented as complements to central tendency and other
+estimates. If fundamental scientific disagreement or lack of knowledge precludes
+construction of a scientifically defensible probability distribution, benefits should
+be described under plausible alternative assumptions, along with a
+characterization of the evidence underlying each alternative view. . . .</p>
+        <p>1. General Considerations. The concept of "opportunity cost" is the
+appropriate construct for valuing both benefits and costs. The principle of
+"willingness-to-pay" captures the notion of opportunity cost by providing an
+aggregate measure of what individuals are willing to forgo to enjoy a particular
+benefit. Market transactions provide the richest data base for estimating benefits
+based on willingness-to-pay, as long as the goods and services affected by a
+potential regulation are traded in markets. It is more difficult to estimate benefits
+where market transactions are difficult to monitor or markets do not exist.
+Regulatory analysts in these cases need to develop appropriate proxies that
+simulate market exchange. Indeed, the analytical process of deriving benefit
+estimates by simulating markets may suggest alternative regulatory strategies
+that create such markets.</p>
+        <p>Either willingness-to-pay (WTP) or willingness-to-accept (WTA) can
+provide an appropriate measure of benefits, depending on the allocation of
+property rights. The common preference for WTP over WTA measures is based
+on the empirical difficulties in estimating the latter. . . .</p>
+        <p>2. Principles for Valuing Benefits Directly Traded in Markets. Ordinarily,
+goods and services are to be valued at their market prices. However, in some
+instances, the market value of a good or service may not reflect its true value to
+society.</p>
+        <p>If a regulatory alternative involves changes in such a good or service, its
+monetary value for purposes of benefit-cost analysis should be derived using an
+estimate of its true value to society (often called its "shadow price"). For example,
+suppose a particular air pollutant damages crops. One of the benefits of
+controlling that pollutant will be the value of the crop saved as a result of the
+controls. That value would typically be determined by reference to the price of
+the crop. If, however, the price of that crop is held above the unregulated market
+equilibrium price by a government price-support program, an estimate based on
+the support price would overstate the value of the benefit of controlling the
+pollutant. . . .</p>
+        <p>In other cases, market prices could understate social values, for example
+where production of a particular good also provides opportunities for improving
+basic knowledge.</p>
+        <p>3. Principles for Valuing Benefits That Are Indirectly Traded in Markets. .
+. .</p>
+        <p>A variety of methods have been developed for estimating indirectly
+traded benefits. Generally, these methods apply statistical techniques to distill
+from observable market transactions the portion of willingness-to-pay that can
+be attributed to the benefit in question. Examples include estimates of the value
+of environmental amenities derived from travel-cost studies, hedonic price
+models that measure differences or changes in the value of land, and statistical
+studies of occupational-risk premiums in wage rates. For all these methods, care
+is needed in designing protocols for reliably estimating benefits or in adapting
+the results of previous studies to new applications. The use of occupational-risk
+premiums can be a source of bias because the risks, when recognized, may be
+voluntarily rather than involuntarily assumed, and the sample of individuals
+upon which premium estimates are based may be skewed toward more
+risktolerant people.</p>
+        <p>Contingent-valuation methods have become increasingly common for
+estimating indirectly traded benefits, but the reliance of these methods on
+hypothetical scenarios and the complexities of the goods being valued by this
+technique raise issues about its accuracy in estimating willingness to pay
+compared to methods based on (indirect) revealed preferences. Accordingly,
+value estimates derived from contingent-valuation studies require greater
+analytical care than studies based on observable behavior. For example, the
+contingent valuation instrument must portray a realistic choice situation for
+respondents -- where the hypothetical choice situation corresponds closely with
+the policy context to which the estimates will be applied. The practice of
+contingent valuation is rapidly evolving, and agencies relying upon this tool for
+valuation should judge the reliability of their benefit estimates using this
+technique in light of advances in the state of the art.</p>
+        <p>4. Principles and Methods for Valuing Goods That Are Not Traded
+Directly or Indirectly in Markets. Some types of goods, such as preserving
+environmental or cultural amenities apart from their use and direct enjoyment by
+people, are not traded directly or indirectly in markets. The practical obstacles to
+accurate measurement are similar to (but generally more severe than) those
+arising with respect to indirect benefits, principally because there are few or no
+related market transactions to provide data for willingness-to-pay estimates.</p>
+        <p>For many of these goods, particularly goods providing "nonuse" values,
+contingent-valuation methods may provide the only analytical approaches
+currently available for estimating values. The absence of observable and
+replicable behavior with respect to the good in question, combined with the
+complex and often unfamiliar nature of the goods being valued, argues for great
+care in the design and execution of surveys, rigorous analysis of the results, and
+a full characterization of the uncertainties in the estimates to meet best practices
+in the use of this method.
+(b) Fatality risks. . . .</p>
+        <p>Reductions in fatality risks as a result of government action are best
+monetized according to the willingness-to-pay approach. . . . Another way of
+expressing reductions in fatality risks is in terms of the "value of statistical
+lifeyears extended" (VSLY). For example, if a regulation protected individuals
+whose average remaining life expectancy was 40 years, then a risk reduction of
+one fatality would be expressed as 40 life-years extended. This approach allows
+distinctions in risk-reduction measures based on their effects on longevity.
+However, this does not automatically mean that regulations with greater
+numbers of life-years extended will be favored over regulations with fewer
+numbers of life-years extended. VSL and VSLY ultimately depend on the
+willingness to pay for various forms of mortality risk reduction, not just
+longevity considerations.</p>
+        <p>. . .</p>
+        <p>To value reductions in more voluntarily incurred risks (e.g., those related
+to motorcycling without a helmet) that are "high," agencies should consider
+using lower values than those applied to reductions in involuntary risk. When a
+higher-risk option is chosen voluntarily, those who assume the risk may be more
+risk-tolerant, i.e., they may place a relatively lower value on avoiding risks.
+Empirical studies of risk premiums in higher-risk occupations suggest that
+reductions in risks for voluntarily assumed high risk jobs (e.g., above 10-4
+annually) are valued less than equal risk reductions for lower-risk jobs.
+However, when occupational choices are limited, the occupational risks incurred
+may be more involuntary in nature.</p>
+      </sec>
+      <sec id="sec-5-3">
+        <title>C. Cost Estimates . . .</title>
+        <p>As with benefit estimates, the calculation of costs should reflect the full
+probability distribution of potential consequences. Extreme values should be
+weighted, along with other possible outcomes, by estimates of their probability
+of occurrence based on the available evidence to estimate the expected result of a
+proposed regulation. If fundamental scientific disagreement or lack of
+knowledge precludes construction of a scientifically defensible probability
+distribution, costs should be described under plausible alternative assumptions,
+along with a characterization of the evidence underlying each alternative view. .
+. .</p>
+      </sec>
+      <sec id="sec-5-4">
+        <title>Readers with comments should address them to:</title>
+      </sec>
+      <sec id="sec-5-5">
+        <title>Cass R. Sunstein</title>
+        <p>Karl N. Llewellyn Distinguished Service Professor
+University of Chicago Law School
+1111 East 60th Street
+Chicago, IL 60637</p>
+      </sec>
+      <sec id="sec-5-6">
+        <title>Chicago Working Papers in Law and Economics</title>
+        <p>(Second Series)
+1. William M. Landes, Copyright Protection of Letters, Diaries and Other</p>
+        <p>Unpublished Works: An Economic Approach (July 1991).
+2. Richard A. Epstein, The Path to The T. J. Hooper: The Theory and History of</p>
+        <p>Custom in the Law of Tort (August 1991).
+3. Cass R. Sunstein, On Property and Constitutionalism (September 1991).
+4. Richard A. Posner, Blackmail, Privacy, and Freedom of Contract (February
+1992).
+5. Randal C. Picker, Security Interests, Misbehavior, and Common Pools
+(February 1992).
+6. Tomas J. Philipson &amp; Richard A. Posner, Optimal Regulation of AIDS (April
+1992).
+7. Douglas G. Baird, Revisiting Auctions in Chapter 11 (April 1992).
+8. William M. Landes, Sequential versus Unitary Trials: An Economic Analysis
+(July 1992).
+9. William M. Landes &amp; Richard A. Posner, The Influence of Economics on</p>
+        <p>Law: A Quantitative Study (August 1992).
+10. Alan O. Sykes, The Welfare Economics of Immigration Law: A Theoretical</p>
+        <p>Survey With An Analysis of U.S. Policy (September 1992).
+11. Douglas G. Baird, 1992 Katz Lecture: Reconstructing Contracts (November
+1992).
+12. Gary S. Becker, The Economic Way of Looking at Life (January 1993).
+13. J. Mark Ramseyer, Credibly Committing to Efficiency Wages: Cotton</p>
+        <p>Spinning Cartels in Imperial Japan (March 1993).
+14. Cass R. Sunstein, Endogenous Preferences, Environmental Law (April 1993).
+15. Richard A. Posner, What Do Judges and Justices Maximize? (The Same Thing</p>
+        <p>Everyone Else Does) (April 1993).
+16. Lucian Arye Bebchuk and Randal C. Picker, Bankruptcy Rules, Managerial</p>
+        <p>Entrenchment, and Firm-Specific Human Capital (August 1993).
+17. J. Mark Ramseyer, Explicit Reasons for Implicit Contracts: The Legal Logic to
+the Japanese Main Bank System (August 1993).
+18. William M. Landes and Richard A. Posner, The Economics of Anticipatory</p>
+        <p>Adjudication (September 1993).
+19. Kenneth W. Dam, The Economic Underpinnings of Patent Law (September
+1993).
+20. Alan O. Sykes, An Introduction to Regression Analysis (October 1993).
+21. Richard A. Epstein, The Ubiquity of the Benefit Principle (March 1994).
+22. Randal C. Picker, An Introduction to Game Theory and the Law (June 1994).
+23. William M. Landes, Counterclaims: An Economic Analysis (June 1994).
+86. Douglas G. Baird and Edward R. Morrison, Optimal Timing and Legal
+Decisionmaking: The Case of the Liquidation Decision in Bankruptcy
+(October 1999)
+87. Gertrud M. Fremling and Richard A. Posner, Market Signaling of Personal</p>
+        <p>Characteristics (November 1999)
+88. Matthew D. Adler and Eric A. Posner, Implementing Cost-Benefit Analysis</p>
+        <p>When Preferences Are Distorted (November 1999)
+89. Richard A. Posner, Orwell versus Huxley: Economics, Technology, Privacy,
+and Satire (November 1999)
+90. David A. Weisbach, Should the Tax Law Require Current Accrual of Interest
+on Derivative Financial Instruments? (December 1999)
+91. Cass R. Sunstein, The Law of Group Polarization (December 1999)
+92. Eric A. Posner, Agency Models in Law and Economics (January 2000)
+93. Karen Eggleston, Eric A. Posner, and Richard Zeckhauser, Simplicity and</p>
+        <p>Complexity in Contracts (January 2000)
+94. Douglas G. Baird and Robert K. Rasmussen, Boyd’s Legacy and Blackstone’s</p>
+        <p>Ghost (February 2000)
+95. David Schkade, Cass R. Sunstein, Daniel Kahneman, Deliberating about</p>
+        <p>Dollars: The Severity Shift (February 2000)
+96. Richard A. Posner and Eric B. Rasmusen, Creating and Enforcing Norms,
+with Special Reference to Sanctions (March 2000)
+97. Douglas Lichtman, Property Rights in Emerging Platform Technologies
+(April 2000)
+98. Cass R. Sunstein and Edna Ullmann-Margalit, Solidarity in Consumption
+(May 2000)
+99. David A. Weisbach, An Economic Analysis of Anti-Tax Avoidance Laws
+(May 2000)
+100. Cass R. Sunstein, Human Behavior and the Law of Work (June 2000)
+101. William M. Landes and Richard A. Posner, Harmless Error (June 2000)
+102. Robert H. Frank and Cass R. Sunstein, Cost-Benefit Analysis and Relative</p>
+        <p>Position (August 2000)
+103. Eric A. Posner, Law and the Emotions (September 2000)
+104. Cass R. Sunstein, Cost-Benefit Default Principles (October 2000)</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          24.
+          <string-name>
+            <surname>J. Mark</surname>
+            <given-names>Ramseyer</given-names>
+          </string-name>
+          ,
+          <article-title>The Market for Children: Evidence from Early Modern Japan</article-title>
+          (
+          <year>August 1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          25.
+          <string-name>
+            <surname>Robert</surname>
+            <given-names>H.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Gertner</surname>
+            and
+            <given-names>Geoffrey P.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Miller</surname>
+            ,
+            <given-names>Settlement Escrows</given-names>
+          </string-name>
+          (
+          <year>August 1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          26.
+          <string-name>
+            <surname>Kenneth</surname>
+            <given-names>W.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Dam</surname>
+          </string-name>
+          ,
+          <source>Some Economic Considerations in the Intellectual Property Protection of Software (August</source>
+          <year>1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          27.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Rules and Rulelessness, (
+          <year>October 1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          28. David Friedman,
+          <article-title>More Justice for Less Money: A Step Beyond Cimino</article-title>
+          (
+          <year>December 1994</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          29. Daniel Shaviro,
+          <article-title>Budget Deficits and the Intergenerational Distribution of Lifetime Consumption</article-title>
+          (
+          <year>January 1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          30.
+          <string-name>
+            <surname>Douglas</surname>
+            <given-names>G</given-names>
+          </string-name>
+          . Baird,
+          <source>The Law and Economics of Contract Damages (February</source>
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          31. Daniel Kessler, Thomas Meites, and
+          <string-name>
+            <given-names>Geoffrey P.</given-names>
+            <surname>Miller</surname>
+          </string-name>
+          ,
+          <article-title>Explaining Deviations from the Fifty Percent Rule: A Multimodal Approach to the Selection of Cases for Litigation (March</article-title>
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          32.
+          <string-name>
+            <surname>Geoffrey</surname>
+            <given-names>P.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Miller</surname>
+          </string-name>
+          ,
+          <article-title>Das Kapital: Solvency Regulation of the American Business Enterprise (April</article-title>
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          33. Richard Craswell, Freedom of Contract (
+          <year>August 1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          34.
+          <string-name>
+            <surname>J. Mark</surname>
+            <given-names>Ramseyer</given-names>
+          </string-name>
+          , Public
+          <string-name>
+            <surname>Choice</surname>
+          </string-name>
+          (
+          <year>November 1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          35.
+          <string-name>
+            <surname>Kenneth</surname>
+            <given-names>W.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Dam</surname>
+          </string-name>
+          ,
+          <source>Intellectual Property in an Age of Software and Biotechnology (November</source>
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          36.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Social Norms and Social
+          <string-name>
+            <surname>Roles</surname>
+          </string-name>
+          (
+          <year>January 1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          37.
+          <string-name>
+            <surname>J. Mark</surname>
+          </string-name>
+          Ramseyer and
+          <string-name>
+            <surname>Eric B. Rasmusen</surname>
+          </string-name>
+          , Judicial Independence in Civil Law Regimes: Econometrics from Japan (
+          <year>January 1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          38.
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Epstein</surname>
+          </string-name>
+          ,
+          <source>Transaction Costs and Property Rights: Or Do Good Fences Make Good Neighbors? (March</source>
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          39.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , The Cost-Benefit
+          <string-name>
+            <surname>State</surname>
+          </string-name>
+          (May
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          40.
+          <string-name>
+            <surname>William</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <article-title>Landes and Richard A. Posner, The Economics of Legal Disputes Over the Ownership of Works of Art</article-title>
+          and Other
+          <string-name>
+            <surname>Collectibles</surname>
+          </string-name>
+          (
+          <year>July 1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          41.
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          , Jr. and
+          <string-name>
+            <surname>David</surname>
+            <given-names>B.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Mustard</surname>
+          </string-name>
+          , Crime, Deterrence, and
+          <string-name>
+            <surname>Right-toCarry Concealed Handguns</surname>
+          </string-name>
+          (
+          <year>August 1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          42.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Health-Health Tradeoffs</surname>
+          </string-name>
+          (
+          <year>September 1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          43. G.
+          <article-title>Baird, The Hidden Virtues of Chapter 11: An Overview of the Law and Economics of Financially Distressed Firms (March</article-title>
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          44. Richard A. Posner, Community, Wealth, and
+          <string-name>
+            <surname>Equality</surname>
+          </string-name>
+          (March
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          45.
+          <string-name>
+            <surname>William M. Landes</surname>
+          </string-name>
+          ,
+          <source>The Art of Law and Economics: An Autobiographical Essay (March</source>
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          46.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <source>Behavioral Analysis of Law (April</source>
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          47.
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          , Jr. and Kermit Daniel, Term Limits and
+          <article-title>Electoral Competitiveness: Evidence from California's State Legislative Races</article-title>
+          (May
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref25">
+        <mixed-citation>
+          48.
+          <string-name>
+            <surname>Randal</surname>
+            <given-names>C.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Picker</surname>
+          </string-name>
+          ,
+          <article-title>Simple Games in a Complex World: A Generative Approach to the Adoption of Norms (June</article-title>
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref26">
+        <mixed-citation>
+          49.
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Epstein</surname>
+          </string-name>
+          ,
+          <article-title>Contracts Small and Contracts Large: Contract Law through the Lens of Laissez-Faire</article-title>
+          (
+          <year>August 1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref27">
+        <mixed-citation>
+          50.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Daniel Kahneman, and David Schkade,
+          <article-title>Assessing Punitive Damages (with Notes on Cognition and Valuation in Law)</article-title>
+          (
+          <year>December 1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref28">
+        <mixed-citation>
+          51.
+          <string-name>
+            <surname>William M. Landes</surname>
+            , Lawrence Lessig, and
+            <given-names>Michael E.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Solimine</surname>
+          </string-name>
+          , Judicial Influence:
+          <article-title>A Citation Analysis of Federal Courts of Appeals Judges</article-title>
+          (
+          <year>January 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref29">
+        <mixed-citation>
+          52.
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Jr.</surname>
+          </string-name>
+          ,
+          <article-title>A Simple Explanation for Why Campaign Expenditures are Increasing: The Government is Getting Bigger (</article-title>
+          <year>February 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref30">
+        <mixed-citation>
+          53.
+          <string-name>
+            <surname>Richard</surname>
+          </string-name>
+          <article-title>A. Posner, Values and Consequences: An Introduction to Economic Analysis of Law (March</article-title>
+          <year>1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref31">
+        <mixed-citation>
+          54.
+          <string-name>
+            <surname>Denise DiPasquale and Edward L. Glaeser</surname>
+          </string-name>
+          , Incentives and Social Capital: Are Homeowners Better Citizens? (
+          <year>April 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref32">
+        <mixed-citation>
+          55.
+          <string-name>
+            <surname>Christine</surname>
+            <given-names>Jolls</given-names>
+          </string-name>
+          ,
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+            , and Richard Thaler,
+            <given-names>A</given-names>
+          </string-name>
+          Behavioral Approach to Law and Economics (May
+          <year>1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref33">
+        <mixed-citation>
+          56.
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          , Jr.,
+          <source>Does a Helping Hand Put Others</source>
+          At Risk?: Affirmative Action, Police Departments, and
+          <string-name>
+            <surname>Crime</surname>
+          </string-name>
+          (May
+          <year>1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref34">
+        <mixed-citation>
+          57.
+          <string-name>
+            <surname>Cass</surname>
+            <given-names>R.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Sunstein</surname>
+            and
+            <given-names>Edna</given-names>
+          </string-name>
+          <string-name>
+            <surname>Ullmann-Margalit</surname>
+          </string-name>
+          , Second-Order
+          <string-name>
+            <surname>Decisions</surname>
+          </string-name>
+          (
+          <year>June 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref35">
+        <mixed-citation>
+          58.
+          <string-name>
+            <surname>Jonathan</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Karpoff and John R. Lott</surname>
+          </string-name>
+          , Jr., Punitive Damages:
+          <article-title>Their Determinants, Effects on Firm Value, and the Impact of Supreme Court and Congressional Attempts to Limit Awards (</article-title>
+          <year>July 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref36">
+        <mixed-citation>
+          59.
+          <string-name>
+            <surname>Kenneth</surname>
+            <given-names>W.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Dam</surname>
+          </string-name>
+          ,
+          <article-title>Self-Help in the Digital Jungle</article-title>
+          (
+          <year>August 1998</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref37">
+        <mixed-citation>
+          60.
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          , Jr.,
+          <article-title>How Dramatically Did Women's Suffrage Change the Size and Scope of Government?</article-title>
+          (
+          <year>September 1998</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref38">
+        <mixed-citation>
+          61.
+          <string-name>
+            <surname>Kevin</surname>
+          </string-name>
+          <article-title>A. Kordana and Eric A</article-title>
+          .
+          <string-name>
+            <surname>Posner</surname>
+          </string-name>
+          ,
+          <source>A Positive Theory of Chapter</source>
+          <volume>11</volume>
+          (
+          <year>October 1998</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref39">
+        <mixed-citation>
+          62.
+          <string-name>
+            <surname>David</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Weisbach</surname>
+          </string-name>
+          , Line Drawing, Doctrine, and
+          <article-title>Efficiency in the Tax Law (November</article-title>
+          <year>1998</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref40">
+        <mixed-citation>
+          63. Jack L.
+          <article-title>Goldsmith and Eric A</article-title>
+          .
+          <string-name>
+            <surname>Posner</surname>
+          </string-name>
+          ,
+          <source>A Theory of Customary International Law (November</source>
+          <year>1998</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref41">
+        <mixed-citation>
+          64.
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          , Jr.,
+          <string-name>
+            <surname>Public</surname>
+            <given-names>Schooling</given-names>
+          </string-name>
+          , Indoctrination, and
+          <string-name>
+            <surname>Totalitarianism</surname>
+          </string-name>
+          (December
+          <year>1998</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref42">
+        <mixed-citation>
+          65.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <article-title>Private Broadcasters and the Public Interest: Notes Toward A “Third Way”</article-title>
+          (
+          <year>January 1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref43">
+        <mixed-citation>
+          66.
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Posner</surname>
+          </string-name>
+          ,
+          <article-title>An Economic Approach to the Law of Evidence (February</article-title>
+          <year>1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref44">
+        <mixed-citation>
+          67.
+          <string-name>
+            <surname>Yannis</surname>
+            <given-names>Bakos</given-names>
+          </string-name>
+          , Erik Brynjolfsson, Douglas Lichtman, Shared Information Goods (
+          <year>February 1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref45">
+        <mixed-citation>
+          68.
+          <string-name>
+            <surname>Kenneth</surname>
+            <given-names>W.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Dam</surname>
+          </string-name>
+          ,
+          <source>Intellectual Property and the Academic Enterprise (February</source>
+          <year>1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref46">
+        <mixed-citation>
+          69.
+          <string-name>
+            <surname>Gertrud</surname>
+            <given-names>M.</given-names>
+          </string-name>
+          <article-title>Fremling and Richard A. Posner, Status Signaling and the Law, with Particular Application to Sexual Harassment (March</article-title>
+          <year>1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref47">
+        <mixed-citation>
+          70.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Must Formalism Be Defended Empirically? (
+          <year>March 1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref48">
+        <mixed-citation>
+          71.
+          <string-name>
+            <surname>Jonathan M. Karpoff</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          , Jr., and Graeme Rankine, Environmental Violations,
+          <source>Legal Penalties, and Reputation Costs (March</source>
+          <year>1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref49">
+        <mixed-citation>
+          72.
+          <string-name>
+            <surname>Matthew</surname>
+            <given-names>D.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Adler</surname>
+            and
+            <given-names>Eric A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Posner</surname>
+          </string-name>
+          , Rethinking
+          <string-name>
+            <surname>Cost-Benefit Analysis</surname>
+          </string-name>
+          (
+          <year>April 1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref50">
+        <mixed-citation>
+          73.
+          <string-name>
+            <surname>John R. Lott</surname>
+          </string-name>
+          , Jr. and
+          <string-name>
+            <surname>William M. Landes</surname>
+          </string-name>
+          , Multiple Victim Public Shooting, Bombings, and
+          <article-title>Right-to-Carry Concealed Handgun Laws: Contrasting Private and Public Law Enforcement (April</article-title>
+          <year>1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref51">
+        <mixed-citation>
+          74.
+          <string-name>
+            <surname>Lisa</surname>
+            <given-names>Bernstein</given-names>
+          </string-name>
+          ,
+          <article-title>The Questionable Empirical Basis of Article 2's Incorporation Strategy: A Preliminary Study</article-title>
+          (May
+          <year>1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref52">
+        <mixed-citation>
+          75.
+          <string-name>
+            <surname>Richard</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Epstein</surname>
+          </string-name>
+          , Deconstructing Privacy: and Putting It Back Together Again (May
+          <year>1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref53">
+        <mixed-citation>
+          76.
+          <string-name>
+            <surname>William M. Landes</surname>
+          </string-name>
+          ,
+          <article-title>Winning the Art Lottery: The Economic Returns to the Ganz Collection</article-title>
+          (May
+          <year>1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref54">
+        <mixed-citation>
+          77.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , David Schkade, and Daniel Kahneman, Do People Want Optimal Deterrence? (
+          <year>June 1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref55">
+        <mixed-citation>
+          78.
+          <string-name>
+            <surname>Tomas</surname>
+            <given-names>J</given-names>
+          </string-name>
+          .
+          <article-title>Philipson and Richard A. Posner, The Long-Run Growth in Obesity as a Function of Technological Change (</article-title>
+          <year>June 1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref56">
+        <mixed-citation>
+          79.
+          <string-name>
+            <surname>David</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Weisbach</surname>
+          </string-name>
+          ,
+          <article-title>Ironing Out the Flat Tax</article-title>
+          (
+          <year>August 1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref57">
+        <mixed-citation>
+          80.
+          <string-name>
+            <surname>Eric</surname>
+            <given-names>A.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Posner</surname>
+          </string-name>
+          ,
+          <article-title>A Theory of Contract Law under Conditions of Radical Judicial Error</article-title>
+          (
+          <year>August 1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref58">
+        <mixed-citation>
+          81. David Schkade,
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , and Daniel Kahneman, Are Juries Less Erratic than Individuals? Deliberation, Polarization, and Punitive Damages (
+          <year>September 1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref59">
+        <mixed-citation>
+          82.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Nondelegation
+          <string-name>
+            <surname>Canons</surname>
+          </string-name>
+          (
+          <year>September 1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref60">
+        <mixed-citation>
+          83.
+          <string-name>
+            <surname>Richard</surname>
+          </string-name>
+          <article-title>A. Posner, The Theory and Practice of Citations Analysis, with Special Reference to Law and Economics (September</article-title>
+          <year>1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref61">
+        <mixed-citation>
+          84.
+          <string-name>
+            <surname>Randal</surname>
+            <given-names>C.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Picker</surname>
+          </string-name>
+          , Regulating Network Industries: A Look at Intel (
+          <year>October 1999</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref62">
+        <mixed-citation>
+          85.
+          <string-name>
+            <surname>Cass R. Sunstein</surname>
+          </string-name>
+          , Cognition and
+          <string-name>
+            <surname>Cost-Benefit Analysis</surname>
+          </string-name>
+          (
+          <year>October 1999</year>
+          )
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+

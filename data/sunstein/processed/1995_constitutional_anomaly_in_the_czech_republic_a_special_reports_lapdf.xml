@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <fontStyles>
+        <fontStyle fontStyle="font-size:12pt" id="6"/>
+        <fontStyle fontStyle="font-size:14pt" id="12"/>
+        <fontStyle fontStyle="font-size:16pt" id="1"/>
+        <fontStyle fontStyle="Times-Roman" id="9"/>
+        <fontStyle fontStyle="font-size:18pt" id="8"/>
+        <fontStyle fontStyle="Times-Italic" id="11"/>
+        <fontStyle fontStyle="Helvetica-Bold" id="5"/>
+        <fontStyle fontStyle="Times-BoldItalic" id="13"/>
+        <fontStyle fontStyle="Times-Bold" id="7"/>
+        <fontStyle fontStyle="Roboto-Regular" id="0"/>
+        <fontStyle fontStyle="font-size:9pt" id="3"/>
+        <fontStyle fontStyle="font-size:10pt" id="2"/>
+        <fontStyle fontStyle="font-size:11pt" id="4"/>
+        <fontStyle fontStyle="font-size:8pt" id="10"/>
+    </fontStyles>
+    <pages>
+        <page mostPopWordHeight="11" pageNumber="1" h="792" i="0" id="0" w="612" x="0" y="0">
+            <chunks>
+                <chunk font="Roboto-Regular" fontSize="18" type="type_unclassified" h="18" i="20" id="2" w="455" x="72" y="231">
+                    <words>
+                        <wd t="Constitutional" fId="0" sId="1" h="18" i="20" id="3" w="99" x="72" y="231"/>
+                        <wd t="Anomaly" fId="0" sId="1" h="18" i="21" id="4" w="62" x="175" y="231"/>
+                        <wd t="in" fId="0" sId="1" h="18" i="22" id="5" w="13" x="241" y="231"/>
+                        <wd t="the" fId="0" sId="1" h="18" i="23" id="6" w="22" x="258" y="231"/>
+                        <wd t="Czech" fId="0" sId="1" h="18" i="24" id="7" w="43" x="285" y="231"/>
+                        <wd t="Republic," fId="0" sId="1" h="18" i="25" id="8" w="65" x="332" y="231"/>
+                        <wd t="A" fId="0" sId="1" h="18" i="26" id="9" w="10" x="401" y="231"/>
+                        <wd t="Special" fId="0" sId="1" h="18" i="27" id="10" w="52" x="415" y="231"/>
+                        <wd t="Reports" fId="0" sId="1" h="18" i="28" id="11" w="56" x="471" y="231"/>
+                        <wd t="in" fId="0" sId="1" h="18" i="31" id="12" w="12" x="242" y="231"/>
+                        <wd t="ech" fId="0" sId="1" h="18" i="34" id="13" w="26" x="303" y="231"/>
+                        <wd t="Republic," fId="0" sId="1" h="18" i="35" id="14" w="64" x="333" y="231"/>
+                        <wd t="ts" fId="0" sId="1" h="18" i="39" id="15" w="14" x="513" y="231"/>
+                    </words>
+                </chunk>
+                <chunk font="Roboto-Regular" fontSize="11" type="type_unclassified" h="32" i="43" id="16" w="399" x="72" y="560">
+                    <words>
+                        <wd t="Follow" fId="0" sId="2" h="11" i="43" id="17" w="29" x="72" y="560"/>
+                        <wd t="this" fId="0" sId="2" h="11" i="44" id="18" w="16" x="103" y="560"/>
+                        <wd t="and" fId="0" sId="2" h="11" i="45" id="19" w="17" x="122" y="560"/>
+                        <wd t="additional" fId="0" sId="2" h="11" i="46" id="20" w="44" x="141" y="560"/>
+                        <wd t="works" fId="0" sId="2" h="11" i="47" id="21" w="27" x="187" y="560"/>
+                        <wd t="at:" fId="0" sId="2" h="11" i="48" id="22" w="11" x="217" y="560"/>
+                        <wd t="https://chicagounbound.uchicago.edu/journal_articles" fId="0" sId="2" h="11" i="49" id="23" w="241" x="230" y="560"/>
+                        <wd t="Part" fId="0" sId="2" h="11" i="50" id="24" w="19" x="87" y="581"/>
+                        <wd t="of" fId="0" sId="2" h="11" i="51" id="25" w="9" x="109" y="581"/>
+                        <wd t="the" fId="0" sId="2" h="11" i="52" id="26" w="14" x="120" y="581"/>
+                        <wd t="Law" fId="0" sId="2" h="11" i="53" id="27" w="18" x="137" y="581"/>
+                        <wd t="Commons" fId="0" sId="2" h="11" i="54" id="28" w="46" x="158" y="581"/>
+                    </words>
+                </chunk>
+                <chunk font="Roboto-Regular" fontSize="11" type="type_unclassified" h="24" i="59" id="29" w="445" x="72" y="635">
+                    <words>
+                        <wd t="Cass" fId="0" sId="2" h="11" i="59" id="30" w="22" x="72" y="635"/>
+                        <wd t="R." fId="0" sId="2" h="11" i="60" id="31" w="9" x="96" y="635"/>
+                        <wd t="Sunstein," fId="0" sId="2" h="11" i="61" id="32" w="41" x="107" y="635"/>
+                        <wd t="&quot;Constitutional" fId="0" sId="2" h="11" i="62" id="33" w="65" x="151" y="635"/>
+                        <wd t="Anomaly" fId="0" sId="2" h="11" i="63" id="34" w="39" x="218" y="635"/>
+                        <wd t="in" fId="0" sId="2" h="11" i="64" id="35" w="8" x="260" y="635"/>
+                        <wd t="the" fId="0" sId="2" h="11" i="65" id="36" w="14" x="270" y="635"/>
+                        <wd t="Czech" fId="0" sId="2" h="11" i="66" id="37" w="27" x="287" y="635"/>
+                        <wd t="Republic," fId="0" sId="2" h="11" i="67" id="38" w="40" x="317" y="635"/>
+                        <wd t="A" fId="0" sId="2" h="11" i="68" id="39" w="7" x="359" y="635"/>
+                        <wd t="Special" fId="0" sId="2" h="11" i="69" id="40" w="33" x="368" y="635"/>
+                        <wd t="Reports,&quot;" fId="0" sId="2" h="11" i="70" id="41" w="40" x="403" y="635"/>
+                        <wd t="4" fId="0" sId="2" h="11" i="71" id="42" w="6" x="445" y="635"/>
+                        <wd t="East" fId="0" sId="2" h="11" i="72" id="43" w="20" x="453" y="635"/>
+                        <wd t="European" fId="0" sId="2" h="11" i="73" id="44" w="42" x="475" y="635"/>
+                        <wd t="Constitutional" fId="0" sId="2" h="11" i="74" id="45" w="62" x="72" y="648"/>
+                        <wd t="Review" fId="0" sId="2" h="11" i="75" id="46" w="32" x="136" y="648"/>
+                        <wd t="50" fId="0" sId="2" h="11" i="76" id="47" w="11" x="170" y="648"/>
+                        <wd t="(1995)." fId="0" sId="2" h="11" i="77" id="48" w="32" x="184" y="648"/>
+                    </words>
+                </chunk>
+                <chunk font="Roboto-Regular" fontSize="10" type="type_unclassified" h="33" i="78" id="49" w="454" x="72" y="686">
+                    <words>
+                        <wd t="This" fId="0" sId="3" h="10" i="78" id="50" w="17" x="72" y="686"/>
+                        <wd t="Article" fId="0" sId="3" h="10" i="79" id="51" w="26" x="91" y="686"/>
+                        <wd t="is" fId="0" sId="3" h="10" i="80" id="52" w="7" x="119" y="686"/>
+                        <wd t="brought" fId="0" sId="3" h="10" i="81" id="53" w="31" x="128" y="686"/>
+                        <wd t="to" fId="0" sId="3" h="10" i="82" id="54" w="8" x="161" y="686"/>
+                        <wd t="you" fId="0" sId="3" h="10" i="83" id="55" w="14" x="172" y="686"/>
+                        <wd t="for" fId="0" sId="3" h="10" i="84" id="56" w="11" x="188" y="686"/>
+                        <wd t="free" fId="0" sId="3" h="10" i="85" id="57" w="15" x="202" y="686"/>
+                        <wd t="and" fId="0" sId="3" h="10" i="86" id="58" w="15" x="219" y="686"/>
+                        <wd t="open" fId="0" sId="3" h="10" i="87" id="59" w="19" x="237" y="686"/>
+                        <wd t="access" fId="0" sId="3" h="10" i="88" id="60" w="28" x="259" y="686"/>
+                        <wd t="by" fId="0" sId="3" h="10" i="89" id="61" w="10" x="289" y="686"/>
+                        <wd t="the" fId="0" sId="3" h="10" i="90" id="62" w="12" x="301" y="686"/>
+                        <wd t="Faculty" fId="0" sId="3" h="10" i="91" id="63" w="28" x="316" y="686"/>
+                        <wd t="Scholarship" fId="0" sId="3" h="10" i="92" id="64" w="47" x="347" y="686"/>
+                        <wd t="at" fId="0" sId="3" h="10" i="93" id="65" w="8" x="396" y="686"/>
+                        <wd t="Chicago" fId="0" sId="3" h="10" i="94" id="66" w="33" x="406" y="686"/>
+                        <wd t="Unbound." fId="0" sId="3" h="10" i="95" id="67" w="38" x="441" y="686"/>
+                        <wd t="It" fId="0" sId="3" h="10" i="96" id="68" w="5" x="482" y="686"/>
+                        <wd t="has" fId="0" sId="3" h="10" i="97" id="69" w="15" x="489" y="686"/>
+                        <wd t="been" fId="0" sId="3" h="10" i="98" id="70" w="20" x="506" y="686"/>
+                        <wd t="accepted" fId="0" sId="3" h="10" i="99" id="71" w="36" x="72" y="698"/>
+                        <wd t="for" fId="0" sId="3" h="10" i="100" id="72" w="11" x="111" y="698"/>
+                        <wd t="inclusion" fId="0" sId="3" h="10" i="101" id="73" w="36" x="124" y="698"/>
+                        <wd t="in" fId="0" sId="3" h="10" i="102" id="74" w="7" x="162" y="698"/>
+                        <wd t="Journal" fId="0" sId="3" h="10" i="103" id="75" w="30" x="172" y="698"/>
+                        <wd t="Articles" fId="0" sId="3" h="10" i="104" id="76" w="31" x="204" y="698"/>
+                        <wd t="by" fId="0" sId="3" h="10" i="105" id="77" w="9" x="237" y="698"/>
+                        <wd t="an" fId="0" sId="3" h="10" i="106" id="78" w="10" x="248" y="698"/>
+                        <wd t="authorized" fId="0" sId="3" h="10" i="107" id="79" w="43" x="260" y="698"/>
+                        <wd t="administrator" fId="0" sId="3" h="10" i="108" id="80" w="54" x="305" y="698"/>
+                        <wd t="of" fId="0" sId="3" h="10" i="109" id="81" w="8" x="361" y="698"/>
+                        <wd t="Chicago" fId="0" sId="3" h="10" i="110" id="82" w="33" x="371" y="698"/>
+                        <wd t="Unbound." fId="0" sId="3" h="10" i="111" id="83" w="39" x="406" y="698"/>
+                        <wd t="For" fId="0" sId="3" h="10" i="112" id="84" w="13" x="447" y="698"/>
+                        <wd t="more" fId="0" sId="3" h="10" i="113" id="85" w="21" x="462" y="698"/>
+                        <wd t="information," fId="0" sId="3" h="10" i="114" id="86" w="48" x="72" y="709"/>
+                        <wd t="please" fId="0" sId="3" h="10" i="115" id="87" w="26" x="122" y="709"/>
+                        <wd t="contact" fId="0" sId="3" h="10" i="116" id="88" w="31" x="150" y="709"/>
+                        <wd t="unbound@law.uchicago.edu." fId="0" sId="3" h="10" i="117" id="89" w="115" x="183" y="709"/>
+                    </words>
+                </chunk>
+                <chunk font="Roboto-Regular" fontSize="13" type="type_unclassified" h="13" i="0" id="90" w="162" x="72" y="105">
+                    <words>
+                        <wd t="University" fId="0" sId="4" h="13" i="0" id="91" w="47" x="72" y="105"/>
+                        <wd t="of" fId="0" sId="4" h="13" i="1" id="92" w="10" x="122" y="105"/>
+                        <wd t="Chicago" fId="0" sId="4" h="13" i="2" id="93" w="40" x="135" y="105"/>
+                        <wd t="Law" fId="0" sId="4" h="13" i="3" id="94" w="20" x="178" y="105"/>
+                        <wd t="School" fId="0" sId="4" h="13" i="4" id="95" w="33" x="201" y="105"/>
+                        <wd t="ersity" fId="0" sId="4" h="13" i="6" id="96" w="27" x="93" y="105"/>
+                    </words>
+                </chunk>
+                <chunk font="Roboto-Regular" fontSize="18" type="type_unclassified" h="18" i="11" id="97" w="126" x="72" y="122">
+                    <words>
+                        <wd t="Chicago" fId="0" sId="1" h="18" i="11" id="98" w="58" x="72" y="122"/>
+                        <wd t="Unbound" fId="0" sId="1" h="18" i="12" id="99" w="64" x="134" y="122"/>
+                    </words>
+                </chunk>
+                <chunk font="Roboto-Regular" fontSize="13" type="type_unclassified" h="13" i="15" id="100" w="76" x="72" y="166">
+                    <words>
+                        <wd t="Journal" fId="0" sId="4" h="13" i="15" id="101" w="36" x="72" y="166"/>
+                        <wd t="Articles" fId="0" sId="4" h="13" i="16" id="102" w="37" x="111" y="166"/>
+                    </words>
+                </chunk>
+                <chunk font="Roboto-Regular" fontSize="13" type="type_unclassified" h="13" i="19" id="103" w="24" x="72" y="204">
+                    <words>
+                        <wd t="1995" fId="0" sId="4" h="13" i="19" id="104" w="24" x="72" y="204"/>
+                    </words>
+                </chunk>
+                <chunk font="Roboto-Regular" fontSize="13" type="type_unclassified" h="13" i="40" id="105" w="81" x="72" y="264">
+                    <words>
+                        <wd t="Cass" fId="0" sId="4" h="13" i="40" id="106" w="24" x="72" y="264"/>
+                        <wd t="R." fId="0" sId="4" h="13" i="41" id="107" w="9" x="99" y="264"/>
+                        <wd t="Sunstein" fId="0" sId="4" h="13" i="42" id="108" w="42" x="111" y="264"/>
+                    </words>
+                </chunk>
+                <chunk font="Roboto-Regular" fontSize="13" type="type_unclassified" h="13" i="55" id="109" w="114" x="72" y="619">
+                    <words>
+                        <wd t="Recommended" fId="0" sId="4" h="13" i="55" id="110" w="73" x="72" y="619"/>
+                        <wd t="Citation" fId="0" sId="4" h="13" i="56" id="111" w="38" x="148" y="619"/>
+                    </words>
+                </chunk>
+                <chunk font="Roboto-Regular" fontSize="13" type="type_unclassified" h="13" i="17" id="112" w="95" x="444" y="166">
+                    <words>
+                        <wd t="Faculty" fId="0" sId="4" h="13" i="17" id="113" w="35" x="444" y="166"/>
+                        <wd t="Scholarship" fId="0" sId="4" h="13" i="18" id="114" w="57" x="482" y="166"/>
+                    </words>
+                </chunk>
+            </chunks>
+            <margin h="614" i="0" id="0" w="467" x="72" y="105"/>
+        </page>
+        <page mostPopWordHeight="14" pageNumber="2" h="792" i="0" id="115" w="612" x="0" y="0">
+            <chunks>
+                <chunk font="Helvetica-Bold" fontSize="14" type="type_unclassified" h="14" i="4" id="117" w="253" x="307" y="91">
+                    <words>
+                        <wd t="The" fId="5" sId="6" h="14" i="4" id="118" w="14" x="307" y="91"/>
+                        <wd t="dubious" fId="5" sId="6" h="14" i="5" id="119" w="33" x="325" y="91"/>
+                        <wd t="status" fId="5" sId="6" h="14" i="6" id="120" w="27" x="362" y="91"/>
+                        <wd t="of" fId="7" sId="6" h="14" i="7" id="121" w="7" x="392" y="91"/>
+                        <wd t="the" fId="5" sId="6" h="14" i="8" id="122" w="13" x="403" y="91"/>
+                        <wd t="Charter" fId="5" sId="6" h="14" i="9" id="123" w="33" x="420" y="91"/>
+                        <wd t="of" fId="7" sId="6" h="14" i="10" id="124" w="7" x="459" y="91"/>
+                        <wd t="Rights" fId="7" sId="6" h="14" i="11" id="125" w="27" x="470" y="91"/>
+                        <wd t="and" fId="5" sId="6" h="14" i="12" id="126" w="14" x="502" y="91"/>
+                        <wd t="Freedoms" fId="5" sId="6" h="14" i="13" id="127" w="40" x="520" y="91"/>
+                    </words>
+                </chunk>
+                <chunk font="Times-Bold" fontSize="20" type="type_unclassified" h="20" i="14" id="128" w="364" x="54" y="122">
+                    <words>
+                        <wd t="A" fId="7" sId="8" h="20" i="14" id="129" w="11" x="54" y="122"/>
+                        <wd t="Constitutional" fId="7" sId="8" h="20" i="15" id="130" w="103" x="71" y="122"/>
+                        <wd t="Anomaly" fId="7" sId="8" h="20" i="16" id="131" w="65" x="179" y="122"/>
+                        <wd t="in" fId="7" sId="8" h="20" i="17" id="132" w="14" x="251" y="122"/>
+                        <wd t="the" fId="7" sId="8" h="20" i="18" id="133" w="22" x="270" y="122"/>
+                        <wd t="Czech" fId="7" sId="8" h="20" i="19" id="134" w="43" x="298" y="122"/>
+                        <wd t="Republic?" fId="7" sId="8" h="20" i="20" id="135" w="70" x="348" y="122"/>
+                    </words>
+                </chunk>
+                <chunk font="Times-Roman" fontSize="9" type="type_unclassified" h="9" i="608" id="136" w="145" x="233" y="775">
+                    <words>
+                        <wd t="HeinOnline" fId="9" sId="10" h="9" i="608" id="137" w="37" x="233" y="775"/>
+                        <wd t="--" fId="9" sId="10" h="9" i="609" id="138" w="6" x="274" y="775"/>
+                        <wd t="4" fId="9" sId="10" h="9" i="610" id="139" w="4" x="282" y="775"/>
+                        <wd t="E." fId="9" sId="10" h="9" i="611" id="140" w="7" x="288" y="775"/>
+                        <wd t="Eur." fId="9" sId="10" h="9" i="612" id="141" w="13" x="297" y="775"/>
+                        <wd t="Const." fId="9" sId="10" h="9" i="613" id="142" w="21" x="312" y="775"/>
+                        <wd t="Rev." fId="9" sId="10" h="9" i="614" id="143" w="15" x="335" y="775"/>
+                        <wd t="50" fId="9" sId="10" h="9" i="615" id="144" w="8" x="352" y="775"/>
+                        <wd t="1995" fId="9" sId="10" h="9" i="616" id="145" w="16" x="362" y="775"/>
+                    </words>
+                </chunk>
+                <chunk font="Times-Italic" fontSize="16" type="type_unclassified" h="16" i="21" id="146" w="87" x="54" y="146">
+                    <words>
+                        <wd t="Cass" fId="11" sId="12" h="16" i="21" id="147" w="26" x="54" y="146"/>
+                        <wd t="R." fId="13" sId="12" h="16" i="22" id="148" w="12" x="82" y="146"/>
+                        <wd t="Sunstein" fId="11" sId="12" h="16" i="23" id="149" w="43" x="98" y="146"/>
+                    </words>
+                </chunk>
+                <chunk font="Times-Italic" fontSize="14" type="type_unclassified" h="516" i="24" id="150" w="254" x="50" y="195">
+                    <words>
+                        <wd t="On" fId="9" sId="6" h="14" i="24" id="151" w="15" x="54" y="195"/>
+                        <wd t="May" fId="9" sId="6" h="14" i="25" id="152" w="22" x="75" y="195"/>
+                        <wd t="1," fId="9" sId="6" h="14" i="26" id="153" w="9" x="104" y="195"/>
+                        <wd t="1995," fId="9" sId="6" h="14" i="27" id="154" w="25" x="116" y="195"/>
+                        <wd t="Prime" fId="9" sId="6" h="14" i="28" id="155" w="28" x="147" y="195"/>
+                        <wd t="Minister" fId="9" sId="6" h="14" i="29" id="156" w="42" x="181" y="195"/>
+                        <wd t="Vaclav" fId="9" sId="6" h="14" i="30" id="157" w="33" x="229" y="195"/>
+                        <wd t="Klaus," fId="9" sId="6" h="14" i="31" id="158" w="30" x="269" y="195"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="32" id="159" w="15" x="54" y="209"/>
+                        <wd t="remarkable" fId="9" sId="6" h="14" i="33" id="160" w="54" x="72" y="209"/>
+                        <wd t="leader" fId="9" sId="6" h="14" i="34" id="161" w="28" x="132" y="209"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="35" id="162" w="10" x="165" y="209"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="36" id="163" w="14" x="178" y="209"/>
+                        <wd t="Czech" fId="9" sId="6" h="14" i="37" id="164" w="30" x="197" y="209"/>
+                        <wd t="Republic," fId="9" sId="6" h="14" i="38" id="165" w="46" x="232" y="209"/>
+                        <wd t="vis-" fId="9" sId="6" h="14" i="39" id="166" w="17" x="283" y="209"/>
+                        <wd t="ited" fId="9" sId="6" h="14" i="40" id="167" w="17" x="54" y="223"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="41" id="168" w="15" x="77" y="223"/>
+                        <wd t="University" fId="9" sId="6" h="14" i="42" id="169" w="51" x="96" y="223"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="43" id="170" w="10" x="153" y="223"/>
+                        <wd t="Chicago." fId="9" sId="6" h="14" i="44" id="171" w="43" x="167" y="223"/>
+                        <wd t="His" fId="9" sId="6" h="14" i="45" id="172" w="16" x="216" y="223"/>
+                        <wd t="visit" fId="9" sId="6" h="14" i="46" id="173" w="20" x="237" y="223"/>
+                        <wd t="became" fId="9" sId="6" h="14" i="47" id="174" w="36" x="262" y="223"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="48" id="175" w="15" x="54" y="237"/>
+                        <wd t="occasion" fId="9" sId="6" h="14" i="49" id="176" w="40" x="72" y="237"/>
+                        <wd t="for" fId="9" sId="6" h="14" i="50" id="177" w="13" x="116" y="237"/>
+                        <wd t="an" fId="9" sId="6" h="14" i="51" id="178" w="11" x="133" y="237"/>
+                        <wd t="intriguing" fId="9" sId="6" h="14" i="52" id="179" w="48" x="147" y="237"/>
+                        <wd t="discussion" fId="9" sId="6" h="14" i="53" id="180" w="49" x="199" y="237"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="54" id="181" w="10" x="252" y="237"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="55" id="182" w="15" x="265" y="237"/>
+                        <wd t="sta-" fId="9" sId="6" h="14" i="56" id="183" w="16" x="284" y="237"/>
+                        <wd t="tus" fId="9" sId="6" h="14" i="57" id="184" w="13" x="54" y="251"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="58" id="185" w="10" x="71" y="251"/>
+                        <wd t="constitutional" fId="9" sId="6" h="14" i="59" id="186" w="66" x="84" y="251"/>
+                        <wd t="rights" fId="9" sId="6" h="14" i="60" id="187" w="27" x="154" y="251"/>
+                        <wd t="in" fId="9" sId="6" h="14" i="61" id="188" w="8" x="185" y="251"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="62" id="189" w="15" x="198" y="251"/>
+                        <wd t="Czech" fId="9" sId="6" h="14" i="63" id="190" w="30" x="217" y="251"/>
+                        <wd t="Republic." fId="9" sId="6" h="14" i="64" id="191" w="46" x="252" y="251"/>
+                        <wd t="The" fId="9" sId="6" h="14" i="65" id="192" w="19" x="72" y="264"/>
+                        <wd t="bare" fId="9" sId="6" h="14" i="66" id="193" w="20" x="96" y="264"/>
+                        <wd t="facts" fId="9" sId="6" h="14" i="67" id="194" w="20" x="122" y="264"/>
+                        <wd t="are" fId="9" sId="6" h="14" i="68" id="195" w="13" x="148" y="264"/>
+                        <wd t="these." fId="9" sId="6" h="14" i="69" id="196" w="26" x="167" y="264"/>
+                        <wd t="In" fId="9" sId="6" h="14" i="70" id="197" w="10" x="198" y="264"/>
+                        <wd t="1991," fId="9" sId="6" h="14" i="71" id="198" w="24" x="214" y="264"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="72" id="199" w="15" x="243" y="264"/>
+                        <wd t="Federal" fId="9" sId="6" h="14" i="73" id="200" w="35" x="263" y="264"/>
+                        <wd t="Assembly" fId="9" sId="6" h="14" i="74" id="201" w="48" x="54" y="279"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="75" id="202" w="10" x="111" y="279"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="76" id="203" w="15" x="129" y="279"/>
+                        <wd t="Czech" fId="9" sId="6" h="14" i="77" id="204" w="31" x="152" y="279"/>
+                        <wd t="and" fId="9" sId="6" h="14" i="78" id="205" w="18" x="192" y="279"/>
+                        <wd t="Slovak" fId="9" sId="6" h="14" i="79" id="206" w="33" x="219" y="279"/>
+                        <wd t="Federal" fId="9" sId="6" h="14" i="80" id="207" w="36" x="262" y="279"/>
+                        <wd t="Republic" fId="9" sId="6" h="14" i="81" id="208" w="42" x="54" y="292"/>
+                        <wd t="passed" fId="9" sId="6" h="14" i="82" id="209" w="30" x="101" y="292"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="83" id="210" w="15" x="135" y="292"/>
+                        <wd t="Constitutional" fId="9" sId="6" h="14" i="84" id="211" w="70" x="153" y="292"/>
+                        <wd t="Act" fId="9" sId="6" h="14" i="85" id="212" w="17" x="227" y="292"/>
+                        <wd t="Instituting" fId="9" sId="6" h="14" i="86" id="213" w="51" x="248" y="292"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="87" id="214" w="15" x="54" y="307"/>
+                        <wd t="Charter" fId="9" sId="6" h="14" i="88" id="215" w="39" x="81" y="307"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="89" id="216" w="10" x="134" y="307"/>
+                        <wd t="Fundamental" fId="9" sId="6" h="14" i="90" id="217" w="67" x="155" y="307"/>
+                        <wd t="Rights" fId="9" sId="6" h="14" i="91" id="218" w="32" x="236" y="307"/>
+                        <wd t="and" fId="9" sId="6" h="14" i="92" id="219" w="17" x="281" y="307"/>
+                        <wd t="Freedoms." fId="9" sId="6" h="14" i="93" id="220" w="49" x="54" y="320"/>
+                        <wd t="This" fId="9" sId="6" h="14" i="94" id="221" w="21" x="108" y="320"/>
+                        <wd t="Charter" fId="9" sId="6" h="14" i="95" id="222" w="38" x="133" y="320"/>
+                        <wd t="was" fId="9" sId="6" h="14" i="96" id="223" w="17" x="176" y="320"/>
+                        <wd t="written" fId="9" sId="6" h="14" i="97" id="224" w="36" x="198" y="320"/>
+                        <wd t="with" fId="9" sId="6" h="14" i="98" id="225" w="22" x="238" y="320"/>
+                        <wd t="consid-" fId="9" sId="6" h="14" i="99" id="226" w="35" x="265" y="320"/>
+                        <wd t="erable" fId="9" sId="6" h="14" i="100" id="227" w="29" x="54" y="335"/>
+                        <wd t="help" fId="9" sId="6" h="14" i="101" id="228" w="21" x="95" y="335"/>
+                        <wd t="from" fId="9" sId="6" h="14" i="102" id="229" w="23" x="127" y="335"/>
+                        <wd t="Western" fId="9" sId="6" h="14" i="103" id="230" w="42" x="162" y="335"/>
+                        <wd t="Europeans" fId="9" sId="6" h="14" i="104" id="231" w="53" x="216" y="335"/>
+                        <wd t="and" fId="9" sId="6" h="14" i="105" id="232" w="17" x="281" y="335"/>
+                        <wd t="Americans." fId="9" sId="6" h="14" i="106" id="233" w="54" x="53" y="348"/>
+                        <wd t="It" fId="9" sId="6" h="14" i="107" id="234" w="7" x="113" y="348"/>
+                        <wd t="contains" fId="9" sId="6" h="14" i="108" id="235" w="38" x="124" y="348"/>
+                        <wd t="an" fId="9" sId="6" h="14" i="109" id="236" w="11" x="168" y="348"/>
+                        <wd t="ample" fId="9" sId="6" h="14" i="110" id="237" w="29" x="184" y="348"/>
+                        <wd t="set" fId="9" sId="6" h="14" i="111" id="238" w="12" x="218" y="348"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="112" id="239" w="10" x="235" y="348"/>
+                        <wd t="rights" fId="9" sId="6" h="14" i="113" id="240" w="27" x="249" y="348"/>
+                        <wd t="and" fId="9" sId="6" h="14" i="114" id="241" w="17" x="281" y="348"/>
+                        <wd t="freedoms," fId="9" sId="6" h="14" i="115" id="242" w="47" x="53" y="362"/>
+                        <wd t="including" fId="9" sId="6" h="14" i="116" id="243" w="44" x="107" y="362"/>
+                        <wd t="freedom" fId="9" sId="6" h="14" i="117" id="244" w="39" x="158" y="362"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="118" id="245" w="10" x="204" y="362"/>
+                        <wd t="speech" fId="9" sId="6" h="14" i="119" id="246" w="31" x="219" y="362"/>
+                        <wd t="and" fId="9" sId="6" h="14" i="120" id="247" w="17" x="257" y="362"/>
+                        <wd t="reli-" fId="9" sId="6" h="14" i="121" id="248" w="19" x="281" y="362"/>
+                        <wd t="gion," fId="9" sId="6" h="14" i="122" id="249" w="23" x="54" y="376"/>
+                        <wd t="protection" fId="9" sId="6" h="14" i="123" id="250" w="49" x="81" y="376"/>
+                        <wd t="against" fId="9" sId="6" h="14" i="124" id="251" w="32" x="136" y="376"/>
+                        <wd t="abuse" fId="9" sId="6" h="14" i="125" id="252" w="26" x="173" y="376"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="126" id="253" w="10" x="204" y="376"/>
+                        <wd t="police" fId="9" sId="6" h="14" i="127" id="254" w="28" x="218" y="376"/>
+                        <wd t="authority," fId="9" sId="6" h="14" i="128" id="255" w="48" x="251" y="376"/>
+                        <wd t="protection" fId="9" sId="6" h="14" i="129" id="256" w="49" x="53" y="390"/>
+                        <wd t="against" fId="9" sId="6" h="14" i="130" id="257" w="33" x="107" y="390"/>
+                        <wd t="discrimination," fId="9" sId="6" h="14" i="131" id="258" w="72" x="144" y="390"/>
+                        <wd t="and" fId="9" sId="6" h="14" i="132" id="259" w="17" x="221" y="390"/>
+                        <wd t="much" fId="9" sId="6" h="14" i="133" id="260" w="27" x="242" y="390"/>
+                        <wd t="more" fId="9" sId="6" h="14" i="134" id="261" w="25" x="274" y="390"/>
+                        <wd t="in" fId="9" sId="6" h="14" i="135" id="262" w="9" x="54" y="405"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="136" id="263" w="15" x="66" y="405"/>
+                        <wd t="way" fId="9" sId="6" h="14" i="137" id="264" w="20" x="84" y="405"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="138" id="265" w="10" x="107" y="405"/>
+                        <wd t="civil" fId="9" sId="6" h="14" i="139" id="266" w="20" x="119" y="405"/>
+                        <wd t="rights" fId="9" sId="6" h="14" i="140" id="267" w="26" x="142" y="405"/>
+                        <wd t="and" fId="9" sId="6" h="14" i="141" id="268" w="17" x="172" y="405"/>
+                        <wd t="liberties." fId="9" sId="6" h="14" i="142" id="269" w="41" x="192" y="405"/>
+                        <wd t="The" fId="9" sId="6" h="14" i="143" id="270" w="19" x="237" y="405"/>
+                        <wd t="Charter" fId="9" sId="6" h="14" i="144" id="271" w="38" x="260" y="405"/>
+                        <wd t="also" fId="9" sId="6" h="14" i="145" id="272" w="17" x="54" y="418"/>
+                        <wd t="includes" fId="9" sId="6" h="14" i="146" id="273" w="39" x="76" y="418"/>
+                        <wd t="a" fId="9" sId="6" h="14" i="147" id="274" w="4" x="120" y="418"/>
+                        <wd t="set" fId="9" sId="6" h="14" i="148" id="275" w="12" x="129" y="418"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="149" id="276" w="10" x="145" y="418"/>
+                        <wd t="social" fId="9" sId="6" h="14" i="150" id="277" w="26" x="158" y="418"/>
+                        <wd t="and" fId="9" sId="6" h="14" i="151" id="278" w="17" x="189" y="418"/>
+                        <wd t="economic" fId="9" sId="6" h="14" i="152" id="279" w="46" x="211" y="418"/>
+                        <wd t="guaran-" fId="9" sId="6" h="14" i="153" id="280" w="37" x="262" y="418"/>
+                        <wd t="tees." fId="9" sId="6" h="14" i="154" id="281" w="20" x="54" y="433"/>
+                        <wd t="Consider" fId="9" sId="6" h="14" i="155" id="282" w="44" x="78" y="433"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="156" id="283" w="14" x="126" y="433"/>
+                        <wd t="following" fId="9" sId="6" h="14" i="157" id="284" w="46" x="144" y="433"/>
+                        <wd t="examples:" fId="9" sId="6" h="14" i="158" id="285" w="48" x="194" y="433"/>
+                        <wd t="Article" fId="11" sId="6" h="14" i="159" id="286" w="30" x="53" y="446"/>
+                        <wd t="28:" fId="11" sId="6" h="14" i="160" id="287" w="16" x="87" y="446"/>
+                        <wd t="Employees" fId="11" sId="6" h="14" i="161" id="288" w="47" x="106" y="446"/>
+                        <wd t="are" fId="11" sId="6" h="14" i="162" id="289" w="14" x="157" y="446"/>
+                        <wd t="entitled" fId="11" sId="6" h="14" i="163" id="290" w="32" x="174" y="446"/>
+                        <wd t="to" fId="11" sId="6" h="14" i="164" id="291" w="7" x="210" y="446"/>
+                        <wd t="fair" fId="11" sId="6" h="14" i="165" id="292" w="19" x="219" y="446"/>
+                        <wd t="remuneration" fId="11" sId="6" h="14" i="166" id="293" w="61" x="241" y="446"/>
+                        <wd t="for" fId="11" sId="6" h="14" i="167" id="294" w="15" x="50" y="460"/>
+                        <wd t="work" fId="11" sId="6" h="14" i="168" id="295" w="22" x="68" y="460"/>
+                        <wd t="and" fId="11" sId="6" h="14" i="169" id="296" w="17" x="94" y="460"/>
+                        <wd t="to" fId="11" sId="6" h="14" i="170" id="297" w="7" x="113" y="460"/>
+                        <wd t="satisfactory" fId="11" sId="6" h="14" i="171" id="298" w="50" x="123" y="460"/>
+                        <wd t="working" fId="11" sId="6" h="14" i="172" id="299" w="37" x="175" y="460"/>
+                        <wd t="conditions." fId="11" sId="6" h="14" i="173" id="300" w="49" x="215" y="460"/>
+                        <wd t="Article" fId="11" sId="6" h="14" i="174" id="301" w="30" x="53" y="474"/>
+                        <wd t="29:" fId="11" sId="6" h="14" i="175" id="302" w="16" x="87" y="474"/>
+                        <wd t="Women," fId="11" sId="6" h="14" i="176" id="303" w="35" x="108" y="474"/>
+                        <wd t="adolescents," fId="11" sId="6" h="14" i="177" id="304" w="51" x="149" y="474"/>
+                        <wd t="and" fId="11" sId="6" h="14" i="178" id="305" w="17" x="203" y="474"/>
+                        <wd t="handicapped" fId="11" sId="6" h="14" i="179" id="306" w="58" x="224" y="474"/>
+                        <wd t="per-" fId="11" sId="6" h="14" i="180" id="307" w="20" x="282" y="474"/>
+                        <wd t="sons" fId="11" sId="6" h="14" i="181" id="308" w="19" x="53" y="488"/>
+                        <wd t="are" fId="11" sId="6" h="14" i="182" id="309" w="14" x="76" y="488"/>
+                        <wd t="entitled" fId="11" sId="6" h="14" i="183" id="310" w="32" x="92" y="488"/>
+                        <wd t="to" fId="11" sId="6" h="14" i="184" id="311" w="6" x="127" y="488"/>
+                        <wd t="increased" fId="11" sId="6" h="14" i="185" id="312" w="41" x="138" y="488"/>
+                        <wd t="protection" fId="11" sId="6" h="14" i="186" id="313" w="45" x="179" y="488"/>
+                        <wd t="of" fId="11" sId="6" h="14" i="187" id="314" w="9" x="226" y="488"/>
+                        <wd t="their" fId="11" sId="6" h="14" i="188" id="315" w="22" x="237" y="488"/>
+                        <wd t="health" fId="11" sId="6" h="14" i="189" id="316" w="28" x="261" y="488"/>
+                        <wd t="at" fId="11" sId="6" h="14" i="190" id="317" w="8" x="292" y="488"/>
+                        <wd t="work" fId="11" sId="6" h="14" i="191" id="318" w="22" x="53" y="502"/>
+                        <wd t="and" fId="11" sId="6" h="14" i="192" id="319" w="17" x="79" y="502"/>
+                        <wd t="to" fId="11" sId="6" h="14" i="193" id="320" w="7" x="98" y="502"/>
+                        <wd t="special" fId="11" sId="6" h="14" i="194" id="321" w="30" x="109" y="502"/>
+                        <wd t="working" fId="11" sId="6" h="14" i="195" id="322" w="37" x="140" y="502"/>
+                        <wd t="conditions." fId="11" sId="6" h="14" i="196" id="323" w="48" x="179" y="502"/>
+                        <wd t="Adolescents" fId="11" sId="6" h="14" i="197" id="324" w="52" x="228" y="502"/>
+                        <wd t="and" fId="11" sId="6" h="14" i="198" id="325" w="16" x="284" y="502"/>
+                        <wd t="handicapped" fId="11" sId="6" h="14" i="199" id="326" w="57" x="54" y="516"/>
+                        <wd t="persons" fId="11" sId="6" h="14" i="200" id="327" w="35" x="110" y="516"/>
+                        <wd t="are" fId="11" sId="6" h="14" i="201" id="328" w="13" x="148" y="516"/>
+                        <wd t="entitled" fId="11" sId="6" h="14" i="202" id="329" w="32" x="165" y="516"/>
+                        <wd t="to" fId="11" sId="6" h="14" i="203" id="330" w="7" x="200" y="516"/>
+                        <wd t="special" fId="11" sId="6" h="14" i="204" id="331" w="31" x="211" y="516"/>
+                        <wd t="protection" fId="11" sId="6" h="14" i="205" id="332" w="46" x="243" y="516"/>
+                        <wd t="in" fId="11" sId="6" h="14" i="206" id="333" w="8" x="291" y="516"/>
+                        <wd t="labor" fId="11" sId="6" h="14" i="207" id="334" w="23" x="54" y="529"/>
+                        <wd t="relations" fId="11" sId="6" h="14" i="208" id="335" w="38" x="78" y="529"/>
+                        <wd t="and" fId="11" sId="6" h="14" i="209" id="336" w="16" x="118" y="529"/>
+                        <wd t="to" fId="11" sId="6" h="14" i="210" id="337" w="7" x="137" y="529"/>
+                        <wd t="assistance" fId="11" sId="6" h="14" i="211" id="338" w="45" x="147" y="529"/>
+                        <wd t="in" fId="11" sId="6" h="14" i="212" id="339" w="9" x="193" y="529"/>
+                        <wd t="vocational" fId="11" sId="6" h="14" i="213" id="340" w="46" x="205" y="529"/>
+                        <wd t="training." fId="11" sId="6" h="14" i="214" id="341" w="41" x="252" y="529"/>
+                        <wd t="Article" fId="11" sId="6" h="14" i="215" id="342" w="31" x="53" y="544"/>
+                        <wd t="31:" fId="11" sId="6" h="14" i="216" id="343" w="15" x="86" y="544"/>
+                        <wd t="Citizens" fId="11" sId="6" h="14" i="217" id="344" w="39" x="105" y="544"/>
+                        <wd t="are" fId="11" sId="6" h="14" i="218" id="345" w="14" x="147" y="544"/>
+                        <wd t="entitled" fId="11" sId="6" h="14" i="219" id="346" w="33" x="162" y="544"/>
+                        <wd t="under" fId="11" sId="6" h="14" i="220" id="347" w="27" x="198" y="544"/>
+                        <wd t="public" fId="11" sId="6" h="14" i="221" id="348" w="29" x="225" y="544"/>
+                        <wd t="insurance" fId="11" sId="6" h="14" i="222" id="349" w="46" x="256" y="544"/>
+                        <wd t="to" fId="11" sId="6" h="14" i="223" id="350" w="7" x="53" y="558"/>
+                        <wd t="free" fId="11" sId="6" h="14" i="224" id="351" w="19" x="61" y="558"/>
+                        <wd t="medical" fId="11" sId="6" h="14" i="225" id="352" w="35" x="84" y="558"/>
+                        <wd t="care" fId="11" sId="6" h="14" i="226" id="353" w="18" x="120" y="558"/>
+                        <wd t="and" fId="11" sId="6" h="14" i="227" id="354" w="17" x="141" y="558"/>
+                        <wd t="to" fId="11" sId="6" h="14" i="228" id="355" w="7" x="160" y="558"/>
+                        <wd t="medical" fId="11" sId="6" h="14" i="229" id="356" w="34" x="171" y="558"/>
+                        <wd t="aid" fId="11" sId="6" h="14" i="230" id="357" w="15" x="208" y="558"/>
+                        <wd t="under" fId="11" sId="6" h="14" i="231" id="358" w="27" x="225" y="558"/>
+                        <wd t="conditions" fId="11" sId="6" h="14" i="232" id="359" w="47" x="254" y="558"/>
+                        <wd t="set" fId="11" sId="6" h="14" i="233" id="360" w="12" x="53" y="572"/>
+                        <wd t="by" fId="13" sId="6" h="14" i="234" id="361" w="9" x="69" y="572"/>
+                        <wd t="law." fId="11" sId="6" h="14" i="235" id="362" w="18" x="83" y="572"/>
+                        <wd t="Article" fId="11" sId="6" h="14" i="236" id="363" w="30" x="53" y="586"/>
+                        <wd t="30:" fId="11" sId="6" h="14" i="237" id="364" w="16" x="87" y="586"/>
+                        <wd t="Citizens" fId="11" sId="6" h="14" i="238" id="365" w="38" x="107" y="586"/>
+                        <wd t="are" fId="11" sId="6" h="14" i="239" id="366" w="14" x="148" y="586"/>
+                        <wd t="entitled" fId="11" sId="6" h="14" i="240" id="367" w="33" x="165" y="586"/>
+                        <wd t="to" fId="11" sId="6" h="14" i="241" id="368" w="7" x="201" y="586"/>
+                        <wd t="material" fId="11" sId="6" h="14" i="242" id="369" w="38" x="213" y="586"/>
+                        <wd t="security" fId="11" sId="6" h="14" i="243" id="370" w="35" x="252" y="586"/>
+                        <wd t="in" fId="11" sId="6" h="14" i="244" id="371" w="8" x="291" y="586"/>
+                        <wd t="old" fId="11" sId="6" h="14" i="245" id="372" w="13" x="53" y="599"/>
+                        <wd t="age" fId="11" sId="6" h="14" i="246" id="373" w="14" x="69" y="599"/>
+                        <wd t="and" fId="11" sId="6" h="14" i="247" id="374" w="17" x="86" y="599"/>
+                        <wd t="during" fId="11" sId="6" h="14" i="248" id="375" w="30" x="106" y="599"/>
+                        <wd t="incapacitation" fId="11" sId="6" h="14" i="249" id="376" w="63" x="138" y="599"/>
+                        <wd t="for" fId="11" sId="6" h="14" i="250" id="377" w="15" x="197" y="599"/>
+                        <wd t="work," fId="11" sId="6" h="14" i="251" id="378" w="25" x="215" y="599"/>
+                        <wd t="as" fId="11" sId="6" h="14" i="252" id="379" w="9" x="244" y="599"/>
+                        <wd t="well" fId="11" sId="6" h="14" i="253" id="380" w="18" x="257" y="599"/>
+                        <wd t="as" fId="11" sId="6" h="14" i="254" id="381" w="9" x="278" y="599"/>
+                        <wd t="in" fId="11" sId="6" h="14" i="255" id="382" w="8" x="291" y="599"/>
+                        <wd t="the" fId="11" sId="6" h="14" i="256" id="383" w="13" x="53" y="613"/>
+                        <wd t="case" fId="11" sId="6" h="14" i="257" id="384" w="18" x="70" y="613"/>
+                        <wd t="of" fId="11" sId="6" h="14" i="258" id="385" w="9" x="90" y="613"/>
+                        <wd t="loss" fId="11" sId="6" h="14" i="259" id="386" w="15" x="102" y="613"/>
+                        <wd t="of" fId="11" sId="6" h="14" i="260" id="387" w="9" x="121" y="613"/>
+                        <wd t="their" fId="11" sId="6" h="14" i="261" id="388" w="21" x="132" y="613"/>
+                        <wd t="provider." fId="11" sId="6" h="14" i="262" id="389" w="42" x="154" y="613"/>
+                        <wd t="Everybody" fId="11" sId="6" h="14" i="263" id="390" w="49" x="196" y="613"/>
+                        <wd t="who" fId="11" sId="6" h="14" i="264" id="391" w="18" x="248" y="613"/>
+                        <wd t="suffers" fId="11" sId="6" h="14" i="265" id="392" w="28" x="271" y="613"/>
+                        <wd t="from" fId="11" sId="6" h="14" i="266" id="393" w="22" x="50" y="627"/>
+                        <wd t="material" fId="11" sId="6" h="14" i="267" id="394" w="38" x="78" y="627"/>
+                        <wd t="need" fId="11" sId="6" h="14" i="268" id="395" w="20" x="118" y="627"/>
+                        <wd t="is" fId="11" sId="6" h="14" i="269" id="396" w="7" x="143" y="627"/>
+                        <wd t="entitled" fId="11" sId="6" h="14" i="270" id="397" w="33" x="155" y="627"/>
+                        <wd t="to" fId="11" sId="6" h="14" i="271" id="398" w="7" x="191" y="627"/>
+                        <wd t="such" fId="11" sId="6" h="14" i="272" id="399" w="20" x="204" y="627"/>
+                        <wd t="assistance" fId="11" sId="6" h="14" i="273" id="400" w="46" x="229" y="627"/>
+                        <wd t="as" fId="11" sId="6" h="14" i="274" id="401" w="9" x="278" y="627"/>
+                        <wd t="is" fId="11" sId="6" h="14" i="275" id="402" w="7" x="292" y="627"/>
+                        <wd t="essentialfor" fId="11" sId="6" h="14" i="276" id="403" w="54" x="53" y="642"/>
+                        <wd t="securing" fId="11" sId="6" h="14" i="277" id="404" w="37" x="107" y="642"/>
+                        <wd t="his" fId="11" sId="6" h="14" i="278" id="405" w="12" x="146" y="642"/>
+                        <wd t="or" fId="11" sId="6" h="14" i="279" id="406" w="9" x="162" y="642"/>
+                        <wd t="her" fId="11" sId="6" h="14" i="280" id="407" w="14" x="174" y="642"/>
+                        <wd t="basic" fId="11" sId="6" h="14" i="281" id="408" w="22" x="191" y="642"/>
+                        <wd t="living" fId="11" sId="6" h="14" i="282" id="409" w="25" x="216" y="642"/>
+                        <wd t="conditions." fId="11" sId="6" h="14" i="283" id="410" w="48" x="244" y="642"/>
+                        <wd t="Article" fId="11" sId="6" h="14" i="284" id="411" w="30" x="52" y="655"/>
+                        <wd t="35:" fId="11" sId="6" h="14" i="285" id="412" w="16" x="85" y="655"/>
+                        <wd t="Everybody" fId="11" sId="6" h="14" i="286" id="413" w="48" x="103" y="655"/>
+                        <wd t="has" fId="11" sId="6" h="14" i="287" id="414" w="15" x="154" y="655"/>
+                        <wd t="the" fId="11" sId="6" h="14" i="288" id="415" w="13" x="172" y="655"/>
+                        <wd t="right" fId="11" sId="6" h="14" i="289" id="416" w="22" x="188" y="656"/>
+                        <wd t="to" fId="11" sId="6" h="14" i="290" id="417" w="7" x="211" y="656"/>
+                        <wd t="live" fId="11" sId="6" h="14" i="291" id="418" w="15" x="222" y="656"/>
+                        <wd t="in" fId="11" sId="6" h="14" i="292" id="419" w="9" x="240" y="656"/>
+                        <wd t="afavorable" fId="11" sId="6" h="14" i="293" id="420" w="52" x="252" y="656"/>
+                        <wd t="living" fId="11" sId="6" h="14" i="294" id="421" w="25" x="53" y="669"/>
+                        <wd t="environment." fId="11" sId="6" h="14" i="295" id="422" w="59" x="81" y="669"/>
+                        <wd t="Article" fId="11" sId="6" h="14" i="296" id="423" w="30" x="52" y="683"/>
+                        <wd t="32:" fId="11" sId="6" h="14" i="297" id="424" w="16" x="85" y="683"/>
+                        <wd t="Parents" fId="11" sId="6" h="14" i="298" id="425" w="35" x="104" y="683"/>
+                        <wd t="who" fId="11" sId="6" h="14" i="299" id="426" w="18" x="141" y="683"/>
+                        <wd t="are" fId="11" sId="6" h="14" i="300" id="427" w="14" x="163" y="683"/>
+                        <wd t="raising" fId="11" sId="6" h="14" i="301" id="428" w="32" x="179" y="683"/>
+                        <wd t="children" fId="11" sId="6" h="14" i="302" id="429" w="36" x="212" y="683"/>
+                        <wd t="are" fId="11" sId="6" h="14" i="303" id="430" w="14" x="251" y="683"/>
+                        <wd t="entitled" fId="11" sId="6" h="14" i="304" id="431" w="33" x="267" y="683"/>
+                        <wd t="to" fId="11" sId="6" h="14" i="305" id="432" w="7" x="53" y="697"/>
+                        <wd t="assistance" fId="11" sId="6" h="14" i="306" id="433" w="45" x="64" y="697"/>
+                        <wd t="from" fId="11" sId="6" h="14" i="307" id="434" w="22" x="107" y="697"/>
+                        <wd t="the" fId="11" sId="6" h="14" i="308" id="435" w="13" x="132" y="697"/>
+                        <wd t="state." fId="11" sId="6" h="14" i="309" id="436" w="23" x="149" y="697"/>
+                    </words>
+                </chunk>
+                <chunk font="Helvetica-Bold" fontSize="9" type="type_unclassified" h="9" i="0" id="437" w="155" x="406" y="37">
+                    <words>
+                        <wd t="EAST" fId="5" sId="10" h="9" i="0" id="438" w="17" x="406" y="37"/>
+                        <wd t="EUROPEAN" fId="5" sId="10" h="9" i="1" id="439" w="37" x="427" y="37"/>
+                        <wd t="CONSTITUTIONAL" fId="5" sId="10" h="9" i="2" id="440" w="62" x="469" y="37"/>
+                        <wd t="REVIEW" fId="5" sId="10" h="9" i="3" id="441" w="25" x="536" y="37"/>
+                    </words>
+                </chunk>
+                <chunk font="Times-Roman" fontSize="14" type="type_unclassified" h="517" i="310" id="442" w="249" x="317" y="194">
+                    <words>
+                        <wd t="Article" fId="11" sId="6" h="14" i="310" id="443" w="30" x="318" y="194"/>
+                        <wd t="26(3):Everybody" fId="11" sId="6" h="14" i="311" id="444" w="77" x="352" y="194"/>
+                        <wd t="has" fId="11" sId="6" h="14" i="312" id="445" w="15" x="435" y="194"/>
+                        <wd t="the" fId="11" sId="6" h="14" i="313" id="446" w="13" x="456" y="194"/>
+                        <wd t="right" fId="11" sId="6" h="14" i="314" id="447" w="22" x="474" y="194"/>
+                        <wd t="to" fId="11" sId="6" h="14" i="315" id="448" w="7" x="501" y="194"/>
+                        <wd t="acquire" fId="11" sId="6" h="14" i="316" id="449" w="32" x="514" y="194"/>
+                        <wd t="the" fId="11" sId="6" h="14" i="317" id="450" w="13" x="550" y="194"/>
+                        <wd t="means" fId="11" sId="6" h="14" i="318" id="451" w="27" x="318" y="208"/>
+                        <wd t="of" fId="11" sId="6" h="14" i="319" id="452" w="9" x="349" y="208"/>
+                        <wd t="his" fId="11" sId="6" h="14" i="320" id="453" w="12" x="360" y="208"/>
+                        <wd t="or" fId="11" sId="6" h="14" i="321" id="454" w="9" x="377" y="208"/>
+                        <wd t="her" fId="11" sId="6" h="14" i="322" id="455" w="15" x="389" y="208"/>
+                        <wd t="livelihood" fId="11" sId="6" h="14" i="323" id="456" w="43" x="407" y="208"/>
+                        <wd t="by" fId="11" sId="6" h="14" i="324" id="457" w="10" x="453" y="208"/>
+                        <wd t="work." fId="11" sId="6" h="14" i="325" id="458" w="25" x="467" y="208"/>
+                        <wd t="The" fId="11" sId="6" h="14" i="326" id="459" w="17" x="497" y="208"/>
+                        <wd t="State" fId="11" sId="6" h="14" i="327" id="460" w="21" x="518" y="208"/>
+                        <wd t="shall" fId="11" sId="6" h="14" i="328" id="461" w="22" x="543" y="208"/>
+                        <wd t="provide" fId="11" sId="6" h="14" i="329" id="462" w="34" x="317" y="222"/>
+                        <wd t="appropriate" fId="11" sId="6" h="14" i="330" id="463" w="53" x="355" y="222"/>
+                        <wd t="material" fId="11" sId="6" h="14" i="331" id="464" w="38" x="409" y="222"/>
+                        <wd t="security" fId="11" sId="6" h="14" i="332" id="465" w="35" x="450" y="222"/>
+                        <wd t="to" fId="11" sId="6" h="14" i="333" id="466" w="7" x="489" y="222"/>
+                        <wd t="those" fId="11" sId="6" h="14" i="334" id="467" w="22" x="503" y="222"/>
+                        <wd t="citizens" fId="11" sId="6" h="14" i="335" id="468" w="33" x="530" y="222"/>
+                        <wd t="who" fId="11" sId="6" h="14" i="336" id="469" w="18" x="318" y="236"/>
+                        <wd t="are" fId="11" sId="6" h="14" i="337" id="470" w="14" x="340" y="236"/>
+                        <wd t="unable" fId="11" sId="6" h="14" i="338" id="471" w="29" x="356" y="236"/>
+                        <wd t="without" fId="11" sId="6" h="14" i="339" id="472" w="34" x="387" y="236"/>
+                        <wd t="their" fId="11" sId="6" h="14" i="340" id="473" w="21" x="424" y="236"/>
+                        <wd t="fault" fId="11" sId="6" h="14" i="341" id="474" w="23" x="444" y="236"/>
+                        <wd t="to" fId="11" sId="6" h="14" i="342" id="475" w="7" x="469" y="236"/>
+                        <wd t="exercise" fId="11" sId="6" h="14" i="343" id="476" w="36" x="480" y="236"/>
+                        <wd t="this" fId="11" sId="6" h="14" i="344" id="477" w="16" x="518" y="236"/>
+                        <wd t="right." fId="11" sId="6" h="14" i="345" id="478" w="24" x="538" y="236"/>
+                        <wd t="Shortly" fId="9" sId="6" h="14" i="346" id="479" w="35" x="337" y="251"/>
+                        <wd t="after" fId="9" sId="6" h="14" i="347" id="480" w="22" x="377" y="251"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="348" id="481" w="15" x="405" y="251"/>
+                        <wd t="enactment" fId="9" sId="6" h="14" i="349" id="482" w="51" x="426" y="251"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="350" id="483" w="10" x="484" y="251"/>
+                        <wd t="this" fId="9" sId="6" h="14" i="351" id="484" w="17" x="499" y="251"/>
+                        <wd t="Charter," fId="9" sId="6" h="14" i="352" id="485" w="41" x="522" y="251"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="353" id="486" w="14" x="318" y="264"/>
+                        <wd t="conflict" fId="9" sId="6" h="14" i="354" id="487" w="35" x="337" y="264"/>
+                        <wd t="between" fId="9" sId="6" h="14" i="355" id="488" w="40" x="378" y="264"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="356" id="489" w="15" x="423" y="264"/>
+                        <wd t="two" fId="9" sId="6" h="14" i="357" id="490" w="18" x="442" y="264"/>
+                        <wd t="republics" fId="9" sId="6" h="14" i="358" id="491" w="44" x="465" y="264"/>
+                        <wd t="threw" fId="9" sId="6" h="14" i="359" id="492" w="28" x="515" y="264"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="360" id="493" w="15" x="548" y="264"/>
+                        <wd t="status" fId="9" sId="6" h="14" i="361" id="494" w="26" x="318" y="278"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="362" id="495" w="10" x="351" y="278"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="363" id="496" w="14" x="366" y="278"/>
+                        <wd t="Charter" fId="9" sId="6" h="14" i="364" id="497" w="38" x="387" y="278"/>
+                        <wd t="into" fId="9" sId="6" h="14" i="365" id="498" w="19" x="431" y="278"/>
+                        <wd t="great" fId="9" sId="6" h="14" i="366" id="499" w="24" x="457" y="278"/>
+                        <wd t="doubt." fId="9" sId="6" h="14" i="367" id="500" w="31" x="487" y="278"/>
+                        <wd t="But" fId="9" sId="6" h="14" i="368" id="501" w="17" x="524" y="278"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="369" id="502" w="15" x="548" y="278"/>
+                        <wd t="Charter" fId="9" sId="6" h="14" i="370" id="503" w="37" x="318" y="292"/>
+                        <wd t="had" fId="9" sId="6" h="14" i="371" id="504" w="17" x="363" y="292"/>
+                        <wd t="a" fId="9" sId="6" h="14" i="372" id="505" w="4" x="386" y="292"/>
+                        <wd t="continuing" fId="9" sId="6" h="14" i="373" id="506" w="52" x="397" y="292"/>
+                        <wd t="effect" fId="9" sId="6" h="14" i="374" id="507" w="27" x="456" y="292"/>
+                        <wd t="on" fId="9" sId="6" h="14" i="375" id="508" w="12" x="490" y="292"/>
+                        <wd t="Czech" fId="9" sId="6" h="14" i="376" id="509" w="30" x="509" y="292"/>
+                        <wd t="and" fId="9" sId="6" h="14" i="377" id="510" w="17" x="545" y="292"/>
+                        <wd t="Slovak" fId="9" sId="6" h="14" i="378" id="511" w="31" x="319" y="306"/>
+                        <wd t="constitutionalism." fId="9" sId="6" h="14" i="379" id="512" w="86" x="354" y="306"/>
+                        <wd t="The" fId="9" sId="6" h="14" i="380" id="513" w="20" x="445" y="306"/>
+                        <wd t="Constitution" fId="9" sId="6" h="14" i="381" id="514" w="63" x="468" y="306"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="382" id="515" w="10" x="535" y="306"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="383" id="516" w="15" x="548" y="306"/>
+                        <wd t="Slovak" fId="9" sId="6" h="14" i="384" id="517" w="32" x="318" y="320"/>
+                        <wd t="Republic" fId="9" sId="6" h="14" i="385" id="518" w="43" x="359" y="320"/>
+                        <wd t="was" fId="9" sId="6" h="14" i="386" id="519" w="18" x="410" y="320"/>
+                        <wd t="passed" fId="9" sId="6" h="14" i="387" id="520" w="31" x="436" y="320"/>
+                        <wd t="on" fId="9" sId="6" h="14" i="388" id="521" w="12" x="475" y="320"/>
+                        <wd t="September" fId="9" sId="6" h="14" i="389" id="522" w="52" x="495" y="320"/>
+                        <wd t="1," fId="9" sId="6" h="14" i="390" id="523" w="9" x="557" y="320"/>
+                        <wd t="1992," fId="9" sId="6" h="14" i="391" id="524" w="25" x="319" y="334"/>
+                        <wd t="and" fId="9" sId="6" h="14" i="392" id="525" w="17" x="349" y="334"/>
+                        <wd t="it" fId="9" sId="6" h="14" i="393" id="526" w="6" x="370" y="334"/>
+                        <wd t="expressly" fId="9" sId="6" h="14" i="394" id="527" w="44" x="380" y="334"/>
+                        <wd t="included" fId="9" sId="6" h="14" i="395" id="528" w="42" x="429" y="334"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="396" id="529" w="15" x="476" y="334"/>
+                        <wd t="Charter," fId="9" sId="6" h="14" i="397" id="530" w="42" x="495" y="334"/>
+                        <wd t="with" fId="9" sId="6" h="14" i="398" id="531" w="22" x="540" y="334"/>
+                        <wd t="deliberate" fId="9" sId="6" h="14" i="399" id="532" w="46" x="318" y="348"/>
+                        <wd t="modifications," fId="9" sId="6" h="14" i="400" id="533" w="68" x="369" y="348"/>
+                        <wd t="in" fId="9" sId="6" h="14" i="401" id="534" w="9" x="442" y="348"/>
+                        <wd t="its" fId="9" sId="6" h="14" i="402" id="535" w="10" x="455" y="348"/>
+                        <wd t="text." fId="9" sId="6" h="14" i="403" id="536" w="21" x="468" y="348"/>
+                        <wd t="On" fId="9" sId="6" h="14" i="404" id="537" w="16" x="493" y="348"/>
+                        <wd t="December" fId="9" sId="6" h="14" i="405" id="538" w="48" x="513" y="348"/>
+                        <wd t="16," fId="9" sId="6" h="14" i="406" id="539" w="13" x="319" y="362"/>
+                        <wd t="1992," fId="9" sId="6" h="14" i="407" id="540" w="25" x="337" y="362"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="408" id="541" w="15" x="366" y="362"/>
+                        <wd t="new" fId="9" sId="6" h="14" i="409" id="542" w="20" x="385" y="362"/>
+                        <wd t="Czech" fId="9" sId="6" h="14" i="410" id="543" w="30" x="410" y="362"/>
+                        <wd t="Constitution" fId="9" sId="6" h="14" i="411" id="544" w="63" x="445" y="362"/>
+                        <wd t="was" fId="9" sId="6" h="14" i="412" id="545" w="18" x="513" y="362"/>
+                        <wd t="enact-" fId="9" sId="6" h="14" i="413" id="546" w="28" x="535" y="362"/>
+                        <wd t="ed." fId="9" sId="6" h="14" i="414" id="547" w="13" x="318" y="376"/>
+                        <wd t="It" fId="9" sId="6" h="14" i="415" id="548" w="7" x="336" y="376"/>
+                        <wd t="did" fId="9" sId="6" h="14" i="416" id="549" w="15" x="347" y="376"/>
+                        <wd t="not," fId="9" sId="6" h="14" i="417" id="550" w="18" x="367" y="376"/>
+                        <wd t="however," fId="9" sId="6" h="14" i="418" id="551" w="45" x="390" y="376"/>
+                        <wd t="contain" fId="9" sId="6" h="14" i="419" id="552" w="36" x="439" y="376"/>
+                        <wd t="an" fId="9" sId="6" h="14" i="420" id="553" w="11" x="481" y="376"/>
+                        <wd t="explicit" fId="9" sId="6" h="14" i="421" id="554" w="36" x="497" y="376"/>
+                        <wd t="set" fId="9" sId="6" h="14" i="422" id="555" w="12" x="537" y="376"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="423" id="556" w="8" x="554" y="376"/>
+                        <wd t="provisions" fId="9" sId="6" h="14" i="424" id="557" w="49" x="318" y="390"/>
+                        <wd t="guaranteeing" fId="9" sId="6" h="14" i="425" id="558" w="63" x="373" y="390"/>
+                        <wd t="fundamental" fId="9" sId="6" h="14" i="426" id="559" w="63" x="443" y="390"/>
+                        <wd t="rights" fId="9" sId="6" h="14" i="427" id="560" w="27" x="512" y="390"/>
+                        <wd t="and" fId="9" sId="6" h="14" i="428" id="561" w="16" x="545" y="390"/>
+                        <wd t="freedoms." fId="9" sId="6" h="14" i="429" id="562" w="47" x="318" y="404"/>
+                        <wd t="Unlike" fId="9" sId="6" h="14" i="430" id="563" w="33" x="370" y="404"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="431" id="564" w="15" x="408" y="404"/>
+                        <wd t="Slovak" fId="9" sId="6" h="14" i="432" id="565" w="33" x="428" y="404"/>
+                        <wd t="Constitution," fId="9" sId="6" h="14" i="433" id="566" w="65" x="466" y="404"/>
+                        <wd t="it" fId="9" sId="6" h="14" i="434" id="567" w="6" x="537" y="404"/>
+                        <wd t="did" fId="9" sId="6" h="14" i="435" id="568" w="15" x="547" y="404"/>
+                        <wd t="not" fId="9" sId="6" h="14" i="436" id="569" w="15" x="318" y="418"/>
+                        <wd t="include" fId="9" sId="6" h="14" i="437" id="570" w="35" x="338" y="418"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="438" id="571" w="14" x="378" y="418"/>
+                        <wd t="Charter" fId="9" sId="6" h="14" i="439" id="572" w="38" x="396" y="418"/>
+                        <wd t="in" fId="9" sId="6" h="14" i="440" id="573" w="9" x="439" y="418"/>
+                        <wd t="its" fId="9" sId="6" h="14" i="441" id="574" w="10" x="453" y="418"/>
+                        <wd t="text." fId="9" sId="6" h="14" i="442" id="575" w="22" x="468" y="418"/>
+                        <wd t="Instead" fId="9" sId="6" h="14" i="443" id="576" w="34" x="494" y="418"/>
+                        <wd t="it" fId="9" sId="6" h="14" i="444" id="577" w="6" x="533" y="418"/>
+                        <wd t="con-" fId="9" sId="6" h="14" i="445" id="578" w="20" x="543" y="418"/>
+                        <wd t="tained" fId="9" sId="6" h="14" i="446" id="579" w="29" x="318" y="432"/>
+                        <wd t="two" fId="9" sId="6" h="14" i="447" id="580" w="18" x="352" y="432"/>
+                        <wd t="very" fId="9" sId="6" h="14" i="448" id="581" w="21" x="374" y="432"/>
+                        <wd t="short," fId="9" sId="6" h="14" i="449" id="582" w="27" x="399" y="432"/>
+                        <wd t="relevant" fId="9" sId="6" h="14" i="450" id="583" w="40" x="430" y="432"/>
+                        <wd t="articles:" fId="9" sId="6" h="14" i="451" id="584" w="37" x="474" y="432"/>
+                        <wd t="Article" fId="11" sId="6" h="14" i="452" id="585" w="30" x="318" y="446"/>
+                        <wd t="3:" fId="11" sId="6" h="14" i="453" id="586" w="9" x="353" y="446"/>
+                        <wd t="The" fId="11" sId="6" h="14" i="454" id="587" w="17" x="368" y="446"/>
+                        <wd t="Charter" fId="11" sId="6" h="14" i="455" id="588" w="37" x="392" y="446"/>
+                        <wd t="of" fId="11" sId="6" h="14" i="456" id="589" w="9" x="433" y="446"/>
+                        <wd t="Fundamental" fId="11" sId="6" h="14" i="457" id="590" w="62" x="446" y="446"/>
+                        <wd t="Rights" fId="11" sId="6" h="14" i="458" id="591" w="30" x="511" y="446"/>
+                        <wd t="and" fId="11" sId="6" h="14" i="459" id="592" w="16" x="548" y="446"/>
+                        <wd t="Freedoms" fId="11" sId="6" h="14" i="460" id="593" w="43" x="318" y="460"/>
+                        <wd t="forms" fId="11" sId="6" h="14" i="461" id="594" w="26" x="360" y="460"/>
+                        <wd t="a" fId="11" sId="6" h="14" i="462" id="595" w="5" x="391" y="460"/>
+                        <wd t="part" fId="11" sId="6" h="14" i="463" id="596" w="20" x="399" y="460"/>
+                        <wd t="of" fId="11" sId="6" h="14" i="464" id="597" w="9" x="421" y="460"/>
+                        <wd t="the" fId="11" sId="6" h="14" i="465" id="598" w="13" x="432" y="460"/>
+                        <wd t="constitutional" fId="11" sId="6" h="14" i="466" id="599" w="63" x="450" y="460"/>
+                        <wd t="order" fId="11" sId="6" h="14" i="467" id="600" w="24" x="513" y="460"/>
+                        <wd t="of" fId="11" sId="6" h="14" i="468" id="601" w="9" x="539" y="460"/>
+                        <wd t="the" fId="11" sId="6" h="14" i="469" id="602" w="14" x="550" y="460"/>
+                        <wd t="Czech" fId="11" sId="6" h="14" i="470" id="603" w="28" x="318" y="474"/>
+                        <wd t="Republic." fId="11" sId="6" h="14" i="471" id="604" w="42" x="349" y="474"/>
+                        <wd t="Article" fId="11" sId="6" h="14" i="472" id="605" w="30" x="318" y="488"/>
+                        <wd t="4:" fId="11" sId="6" h="14" i="473" id="606" w="9" x="352" y="488"/>
+                        <wd t="The" fId="11" sId="6" h="14" i="474" id="607" w="16" x="366" y="488"/>
+                        <wd t="fundamental" fId="11" sId="6" h="14" i="475" id="608" w="58" x="386" y="488"/>
+                        <wd t="rights" fId="11" sId="6" h="14" i="476" id="609" w="26" x="448" y="488"/>
+                        <wd t="and" fId="11" sId="6" h="14" i="477" id="610" w="17" x="478" y="488"/>
+                        <wd t="freedoms" fId="11" sId="6" h="14" i="478" id="611" w="41" x="497" y="488"/>
+                        <wd t="shall" fId="11" sId="6" h="14" i="479" id="612" w="22" x="543" y="488"/>
+                        <wd t="enjoy" fId="11" sId="6" h="14" i="480" id="613" w="22" x="318" y="502"/>
+                        <wd t="the" fId="11" sId="6" h="14" i="481" id="614" w="13" x="344" y="502"/>
+                        <wd t="protection" fId="11" sId="6" h="14" i="482" id="615" w="44" x="359" y="502"/>
+                        <wd t="of" fId="11" sId="6" h="14" i="483" id="616" w="9" x="404" y="502"/>
+                        <wd t="the" fId="11" sId="6" h="14" i="484" id="617" w="13" x="415" y="502"/>
+                        <wd t="judicial" fId="11" sId="6" h="14" i="485" id="618" w="36" x="429" y="502"/>
+                        <wd t="power." fId="11" sId="6" h="14" i="486" id="619" w="32" x="464" y="502"/>
+                        <wd t="To" fId="9" sId="6" h="14" i="487" id="620" w="13" x="336" y="516"/>
+                        <wd t="say" fId="9" sId="6" h="14" i="488" id="621" w="14" x="354" y="516"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="489" id="622" w="14" x="372" y="516"/>
+                        <wd t="least," fId="9" sId="6" h="14" i="490" id="623" w="23" x="391" y="516"/>
+                        <wd t="these" fId="9" sId="6" h="14" i="491" id="624" w="24" x="419" y="516"/>
+                        <wd t="are" fId="9" sId="6" h="14" i="492" id="625" w="14" x="448" y="516"/>
+                        <wd t="unusual" fId="9" sId="6" h="14" i="493" id="626" w="39" x="467" y="516"/>
+                        <wd t="provisions." fId="9" sId="6" h="14" i="494" id="627" w="51" x="510" y="516"/>
+                        <wd t="A" fId="9" sId="6" h="14" i="495" id="628" w="8" x="318" y="529"/>
+                        <wd t="lawyer," fId="9" sId="6" h="14" i="496" id="629" w="35" x="331" y="529"/>
+                        <wd t="a" fId="9" sId="6" h="14" i="497" id="630" w="4" x="371" y="529"/>
+                        <wd t="political" fId="9" sId="6" h="14" i="498" id="631" w="39" x="380" y="529"/>
+                        <wd t="scientist," fId="9" sId="6" h="14" i="499" id="632" w="42" x="425" y="529"/>
+                        <wd t="or" fId="9" sId="6" h="14" i="500" id="633" w="10" x="472" y="530"/>
+                        <wd t="a" fId="9" sId="6" h="14" i="501" id="634" w="4" x="487" y="530"/>
+                        <wd t="citizen" fId="9" sId="6" h="14" i="502" id="635" w="32" x="497" y="530"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="503" id="636" w="10" x="534" y="530"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="504" id="637" w="15" x="548" y="530"/>
+                        <wd t="Czech" fId="9" sId="6" h="14" i="505" id="638" w="30" x="318" y="544"/>
+                        <wd t="Republic" fId="9" sId="6" h="14" i="506" id="639" w="42" x="356" y="544"/>
+                        <wd t="should" fId="9" sId="6" h="14" i="507" id="640" w="31" x="406" y="544"/>
+                        <wd t="at" fId="9" sId="6" h="14" i="508" id="641" w="8" x="445" y="544"/>
+                        <wd t="this" fId="9" sId="6" h="14" i="509" id="642" w="17" x="461" y="544"/>
+                        <wd t="stage" fId="9" sId="6" h="14" i="510" id="643" w="24" x="485" y="544"/>
+                        <wd t="raise" fId="9" sId="6" h="14" i="511" id="644" w="21" x="516" y="544"/>
+                        <wd t="two" fId="9" sId="6" h="14" i="512" id="645" w="18" x="545" y="544"/>
+                        <wd t="questions:" fId="9" sId="6" h="14" i="513" id="646" w="49" x="318" y="557"/>
+                        <wd t="What" fId="9" sId="6" h="14" i="514" id="647" w="29" x="376" y="558"/>
+                        <wd t="is" fId="9" sId="6" h="14" i="515" id="648" w="7" x="413" y="558"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="516" id="649" w="15" x="427" y="558"/>
+                        <wd t="precise" fId="9" sId="6" h="14" i="517" id="650" w="35" x="450" y="558"/>
+                        <wd t="status" fId="9" sId="6" h="14" i="518" id="651" w="28" x="494" y="558"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="519" id="652" w="10" x="531" y="558"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="520" id="653" w="16" x="547" y="558"/>
+                        <wd t="Charter" fId="9" sId="6" h="14" i="521" id="654" w="38" x="318" y="572"/>
+                        <wd t="in" fId="9" sId="6" h="14" i="522" id="655" w="9" x="364" y="572"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="523" id="656" w="15" x="381" y="572"/>
+                        <wd t="current" fId="9" sId="6" h="14" i="524" id="657" w="35" x="403" y="572"/>
+                        <wd t="Czech" fId="9" sId="6" h="14" i="525" id="658" w="31" x="447" y="572"/>
+                        <wd t="Republic?" fId="9" sId="6" h="14" i="526" id="659" w="48" x="486" y="572"/>
+                        <wd t="And" fId="9" sId="6" h="14" i="527" id="660" w="20" x="542" y="572"/>
+                        <wd t="what" fId="9" sId="6" h="14" i="528" id="661" w="24" x="318" y="586"/>
+                        <wd t="was" fId="9" sId="6" h="14" i="529" id="662" w="17" x="348" y="586"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="530" id="663" w="15" x="372" y="586"/>
+                        <wd t="genesis" fId="9" sId="6" h="14" i="531" id="664" w="33" x="392" y="586"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="532" id="665" w="10" x="431" y="586"/>
+                        <wd t="these" fId="9" sId="6" h="14" i="533" id="666" w="24" x="446" y="586"/>
+                        <wd t="puzzling" fId="9" sId="6" h="14" i="534" id="667" w="42" x="476" y="586"/>
+                        <wd t="articles?" fId="9" sId="6" h="14" i="535" id="668" w="38" x="525" y="586"/>
+                        <wd t="The" fId="9" sId="6" h="14" i="536" id="669" w="19" x="318" y="599"/>
+                        <wd t="first" fId="9" sId="6" h="14" i="537" id="670" w="19" x="341" y="599"/>
+                        <wd t="question" fId="9" sId="6" h="14" i="538" id="671" w="40" x="364" y="599"/>
+                        <wd t="seems" fId="9" sId="6" h="14" i="539" id="672" w="27" x="408" y="599"/>
+                        <wd t="easier" fId="9" sId="6" h="14" i="540" id="673" w="27" x="440" y="599"/>
+                        <wd t="to" fId="9" sId="6" h="14" i="541" id="674" w="9" x="471" y="599"/>
+                        <wd t="answer" fId="9" sId="6" h="14" i="542" id="675" w="34" x="484" y="599"/>
+                        <wd t="than" fId="9" sId="6" h="14" i="543" id="676" w="21" x="523" y="599"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="544" id="677" w="15" x="548" y="599"/>
+                        <wd t="second." fId="9" sId="6" h="14" i="545" id="678" w="36" x="318" y="614"/>
+                        <wd t="Articles" fId="9" sId="6" h="14" i="546" id="679" w="38" x="362" y="614"/>
+                        <wd t="3" fId="9" sId="6" h="14" i="547" id="680" w="5" x="409" y="614"/>
+                        <wd t="and" fId="9" sId="6" h="14" i="548" id="681" w="18" x="421" y="614"/>
+                        <wd t="4" fId="9" sId="6" h="14" i="549" id="682" w="5" x="447" y="614"/>
+                        <wd t="appear" fId="9" sId="6" h="14" i="550" id="683" w="34" x="461" y="614"/>
+                        <wd t="to" fId="9" sId="6" h="14" i="551" id="684" w="9" x="503" y="614"/>
+                        <wd t="give" fId="9" sId="6" h="14" i="552" id="685" w="20" x="520" y="614"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="553" id="686" w="16" x="547" y="614"/>
+                        <wd t="Charter" fId="9" sId="6" h="14" i="554" id="687" w="37" x="318" y="628"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="555" id="688" w="14" x="362" y="628"/>
+                        <wd t="same" fId="9" sId="6" h="14" i="556" id="689" w="23" x="383" y="628"/>
+                        <wd t="status" fId="9" sId="6" h="14" i="557" id="690" w="26" x="412" y="628"/>
+                        <wd t="as" fId="9" sId="6" h="14" i="558" id="691" w="8" x="445" y="628"/>
+                        <wd t="anything" fId="9" sId="6" h="14" i="559" id="692" w="44" x="460" y="628"/>
+                        <wd t="else" fId="9" sId="6" h="14" i="560" id="693" w="17" x="510" y="628"/>
+                        <wd t="in" fId="9" sId="6" h="14" i="561" id="694" w="8" x="533" y="628"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="562" id="695" w="15" x="548" y="628"/>
+                        <wd t="Czech" fId="9" sId="6" h="14" i="563" id="696" w="30" x="318" y="642"/>
+                        <wd t="Constitution." fId="9" sId="6" h="14" i="564" id="697" w="64" x="354" y="642"/>
+                        <wd t="Something" fId="9" sId="6" h="14" i="565" id="698" w="53" x="423" y="642"/>
+                        <wd t="that" fId="9" sId="6" h="14" i="566" id="699" w="19" x="482" y="642"/>
+                        <wd t="is" fId="9" sId="6" h="14" i="567" id="700" w="6" x="506" y="642"/>
+                        <wd t="&quot;a" fId="9" sId="6" h="14" i="568" id="701" w="8" x="518" y="642"/>
+                        <wd t="part" fId="9" sId="6" h="14" i="569" id="702" w="19" x="530" y="642"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="570" id="703" w="8" x="554" y="642"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="571" id="704" w="15" x="318" y="656"/>
+                        <wd t="constitutional" fId="9" sId="6" h="14" i="572" id="705" w="65" x="337" y="656"/>
+                        <wd t="order&quot;" fId="9" sId="6" h="14" i="573" id="706" w="30" x="408" y="656"/>
+                        <wd t="seems," fId="9" sId="6" h="14" i="574" id="707" w="30" x="443" y="656"/>
+                        <wd t="at" fId="9" sId="6" h="14" i="575" id="708" w="9" x="478" y="656"/>
+                        <wd t="least" fId="9" sId="6" h="14" i="576" id="709" w="22" x="491" y="656"/>
+                        <wd t="to" fId="9" sId="6" h="14" i="577" id="710" w="8" x="517" y="656"/>
+                        <wd t="an" fId="9" sId="6" h="14" i="578" id="711" w="11" x="529" y="656"/>
+                        <wd t="out-" fId="9" sId="6" h="14" i="579" id="712" w="19" x="545" y="656"/>
+                        <wd t="sider," fId="9" sId="6" h="14" i="580" id="713" w="25" x="318" y="670"/>
+                        <wd t="to" fId="9" sId="6" h="14" i="581" id="714" w="8" x="347" y="670"/>
+                        <wd t="-be" fId="9" sId="6" h="14" i="582" id="715" w="14" x="358" y="670"/>
+                        <wd t="a" fId="9" sId="6" h="14" i="583" id="716" w="4" x="374" y="670"/>
+                        <wd t="part" fId="9" sId="6" h="14" i="584" id="717" w="19" x="383" y="670"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="585" id="718" w="10" x="406" y="670"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="586" id="719" w="15" x="419" y="670"/>
+                        <wd t="Constitution." fId="9" sId="6" h="14" i="587" id="720" w="67" x="438" y="670"/>
+                        <wd t="In" fId="9" sId="6" h="14" i="588" id="721" w="9" x="509" y="670"/>
+                        <wd t="any" fId="9" sId="6" h="14" i="589" id="722" w="17" x="522" y="670"/>
+                        <wd t="case" fId="9" sId="6" h="14" i="590" id="723" w="18" x="544" y="670"/>
+                        <wd t="some" fId="9" sId="6" h="14" i="591" id="724" w="24" x="318" y="684"/>
+                        <wd t="such" fId="9" sId="6" h="14" i="592" id="725" w="21" x="349" y="684"/>
+                        <wd t="conclusion" fId="9" sId="6" h="14" i="593" id="726" w="51" x="376" y="684"/>
+                        <wd t="seems" fId="9" sId="6" h="14" i="594" id="727" w="28" x="435" y="684"/>
+                        <wd t="very" fId="9" sId="6" h="14" i="595" id="728" w="22" x="469" y="684"/>
+                        <wd t="important" fId="9" sId="6" h="14" i="596" id="729" w="49" x="498" y="684"/>
+                        <wd t="to" fId="9" sId="6" h="14" i="597" id="730" w="9" x="554" y="684"/>
+                        <wd t="reach," fId="9" sId="6" h="14" i="598" id="731" w="28" x="318" y="697"/>
+                        <wd t="since" fId="9" sId="6" h="14" i="599" id="732" w="23" x="354" y="697"/>
+                        <wd t="if" fId="9" sId="6" h="14" i="600" id="733" w="7" x="385" y="697"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="601" id="734" w="14" x="399" y="697"/>
+                        <wd t="Charter" fId="9" sId="6" h="14" i="602" id="735" w="39" x="420" y="697"/>
+                        <wd t="is" fId="9" sId="6" h="14" i="603" id="736" w="7" x="468" y="697"/>
+                        <wd t="not" fId="9" sId="6" h="14" i="604" id="737" w="16" x="482" y="697"/>
+                        <wd t="part" fId="9" sId="6" h="14" i="605" id="738" w="19" x="505" y="697"/>
+                        <wd t="of" fId="9" sId="6" h="14" i="606" id="739" w="10" x="532" y="697"/>
+                        <wd t="the" fId="9" sId="6" h="14" i="607" id="740" w="15" x="548" y="697"/>
+                    </words>
+                </chunk>
+            </chunks>
+            <margin h="747" i="0" id="0" w="516" x="50" y="37"/>
+        </page>
+    </pages>
+</document>

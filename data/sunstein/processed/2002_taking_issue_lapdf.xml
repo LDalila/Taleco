@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<document>
+    <fontStyles>
+        <fontStyle id="4"/>
+        <fontStyle fontStyle="Times-Roman" id="2"/>
+        <fontStyle fontStyle="Code2000" id="0"/>
+        <fontStyle fontStyle="font-size:9pt" id="5"/>
+        <fontStyle fontStyle="font-size:10pt" id="3"/>
+        <fontStyle fontStyle="font-size:11pt" id="1"/>
+        <fontStyle fontStyle="font-size:8pt" id="6"/>
+    </fontStyles>
+    <pages>
+        <page mostPopWordHeight="10" pageNumber="1" h="800" i="0" id="0" w="612" x="0" y="0">
+            <chunks>
+                <chunk font="Code2000" fontSize="11" type="type_unclassified" h="81" i="25" id="2" w="388" x="43" y="173">
+                    <words>
+                        <wd t="Taking" fId="0" sId="1" h="11" i="25" id="3" w="36" x="43" y="173"/>
+                        <wd t="Issue" fId="0" sId="1" h="11" i="26" id="4" w="25" x="84" y="173"/>
+                        <wd t="Author(s):" fId="0" sId="1" h="11" i="27" id="5" w="53" x="43" y="187"/>
+                        <wd t="Bruce" fId="0" sId="1" h="11" i="28" id="6" w="30" x="101" y="187"/>
+                        <wd t="Ackerman" fId="0" sId="1" h="11" i="29" id="7" w="55" x="135" y="187"/>
+                        <wd t="and" fId="0" sId="1" h="11" i="30" id="8" w="19" x="194" y="187"/>
+                        <wd t="Cass" fId="0" sId="1" h="11" i="31" id="9" w="22" x="217" y="187"/>
+                        <wd t="R." fId="0" sId="1" h="11" i="32" id="10" w="11" x="243" y="187"/>
+                        <wd t="Sunstein" fId="0" sId="1" h="11" i="33" id="11" w="45" x="258" y="187"/>
+                        <wd t="Source:" fId="0" sId="1" h="11" i="34" id="12" w="37" x="43" y="201"/>
+                        <wd t="The" fId="0" sId="1" h="11" i="35" id="13" w="19" x="85" y="201"/>
+                        <wd t="Wilson" fId="0" sId="1" h="11" i="36" id="14" w="37" x="108" y="201"/>
+                        <wd t="Quarterly" fId="0" sId="1" h="11" i="37" id="15" w="53" x="149" y="201"/>
+                        <wd t="(1976-)," fId="0" sId="1" h="11" i="38" id="16" w="39" x="206" y="201"/>
+                        <wd t="Vol." fId="0" sId="1" h="11" i="39" id="17" w="21" x="249" y="201"/>
+                        <wd t="26," fId="0" sId="1" h="11" i="40" id="18" w="16" x="274" y="201"/>
+                        <wd t="No." fId="0" sId="1" h="11" i="41" id="19" w="18" x="294" y="201"/>
+                        <wd t="1" fId="0" sId="1" h="11" i="42" id="20" w="6" x="316" y="201"/>
+                        <wd t="(Winter," fId="0" sId="1" h="11" i="43" id="21" w="46" x="326" y="201"/>
+                        <wd t="2002)," fId="0" sId="1" h="11" i="44" id="22" w="31" x="376" y="201"/>
+                        <wd t="p." fId="0" sId="1" h="11" i="45" id="23" w="10" x="411" y="201"/>
+                        <wd t="3" fId="0" sId="1" h="11" i="46" id="24" w="6" x="425" y="201"/>
+                        <wd t="Published" fId="0" sId="1" h="11" i="47" id="25" w="51" x="43" y="215"/>
+                        <wd t="by:" fId="0" sId="1" h="11" i="48" id="26" w="17" x="98" y="215"/>
+                        <wd t="Wilson" fId="0" sId="1" h="11" i="49" id="27" w="36" x="119" y="215"/>
+                        <wd t="Quarterly" fId="0" sId="1" h="11" i="50" id="28" w="52" x="160" y="215"/>
+                        <wd t="Stable" fId="0" sId="1" h="11" i="51" id="29" w="31" x="43" y="229"/>
+                        <wd t="URL:" fId="0" sId="1" h="11" i="52" id="30" w="25" x="79" y="229"/>
+                        <wd t="http://www.jstor.org/stable/40260559" fId="0" sId="1" h="11" i="53" id="31" w="208" x="108" y="229"/>
+                        <wd t="Accessed:" fId="0" sId="1" h="11" i="54" id="32" w="49" x="43" y="243"/>
+                        <wd t="15-03-2016" fId="0" sId="1" h="11" i="55" id="33" w="57" x="96" y="243"/>
+                        <wd t="21:01" fId="0" sId="1" h="11" i="56" id="34" w="27" x="157" y="243"/>
+                        <wd t="UTC" fId="0" sId="1" h="11" i="57" id="35" w="22" x="188" y="243"/>
+                    </words>
+                </chunk>
+                <chunk font="Times-Roman" fontSize="10" type="type_unclassified" h="21" i="58" id="36" w="517" x="43" y="292">
+                    <words>
+                        <wd t="Your" fId="2" sId="3" h="10" i="58" id="37" w="20" x="43" y="292"/>
+                        <wd t="use" fId="2" sId="3" h="10" i="59" id="38" w="13" x="65" y="292"/>
+                        <wd t="of" fId="2" sId="3" h="10" i="60" id="39" w="8" x="81" y="292"/>
+                        <wd t="the" fId="2" sId="3" h="10" i="61" id="40" w="12" x="91" y="292"/>
+                        <wd t="JSTOR" fId="2" sId="3" h="10" i="62" id="41" w="29" x="106" y="292"/>
+                        <wd t="archive" fId="2" sId="3" h="10" i="63" id="42" w="29" x="137" y="292"/>
+                        <wd t="indicates" fId="2" sId="3" h="10" i="64" id="43" w="35" x="168" y="292"/>
+                        <wd t="your" fId="2" sId="3" h="10" i="65" id="44" w="18" x="205" y="292"/>
+                        <wd t="acceptance" fId="2" sId="3" h="10" i="66" id="45" w="42" x="226" y="292"/>
+                        <wd t="of" fId="2" sId="3" h="10" i="67" id="46" w="8" x="271" y="292"/>
+                        <wd t="the" fId="2" sId="3" h="10" i="68" id="47" w="12" x="281" y="292"/>
+                        <wd t="Terms" fId="2" sId="3" h="10" i="69" id="48" w="25" x="296" y="292"/>
+                        <wd t="&amp;" fId="4" sId="3" h="10" i="70" id="49" w="8" x="323" y="292"/>
+                        <wd t="Conditions" fId="2" sId="3" h="10" i="71" id="50" w="43" x="333" y="292"/>
+                        <wd t="of" fId="2" sId="3" h="10" i="72" id="51" w="8" x="378" y="292"/>
+                        <wd t="Use," fId="2" sId="3" h="10" i="73" id="52" w="17" x="389" y="292"/>
+                        <wd t="available" fId="2" sId="3" h="10" i="74" id="53" w="35" x="409" y="292"/>
+                        <wd t="at" fId="2" sId="3" h="10" i="75" id="54" w="8" x="446" y="292"/>
+                        <wd t="http://www.jstor.org/page/" fId="2" sId="3" h="10" i="76" id="55" w="104" x="456" y="292"/>
+                        <wd t="info/about/policies/terms.jsp" fId="2" sId="3" h="10" i="77" id="56" w="111" x="43" y="303"/>
+                    </words>
+                </chunk>
+                <chunk font="Times-Roman" fontSize="10" type="type_unclassified" h="32" i="78" id="57" w="519" x="43" y="325">
+                    <words>
+                        <wd t="JSTOR" fId="2" sId="3" h="10" i="78" id="58" w="29" x="43" y="325"/>
+                        <wd t="is" fId="2" sId="3" h="10" i="79" id="59" w="7" x="74" y="325"/>
+                        <wd t="a" fId="2" sId="3" h="10" i="80" id="60" w="4" x="83" y="325"/>
+                        <wd t="not-for-profit" fId="2" sId="3" h="10" i="81" id="61" w="52" x="90" y="325"/>
+                        <wd t="service" fId="2" sId="3" h="10" i="82" id="62" w="28" x="144" y="325"/>
+                        <wd t="that" fId="2" sId="3" h="10" i="83" id="63" w="15" x="174" y="325"/>
+                        <wd t="helps" fId="2" sId="3" h="10" i="84" id="64" w="21" x="191" y="325"/>
+                        <wd t="scholars," fId="2" sId="3" h="10" i="85" id="65" w="35" x="214" y="325"/>
+                        <wd t="researchers," fId="2" sId="3" h="10" i="86" id="66" w="47" x="251" y="325"/>
+                        <wd t="and" fId="2" sId="3" h="10" i="87" id="67" w="14" x="300" y="325"/>
+                        <wd t="students" fId="2" sId="3" h="10" i="88" id="68" w="32" x="316" y="325"/>
+                        <wd t="discover," fId="2" sId="3" h="10" i="89" id="69" w="35" x="351" y="325"/>
+                        <wd t="use," fId="2" sId="3" h="10" i="90" id="70" w="15" x="389" y="325"/>
+                        <wd t="and" fId="2" sId="3" h="10" i="91" id="71" w="14" x="407" y="325"/>
+                        <wd t="build" fId="2" sId="3" h="10" i="92" id="72" w="20" x="423" y="325"/>
+                        <wd t="upon" fId="2" sId="3" h="10" i="93" id="73" w="19" x="446" y="325"/>
+                        <wd t="a" fId="2" sId="3" h="10" i="94" id="74" w="4" x="468" y="325"/>
+                        <wd t="wide" fId="2" sId="3" h="10" i="95" id="75" w="19" x="474" y="325"/>
+                        <wd t="range" fId="2" sId="3" h="10" i="96" id="76" w="21" x="496" y="325"/>
+                        <wd t="of" fId="2" sId="3" h="10" i="97" id="77" w="8" x="520" y="325"/>
+                        <wd t="content" fId="2" sId="3" h="10" i="98" id="78" w="29" x="530" y="325"/>
+                        <wd t="in" fId="2" sId="3" h="10" i="99" id="79" w="8" x="43" y="336"/>
+                        <wd t="a" fId="2" sId="3" h="10" i="100" id="80" w="4" x="53" y="336"/>
+                        <wd t="trusted" fId="2" sId="3" h="10" i="101" id="81" w="26" x="60" y="336"/>
+                        <wd t="digital" fId="2" sId="3" h="10" i="102" id="82" w="25" x="89" y="336"/>
+                        <wd t="archive." fId="2" sId="3" h="10" i="103" id="83" w="31" x="116" y="336"/>
+                        <wd t="We" fId="2" sId="3" h="10" i="104" id="84" w="13" x="150" y="336"/>
+                        <wd t="use" fId="2" sId="3" h="10" i="105" id="85" w="13" x="166" y="336"/>
+                        <wd t="information" fId="2" sId="3" h="10" i="106" id="86" w="46" x="181" y="336"/>
+                        <wd t="technology" fId="2" sId="3" h="10" i="107" id="87" w="43" x="230" y="336"/>
+                        <wd t="and" fId="2" sId="3" h="10" i="108" id="88" w="14" x="275" y="336"/>
+                        <wd t="tools" fId="2" sId="3" h="10" i="109" id="89" w="19" x="292" y="336"/>
+                        <wd t="to" fId="2" sId="3" h="10" i="110" id="90" w="8" x="313" y="336"/>
+                        <wd t="increase" fId="2" sId="3" h="10" i="111" id="91" w="32" x="323" y="336"/>
+                        <wd t="productivity" fId="2" sId="3" h="10" i="112" id="92" w="47" x="358" y="336"/>
+                        <wd t="and" fId="2" sId="3" h="10" i="113" id="93" w="14" x="408" y="336"/>
+                        <wd t="facilitate" fId="2" sId="3" h="10" i="114" id="94" w="34" x="424" y="336"/>
+                        <wd t="new" fId="2" sId="3" h="10" i="115" id="95" w="16" x="461" y="336"/>
+                        <wd t="forms" fId="2" sId="3" h="10" i="116" id="96" w="22" x="480" y="336"/>
+                        <wd t="of" fId="2" sId="3" h="10" i="117" id="97" w="8" x="505" y="336"/>
+                        <wd t="scholarship." fId="2" sId="3" h="10" i="118" id="98" w="47" x="515" y="336"/>
+                        <wd t="For" fId="2" sId="3" h="10" i="119" id="99" w="14" x="43" y="347"/>
+                        <wd t="more" fId="2" sId="3" h="10" i="120" id="100" w="20" x="59" y="347"/>
+                        <wd t="information" fId="2" sId="3" h="10" i="121" id="101" w="46" x="81" y="347"/>
+                        <wd t="about" fId="2" sId="3" h="10" i="122" id="102" w="22" x="130" y="347"/>
+                        <wd t="JSTOR," fId="2" sId="3" h="10" i="123" id="103" w="31" x="154" y="347"/>
+                        <wd t="please" fId="2" sId="3" h="10" i="124" id="104" w="24" x="188" y="347"/>
+                        <wd t="contact" fId="2" sId="3" h="10" i="125" id="105" w="29" x="214" y="347"/>
+                        <wd t="support@jstor.org." fId="2" sId="3" h="10" i="126" id="106" w="73" x="245" y="347"/>
+                    </words>
+                </chunk>
+                <chunk font="Code2000" fontSize="10" type="type_unclassified" h="21" i="0" id="107" w="476" x="77" y="688">
+                    <words>
+                        <wd t="Wilson" fId="0" sId="5" h="10" i="0" id="108" w="29" x="77" y="688"/>
+                        <wd t="Quarterly" fId="0" sId="5" h="10" i="1" id="109" w="43" x="110" y="688"/>
+                        <wd t="and" fId="0" sId="5" h="10" i="2" id="110" w="16" x="156" y="688"/>
+                        <wd t="Woodrow" fId="0" sId="5" h="10" i="3" id="111" w="41" x="175" y="688"/>
+                        <wd t="Wilson" fId="0" sId="5" h="10" i="4" id="112" w="29" x="220" y="688"/>
+                        <wd t="International" fId="0" sId="5" h="10" i="5" id="113" w="57" x="253" y="688"/>
+                        <wd t="Center" fId="0" sId="5" h="10" i="6" id="114" w="29" x="314" y="688"/>
+                        <wd t="for" fId="0" sId="5" h="10" i="7" id="115" w="14" x="347" y="688"/>
+                        <wd t="Scholars" fId="0" sId="5" h="10" i="8" id="116" w="35" x="365" y="688"/>
+                        <wd t="are" fId="2" sId="5" h="10" i="9" id="117" w="11" x="404" y="688"/>
+                        <wd t="collaborating" fId="2" sId="5" h="10" i="10" id="118" w="48" x="417" y="688"/>
+                        <wd t="with" fId="2" sId="5" h="10" i="11" id="119" w="16" x="467" y="688"/>
+                        <wd t="JSTOR" fId="2" sId="5" h="10" i="12" id="120" w="27" x="485" y="688"/>
+                        <wd t="to" fId="2" sId="5" h="10" i="13" id="121" w="7" x="514" y="688"/>
+                        <wd t="digitize," fId="2" sId="5" h="10" i="14" id="122" w="30" x="523" y="688"/>
+                        <wd t="preserve" fId="2" sId="5" h="10" i="15" id="123" w="30" x="77" y="699"/>
+                        <wd t="and" fId="2" sId="5" h="10" i="16" id="124" w="13" x="109" y="699"/>
+                        <wd t="extend" fId="2" sId="5" h="10" i="17" id="125" w="24" x="125" y="699"/>
+                        <wd t="access" fId="2" sId="5" h="10" i="18" id="126" w="23" x="151" y="699"/>
+                        <wd t="to" fId="2" sId="5" h="10" i="19" id="127" w="7" x="176" y="699"/>
+                        <wd t="The" fId="0" sId="5" h="10" i="20" id="128" w="16" x="185" y="699"/>
+                        <wd t="Wilson" fId="0" sId="5" h="10" i="21" id="129" w="29" x="205" y="699"/>
+                        <wd t="Quarterly" fId="0" sId="5" h="10" i="22" id="130" w="43" x="238" y="699"/>
+                        <wd t="(1976-)." fId="0" sId="5" h="10" i="23" id="131" w="31" x="285" y="699"/>
+                    </words>
+                </chunk>
+                <chunk font="Times-Roman" fontSize="9" type="type_unclassified" h="17" i="127" id="132" w="273" x="169" y="776">
+                    <words>
+                        <wd t="This" fId="2" sId="6" h="9" i="127" id="133" w="14" x="169" y="776"/>
+                        <wd t="content" fId="2" sId="6" h="9" i="128" id="134" w="24" x="185" y="776"/>
+                        <wd t="downloaded" fId="2" sId="6" h="9" i="129" id="135" w="39" x="211" y="776"/>
+                        <wd t="from" fId="2" sId="6" h="9" i="130" id="136" w="16" x="252" y="776"/>
+                        <wd t="128.240.233.146" fId="2" sId="6" h="9" i="131" id="137" w="54" x="270" y="776"/>
+                        <wd t="on" fId="2" sId="6" h="9" i="132" id="138" w="8" x="326" y="776"/>
+                        <wd t="Tue," fId="2" sId="6" h="9" i="133" id="139" w="14" x="336" y="776"/>
+                        <wd t="15" fId="2" sId="6" h="9" i="134" id="140" w="8" x="352" y="776"/>
+                        <wd t="Mar" fId="2" sId="6" h="9" i="135" id="141" w="13" x="362" y="776"/>
+                        <wd t="2016" fId="2" sId="6" h="9" i="136" id="142" w="16" x="377" y="776"/>
+                        <wd t="21:01:19" fId="2" sId="6" h="9" i="137" id="143" w="29" x="395" y="776"/>
+                        <wd t="UTC" fId="2" sId="6" h="9" i="138" id="144" w="16" x="426" y="776"/>
+                        <wd t="All" fId="2" sId="6" h="9" i="139" id="145" w="11" x="228" y="784"/>
+                        <wd t="use" fId="2" sId="6" h="9" i="140" id="146" w="10" x="241" y="784"/>
+                        <wd t="subject" fId="2" sId="6" h="9" i="141" id="147" w="23" x="253" y="784"/>
+                        <wd t="to" fId="2" sId="6" h="9" i="142" id="148" w="6" x="278" y="784"/>
+                        <wd t="JSTOR" fId="2" sId="6" h="9" i="143" id="149" w="24" x="286" y="784"/>
+                        <wd t="Terms" fId="2" sId="6" h="9" i="144" id="150" w="20" x="312" y="784"/>
+                        <wd t="and" fId="2" sId="6" h="9" i="145" id="151" w="12" x="334" y="784"/>
+                        <wd t="Conditions" fId="2" sId="6" h="9" i="146" id="152" w="35" x="348" y="784"/>
+                    </words>
+                </chunk>
+                <chunk font="Times-Roman" fontSize="10" type="type_unclassified" h="10" i="24" id="153" w="73" x="32" y="734">
+                    <words>
+                        <wd t="http://www.jstor.org" fId="2" sId="5" h="10" i="24" id="154" w="73" x="32" y="734"/>
+                    </words>
+                </chunk>
+            </chunks>
+            <margin h="620" i="0" id="0" w="530" x="32" y="173"/>
+        </page>
+    </pages>
+</document>

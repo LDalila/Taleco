@@ -1,0 +1,2188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta />
+    <article-meta>
+      <title-group>
+        <article-title>The President and the Administration</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <string-name>Recommended Citation</string-name>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Cass R. Sunstein &amp; Lawrence Lessig, "The President and the Administration</institution>
+          ,
+          <addr-line>" 94 Columbia Law Review 1</addr-line>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Faculty Scholarship</institution>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>1994</year>
+      </pub-date>
+      <volume>94</volume>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>This Article is brought to you for free and open access by the Faculty Scholarship at Chicago Unbound. It has been
+accepted for inclusion in Journal Articles by an authorized administrator of Chicago Unbound. For more
+information, please contact unbound@law.uchicago.edu.</p>
+      <p>JANUARY 1994</p>
+      <p>NO. 1</p>
+    </sec>
+    <sec id="sec-2">
+      <title>Lawrence Lessig* and Cass R Sunstein**</title>
+      <p>* Assistant Professor of Law, University of Chicago Law School.</p>
+      <p>** Karl N. Llewellyn Professor ofJurisprudence, University of Chicago, Law School
+and Department of Political Science. We are grateful to Akhil Amar, Bruce Ackerman,
+Steve Calabresi, David Currie, Dan Kahan, Abner Greene, Harold Krent, Alan Meese,
+Richard Ross, and Peter Strauss for helpful comments. Cyrus Amir-Mokri provided
+exceptional research assistance. For financial support, we are grateful to The Russell Baker
+Scholars Fund and The James H. Douglas,Jr. Fund for the Study of Law and Government.</p>
+      <p>HeinOnline -- 94 Colum. L. Rev. 1 1994</p>
+      <p>INTRODUCTION</p>
+      <p>Many think that under our constitutional system, the President must
+have the authority to control all government officials who implement the
+laws. 1 The text, structure, and history of the Constitution, we are told,
+plainly require this result. 2 Under this view, it is therefore something of
+an embarrassment that the Supreme Court has permitted conspicuous
+exceptions to this constitutional imperative. We now have independent
+special counsels, independent agencies, and other such exceptions,
+commonly thought to be inconsistent with the basic founding commitment to
+a "unitary executive."</p>
+      <p>Some believe that this conception of unitariness derives from
+something that the framers decided-that the framers constitutionalized a
+strongly unitary executive, and that anyone following the original design
+must follow this structural pattern.</p>
+      <p>We think that the view that the framers constitutionalized anything
+like this vision of the executive is just plain myth. It is a creation of the
+twentieth century, not the eighteenth. It derives from twentieth century
+categories applied unreflectively to an eighteenth century document. It
+ignores strong evidence that the framers imagined not a clear executive
+hierarchy with the President at the summit, but a large degree of
+congressional power to structure the administration as it thought proper.</p>
+      <p>We reach this conclusion with reluctance. A strongly unitary
+executive can promote important values of accountability, coordination, and
+uniformity in the execution of the laws, and to whatever extent these
+were the framers' values, they are certainly now ours. If these values are
+1. See, e.g., Steven G. Calabresi &amp; Kevin H. Rhodes, The Structural Constitution:
+Unitary Executive, Plural Judiciary, 105 Harv. L. Rev. 1153 (1992); David P. Currie, The
+Distribution of Powers After Bowsher, 1986 Sup. Ct. Rev. 19; Geoffrey P. Miller,
+Independent Agencies, 1986 Sup. Ct. Rev. 41; Theodore B. Olson, Founders Wouldn't
+Endorse America's Plural Presidency, Legal Times, Apr. 27, 1987, at 11 [hereinafter Olson,
+Plural Presidency]; Theodore Olson, Separation of Powers Principle is No 'Triviality'
+(Bowsher v. Synar), Legal Times, July 21, 1986, at 4 [hereinafter Olson, Separation of
+powers].</p>
+      <p>2. See, e.g., Calabresi &amp; Rhodes, supra note 1, at 1167; Currie, supra note 1, at 31-36;
+Miller, supra note 1, at 58-60; Olson, Plural Presidency, supra note 1, at 11-12; Olson,
+Separation of Powers, supra note 1, at 4.</p>
+      <p>HeinOnline -- 94 Colum. L. Rev. 2 1994
+not advanced by the original design, we seemingly face an unpleasant
+dilemma-either we adhere to that design and sacrifice important
+institutional values, or we advance these institutional values and sacrifice fidelity
+to the original design. History apparently leads us to choose between the
+original design and a design many now view as indispensable.</p>
+      <p>At least this is so unless there is a compelling nonhistorical3
+argument supporting a strong unitary design. We believe that there is indeed
+a plausible structural argument on behalf of the hierarchical conception
+of the unitary executive. This is an argument that emphasizes changed
+circumstances since the eighteenth century, and that accommodates the
+framers' design within this changed constitutional context-an
+argument, that is, that translates 4 the framers' original design from the
+language and context of the eighteenth century into the world today.</p>
+      <p>3. We use the term "nonhistorical" rather than "nonoriginalist," though at many
+points we will speak of originalism, a term that seems to us decreasingly helpful. Just as the
+"interpretivist-noninterpretivist" division now seems unsatisfactory, for reasons explained
+in Ronald Dworkin, The Forum of Principle, in A Matter of Principle 33, 34-35 (1985), so
+it is necessary to question the "originalist-nonoriginalist" division in the context of many
+legal disputes, especially those that involve an effort to maintain fidelity to constitutional
+commitments in the face of changed circumstances. When circumstances have changed, a
+supposedly nonoriginalist interpretation may well have a stronger claim of fidelity to the
+original understanding, for reasons suggested in Part III below. The approach that we
+advocate may therefore be described as an originalist one. See infra text accompanying
+notes 37-47.</p>
+      <p>
+        4. The metaphor of translation has been used by many people, though in somewhat
+different ways. See, e.g., Paul Brest, The Misconceived Quest for the Original
+Understanding, 60 B.U. L. Rev. 204, 218-22 (1980) (arguing for nonoriginalist
+constitutional interpretation using a historical interpreter as translator); MichaelJ. Perry,
+The Authority of Text, Tradition and Reason: A Theory of Constitutional "Interpretation,"
+58 S. Cal. L. Rev. 551, 599 (1985) (discussing Robert Bennett as translator); H. Jefferson
+Powell, Rules for Originalists, 73 Va. L. Rev. 659, 672 (1987)("[tlo converse with the
+founders, you need a translator") (emphasis deleted); Terrance Sandalow, Constitutional
+Interpretation, 79 Mich. L. Rev. 1033, 1067-69 (1981) (arguing that no inflexible "core" of
+the founders' values exist but that instead each generation must interpret these values
+itself); Cass R. Sunstein, Interpreting Statutes in the Regulatory State, 103 Harv. L. Rev.
+405, 494-95 (1989) (discussing effect of changed circumstances in interpreting old texts);
+Mark V. Tushnet, Following the Rules Laid Down: A Critique of Interpretivism and
+Neutral Principles, in Interpreting Law and Literature 193 (Sanford Levinson &amp; Steven
+Mailloux eds., 1988) (comparing neutral principle and interpretivist approaches to
+interpreting the Constitution). The notion of course was not born with Brest. Perhaps its
+most creative pre-Brest appearance was in an extraordinary piece by Felix Cohen, which
+linked the process of interpretation across contexts to the theory of relativity, to suggest
+that "[t]he achievements of modem mathematics and physics... give ground for hoping
+that we shall some day achieve a powerful new organon for mutual understanding,-a
+theory of translation." Felix S. Cohen, Field Theory and Judicial Logic, 59 Yale LJ. 238,
+272 (1950). Most recently, James Boyd White has discussed the notion of reading as
+translation in James B. White, Justice as Translation: An Essay in Cultural and Legal
+Criticism (
+        <xref ref-type="bibr" rid="ref20">1990</xref>
+        ). Much earlier, Francis Lieber may have captured much of the sense of
+translation in his distinction between "interpretation" and "construction." See Francis
+Lieber, Legal and Political Hermeneutics 11, 44 (St. Louis, F.H. Thomas &amp; Co., 3d ed.
+1880) ("Interpretation is the art of finding out the true sense of any form of words," while
+"[c]onstruction is the drawing of conclusions respecting subjects that lie beyond the
+      </p>
+      <p>HeinOnline -- 94 Colum. L. Rev. 3 1994</p>
+      <p>After outlining the debate over the origins of a unitary executive in
+Part I, this Article goes on to make two basic points. The first, set out in
+Part II, is historical. Conventional wisdom insists (1) that the framers
+believed in a hierarchical executive branch, with the President in charge
+of all administration of the laws,5 and (2) that we must also ensure a
+hierarchical executive branch, at least if we are to be faithful to the
+framers' constitutional design.6 We think that the conventional wisdom is
+wrong on both counts. There is no historically sound reading of the
+Constitution that compels anything like the first claim. Any faithful
+reader of history must conclude that the unitary executive, conceived in
+the foregoing way, is just myth.</p>
+      <p>But we also think that this conclusion does not mean that a strongly
+unitary conception of the constitutional design is wrong. Part III of this
+Article offers a justification of that conception, relying not on false
+history, but on the best reading of the framers' structure translated into the
+current, and radically transformed, context. Carried into this context,
+certain crucial aspects of the unitary executive view make most sense of
+the framers' design, even if the application of that design differs
+dramatically from the application in the framers' own context.</p>
+      <p>In Part III, we therefore discuss the basic commitments of the
+original constitutional system-the avoidance of factionalism, political
+accountability, a degree of centralization in government, and expedition in
+law enforcement-and show that in the face of post-New Deal
+developments, those founding commitments would be compromised by limiting
+presidential power over the administration of the laws. However ironic it
+may be, the claims on behalf of the strongly unitary executive, while
+implausible as a matter of simple history, may nonetheless be right as a
+matter of constitutional interpretation.</p>
+      <p>
+        In Part IV, we apply these general propositions to a wide range of
+current disputes about the relationship between the President and the
+administration. We discuss Congress' power to create independent
+prosecutors and independent agencies. We also attempt to sort out a set of
+issues that have become prominent in the wake of the Supreme Court's
+surprising reentry into this area in the period from 1976 to the present.
+expression of the text."). Alfred Hill has described a practice of constitutional
+interpretation that may in result be quite similar to the translator's practice. See Alfred
+Hill, The Political Dimension of Constitutional Adjudication, 63 S. Cal. L. Rev. 1237 (
+        <xref ref-type="bibr" rid="ref20">1990</xref>
+        )
+(asserting probable intent of founders was that common practice of the times be
+observed). For general treatment of the idea of fidelity as translation, see Lawrence Lessig,
+Fidelity in Translation, 71 Tex. L. Rev. 1165 (1993).
+      </p>
+      <p>5. By administration of the laws, we refer very broadly to all tasks that involve
+implementation or execution of legislative enactments.</p>
+      <p>6. See infra notes 19-32 and accompanying text.</p>
+      <p>HeinOnline -- 94 Colum. L. Rev. 4 1994</p>
+      <sec id="sec-2-1">
+        <title>I. AN OLD (BuT QuITE LWVELY) DEBATE</title>
+        <p>Whether the founders framed a strongly unitary executive, or
+whether we should continue to recognize what they framed, is not a new
+debate. Throughout our history the question has been the subject of
+intense controversy.7 Fueled more recently by the work of Presidents,
+judges, and academic observers,8 the question has regained center stage.
+Before the late 1970s, the question seemed well settled, even if the
+answers were to some observers quite-jarring. It was clear that "executive"
+functions must be performed by officers subject to the unlimited removal
+and broad supervisory power of the President.9 But it was equally clear
+that Congress had the constitutional power to remove from the
+President's authority officers having "quasi-legislative" and
+"quasijudicial" functions.1 0</p>
+        <p>In these two sentences could be found the basic wisdom about the
+relationship between the President and administrative agencies. Some
+unsettled questions remained. But it appeared that those questions
+would be answered through accommodations, formal and informal,
+between Congress and the President, and not as a matter of constitutional
+law.</p>
+        <p>All this changed in the 1980s. Spurred by President Reagan's efforts
+to assert hierarchical control over the bureaucracy,' the entire field
+ex7. See especially the various opinions in Myers v. United States, 272 U.S. 52 (1926);
+see also, e.g., Nathan -D. Grundstein, Presidential Power, Administration and
+Administrative Law, 18 Geo. Wash. L. Rev. 285, 300 (1950) (discussing debate over extent
+of autonomy that executive has in appointing and removing administrators); Miller, supra
+note 1, at 52-58 (laying out pragmatic and neoclassical approaches to separation of powers
+debate); Peter L. Strauss, The Place ofAgencies in Government: Separation of Powers and
+the Fourth Branch, 84 Colum. L. Rev. 573, 599-600 (1984) (noting that the Convention
+was "ambivalent" about the President's relation to those who would actually administer the
+laws).</p>
+        <p>8. See infra text accompanying notes 11-18.</p>
+        <p>9. See Myers, 272 U.S. at 161-64. The dispute in Myers involved over President
+Wilson's power to remove a regional postmaster without first gaining the consent of Senate
+as the statute required. The Court found unconstitutional the statutory provision limiting
+the President's removal authority. Myers also sets out three exceptions to this rule. See
+infra text accompanying notes 102-108.</p>
+        <p>10. See Humphrey's Executor v. United States, 295 U.S. 602, 629 (1935). Humphrey's
+involved the power of President Roosevelt to remove a Commissioner from the Federal
+Trade Commission. The statute provided for removal by the President only for
+"inefficiency, neglect of duty, or malfeasance in office." The Court held that, because of
+the quasi-legislative and quasijudicial nature of the Commission, these limitations on the
+removal power were constitutional.</p>
+        <p>11. Reagan's efforts came primarily in the form of executive orders. See Exec. Order
+No. 12,291, 3 C.F.R. 127, 128 (1981), reprinted in 5 U.S.C. § 601 (1988) (requiring
+agencies to conduct cost-benefit analyses and submit "Regulatory Impact Analyses" of such
+analyses to OMB); Exec. Order No. 12,498, 3 C.F.R. 323, 323 (1985), reprinted in 5 U.S.C.
+§ 601 (1988) (directing agencies to create and publish yearly regulatory agendas for OMB
+approval); see also Thomas 0. McGarrity, Reinventing Rationality: The Role of Regulatory
+Analysis in the Federal Bureaucracy 19-24 (1991) (reviewing President Reagan's executive</p>
+        <p>HeinOnline -- 94 Colum. L. Rev. 5 1994
+perienced a minor revolution. Sharp new battle lines were drawn. In
+several cases, the Supreme Court limited congressional efforts to insulate
+administration of the laws from presidential control. 12 These cases
+seemed to suggest that the whole idea of independent administration
+could no longer be sustained-a change in understanding that, if
+accepted, would dramatically alter the framework of American government.</p>
+        <p>This shift in the Court-toward greater solicitude for presidential
+control over implementation-inspired an even greater shift in the
+academy. Scholars began to assert more forcefully that the conventional view
+of the executive power-in particular, the idea that Congress could
+create independent agencies-was constitutionally unfounded.'8
+Perhaps the Court could eventually be persuaded to conclude that the
+Constitution prohibited Congress from creating "independent agencies."
+But in several more recent cases the Supreme Court unambiguously
+committed itself to the idea that Congress may, at least sometimes and at least
+to some extent, make administration independent of the President. 14
+Indeed, the Court has allowed Congress to go beyond independent
+"quasilegislators" and "quasijudges" and create independent prosecutors1 5-an
+innovation from the previous cases that appears to expand congressional
+authority.</p>
+        <p>The recent cases leave many questions unanswered, involving the
+precise relationships among the President, the so-called executive
+agencies, and the so-called independent agencies. These questions assumed
+special importance in connection with efforts by President Bush to assert
+orders); Peter L. Strauss &amp; Cass t Sunstein, The Role of the President and OMB in
+Informal Rulemaking, 38 Admin. L. Rev. 181, 185-97, 202-03 (1986) (describing
+President Reagan's executive orders and arguing that their application can and should be
+extended to independent agencies). President Reagan's efforts should be seen as the
+culmination of a long historical trend, beginning with President Nixon. See, e.g., Harold
+H. Bruff, Presidential Management of Agency Rulemaking, 57 Geo. Wash. L. Rev. 533,
+546-52 (1989) (reviewing evolution ofpresidential management programs beginning with
+President Nixon).</p>
+        <p>12. See, e.g., INS v. Chadha, 462 U.S. 919, 965-67 (1983) (striking down the use of
+legislative veto); Buckley v. Valeo, 424 U.S. 1, 118-37 (1976) (holding that Congress does
+not have constitutional power to appoint members to Federal Election Commission, which
+is responsible for administration and enforcement of election laws).</p>
+        <p>13. See, e.g., Calabresi &amp; Rhodes, supra note 1, at 1167-68; Currie, supra note 1, at
+32-36; Lee S. Liberman, Morrisonv. Olson: A Formalistic Perspective on Why the Court was
+Wrong, 38 Am. U. L. Rev. 313, 318 (1989); Miller, supra note 1, at 43.</p>
+        <p>14. In Mistretta, the Court upheld the constitutionality of the United States
+Sentencing Commission. See Mistretta v. United States, 488 U.S. 361, 408-12 (1989). The
+Commission consists of seven members, at least three of whom must be federaljudges, and
+has the authority to promulgate binding sentencing guidelines. See id. at 368-70. Under
+the statute, the President may remove Commissioners only for "good cause." See id. at
+368. In Morison, the Court upheld a statute that allowed the President to remove an
+"independent prosecutor" only for "good cause." See Morrison v. Olson, 487 U.S. 654,
+685-93 (1988).</p>
+        <p>15. See 487 U.S. at 685-93.</p>
+        <p>HeinOnline -- 94 Colum. L. Rev. 6 1994
+close control over government regulation; 16 they have new urgency as a
+result of likely new efforts by President Clinton to claim authority over a
+government staffed largely by Republican Presidents. 17 Heated struggles
+arose between President Bush and Congress over a range of unresolved
+issues.18 Similar issues are likely to rematerialize during the Clinton
+Administration, and these debates will undoubtedly raise new issues about
+exactly how unitary the executive branch can claim to be.</p>
+        <p>It is time again to ask whether the executive is "unitary" in the sense
+that the President must have plenary power to control administration
+and execution of the laws. It seems clear that the belief in a unitary
+executive has captured the high ground of principle, so that arguments for an
+"evolving Constitution," for flexibility in interpretation, or for judicial
+deference to political compromise, have become moves of compromise
+or mere politics. But is this really a debate between principle and
+politics? Or more precisely, is this a debate where principle favors the unitary
+view?</p>
+        <p>16. See, e.g., Memorandum on Reducing the Burden of Government Regulation, 28
+Weekly Comp. Pres. Doc. 232 (Jan. 28, 1992) (asking executive and independent agencies
+to refrain from issuing new regulations during 90 day period, and to review existing
+regulations with goal of minimizing economic impact); Memorandum on Implementing
+Regulatory Reform, 28 Weekly Comp. Pres. Doc. 728 (Apr. 29, 1992) (extending
+moratorium for another 120 days). President Bush also formed the Council on
+Competitiveness on March 31, 1989, to exercise power granted by Reagan's executive
+orders. See supra note 11.</p>
+        <p>17. Clinton has replaced President Reagan's Executive Orders 12,291 and 12,498 with
+Executive Order 12,866. The new order provides that OMB and the Office of Information
+and Regulatory Affairs will oversee agency regulation, requires that agencies undertake
+regulatory analyses under the new principles, and effectively places Vice President Gore in
+charge of the overall regulatory policymaking function. See Exec. Order No. 12,866, 58
+Fed. Reg. 51,735 (1993); see also Marshall Ingwerson &amp;John Dillin, Vacancy Signs Abound
+in Capital, Christian Sci. Monitor, Feb. 1, 1993, at 3 (reviewing continuing Republican
+control of many agencies).</p>
+        <p>18. For example, President Bush lost his battle to control the Board of Governors of
+the Postal Service. He had attempted to prevent the board from exercising its statutory
+authority to represent itself in challenging a Postal Rate Commission decision, either by
+having the Department ofJustice dismiss the suit on behalf of the board, or by removing
+the board. See Mal Order Ass'n of Am. v. U.S. Postal Serv., 986 F.2d 509, 512 (1993). The
+D.C. District Court enjoined President Bush from removing the board, see id., and the
+D.C. Circuit Court held that the board can represent itself in court if its position is
+inconsistent with that of the Department ofJustice. See id. at 515.</p>
+        <p>Possibly the most intense battle during the Bush presidency was fought between Vice
+President Quayle and Congress over the role of the Council on Competitiveness. Before
+the issue became moot with the election of President Clinton, Congress threatened to cut
+all appropriations for the Council if it failed to increase public accountability. See, e.g.,
+138 Cong. Rec. 13,214-15 (1992) (statement of Sen. Glenn); Eric Pianin &amp; Steven Mufson,
+Administration Seeking Showdown on Spending, Wash. Post, Sept. 13, 1992, at Al.</p>
+        <p>HeinOnline -- 94 Colum. L. Rev. 7 1994</p>
+        <p>We begin with some basics? 9 No one denies that in some sense the
+framers created a unitary executive; the question is in what sense.20 Let
+us distinguish between a strong and a weak version. The strong
+versionheld by those whom we will call the modem unitarians-contends that
+the President has plenary or unlimited power over the execution of
+administrative functions, understood broadly to mean all tasks of
+lawimplementation. All officers with such functions must either be
+removable at the President's discretion or be subject to presidential
+countermand in the context of policy disagreements. The Constitution creates "a
+hierarchical unified executive department under the direct control of the
+President," 21 with consequences we develop in detail below. 2 2 In the
+19. This account draws on a recent statement of the modem position. See Calabresi
+&amp; Rhodes, supra note 1; see also Saikrishna B. Prakash, Note, Hail to the Chief
+Administrator. The Framers and the President's Administrative Powers, 102 Yale LJ. 991
+(1993) (building on the work of Calabresi &amp; Rhodes).</p>
+        <p>20. See, e.g., Strauss, supra note 7, at 599-600 ("While it was understood that there
+would be departments responsible for daily administration, the Convention clearly and
+consciously chose a single and independent executive over a collegial body subject to
+legislative direction."); Prakash, supra note 19, at 998-99 (Convention chose a single
+executive based on values of accountability and efficiency).</p>
+        <p>21. Calabresi &amp; Rhodes, supra note 1, at 1165. The modem unitarian view was
+recently, and helpfully, summarized by Calabresi and Rhodes. As they describe it, the
+position is grounded in the Vesting Clause of Article II, which provides: "The executive
+Power shall be vested in a President." U.S. Const. art. If§, 1. This clause, together with the
+Take Care Clause, id. § 3,
+creat[es] a hierarchical, unified executive department under the direct control of
+the President. ...[Thus,) the President alone possesses all of the executive power
+and .. . he therefore can direct, control, and supervise inferior officers or
+agencies who seek to exercise discretionary executive power. The practical
+consequence of this theory is dramatic: it renders unconstitutional independent
+agencies and counsels to the extent that they exercise discretionary executive
+power.</p>
+        <p>Calabresi &amp; Rhodes, supra note 1, at 1165 (footnotes omitted).</p>
+        <p>The Constitution embraces, the modem unitarians conclude, a single organizational
+structure, with the Take Care Clause empowering the President to exercise control over
+subordinates, at least so far as those subordinates exercise "purely executive power."
+"Unitary executive theorists reject the view that the Take Care Clause contemplates merely
+a housekeeping role for the President, who 'takes care' from a distance while unnamed
+others 'faithfully execute' the laws." Id. at 1167-68.</p>
+        <p>Of course Congress has some role in filling in the details, but that role, according to
+the modem unitarian view, is crucially limited: "Unitary executive theorists concede that
+Congress has broad power under the Necessary and Proper Clause to structure the
+executive department. .. . They maintain, however, that '[n]o matter what structure
+Congress selects ... the President must retain the authority to give directives to the officers
+who assist' him." Id. at 1168 (footnotes omitted).</p>
+        <p>Finally, the modem unitarian rejects textual clues that may suggest a structure
+somewhat to the contrary. Thus, though the Constitution contemplates some
+appointments being vested (and hence some loyalty engendered) in heads of departments,
+and not the President, and though the framers oddly (for the unitarian) felt it necessary to
+make explicit that the President could get reports from his officers,
+unitary executive theorists reject the contention that Congress's power to vest the
+appointment of inferior officers in the "Heads of Departments" necessarily</p>
+        <p>HeinOnline -- 94 Colum. L. Rev. 8 1994
+modem unitarian's view, the Constitution constitutionalizes a single
+organizational value-unitariness-at the expense of other possible
+governmental values-such as disinterestedness or independence. The
+conclusion is that any organizational structure that violates unitariness
+violates the Constitution.</p>
+        <p>The weak version offers a more unruly picture. It contends that
+there are functions over which the President has plenary powers; that
+these functions are the "executive" functions in the constitutional sense;
+but that in the founding vision, "executive" functions-which must of
+course be specified in detail23 -are not coextensive with all the functions
+now (or then) exercised by the President.24 As for these nonexecutive
+functions exercised by the executive, the original unitarian-as we will
+refer to those who believe in the weak version-contends that Congress
+has a wide degree of authority to structure government as it sees fit.
+Under this view, unitariness is a significant constitutional value, but it is
+not a trumping constitutional value. Other values may at times override
+unitariness, and it is Congress that is to choose among these competing
+values.</p>
+        <p>In outline form, the belief in a strongly unitary executive is
+grounded in the Vesting Clause of Article II: "The executive Power shall
+insulates these officers from presidential control. Rather, these theorists
+contend, this Clause was an insignificant housekeeping provision added at the last
+minute. Unitary executive theorists also deny that the President's explicitly
+delineated power to "require the Opinion, in writing, of the principal Officer in
+each of the executive Departments" implies that the President has no inherent
+power to tell principal officers what to do. Unitarians contend that the Opinions .
+Clause represents too slender a reed to support this qualification of the
+substantial grant of power embodied in the Article II Vesting Clause.</p>
+        <p>Id. (footnotes omitted).</p>
+        <p>Charles Tiefer provides a similar description of the modem unitarian view.
+This view posits constitutional mandates for executive organization, not only in
+areas with traditional Executive hierarchies such as communicating with foreign
+governments and directing the military, but also in the area of access to the
+courts. Under this view, the Executive branch consists of agencies organized in a
+unitary body under the President's control either directly or through a chain of
+command. Congress' checks on abuse within this unitary body consist of
+hearings, investigations, new legislation, political pressures, and impeachment,
+but Congress cannot shield agencies within this unitary body from presidential
+control or removal. Thus, even in conflict of interest situations, such as when the
+Executive department is called upon to conduct investigations of the President or
+his top officials, proponents of this approach maintain that Congress cannot
+divest the President of control over the investigation.</p>
+        <p>Charles Tiefer, The Constitutionality of Independent Officers as Checks on Abuses of
+Executive Power, 63 B.U. L. Rev. 59, 61 (1983) (footnotes omitted).</p>
+        <p>22. See infra notes 25-32 and accompanying text.
+23. See infra Part II.D.</p>
+        <p>24. See Peter L. Strauss, Formal and Functional Approaches to Separation-of-Powers
+Questions-A Foolish Inconsistency?, 72 Cornell L. Rev. 488, 492-96 (1987) (arguing
+Constitution's silence about administration was product of "explicit purpose to leave
+Congress free to make whatever arrangements it deemed 'necessary and proper").</p>
+        <p>HeinOnline -- 94 Colum. L. Rev. 9 1994
+be vested in a President."25 This clause creates "a" President, not several;
+it is powerful, and to some decisive, textual evidence in favor of the view
+that the Constitution creates a hierarchy with the President at the top.26
+Moreover, the President is given all executive power. The framers did
+not split up that power among different national entities. The Take Care
+Clause is said to reenforce this view. This clause explicitly gives the
+President the power to "take Care that the Laws be faithfully executed." 27
+It may be true that the Take Care Clause is a duty at least as much as it is a
+power; but the duty is the President's, and as with any duty, it implies
+certain powers. If we take the two clauses together, the argument goes,
+the President exercises hierarchical control over everyone within the
+executive department, and people who exercise discretionary authority
+must serve either at the President's pleasure or remain subject to his will
+in the sense that he can countermand their decisions. Congress'
+authority to structure the executive branch cannot intrude on this basic
+principle. 28</p>
+        <p>On this view, the founders imagined a hierarchical 29 executive
+branch, with the President operating at the head of that hierarchy. From
+this structure, certain limitations on the power of Congress naturally
+flow-limitations on Congress' power to restrict or control the extent of
+the President's authority over subordinates who execute the laws. It
+follows that the so-called independent agencies are in conspicuous violation
+of the Constitution."° It also follows that the Independent Counsel Act, 1
+like all other efforts to separate the President from the administration, is
+unconstitutional under Article 11.32</p>
+        <p>One could approach the question whether the Constitution
+embodies the strong version of unitariness from at least two perspectives, one
+labeled broadly "originalist," the other not.3 3 We understand originalism
+to require the interpreter to ask whether the modem unitarian's
+limitations on Congress' power were indeed understood as such by those who
+ratified the Constitution. AsJustice Scalia has stated the test, the
+originalist would ask whether (1) the text standing alone contains strong
+unitarian limitations, or (2) whether strong unitarian limitations were so well
+25. U.S. Const. art. II, § 1.
+26. See, e.g., Calabresi &amp; Rhodes, supra note 1, at 1165.
+27. U.S. Const. art. II, § 3.
+28. See supra note 21.</p>
+        <p>29. As we emphasize below, we are not claiming that the founders must have
+imagined an entirely hierarchical executive for the unitarian's claim to be in substance
+correct. See infra text accompanying notes 73-75; notes 58, 96 and accompanying text.
+We simply begin with what is (for us) a natural assumption here, and relax it later on.
+30. See supra note 21.
+31. See 28 U.S.C. §§ 591-598 (1988).
+32. See infra text accompanying notes 48-53.
+33. For a qualification of the originalist/nonoriginalist distinction, see supra note 3.
+understood at the founding so as to be implied by the document itself.3 4
+A nonoriginalist who is nonetheless insistent on maintaining fidelity with
+founding commitments would ask either (1) whether such limitations
+should be understood to follow from the best understanding of the
+framers' design,3 5 or (2) whether such limitations follow from the original
+understanding translated into the current (and quite different)
+context.3 6 We now proceed to explore, on originalist grounds, which version
+of unitariness is embodied in the Constitution.</p>
+      </sec>
+      <sec id="sec-2-2">
+        <title>THE ORiGINAL EXECUTrvE</title>
+        <p>How can we know whether the framers believed in a strongly unitary
+executive branch? Many originalists would approach this question
+through a (by now) standard formula-by considering almost
+mechanically the key sources of interpretation, "text, structure, and history," as
+the basis for uncovering the Constitution's original meaning.3 7 And so,
+beginning with the framers' text, we could read in Article II that "the
+executive power" is to be "vested in a President" who shall "take Care that
+the laws be faithfully executed." This is quite likely to yield (for us) a very
+strong conception of the President's power-after all, it says "the
+executive power," not "some" executive power, and "all" this executive power is
+vested in "a" President.3 8</p>
+        <p>There are of course other bits of text added to this core-text that
+defines some additional power and a few minor duties 3 9-but in the
+main, the document might appear quite clear. Any question about this
+clarity is easily resolved by considering the second originalist
+step-structure. Article II's Vesting Clause is less conditional than Article I's: Article
+I vests legislative power "herein granted," while Article II vests "the
+executive power" without such a qualification. And so with text and structure,
+we quite quickly come to a conception of the executive that fits well with
+a familiar picture of the modem presidency-a strong, constitutionally
+empowered "chief-administrator" of the executive branch. 40</p>
+        <p>But we might ask up front how well this method can serve us in this
+setting. For when we "begin" with an old text, we are likely also to begin
+with a range of modem presuppositions about the meaning of that
+textmodem, not founding, presuppositions. The text is not self-interpreting,
+and the presuppositions with which we begin will color our reading of the
+words, possibly more than they illuminate the world the words were
+meant to construct.4 1 "Executive power" means to us all power not
+legislative and not judicial; but we might ask, was this its meaning for the
+framers? "A President" is for us the center of national policymaking, both
+such a limitation should be understood to follow from the best understanding of the
+framers' design. On this question, we remain agnostic. Finally, as we suggested above, see
+supra note 3, it may be that an understanding of this form of "nonoriginalism" is the best
+way of understanding what "originalism" should be. For further discussion of this point,
+see infra Part III.</p>
+        <p>
+          37. See, e.g., Akhil R. Amar, The Two-Tiered Structure of the Judiciary Act of 1789,
+138 U. Pa. L. Rev. 1499, 1505 (
+          <xref ref-type="bibr" rid="ref20">1990</xref>
+          ) [hereinafter Amar, The Judiciary Act of 1789].
+        </p>
+        <p>38. See Morrison v. Olson, 487 U.S. 654, 705 (1988) (ScaliaJ., dissenting); Calabresi
+&amp; Rhodes, supra note 1, at 1165. It might be revealing that much of this debate is a debate
+through italics.</p>
+        <p>39. See U.S. Const. art. II, §§ 2, 3.</p>
+        <p>40. See, e.g., Prakash, supra note 19, at 991 (arguing that "[h]istorical evidence...
+indicates the Framers attempted to establish an executive who alone is accountable for
+executing federal law and who has the authority to control its administration").</p>
+        <p>41. This is a pervasive problem with one version of formalism in law. If we aim to
+recover original meaning, we cannot rely on text "alone."</p>
+      </sec>
+    </sec>
+    <sec id="sec-3">
+      <title>THE PRFSIDENTAND THE ADMINISTRATION</title>
+      <p>foreign and domestic; was this who he was at the start of the nation?42 A
+power to "take Care" that the laws be faithfully executed yields for us an
+implied power to control and direct all those in the executive branch who
+administer the law; would the framers have understood this to follow?
+The Opinions Clause 43 (giving the President the power to demand
+written opinions), the Commission Clause" (requiring the President to
+commission officers), and the Inferior Officers App6intment Clause 45
+(allowing Congress to vest the appointment of some officers somewhere
+else) all for us read plainly, but for the most part insignificantly; were they
+also unnecessary scribbles for the founders?</p>
+      <p>It is our suspicion that much of the conventional reading of Article
+II's text is informed by very modern ideas, and this leads us to adopt a
+distinctive interpretive strategy. Rather than beginning with text or
+structure alone, we begin with history. Our aim is to dislodge modem
+preconceptions about the nature of the President and executive power by
+contrasting these conceptions with those of the framers and with the
+actual theory and practice of the early Congress. It is an important truism
+that the framers were quite skeptical of broad executive authority, a
+notion that they associated with the tyrannical power of the King.46 Their
+skepticism about executive authority-their rejection of the monarchical
+legacy-at least raises doubts about the idea that the President was to be
+entrusted with control over all of what we now consider administration.</p>
+      <p>We rely, however, not on general ideas about the executive, but on a
+more particular examination of how well the strongly unitarian claim fits
+with the founding vision. We begin with three puzzles presented by the
+original practice. In each, we compare the actual historical practice of
+the framers and the early Congresses with what the unitarian would
+predict that same practice would be. The practice is important, even if not
+decisive, because it is relevant to an assessment of the original
+understanding.47 While the practice does not prove the original
+understand42. On the question of policymaking alone, consider President Washington's
+selfconception of his role in the legislative process:
+"Motives of delicacy," [President Washington] once wrote, "have uniformly
+restrained the P- from introducing any topick which relates to Legislative
+matters to members of either house of Congress, lest it should be suspected that
+he wished to influence the question before it." He would not permit
+congressional committees to solicit his opinion, but intimated his willingness to
+express his views, "when asked," to a friend.</p>
+      <p>Leonard D. White, The Federalists: A Study in Administrative History 55 (1948) (quoting
+Draft Letter by George Washington (Feb. 1792), in 31 The Writings of George Washington
+491, 493 (John C. Fitzpatrick ed., 1939)).</p>
+      <p>43. U.S. Const. art. II, § 2, cl. 1.
+44. Id. cl. 3.
+45. Id. cl. 2.</p>
+      <p>46. See Gordon S. Wood, The Creation of the American Republic 1776-1787, at 521
+(1969).</p>
+      <p>47. No doubt there are important questions that can be raised about the usefulness of
+post-enactment practice for interpreting the meaning of the Constitution. The mere fact
+ing, an original practice widely inconsistent with a proposed original
+understanding should draw that understanding into doubt. As we
+suggest, in every case the original practice conflicts sharply with the practice
+predicted by the modem unitarian's theory. Together, we suggest, the
+three puzzles force us to ask whether there is a different model of the
+original executive that better captures the original design. We conclude
+that there is.</p>
+    </sec>
+    <sec id="sec-4">
+      <title>OriginalUnderstandingsand UnitarianPuzzles: The Executive and</title>
+    </sec>
+    <sec id="sec-5">
+      <title>Prosecution</title>
+      <p>We begin with the narrow but revealing question of criminal
+prosecution, as presented in the contest over the independent counsel and
+resolved in Morrisonv. Olson. 48 The Ethics in Government Act of 1978, 49
+enacted in the wake of Watergate, established the office of the
+independent counsel to investigate and prosecute offenses against certain officers
+of the administration. 50 Without exploring the details of the Act, suffice
+it to say that under certain circumstances, the statute vested in the special
+counsel full prosecutorial authority for some limited period of time,
+uncontrolled by the President except to the extent that the Attorney
+General could discharge the special counsel for "good cause."5 1 The
+claim of Theodore Olson (the prosecuted) was that the power of Alexia
+Morrison (the prosecutor) was power from "the executive power," and
+hence "vested" in the President alone. For Justice Scalia, writing in
+dissent,52 the case was quite straightforward: The Constitution vests
+executhe early Congresses enacted a bill certainly cannot show that the bill is
+constitutionaltake for example, the Alien and Sedition Acts. The Sedition Act, ch. 74, 1 Stat. 596 (1798)
+(expired Mar. 3, 1801); The Alien Enemies Act, ch. 66, 1 Stat. 577 (1798) (current version
+at 50 U.S.C. §§ 21-23 (1988)); The Alien Act, ch. 58, 1 Stat. 570 (1798) (expiredJune 25,
+1800); The Naturalization Act, ch. 54, 1 Stat. 566 (1798) (repealed by Act ofApril 14, 1802,
+ch. 28, § 5, 2 Stat. 153, 155). In this area, Congress' self-interest appears to be at stake, and
+we may therefore discount its conclusions. We do believe the practice is relevant, even
+persuasive, and we will rely upon it below. But we are not using the practice to prove a
+particular theory; rather our aim is to use it to raise doubts about a reigning, strongly
+unitarian theory. A complete picture of the original understanding would include a much
+broader survey of practice notjust after, but before the Constitution's enactment. Our aim
+here, however, is not the final history of the founding. It is enough to jar current
+understandings by emphasizing the inconsistencies they produce. Note that this practice
+of looking to the early Congresses as an understanding of the framers' meaning is
+common in the Supreme Court as well. See, e.g., Harmelin v. Michigan, 111 S.Ct. 2680,
+2694 (1991) ("The actions of the First Congress... are of course persuasive evidence of
+what the Constitution means, [Marsh v. Chambers, 463 U.S. 783 (1983); Carroll v. United
+States, 267 U.S. 132, 150-52 (1925); cf. McCulloch v. Maryland, 17 U.S. (4 Wheat.) 316,
+401-02 (1819)].").</p>
+      <p>48. 487 U.S. 654 (1988).</p>
+      <p>49. Pub. L. No. 95-521, 92 Stat. 1824 (1978) (codified as amended at scattered
+sections of 2, 5, 18, 28 &amp; 39 U.S.C.).</p>
+      <p>50. See 28 U.S.C. §§ 49, 591-598 (1988).
+51. See id. § 596.
+52. See 487 U.S. at 697 (Scalia, J., dissenting).
+tive power in the President, and prosecution is an executive power; the
+independent counsel exercises prosecutorial discretion, but without the
+President's control; the act creating the independent counsel is therefore
+unconstitutional. ForJustice Scalia, the President must in some way
+control the exercise of all executive power, and this statute did not furnish
+that control.53</p>
+      <p>So much certainly follows as a matter of modem unitarian theory;
+but what about the framers' actual practice? At the core ofJustice Scalia's
+argument was an implicit claim about that practice. In defining the scope
+of "executive power," Justice Scalia wrote:</p>
+      <p>In what other sense can one identify "the executive Power" that is
+supposed to be vested in the President (unless it includes
+everything the Executive Branch is given to do) except by reference to
+what has always and everywhere-if conducted by government
+at all-been conducted never by the legislature, never by the
+courts, and always by the executive .... Governmental
+investigation and prosecution of crimes is a quintessentially executive
+function.5 4
+This is a textually plausible claim. To many modem readers, it seems
+certainly correct. But has "the executive Power" "always and everywhere"
+been so understood?</p>
+      <p>In answering this question, again, we proceed in two steps. First,
+does the constitutional text in its original context speak to the question at
+issue? Second, if the text does not squarely answer the question, does the
+original practice reveal an understanding uniformly shared by the
+framers that itself resolves the question?5 5 The text of course does not say
+whether prosecution is within the term "executive Power."56 So the
+originalist must turn to the second step, and ask whether despite textual
+ambiguity, the framers clearly understood prosecution to be within the
+term "executive Power."</p>
+      <p>If the framers' and early Congresses' actual practice is any indication
+of their original understanding, then they did not understand
+prosecution to be within the notion of "executive Power" exclusively, and
+therefore did not understand it to be within the exclusive domain of the
+President. While the argument for this conclusion has been discussed
+before in depth,5 7 we can quickly summarize the important points here.</p>
+      <p>Consider first the original structure of federal prosecution. If the
+modern unitary model were the framers' model, one might think that the
+framers would have established a hierarchical department of legal affairs,
+responsible for all federal prosecution, with officers answerable to the
+President or the President's agent (for example, the Attorney General).58
+In fact, the record is not at all so neat. The first Congress established no
+hierarchical department of legal affairs-as we discuss below, the
+Department ofJustice was not even born until 1870.- 9 Nor did the
+framers establish a general or centralized body for federal prosecution. Most
+importantly, they established no absolute rule that prosecution must be
+conducted solely by those answerable to the President. In each of these
+three design elements, the unitary model mispredicts the original
+practice. We consider these in turn.</p>
+      <p>First: For the first eighty years of the Republic, there was no
+centralized and hierarchical department of legal affairs in the executive branch.
+While the Judiciary Act of 1789 did create the office of Attorney General,
+it did not create a "department" under him. 60 By statute, the Attorney
+General had just two duties: to represent the United States in the
+Supreme Court (only), and to answer legal questions submitted to him by
+the President or heads of departments on matters relating to the
+operation of those departments 6 1 -though from the start, the Attorney
+General also served as the President's legal advisor.6 2 The same act
+created district attorneys who prosecuted suits on behalf of the United States
+in the district courts.63 Until 1861, however, these district attorneys did
+not report to the Attorney General, and were not in any clear way
+answerable to him. Before 1861, the district attorneys reported either directly to
+no one (1789 to 1820) or to the Secretary of the Treasury (1820 through</p>
+    </sec>
+    <sec id="sec-6">
+      <title>THE PRESIDENTAND THE ADMTNISTRATION</title>
+      <p>Second: The first centralized federal prosecution was outside the
+direct control of the President. Within the Department of the Treasury,
+Congress established the office of the Comptroller, and in 1797 charged
+him with the power "to institute suit for the recovery of" a "sum or
+balance reported to be due to the United States, upon the adjustment of any
+[revenue officer's account]."66 This power was expanded in 1817, giving
+the Comptroller the power "to direct suits and legalproceedings, and to take
+such measures as may be authorized by the laws to enforce prompt
+payments of all debts to the United States."67 But the Comptroller himself
+was not directly within the President's control, and most commentators
+understood the Comptroller to be "relatively independent."6 8 So special
+was the Comptroller's position that it led Madison, who ordinarily
+supported an absolute removal power by the President over executive
+officers, to comment that "there may be strong reasons why an officer of
+this kind should not hold his office at the pleasure of the Executive
+branch of the Government."6 9 At one point in the debate, Madison
+argued that the Comptroller should hold his office for a fixed tenure. 70
+64. Note that during this period the Secretary of the Treasury reported to Congress.
+See infra text accompanying note 156.</p>
+      <p>65. Leonard White describes the early control of district attorneys as follows:
+By clear implication and subsequent practice the district attorneys thus became
+subject to the comptroller's instructions for this class of cases, as well as the fifth
+auditor's instructions after 1820 in cases involving delinquent collectors of
+revenue. They also assisted the Postmaster General in suits against delinquent
+postmasters and their sureties, and in the prosecution of offenses against the
+mails. The attorneys might, therefore, receive instructions from three major
+federal agencies, to none of which they were clearly responsible.</p>
+      <p>Leonard D. White, TheJeffersonians: A Study in Administrative History 1801-1829, at 340
+(1951); see also Tiefer, supra note 21, at 75 ("The Attorney General did not control or
+supervise federal district attorneys; his function was merely to advise the President and the
+Cabinet. Federal revenue collectors obtained legal enforcement for their collection cases
+in decentralized fashion, paying fees to the federal district attorneys or to private counsel."
+(footnotes omitted)).</p>
+      <p>66. Act of Mar. 3, 1797, ch. 20, § 1, 1 Stat. 512, 512; see also Tiefer, supra note 21, at
+75. For a general discussion of the Comptroller's office, see Harvey C. Mansfield, The
+Comptroller General (1939).</p>
+      <p>67. Act of Mar. 3, 1817, ch. 45, § 10, 3 Stat 366, 367 (emphasis added); see also
+Tiefer, supra note 21, at 75.</p>
+      <p>68. See Darrell H. Smith, The General Accounting Office: Its History, Activities and
+Organization 22 (1927); Tiefer, supra note 21, at 73-74.</p>
+      <p>69. 1 Annals of Cong. 636 (Gales &amp; Seaton eds., 1834); see also Tiefer, supra note 21,
+at 74.</p>
+      <p>70. See 1 Annals of Cong. 636 (Gales &amp; Seaton eds., 1834). It should be noted, as
+lawyers are wont to do, that much of the argument against modem unitarians hangs on
+this single reference. to one debate by Madison. Indeed, Madison the next day "withdrew
+the proposition which he yesterday laid upon the table," id. at 639, though it is not entirely
+clear to what proposal this refers. The point that must be stressed, however, is that too
+much of the anti-unitarian case may be resting upon this single speech by Madison.
+Congress did not entirely follow Madison's suggestion, 71 but nonetheless
+the Comptroller's decisions to prosecute were independent, as were his
+final determinations of disputes referred by statute to him.72 More
+importantly, whether Madison's initial thoughts prevailed or not, what is
+clear is that all thought the matter open for Congress'
+determinationthat is, that Congress had significant flexibility in structuring the duties of
+this "executive" officer.</p>
+      <p>Thus, the organizational structure of the original executive, at least
+with respect to prosecution, was not hierarchical. But perhaps the
+essence of unitarianism is not organizational structure. Perhaps instead the
+essence is mere control, through whatever structure. If the President
+retained either directory authority over the district attorneys, or removal
+authority over all exercising prosecutorial power,73 the unitary position
+may seem unimpaired, at least so far. While acknowledging that there
+was no clear organizational hierarchy, the unitarian could still claim that
+the essential requirement of presidential control was preserved 74 : Even if
+the story just told shows that the Attorney General could not direct or
+remove district attorneys, nothing yet shows the President could not.75</p>
+      <p>Third: But so far this story ignores a crucial fact about federal
+prosecution at the founding-federal officers were not the only ones who
+conducted federal prosecutions. State officials also conducted federal
+prosecutions, and these officers were clearly not subject to control by the
+71. The Act contained a general removal clause that stated: "if any person shall
+offend against any of the prohibitions of this act, he shall be deemed guilty of a high
+misdemeanor,... and shall upon conviction be removed from office." Act of Sept. 2, 1789,
+ch. 12, § 8, 1 Stat. 65, 67. Compare this with the-Temoval provision for the Secretary, which
+stated simply "[t]hat whenever the Secretary shall be removed from office by the President,"
+without providing any limitations on the President's removal power. § 7, 1 Stat. at 67.</p>
+      <p>72. See Tiefer, supra note 21, at 74. We believe that Madison's concern here certainly
+was that the Comptroller be independent of the President for checks and balances reasons.
+But the modern unitarian could perhaps argue that the real motive for the independence
+was simply efficiency, and therefore that the Comptroller's position is not strongly
+probative of the framers' understanding of any constitutionally required control of the
+President.</p>
+      <p>73. On the distinction between directory and removal authority, seeJames Hart, The
+Ordinance Making Powers of the President of the United States 188-97 (1925); Itzhak
+Zamir, Administrative Control of Administrative Action, 57 Cal. L. Rev. 866, 877 (1969).</p>
+      <p>74. Though as Susan Bloch convincingly argues, it is not at all clear the framers
+believed they were vesting in the President removal authority over the Attorney General.
+See Susan L. Bloch, The Early Role of the Attorney General in our Constitutional Scheme:
+In the Beginning There Was Pragmatism, 1989 Duke L.J. 561, 582.</p>
+      <p>75. Jefferson at least exercised the directory power when he ordered district attorneys
+to cease prosecution under the Alien and Sedition Acts. See, e.g., Letter from Thomas
+Jefferson to Wilson C. Nicholas (June 13, 1809), in 12 The Writings of Thomas Jefferson
+288 (Andrew A. Lipscomb ed., 1905) [hereinafter Lipscomb, Writings ofJefferson]; Letter
+from ThomasJefferson to Edwin Livingston (Nov. 1, 1801), in 8 The Writings of Thomas
+Jefferson 57-58 n.1 (Paul L. Ford ed., New York, G.P. Putnam's Sons 1897) (hereinafter
+Ford, Writings ofJefferson]. In 1897, the Supreme Court concluded the President had the
+power to remove a U.S. attorney, despite his being granted a four-year term under the
+appointment statute. See Parsons v. United States, 167 U.S. 324, 343 (1897).
+President. Perhaps it would be possible to say that state officers enforcing
+federal law were not exercising "the Executive power of the United
+States"; but it seems quite reasonable to think that insofar as enforcement
+of federal law is at stake, this was indeed their responsibility. As Harold
+Krent writes,</p>
+      <p>Congress vested jurisdiction in state courts over actions seeking
+penalties and forfeitures, granted concurrent jurisdiction to
+state courts over some criminal actions, and assigned state
+officials auxiliary law enforcement tasks. Thus, Congress assigned
+law enforcement responsibility to state officials who were far
+removed from control of the executive branch.76
+Even when actions were criminal, "[t]he decisions whether to sue and
+what punishments to seek remained in the discretion of individuals
+outside the Executive's control."77 The original practice thus violated the
+unitarian's plan, even in its most minimal form.78 Here at least, some
+federal prosecution was exercised that was clearly beyond the President's
+control.</p>
+      <p>But not here only. For not only was federal prosecution vested in at
+least some federal officers not subject to direct presidential control, 79 and
+in some state officers far removed from executive control,8 0 but federal
+76. Krent, supra note 57, at 303. Krent's very careful analysis makes three distinct
+points: (1) "Congress limited the Executive's effective control over law enforcement by
+dispersing supervisory responsibility among various executive officials," id. at 286; (2)
+Private actions constituted prosecution outside the executive's control, see id. at 290-303;
+(3) States exercised some federal prosecutorial authority, see id. at 303-10. The last two
+points are discussed below, see infra text.accompanying notes 77, 81-83. For an example
+of a statute giving control of prosecution to state officials, see Act ofJuly 6, 1798, ch. 66,
+§ 2, 1 Stat. 577, 577 (respecting alien enemies); see also Thomas Sergeant, Constitutional
+Law 269-70 (Philadelphia, Abraham Small 1822). Finally, one should note that there is an
+important difference between vesting executive authority in a state official and vesting
+executive authority in a federal official not directly responsible to the President. Only the
+latter is subject to the machinations of Congress, and hence the former might be
+considered constitutionally distinct. We do not address that difference, pointed out to us
+by Alan Meese, in the analysis that follows.</p>
+      <p>77. Krent, supra note 57, at 304.</p>
+      <p>78. One should ask what the appropriate baseline is for evaluating unitariness, or
+alternatively, the extent of original executive control. For obviously one cannot carry over
+modem conceptions, built upon modem capacity and technology, to'the eighteenth
+century world. What may appear to us to be lax control may have, in context, appeared
+quite centralized. And indeed, as Charles Thach argues, against the background of state
+executives, and the continental executive, Article II's executive was quite strong. See
+Charles C. Thach, Jr., The Creation of the Presidency 1775-1789: A Study in
+Constitutional History, Johns Hopkins University Studies in Historical and Political
+Science, No. 4 1922, at 1, 77. It would remain possible for the modem unitarian then to
+argue that compared to the degree of control existing before 1787, the new Constitution
+was a more centralized and unitarian structure. Nonetheless, that it was more centralized
+would not entail a present understanding of it as fully centralized.</p>
+      <p>79. Recall the discussion of the district attorneys and the Comptroller, supra notes
+64-72 and accompanying text.</p>
+      <p>80. See supra text accompanying notes 76-77.</p>
+      <p>It was in the nineteenth century that one of the features
+distinguishing the framers' world from ours changed. Here was the rise of a massive
+federal bureaucracy;4 14 but unlike the legal culture today, the culture of
+the nineteenth century theorists was firm in its faith in the scientific
+model of administration, so that the theorists did not see constitutional
+problems with relatively independent agencies. The nineteenth century
+culture could accommodate the growth in bureaucracy by approving
+relatively independent agencies while staying within the bounds of fidelity.</p>
+      <p>But for us, the central fact of the eighteenth century executive
+(limited national government and limited delegations to federal
+administrators) has changed, and the central assumption of the nineteenth century
+solution (neutral, scientific administration) has failed. For now, we not
+only have a large administrative bureaucracy, but we also have profound
+skepticism about whether it is possible and desirable for that bureaucracy
+to operate free from politicaljudgment. EchoingJustice Brandeis
+(quoting Justice Holmes) in ErieR.R. Co. v. Tompkins,4 15 we could say that
+administration "in the sense in which courts speak of it today" can no longer
+be understood to be neutral, or scientific. Politics is at its core, in the
+sense that valuejudgments are pervasive and democratic controls on
+policymaking are indispensable. 4 16 This raises a central problem for a
+modem bureaucratic state. The question the interpreter must answer is how
+best to accommodate this current skepticism-what structure makes most
+sense of the framers' design, given the change in the extent of the
+bureaucracy and the change in our understanding of what bureaucracy is.</p>
+      <p>The answer to this question is not simple. No doubt our
+understandings are complex and multiple, and no doubt the principal place for
+registering changes in understanding is the legislature, not the judiciary.
+Congress' diminished enthusiasm for the independent agency form
+attests to the possibility that new views about expertise and factionalism can
+influence legislative judgments, informed by constitutional
+considerations, about appropriate structures. 4 17 It would be possible to say that
+courts should not take account of changed understandings in the process
+of constitutional interpretation. But it is also possible to think that
+changes of this kind are relevant to interpretation as well as to
+lawmaking, as the Court itself recently insisted in describing the shifts from Pessy
+to Brown and Lochner to West Coast Hotel.4 18</p>
+      <p>A structural argument for a unitary executive, then, comes down to
+this: Where the framers allocated a power that they thought of as
+political, that power was allocated to people who were themselves politically
+accountable. This was part of the fundamental commitments to
+account414. See Young, supra note 401, at 47-48.
+415. 304 U.S. 64, 79 (1938).
+416. It is not necessary to claim that such control must take any particular form.
+417. See Sunstein, supra note 396, at 478-83.</p>
+      <p>418. See Planned Parenthood v. Casey, 112 S.Ct. 2791, 2812-14 (1992); Lessig, supra
+note 350, at 27-31, 67-71.
+ability and avoidance of factionalism. At the founding period, the
+existence of a degree of independence in administration could not
+realistically have been thought to compromise these commitments.
+Today, by contrast, a strong presumption of unitariness is necessary in
+order to promote the original constitutional commitments. The
+legislative creation of domestic officials operating independently of the
+President but exercising important discretionary policymaking power
+now stands inconsistent with founding commitments.</p>
+      <p>It follows that in order to be faithful to the founding vision in
+changed circumstances, courts must now bar Congress, at least as a
+presumption, from immunizing from presidential control the activities of
+officials who exercise discretionary policymaking authority-at least if those
+officials are not adjudicators. 4 19 In order to be faithful to the original
+design, that is, the interpreter must see as part of the constitutional
+structure a constraint not explicitly stated in that design, requiring that certain
+kinds of policymaking remain within the control of the executive.</p>
+      <p>This general statement leaves many unanswered questions and
+ambiguities, and we will address some of them below. But the basic
+conclusions of the argument are not obscure. To the extent that Congress has
+authorized executive officials to engage in adjudicative tasks, it may
+immunize those officials from presidential control by, for example,
+preventing presidential interference in ongoing cases and offering "for cause"
+protection against discharge. To the extent that an employee has truly
+ministerial tasks, and is not engaged in policymaking activity, "for cause"
+protections are entirely acceptable. The Court was correct in Myers; the
+Civil Service Act is constitutional. 420 But to the extent that an agency
+official makes discretionary decisions about the content of public policy,
+the best reading of the constitutional plan is that in general, the official
+may not be insulated from presidential supervision. The President must
+retain the power to discharge him if his decisions are contrary to
+presidential dictates.</p>
+      <p>A contrary view, set out forcefully by Abner Greene, could also be
+suggested by this same history--one that argues against a strongly unitary
+executive. 42 1 Perhaps the original design reflected a carefully calibrated
+set of judgments about institutional authority, with a division between
+lawmaking and law implementation; perhaps the most important
+changed circumstance was the disturbance of this calibration through the
+delegation of policymaking authority to the President. On this view, the
+key founding commitments call for diffusion of power and for checks and
+419. Here we mean adjudicators in the sense of non-policymaking adjudication
+discussed in Martin v. Occupational Safety &amp;Health Rev. Comm'n, 111 S. Ct. 1171, 1178
+(1991).</p>
+      <p>420. See Myers v. United States, 272 U.S. 52 (1926).</p>
+      <p>421. See Abner S. Greene, Checks and Balances in an Era of Presidential Lawmaking,
+61 U. Chi. L. Rev. 123, 125-26 (1993).
+balances between the legislature and the executive. 422 The principal
+threat of the post-New Deal period lies in the concentration of lawmaking
+and law-executing power within the presidency. To restore the original
+balance, courts must now allow a high degree of independence from
+presidential power, so as to prevent what the framers dreaded most: the
+concentration of governmental power in a single institution-here, the
+executive. 423</p>
+      <p>This argument also stresses the need to maintain fidelity with the
+original constitutional design. It too is an argument of translation. But it
+takes the post-New Deal developments as a reason for more rather than
+less caution about unitariness in administration. The new circumstances
+mean that unitariness is a far greater threat than it once was-not that
+unitariness is a constitutionally compelled solution.4 24</p>
+      <p>More particularly, this view fears that the new delegations have
+threatened to confer excessive power on the executive branch-to create
+an "imperial presidency." The changed circumstances argue in favor of a
+narrow reading of "executive power" and for broad congressional
+authority under the Necessary and Proper Clause, precisely in the interest of
+maintaining the original commitment to a system of checks and
+balances.4 25 On this view, congressional power to insulate administration
+from presidential control is a necessary quid pro quo for the exercise of
+discretionary lawmaking power by people other than legislators. 426 The
+rise of lawmaking by nonlegislative bodies-most especially, the downfall
+of the nondelegation doctrine 427-makes it especially necessary to insist
+on congressional prerogatives under the Necessary and Proper Clause, in
+order to prevent an aggregation of powers in the presidency. In short,
+Greene urges, the post-New Deal developments mean that modern
+interpreters should place less value on unitariness than did the framers,
+because of the need to maintain fidelity with the commitment to the
+diffusion of power.4 28</p>
+      <p>This argument is hardly without force. It shows that there is no
+algorithm for deciding how to maintain fidelity with past instructions in the
+face of changed circumstances. But we do not believe that the argument
+422. See id.
+423. See id.
+424. See id.
+425. See id. at 137-38.</p>
+      <p>426. A view of this kind has been prominently set out by Justice White. See INS v.
+Chadha, 462 U.S. 919, 967 (1983) (White, J., dissenting) (arguing that legislative veto is
+appropriate means by which Congress can secure accountability of executive and
+independent agencies that have significant delegated power).</p>
+      <p>427. The nondelegation doctrine bans open-ended grants of discretionary authority
+to agencies. See A.L.A. Schechter Poultry Corp. v. United States, 295 U.S. 495 (1935). For
+the brief history of the doctrine-not invoked to invalidate a statute since
+Schechteritselfsee Stephen G. Breyer &amp; Richard B. Stewart, Administrative Law and Regulatory Policy:
+Problems, Text, and Cases 66-91 (3d ed. 1992).</p>
+      <p>428. See Greene, supra note 421, at 141-42.
+is ultimately persuasive. The first and most fundamental problem is that
+the argument treats diffusion of power as an end in itself, rather than as
+an instrument for serving various purposes connected with the
+preservation of liberty. The second problem is that even if broad delegations of
+authority are the problem, independent agencies are not the solution.</p>
+      <p>We can make these points by considering two lessons of the post-New
+Deal experience. First, there is the problem of administrative
+accountability, one of the important founding values. The rise of independent
+regulatory commissions compromises that value. 429 Second, there is the
+problem of faction, the very problem that the system of checks and
+balances was intended to solve. To the extent that we multiply (and
+specialize) the bodies exercising lawmaking power (without a presidential or
+congressional check), we increase geometrically the opportunities and
+the costs of faction. From the standpoint of constitutional structure and
+constitutional commitments, the creation of a body of independent
+entities seems to be a cure worse than the disease. Both theory and practice
+support this conclusion. 430</p>
+      <p>The original diffusion of power was supposed to protect liberty, in
+large part by limiting the authority of factions. 431 The rise of a large
+bureaucracy immunized from presidential control tends to endanger rather
+than promote that original goal.4 32 Through concentrating power in
+bureaucracies that combine lawmaking and law-executing authority, we do
+not promote a healthy system of checks and balances, but instead
+aggravate the relevant risks to liberty.4 33 The insulating arm of the President is
+not free from risk. But because the President has a national
+constituency-unlike relevant members of Congress, who oversee independent
+429. Jerry Mashaw argues in fiavor of administrative rather than legislative
+policymaking discretion, see Jerry L. Mashaw, Prodelegation: Why Administrators Should
+Make Political Decisions, 1J.L. Econ. &amp; Org. 81, 81-82 (1985); but the argument depends
+crucially on the assumption of presidential direction of bureaucracy.</p>
+      <p>
+        430. See Bernstein, supra note 390, at 291-97 (concluding that independent agencies
+"have proved to be more susceptible to private pressures, to manipulation for private
+purposes, and to administrative and public apathy than other types of government
+agencies"); Cass R Sunstein, Paradoxes of the Regulatory State, 57 U. Chi. L. Rev. 407,
+426-28, 439-40 (
+        <xref ref-type="bibr" rid="ref20">1990</xref>
+        ) (arguing that independent agencies have been "highly susceptible
+to the political pressure of well-organized private groups").
+      </p>
+      <p>431. See The Federalist Nos. 47-51 (James Madison).
+432. See supra note 429.</p>
+      <p>433. See Bernstein, supra note 390, at 293. Barry Weingast and Mark Moran have
+discussed the problems of control over independent agencies by congressional
+committees, noting that committees are not the same as Congress. Weingast argues that
+there is too simple a slippage from legislative control to committee influence. See Barry R.
+Weingast &amp; MarkJ. Moran, Bureaucratic Discretion or Congressional Control? Regulatory
+Policymaking by the Federal Trade Commission, 91 J. Pol. Econ. 765, 777-79, 788-92
+(1983) [hereinafter Weingast &amp; Moran, Bureaucratic Discretion]; Barry R. Weingast &amp;
+Mark J. Moran, The Myth of Runaway Bureaucracy. The Case of the FTC, Regulation,
+May/June 1982, at 33, 33-34 [hereinafter Weingast &amp; Moran, Runaway Bureaucracy]; see
+also INS v. Chadha, 462 U.S. 919, 946-48 (1983).
+agencies with often parochial agendas-it appears to operate as an
+important counterweight to factional influence over administration. 43 4</p>
+      <p>Perhaps Congress can point to the need to limit presidential
+authority in order to support some isolated efforts to prevent concentration of
+power in the President. We will offer some examples below. But it seems
+clear that the changed circumstances do notjustify the immunization of
+all or most bureaucratic power from the President. This is because it is
+hard to identify how independent administration is a realistic solution to
+the constitutional problems caused by changed circumstances. Indeed,
+independent administration would sacrifice many values the founders saw
+as essential.</p>
+      <p>We conclude that if the framers thought that the realm of
+"executive" power was roughly coextensive with the realm of political choice, it
+makes sense to say that most of modem administration must fall under
+the power of the executive; and this is so even if the framers had a
+relatively capacious, but not specifically constitutionalized, conception of
+what counted as "the administrative." Their conception of administrative
+(or permissibly nonexecutive) power certainly did not extend to the
+broad-scale selection of domestic policies for the country as a whole. If
+we are to translate their structural choices into current conditions, we
+may conclude that a largely hierarchical executive branch is the best way
+of keeping faith with the original plan. At least this is so if we are asking
+whether the President has a degree of removal and supervisory power
+over people who are authorized to make high-level discretionary
+decisions about the content of national policy.</p>
+      <sec id="sec-6-1">
+        <title>IV. CURRENT ISSUES</title>
+        <p>In this section, we briefly discuss the implications of our approach on
+the resolution of current issues involving the relationship between the
+President and the administration. Our goal is not to reach final
+conclusions about these questions, many of which would require far more
+elaborate treatment than we can provide here. We are concerned principally
+with a general approach, not with specific solutions. We are attempting
+to see how the argument from translation might bear on contemporary
+disputes, a surprisingly large number of which are unsettled.</p>
+        <p>We have noted that the 1980s saw a surprising rebirth of contestation
+about the issue of presidential control over administration of the laws. 43 5
+It is clear from the recent cases that the so-called independent agencies
+are constitutional-at least in the sense that Congress has the power to
+provide that some administrative officers do not serve at the pleasure of
+434. See Frank H. Easterbrook, Public Choice and Our Vision of the State, 107 Harv.
+L. Rev. (forthcoming 1994).</p>
+        <p>435. See supra notes 11-18 and accompanying text.
+the President.4 36 To this extent, the constitutional assault on
+independent administration, at least in its broadest forms, has been decisively
+repudiated. And to this extent, we think that current law is entirely
+unobjectionable. The independent agencies perform a large number of
+adjudicative functions; consider the NLRB, the FTC, and the FCC. More
+important, and in our view crucially, it is possible to interpret the statutes
+conferring independence on certain agencies in such a way as to
+maintain the essentials of presidential power, that is, the power necessary to
+maintain basic presidential authority over the relevant areas.4 37 It follows
+from this interpretation that, for example, President Clinton has a degree
+of supervisory authority over the FCC, the FTC, and the NLRB, insofar as
+broad policymaking authority is involved. This conclusion is inconsistent
+with current understandings in Congress and the executive branch,43 8
+but it is, in our view, consistent with a proper understanding of the
+constitutional scheme.</p>
+        <p>Insofar as we emphasize this last point, we claim that complete
+independence from the President-if Congress sought to create it-would in
+many cases raise serious problems. But the unitary structure for which we
+argue would produce no question about independence in cases in which
+special institutional considerations support a legislative judgment that it
+is proper to achieve a degree of immunity from the President. Here the
+Necessary and Proper Clause provides ample authority, and here the
+argument from changed circumstances is not decisive, since it does not
+supply considerations that argue sufficiently against limiting presidential
+authority. The Federal Reserve Board is a good example. There is no
+question that the Federal Reserve Board exercises policymaking
+authority; but just as the framers sought to insulate the Comptroller from the
+President, and vested the discretion over deposits in the U.S. Bank in the
+Secretary of the Treasury,43 9 so too the value of separating the "purse
+from the sword" wouldjustify keeping the Federal Reserve Board (holder
+of the post-Keynesian purse) distant from the President.</p>
+        <p>436. See, e.g., Morrison v. Olson, 487 U.S. 654 (1988) (upholding constitutionality of
+independent prosecutor); Bowsher v. Synar, 478 U.S. 714 (1986) (upholding lawmaking
+Comptroller General removable only by congressional initiative, but limiting Comptroller's
+ability to perform executive functions).</p>
+        <p>437. See infra Part IV.C.</p>
+        <p>438. For example, in their Executive Orders requiring administrative agencies to
+undertake cost-benefit analyses before enacting new regulations, both President Reagan
+and President Clinton expressly exempted those agencies that are considered independent
+under 44 U.S.C. § 3502(10) (1988). See Exec. Order No. 12,866, 58 Fed. Reg. 51,735
+(1993) (but requiring all agencies to comply with regulatory agenda for interagency
+coordination); Exec. Order No. 12,291, 3 C.F.R. 127, 128 (1981), reprinted in 5 U.S.C.
+§ 601 (1988); see also 139 Cong. Rec. 12,909 (1993) (statement of Sen. Exon, comparing
+the "independent forum of the Interstate Commerce Commission to the politically
+controlled Department of Transportation").</p>
+        <p>439. See supra text accompanying notes 123-125, 139-143; see also the discussion in
+Froomkin, supra note 120, at 810 &amp; n.149.</p>
+        <p>This is a historical point; but it is supported by a distinctive structural
+consideration. If the Federal Reserve Board were subject to day-to-day
+presidential supervision, there would be a risk that in reality, or in public
+perception, the money supply would be manipulated by the President for
+political reasons. Even a perception of this sort would have corrosive
+effects on democratic processes; it would mean that the state of the
+economy would be perceived to be an artifact of short-term partisan
+considerations. This would be intolerable from the democratic point of
+view; it would likely have adverse effects on the economy as well.
+Congress could permissibly decide that it is proper to prevent this state of
+affairs. But this argument is limited to the particular concerns
+surrounding the Federal Reserve Board; it could not easily be invoked for such
+agencies as EPA, OSHA, or even the nominally independent NLRB.</p>
+        <p>To be sure, it would be possible to say that independence is quite
+generally required to protect against distortions of elections by political
+interest. If, for example, the EPA is subject to presidential authority,
+perhaps environmental enforcement will be influenced by electoral
+considerations. It would be most surprising if this has never happened in the
+past. But independence would pose obvious difficulties for a range of
+constitutionally recognized policies such as coordination 4 40 and
+accountability. The risks to democratic elections are far greater for a political
+Federal Reserve than for a political EPA. And if independence were
+acceptable for the EPA, it would probably be acceptable nearly everywhere
+else. We do not think that the argument that independence is necessary
+should be accepted without a very strong congressional showing; the
+model of the Federal Reserve could not be easily adopted elsewhere
+without compromising central (if translated) constitutional commitments.</p>
+      </sec>
+    </sec>
+    <sec id="sec-7">
+      <title>B. Immunizing Specific Functionsfrom the President</title>
+      <p>The relevant history suggests that Congress may indeed immunize
+some specific functions from the President, and nothing in subsequent
+circumstances should draw this conclusion into question. As we have
+seen, the framers did not believe that prosecutorial authority need be
+concentrated in the President operating through the Attorney
+General.44 ' Moreover, our argument based on changed circumstances
+does not lead to the conclusion that the Independent Counsel Act is
+unconstitutional. We have emphasized the need to promote accountability
+and to limit factionalism by ensuring that large-scale domestic
+policymak440. Consider in this regard the large number of agencies enforcing environmental
+policy and the importance of a coordinating presidential role in order to produce rational
+regulation. See generally Al Gore, From Red Tape to Results: Creating a Government that
+Works Better &amp; Costs Less (National Performance Committee, 1993) (concluding that
+helpful method to eliminate waste would be to give the President greater power); see also
+Breyer, supra note 189, at 10-29 (cataloguing problems in lack of coordination and
+systematization of policy).</p>
+      <p>441. See supra Part II.A.
+ing is not placed in independent actors.44 2 It would be an unwarranted
+expansion of the argument to apply it to the independent counsel, who
+does not engage in domestic policymaking in the sense in which we
+understand that term.44 3</p>
+      <p>There is a further consideration. As in the case of the Federal
+Reserve Board, a special structural justification applies to the
+independent prosecutor. The structural consideration lies in the notion, of course
+familiar to the framers, that no person should be judge in his own
+cause.44 4 It is at least unseemly4 45 to say that the prosecution of
+highlevel executive branch officials will be controlled by other high-level
+executive branch officials. Congress could reasonably decide that the
+appearance or reality of favoritism requires an independent prosecutor for such
+officials. If the congressional judgment is reasonable on this point, courts
+should defer, especially in light of the complexity and delicacy of the
+underlying questions. To be sure, many people have offered plausible
+objections to the Independent Counsel Act,446 but these objections raise
+issues of policy, not of constitutional obligation, at least in light of the
+Constitution's structural commitment to preventing self-dealing by
+government officials.</p>
+      <p>The Court's validation of the Independent Counsel Act is probably
+the largest and most controversial innovation in the recent cases. Before
+1980, there was general agreement that executive officers must be under
+the authority of the President; the Court distinguished Humphrey's
+Executor from Myers on precisely this ground.447 Now the distinction lies
+elsewhere, in the line between independence, which is sometimes
+constitutional, and encroachment, which is not.44 8 On the old view,
+independent agencies performed adjudicative and legislative functions as well as
+executive functions, and it was for this reason that they could be insulated
+442. See supra text accompanying notes 401-402.</p>
+      <p>443. To say this is not to deny that the independent counsel has discretion, or to say
+that the Act is desirable as a simple matter of policy. Note too that the statute upheld in
+Morrison v. Olson, 487 U.S. 654 (1988), allowed the Attorney General to discharge the
+counsel for "good cause," a provision that meant the counsel is not truly independent, and
+that therefore makes the constitutional issue simpler. See infra text accompanying notes
+465-466.</p>
+      <p>444. See, e.g., The Federalist No. 78, at 467 (Alexander Hamilton) (Clinton Rossiter
+ed., 1961).</p>
+      <p>445. Cf.Ex parte Siebold, 100 U.S. 371, 397-98 (1879) (agreeing with Congress that it
+is most appropriate for circuit courts to appoint officers to monitor elections for federal
+officials).</p>
+      <p>446. See Brief for Edward H. Levi, Griffin B. Bell, and William French Smith as
+Amicus Curiae in Support of Appellant at 11, Morrison v. Olson, 487 U.S. 654 (1988) (No.
+87-1279).</p>
+      <p>447. See Humphrey's Executor v. United States, 295 U.S. 602, 627 (1935)
+(distinguishing Myers on grounds that office of postmaster is purely executive, unlike a
+commissioner of FTC).</p>
+      <p>448. See infra Part IV.E. For an earlier suggestion to this effect, see Strauss, supra
+note 7, at 667-68 (advocating a separation of function and checks and balances analysis
+rather than formal separation of powers analysis).</p>
+    </sec>
+    <sec id="sec-8">
+      <title>COLUMBIA LAW REViEW</title>
+      <p>from the President. But after Morrison v. O1son,449 execution of the laws
+can be split off from the President if the splitting does not prevent the
+President from performing his "constitutionally appointed functions."45 0
+This is a lamentably vague standard; but it has considerable historical
+support insofar as it turns on whether the authority in question is within the
+Article II enumeration. 45 ' For present purposes our conclusion is very
+modest: At least insofar as we are dealing with prosecutors for whom
+there is a special claim for independence-as is of course the case for
+investigation of high-level presidential appointees-some degree of
+independence is constitutionally acceptable. Other efforts to insulate
+prosecution would be more difficult, because the prosecutorial power is now
+intermingled with substantive policymaking. 452</p>
+    </sec>
+    <sec id="sec-9">
+      <title>What Does "Good Cause" Mean?</title>
+      <p>In Morrison, the Attorney General was able to discharge the
+independent counsel for "good cause," and the Court emphasized this
+point in upholding the (for this reason misnamed?) Independent
+Counsel Act. 453 But the Court has not said what "good cause" means.
+The Court has also failed to define "inefficiency, neglect of duty, or
+malfeasance in office"-the ordinary standards for presidential removal of
+members of the independent commissions. 45 4 Nor does anything in
+Humphrey's Executor speak to the particular issue, notwithstanding some
+casual dicta suggesting a high degree of independence. 455</p>
+      <p>This is an extremely important matter. There is no controlling
+judicial decision on how "independent" the independent agencies and
+officers can legitimately claim to be. If the statutory words allow for
+considerable presidential removal (and hence supervisory) power, the
+notion of independent administration of the laws can be solved simply as
+a matter of statutory construction. Perhaps Congress has not, in fact,
+created any truly independent administrators.</p>
+      <p>We think that it would indeed be possible to interpret the relevant
+statutes as allowing a large degree of removal and supervisory power to
+remain in the President. At the very least, the statutory words do not
+entirely immunize commissioners from the control of the President, but
+449. 487 U.S. 654 (1988).
+450. Id. at 685.
+451. See supra Part II.B.
+452. Consider environmental policy, immigration policy, and the "war on drugs."
+453. 487 U.S. at 696.</p>
+      <p>454. See, e.g., 15 U.S.C. § 41 (1988) (establishment of FTC); 29 U.S.C. § 661(b)
+(1988) (appointment of commissioners for OSHRC). But see 26 U.S.C. § 7443(f) (1988)
+(Tax Courtjudges may be removed by the President, "after notice and opporlunityfor public
+hearing,for inefficiency, neglect of duty, or malfeasance in office, but for no other reason."
+(emphasis added)).</p>
+      <p>455. In dicta, Justice Sutherland describes the commissioners of the FTC as
+"independent of executive authority, except in selection." Humphrey's Executor v. United
+States, 295 U.S. 602, 625 (1935); see also Greene, supra note 421, at 166.
+instead allow him to remove them in certain circumstances. Purely as a
+textual matter, the words "good cause" and "inefficiency, neglect of duty,
+or malfeasance in office" seem best read to grant the President at least
+something in the way of supervisory and removal power-allowing him,
+for example, to discharge, as inefficient or neglectful of duty, those
+commissioners who show lack of diligence, ignorance, incompetence, or lack
+of commitment to their legal duties. The statutory words might even
+allow discharge of commissioners who have frequently or on important
+occasions acted in ways inconsistent with the President's wishes with respect
+to what is required by sound policy. Perhaps in some such cases, the
+statutory basis for discharge has been met.</p>
+      <p>Of course, the case would be easier if the President could show that
+the officer's policy judgments amount not just to policy disagreements
+but to unquestionable inefficiency, neglect, or malfeasance-because
+they reflect (for example) incompetence or a refusal adequately to
+consider consequences. But perhaps the President's power could go further.
+A commissioner of the FTC might well, for example, be thought to
+neglect her duty if she consistently ignores what the President has said, at
+least if what the President has said is supported by law or by good policy
+justifications. At the minimum, we suggest that the statutory words could
+be taken to allow a degree of substantive supervision by the President.</p>
+      <p>This result might seem strongly counterintuitive in light of the
+frequent understanding that independent agencies are entirely immunized
+from presidential policymaking. 456 But there is a partial precedent for
+precisely this conclusion: Bowsher v. Synar.457 In that case, the Court
+held that Congress could not delegate power to administer the
+GrammRudman-Hollings Act to the Comptroller General, because-and this is a
+central claim-the Comptroller was subject to congressional will. In the
+Court's view, those who execute the law must not be subject to the
+policymaking authority of the Congress except insofar as legislative
+instructions are embodied in substantive law. 458 The relevant statute allowed
+the Congress to discharge the Comptroller for "inefficiency," "abuse of
+office," "neglect of duty," or "malfeasance." 459 The Court said that these
+words conferred on Congress "very broad" removal power and would
+authorize Congress to remove the Comptroller for "any number of actual or
+perceived transgressions of legislative will."460</p>
+      <p>The words governing congressional power over the Comptroller
+General and presidential power over independent agencies are
+substantially the same. If those words have the same meaning in these admittedly
+different contexts, the President turns out to have considerable power
+over the commissioners. If the words have the same meaning, the
+456. See, e.g., Humphrey's Executor, 295 U.S. at 628; see also supra note 438.
+457. 478 U.S. 714 (1986).
+458. See id. at 726.
+459. 31 U.S.C. § 703(e) (1) (B) (1988).
+460. 478 U.S. at 729.</p>
+    </sec>
+    <sec id="sec-10">
+      <title>COLUMBIA LAW REWEW</title>
+      <p>President has "very broad" removal power over the commissioners of the
+independent agencies, with correlative powers of supervision and
+guidance. It would follow that the independent agencies are in fact subject
+to a considerable degree of presidential control "for any number of
+actual or perceived transgressions of presidential will." They are not, as a
+matter of statute, "independent" of him at all.</p>
+      <p>This is an adventurous and not unassailable conclusion. As we have
+noted, it is inconsistent with the general 461 understanding that
+independent agencies are immune from the policy oversight of the President. It
+would of course be plausible to suggest that because of the difference in
+the contexts, the same words should have different meanings. Perhaps a
+statute restricting congressional power over the Comptroller General
+should be understood to impose thinner limitations than a statute
+controlling presidential power over independent commissioners-even if the
+words are the same. Such a reading would hardly be an implausible
+reconstruction of legislative goals. Congress unquestionably created many
+of the independent agencies in a period in which it sought to limit
+presidential supervisory power.</p>
+      <p>In view of what we see as the constitutional backdrop, however,
+courts should probably invoke a "clear statement" principle;46 2 one that
+interprets statutes to grant the President broad supervisory power over
+the commissions. On this approach, courts would allow the President
+such power unless Congress has expressly stated its will to the contrary.
+Such an approach would minimize the risks of the independent agency
+form and promote coordination and accountability in government. It
+would recognize that many independent agencies perform important
+policymaking functions, and that the performance of such functions by
+truly independent agents is plausibly inconsistent with the constitutional
+structure. 463 At the very least, we would require Congress to speak
+unambiguously if it wants to compromise those goals.4 4 These suggestions do
+not answer the question of precisely when the President may discharge
+the commissioners. But they do indicate that he has far more authority
+than is usually thought.</p>
+      <p>461. This common understanding is not, however, universal; the American Bar
+Association appears to agree with the point we are making here. See American Bar Assoc.
+Recommendation, reprinted in Strauss &amp; Sunstein, supra note 11, app. at 206-07. The
+Department ofJustice also holds this view. See Memorandum for Hon. David Stockman
+Director, Office of Management and Budget, reprinted in Peter M. Shane &amp; Harold H.
+Bruff, The Law of Presidential Power: Cases and Materials 355, 357-58 (1988).</p>
+      <p>462. Cf. Kent v. Dulles, 357 U.S. 116, 129 (1958) (declaring the Court will construe
+narrowly all delegated powers that may curtail citizens' right to travel).</p>
+      <p>463. See supra Part V.A.
+464. See also Strauss &amp;Sunstein, supra note 11, at 197-205.</p>
+    </sec>
+    <sec id="sec-11">
+      <title>May Congress Create Truly IndependentAdministrators?</title>
+      <p>Suppose that the independent counsel could never be removed by
+the Attorney General, even "for good cause." Or suppose that Congress
+amended the statute governing the FTC so as to provide that the
+commissioners are independent of both Congress and the President, in the sense
+that they could be removed by the President only for "high crimes and
+misdemeanors" or "gross misconduct amounting to criminality." Would
+such statutes be constitutional?</p>
+      <p>Nothing in the relevant cases clearly decides these questions.
+Probably the best answer is that the independent counsel must be removable
+for "good cause" in order to qualify as an "inferior officer" (and thus be
+appointable, as the current law provides, by judges465 ). The notion of
+"inferior" implies the existence of a superior, and a truly independent
+counsel-that is, one not at all controllable by the Attorney General or
+the President-would have no superior. We may therefore infer from the
+Morrison Court's emphasis on the "good cause" provision that some sort
+of control by the Attorney General (or otherwise through the chain of
+command headed by the President) is a constitutional imperative for
+"inferior officers."466 Nothing we have said here is inconsistent with this
+understanding.</p>
+      <p>The question is more difficult for the Federal Trade Commissioner.
+He is not an inferior officer appointed byjudges, and indeed he has been
+appointed through the normal channels, that is, by the President subject
+to advice and consent by the Senate. The question is therefore one of
+permissible constraints on the power of removal and supervision. In
+Bowsher and indeed Myers itself, Congress reserved to itself a role in
+removal-raising the problem of encroachment 467-and a truly
+independent commissioner (or head of OSHA, or the EPA, or the Department of
+Education) would not suffer from that infirmity. On the question
+whether Congress can create genuinely independent administrators,
+there is precious little guidance.</p>
+      <p>Probably the best answer is that as a general rule (and subject to
+important exceptions), Congress is without constitutional power wholly
+to immunize administrative officers exercising important discretionary
+policymaking authority from presidential control. Congress is therefore
+without power to create a "headless Fourth Branch" of government.4 68
+465. See U.S. Const. art. II, § 2, cl. 2; 28 U.S.C. § 593(b) (1988).
+466. See Morrison v. Olson, 487 U.S. 654, 691-93 (1987).</p>
+      <p>467. See Bowsher v. Synar, 478 U.S. 714, 727 (1986) (statute made Comptroller
+General removable only at initiative of Congress); Myers v. United States, 272 U.S. 52, 107
+(1926) (Act required consent of Congress to remove Postmaster).</p>
+      <p>468. See Freytag v. Commissioner, 111 S. Ct. 2631, 2661 (1991) (Scalia, J.,
+concurring) (agreeing that ChiefJudge of Tax Court isa "head of a department"); see also
+FTC v. Ruberoid Co., 343 U.S. 470, 487 (1952) (Jackson, J., dissenting) ("[Administrative
+bodies) have begun to have important consequences on personal rights.... They have
+become a veritablefourth branch of the Government, which has deranged our three-branch
+To be sure, true independence in administration does not create the
+distinctive dangers of encroachment and aggrandizement; 46 9 but it does
+threaten the core constitutional commitments to political accountability,
+expedition in office, and coordinated policymaking. If our argument
+from changed circumstances is persuasive, Congress cannot properly
+immunize such officers from the President without violating the Vesting
+Clause of Article II and thus exceeding its power under the Necessary and
+Proper Clause.</p>
+      <p>There are important exceptions to this general proposition. These
+would include (1) purely adjudicative officers, 470 (2) people who
+perform ministerial duties, 47 1 and (3) people who perform merely
+investigatory and reportorial functions-recall that Congress can have a staff.472
+All three exceptions have historical roots. But subject to these
+exceptions, we believe that Congress could not create fully independent
+officials without offense to the constitutional structure, at least in the
+absence of special circumstances. This conclusion follows from the
+constitutional commitments to coordination, accountability, and prevention
+of factionalism.</p>
+      <p>Whether current courts should so conclude is another question. It
+may be that in light of the difficulty of the relevant line-drawing
+problems, courts should defer to legislative judgments, and the
+constitutional prohibition should be under-enforced by judges.4 73 Certainly
+courts should give Congress the benefit of the doubt in close cases.</p>
+    </sec>
+    <sec id="sec-12">
+      <title>E. Independence Versus Aggrandizement</title>
+      <p>Here we arrive at a crucial innovation in the post-1980 cases-the
+distinction between encroachment and independence. The cleanest line
+between Bowsher and Chadhaon the one hand and Mistrettaand Morrison
+on the other is that in the first two cases Congress attempted to give itself
+a degree of ongoing authority over the administration of the laws.474 The
+legal theories much as the concept of a fourth dimension unsettles our three-dimensional
+thinking." (emphasis added)).</p>
+      <p>469. See infra Part IV.E.
+470. See supra text accompanying note 420.
+471. See id.</p>
+      <p>472. This was the meaning of the reference to quasi-legislative duties in Humphrey's
+Executor, the Court was not discussing rulemaking power, in which the FTC was not
+engaged at the time. See Humphrey's Executor v. United States, 295 U.S. 602, 628 (1935).</p>
+      <p>473. This isJustice Scalia's approach to the nondelegation doctrine. See Mistretta v.
+United States, 488 U.S. 361, 415-16 (1989) (Scalia, J., dissenting); see also Richard B.
+Stewart, The Reformation of American Administrative Law, 88 Harv. L. Rev. 1667,
+1693-97, 1799-1800 (1975).</p>
+      <p>474. Compare Bowsher v. Synar, 478 U.S. 714, 734 (1986) (finding unconstitutional
+simultaneous grant of executive powers to and retention of congressional control over
+Comptroller General) and INS v. Chadha, 462 U.S. 919, 959 (1983) (finding
+unconstitutional congressional reservation of veto power over executive decision to allow
+deportable alien to remain in United States) with Mistretta,488 U.S. at 411 (upholding Act
+limiting President's removal power over Federal Sentencing Commissioners to "good
+Court has firmly set itself against such aggrandizement. In the Court's
+view, independence in administration is one thing; congressional
+encroachment into the administrative process is quite another.
+"Aggrandizement" and "encroachment" are defining constitutional evils.
+Separation of administration from the President and Congress does not
+involve either aggrandizement or encroachment, and is far less
+objectionable.</p>
+      <p>The Court has not given a clear rationale for this sharp distinction.
+In some ways it seems quite puzzling. For one thing, independence can
+be understood as a form of aggrandizement. Congress might make
+agencies independent not to create real independence, but in order to
+diminish presidential authority over their operations precisely in the interest of
+subjecting those agencies to the control of congressional committees. 4 75
+Independence, in short, might be a way of increasing legislative power
+over agencies. More fundamentally, the distinction sometimes reads like
+a kind of "turf protection" model of the Constitution, one that is
+disassociated from text, history, or structure, and also from any underlying
+values that maintenance of the relevant "turfs" are supposed to preserve. 4 76</p>
+      <p>The question, in short, is this: How is the presence of a
+congressional role in law-execution worse than an absence of a presidential role?
+It might be thought that the two pose equivalent risks to constitutional
+commitments.</p>
+      <p>But there are in fact plausible structural reasons for the distinction.
+First, congressional control over administration creates a specter of
+combination of lawmaking functions and law-executing functions. The
+decision to divide the two is unambiguous in the Constitution, and that
+decision is in turn a product of a belief that the division is an important
+guarantor of private liberty, democratic control over government, and
+protection against factionalism. Encroachment is plausibly a greater
+threat to these values than independence. 477
+cause") and Morrison v. Olson, 487 U.S. 654, 691 (1988) (upholding Act requiring that
+Attorney General have "good cause" for removing independent counsel).</p>
+      <p>475. See Sunstein, supra note 430, at 430; Weingast &amp; Moran, Bureaucratic
+Discretion, supra note 433, at 768-70; Weingast &amp; Moran, Runaway Bureaucracy, supra
+note 433, at 33-34.</p>
+      <p>476. See Rebecca L. Brown, Separated Powers and Ordered Liberty, 139 U. Pa. L. Rev.
+1513, 1546-48 (1991) (arguing for substantive, individualist approach to separation of
+powers rather than a structural "turf"-oriented one).</p>
+      <p>477. To be sure, the broad discretionary authority of an agency may also combine
+functions. But the Administrative Procedure Act (APA) helps counter this problem, see 5
+U.S.C. §§ 554, 556, 557 (1988), and we think these provisions have constitutional
+foundations. It is not an adequate answer to say that independence itself threatens this
+value. Independent agencies are subject to a degree of internal separation of functions.
+See id. § 554 (precluding agency employees who engage in prosecution from participating
+or advising in decisions). This provision, together with other safeguards in the APA,
+counteracts some of the risks involved in combination of execution and legislation. We
+think that provisions of this kind are responsive to genuine constitutional concerns; they</p>
+      <p>Second, the prohibition on congressional participation operates as a
+check against open-ended delegations of power. If Congress may not
+delegate administrative authority to its own agents, it is likely to be clearer
+in delegating policymaking authority in the first instance. We can
+understand the Court's hostility to encroachment as having roots in the
+structural commitment against open-ended delegations of authority, a
+commitment with clear connections to the goal of providing a kind of
+accountability. 478 Congress may be content not to set out law in advance
+if it knows that it may control implementation decisions on a case-by-case
+basis. Even if the Court will not play a large role in enforcing the
+nondelegation doctrine directly, mostly for institutional reasons, 4 79 it can
+discipline the prospect of delegation through institutionally acceptable
+devices that impose incentives on Congress to limit the scope of
+delegation.</p>
+      <p>Courts have not yet explained the distinction between independence
+on the one hand and encroachment and aggrandizement on the other.
+We do not suggest that it should be made as critical as the Supreme Court
+has made it. But if the foregoing arguments are right, the distinction can
+be explained by reference to constitutional structure. It makes sense as a
+means of separating functions and discouraging broad delegation of
+lawmaking authority.</p>
+    </sec>
+    <sec id="sec-13">
+      <title>F. Cross-BranchAppointments</title>
+      <p>Morrison upholds cross-branch appointments,48 0 but the Court was
+properly cautious about the basic idea, which could produce many
+oddities. Suppose, for example, that Congress said that judges would
+henceforth appoint the Assistant Secretaries of State and Defense and the
+Assistant Attorneys General. In such cases, there would have to be an
+implicit structural limit on Congress' power under the Inferior Officers
+have a kind of constitutional status, not in the sense that courts should mandate them, but
+in the sense that they grow out of constitutional commitments.</p>
+      <p>478. We think that this idea does have roots in Article I of the Constitution, see A.L.A.
+Schechter Poultry Corp. v United States, 295 U.S. 495, 529 (1935) (citing Necessary and
+Proper Clause as support for prohibiting congressional abdication or transfer of "essential
+legislative functions"); TheodoreJ. Lowi, The End of Liberalism: The Second Republic of
+the United States 92-97 (2d ed. 1979) (criticizing as unconstitutional liberal delegations of
+power by Congress to administrative agencies); see also Theodore J. Lowi, Two Roads to
+Serfdom: Liberalism, Conservatism and Administrative Power, 36 Am. U. L. Rev. 295
+(1986) (describing how broad delegations of power defeat the rule of law as embodied in
+the Constitution), even though we do not believe that courts should carefully police the
+prohibition, see Richard B. Stewart, Beyond Delegation Doctrine, 36 Am. U. L. Rev. 323,
+324 (1987) (arguing against court invalidation of statutes based on over-delegation).</p>
+      <p>479. See Mistretta v. United States, 488 U.S. 361, 371-74 (1989); id. at 413-16 (Scalia,
+J., dissenting) (but concurring on fall of nondelegation doctrine); Stewart, supra note 478,
+at 326.</p>
+      <p>480. See Morrison v. Olson, 487 U.S. 654 (1988).
+Appointment Clause.4 8 ' Otherwise Congress could wreak havoc with the
+system of checks and balances.</p>
+      <p>But when are cross-branch appointments constitutional? Probably
+the answer lies in the Court's emphasis in Morrison on the absence of an
+"incongruity" in the vesting of appointment power in another branch.48 2
+We should understand the term to refer to principles of constitutional
+structure, having to do with the integrity of each branch. Where there is
+incongruity, the Constitution contains a structural barrier to the
+placement of appointing authority. It follows that in the cases we have
+hypothesized, there would be a valid objection based on the system of checks
+and balances. But this idea casts no doubt on Morrison itself. Indeed, in
+Morrison presidential appointment might itself have been incongruous in
+light of the obvious conflict of interest. The congressional judgment was
+permissible only for this reason.</p>
+      <p>If this is the relevant concern, cross-branch appointments should be
+permitted only in the narrowest circumstances. On this view, Morrison
+was a case about the oddity of allowing the President to be the judge in
+his own cause. It does not stand for any broader proposition.</p>
+    </sec>
+    <sec id="sec-14">
+      <title>G. Precisely Which Officers May Be Protected with a Good Cause Standard?</title>
+      <p>Both Mistretta and Morrison allow certain officials exercising
+important governmental responsibilities to be immunized from plenary
+presidential control.48 3 But it is surely true that some employees must serve at
+the will of the President. Without offering a detailed analysis of the
+complexities here, we suggest that there are four distinct categories of cases,
+and that the categories should be treated differently.</p>
+      <p>(1) High-level officials who exercise foreign affairs powers and other
+authorities included in the enumerated authority of the President 484
+must be at-will employees. This much follows from adherence to the
+original understanding. As we have seen, the founding belief in a unitary
+executive entailed presidential control over a range of important
+functions.485 Nothing in current circumstances argues in the other direction.
+Thus (to take the two principal examples) the Secretary of State and the
+Secretary of Defense must be at-will employees.</p>
+      <p>481. See U.S. Const. art. II, § 2, cl. 2.</p>
+      <p>482. See 487 U.S. at 676. One may question, however, whether this judgment of
+congruity is one the Constitution allows the Supreme Court to make. Article II, section 2,
+clause 2 provides that Congress may "by Law vest the Appointment of such inferior
+Officers, as they think prper,in the President alone, in the Courts of Law, or in the Heads of
+Departments." The emphasized language may indicate that thejudgment as to propriety is
+left to Congress alone. Consider section 3 of Article II, which provides that the President
+"may adjourn them to such Time as he shall think proper," which likewise would appear to
+vest thejudgment in the President alone. See also U.S. Const. art. I, § 9, ci. 1 (states may
+continue migration of people as they "think proper" to admit).</p>
+      <p>483. See 488 U.S. at 410; 487 U.S. at 691.
+484. See U.S. Const. art. II, § 2.
+485. See supra text accompanying notes 121-122, 131.
+(2) Good cause limitations are permissible for officers who exercise
+adjudicative or ministerial functions. The original understanding
+exemplified this judgment,48 6 and our argument for changed circumstances
+does not undermine or complicate that analysis.</p>
+      <p>(3) The same conclusion applies to those few officials who have the
+sorts of conflicts of interest exemplified by the Federal Reserve Board and
+independent counsels. This conclusion builds on historical
+understandings.48 7 It also fits comfortably with current institutional arrangements.</p>
+      <p>(4) Domestic officials who do not fall within (1), (2), or (3) may be
+protected by "good cause" provisions, but for the most part only if those
+provisions are interpreted so that the relevant officials are controllable
+through general policy directions of the President. As we have said, a
+good cause standard should be interpreted to allow for a high degree of
+presidential supervisory authority.488 At least in most cases involving
+important policymaking functions, a removal standard would be
+unconstitutional if it were inconsistent with this idea, that is, if it entirely eliminated
+presidential control over general policy decisions. It follows that
+Congress could allow many officials to be protected by a "good cause"
+provision-not merely the heads of such traditionally "independent"
+agencies as the FCC, FTC, and SEC, but also those of (for example) the
+EPA and some of the Cabinet departments as well. But on our
+understanding, a good cause limitation does not immunize the relevant officials
+from the policy direction and oversight of the President.48 9</p>
+      <p>CONCLUSION</p>
+      <p>The framers did not constitutionalize presidential control over all
+that is now considered "executive"; they did not believe that the President
+must have plenary power over all we now think of as administration. The
+textual argument to the contrary uses twentieth century understandings
+to give meaning to eighteenth century terms.</p>
+      <p>With respect to implementation of the laws, history suggests that the
+framers understood Congress to have broad power to structure
+government arrangements as it saw fit. Many prosecutors, state as well as
+federal, were free from the control of the Attorney General and the
+President. The first Congress also made the Comptroller free from
+presidential control, because some of his functions were related to those of
+Congress and the judiciary. The Postmaster General was similarly
+immu486. See supra text accompanying notes 103, 126-130, 236-248 (discussing original
+view that ministerial functions, and also those involving adjudicative powers, could be
+immunized from the President).</p>
+      <p>487. See supra note 137 and accompanying text (discussing founders' desire to keep
+separate the purse and sword); supra text accompanying note 444 (noting Hamilton's
+concern that no person should be judge in his own cause).</p>
+      <p>488. See supra Part 1V.C.</p>
+      <p>489. Of course, this notion leaves a degree of vagueness, and it does not resolve many
+particular issues that might arise through assertions of presidential authority.
+nized from presidential control, because of his distinctive role in
+spending taxpayer funds. The Opinions Clause would be entirely superfluous if
+the framers understood the President to have plenary control over
+administration; why would the framers deem it necessary to give the
+President the power to demand written opinions from people over whom
+he had full control as a matter of constitutional compulsion? Finally, the
+text and history of the Necessary and Proper Clause suggest that Congress
+had considerable authority to structure the executive branch as it chose.</p>
+      <p>In light ofall these considerations, our first goal has been to respond
+to the persistent notion that if we care about constitutional text and
+history, independent prosecutors and independent agencies are an
+embarrassing accommodation to political necessity, or a shameful compromise
+with expediency. We have shown that the belief in a strongly unitary
+executive does not derive from the framers themselves.</p>
+      <p>We reach this conclusion about the framers with reluctance. The
+belief in a strongly unitary executive has considerable appeal. It is simple
+and unambiguous. It fits well with important political and constitutional
+values, including the interests in political accountability, in coordination
+of the law, and in uniformity in regulation. Believing that these interests
+have constitutional status, we have ventured an argument on behalf of
+the strongly unitary executive, one that emphasizes changed
+circumstances and an interpretive practice concerned with fidelity to original
+commitments and labeled here as translation.</p>
+      <p>The crucial development in this regard is the downfall of the
+nondelegation doctrine and the rise of unforeseen administrative
+agencies exercising wide-ranging discretionary power over the domestic
+sphere. In view of this development, it would not be faithful to the
+original design to permit officers in the executive branch, making
+discretionary judgments about important domestic issues, to be immunized from
+presidential control. We have therefore sketched an argument on behalf
+of a strongly unitary executive, in which the President has a high degree
+of supervisory and removal authority over most officials entrusted with
+discretion in the implementation of federal law. We have applied this
+argument to many areas of current dispute.</p>
+      <p>We believe that this view is consistent with constitutional
+commitments and that it maintains fidelity with those commitments in
+dramatically changed circumstances. But it is important to acknowledge that our
+argument is based on a distinctive method, one that rejects ahistorical
+claims about the unitary executive. It follows that the constitutional
+commitment to unitary execution of the laws should not be rooted in the
+supposed mandates of history. It should be based instead on the effort to
+interpret the Constitution faithfully over time, an effort that will
+inevitably involve a large measure of pragmatic judgment, and historical
+understanding.
+Cu 4 )
+-o
+UcI.</p>
+      <p>U</p>
+      <p>0
+0)4
+40 c
+04
+044
+Z44
+0)-4
+4)0
+'v 0
+,.4</p>
+      <p>Cu</p>
+      <p>Cuu</p>
+      <p>0404
+i0'0* 00 00
+4.t.(l
+0c 0 0</p>
+      <p>C"</p>
+      <p>CC</p>
+      <p>0
+mC.
+0~U</p>
+      <p>c
+WbE
+m</p>
+      <p>0
+s.</p>
+      <p>0
+w</p>
+      <p>C/)i
+...</p>
+      <p>CIS.0j
+a,
+*</p>
+      <p>t4
+0</p>
+      <p>0 qw
+CLr~d
+cl</p>
+      <p>0
+V.</p>
+      <p>.
+0)0).
+00
+0
+40CC
+0
+d0 r.)
+00~</p>
+      <p>C~
+bO 0</p>
+      <p>0C1C0
+.0,0. C) U)
+0
+W U00
+0
+0d
+C)</p>
+      <p>U)d
+cn
+4
+0
+0 o
+0
+*</p>
+      <p>V</p>
+    </sec>
+    <sec id="sec-15">
+      <title>COLUMBIA LAW REVIEW</title>
+      <p>w * 00 0 t40
+0~
+c 0 Cd
+0 000
+o~ 0 b )
+o
+0 CIS
+0
+" 0
+w 0
+0 0
+0
+0 "AEE
+040c
+CSo</p>
+      <p>C,0
+a
+0
+0U
+o~ C.
+0</p>
+      <p>0
+0-0 U4
+w 01
+w
+1 0
+z 0 '
+S.~010
+oUC 01C. )</p>
+      <p>01 0</p>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          120
+          <fpage>34</fpage>
+          . In Harmelin v.
+          <source>Michigan</source>
+          , 111
+          <string-name>
+            <given-names>S.</given-names>
+            <surname>Ct</surname>
+          </string-name>
+          .
+          <volume>2680</volume>
+          (
+          <year>1991</year>
+          ),
+          <article-title>Justice Scalia sketched the</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>Construction</surname>
+            , 11 Harv.
+            <given-names>J.L.</given-names>
+          </string-name>
+          &amp;
+          <string-name>
+            <surname>Pub</surname>
+          </string-name>
+          . Pol'y
+          <volume>59</volume>
+          (
+          <year>1988</year>
+          ); Richard S. Kay, Adherence to the
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <source>Original Intentions in Constitutional Adjudication: Three Objections and Responses</source>
+          ,
+          <volume>82</volume>
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <given-names>Nw. U. L.</given-names>
+            <surname>Rev</surname>
+          </string-name>
+          .
+          <volume>226</volume>
+          (
+          <year>1988</year>
+          )
+          <article-title>; Michael W. McConnell, The Origins</article-title>
+          and Historical
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <source>Understanding of Free Exercise of Religion</source>
+          ,
+          <volume>103</volume>
+          Harv. L. Rev.
+          <volume>1409</volume>
+          (
+          <year>1990</year>
+          ). Compare
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <article-title>Ollman v</article-title>
+          .
+          <source>Evans</source>
+          ,
+          <volume>750</volume>
+          F.2d
+          <volume>970</volume>
+          ,
+          <string-name>
+            <surname>995 (D.C. Cir</surname>
+          </string-name>
+          .
+          <year>1984</year>
+          )
+          <article-title>(Bork</article-title>
+          , J., concurring) (following
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>denied</surname>
+          </string-name>
+          , 471 U.S.
+          <volume>1127</volume>
+          (
+          <year>1985</year>
+          )
+          <article-title>with 750 F.2d at 1038 n.2 (ScaliaJ., dissenting) (arguing that</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <article-title>the method that we are using here can be described ds one form of originalism</article-title>
+          . 35.
+          <string-name>
+            <surname>Cf</surname>
+          </string-name>
+          . Ronald Dworkin,
+          <source>Law's Empire 361-63</source>
+          (
+          <year>1986</year>
+          )
+          <article-title>(showing how fidelity to beliefs</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <string-name>
+            <surname>Constitution</surname>
+          </string-name>
+          .
+          <source>See id. at 398</source>
+          . 36.
+          <article-title>For examples of cases that can be understood to use this methodology of</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          translation, see Lessig,
+          <source>supra note 4</source>
+          , at 1214-
+          <fpage>50</fpage>
+          .
+          <article-title>The most famous of these may well be</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          319 U.S.
+          <volume>624</volume>
+          ,
+          <fpage>639</fpage>
+          -
+          <lpage>40</lpage>
+          (
+          <year>1943</year>
+          )
+          <article-title>(emphasis added). It is significant that Justice Jackson was</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <article-title>context may be a more precise way of describing the first question posed, that is, whether 53</article-title>
+          .
+          <article-title>See id</article-title>
+          . at 705-
+          <fpage>15</fpage>
+          (Scalia, J.,
+          <source>dissenting)</source>
+          .
+          <volume>54</volume>
+          . Id. at 706 (Scalia, J.,
+          <source>dissenting)</source>
+          .
+          <volume>55</volume>
+          . Again,
+          <article-title>this method was used byJustice Scalia in Harmelin v</article-title>
+          .
+          <source>Michigan</source>
+          , 111
+          <string-name>
+            <given-names>S.</given-names>
+            <surname>Ct</surname>
+          </string-name>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <volume>2680</volume>
+          ,
+          <fpage>2691</fpage>
+          -
+          <lpage>99</lpage>
+          (
+          <year>1991</year>
+          ).
+          <source>See supra note 34</source>
+          . 56.
+          <article-title>While the Constitution explicitly grants the President five executive powers,</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <given-names>Political</given-names>
+            <surname>Departments</surname>
+          </string-name>
+          , 1
+          <string-name>
+            <given-names>Hastings</given-names>
+            <surname>Const</surname>
+          </string-name>
+          . L.Q.
+          <volume>13</volume>
+          ,
+          <fpage>14</fpage>
+          -
+          <lpage>15</lpage>
+          (
+          <year>1974</year>
+          ). Compare Peter Strauss'
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <string-name>
+            <surname>list</surname>
+          </string-name>
+          , Strauss,
+          <source>supra note 7</source>
+          , at 598 (
+          <article-title>listing only Article II powers, thereby omitting veto</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <source>power)</source>
+          .
+          <volume>57</volume>
+          .
+          <string-name>
+            <surname>See</surname>
+          </string-name>
+          , e.g.,
+          <string-name>
+            <surname>Harold</surname>
+            <given-names>J.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Krent</surname>
+          </string-name>
+          , Executive Control Over Criminal Law Enforcement
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <string-name>
+            <given-names>Some</given-names>
+            <surname>Lessons From History</surname>
+          </string-name>
+          ,
+          <volume>38</volume>
+          Am. U. L. Rev.
+          <volume>275</volume>
+          (
+          <year>1989</year>
+          ); Daniel N. Reisman,
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <string-name>
+            <surname>Executive</surname>
+          </string-name>
+          , 53 Alb. L. Rev.
+          <volume>49</volume>
+          ,
+          <fpage>53</fpage>
+          -
+          <lpage>60</lpage>
+          (
+          <year>1988</year>
+          )
+          <article-title>; Stephanie A</article-title>
+          .J. Dangel, Note, Is Prosecution a
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <given-names>Core</given-names>
+            <surname>Executive</surname>
+          </string-name>
+          <article-title>Function? Morrison v</article-title>
+          .
+          <source>Olson and the Framers' Intent, 99 Yale LJ. 1069</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          (
+          <year>1990</year>
+          ).
+          <fpage>58</fpage>
+          .
+          <article-title>It is important to emphasize that we are not saying a unitarian must link this</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <article-title>consider it here first as just one possibility</article-title>
+          .
+          <source>59. See Act ofJune 22</source>
+          ,
+          <year>1870</year>
+          , ch.
+          <volume>150</volume>
+          ,
+          <issue>16</issue>
+          <year>Stat</year>
+          .
+          <volume>162</volume>
+          . 60. SeeJudiciary Act of 1789, ch.
+          <volume>20</volume>
+          , §
+          <volume>35</volume>
+          , 1 Stat.
+          <volume>73</volume>
+          , 93; Lawrence Lessig, Readings by
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <source>our Unitary Executive</source>
+          , 15 Cardozo L.
+          <year>Rev</year>
+          .
+          <volume>175</volume>
+          ,
+          <fpage>186</fpage>
+          -
+          <lpage>96</lpage>
+          (
+          <year>1993</year>
+          ).
+          <fpage>61</fpage>
+          . See id.
+          <volume>62</volume>
+          . See White,
+          <source>supra note 42, at 164-68. 63. See Judiciary Act of 1789 § 35</source>
+          , 1 Stat. at 92.
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <year>1861</year>
+          .
+          <article-title>6) Throughout this period, they operated without any clear organi-</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <source>zational structure or hierarchy. 65</source>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+

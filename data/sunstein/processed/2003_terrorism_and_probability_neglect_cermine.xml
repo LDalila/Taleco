@@ -1,0 +1,804 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>Jun</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Terrorism and Probability Neglect Author(s): CASS R. SUNSTEIN Source: Journal of Risk and Uncertainty, Vol. 26, No. 2/3, Special Issue on the Risks of Terrorisum (March/May 2003), pp. 121-136 Published by: Springer Stable URL: http://www.jstor.org/stable/41755012 . Accessed: 22/06/2014 04:53</article-title>
+      </title-group>
+      <pub-date>
+        <year>2014</year>
+      </pub-date>
+      <volume>04</volume>
+      <fpage>120</fpage>
+      <lpage>136</lpage>
+      <abstract>
+        <p>Your use of the JSTOR archive indicates your acceptance of the Terms &amp; Conditions of Use, available at . http://www.jstor.org/page/info/about/policies/terms.jsp . JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>.</p>
+      <p>Springer is collaborating with JSTOR to digitize, preserve and extend access to Journal of Risk and
+Uncertainty.
+http://www.jstor.org</p>
+      <p>Terrorism
+and Probability</p>
+      <p>Neglect
+CASSR.SUNSTEIN csunstei@uchicago.edu
+KarNl.LlewellDyinstS.ervicPer,ofo,fJurisprudLeanwcSechooDl,epartmoefnPtoliticSaclience,
+UniversoiftCyhicagLoawSchoo1l,111East60thStreeCth,icagIoL,60637U, SA
+Whenstronegmotioanrseinvolvepde,oplteendtofocuosnthebadnesosftheoutcomrea,thetrhanonthe
+probabiltihtyattheoutcomweilolccurT.heresulti"npgrobabilnietgylecht"elptsoexplaienxcessirveactions
+tolow-probabriilsitkoysfcatastropTheer.rorisshtoswa workinkgnowledogfeprobabilniteyglecptr,oducing
+publifcearthamtighgtreatelyxceetdhediscountheadrmA.sa resulotfprobabilniteyglecpte,oploefteanre
+farmorceoncernaebdouttheriskosfterroritshmanabousttatisticlaalrlygerrisktshatthecyonfroinotrdinary
+lifeI.ntheconteoxftterroriasnmdanalogoruisskts,helegaslystefmrequenrtelsypontdosprobabilniteyglect,
+resultiinngregulatitohnamtighbteunjustifoireedvencounterproduBcuttipvueb.lifcearisitselafcosta,nd
+itisassociatwedithmanoythecrostsi,nthefor mof"rippeleffectpsr"oducbedyfearA. sa normatmivaetter,
+governmsehnotulrdeduceevenunjustiffieeadrif,thebenefoitftsheresponcsaenbeshowtnooutweitghhecosts.
+JELClassificatioKnO:D,8
+1. Introduction
+Terroristsshowa workingknowledgeof threenoteworthpyointsaboutfear.Of these,
+thefirstwoare well-knownT.he thirdpointis less well-understooadn,dit willbe my
+principaelmphasihsereB.ecausethethreepointsarerelatedt,heyshouldbeidentifieadtthe
+outset.</p>
+      <p>The firsptointis thatin thefaceofignorancep,eopleassessprobabilitietshroughthe
+useofvariousheuristicms, ostnotablytheavailabilityheuristicin,accordancewithwhich
+probabilitiys measuredby askingwhethera readilyavailableexamplecomesto mind
+(TverskyandKahneman1,974).Intheaftermatohfa terroriasctt,andfora periodthereafter,
+thatactis likelytobebothavailableandsalienta,ndthustomakepeoplethinkthatanother
+suchact is likely,whetheror notit is in fact.One or twoterrorisitncidentwsillhave
+a significanimtpacton boththoughatnd behaviorw,ithexaggeratedriskperceptionas
+likelyresultofthesubstantiaplublicitygivento suchincidentsI.n thesewaysterrorist
+actsareno differenftromfloods,earthquakesa,ndothercatastrophesa,ll ofwhichhave
+immediateeffectosnbehavior(Slovic,2000). Forimperfectilnyformeadgentsu,seofthe
+availabilithyeuristimc ayormaynotbeconsistenwtithBayesianlearningb;utitcanproduce
+significantelxyaggeratejdudgmentosfprobableharm.</p>
+      <p>Thesecondpointisthatpeopleshowa disproportionafteearofrisksthatseemunfamiliar
+andhardtocontro(lSlovic,2000). A newriskis likelytoreceivefarmoreattentiotnhan
+is warrantebdythesheernumbersA. largedisparitybetweenpublicreactiontsooldrisks
+andpublicreactionsto newriskscharacterizebsothindividuajludgmentandlaw itself,
+whichregulatesnewhazardsfarmoreaggressivelythanold ones (Huber,1983).Hence
+itis to be expectedthatan actofterrorismwillcause
+largechangesinprivateandpublic behaviore,venifthemagnitudoeftheriskdoes notjustifythosechanges,andeven
+ifstatisticalleyquivalentrisksoccasionlittleor no concernA.ndifa riskappearshard
+to controlp,eoplewillbe especiallyconcernedaboutit,possiblyeventerrifie(dSlovic,
+2000).Thepurposeandeffecotfterrorisamretomakepeoplefearthatthey"cannotbesafe
+anywhereF."orthisreason,isolatedactsofterroris
+min,volvingasmallsubsetofthepopulationc,ancausefarmoreseriousdislocationtshanarewarrantebdythediscountevdalueof
+therisk.</p>
+      <p>Thethirdproblema,ndmyprincipacllaimhere,is thatpeoplearepronetowhatI shall</p>
+      <p>I willoffera gooddeal ofevidenceofprobabilitnyeglects,uggestinignparticulatrhat
+substantiavlariationisnprobabilitdyo notgreatlyaffecpteople'sjudgmentsa,tleastwhen</p>
+      <p>Thereareprescriptivaendnormativiessuesas well.In thefaceofprobabilitnyeglect,
+governmenistunlikelytobe successfuilfitattempttsoreducefearbyemphasizintghelow
+likelihoodofanotherterroriasttackI.tmightdo betterifitchangesthesubjectorinstead
+stressestheaffirmatisvoecialvaluesassociatedwithrunningtherisk(bysuggestingf,or
+examplet,hatcontinuinwgithordinarlyifeisa patriotiacct).Themostimportanntormative
+issueis straightforwaIrfdp:robabilitnyeglectleadsthepublictobe excessivelyconcerned
+aboutterrorism-relartiesdkss,houldgovernmenretspondA?tfirsgtlance,theanswerwould
+appeartobenegativeo;rdinarilpyrivataendpublicresourceshouldnotbedevotedtosmall
+problemse,venifan ignoranptublicis demandingaction.Butthenegativeansweris too
+simple.Fear,whetherationaolrnot,is itselfa cost,anditis likelytoleadtoa rangeof
+othercosts,intheformofcountlesrsippleeffectsin,cludingareluctancteoflyortoappear
+inpublicplaces.Ifgovernmenistabletoreducetheleveloffearproducedbyprobability
+neglecti,tshoulddo so,atleastifthecostsoutweighthebenefits.</p>
+    </sec>
+    <sec id="sec-2">
+      <title>2. Probabilityneglectingeneral</title>
+      <p>2.7. Somedistinctions
+Probabilitnyeglecta,sI
+understanitdhere,shouldbedistinguishefdromthreoetherphenomena,all ofthemquitewell-knowanndalsobearingonthedemandforlawintheaftermath
+ofa terroriasttackI. havealreadymentionetdheavailabilityheuristicu,sedstrategically
+bymanyactorsi,ncludingterrorist(Ks
+uranandSunstein1,999).Indeed"availabilityentrepreneurtsa"keadvantageoftheavailabilityheuristibcyproducingorpublicizingparticularrisk-relatedvents(id.). Terroristasregoodexamplesofavailabilityentrepreneurs,
+oftenproducinfgearthatgreatlyoutrunstatisticarlealityB. ecauseofsocialinteractions,
+knowledgoefterroriisntcidentsspreadsrapidlythroughthepopulationp,roducingsocial
+cascadesthatgreatlyaggravatfeear(id.).Itisalsowellknownthatpeopleareinsensitivteo
+variationisnlowprobabilitieIsn.
+onestudyK,unreuthearndhiscoauthorfsoundthatpeople'sperceptionosfriskinesdsidnotvaryamongrisksof1in100,000,1in1milliona,nd1in
+10million(KunreutheNro,vemskya,ndKahneman2,001).Theyalsofoundlittledifference
+inperceptionosfriskinesfsorrisksrangingfrom1in650,to1in6300,to1in68,000.Thisis
+a strikinfgormofprobabilitnyeglectB. utinsensitivittoyvariationasmonglowprobabilities
+is differenftromthemoreextremfeormofinsensitivittyhatI willbe emphasizinhgere.</p>
+      <p>Prospectheorycanalsobe takentoshowa formofprobabilitnyeglect(Kahnemanand
+Tversky1,979).Forpresenpturposesw,hatis mostimportanistthatprospectheoryoffers
+an explanationforsimultaneougsamblingandinsuranceW.ithrespecttolow-probability
+risksa,ndthoseassociatedwithterrorismclearlycountas such,thekeyfindinigsthatmost
+peopleprefera certainloss ofX to a gamblewithan expectedvalueless thanX, ifthe
+gambleinvolveas smallprobabilitoyfcatastropheF.romthestandpoinotfexpectedutility
+theoryp,rospectheorypredictsan overreactiotno a smallprobabilityofbad outcomes.
+Andifthataspectofprospectheor yis emphasizedi,tmaybe possibletounderstansdome
+aspectsoffederarliskregulationw,hichshowanexaggeraterdesponsetolow-probability
+catastrophe(NsollandKrier,1990).</p>
+      <p>Thesameunderstandinhgelpsilluminatoefficiarlesponsetsoterrorismas well.Prospect
+theorysuggeststhatpeoplewillseekregulationa,s a formofinsurancet,oprevenhtarms
+thataregravebutthatarehighlyunlikelytooccur;andthispointhelpsexplainthedemand
+forprotectioangainstsmallrisksofcatastrophiacttacksB.ut in makingthisdescriptive
+claim,prospectheorydoesnotsetoutanyspecialroleforemotionsa,nditdoesnotpredict
+thatpeoplewillreactin anyspecialwaytoemotionallygrippingrisks.On thecontrary,
+prospectheorypredicttshesamereactiontorisksthatproducestrongemotionarleactions
+andtostatisticalleyquivalenrtisksthatdo notproducesuchreactionsP. rospectheoryis
+bothmorespecializedand moregeneralthanthephenomenonto whichI seekto draw
+attentiohnere.
+2.2. A demonstration
+To seehowprobabilitnyeglectoperatesc,onsidera studyofpeople'swillingnestsopayto
+avoidelectricshocks(RottenstreiacnhdHsee,2001).Thecentrapl urposeofthestudywas
+ofcentrailmportancheereattemptetdoseewhethevraryingtheprobabilitoyfharmwould
+mattermore,or less,in settingtshattriggerstrongemotionsthanin settingtshatseem
+relativeleymotion-freIne.the"strongemotions"ettingp,articipantwsereaskedtoimagine
+thattheywouldparticipatienanexperimenintvolvinsgomechanceofa "shortp,ainfulb,ut
+notdangeroueslectricshock."Intherelativeleymotion-frseeettingp,articipantwseretold
+thattheexperimenetntailedsomechanceofa $20 penaltyP.articipantwsereaskedtosay
+howmuchtheywouldbe willingtopaytoavoidparticipatiningtherelevanetxperiment.
+Someparticipanwtseretoldthattherewasa 1% chanceofreceivintghebadoutcome(either
+the$20 lossortheelectricshock);othersweretoldthatthechancewas99%.</p>
+      <p>Thecentrarlesultwas thatvariationisnprobabilitayffectedthosefacingtherelatively
+emotion-frienejuryt,he$20 penaltyf,armorethantheyaffectedpeoplefacingthemore
+emotionallyevocativeoutcomeofan electricshock.Forthecashpenaltyt,hedifference
+betweenthemedianpaymenftora 1% chanceandthemedianpaymenftora 99% chance
+was predictablylargeand indeedconsistenwtiththestandardmodel:$1 to avoida 1%
+chance,and $18 to avoida 99%
+chance.Fortheelectricshock,bycontrastt,hedifferenceinprobabilitmyadelittledifferencteomedianwillingnestsopay:$7 toavoida 1%
+chance,and$10 toavoida 99% chance!Hencesubjects'responsestoaffect-poohrarms
+werehighlysensitivteodifferenciensprobabilityw,hereasforaffect-richharmsr,esponses
+wereremarkablfylatacrossthetwoprobabilitcyonditions.</p>
+      <p>Theconclusionisthatmanypeoplewillpaya significanamtountoavoida
+smallprobabilityofa hazardthatis affectively-lad-eanndthatwhenstrongemotionasreinvolvedt,he
+amounthattheywillpaywillnotvarygreatlywithchangesinprobabilityIn. thecontext
+ofterrorismth, eimplicationis clear.Therisksassociatedwithterrorisattacksarehighly
+likelytotriggesrtrongemotionsi,npartbecauseofthesheervividnesosfthebadoutcome
+andtheassociatedlevelsofoutragaendfearI.tfollowsthatevenifthelikelihoodofanattack
+isextremellyow,peoplewillbe willingtopaya greatdealtoavoidit.Oncepeople'sminds
+arefocusedontherisk,theirwillingnestsopaywillbe relativeliympervioutsosignificant
+changesin probabilit yIn. October2002,thesignificanatndoftenexpensiveprecautions
+takenagainstpossiblesniperattacksb,ycitizensoftheWashingtonD,C area,attestothe
+phenomenoonfprobabilitnyeglectinthefaceofvividadverseoutcomes.
+2.3. Emotionasndarsenic
+To investigatteheroleofprobabilityandemotionsin responsesto risk,I conductedan
+experimenatskingeighty-thrUeeniversitoyfChicagolawstudenttsodescribetheirmaximumwillingnestsopaytoreducelevelsofarsenicindrinkinwgaterT.hequestionshada
+highdegreeofrealismT.heywerebasedonactualchoicesconfrontintgheEnvironmental
+ProtectionAgency,involvingcostand benefiitnformatiownithintheballparkof actual
+figureussedbytheagencyitself(Sunstein2,002).</p>
+      <p>Participantwsererandomlysortedintofourgroupsr,epresentintghefourconditionisn
+theexperimenItn.thefirsctonditionp,eoplewereaskedtostatetheirmaximumwillingness
+topaytoeliminatae cancerriskofonein 1,000,000I.nthesecondconditionp,eoplewere
+askedtostatetheirmaximumwillingnestsopaytoeliminataecancerriskofonein100,000.
+In thethirdconditionp,eoplewereaskedthesamequestionas inthefirstb,utthecancer
+wasdescribedinvividtermsa,s "verygruesomeandintenselypainfula,s thecancereats
+awayat theinternaolrgansofthebody."In thefourthconditionp,eoplewereaskedthe
+samequestionas inthesecond,butthecancerwas describedinthesametermsas inthe
+thirdconditionI.n eachconditionp,articipantwsereaskedtocheckofftheirwillingness
+topayamongthefollowingoptions$:0, $25, $50, $100,$200,$400,and$800 ormore.
+Noticethatthedescriptioonfthecanceri,nthe"highlyemotionalc"onditionsw,asintended
+toaddlittleinformatiocno,nsistinsgimplyofa descriptioonfmanycancerdeathst,hough
+admittedlsyomeparticipantms ightwellhavethoughtthatthesewereespeciallyhorrific
+deaths.</p>
+      <p>Thecentrahl ypothesiwsasthattheprobabilitvyariationws ouldmattelressinthehighly
+emotionaclonditiontshaninthelessemotionaclonditionsM.orespecificallyit,waspredictedthatdifferenceins probabilitwyouldmakerelativelylittledifferencinethehighly
+emotionaclondition-s andthatsuchdifferencewsouldhavemoreimportancientheless
+emotionaclonditionsT.hispredictionwas meanttodescribea substantiadleparturferom
+expectedutilitytheoryw,hichpredicttshatanordinaryri,sk-averspeersonshouldbewilling
+topaymorethan10Xtoeliminatae riskthatis tentimesmorelikelythana riskthatheis
+willingtopayX toeliminat(eCorso,Hammitta,ndGraham2,001). It was also expected
+thattheten-foldifferencineprobabilitiesbetween1/100,000and 1/1,000,00-0would
+not,ineitherconditiong,enerataeten-foldifferencine willingnestsopay.Theresultcsan
+be foundinTable1.</p>
+      <p>Thegraphthatfollowsthetableshowsthattheemotionadlescriptiopnroducesa higher
+willingnestsopayandalso thattheslopeoftheemotionadlescriptiolnineis somewhat
+flattetrhantheslopeoftheunemotionadlescriptiolnine.Thelatterdifferencisenothuge,
+buttheratioofthehighprobabilitaynswersi,nrelationtothelowprobabilitaynswersi,s
+1.8fortheemotionadlescriptioannd2.7 fortheunemotionadlescription.</p>
+      <p>ItfollowsthattheresultfsorthefirshtypothesiasreinthepredicteddirectionW.2 ithan
+unemotiondalescriptionin,creasintgheprobabilitbyya factorof10produceda statistically
+significanintcreaseinmeanWTP,from$71.25to194.44,¿(38)= 2.3,p = .03.Inthehighly
+emotionaclonditiont,heincreaseinprobabilitpyroduceda smallerelativiencreaseinWTP,
+from$132.95to$241.30,whichapproachesbutdidnotreachtraditiona.0l5 significance
+level,i(43) = 1.7,/?= .10.Thus,whileincreasintgheprobabilitbyya factoorf10increased
+WTPinbothemotionconditionsin,termosfpercentagiencreasest,heeffecwtasmorethan
+twiceas largeinthelessemotionaclonditio n(a 173%increaseinmeanWTP) thaninthe
+emotionaclondition(an81% increase)B.ecauseofthesmallsamplet,hedifferenbcetween</p>
+    </sec>
+    <sec id="sec-3">
+      <title>Tabl1e. Willingnteospsay(indollarfso)reliminatoiofanrsenricisks.*</title>
+      <p>Unemotional Emotional
+Probability description description
+1/1,000,000 71.25(25)</p>
+    </sec>
+    <sec id="sec-4">
+      <title>EmotionaalndUnemotionaDlescriptionosfArsenic</title>
+      <p>Deaths.
+theseincreasesisnotstatisticallsyignificanbtu,ttheresultisnonetheleshsighlysuggestive,
+especiallybecauseofitsconsistencwyithothersimilarfinding(sdiscussedbelow).3</p>
+      <p>ThesecondhypothesiwsasalsosupportedT.heincreaseinprobabilitdyidproducea
+significanotveralldifferencinemeanWTP,from$103.57to$220.73,F(l, 79) = 7.3,p &lt; .01.
+Consistenwtithotherworkonprobabilitnyeglecth,oweverv,aryingtheprobabilithyada
+relativelwyeakeffecotnWTP.Thetenfolidncreaseintheriskproducedbarelymorethana
+doublingofmeanWTP(a
+113%increase).I4tisnoteworthtyhatinthisexperimentth,erelativelysophisticatepdarticipanitnsthestudyshowedfarmoresensitivittyoprobabilitiynformationthaninthestudiesd,escribedabove,byKunreutheNro,vemskya,ndKahnemanb,ut
+evenso,thesusceptibilitwyasfarlessthanconvention(anl ormativet)heorywouldpredict.</p>
+      <p>Fromthisexperimentth,ereis oneotherpotentiallnyoteworthryesultB.yitselfm,aking
+thedescriptionofthecancermoreemotionaalppearedto havean effecton meanWTP,
+raisingitfrom$129.61to$188.33,althoughduetothesmallsamplesize,thedifferencdeid
+notreachsignificancFe,( 1,79) = 1.6,p = .20.5ThegraphshowstheextenotftheeffectIf.
+thisresultholdsupina largersample,thedollarmagnitudoeftheeffecotfa minorchange
+in descriptionis likelyto be surprisinglyarge.Indeed,theeffectofmerelymakingthe
+descriptioonftheoutcomemoreemotionawlasabouthalfas largeas a tenfoldincreasein
+actualrisk.Forpresentpurposesh,owevert,hemajorpointis thatwhenthequestionwas
+designedtotriggeerspeciallystrongemotionsv,ariationisnprobabilithyadlittleeffecotn
+WTP,lessofaneffecthanwhenthequestionwasphrasedinlessemotionatlermsT. hisis
+thekindofprobabilitnyeglectthatI amemphasizinhgere.</p>
+      <p>Thisstudyhas twoimplicationfsorthepublicreactiontoterrorisattacksI.t suggests,
+firstt,hatsimplybecausesuchattacksarousestrongemotionst,heyarelikelyto trigger
+moreintensefear,and a largerbehaviorarlesponset,hando statisticalliydenticarlisks.
+Here,as intheexperimentth,erewillbe a kindof"emotionpremium.I"tsuggestss,econd,
+thatprobabilitnyeglectwillplaya roleinthepublicreactiontoterrorisman,dthatmany
+peoplewill focus,muchof thetime,on thebadnessoftheoutcome,ratherthanon its
+likelihood.</p>
+    </sec>
+    <sec id="sec-5">
+      <title>2.4. Otherevidenceandopenquestions</title>
+      <p>Probabilitnyeglectw, henstronegmotionasreinvolvedh,asbeenfoundinmanyotherstudies
+(Loewensteinetal., 2001). Considerf,orexample,experimentdsesignedtotestlevelsof
+anxietyinanticipatioonfa painfuellectricshockofvaryingintensityto, be administered
+aftera "countdowpneriod"ofa statedlengthI.n thesestudiest,hestatedintensitoyfthe
+shockhada significaneftfecotnphysiologicarleactionsB.uttheprobabilitoyftheshockhad
+noeffect".Evidentlyth,emerethoughotfreceivingashockwasenoughtoarousesubjects,
+andthepreciselikelihoodofbeingshockedhadlittleimpactontheirarousallevel"(id.)A
+relatedstudyaskedpeopletoprovidetheirmaximumbuyingpricesforriskyinvestments,
+whichcontaineddifferenstatedprobabilitieosflossesandgainsofdifferenmtagnitudes
+(id.).Happilyforthestandartdheorym, aximumbuyingpriceswereaffectebdythesizeof
+lossesandgainsandalsobyprobabilitie(sN.otethatformostpeople,thisexperimendtid
+notinvolveanaffect-ricehnvironmenBt.u)t- andthisis thekeypoin-t reportefdeelings
+ofworrywerenotmuchaffectebdyprobabilitlyevels.In thisstudyt,henp,robabilitdyid
+affecbtehaviorb,utitdidnotaffectemotionsT. hepointhasindependenitmportancfeor
+theissueofterroris mto,whichI willreturnW: orryandanxietyareindividuallosses,even
+iftheydo notultimatelayffecbtehavior.</p>
+      <p>Severalstudieshaveattemptetdo comparehowpeoplerespondto differenceins the
+probabilitoyfharmwithhowpeoplerespondtodifferencienstheemotionasssociatedwith
+certainrisks(SandmanW,einsteina,ndHallman,1998;Sandmanetal., 1994).Hereitis
+hypothesizetdhatcertainlow-probabilirtyiskss,uchas thoseassociatedwithnuclearwaste
+radiationp,roduceoutragew,hereasotherlow-probabilitryisks,suchas thoseassociated
+withradonexposured,o not.Ofcourseterrorisatctscanbe seenas
+themostextremexampleofrisksthatproduceoutrageA. centraflindinigs consistenwt iththatstressedhere:
+a largedifferencine statisticasleriousneshsadno effectinthe"highoutrage"condition,
+withpeoplerespondintghesamewaytoa riskof1in 100,000as toa riskof1in1,000,000
+(SandmanW,einsteinan,dHallman,1998).Evenwhenthestatisticarliskwasidenticailnthe
+highoutrag(enuclearwaste)andlowoutrage(radon)cases,peopleinthenuclearwastecase
+reporteadmuchgreaterperceivedthreaatnda muchhigherintentiotnoacttoreducethat
+threa(tid.).Indeed,"theeffecotfoutragewaspracticallays largeas theeffecotfa 4000-fold
+differencineriskbetweenthehigh-risakndlow-riskconditions("id.).Efforttsocommunicatethemeaningofdifferenciensrisklevels,byshowingcomparisontsonormarlisklevels,
+reducedtheeffecotfoutrageb;utevenafterthoseeffortosu,tragehadnearlythesameeffect
+as a 2000-foldincreaseinrisk(id.).A greatdealofinformatioanppearstobe necessaryto
+counteracttheeffectosfstrongemotion-s showingthatpeoplearenotimpervioutsosuch
+informatiobnu,tthatwhenemotionasreinvolveda,greatdealofcarefuwlorkhastobedone.</p>
+      <p>Itshouldnotbe surprisinign,thislightt,hatvisualizationorimagerymatterasgreatdeal
+topeople'sreactiontsorisks(Slovic,Monahan,andMacGregor2,000). Whenan image
+ofa badoutcomeis easilyaccessible,peoplewillbecomegreatlyconcernedabouta risk,
+holdingprobabilitcyonstan(tLoewensteinetal.,2001).Considerthefactthatwhenpeople
+areaskedhowmuchtheywillpayforflighitnsurancfeorlossesresultinfgrom"terrorism,"
+theywillpaymorethaniftheyareaskedhowmuchtheywillpayforflighitnsurancferom
+all causes(Johnsonetal., 1993).Anevidentexplanationforthispeculiarresultis thatthe
+word"terrorismev"okesvividimagesofdisastert,huscrowdingoutprobabilitjyudgments.
+Notealso thatwhenpeoplediscussa low-probabilitryisk,theirconcernrisesevenifthe
+discussionconsistsmostlyofapparentltyrustwortahsysurancetshatthelikelihoodofharm
+reallyis infìnitesm(aAllkahamaindSlovic,1994).Onereasonisthatthediscussionmakes
+iteasiertovisualizetheriskandhencetofearit.</p>
+      <p>Probabilitnyeglectshouldbe sharplydistinguishefdromuseoftheavailabilithyeuristic,
+whichleadspeoplenottoneglecttheissueofprobabilityb,uttoanswerthequestionof
+probabilitbyysubstitutinaghardquestion(whatisthestatisticarlisk?)withaneasyquestion
+(do salientexamplesreadilycometomind?)T.hecentraplointhereisnotthatvisualization
+makesan eventseemmoreprobable(thoughthisis also oftentrueandhighlyrelevanto
+theimpactofterrorismb)u,tthatvisualizationif,accompaniedbyorproductivoefstrong
+emotionsm,akestheissueofprobabilitlyess relevantor evenirrelevan(tM.anypeople
+whoarefearfuolfadmittedllyow-probabilitryisks,suchas thoseassociatedwithflying
+in airplanesr,eportthattheyvisualizetheworst-casoeutcomeanddo notgiveadequate
+attentionto theissue of likelihoodw,hichtheyacknowledgeto be low.) In theoryt,he
+distinctiobnetweenuse oftheavailabilityheuristiacndprobabilitnyeglectshouldnotbe
+obscureI.npracticeo,fcoursei,twilloftenbehardtoknowwhethetrheavailabilithyeuristic
+orprobabilitnyeglectis influencinbgehavior.</p>
+      <p>Themostsensibleconclusionis thatwithrespecttorisksofinjuryorharmv,ividimages
+andconcretepicturesofdisastercan "crowdout"otherkindsofthoughtsin,cludingthe
+cruciatlhoughtthatheprobabilitoyfdisasterisreallysmall.Withrespecttohope,thosewho
+operategamblingcasinosandstatelotterieasrewell-awaroeftheunderlyinmgechanisms.
+Theyplayonpeople'semotionisntheparticulasrensethattheyconjureuppalpablepictures
+ofvictoryandeasylivingt,husencouraginpgeopletoneglectthequestionofprobability.
+Withrespecttorisks,insurancceompaniese,xtremenvironmentgarloupsa,ndterrorists
+do exactlythesame.The pointexplains"whysocietalconcernsabouthazardssuchas
+nuclearpowerandexposuretoextremelsymallamountsoftoxicchemicalsfailtorecede
+inresponsetoinformatioanbouttheverysmallprobabilitieosfthefearedconsequences
+fromsuchhazards"(Slovicetal.,2002).Thesamepointexplainswhyactsofterroriscman
+createfearthatgreatlyoutruntshediscountedprobabilitoyfharm.</p>
+      <p>OfcoursethephenomenoonfprobabilitnyeglecthasitslimitationMs.anypeopleattend
+toissuesofprobabiliteyvenwhenemotionasrerunninhgighT.hereisconsiderablheeterogeneityinthedata,withnumeroussubjectsattendintgoprobabiliteyvenwhentheharmis
+describe dingraphictermsI.tisunclearif"debiasing"ispossible(see SandmanW,einstein,
+andHallman,1998,forsuggestivdeiscussion)I.fpeoplearemadealerttoprobabilitnyeglect,willtheybe lesslikelytoneglectprobabilityIn?anycase markeptressureasrelikely
+todiminishtheextenotfprobabilitnyeglectI.fthecostsofneglectinpgrobabilitayreplaced
+"onscreen,t"henpeoplewillbemorelikelytoattendtothequestionofprobabilit(yMargolis,
+1993).Inthislightitisbothmildlycounterintuitainvedquitereasonablef,orexamplet,opredictthatpeoplewouldbe willingtopayless,intermosfdollarsandwaitingtimet,oreduce
+low-probabilitryisksofa terroriasttackonanairlineiftheyarefrequenttravellerTs.hose
+whotraveilnfrequentslhyouldbe willingtopaymore,simplybecausetheywillfacelower
+costs.A
+preliminarsytudyfindesxactlythiseffec(tHarringto2n0,02).Myprincipasluggestionisthatbothprivatbeehaviorandthedemandfora legalresponsewillbemoreimpervious
+tovariationisnprobabilittyhanthestandardtheorywillpredictT.he departurferomthe
+normativteheoryshouldbe seen,toa greaterorlesserdegree,intheresponsesofpublic
+officialss,omeofwhomuseprobabilitnyeglectstrategicaltlyopromotteheirowninterests.
+3. Whatdrivesthedemandforlaw?
+Ifprobabilitnyeglectcharacterizeinsdividuajludgmenutndercertaincircumstancegs,overnmenatndlaw arelikelytobe neglectinpgrobabilituynderthosesamecircumstances.
+Ifpeopleshowunusuallystrongreactionsto low-probabilitcyatastrophesa,democratic
+governme nistlikelytoactaccordingly.</p>
+      <p>ConsidertheproblemofprobabilitnyeglectoutsideofthecontextofterrorismIn. the
+environmentaarlea,therehasbeenanintensedebateaboutwhethetrheNationalEnvironmentaPlolicyActrequiresagenciestodiscusstheworst-cassecenarioin environmental
+impactstatementEsn.vironmentgarloupsoughttoensurediscussionofthatscenarioT.hey
+didso inparttostimulatpeublicconcernw,iththeknowledgethattheworstcase might
+wellhavea greatdealofsalience,evenifitis highlyunlikelyF.oritspart,thegovernment
+originallryequireddiscussionoftheworstcase,butchangedinitsmind,withtheapparent
+understandinthgatpeoplearetoolikelytooverreactH. encethecurrenatpproachu,pheld
+bytheSupremeCourt,6requiresconsideratioonflow-probabiliteyventsb,utonlyifthey
+arenotentirelryemoteandspeculative.</p>
+      <p>At firsgtlancethecurrenatpproacha,ndtheSupremeCourt'sdecision,seementirely
+reasonableI.fthereis onlya minisculechancethattheworstcase willcometofruitio nit,
+neednotbe discussedinenvironmentiaml pactstatementfs,ortheprincipaelffectofthe
+discussionwouldbe toactivatefearw,hichis byhypothesiusnwarrantebdythefactsB.ut
+theriesanimportanqutalificatioWn.hileprobabilitnyeglectmakesworst-casaenalysiseasy
+tocriticizes,uchanalysismightbe defendedifregulatorasreoperatingunderconditions
+ofuncertaintryatherthanrisk.Underconditionosf uncertaintpyr,obabilitiecsannotbe
+assignedatall,andinsuchcasesitis reasonabletofollowthemaximinprinciple(choose
+theoptionthathastheleast-badworstoutcomes;ee Elster,1983).Ifwe aredealingwith
+uncertainrtyathetrhanrisk,worst-casaenalysiscanbedefendedonthesestandargdrounds,
+simplybecauseit identifietsheapproachthatshouldbe favoredby thoseapplyingthe
+maximinprincipleW.hatI am suggestingis thatin thecontextof terroris mand other
+emotionalllyadenhazardsp,eopleneglectprobabiliteyvenwhentheevidencesuggesttshat
+itis quitelow(Rothchild2,001).</p>
+      <p>A gooddealoflegislationandregulatiocnanbe
+explainedpartlybyreferencteoprobabilityneglectwhenemotionasrerunninhgigh.Considera fewexamples:
+• Intheaftermatohfnewsreporatboutemotionallgyrippinagdversehealtheffectasllegedly
+causedbyabandonedhazardouswasteinLoveCanal,thegovernmenrtespondedwithan
+aggressivperogramforcleaningupabandonedhazardouwsastecites,withouetxamining
+theprobabilittyhatillnesswouldactuallyoccur.Infactlittlewasaccomplishedbyearly
+efforttso assurepeopleof thelow probabilityof harm(Kuranand Sunstein,1999).
+Whenthelocalhealthdepartmenptublicizedcontrolledstudiesshowinglittleevidence
+ofadverseeffectst,hepublicitydidnotdampenconcernb, ecausethenumber"shadno
+meaning"(Gibbs,1998).In factthenumberseemedtoaggravatfeear:"One woman,
+divorcedandwiththreesickchildrenl,ookedat thepiece ofpaperwithnumberasnd
+startedcryinghysterically'N: o wondermychildrenaresick.AmI goingtodie?What's
+"
+goingtohappentomychildren?'(id.).Questionosfthissortcontributteodtheenactment
+ofnewlegislationtocontroalbandonedhazardouswastesites,legislationthatdidnot
+embodycarefuclonsideratioonftheprobabilitoyfsignificanhtealthorenvironmental
+benefit(sKuranandSunstein1,999).Evennow,lawandpolicyareaffectebdyinterest
+grouppressureasndpublicalarm;thegovernmendtoesnottakeenoughaccountofthe
+probabilityof significanhtarmin makingclean-updecisions(Hamiltonand Viscusi,
+1998).
+• Duringa highlypublicizedcampaigndesignedto showa connectionbetweenAlar,a
+pesticidea,ndcancerinchildrent,hepublicdemandforactionwasnotmuchaffectebdy
+theEPA'scautionarnyotesaboutthelowprobabilitoyfgettintghatdisease(Wildavsky,
+1995). The mereidea thatchildrenmightdie,as a resultof appleconsumptionh,ad
+a significanetffecton behaviorw,ithprobabilistiicnformatiosneemingnotto reduce
+people'sfears.
+• Inthefallof2001,vividimagesofsharkattackscreateda publicoutcryaboutnewrisks
+foroceanswimmersT.hiswas so notwithstanditnhgeexceedinglylowprobabilitoyfa
+sharkattacka,ndtheabsenceofanyreliableevidenceofan increaseinsharkattacksin
+• Fora varietyofreasonsj,urybehavioris notlikelytobe greatlyaffectebdyassurance
+thattheriskwas unlikelytocometofruitionev,eniftheissueofprobabilitiys legally
+relevan(tFosterB,ernsteina,ndHuber,1993).Incasesinvolvinlgow-probabilirtiysksof
+emotionallgyrippinhgarmsi,tshouldbe relativeleyasytoconvincejurorstoofferhigh
+damageawardsL.itigatortsherefordeowelltotrytoengagejurors'emotionbsypointing
+totheworstcase.Thereisa strongimplicatiohnereforthelawofnegligenceE:venifthe
+lawasksthejurytobalancethebenefitosfthedefendanta'sctionagainstthecosts,the
+juryislikelytodisregartdheissueofprobabilitiyfitsattentioinsfocussedonanoutcome
+thattriggersstrongemotion(sid.).Alongthesamelines,anunderstandinofgprobability
+neglecthelpsexplainthefindingin,bothexperimentaanl dreal-worldsettingst,hatjuries
+do notrespondfavorabltyoa demonstratiotnhatthedefendanpterformeadcost-benefit
+analysisbeforeproceedinge,veniftheanalysisplacesa highvalueonhumanlife(Viscusi,
+2000).Thereasonis thatjurorswillbe focussingonthebadnessoftheoutcomen,otthe
+low(ex ante)probabilittyhatitwouldhaveoccurred.</p>
+      <p>Withrespecttoterroris mco,nsiderinparticulatrheanthrasxcareofOctober2,001,which
+wasbasedonexceedinglyfewincidentsO.nlyfourpeoplediedoftheinfectiono;nlyabout
+a dozenothersfellill. The probabilitoyfbeinginfectedwas exceedingl
+ylow.Nonetheless,fearproliferatewd,ithpeoplefocussingtheirattentioonntheoutcomerathetrhanthe
+low probabilitoyf theharm.The governmenrtespondedaccordinglyin,vestingmassive
+resourceisnensuringagainstanthraxinfectionPs.rivateinstitutionresactedthesameway,
+weretinyT.o saythisis nottosuggestthatextensivperecautionwsereclearlyunjustified
+inthiscase.Privateandpublicinstitutionfascedanunknownprobabilitoyfa majorhealth
+problemB.utitis hardtodenythatthepublicfearwas disproportionattoeitscause,and
+thatthelevelofresponsewasdisproportionattoeo.Theextraordinaryippleeffectasttest
+totheintensitoyfthatfear.In thecontextoftheterrorisattacksofSeptember11,2001,
+ofcourse,publicfearledtoprivateandpubliccoststhatwereordersofmagnitudheigher
+thanthecostsof theattacksthemselve(sSunstein2,002a), and thatare bestexplained
+inpartbyreferencteo probabilitnyeglectT.he samemightbe said
+abouttheextraordinarypublicfearproducedbythesniperattacksin theWashingtonD,.C. areain October
+2002; theextentofthefearis hardto understanwdithoutan appreciationofprobability
+neglect.</p>
+    </sec>
+    <sec id="sec-6">
+      <title>4. Prescriptivaend normativeissuesand theroleoflaw</title>
+      <p>Forlaw andpolicy,thehardestquestionsmightwellbe prescriptivaendnormativoenes:
+How shouldlaw and governmenrtespondto a quasi-rationaplublicpanic,based on an
+intenseemotionarleactionto a low-probabilitryiskof terrroriasttack?Let us assume,
+realisticalliyfperhapsoptimisticalltyh,atfortheforeseeablfeuturet,heriskwillbe quite
+low,farlowera,s a statisticaml attert,hanrisksthatpeoplewillinglyacceptinmanydomains
+(Rothschild2,001).</p>
+      <p>Whenpeoplearegreatlyalarmedabouta
+low-probabilithyazard,cangovernmenotfficialseffectivelpyrovideassuranceanddampenconcern?Thisis farfromclear.Theonly
+clearpointis thatgovernmenist unlikelyto be entirelysuccessfuilfit
+simplyemphasizesthelowprobabilittyhattheriskwilloccur.Ifofficialwsanttoreducefear,thebest
+approachmaywellbe simple:Alterthepublic'sfocus.I havenotedthatdiscussionsof
+low-probabilitryiskstendto heightenpublicconcerne,venifthosediscussionsconsist
+largelyofreassuranceP.erhapsthemosteffectivweayofreducingfearofa low-probability
+riskis simplytodiscusssomethineglse andtolettimedo therest.(Recallinthisregard
+PresidenBtush'seffortin,theaftermatohftheterrorisattacksof9/11,nottoemphasize
+thatthestatisticarliskswerelow,buttotreatflyinags a kindofpatriotiacct,onethatwould
+preventterroristfsromobtainingvictory.O) fcourse,mediaattentiocnan undermintehis
+approach.</p>
+      <p>Withrespecttoregulatorpyolicyi,nstitutionsaalfeguardmsightwellbe thebestwayof
+ensurinaggainsttheharmfuclonsequenceosfprobabilitnyeglectT. heOfficoefInformation
+andRegulatoryAffairsw,ithintheOfficeofManagemenatndBudget,monitorasgency
+actionto ensurethatit is directedagainstsignificanptroblemsA. generalrequirement
+ofcost-benefbitalancingshouldprovidea checkon regulationtshatcannotbe grounded
+inobjectivefac-t andalso as an impetustopreventativmeeasuresthatthepublicmight
+notseek.Ifgovernmenwtantstoprotecittselfagainsthysteriaa,nalyticrequiremenatnsd
+institutioncahleckswillprovidea start(Sunstein2,002a).</p>
+      <p>Nowturntonormativiessuesandsupposethatpeoplearegreatlyconcernedabouta risk
+thathasa smallorevenminisculeprobabilitoyfoccurrin-g anthraxinthemail,a sniper
+attackatgasstationso,rterrorisomnairplanesI.fgovernme nistconfidentthatitknowsthe
+factsa,ndifpeoplearefarmoreconcernedthanthefactswarrants,houldthegovernment
+respondv,ia regulationt,o theirconcerns?Or shoulditignorethem,on thegroundthat
+theconcernsareirrationalC?onsidertheindividuaalnalogyfirstE.venifpeople'sfearis
+itselfirrationailt,mightwellbe rationalforpeopleto takeaccountofthatfearin their
+behaviorI.f I am afraidto flyI, mightdeclinetodo so, on thegroundthatmyfearwill
+maketheexperiencqeuitedreadfu(lnotonlywhileflyinbgutwhileanticipatinigt).Atthe
+sametime,thefearitselfmightbe irrationaal,ndI mightevenrecognizethatfact.Ifthe
+fearexists,butifI cannoteliminateit,themostrationadlecisionmightbe notto flyI.n
+certainperiodsinthelastdecade,somepeoplehavedeclinedtotravetloIsrael,notbecause
+theybelievethattherisksare statisticalllyarge,butbecausetheyanticipatetheirown
+(lessthanrationala)nxietya,ndbecausetheyseek,rationallyto, avoidananxiety-pervaded
+experience.</p>
+      <p>So tooatthesociallevel.Suppose,forexample,thatpeopleareafraidofexistin glevels
+ofarsenicindrinkinwgaterandthattheydemandstepstoensurethatarsenicingestionwill
+notbehazardousS.upposetoothattherisksfromexistinglevelsofarsenicareinfinitesmal.
+Is itso clearthatgovernmenshtouldrefusetodo whatpeoplewantittodo?Thefearisby
+hypothesirseal.Ifpeoplearefearfutlhattheirdrinkinwgateris "notsafe,"theyare,simply
+forthatreasonalone,experiencinagsignificanlotss.In manydomainsw,idespreadfearis
+notmerelya lossinitself(one forwhosereductionpeoplewouldbe willingtopay),but
+alsoleadstoanarrayofadditionaplroblemsI.nthecontexotfarsenici,tmightleadpeople
+tobuybottledwatere,veniftheresultisnottoproduceanyincreaseinsafetyIn.thecontext
+ofterrorismfe,aris likelytomakepeoplereluctanttoengageincertainactivitiess,uchas
+flyingon airplanesandappearingin publicplaces.Theresultincgostscan be extremely
+high.It is plausibleto suggestthatgovernmensthouldattemptto reducefearj,ustas it
+attempttsoproduceothergainstopeople'swell-being.</p>
+      <p>Theobviousqualificatioins thatifgovernmenistabletoinformandeducatepeople,it
+shoulddo thatrathetrhanregulateT. o theextenthatinexpensivpeolicieshavesubstantial
+reassurancvealue,governmenshtouldadoptthosepolicies;itshouldnotimposecostlyregulatorycontrolsB.utwhetheirnformatioandeducationwillworkis anempiricaqluestion
+onwhichclearevidenceisabsente,speciallyinthepresenceofprobabilitnyeglectP. erhaps
+governmenwtillnot,in somecontextsb,e able toassurepeoplethattheprobabilitoyfa
+terrorisattackis verylowandoughtnottoaffectbehaviorI.finformatioandeducation
+do notwork,governmenshtouldrespondj,ustas individualdso,tofearsthatarenotfully
+rationalb,utrealandbyhypothesidsifficutltoeradicateR. ecallthatfearis a realsocialcost
+andthatitis likelytoleadtoothersocialcosts.If,forexamplep,eopleareafraidtoflyt,he
+economywillsuffeirnmultiplweays;so tooifpeopleareafraidtosendortoreceivemail.
+Thereductionofevenbaselessfearis a socialgood.</p>
+      <p>Even ifitis clearthatgovernmensthouldrespondm,anyquestionsremainH.ow and
+howmuchshouldgovernmenrtespond?The answermustdependon theextentandcost
+of thefearand theeffectand cost of theresponse.If peopleare extremelyfearfula,
+substantiarlesponseis ofcourseeasiertojustifyi;fthecostofan effectivreesponseis
+veryhigh,a refusalto respondmightwell makesense.Withthispoint,theanalysisof
+appropriataectionbecomessimilarto theanalysisofrisksin manyothersettingsW.e
+need to knowhow muchgood,and how muchharm,wouldbe doneby theactionin
+questionA. specialdifficulthyereconsistsin theproblemofquantifyinagndmonetizing
+fearanditsconsequencesa, problemthathasyettobe seriouslyengagedintherelevant
+literature.
+5. Conclusion
+In thisEssay,mycentralclaimhas beenthattheprobabilityofharmwillbe neglected
+whenpeople'semotionasreactivatedP.robabilitnyeglectisespeciallylikelyinthecontext
+ofterroris mIf.a terrorisattackis easyto visualize,large-scalechangesin thoughatnd
+behavioarretobeexpectede,venifthestatisticraliskislowerthanthatassociatedwithmany
+activitietshatdonotproducepublicconcernT. hepointhelpsexplainpublicoverreactiotno
+highlypublicizedl,ow-probabilirtiysksi,ncludintghoseposedbysniperattacksa,bandoned
+hazardouswastedumpsa,ndanthrax.</p>
+      <p>It followsthatifa privateor publicactoris seekingto producepublicattentiotno a
+neglecterdiski,tisbesttoprovidevivid,evenvisualimagesoftheworsthatmighhtappen.
+Italso followsthatgovernmenrtegulationa,ffecteads itis bythepublicdemandforlaw,
+is likelytoneglectprobabilittyoo.Atfirsgtlance,thegovernmensthouldnotcapitulatief
+thepublicis demonstratinpgrobabilitnyeglectandshowingan excessiveresponsetothe
+riskofterrorismTh.ebestresponseis informatioandeducationB.utpublicfearis itself
+a problemandsometimeas quiteseriousone.Ifthatfearcannotbe alleviatedwithourtisk
+Appendix
+Thefollowinpgrovidestheexperimentmalaterialfsorthestudydescribedinpart2.3.</p>
+      <p>Assumethatyoulivein an areawhosedrinkinwgatercontains50 partsperbillionof
+arsenicA.ssumealsothatatthislevelofarsenic,1 in 100,000peoplewhodrinkthiswater
+overa periodof yearswilldie of cancer.The EnvironmentParlotectionis considering
+whethetroreducethepermissiblleevelofarsenicindrinkinwgaterfrom50 to5 partsper
+billionw,hichwouldessentiallyeliminattehecancerrisk.Whatis themostthatyouwould
+be willingtopay,inincreasesinannualwaterbills,forthisreduction?
+(1) 0
+(2) $25
+(3) $50
+(4) $100
+(5) $200
+(6) $400
+(7) $800ormore</p>
+      <p>Assumethatyoulivein an areawhosedrinkinwgatercontains50 partsperbillionof
+arsenic.Assumealso thatat thislevelofarsenic,1 in 1,000,000peoplewhodrinkthis
+waterovera periodofyearswilldieofcancerT.heEnvironmentParlotectioinsconsidering
+whethetroreducethepermissiblleevelofarsenicindrinkinwgaterfrom50 to5 partsper
+billion,whichwouldessentiallyeliminattehecancerrisk.Whatisthemostthatyouwould
+be willingtopay,inincreasesinannualwaterbills,forthisreduction?
+(3) 0
+(4) $25
+(3) $50
+(4) $100
+(5) $200
+(6) $400
+(7) $800 ormore</p>
+      <p>Assumethatyouliveinan areawhosedrinkinwgateris contaminatebdy50 partsper
+billionofarsenica, knowncarcinogenA. ssumealso thatthislevelofarsenicwillkill1 in
+100,000peoplewhodrinkthiswaterovera periodofyears.Assumefinallythatthedeath
+fromarsenic-inducecdanceris verygruesomeand intenselypainfula,s thecancereats
+awayatinternaolrgansofthebody.TheEnvironmentParlotectioins considerinwghether
+toreducethepermissiblleevelofarsenicindrinkinwgaterfrom50 to5 partsperbillion,
+whichwouldessentiallyeliminatethecancerrisk.Whatis themostthatyouwouldbe
+willingtopay,inincreasesinannualwaterbills,forthisreduction?
+(5) 0
+(6) $25
+(3) $50
+(4) $100
+(5) $200
+(6) $400
+(7) $800 ormore</p>
+      <p>Assumethatyou live in an area whosedrinkingwateris contaminatebdy 50 parts
+perbillionof arsenic,a knowncarcinogenA.ssumealso thatthislevelof arsenicwill
+kill 1 in 1,000,000peoplewhodrinkthiswaterovera periodofyears.Assumefinally
+thatthedeathfromarsenic-inducecdanceris verygruesomeand intenselypainfula,s
+thecancereats away at internaolrgansof thebody.The EnvironmentParlotectionis
+consideringwhetherto reducethepermissiblelevelof arsenicin drinkingwaterfrom
+50 to 5 partsper billion,whichwouldessentiallyeliminatethecancerrisk.Whatis
+themostthatyou wouldbe willingto pay,in increasesin annualwaterbills,forthis
+reduction?
+Acknowledgment
+I am gratefutloJonElsterE,ricPosner,RichardPosner,andW. Kip Viscusiforhelpful
+Notes
+RothschMild.(,2001)".TerroriasnmdYou- TheRealOdds,P"olicyMatterAsE, I-BrookiJnogisnCtentefror</p>
+      <p>RegulatoSrtyudieasv,ailabaltehttp://www.aei-brookings.org/policy/page.php?id=19#top.
+RottenstrYei.acnhdC,.Hsee(.2001)".MoneKyi,ssesa,ndElectrSihcockOs:nthAeffectPivsyecholoogfRyisk,"</p>
+      <p>PsychologSiccaielnc1e2,185-190.</p>
+      <p>SandmaPn.N,.D.WeinsteainndW,.KH.allma(n1.998)".CommunicatoiRonedsucReiskUnderestimaantdion</p>
+      <p>OverestimatRioisnkD,"ecisioanndPolic3y,93-108.</p>
+      <p>SandmaPn.,P.MilleBr,.Johnsoand,N.D.Weinste(i1n9.94)".AgencCyommunicaCtioomn,munOituytrage,
+andPeceptioofnRiskT: hreSeimulatiEoxnperimenRtiss,kA"nalys1i3s,589-602.</p>
+      <p>SlovicP,.(2000)T. hePerceptoiofRniskL.ondonEa:rthscPaunblications.</p>
+      <p>SlovicP,.,M.FinucanEe.,Peterasn,dD.MacGreg(o2r0.02)".TheAffeHcteuristiIcn.T".GilovicDh.,Griffin,
+andD.Kahnem(aends.)H, euristaincsdBiasesT: hePsycholoogfIyntuitJivuedgm,epnpt.397-420.
+SlovicP,.,J.Monahaann,dD. MacGreg(o2r0.00)".ViolenRceiskAssessmeantdRiskCommunicaTtihoen:
+EffeocftUsinAgctuaClasesP,rovidiInngstructiaonndEs,mployiPnrgobabilvits.yFrequenFcoyrmatLsa,w"
+andHumaBnehavi2or4,271-296.</p>
+      <p>SunsteiCn.,(2002a)R. iskandReasonS:afetLya,wa,ndtheEnviron m.Ceanmt bridCgaem:bridUgneiversity</p>
+      <p>Press.</p>
+      <p>SunsteiCn.(,2002b").ProbabilNiteyglecEtm:otionWso,rsCtasesa,ndLaw,Y"aleLawJourn1a1l26,1-107.
+TverskAy.a,ndD.Kahnem(a1n9.74)".JudgmUenndteUrncertainHteyu:ristaincsdBiasesS,"cienc1e851,1241131.</p>
+      <p>ViscusWi,.Kip(.2000)".CorporRatieskAnalysAisR:eckleAssct?S"tanfoLradwRevie5w2,547-597.
+WildavskAy.(1,995)B. utIsItTrueA?CitizenG'suidteoEnvironmeHnetaalltahndSafetIyssuesC.ambridge,
+MA:HarvarUdniversPitryess.</p>
+    </sec>
+  </body><script/>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          AlkahamA.iS,.andP.
+          <source>Slovic</source>
+          (
+          <volume>1</volume>
+          . 994)
+          <article-title>"</article-title>
+          .
+          <source>APsychologSictauldoyfthIenverRseelationsBheitpweePnerceivRedisk andPerceivBeednefiRt,i"skAnalys1i4s</source>
+          ,
+          <fpage>1085</fpage>
+          -
+          <lpage>1096</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <string-name>
+            <surname>CorsoP</surname>
+            ,.,
+            <given-names>J.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Hammiatntd</surname>
+          </string-name>
+          ,J.Graha m(
+          <volume>20</volume>
+          .01)
+          <article-title>"</article-title>
+          .
+          <source>ValuinMgortality-RReidskuctioUns:inVgisuaAl idstoImprove theValidiotfyContingVenaltuatioJno,"urnoaflRiskandUncertai2n3t</source>
+          ,
+          <fpage>1y65</fpage>
+          -
+          <lpage>184</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          <string-name>
+            <surname>ElsteJr</surname>
+          </string-name>
+          ,.(
+          <year>1983</year>
+          )E.xplainiTnegchnicCahlangCe.ambridCgaem:bridUgneiversPitryess.
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          FosteKr.,,
+          <string-name>
+            <given-names>D.</given-names>
+            <surname>Bernsteainnd</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>P.</surname>
+          </string-name>
+          <article-title>Hube(re</article-title>
+          .ds.)(.
+          <year>1993</year>
+          )P.hantoRmiskS:cientiIfnifcerenancedthLeawC.ambridge, MA:MITPress.
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <surname>GibbsL</surname>
+          </string-name>
+          ,.M.(
+          <year>1998</year>
+          )L.oveCanalT:heStorCyontinuNese.wYorkN:ewSocietPyublishers.
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <string-name>
+            <surname>HarringtMo.</surname>
+          </string-name>
+          <article-title>n(2,002)"</article-title>
+          .
+          <article-title>PeopleW's illingnTeosAsccepAtirpoSretcuriDtyelayisnExchanfgoerLesseRrisk," (unpublismheadnuscroinpfti,lweitahuthor</article-title>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <string-name>
+            <surname>HubePr.</surname>
+          </string-name>
+          ,(
+          <year>1983</year>
+          )
+          <article-title>"</article-title>
+          .TheOld-NeDwivisioinRiskRegulatioVni,
+          <source>r"ginLiaawRevie6w9</source>
+          ,
+          <fpage>1025</fpage>
+          -
+          <lpage>1106</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <string-name>
+            <surname>JohnsEon.J</surname>
+          </string-name>
+          ,J.,H.ersheJyM.,eszaroasn,dH.
+          <source>Kunreut(h1e9r9</source>
+          .
+          <article-title>3)"</article-title>
+          .FraminPrgo,babilDitisytortioansdI,nsurance DecisionJs,
+          <source>o"urnoaflRiskandUncertai7n</source>
+          ,
+          <fpage>t3y5</fpage>
+          -
+          <lpage>41</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          KahnemDan.a,ndA.
+          <source>Tversk(1y9.79)</source>
+          <article-title>"</article-title>
+          .ProspeTchteorAy:nAnalysoifsDecisioUnndeRrisk,
+          <source>E"conometrica 47</source>
+          ,
+          <fpage>263</fpage>
+          -
+          <lpage>291</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          KunreutHh.e,Nr,.NovemsaknydD,anieKl ahnem(
+          <year>a2n0</year>
+          .01)
+          <article-title>"</article-title>
+          .
+          <source>MakinLgowProbabiliUtiseesfuJl,o"urnoafRlisk andUncertai2n3t</source>
+          ,
+          <fpage>1y03</fpage>
+          -
+          <lpage>120</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          KuraTn.,andC.
+          <source>Sunste(i1n9.99)</source>
+          <article-title>"</article-title>
+          .
+          <source>AvailabiCliatsycadeasndRiskRegulatioSnta,"nfoLradwRevie5w1</source>
+          ,
+          <fpage>683</fpage>
+          -
+          <lpage>768</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          LoewensteGi.nF,.E,.U.WebeCr,.K.Hseea,ndE.S.Welch(
+          <volume>2</volume>
+          .001)
+          <article-title>"</article-title>
+          .
+          <source>RiskasFeelingsP,s"ychologBicuallletin 127</source>
+          ,
+          <fpage>267</fpage>
+          -
+          <lpage>286</lpage>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          <string-name>
+            <surname>MargolHiso</surname>
+          </string-name>
+          ,war(
+          <year>d1</year>
+          .993)D. ealinWgitRhiskC.hicagUo:niversoiftCyhicagPoress.
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <string-name>
+            <surname>NollR</surname>
+          </string-name>
+          , .andJ.
+          <source>Krie(r1.990)</source>
+          <article-title>"</article-title>
+          .SomIemplicatioofnCsognitiPvseycholofgoyrRiskRegulatioJno,
+          <source>u"rnoafLlegal Studie1s9</source>
+          ,
+          <fpage>747</fpage>
+          -
+          <lpage>779</lpage>
+          .
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

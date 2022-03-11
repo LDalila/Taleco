@@ -1,0 +1,1504 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta/>
+    <article-meta>
+      <title-group>
+        <article-title>Is Capital Punishment Morally Required? The Relevance of Life-Life Tradeoffs</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Coase-Sandor Working Paper Series in Law</string-name>
+          <email>unbound@law.uchicago.edu</email>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+          <xref ref-type="aff" rid="aff1">1</xref>
+          <xref ref-type="aff" rid="aff2">2</xref>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Cass R. Sunstein &amp; Adrian Vermeule, "Is Capital Punishment Morally Required? The Relevance of Life-Life Tradeoffs", John M. Olin Program in Law and Economics Working Paper No.</institution>
+          <addr-line>239, 2005</addr-line>
+        </aff>
+        <aff id="aff1">
+          <label>1</label>
+          <institution>Coase-Sandor Institute for Law and Economics</institution>
+        </aff>
+        <aff id="aff2">
+          <label>2</label>
+          <institution>accepted for inclusion in Coase-Sandor Working Paper Series in Law and Economics by an authorized administrator of Chicago Unbound. For more information</institution>
+          ,
+          <addr-line>please contact</addr-line>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>1977</year>
+      </pub-date>
+      <fpage>11</fpage>
+      <lpage>52</lpage>
+      <kwd-group>
+        <kwd>Follow this and additional works at</kwd>
+        <kwd>https</kwd>
+        <kwd>//chicagounbound</kwd>
+        <kwd>uchicago</kwd>
+        <kwd>edu/law_and_economics</kwd>
+      </kwd-group>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>Is Capital Punishment Morally Required? </title>
+    </sec>
+    <sec id="sec-2">
+      <title>The Relevance of Life‐Life Tradeoffs </title>
+      <p>Cass R. Sunstein and Adrian Vermeule </p>
+      <p>T H E   L A W   S C H O O L  
+T H E   U N I V E R S I T Y  O F   C H I C A G O  </p>
+      <p> 
+March 2005 </p>
+      <p> </p>
+      <p>This paper can be downloaded without charge at: 
+The Chicago Working Paper Series Index: http://www.law.uchicago.edu/Lawecon/index.html 
+and at the Social Science Research Network Electronic Paper Collection: </p>
+      <p>http://ssrn.com/abstract_id=691447  
+Preliminary draft 3/22/05
+Not for citation, circulation, or quotation without express permission
+All rights reserved</p>
+      <p>Is Capital Punishment Morally Required?</p>
+      <p>The Relevance of Life-Life Tradeoffs</p>
+      <p>Cass R. Sunstein*
+Adrian Vermeule**</p>
+      <p>Recent evidence suggests that capital punishment may have a significant deterrent effect,
+preventing as many eighteen or more murders for each execution. This evidence greatly unsettles
+moral objections to the death penalty, because it suggests that a refusal to impose that penalty
+condemns numerous innocent people to death. Capital punishment thus presents a life-life
+tradeoff, and a serious commitment to the sanctity of human life may well compel, rather than
+forbid, that form of punishment. Moral objections to the death penalty frequently depend on a
+distinction between acts and omissions, but that distinction is misleading in this context, because
+government is a special kind of moral agent. The familiar problems with capital punishment—
+potential error, irreversibility, arbitrariness, and racial skew—do not argue in favor of abolition,
+because the world of homicide suffers from those same problems in even more acute form. The
+widespread failure to appreciate the life-life tradeoffs involved in capital punishment may depend
+on cognitive processes that fail to treat “statistical lives” with the seriousness that they deserve.</p>
+      <p>Many people believe capital punishment is morally impermissible. In their view,
+executions are inherently cruel and barbaric.1 Often they add that capital punishment is
+not, and cannot be, imposed in a way that adheres to the rule of law.2 They contend that
+as administered, capital punishment ensures the execution of (some) innocent people, and
+also that it reflects arbitrariness, in the form of random or invidious infliction of the
+ultimate penalty.3</p>
+      <p>*Karl N. Llewellyn Distinguished Service Professor of Jurisprudence, The University of Chicago Law
+School, Department of Political Science and the College.</p>
+      <p>**Bernard D. Meltzer Professor of Law, The University of Chicago. The authors thank Robert Hahn, Dan
+Kahan, Steven Levitt, Richard Posner, and Eugene Volokh for helpful suggestions, and Blake Roberts for
+excellent research assistance and valuable comments.</p>
+      <p>1 See, e.g., Furman v. Georgia, 408 U.S. 238, 371 (1972) (Marshall, J., concurring).</p>
+      <p>
+        2 See Stephen B. Bright, Why the United States Will Join the Rest of the World in Abandoning Capital
+Punishment, in DEBATING THE DEATH PENALTY 152
+        <xref ref-type="bibr" rid="ref9">(Hugo Bedau &amp; Paul Cassell eds. 2004)</xref>
+        .
+      </p>
+      <p>3 See, e.g., JAMES LEIBMAN ET AL., A BROKEN SYSTEM: ERROR RATES IN CAPITAL CASES, 1973 – 1995
+(Columb. L. School, Pub. L. Res. Paper No. 15, 2000).</p>
+      <p>Defenders of capital punishment come in two different camps. Some are
+retributivists.4 Following Kant, they claim that for the most heinous forms of
+wrongdoing, the penalty of death is morally justified or perhaps even required. Other
+defenders of capital punishment are consequentialists and often also welfarists.5 They
+contend that the deterrent effect of capital punishment is significant and that it justifies
+the infliction of the ultimate penalty. Consequentialist defenses of capital punishment,
+however, tend to assume that capital punishment is (merely) morally permissible, as
+opposed to being morally obligatory.</p>
+      <p>Our goal here is to suggest that the debate over capital punishment is rooted in an
+unquestioned assumption, and that the failure to question that assumption is a serious
+moral error. The assumption is that for governments, acts are morally different from
+omissions. We want to raise the possibility that an indefensible form of the act-omission
+distinction is crucial to the most prominent objections to capital punishment—and that
+defenders of capital punishment, apparently making the same distinction, have failed to
+notice that on the logic of their theory, capital punishment is morally obligatory, not just
+permissible. We want to suggest, in other words, that capital punishment may be morally
+required not for retributive reasons, but in order to prevent the taking of innocent lives.6</p>
+      <p>
+        The suggestion bears not only on moral and political debates, but also on
+constitutional questions. In invalidating the death penalty for juveniles, for example, the
+Supreme Court did not seriously engage the possibility that capital punishment for
+juveniles may help to prevent the death of innocents, including the deaths of juvenile
+innocents.7 And if our suggestion is correct, it is connected to many questions outside of
+4 See, e.g., Luis Pojman, Why the Death Penalty is Morally Permissible, in DEBATING THE DEATH
+PENALTY 51, 55-58
+        <xref ref-type="bibr" rid="ref9">(Hugo Bedau &amp; Paul Cassell eds. 2004)</xref>
+        .
+      </p>
+      <p>5 Arguments along these lines can be found in id. at 58-73.</p>
+      <p>6 In so saying, we are suggesting the possibility that states are obliged to maintain the death penalty, not
+that they must inflict that penalty is every individual case of a specified sort; hence we are not attempting to
+enter into the debate over mandatory death sentences, as invalidated in Woodson v North Carolina, 428 US
+280 (1986); Lockett v. Ohio, 438 US 586 (1978). For relevant discussion, see Martha Nussbaum, Equity
+and Mercy, 22 Phil &amp; Pub Aff 83 (1993).</p>
+      <p>7 Roper v. Simmons, 125 US 1183 (2005). Here is the heart of the Court’s discussion: “As for deterrence,
+it is unclear whether the death penalty has a significant or even measurable deterrent effect on juveniles, as
+counsel for the petitioner acknowledged at oral argument. . . . [T]he absence of evidence of deterrent effect
+is of special concern because the same characteristics that render juveniles less culpable than adults suggest
+as well that juveniles will be less susceptible to deterrence. . . . To the extent the juvenile death penalty
+might have residual deterrent effect, it is worth noting that the punishment of life imprisonment without the
+possibility of parole is itself a severe sanction, in particular for a young person.” These are speculations at
+the context of capital punishment. If omissions by the state are often indistinguishable, in
+principle, from actions by the state, then a wide range of apparent failures to act—in the
+context not only of criminal and civil law, but of regulatory law as well—should be taken
+to raise serious moral and legal problems. Those who accept our arguments in favor of
+the death penalty may or may not welcome the implications for government action in
+general. In many situations, ranging from environmental quality to highway safety to
+relief of poverty, our arguments suggest that in light of imaginable empirical findings,
+government is obliged to provide far more protection than it now does, and that it should
+not be permitted to hide behind unhelpful distinctions between acts and omissions.</p>
+      <p>The foundation for our argument is a large and growing body of evidence that
+capital punishment may well have a deterrent effect, possibly a quite powerful one. A
+leading study suggests that each execution prevents some eighteen murders, on average.8
+The particular numbers do not much matter. If the current evidence is even roughly
+correct, then a refusal to impose capital punishment will effectively condemn numerous
+innocent people to death. States that choose life imprisonment, when they might choose
+capital punishment, are ensuring the deaths of a large number of innocent people.9 On
+moral grounds, a choice that effectively condemns large numbers of people to death
+seems objectionable to say the least. For those who are inclined to be skeptical of capital
+punishment for moral reasons—a group that includes one of the current authors—the task
+is to consider the possibility that the failure to impose capital punishment is, prima facie
+and all things considered, a serious moral wrong.</p>
+      <p>Judgments of this sort are often taken to require a controversial commitment to
+either a consequentialist or a deontological view about the foundations of moral
+best, and they do not engage with the empirical literature; of course, that literature does not dispose of the
+question whether juveniles are deterred by the death penalty.</p>
+      <p>8 See Hashem Dezhbakhsh et al., , Does Capital Punishment Have a Deterrent Effect? New Evidence
+from Postmoratorium Panel Data, 5 AM. L. &amp; ECON. REV 344, 344 (2003). In what follows, we will speak
+of executions saving eighteen lives on average. We are of course suppressing many issues in that
+formulation, simply for expository convenience. For one thing, that statistic is a national average, as we
+emphasize in Part IV. For another thing, future research might find that capital punishment has diminishing
+returns: if the first 100 executions deter 1800 murders, it does not follow that another 1,000 executions will
+deter another 18,000 murders. We will take these and like qualifications as understood in the discussion
+that follows.</p>
+      <p>9 In recent years, the number of murders in the United States has fluctuated between 15,000 and 24,000.
+Federal Bureau of Investigation, Crime in the United States: 2003 Tabl.1 (2003), available at
+http://www.fbi.gov/ucr/03cius.htm.
+evaluation. One of our principal points, however, is that the choice between
+consequentialist and deontological approaches to morality does not seem crucial here; we
+will suggest that on certain empirical assumptions, theorists of both stripes might
+converge on the idea that capital punishment is morally obligatory. On consequentialist
+grounds, the death penalty seems morally obligatory if it is the only or most effective
+means of preventing significant numbers of murders; and much of our discussion will
+emphasize this point. For deontologists, a killing is a wrong under most circumstances,
+and its wrongness does not depend on its consequences or its effects on overall welfare.
+Many deontologists (of course not all) believe that capital punishment counts as a moral
+wrong. But in the abstract, any deontological injunction against the wrongful infliction of
+death turns out to be indeterminate on the moral status of capital punishment if it is
+necessary to prevent significant numbers of killings.</p>
+      <p>An unstated assumption animating much opposition to capital punishment,
+especially among self-conscious or intuitive deontologists, is that capital punishment
+counts as an “act,” while the refusal to impose it counts as an “omission,” and that the
+two are altogether different from the moral point of view. We shall investigate this claim
+in some detail. But we doubt that the act-omission distinction can bear the moral weight
+given to it by the critics of capital punishment. Whatever its value as a moral concept
+where individuals are concerned, the act-omission distinction misfires in the general
+setting of government regulation. If government policies fail to protect people against air
+pollution, occupational risks, or racial discrimination, it is inadequate to put great moral
+weight on the idea that the failure to act is a mere “omission.” No one believes that
+government can avoid responsibility to protect people against serious dangers, as for
+example by refusing to enforce regulatory statutes, simply by contending that such
+refusals are unproblematic omissions.10 If state governments impose light penalties on
+offenders, or treat certain offenses (say, domestic violence) as unworthy of attention, they
+should not be able to escape public retribution by contending that they are simply
+refusing to act. Where government is concerned, failures of protection, through refusals
+to punish and deter private misconduct, cannot be justified by pointing to the distinction
+between acts and omissions.</p>
+      <p>It has even become common to speak of “risk-risk tradeoffs,” understood to arise
+when regulation of one risk (say, the risks associated with use of DDT) gives rise to
+another risk (say, the spread of malaria, against which DDT has been effective).11 Or
+suppose that an air pollutant creates adverse health effects but also has health benefits, as
+appears to be the case for ground-level ozone.12 No one believes that for moral reasons,
+social planners should refuse to take account of such tradeoffs; there is general agreement
+that whether a particular substance ought to be regulated depends on the overall effect of
+regulation on human well-being.</p>
+      <p>As an empirical matter, criminal law is pervaded by its own risk-risk tradeoffs. If
+the deterrent signal works, a failure to impose stringent penalties on certain crimes will
+increase the number of those crimes. A refusal to impose such penalties is, for that
+reason, problematic from the moral point of view. The very idea of “equal protection of
+the laws,” in its oldest and most literal sense, attests to the importance of enforcing the
+criminal and civil law so as to safeguard the potential victims of private violence.13 What
+we are suggesting is that the death penalty produces a risk-risk tradeoff of its own, indeed
+what we will call a life-life tradeoff, to the extent that a refusal to impose capital
+punishment yields a significant increase in the number of deaths of innocent people.</p>
+      <p>Of course this point does not resolve the capital punishment debate. By itself, the
+act of execution may be a wrong, in a way that cannot be said for an act of imposing civil
+or criminal penalties on (say) environmental degradation. But the existence of life-life
+tradeoffs raises the possibility that for those who oppose killing, a rejection of capital
+punishment is not necessarily mandated. On the contrary, it may well be morally
+compelled. At the very least, those who object to capital punishment, and do so in the
+name of protecting life, must come to terms with the fact that the failure to inflict capital
+punishment might fail to protect life—and must, in our view, justify their position in
+ways that do not rely on question-begging claims about the distinction between acts and
+omissions.</p>
+      <p>We begin, in Part I, with the facts. Contrary to widely-held beliefs, based on
+partial information or older studies, a wave of recent evidence suggests the possibility
+that capital punishment saves lives. One study finds that as a national average, each
+execution deters some eighteen murders. Our question whether capital punishment is
+morally obligatory is motivated by these findings; our central concern is that foregoing
+any given execution may be equivalent to condemning some eighteen unidentified people
+to a premature and violent death. Of course social science can always be disputed in this
+contentious domain, and we mean to outline, rather than to defend, the relevant evidence
+here. But the current findings do provide evidence of deterrence, and we think that it is
+illuminating to take those findings as given for purposes of analysis of the moral issues.
+Those who would like to abolish capital punishment, and who reject the social science,
+might find it useful to ask whether they would maintain their commitment to abolition if
+they were persuaded that capital punishment does have a strong deterrent effect; that is
+the principal issue that we mean to raise here.</p>
+      <p>In Part II, the centerpiece of the paper, we offer a few remarks on moral
+foundations and examine some standard objections to capital punishment that might seem
+plausible even in light of the current findings. We focus in particular on the crucial view
+that capital punishment is objectionable because it requires affirmative and intentional
+state “action,” not merely an “omission.” That distinction, we suggest, systematically
+misfires when applied to government, which is a moral agent with distinctive features.
+The act-omission distinction may not even be intelligible in the context of government,
+which always faces a choice among policy regimes, and in that sense cannot help but
+“act.”</p>
+      <p>Even if the distinction between acts and omissions can be rendered intelligible in
+regulatory settings, its moral relevance is obscure. Some acts are morally obligatory,
+while some omissions are morally culpable. If capital punishment has significant
+deterrent effects, we suggest that for government to omit to impose it is morally
+blameworthy, even on a deontological account of morality. Deontological accounts
+typically recognize a consequentialist override to baseline prohibitions; if each execution
+saves eighteen lives, on average, then it is plausible to think that the override is triggered,
+in turn triggering an obligation to adopt capital punishment.</p>
+      <p>Once the act/omission distinction is rejected where government is concerned, it
+becomes clear that the most familiar, and plausible, objections to capital punishment deal
+with only one side of the ledger: the objections fail to take account of the exceedingly
+arbitrary deaths that capital punishment apparently deters. We consider rule-of-law
+concerns about the irreversibility of capital punishment and its possibly random or
+invidious administration; a strict-scrutiny principle that capital punishment should not be
+permitted if other means for producing the same level of deterrence are available; and
+concerns about slippery slopes from capital punishment to other practices. We suggest
+that while some of these complaints have merit, they do not count as decisive objections
+to capital punishment, because they embody a flawed version of the act-omission
+distinction, and generally overlook the fact that the moral objections to capital
+punishment apply even more strongly to the murders that capital punishment deters.</p>
+      <p>In Part III, we conjecture that various cognitive and social mechanisms, lacking
+any claim to moral relevance, cause many individuals and groups to subscribe to
+untenable versions of the distinction between acts and omissions, or to underestimate the
+life-saving benefits of capital punishment while exaggerating the harms that it causes. An
+important concern here is a sort of misplaced concreteness, stemming from heuristics
+such as salience and availability. The single person executed is often more visible and
+more salient in public discourse than are the (on average) eighteen abstract statistical
+persons whose murders a single execution would deter. If those people, and their names
+and faces, were highly visible, we suspect that many of the objections to capital
+punishment would at least be shaken. As environmentalists have often argued, “statistical
+persons” should not be treated as irrelevant abstractions.14 The point holds for criminal
+justice no less than for pollution controls.</p>
+      <p>Part IV expands upon the implications of our view and examines some unresolved
+puzzles. Here we emphasize that we hold no brief for capital punishment across all
+contexts, or in the abstract. The crucial question is what the facts show in particular
+domains. We mean to include here a plea for a disaggregated approach. The evidence that
+14 Lisa Heinzerling, The Rights of Statistical People, 24 HARV. ENV. L. REV. 189, 189 (2000).
+capital punishment strongly deters murder is aggregate evidence based on national
+averages; future research and resulting policies would do well to take separate account of
+various regions and of various classes of offenders and offenses. We also emphasize that
+our argument is limited to the setting of life-life tradeoffs—settings in which the taking of
+a life by the state will reduce the number of lives taken overall. We express no view
+about cases in which that condition does not hold—for example, the possibility of capital
+punishment for serious offenses other than killing, with rape being the principal historical
+example, and with rape of children being a currently contested problem. Such cases
+involve distinctively difficult moral problems that we mean to bracket here. A brief
+conclusion follows.</p>
+      <p>I.</p>
+      <sec id="sec-2-1">
+        <title>Evidence</title>
+        <p>For many years, the deterrent effect of capital punishment was sharply disputed.15
+But a great deal of recent evidence strengthens the claim that capital punishment has
+large deterrent effects.16 The reason for the shift is that a wave of sophisticated
+econometric studies have exploited a newly-available form of data, so-called “panel data”
+that uses all information from a set of units (states or counties) and follows that data over
+an extended period of time. A leading study used county-level panel data from 3,054 U.S.
+counties between 1977 and 1996.17 The authors find that the murder rate is significantly
+reduced by both death sentences and executions. The most striking finding is that on
+average, each execution results in 18 fewer murders.18</p>
+        <p>Other econometric studies also find a substantial deterrent effect. In two papers,
+Paul Zimmerman uses state-level panel data from 1978 onwards to measure the deterrent
+effect of execution rates and execution methods. He estimates that each execution deters
+Gittings find that each execution deters five murders on average.20 They also find that
+increases in the murder rate come from removing people from death row and also from
+commutations in death sentences. Yet another study, based on state-level data from
+19971999, finds that a death sentence deters 4.5 murders and an execution deters three
+murders.21 The same study investigates the question whether executions deter crimes of
+passion and murders by intimates. The answer is clear: these categories of murder are
+deterred by capital punishment.22 The deterrent effect of the death penalty is also found to
+be a function of the length of waits on death row, with a murder deterred for every 2.75
+years of reduction in the period before execution.23</p>
+        <p>In the period between 1972 and 1976, the Supreme Court produced an effective
+moratorium on capital punishment, and an extensive study exploits that fact to estimate
+the deterrent effect. Using state-level data from 1960–2000, the authors make
+before-andafter comparisons, focusing on the murder rate in each state before and after the death
+penalty was suspended and reinstated.24 The authors find a substantial deterrent effect.
+After suspending the death penalty, 91% of states faced an increase in homicides—and in
+67% of states, the rate was decreased after reinstatement of capital punishment.25
+by state basis, Joanna Shepherd finds that the nation-wide deterrent effect of capital
+punishment is entirely driven by only six states—and that no deterrent effect can be
+found in the twenty-one other states that have restored capital punishment.27 What
+distinguishes the six from the twenty-one? The answer lies in the fact that states showing
+a deterrent effect are executing more people than states that do not. In fact the data show
+a “threshold effect”: deterrence is found in states that had at least nine executions
+between 1977 and 1996. In states below that threshold, no deterrence can be found.28
+This finding is intuitively plausible. Unless executions reach a certain level, murderers
+may act as if the death is so improbable as not to be worthy of concern.29 Her main lesson
+is that once the level of executions reaches a certain level, the deterrent effect of capital
+punishment is substantial.</p>
+        <p>All in all, the recent evidence of a deterrent effect from capital punishment seems
+impressive. But in studies of this kind, it is hard to control for confounding variables, and
+a degree of doubt inevitably remains. It remains possible that these findings will be
+exposed as statistical artifacts or will be found to rest on flawed econometric methods.
+More broadly, skeptics are likely to question the mechanisms by which capital
+punishment has a deterrent effect. On the skeptical view, many murderers lack a clear
+sense of the likelihood and perhaps even the existence of executions in their state; further
+problems for the deterrence claim are introduced by the fact that capital punishment is
+imposed infrequently and after long delays.30 In any case many murders are committed in
+a passionate state that does not lend itself to an all-things-considered analysis on the part
+of perpetrators.</p>
+        <p>As mentioned above, and as we discuss in Part IV, these suppositions are in some
+tension with existing evidence. But let us suppose that these doubts are reasonable. If so,
+26 JOANNA M. SHEPHERD, DETERRENCE VERSUS BRUTALIZATION: CAPITAL PUNISHMENT’S DIFFERING
+IMPACTS AMONG STATES (Emory Legal Scholarship Working Paper No. 1, 2004).</p>
+        <p>27 Id. at 38.
+28 Id. at 36 – 38.</p>
+        <p>29 Less intuitively, Shepherd finds that in thirteen of the states that had capital punishment, but executed
+few people, capital punishment actually increased the murder rate. She attributes this puzzling result to
+what she calls the “brutalization effect,” by which capital punishment devalues human life and teaches
+people about the legitimacy of vengeance. Id. at 37 – 38.</p>
+        <p>30 See Steven Levitt, Understanding Why Crime Fell in the 1990s, 18 J Econ Persp 163 (2004).
+should current findings be deemed irrelevant for purposes of policy and law? That would
+be an odd conclusion. In regulation as a whole, it is common to embrace some version of
+the Precautionary Principle31—the idea that steps should be taken to prevent significant
+harm even if cause-and-effect relationships remain unclear and even if the risk is not
+likely to come to fruition. Even if we reject strong versions of the Precautionary
+Principle,32 it hardly seems sensible that governments should ignore evidence
+demonstrating a significant possibility that a certain step will save large numbers of
+innocent lives.</p>
+        <p>For capital punishment, critics often seem to assume that evidence on deterrent
+effects should be ignored if reasonable questions can be raised about it. But as a general
+rule, this is implausible. In most contexts, the existence of reasonable questions is hardly
+an adequate reason to ignore evidence of severe harm. If it were, many environmental
+controls would be in serious jeopardy.33 We do not mean to suggest that government
+should commit what many people consider to be, prima facie, a serious moral wrong
+simply on the basis of speculation that this step will do some good. But a degree of
+reasonable doubt does not seem sufficient to doom capital punishment, if the evidence
+suggests that significant deterrence occurs.</p>
+        <p>In any event, we will proceed by stipulating to the validity of this evidence, in
+order to isolate the question of its moral significance. Our primary concern here is not to
+reach a final judgment about the evidence, but how to evaluate capital punishment given
+the assumption of a substantial deterrent effect. Those who doubt the evidence might ask
+themselves how they would assess the moral questions if they were ultimately convinced
+that life-life tradeoffs were actually involved—as, for example, in hostage situations in
+which officials are authorized to use deadly force to protect the lives of innocent people.</p>
+        <p>31 See generally ARIE TROUWBORST, EVOLUTION AND STATUS OF THE PRECAUTIONARY PRINCIPLE IN
+INTERNATIONAL LAW (2002); INTERPRETING THE PRECAUTIONARY PRINCIPLE (Tim O'Riordan &amp; James
+Cameron eds., 2002).</p>
+        <p>32 See, e.g., Julian Morris, Defining the Precautionary Principle, in RETHINKING RISK AND THE
+PRECAUTIONARY PRINCIPLE (2002).</p>
+        <p>33 Indeed, those skeptical of capital punishment invoked evidence to the effect that capital punishment
+did not deter, and argued, plausibly, that it would be a mistake to wait for definitive evidence before
+ceasing with a punishment that could not be shown to be reducing homicide. See Richard O. Lempert,
+Desert and Deterrence: An Assessment of the Moral Bases of the Case for Capital Punishment, 79 Mich. L.
+Rev. 1177, 1222-24 (1981). Here is a kind of precautionary principle, arguing against the most aggressive
+forms of punishment if the evidence suggested that they did not deter. We are arguing for a mirror-image
+precautionary principle when the evidence goes the other way.</p>
+        <p>If capital punishment does have a strong deterrent effect, there is a crucial
+implication: it must be the case that capital punishment is not a wholly capricious system
+of punishment, pervaded by false positives. At the very least, some or many prospective
+murderers must believe that the system has a high degree of accuracy. The simple reason
+is that if capital punishment were thoroughly error-prone and seen as such, the deterrent
+signal of the punishment would be so diluted that it would be extremely unlikely to
+produce such strong and consistent empirical traces as those described above. At the
+limit, if capital punishment were entirely random, falling with utter arbitrariness upon
+innocent and guilty alike, there would be no reason for any prospective criminal to factor
+it into calculations about the costs and benefits of crime. In this sense, it turns out, Justice
+Potter Stewart’s comparison of capital punishment to being struck by lightning does not
+hold for current systems (a point on which we will expand below).34 We do not mean to
+overstate this point. Of course it remains undeniable that capital punishment is sometimes
+imposed erroneously, and undeniable too that it is sometimes imposed arbitrarily or on
+invidious grounds within the set of guilty defendants. Nothing we say here is meant to
+suggest that states should be content with erroneous or arbitrary death sentences. But the
+evidence suggests that there is at least a high degree of accuracy, in the sense of avoiding
+false positives, in the infliction of capital punishment.</p>
+      </sec>
+      <sec id="sec-2-2">
+        <title>Capital Punishment: Moral Foundations and Four Objections</title>
+        <p>Assume, then, that capital punishment does save significant numbers of innocent
+lives. On what assumptions should that form of punishment be deemed morally
+unacceptable, rather than morally obligatory? Why should the deaths of those convicted
+of capital murder, a large fraction of whom are guilty in fact, be considered a more
+serious moral wrong than the deaths of a more numerous group who are certainly
+innocents?</p>
+        <p>We consider, and ultimately reject, several responses. Our first general contention
+is that opposition to capital punishment trades on a form of the distinction between acts
+and omissions. Whatever the general force of that distinction, its application to
+government systematically fails, because government is a distinctive kind of moral agent.
+34 Furman v. Georgia, 408 U.S. 238, 309 – 310 (1972) (Stewart, J., concurring).
+Our second general contention is that, apart from direct state involvement, the features
+that make capital punishment morally objectionable to its critics are also features of the
+murders that capital punishment deters. The principal difference, on the empirical
+assumptions we are making, is that in a legal regime without capital punishment, far more
+people die, and those people are innocent of any wrongdoing. No one denies that
+arbitrariness in the system of capital punishment is a serious problem. But even if the
+existing system is viewed in its worst light, it involves far less arbitrariness than does the
+world of homicide. Let us begin, however, with foundational issues.</p>
+      </sec>
+      <sec id="sec-2-3">
+        <title>A. Morality and Death</title>
+        <p>On a standard view, it is impossible to come to terms with the moral questions
+about capital punishment without saying something about the foundations of moral
+judgments. We will suggest, however, that sectarian commitments at the foundational
+level are for the most part irrelevant to the issues here. If it is stipulated that the evidence
+discussed in Part I is correct, both consequentialist and deontological accounts of
+morality will or should converge upon the view that capital punishment is morally
+obligatory. Consequentialists will do so because capital punishment minimizes killings
+overall. Deontologists will do so because an opposition to killing is, by itself,
+indeterminate in the face of life-life tradeoffs; because a legal regime with capital
+punishment has a strong claim to be more respectful of life’s value than does a legal
+regime lacking capital punishment; and because modern deontologists typically subscribe
+to a consequentialist override or escape-hatch, one that makes otherwise impermissible
+actions obligatory if necessary to prevent many deaths—precisely what we are assuming
+is true of capital punishment. Only those few deontologists who both insist upon a strong
+distinction between state actions and state omissions, and who reject a consequentialist
+override, will believe the deterrent effect of capital punishment irrelevant in principle.</p>
+        <p>Suppose that we accept consequentialism and believe that government actions
+should be evaluated in terms of their effects on aggregate welfare. If so, the evidence of
+deterrence strongly supports a moral argument in favor of the death penalty—which, by
+hypothesis, seems to produce a net gain in overall welfare. Of course there are many
+complications here; for example, the welfare of many people might increase as a result of
+knowing that capital punishment exists, and the welfare of many other people might
+decrease for the same reason. A full consequentialist calculus would require a more
+elaborate assessment than we aim to provide here. The only point is that if capital
+punishment produces significantly fewer deaths on balance, there should be a strong
+consequentialist presumption on its behalf. To be sure, it is also possible to imagine
+forms of consequentialism that reject welfarism as implausibly reductionist and that see
+violations of rights as part of the set of consequences that must be taken into account in
+deciding what to do.35 For some such consequentialists, killings are, under ordinary
+circumstances, a violation of rights, and this point is highly relevant to any judgment
+about killings. But even if the point is accepted, capital punishment may be required, not
+prohibited, on consequentialist grounds, simply because and to the extent that it
+minimizes rights violations.</p>
+        <p>But imagine that we are deontologists, believing that actions by government and
+others should not be evaluated in consequentialist terms; how can capital punishment be
+morally permissible, let alone obligatory? Suppose, for example, that under ordinary
+circumstances, killing a human being is a wrong, and its wrongness does not depend on
+an inquiry into whether it produces a net increase in welfare. For many critics of capital
+punishment, a deontological intuition is central; evidence of deterrence is irrelevant
+because moral wrongdoing by the state is not justified even if it can be defended on
+utilitarian grounds. Compare a situation in which a state seeks to kill an innocent person,
+knowing that the execution will prevent a number of private killings; deontologists
+believe that the unjustified execution cannot be supported even if the state is secure in its
+knowledge of its beneficial effects. Of course it is contentious to claim that capital
+punishment is a moral wrong. But if it is, then significant deterrence might be entirely
+beside the point.</p>
+        <p>Despite all this, our claims here do not depend on accepting consequentialism or
+on rejecting the deontological objection to evaluating unjustified killings in
+consequentialist terms. The argument is instead that by itself and in the abstract, this
+objection is indeterminate on the moral status of capital punishment. To the extent
+possible, we intend to bracket the most fundamental questions and to suggest that
+35 Amartya Sen, Rights and Agency, 11 PHIL. &amp; PUB. AFF. 3, 15 – 19 (1982).
+whatever one’s view of the foundations of morality, the objection to the death penalty is
+difficult to sustain under the empirical assumptions that we have traced. Taken in its most
+sympathetic light, a deontological objection to capital punishment is unconvincing if
+states that refuse to impose the death penalty produce, by that very refusal, significant
+numbers of additional deaths. For deontologists who emphasize life’s value and object to
+the death penalty, the problem is acute if the refusal to impose that penalty predictably
+leads to significant additional murders. In a hostage situation, police officers are
+permitted to kill (execute) those who have taken hostages if this step is reasonably
+deemed necessary to save those who have been taken. If the evidence of deterrence is
+convincing, why is capital punishment so different in principle?</p>
+        <p>Of course we could envision a form of deontology that refuses any exercise in
+aggregation—one that would refuse to authorize, or compel, a violation of rights even if
+the violation is necessary to prevent a significantly larger number of rights violations. But
+most modern deontologists reject this position, instead admitting a consequentialist
+override to baseline deontological prohibitions.36 Although the threshold at which the
+consequentialist override is triggered varies with different accounts, we will suggest
+below that if each execution deters some eighteen murders, the override is plausibly
+triggered.</p>
+        <p>To distill these points: the only moral accounts that are inconsistent with our
+argument are those that both (1) embrace a distinction between state actions and state
+omissions and (2) reject a consequentialist override. To those who subscribe to this
+complex of views, and who consider capital punishment a violation of rights, our
+argument will not be convincing. In the end, however, we believe that it is difficult to
+sustain the set of moral assumptions that would bar capital punishment if it is the best
+means of preventing significant numbers of innocent deaths. Indeed, we believe that
+those who think that they hold those assumptions are motivated by other considerations—
+especially a failure to give full weight to statistical lives—on which we focus in Part III.</p>
+        <p>36 For an overview, see Larry Alexander, Deontology at the Threshold, 37 SAN DIEGO L. REV. 893,
+898900 (2000).
+B. Acts and Omissions</p>
+        <p>A natural response to our basic concern would invoke the widespread intuition
+that capital punishment involves intentional state “action,” while the failure to deter
+private murders is merely an “omission” by the state. In our view, this appealing and
+intuitive line of argument goes rather badly wrong. The critics of capital punishment have
+been led astray by uncritically applying the act-omission distinction to a regulatory
+setting. Their position condemns the “active” infliction of death by governments, but
+does not condemn the “inactive” production of death that comes from the refusal to
+maintain a system of capital punishment. The basic problem is that even if this selective
+condemnation can be justified at the level of individual behavior, it is difficult to defend
+for governments.37 A great deal of work has to be done to explain why “inactive,” but
+causal, government decisions should not be part of the moral calculus. Suppose that we
+endorse the deontological position that it is wrong to take human lives, even if overall
+welfare is promoted by taking them. Why does the system of capital punishment violate
+that position, if the failure to impose capital punishment also takes lives?</p>
+        <p>Perhaps our argument about unjustified selectivity is blind to morally relevant
+factors that condemn capital punishment and that buttress the act-omission distinction in
+this context. There are two possible points here, one involving intention and the other
+involving causation. First, a government (acting through agents) that engages in capital
+punishment intends to take lives; it seeks to kill. A government that does not engage in
+capital punishment, and therefore provides less deterrence, does not intend to kill. The
+deaths that result are the unintended and unsought by-product of an effort to respect life.
+Surely—it might be said—this is a morally relevant difference. Second, a government
+that inflicts capital punishment ensures a simple and direct causal chain between its own
+behavior and the taking of human lives. When a government rejects capital punishment,
+the causal chain is much more complex; the taking of human lives is an indirect
+consequence of the government’s decision, one that is mediated by the actions of a
+murderer. The government authorizes its agents to inflict capital punishment, but does not
+37 Compare debates over going to war: Some pacifists insist, correctly, that acts of war will result in the
+loss of life, including civilian life. But a refusal to go to war will often result in the loss of life, including
+civilian life.
+authorize private parties to murder; indeed it forbids murder. Surely that is a morally
+relevant difference too.</p>
+        <p>In our view, both the argument from causation and the argument from intention
+go wrong by overlooking the distinctive features of government as a moral agent.
+Whatever the general status of the act-omission distinction as a matter of moral
+philosophy,38 the distinction is least impressive when applied to government.39 The most
+fundamental point is that unlike individuals, governments always and necessarily face a
+choice between or among possible policies for regulating third parties. The distinction
+between acts and omissions may not be intelligible in this context, and even if it is, the
+distinction does not make a morally relevant difference. Most generally, government is in
+the business of creating permissions and prohibitions. When it explicitly or implicitly
+authorizes private action, it is not omitting to do anything, or refusing to act.40 Moreover,
+the distinction between authorized and unauthorized private action—for example, private
+killing—becomes obscure when the government formally forbids private action, but
+chooses a set of policy instruments that do not adequately or fully discourage it.</p>
+        <p>A system of punishments that only weakly deters homicide, relative to other
+feasible punishments, does not quite authorize homicide; but it is not properly
+characterized as an omission, and little turns on whether it can be so characterized.
+Suppose, for example, that government fails to characterize certain actions—say, sexual
+harassment—as tortuous or as violative of civil rights law, and that it therefore permits
+employers to harass employees as they choose, or to discharge employees for failing to
+submit to sexual harassment. It would be unhelpful to characterize the result as a product
+of governmental “inaction.” If employers are permitted to discharge employees for failing
+to submit to sexual harassment, it is because the law is allocating certain entitlements to
+employers rather than employees. Or consider the context of ordinary torts. When
+homeowner B sues factory A, complaining of air pollution, a decision not to rule for B is
+not a form of inaction; it is the allocation to factory A of property right to pollute.</p>
+        <p>Let us apply these points, beginning with the causal version of the argument in
+favor of an act-omission distinction. For concreteness, suppose that government officials
+face a choice between two (and only two) packages of policies for reducing the murder
+rate. Suppose that Package A contains a range of legal instruments, such as ordinary
+imprisonment, imprisonment without parole (perhaps for life), post-incarceration
+programs to prevent recidivism, and so on. Package B contains all the same instruments
+plus capital punishment.</p>
+        <p>Stipulating to the validity of the evidence discussed in Part I, the crux of the issue
+is this: whatever the nature of the causal chain, Package A will inevitably ensure a
+significant increase in the number of deaths. Why should the length of the causal chain
+matter? In this setting, it is hard to make sense of the claim that capital punishment
+involves causal government “action” in some morally distinctive way. For government to
+opt for Package A—even in the sense of simply leaving in place previously-enacted laws
+that adopted Package A—is no less an “action” than it is to opt for Package B. Some
+criminal-justice policy or other will necessarily be in place. The only interesting or even
+meaningful question government ever faces is not whether to act, but what action should
+be taken—what mix of criminal-justice policies government ought to pursue. The policy
+mix that does not include capital punishment is not an “omission” or a “failure to act” in
+any meaningful sense. If a government chooses that mix, it is allocating a certain set of
+rights to both murderers and their victims; the latter are certainly given a right to be free
+from murder, but the right is limited by the terms of the anticipated punishment. In the
+extreme case, suppose that a state failed to punish certain classes of murders (say, those
+of African-Americans), or that it punished such murders only infrequently, or that it
+punished such murders with a slap on the wrist. If so, the distinction between authorizing
+murder, and failing to prevent it, would become thin.</p>
+        <p>The allied idea that capital punishment involves “intentional” action, whereas
+merely allowing (undeterred) private murders to proceed does not, misfires for parallel
+reasons. Consider a situation in which regulators refuse to adopt motor vehicle or drug
+safety regulations that would prevent significant numbers of statistical deaths; is the</p>
+        <p>Perhaps the torture example fails to get to the heart of what is most objectionable
+in our argument. Return to a problem raised above and focus on the following question:
+“Suppose that holding a show trial to frame and convict one innocent person of murder
+would deter eighteen real murders. Wouldn’t you be obliged to defend that, crazy as it
+is?” On one view, the question is fair. It is possible to imagine a finding that a show trial
+of this sort would deter murders, so that the failure to hold show trials is, in effect,
+condemning large numbers of people to unjustified deaths. On utilitarian grounds, the
+show trials might be permissible or even mandatory. On deontological grounds, the
+answer is at first clear: The state cannot take the lives of innocent people. But if our
+argument is correct, the deontological argument might not be so clear after all: Might not
+the failure to conduct show trials be a way of taking the lives of innocent people, too?</p>
+        <p>The problem with slippery slope questions of this kind is that they often obscure
+more than they clarify.66 First, as Rawls pointed out long ago, the systemic effects of a
+government policy that allowed sham convictions of the innocent, including debilitating
+uncertainty for other innocents, would themselves have to be folded into the overall
+assessment.67 Only a conspiracy to keep the policy secret would prevent the unraveling.
+No such conspiracy is likely to succeed. Put differently, such a policy would violate the
+publicity constraint emphasized by Rawls and others. It could not be defended publicly
+and still accomplish its central goal.68 The publicity constraint is a principle of political
+morality that can be given both deontological and consequentialist justifications,69 so
+moral theorists of many stripes could reject this sort of hypothetical.</p>
+        <p>Second, it is not clear how policymakers could have reliable evidence about the
+deterrent effects of show trials, torture or other disturbing practices without first
+experimenting on hapless victims; and the necessary experimentation might well be
+impermissible on moral grounds ex ante, even if the policies themselves would be
+66 Note that a widely held view, which we do not mean to endorse, insists that there is a kind of moral
+floor for the infliction of severe punishment, a floor that rules out punishment of the innocent, or
+punishment that is grossly excessive in comparison to the crime, but that permits the death penalty, if the
+evidence supports it, after people have been convicted, under stringent standards, of committing especially
+egregious murders.. Of course any floor will be controversial, and the most adamant opponents of capital
+punishment might believe that it is below the floor by its very nature.</p>
+        <p>67 See John Rawls, Two Concepts of Rules, 67 PHILOSOPHICAL REVIEW 3-32 (1955).
+68 On the publicity condition, see John Rawls, A Theory of Justice (1971).</p>
+        <p>69 For an overview of issues, see David Luban, The Publicity Principle, in THE THEORY OF
+INSTITUTIONAL DESIGN 154 (Robert Goodin ed. 1996).
+permissible given certain experimental findings ex post. Capital punishment, however, is
+already the status quo in most states, and policymakers already have many decades’
+worth of reliable data about its deterrent effects.</p>
+        <p>Finally, and most fundamentally, we doubt that the intuitions that drive extreme
+hypotheticals of this sort have moral significance in any event. Of course it is prima facie
+objectionable, worse than outrageous, if the state proposes to kill people whom it knows
+to be innocent. The widely held moral and legal norm against executions of innocent
+people is certainly an individual and social good, whatever one’s views about the
+foundations of morality. But suppose that a situation arises in which execution of an
+innocent person really is the only way to save eighteen, or eighty, or eighteen hundred
+innocent people. There is no reason to think that intuitions about the extreme cases are
+reliable trackers of moral truth, or to assume that such intuitions have any privileged
+connection to what a considered moral theory would permit or require; consider the
+obvious tension between any such intuitions and the accepted practice of killing
+hostagetakers. We offer more remarks on the moral status of particular intuitions below, and in
+Part III.</p>
+      </sec>
+      <sec id="sec-2-4">
+        <title>F. Deontology and Consequentialism Again</title>
+        <p>What is the relationship between the foregoing argument, particularly our
+rejection of the act-omission distinction as applied to government’s policy choices, and
+standard debates about deontological and consequentialist approaches in moral theory?
+We do not think this is a crucial analytic lens for the questions we address.70 As we have
+emphasized, our argument does not challenge deontological claims as such, except
+insofar as they apply the act-omission distinction to government and reject any
+consequentialist override of deontological injunctions. The simple injunction “thou shalt
+not kill” is too general to cut between the relevant options at the lower level of policy
+choice. If capital punishment strongly deters killings, and if the government that eschews
+capital punishment can fairly be charged with those killings, then the government’s only
+70 For a recent argument that most or all substantive moral positions can be formulated at will in either
+deontological or consequentialist terms, see Campbell Brown, Consequentialise This (2004), at
+http://socpol.anu.edu.au/~cbrown/papers/ConsThis.pdf.
+choices are to kill more or to kill fewer; the deontological injunction might then be
+interpreted to require rather than to forbid capital punishment.</p>
+        <p>To be sure, some opponents of capital punishment tend to build the act-omission
+distinction directly into the deontological injunction itself. “Thou shalt not kill” might be
+interpreted just to mean that the state and its agents shall not themselves kill. Moreover,
+opponents sometimes assume away the problem of consequentialist overrides. But as we
+have seen, both the act-omission distinction, and the idea that deontological injunctions
+are absolute, are highly contentious assumptions; they require independent arguments on
+their behalf. In many cases, no such argument is offered; all that is typically offered is an
+intuition that the state must not kill, period.</p>
+        <p>We do not believe that, upon reflection, the intuition can be defended, nor do we
+think that case-specific intuitions should be morally dispositive. In part this is because of
+familiar arguments in moral theory that commitments to generalizable moral principles
+should trump intuitions in particular cases.71 In part it is because the reliability of such
+intuitions is highly suspect. Recent research in cognitive psychology, which we discuss in
+Part III, suggests that the intuitions underpinning the act-omission distinction may
+represent cognitive errors, without any moral relevance or larger importance. The only
+point we emphasize here is that, in light of the recent evidence that capital punishment
+powerfully deters killings, an opposition to killing is most naturally understood to support
+capital punishment rather than to undercut it. Opponents of capital punishment who build
+the act-omission distinction directly into an absolutist deontological injunction, by stating
+a position against state killing with no consequentialist override, face the prospect that
+their position will ultimately come to rest upon little more than an inarticulate intuition, a
+conclusion masquerading as an argument.</p>
+        <p>Overall, the crucial question is what the facts show, a point to which we return in
+Part IV. Perhaps capital punishment might best be restricted to certain classes of
+offenders or offenses, or even to certain geographic regions; different polities might, in
+their different factual circumstances, each do well by adopting or rejecting capital
+punishment as appropriate. It might even turn out that the system of capital punishment is
+so riddled with errors and arbitrariness that it would be unwise and unjust to adopt it,
+71 See generally R.M. HARE, MORAL THINKING: ITS LEVELS, METHODS, AND POINT (1981).
+simply because it is a hopelessly defective tool of criminal justice. Although we doubt
+very much that this is so, for the reasons given in Part I, it could be so, and a belief that it
+is so would supply a very respectable reason for opposing capital punishment. What does
+not supply such a reason is an indeterminate and unprocessed intuition that the state
+should not “kill.”</p>
+        <p>None of this is to suggest that intuitionism is the only possible basis for opposing
+capital punishment; of course it is not. Perhaps the death penalty is opposed (as it is
+sometimes endorsed) on expressivist grounds; perhaps the social meanings of capital
+punishment are what drive opponents as well as advocates.72 But if the evidence outlined
+here is correct, expressivist opposition is not so easy to sustain. A failure to protect
+workers against severe occupational risks is objectionable on expressive grounds because
+it reflects contempt for the safety of workers.73 A failure to take steps that would prevent
+significant numbers of murders is itself expressively objectionable, on parallel grounds.</p>
+        <p>There is a final point, involving democracy itself. On one view, government’s
+central obligation is to follow the public will, assuming that it has been properly focused
+and channeled through processes of public deliberation.74 If the public opposes capital
+punishment, and insist on an act-omission distinction, then officials should oppose it too,
+unless, perhaps, opposition can be shown to be ill-informed or to have failed the minimal
+requirements of political deliberation. And on this view, public support for capital
+punishment would be presumptively binding as well. We do not mean to say anything
+contentious about democratic legitimacy here. Both citizens and representatives must ask
+themselves about what morality requires. If a life-life tradeoff is involved, the moral
+question is inevitably affected. And if capital punishment saves large numbers of
+innocent lives, then participants in democracies are obliged to take note of that fact.</p>
+      </sec>
+      <sec id="sec-2-5">
+        <title>III. Cognition and Capital Punishment</title>
+        <p>Those who object to capital punishment, and who are not much moved by
+evidence of deterrence, believe that they are operating in accordance with a freestanding
+moral principle. They will not be enthusiastic about the suggestion that their moral
+72 See Dan M. Kahan, The Secret Ambition of Deterrence, 113 Harv L Rev 413 (1999).
+73 See Elizabeth Anderson, Value In Ethics and Economics (1993).
+74 See William Bessette, The Mild Voice of Reason (1993).
+judgments are instead a product of some kind of cognitive error. But in the regulatory
+domain as a whole, it has become standard to say that cognitive processes contribute to
+large mistakes, at least on questions of fact.75 For risk regulation, people do seem to focus
+on a subset of the harms at stake, in a way that produces both excessive and insufficient
+reactions to environmental problems.76 More generally, a form of “tradeoff neglect”
+pervades regulatory policy77; and it is easy to imagine that the moral domain has its own
+kinds of tradeoff neglect. For example, it is common, in the environmental domain, to
+focus on the risks associated with some kind of environmental degradation, but to neglect
+the risks associated with environmental regulation; and those who focus on the costs of
+regulation often neglect the risks of inaction.78</p>
+        <p>In a related vein, a great deal of recent work has emphasized the possibility that
+heuristics and biases can be found in the moral arena, ensuring that deeply felt moral
+intuitions are a result of errors and confusions.79 This is a possibility and no more.
+Certainly we cannot demonstrate that opposition to capital punishment is rooted in
+selective attention or an identifiable heuristic. But return to the hostage situation to which
+we have referred: Police officers are permitted to kill those who have taken hostages, at
+least if the killing is reasonably believed to be necessary to save human lives. If capital
+punishment is deemed differently, it might be because the lives to be saved are merely
+statistical, as compared with the lives of hostages, which are entirely vivid. More
+generally, consider two points, the first involving salience, the second involving the
+foundations of the act-omission distinction.</p>
+        <p>75 Roger G. Noll &amp; James E. Krier, Some Implications of Cognitive Psychology for Risk Regulation, 19 J.
+LEGAL STUD. 747, 777 (1990).</p>
+        <p>76 This is the theme of HOWARD MARGOLIS, DEALING WITH RISK: Why the Public and the Experts
+Disagree on Environmental Issues (1996).</p>
+        <p>77 Id.
+78 Id.</p>
+        <p>79 See, e.g., Jonathan Baron, Heuristics and Biases in Equity Judgments: A Utilitarian Approach, in
+PSYCHOLOGICAL PERSPECTIVES ON JUSTICE (Barbara A. Mellers &amp; Jonathat Baron eds., 1993); Jonathan
+Haidt, The Emotional Dog and Its Rational Tail: A Social Intuitionist Approach to Moral Judgment, 108
+PSYCHOL. REV. 814 (2001); Cass R. Sunstein, Moral Heuristics (2d John M. Olin L. &amp; Econ. Working
+Paper No. 180, 2003).
+A. Salience</p>
+        <p>It is obvious that people’s reactions to factual and moral questions are much
+affected by vividness or salience.80 If an event, such as a terrorist attack, seems salient,
+people will think it is more likely to occur. And if an event is salient, people may not pay
+much attention to less salient possibilities, such as the risk that a response to a terrorist
+attack will cause a significant number of deaths of its own. When people neglect
+tradeoffs, it is often because one aspect of the situation is highly visible, or “on screen,”
+while other aspects are less visible or perhaps invisible.</p>
+        <p>Consider in this regard the life-life tradeoffs involved with capital punishment.
+Those subject to capital punishment are real human beings, with their own backgrounds
+and narratives. Some of them have been subject to multiple forms of unfairness, in the
+legal process and elsewhere. At least some were wrongly convicted. By contrast, those
+whose lives are or might be saved by virtue of capital punishment are mere “statistical
+people.”81 They are both nameless and faceless, and their deaths are far less likely to
+count in moral deliberations. It is, for this reason, perhaps, that the advocates of capital
+punishment often focus on the heinousness of the (salient) offender, while the
+abolitionists focus on his or her humanity. We suspect that the discussion would take a
+different form if the victims of a regime lacking capital punishment were salient too82;
+and the example of police behavior in hostage situations supports the suspicion. None of
+this establishes the claim that the death penalty is morally required if it saves far more
+lives than it ends. But it does raise the possibility that moral intuitions, for many people,
+are a product of the salience of one set of deaths and the invisibility or speculativeness of
+another.</p>
+        <p>80 See SCOTT PLOUS, THE PSYCHOLOGY OF JUDGMENT AND DECISION MAKING 125-26, 178-80 (1993)
+(discussing the salience heuristic and the closely related heuristics of vividness and availability). Cf. Robert
+M. Reyes, William C. Thompson &amp; Gordon H. Bower, Judgmental Biases Resulting from Differing
+Availabilities of Arguments, 39 J. PERSONALITY &amp; SOC. PSYCHOL. 2, 5-12 (1980) (demonstrating that
+vivid, concrete information exerts greater influence on mock jury deliberations than abstract, pallid
+information).</p>
+        <p>81 See Lisa Heinzerling, The Rights of Statistical People, 24 HARV. ENV. L. REV. 189, 189 (2000).
+82 Cf. PHILIP K. DICK, THE MINORITY REPORT (2002).
+B. Acts, Omissions, and Brains</p>
+        <p>Outside of the domain of government, we have not questioned the act-omission
+distinction here. But in some settings, it may be worth considering the possibility that the
+act-omission distinction operates as a heuristic for a more complex and difficult
+assessment of the moral issues at stake.83 Consider in this regard the dispute over two
+well-known problems in moral philosophy.84 These problems do not involve the
+actomission distinction, but they implicate closely related concerns. We suggest that
+people’s asymmetrical reactions to the two problems say a great deal about the operation
+of the act-omission distinction.</p>
+        <p>The first, called the trolley problem, asks people to suppose that a runaway trolley
+is headed for five people, who will be killed if the trolley continues on its current course.
+The question is whether you would throw a switch that would move the trolley onto
+another set of tracks, killing one person rather than five. Most people would throw the
+switch. The second, called the footbridge problem, is the same as that just given, but with
+one difference: the only way to save the five is to throw a stranger, now on a footbridge
+that spans the tracks, into the path of the trolley, killing that stranger but preventing the
+trolley from reaching the others. Most people will not kill the stranger. What is the
+difference between the two cases, if any? A great deal of philosophical work has been
+done on this question, much of it trying to suggest that our firm intuitions can indeed be
+defended in principle.85</p>
+        <p>Without engaging these arguments, consider a suggestive experiment designed to
+see how the human brain responds to the two problems.86 The authors do not attempt to
+answer the moral questions in principle, but they find “that there are systematic variations
+in the engagement of emotions in moral judgment,”87 and that brain areas associated with
+emotion are far more active in contemplating the footbridge problem than in
+contemplating the trolley problem. An implication of the authors’ finding is that human
+83 The argument is ventured in JONATHAN BARON, JUDGMENT MISGUIDED: INTUITION AND ERROR IN
+PUBLIC DECISION MAKING (1998).</p>
+        <p>84 See JUDITH JARVIS THOMSON, RIGHTS, RESTITUTION, AND RISK: ESSAYS IN MORAL THEORY 94-116
+(1986).</p>
+        <p>85 Id.</p>
+        <p>86 Joshua Green et al., An fMRI Investigation of Emotional Engagement in Moral Judgment, 293 SCIENCE
+2105 (2001).</p>
+        <p>87 Id. at 2107.
+brains are hard-wired to distinguish between bringing about a death “up close and
+personal” and doing so at a distance. 88</p>
+        <p>Of course this experiment is far from decisive; emotions and cognition are not
+easily separable,89 and there may be good moral reasons why certain brain areas are
+activated by one problem and not by the other. Perhaps the brain is closely attuned to
+morally relevant differences. But consider the case of fear, where an identifiable physical
+region of the brain makes helpfully immediate but not entirely reliable judgments.90 So
+too, very plausibly, in the context of morality.91</p>
+        <p>For capital punishment, the implication is straightforward. For many people, the
+prospect of lethal executions is akin to the prospect of throwing the stranger in the
+footbridge problem; we expect that the relevant part of the brain would light up for most
+people who sincerely imagine themselves in the position of executioner. But for almost
+everyone, no such lights would be found after learning that the consequence of abolishing
+capital punishment was to ensure somewhere between eight and twenty-eight statistical
+deaths for each foregone execution. No unambiguous moral lesson follows from an
+understanding of the operation of the human brain. But it is perhaps illuminating if moral
+judgments are caused by rapid intuitions that do not involve a great deal of cognitive
+work, and that have no obvious connection to the morally relevant features of the
+situation.</p>
+      </sec>
+      <sec id="sec-2-6">
+        <title>C. A Famous Argument That Might Be Taken as a Counterargument</title>
+        <p>Our general claims might be thought to run up against Bernard Williams’
+wellknown critique of utilitarianism, rooted largely in a story about an unfortunate tourist
+named Jim.92 In Williams’ tale. Jim is a tourist in a small town in South America. He
+notices that twenty Indians are about to be shot. The leader of the shooters gives Jim a
+chance to save all but one of the Indians, for a price: Jim has to shoot one of them.
+Williams believes that for utilitarians, the moral answer is clear: Jim should shoot. But in
+88 Id.
+89 See MARTHA C. NUSSBAUM, UPHEAVALS OF THOUGHT: THE INTELLIGENCE OF EMOTIONS (2001).
+90 See Joseph E. LeDoux &amp; Jeff Muller, Emotional Memory and Psychopathology, 352 Philosophical
+Transactions: Biological Sciences 1719, 1719 (1997).</p>
+        <p>91 Joshua Green &amp; Jonathan Haidt, How (And Where) Does Moral Judgment Work?, 6 Trends in
+Cognitive Sciences 517, 522 – 23 (2002).</p>
+        <p>92 See J. J. C. SMART &amp; BERNARD WILLIAMS, UTILITARIANISM: FOR AND AGAINST 98-99 (1973).
+his view, it is not clear that this is what morality requires. In Williams’ words,
+utilitarianism “cuts out a kind of consideration which for some others makes a difference
+to what they feel about such cases: a consideration involving the idea, as we might first
+and very simply put it, that each of us is especially responsible for what he does, rather
+than for what other people do.”93 Williams asks: “how can a man, as a utilitarian agent,
+come to regard as one satisfaction among others, and a dispensable one, a project or
+attitude round which he has built his life, just because someone else’s projects have so
+structured the causal scene that that is how the utilitarian sum come out?”94</p>
+        <p>We believe that an intuition akin to Williams’ helps to explain opposition to
+capital punishment even in the face of evidence of the sort that we have outlined. But
+there are three responses. Most modestly: Capital punishment, on the evidence given
+here, more closely resembles a hostage situation than Jim’s case. Recall that police
+officers are permitted, even expected, to use deadly force against those who have taken
+hostages if that is the only way to save innocent people. Those who are subject to capital
+punishment are (almost always) egregious wrongdoers, not innocents. Somewhat less
+modestly: An understanding of the attitudes around which people have built their lives
+might constrain people, but such an understanding does not constrain states, at least not in
+the same way. If Jim is a police officer, asked to save twenty hostages, he might well be
+morally obliged to shoot one of them if that is the only way to save the other nineteen. If
+Jim is the head of state, asked to engage in military intervention to prevent a mass
+slaughter (say, in Rwanda), it is not so clear that he should refuse even if he knows that
+military intervention will also result in innocent deaths at the hands of his own military.
+At the very least, the moral question cannot be answered, at the level of the state, by
+insisting “that each of us is especially responsible for what he does, rather than for what
+other people do.” Less modestly still: Williams ‘ own arguments seem to us to rely on
+question-begging claims about causation, and about what counts as intentional action. He
+is right to say that we are particularly responsible for what we do; but in Jim’s case, how
+does that precept cash out, exactly? Granted that Jim faces bad choices, through no fault
+93 Id. at 99.
+94 Id at 116.
+of his own; but can Jim disclaim responsibility for the unnecessary death of nineteen
+people?
+IV. Implications and Future Problems</p>
+        <p>Here we expand upon the implications of our approach and highlight some
+remaining puzzles, not with a view to resolving all issues, but with a view to indicating
+the contours of existing puzzles and some possible directions for future research. We also
+emphasize that our argument is limited to the setting of life-life tradeoffs: cases in which
+capital punishment is used to deter killing, rather than other offenses.</p>
+      </sec>
+      <sec id="sec-2-7">
+        <title>A. Threshold Effects (?) and Regional Variation</title>
+        <p>The statistic that each execution saves eighteen lives, on average, is an aggregated
+statistic based on national-level data—something like a national average. Averages can
+be misleading, of course, and a look at regional variation suggests a potentially
+complicated picture. The most recent work suggests that states fall into three sets: a set of
+states in which capital punishment deters very strongly, a set in which it has no deterrent
+effect at all, and even a set in which capital punishment has perverse effects, slightly
+raising murder rates. The pronounced deterrent effect at the level of the national average
+occurs because, where capital punishment does deter, it deters powerfully. As we
+mentioned in Part I, Joanna Shepherd suggests there is a “threshold effect” at work here:
+in states that execute very few, capital punishment either has no effect or even backfires,
+perhaps because (Shepherd conjectures) a “brutalization effect” operates; while states that
+execute a larger number see large deterrent effects. Whatever the validity of the particular
+mechanisms Shepherd proposes, it seems plausible that capital punishment deters
+strongly in one set of states and has little effect in others. If this is correct, does it
+undermine our thesis?</p>
+        <p>The simple answer is no, not at all, because we hold no brief to promote capital
+punishment everywhere, at all times and places. Where capital punishment is a powerful
+deterrent, we have suggested that states may well be morally obligated to adopt it. Where
+capital punishment does not powerfully deter, the empirical predicate for that obligation
+disappears. Retributivists might continue to argue for capital punishment on other
+grounds, but we are not retributivists and see no inherent moral necessity for capital
+punishment if it produces little in the way of benefits in the protection of human life. If
+future work were to overturn the recent evidence that capital punishment deters, that
+work would also in our view overturn the case for capital punishment altogether.</p>
+      </sec>
+      <sec id="sec-2-8">
+        <title>International Variation</title>
+        <p>What holds for variation across states within the United States holds a fortiori for
+variation across liberal democratic polities. The European Union and its member states
+firmly reject capital punishment as violative of human dignity; more broadly, the United
+States is one of only a small number of nations that permit capital punishment. How does
+this bear upon our thesis? The short answer is that we have nothing to say about such
+polities, because the relevant facts are not yet known. It might turn out that, due to
+variation in some relevant factor, capital punishment is appropriate for our circumstances
+but not for the circumstances of (some set of) other polities; nothing in our view excludes
+this. If capital punishment turns out to deter strongly in some populations, or given some
+background legal and economic systems, but not otherwise, then the scope of the moral
+obligation to adopt capital punishment would vary accordingly. Israel does not execute
+terrorists, in part because of a belief that executions of terrorists would breed more
+terrorism; if the belief is correct, as seems plausible, then the failure to use capital
+punishment is correct too. (Those who favor capital punishment on retributive grounds
+might ask whether they reject Israel’s policy.)</p>
+      </sec>
+      <sec id="sec-2-9">
+        <title>C. Offenders and Offenses</title>
+        <p>Other dimensions of variation include differences in classes of offenses (murders
+for profit versus murders animated by passion) and in classes of offenders (juvenile
+murders, mentally disabled murders, and so on). As we noted in discussing the argument
+from slippery slopes, no a priori argument either precludes or mandates extending capital
+punishment to all such cases, because a priori argument is not helpful here.</p>
+        <p>Let us consider the example of juvenile offenders. In a recent decision, the
+Supreme Court held that capital punishment may not be inflicted upon offenders who
+were under 18 years old at the time of the offense.95 Acknowledging the paucity of
+95 Roper v. Simmons, 125 S. Ct. 1183, 1198 (2005).
+evidence either way, the Court speculated that such offenders are less deterrable than
+adults.96 Below, we will review findings suggesting, by analogy to crimes of passion, that
+the speculation is mistaken. What if the facts turn out to be otherwise than the Court
+guessed? Suppose that there turns out to be a significant class of 15-year-old murderers,
+perhaps predominantly murdering other 15-year-olds; and suppose that relevant data
+suggested that allowing capital punishment for 15-year-olds would significantly deter
+those murders.</p>
+        <p>In our view, there is a strong argument that states would then be morally obligated
+to extend capital punishment to such cases (bracketing whether such a course would be
+legally permitted). If the obligation would attach, it is precisely because killing
+15-yearolds is morally unacceptable, and because capital punishment would be the best system
+for reducing overall the number of such killings; only an implausible version of the
+act/omission distinction would suggest otherwise. On the other hand, suppose that the
+Court’s speculation is correct, and that murders by juveniles turn out to be genuinely
+undeterrable, perhaps because juveniles are not yet capable of reasoning clearly about the
+expected costs and benefits of crime, or frequently act out of uncontrollable passion.
+Then the factual predicate for our view would simply fail to apply.</p>
+        <p>The same holds true for classes of offenses. The recent work has suggested,
+contrary to the intuitions of many, that capital punishment may well deter types of
+murders previously thought undeterrable.97 In particular, the frequent conjecture that
+murders animated by passion are undeterrable turns out to be erroneous. Should future
+work identify such a category of undeterrable murders, however, our view would
+straightforwardly entail that capital punishment ought not extend to such cases.</p>
+      </sec>
+      <sec id="sec-2-10">
+        <title>D. Life-Life Tradeoffs and Beyond</title>
+        <p>Every case we have discussed so far involves what we have called life-life
+tradeoffs: cases in which state execution deters many private executions. A very different
+set of moral and institutional problems arises when the issue is whether capital
+punishment should be used to deter serious offenses other than killing. Consider the
+96 Id. at 1196.
+97 Shepherd, supra note 21, at 305.
+sentence of capital punishment for particularly serious forms of rape, which the Supreme
+Court invalidated as cruel and unusual punishment.98 Apart from constitutional
+constraints, would states be morally obligated to employ capital punishment if it could be
+shown, empirically, that each such execution would deter many future rapes?</p>
+        <p>We have given simple answers to the foregoing questions about variation in
+regional and international circumstances, and in classes of offenders and offenses, but no
+simple answers are possible here. The reason is that, unlike the other cases, the harms on
+the two sides of the ledger are not the same. Where capital punishment of murderers is at
+issue, the taking of life is the only morally relevant action in the picture, and the state’s
+taking of life is entirely commensurable with the crimes it deters. (This assumes that one
+rejects, as we did in Part II, the attempt to build the act-omission distinction right into the
+definition of the relevant action. We have rejected, in other words, the idea that the state’s
+taking of life is itself a morally different act from the “private” taking of life that is made
+possible by the state’s choice of a criminal-justice policy that does not include capital
+punishment). When other offenses are at issue, additional moral questions of
+commensurability and of aggregation arise. May the state inflict a permanent deprivation
+of all personhood (death) upon a few to deter serious, but temporary, deprivations of
+autonomy (rape) that would otherwise be inflicted upon many? What if the many are
+children? The moral analysis here will necessarily be more complicated. If a utilitarian or
+consequentialist framework is used, the effects must be “translated” in some way so as to
+permit tradeoffs to occur. Suppose that an execution of a rapist would deter thirty rapes;
+how should capital punishment be evaluated in that event? It is most unclear how to think
+about these and similar cases; here we mean to bracket such questions entirely.</p>
+      </sec>
+      <sec id="sec-2-11">
+        <title>Conclusion</title>
+        <p>We conjecture that something like the following set of views about capital
+punishment has been and probably still is widespread in the legal academy. Capital
+punishment does not deter, or at least the evidence that it does so is essentially
+98 See Coker v. Georgia, 433 U.S. 584, 598 (1977).
+nonexistent99; some categories of murders, especially crimes of passion, are undeterrable
+(at least by capital punishment);100 even if capital punishment has a deterrent effect, the
+effect is marginal, perhaps because of the relatively small number of capital sentences
+and the long time lags between sentencing and execution;101 the system of capital
+punishment is rife with error and arbitrariness.102</p>
+        <p>The recent evidence raises doubts about all of these views. Capital punishment
+may well have strong deterrent effects; there is evidence that few categories of murders
+are inherently undeterrable, even so-called crimes of passion; some studies find
+extremely large deterrent effects; error and arbitrariness undoubtedly occur, but the
+evidence of deterrence suggests that prospective murderers are receiving a clear signal.</p>
+        <p>The moral and legal commentary on capital punishment ought to be sensitive to
+any significant revision in what we know. Life-life tradeoffs are inescapably involved. In
+light of recent evidence, a government that settles upon a package of crime-control
+policies that does not include capital punishment might well seem, at least prima facie, to
+be both violating the rights and reducing the welfare of its citizens—just as would a state
+that failed to enact simple environmental measures promising to save a great many lives.</p>
+        <p>The most common basis for resisting this conclusion, and our principal target
+here, is some version of the distinction between acts and omissions. Opponents of capital
+punishment frequently appeal to an intuition that intentional killing by the government
+and its agents is morally objectionable in a way that simply allowing private killings is
+not. Whatever the general merits of the distinction between acts and omissions in the
+moral theory of individual conduct, we think it gets little purchase on questions of
+governmental policy. Government cannot help but act in ways that affect the actions of
+citizens; where citizens decide whether or not to kill each other in light of government’s
+policies, it is not clear even as a conceptual matter what it would mean for government
+not to act. For government to adopt a mix of criminal-justice policies that happens not to
+include capital punishment is not an “omission” or a “failure to act” in any meaningful
+sense. Likewise, deontological injunctions against unjustified killing, which we have not
+99 See Richard O. Lempert, Desert and Deterrence: An Assessment of the Moral Bases of the Case for
+Capital Punishment, 79 Mich. L. Rev. 1177, 1222 (1981).</p>
+        <p>100 See id. at 1193 – 94.
+101 See id. at 1192 – 93.
+102 See id. at 1224.
+questioned here, are of little help in these settings. Unjustified killing is exactly what
+capital punishment prevents.</p>
+        <p>If this argument is correct, it has broad implications, some of which may not be
+welcomed by advocates of capital punishment. Government engages in countless
+omissions, many of which threaten people’s health and safety; consider the failure to
+reduce highway fatalities, to regulate greenhouse gas emissions, to prevent domestic
+violence, to impose further controls on private uses of guns, even to redistribute wealth to
+those who most need it. Suppose that it is not sensible, in these and other contexts, to
+characterize government omissions as such, or suppose that even if the characterization is
+sensible, it lacks moral relevance. If so, then government might well be compelled, on
+one or another ground, to take steps to protect people against statistical risks, even if
+those steps impose costs and harms; much will depend on what the facts show.103</p>
+        <p>Any objection to capital punishment, we believe, must rely on something other
+than abstract injunctions against the taking of life. If the recent evidence of deterrence is
+shown to be correct, then opponents of capital punishment will face an uphill struggle on
+moral grounds. If each execution is saving many lives, the harms of capital punishment
+would have to be very great to justify its abolition, far greater than most critics have
+heretofore alleged. There is always residual uncertainty in social science and legal policy,
+and we have attempted to describe, rather than to defend, recent findings here. But if
+those findings are ultimately shown to be right, capital punishment has a strong claim to
+being, not merely morally permissible, but morally obligatory, above all from the
+standpoint of those who wish to protect life.</p>
+        <sec id="sec-2-11-1">
+          <title>Readers with comments may address them to:</title>
+        </sec>
+        <sec id="sec-2-11-2">
+          <title>Professor Cass Sunstein</title>
+        </sec>
+        <sec id="sec-2-11-3">
+          <title>University of Chicago Law School 1111 East 60th Street</title>
+        </sec>
+        <sec id="sec-2-11-4">
+          <title>Chicago, IL 60637 csunstei@midway.uchicago.edu</title>
+          <p>103 For a general attack on the act-omission distinction from a utilitarian perspective, see Jonathan Baron,
+Judgment Misguided (1998). If our argument is correct, some of Baron’s arguments should be appealing to
+deontologists as well, and his controversial commitment to utilitarianism is not a necessary foundation for
+his conclusions.
+2. 
+William M. Landes, Copyright Protection of Letters, Diaries and Other Unpublished Works: An 
+Economic Approach (July 1991) 
+Richard A. Epstein, The Path to The T. J. Hooper: The Theory and History of Custom in the Law of 
+Tort (August 1991) 
+Cass R. Sunstein, On Property and Constitutionalism (September 1991) 
+Richard A. Posner, Blackmail, Privacy, and Freedom of Contract (February 1992) 
+Randal C. Picker, Security Interests, Misbehavior, and Common Pools (February 1992) 
+Tomas J. Philipson &amp; Richard A. Posner, Optimal Regulation of AIDS (April 1992) 
+Douglas G. Baird, Revisiting Auctions in Chapter 11 (April 1992) 
+William M. Landes, Sequential versus Unitary Trials: An Economic Analysis (July 1992) 
+William M. Landes &amp; Richard A. Posner, The Influence of Economics on Law: A Quantitative Study 
+(August 1992) 
+Alan O. Sykes, The Welfare Economics of Immigration Law: A Theoretical Survey With An 
+Analysis of U.S. Policy (September 1992) 
+Douglas G. Baird, 1992 Katz Lecture: Reconstructing Contracts (November 1992) 
+Gary S. Becker, The Economic Way of Looking at Life (January 1993) 
+J. Mark Ramseyer, Credibly Committing to Efficiency Wages: Cotton Spinning Cartels in Imperial 
+Japan (March 1993) 
+Cass R. Sunstein, Endogenous Preferences, Environmental Law (April 1993) 
+Richard A. Posner, What Do Judges and Justices Maximize? (The Same Thing Everyone Else Does) 
+(April 1993) 
+Lucian Arye Bebchuk and Randal C. Picker, Bankruptcy Rules, Managerial Entrenchment, and 
+Firm‐Specific Human Capital (August 1993) 
+J. Mark Ramseyer, Explicit Reasons for Implicit Contracts: The Legal Logic to the Japanese Main 
+Bank System (August 1993) 
+William M. Landes and Richard A. Posner, The Economics of Anticipatory Adjudication 
+(September 1993) 
+Kenneth W. Dam, The Economic Underpinnings of Patent Law (September 1993) 
+Alan O. Sykes, An Introduction to Regression Analysis (October 1993) 
+Richard A. Epstein, The Ubiquity of the Benefit Principle (March 1994) 
+Randal C. Picker, An Introduction to Game Theory and the Law (June 1994) 
+William M. Landes, Counterclaims: An Economic Analysis (June 1994) 
+J. Mark Ramseyer, The Market for Children: Evidence from Early Modern Japan (August 1994) 
+Robert H. Gertner and Geoffrey P. Miller, Settlement Escrows (August 1994) 
+Kenneth W. Dam, Some Economic Considerations in the Intellectual Property Protection of 
+Software (August 1994) 
+Cass R. Sunstein, Rules and Rulelessness, (October 1994) 
+David Friedman, More Justice for Less Money: A Step Beyond Cimino (December 1994) 
+Daniel Shaviro, Budget Deficits and the Intergenerational Distribution of Lifetime Consumption 
+(January 1995) 
+Douglas G. Baird, The Law and Economics of Contract Damages (February 1995) 
+Daniel Kessler, Thomas Meites, and Geoffrey P. Miller, Explaining Deviations from the Fifty 
+Percent Rule: A Multimodal Approach to the Selection of Cases for Litigation (March 1995) 
+Geoffrey P. Miller, Das Kapital: Solvency Regulation of the American Business Enterprise (April 
+1995) 
+Richard Craswell, Freedom of Contract (August 1995) 
+J. Mark Ramseyer, Public Choice (November 1995) 
+Kenneth W. Dam, Intellectual Property in an Age of Software and Biotechnology (November 1995) 
+Cass R. Sunstein, Social Norms and Social Roles (January 1996) 
+37. </p>
+          <p>David A. Weisbach, Measurement and Tax Depreciation Policy: The Case of Short‐Term Assets 
+(January 2003) 
+Randal C. Picker, Understanding Statutory Bundles: Does the Sherman Act Come with the 1996 
+Telecommunications Act? (January 2003) 
+Douglas Lichtman and Randal C. Picker, Entry Policy in Local Telecommunications: Iowa Utilities 
+and Verizon (January 2003) 
+William Landes and Douglas Lichtman, Indirect Liability for Copyright Infringement: An 
+Economic Perspective (February 2003) 
+Cass R. Sunstein, Moral Heuristics (March 2003) 
+Amitai Aviram, Regulation by Networks (March 2003) 
+Richard A. Epstein, Class Actions: Aggregation, Amplification and Distortion (April 2003) 
+Richard A. Epstein, The “Necessary” History of Property and Liberty (April 2003) 
+Eric A. Posner, Transfer Regulations and Cost‐Effectiveness Analysis (April 2003) 
+Cass R. Sunstein and Richard H. Thaler, Libertarian Paternalizm Is Not an Oxymoron (May 2003) 
+Alan O. Sykes, The Economics of WTO Rules on Subsidies and Countervailing Measures (May 
+2003) 
+Alan O. Sykes, The Safeguards Mess: A Critique of WTO Jurisprudence (May 2003) 
+Alan O. Sykes, International Trade and Human Rights: An Economic Perspective (May 2003) 
+Saul Levmore and Kyle Logue, Insuring against Terrorism—and Crime (June 2003) 
+Richard A. Epstein, Trade Secrets as Private Property: Their Constitutional Protection (June 2003) 
+Cass R. Sunstein, Lives, Life‐Years, and Willingness to Pay (June 2003) 
+Amitai Aviram, The Paradox of Spontaneous Formation of Private Legal Systems (July 2003) 
+Robert Cooter and Ariel Porat, Decreasing Liability Contracts (July 2003) 
+David A. Weisbach and Jacob Nussim, The Integration of Tax and Spending Programs (September 
+2003) 
+William L. Meadow, Anthony Bell, and Cass R. Sunstein, Statistics, Not Memories: What Was the 
+Standard of Care for Administering Antenatal Steroids to Women in Preterm Labor between 1985 
+and 2000? (September 2003) 
+Cass R. Sunstein, What Did Lawrence Hold? Of Autonomy, Desuetude, Sexuality, and Marriage 
+(September 2003) 
+Randal C. Picker, The Digital Video Recorder: Unbundling Advertising and Content (September 
+2003) 
+Cass R. Sunstein, David Schkade, and Lisa Michelle Ellman, Ideological Voting on Federal Courts 
+of Appeals: A Preliminary Investigation (September 2003)  
+Avraham D. Tabbach, The Effects of Taxation on Income Producing Crimes with Variable Leisure 
+Time (October 2003) 
+Douglas Lichtman, Rethinking Prosecution History Estoppel (October 2003) 
+Douglas G. Baird and Robert K. Rasmussen, Chapter 11 at Twilight (October 2003) 
+David A. Weisbach, Corporate Tax Avoidance (January 2004) 
+David A. Weisbach, The (Non)Taxation of Risk (January 2004) 
+Richard A. Epstein, Liberty versus Property? Cracks in the Foundations of Copyright Law (April 
+2004) 
+Lior Jacob Strahilevitz, The Right to Destroy (January 2004) 
+Eric A. Posner and John C. Yoo, A Theory of International Adjudication (February 2004) 
+Cass R. Sunstein, Are Poor People Worth Less Than Rich People? Disaggregating the Value of 
+Statistical Lives (February 2004) 
+Richard A. Epstein, Disparities and Discrimination in Health Care Coverage; A Critique of the 
+Institute of Medicine Study (March 2004) 
+Richard A. Epstein and Bruce N. Kuhlik, Navigating the Anticommons for Pharmaceutical Patents: 
+Steady the Course on Hatch‐Waxman (March 2004) 
+Richard A. Esptein, The Optimal Complexity of Legal Rules (April 2004) 
+Eric A. Posner and Alan O. Sykes, Optimal War and Jus Ad Bellum (April 2004) 
+Alan O. Sykes, The Persistent Puzzles of Safeguards: Lessons from the Steel Dispute (May 2004) </p>
+        </sec>
+      </sec>
+    </sec>
+  </body><script/>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          10 Indeed,
+          <article-title>agency inaction is frequently subject to judicial review</article-title>
+          .
+          <source>See Ash Bhagwat, Three-Branch Monte, 72 Notre Dame L Rev</source>
+          <volume>157</volume>
+          (
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <article-title>11 See generally RISK VERSUS RISK: TRADEOFFS IN PROTECTING HEALTH</article-title>
+          AND
+          <string-name>
+            <surname>THE ENVIRONMENT (John D. Graham</surname>
+          </string-name>
+          &amp; Jonathan Baert Wiener eds.
+          <year>1995</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          12
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Am</surname>
+          </string-name>
+          . Trucking Assocs.,
+          <string-name>
+            <surname>Inc. v. E.P.A.</surname>
+          </string-name>
+          ,
+          <volume>175</volume>
+          F.3d
+          <volume>1027</volume>
+          ,
+          <fpage>1051</fpage>
+          - 53
+          <string-name>
+            <surname>(D.C. Cir</surname>
+          </string-name>
+          .
+          <year>1999</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          13
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Randall</surname>
+          </string-name>
+          <string-name>
+            <surname>Kennedy</surname>
+          </string-name>
+          , Race, Crime, and the Law (
+          <year>1997</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          15 Compare, e.g.,
+          <string-name>
+            <surname>Isaac</surname>
+            <given-names>Ehrlich</given-names>
+          </string-name>
+          ,
+          <source>The Deterrent Effect of Capital Punishment: A Question of Life and Death, 65 AM. ECON. REV</source>
+          .
+          <volume>397</volume>
+          ,
+          <issue>398</issue>
+          (
+          <year>1975</year>
+          )
+          <article-title>(estimating each execution deters eight murders); with William J</article-title>
+          . Bowers &amp;
+          <string-name>
+            <surname>Glenn L. Pierce</surname>
+          </string-name>
+          ,
+          <source>The Illusion of Deterrence in Isaac Ehrlich's Research on Capital Punishment</source>
+          , 85 YALE L.J.
+          <volume>187</volume>
+          ,
+          <issue>187</issue>
+          (
+          <year>1975</year>
+          )
+          <article-title>(finding Ehrlich's data and methods unreliable</article-title>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <article-title>16 Even as this evidence was being developed, one of us rashly and wrongly predicted that the debate would remain inconclusive for the foreseeable future</article-title>
+          .
+          <source>See Adrian Vermeule, Interpretive Choice</source>
+          ,
+          <volume>75</volume>
+          N.Y.U. L. REV.
+          <volume>74</volume>
+          ,
+          <fpage>100</fpage>
+          -
+          <lpage>101</lpage>
+          (
+          <year>2000</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          17
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Dezhbakhsh</surname>
+          </string-name>
+          et al.,
+          <source>supra note 8</source>
+          , at 359.
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>18 Id. at 373.</mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          19 Paul R. Zimmerman,
+          <article-title>Estimates of the Deterrent Effect of Alternative Execution Methods in the United States</article-title>
+          ,
+          <source>Am. J. Econ. &amp; Soc</source>
+          . (forthcoming); Paul R. Zimmerman, State Executions,
+          <source>Deterrence, and the Incidence of Murder, 7 J. APPLIED ECON</source>
+          .
+          <volume>163</volume>
+          ,
+          <issue>163</issue>
+          (
+          <year>2004</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          20
+          <string-name>
+            <given-names>H.</given-names>
+            <surname>Naci Mocan &amp; R. Kaj</surname>
+          </string-name>
+          <string-name>
+            <surname>Gittings</surname>
+          </string-name>
+          ,
+          <source>Getting Off Death Row: Commuted Sentences and the Deterrent Effect of Capital Punishment</source>
+          , 46
+          <string-name>
+            <given-names>J. L.</given-names>
+            &amp;
+            <surname>Econ</surname>
+          </string-name>
+          .
+          <volume>453</volume>
+          ,
+          <issue>453</issue>
+          (
+          <year>2003</year>
+          ).
+          <article-title>Notably, no clear evidence of a deterrent effect from capital punishment emerges from Lawrence Katz et al</article-title>
+          .,
+          <string-name>
+            <surname>Prison</surname>
+            <given-names>Conditions</given-names>
+          </string-name>
+          ,
+          <source>Capital Punishment, and Deterrence, 5 Am L and Ec Rev</source>
+          <volume>318</volume>
+          ,
+          <issue>330</issue>
+          (
+          <year>2003</year>
+          ),
+          <article-title>which finds that the estimate of deterrence is extremely sensitive to the choice of specification, with the largest estimate paralleling that in Ehrlich, supra note. Note, however, that the principal finding in id. is that prison deaths do have a strong deterrent effect, and a stunningly large one - with each prison death producing a reduction of “30-100 violent crimes and a similar number of property crimes</article-title>
+          .
+          <source>” Id. at 340.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <string-name>
+            <surname>21 Joanna M. Shepherd</surname>
+          </string-name>
+          , Murders of Passion,
+          <source>Execution Delays, and the Deterrence of Capital Punishment</source>
+          ,
+          <volume>33</volume>
+          J. Legal Stud.
+          <volume>283</volume>
+          ,
+          <issue>308</issue>
+          (
+          <year>2004</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          22 Id. at
+          <volume>305</volume>
+          (“
+          <article-title>Many researchers have argued that some types of murders cannot be deterred: they assert that murders committed during arguments or other crime-of-passion moments are not premeditated and therefore undeterrable. My results indicate that this assertion is wrong: the rates of crime-of-passion and murders by intimates - crimes previously believed to be undeterrable - all decrease in execution months</article-title>
+          .”).
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>23 Id. at 283.</mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>24 Id.</mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <source>25 Id. at tables 5 &amp; 6.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <article-title>38 See generally RONALD DWORKIN, LIFE'S DOMINION: AN ARGUMENT ABOUT ABORTION, EUTHANASIA,</article-title>
+          AND INDIVIDUAL FREEDOM (
+          <year>1993</year>
+          )
+          <article-title>; Frances M. Kamm, Abortion and the Value of Life: A Discussion of LIFE'S DOMINION, 95 COLUM</article-title>
+          . L. REV.
+          <volume>160</volume>
+          (
+          <year>1995</year>
+          )
+          <article-title>(reviewing DWORKIN, supra); Tom Stacy, Acts, Omissions, and the Necessity of Killing Innocents, 29</article-title>
+          <string-name>
+            <given-names>Am. J.</given-names>
+            <surname>Crim</surname>
+          </string-name>
+          . L.
+          <volume>481</volume>
+          (
+          <year>2002</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <article-title>39 Here we proceed in the spirit of Robert E. Goodin, UTILITARIANISM AS A PUBLIC PHILOSOPHY (</article-title>
+          <year>1995</year>
+          ),
+          <article-title>by treating government as a distinctive sort of moral agent with respect to whom many quotidian moral distinctions have little purchase. Goodin, we should note, does not address the act/omission distinction at any length, although he seems to reject it</article-title>
+          .
+          <source>See id. at 89.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          40
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Stephen Holmes and Cass R. Sunstein</surname>
+          </string-name>
+          ,
+          <source>The Cost of Rights</source>
+          (
+          <year>1999</year>
+          ).
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

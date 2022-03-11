@@ -1,0 +1,2063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink"><script/>
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>This Article is brought to you for free and open access by the Faculty Scholarship at Chicago Unbound. It has been
+accepted for inclusion in Journal Articles by an authorized administrator of Chicago Unbound. For more
+information</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Chicago Unbound</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <string-name>Recommended Citation</string-name>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Faculty Scholarship</institution>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>2005</year>
+      </pub-date>
+      <volume>26</volume>
+      <fpage>2004</fpage>
+      <lpage>2005</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>-</title>
+      <p>The Supreme Court has said that there is a constitutional "right to marry";
+but what can this possibly mean? People do not have a right to marry their
+dog, their aunt, June 29, a rose petal, or a sunny day. This essay attempts to
+make some progress in understanding both the content and the scope of the
+right to marry. With respect to content, it concludes that people have no more
+and no less than this: a right of access to whatever expressive and material
+benefits the state now provides for the institution of marriage. It follows that
+the right to marry falls within the "fundamental rights" branch of equal
+protection doctrine, and is not properly understood in terms of substantive due
+process; it also follows that the state could abolish the official institution of
+marriage tomorrow. With respect to scope, the essay identifies a minimal
+understanding, to the effect that the right to marry is enjoyed by any couple
+consisting of one adult man and one adult woman. The minimal understanding
+can claim a plausible defense in a tradition-based understanding of
+fundamental rights; and on institutional grounds, a tradition-based
+understanding has a great deal of appeal. Its problem is that it has a degree of
+arbitrariness. This is a formidable problem, but for reasons of prudence,
+federal courts should not adopt a broader understanding that would, for
+example, require same-sex marriages to be recognized. The essay concludes
+with some remarks on the possible abolition of the official institution of
+marriage. It explains that there are plausible grounds for objecting to that
+institution. It emphasizes that marriage is emphatically a government-run
+licensing system, no more and no less, and that an understanding of this point
+should inform constitutional discussion.</p>
+      <p>* Karl N. Llewellyn Distinguished Service Professor of Jurisprudence, Law School and
+Department of Political Science, University of Chicago. This is a substantially revised text of the
+Uri &amp; Caroline Bauer Memorial Lecture, delivered at the Benjamin N. Cardozo School of Law on
+September 8, 2004; readers are asked to make allowances for a text originally intended for oral
+delivery. I am most grateful to the students and faculty of the law school community for their
+kindness and multiple suggestions during my visit. I am also grateful to Martha Nussbaum for
+many discussions, to Mary Anne Case, Elizabeth Emens, and Carolyn Frantz for helpful
+comments, and to Rob Park for excellent research assistance.</p>
+      <p>2081</p>
+    </sec>
+    <sec id="sec-2">
+      <title>The freedom to marry has long been recognized as one of the vital</title>
+      <p>personal rights essential to the orderlypursuit of happiness by free
+men.... Marriage is one of the basic civil rights of man,
+fundamental to our very existence andsurvival.
+-Loving</p>
+      <p>v. Virginia**</p>
+      <sec id="sec-2-1">
+        <title>Modern marriagehas lost its meaning-consequently one abolishes</title>
+        <p>it.
+-Friedrich
+Nietzsche***</p>
+      </sec>
+      <sec id="sec-2-2">
+        <title>Why should the stateprivilegesome adult dyads but not others? Why</title>
+        <p>should the state privilege only dyads? Why not triads? In other
+words, what business does the state have in deciding which adult
+personalrelationshipsare deserving of legalprotection and benefits
+and which arenot?
+-Patricia Cain****</p>
+        <p>INTRODUCTION</p>
+        <p>Is there a constitutional right to marry? On several occasions, the
+Supreme Court has said so.' But the very idea of a "right to marry"
+presents two sets of puzzles. The first involves the content of the
+right-what it provides for those who are entitled to it. The second set
+of puzzles involves the scope of the right to marry-the kinds of
+relationships that can claim it.</p>
+        <p>Begin with the first puzzle. As an official matter, marriage is no
+more and no less than a government-run licensing system. Why should
+governments license marriages? Some people are skeptical of the
+official institution of marriage and argue that it should be
+abolishednot by forbidding private arrangements, religious or otherwise, but by
+eliminating the special status that governments confer, including a
+unique set of legal benefits and burdens. 2 Doubts about this particular
+licensing system cast in sharp relief the wide range of possibilities, with
+respect to human relationships, that the simple notions of "married" and
+388 U.S. 1(1967).
+* **** Friedrich Nietzsche, Twilight of the Idols, in THE PORTABLE NIETZSCHE 544 (Walter</p>
+      </sec>
+      <sec id="sec-2-3">
+        <title>MARRY</title>
+        <p>"single" tend to erase. 3 But are states under a constitutional obligation
+to recognize an official institution called "marriage?" Does the Due
+Process Clause really mean that governments must provide tax, social
+security, and other benefits to those who are lawfully married? Or does
+it mean, much more modestly, that states may not forbid religious and
+other organizations from performing "marriage ceremonies" and
+allowing those who go through such ceremonies to claim that status as a
+matter of personal choice?</p>
+        <p>And what relationships are included within the right to marry?
+People do not have a right to marry their dog, their house, their
+refrigerator, July 21, or a rose petal. At most, people have a right to
+marry people. But the Supreme Court cannot possibly have meant to
+suggest that "people" have a general right to marry "people"; it did not
+mean to say that under the Due Process Clause, any "person" has a right
+to marry a dozen other people, or five, or even two. We might conclude
+that the Court is saying at most that one person has a right to marry one
+other person. But if a right to marry exists, what is the basis for this
+particular limitation on the right?</p>
+        <p>The major goal of this essay is to make some progress in
+understanding the content and scope of the right to marry. My initial
+suggestion is that the right to marry is best understood as an analogue to
+the right to vote. In both cases, states are under no obligation to create
+the relevant institutions; but once the state creates those institutions, the
+Constitution imposes large barriers to government efforts to deny
+people access to them. This point suggests that the right to marry
+should be taken as part of the "fundamental rights" branch of equal
+protection, not as part of substantive due process. But what is the
+institution of marriage? It has two characteristics: the expressive
+legitimacy that comes from the public institution of marriage; and the
+panoply of material benefits, both economic and non-economic, that the
+marital relationship confers. 4 The right to marry, then, comprises a
+3 Anita Bernstein, For and Against Marriage:A Revision, 102 MICH. L. REV. 129 (2003);
+Elizabeth F. Emens, Monogamy's Law: Compulsory Monogamy and PolyamorousExistence, 29
+N.Y.U. REV. L. &amp; SOC. CHANGE 277 (2004).</p>
+        <p>4 For a highly illuminating summary of one state's law, see Goodridge v. Dep 't of Pub.
+Health, 798 N.E.2d 941, 955-56 (Mass. 2003) (citations omitted):</p>
+        <p>With no attempt to be comprehensive, we note that some of the statutory benefits
+conferred by the Legislature on those who enter into civil marriage include, as to
+property: joint Massachusetts income tax filing; tenancy by the entirety (a form of
+ownership that provides certain protections against creditors and allows for the
+automatic descent of property to the surviving spouse without probate); extension of
+the benefit of the homestead protection (securing up to $300,000 in equity from
+creditors) to one's spouse and children; automatic rights to inherit the property of a
+deceased spouse who does not leave a will; the rights of elective share and of dower
+(which allow surviving spouses certain property rights where the decedent spouse has
+not made adequate provision for the survivor in a will); entitlement to wages owed to a
+deceased employee; eligibility to continue certain businesses of a deceased spouse; the</p>
+      </sec>
+      <sec id="sec-2-4">
+        <title>CARDOZO LA W REVIEW</title>
+        <p>right of access to the expressive and material benefits that the state
+affords to the institution of marriage. Unless a compelling justification
+can be found, no one can be denied access to those benefits. This
+understanding of the right to marry suggests that states may abolish
+marriage without offending the Constitution; it also suggests that so
+long as the institution of marriage exists, the relevant right entitles
+people, not to any particular set of expressive and material benefits, but
+to exactly that panoply of benefits that the relevant state offers. In this
+respect, the dimensions of the right are determined by close reference to
+positive law.</p>
+        <p>But what is the scope of that right? At a minimum, the right
+includes relationships between one man and one woman. Hence we can
+specify the minimal content of the right to marry: a right, by one adult
+man and one adult woman, to enter into the marital relationship, with
+whatever expressive and materialincidents the state affords, unless the
+relevant restriction is supported by compelling justifications. This
+minimal understanding is fully consistent with the Supreme Court's
+decisions. It can also claim plausible support in a tradition-centered
+approach to constitutional interpretation, one that attempts to root an
+right to share the medical policy of one's spouse; thirty-nine week continuation of
+health coverage for the spouse of a person who is laid off or dies; preferential options
+under the Commonwealth's pension system; preferential benefits in the
+Commonwealth's medical program, MassHealth; financial protections for spouses of
+certain Commonwealth employees (fire fighters, police officers, prosecutors, among
+others) killed in the performance of duty; the equitable division of marital property on
+divorce; temporary and permanent alimony rights; the right to separate support on
+separation of the parties that does not result in divorce; and the right to bring claims for
+wrongful death and loss of consortium, and for funeral and burial expenses and
+punitive damages resulting from tort actions.</p>
+        <p>Exclusive marital benefits that are not directly tied to property rights include the
+presumptions of legitimacy and parentage of children born to a married couple; and
+evidentiary rights, such as the prohibition against spouses testifying against one
+another about their private conversations, applicable in both civil and criminal cases.
+Other statutory benefits of a personal nature available only to married individuals
+include qualification for bereavement or medical leave to care for individuals related
+by blood or marriage; an automatic "family member" preference to make medical
+decisions for an incompetent or disabled spouse who does not have a contrary health
+care proxy; the application of predictable rules of child custody, visitation, support, and
+removal out-of-State when married parents divorce.</p>
+        <p>Where a married couple has children, their children are also directly or indirectly, but
+no less auspiciously, the recipients of the special legal and economic protections
+obtained by civil marriage. Notwithstanding the Commonwealth's strong public policy
+to abolish legal distinctions between marital and nonmarital children in providing for
+the support and care of minors, the fact remains that marital children reap a measure of
+family stability and economic security based on their parents' legally privileged status
+that is largely inaccessible, or not as readily accessible, to nonmarital children. Some of
+these benefits are social, such as the enhanced approval that still attends the status of
+being a marital child. Others are material, such as the greater ease of access to
+familybased State and Federal benefits that attend the presumptions of one's parentage.
+understanding of liberty in longstanding practices.5 Under the minimal
+understanding, some bans on incestuous marriages are probably
+unconstitutional; but the bans on homosexual, bigamous, and
+polygamous marriages are legitimate, simply because such marriages do
+not involve one man and one woman.</p>
+        <p>The principal problem with the minimal understanding is that it
+seems to draw arbitrary lines. Why should the scope of the right be
+limited in that way? Compare a maximal understanding of the right to
+marry: a right, by two or more adults, to enter into the marital
+relationship, with its expressive and material incidents, unless the
+relevant restriction is supported by compelling justifications. This
+approach would essentially convert marriage from a closed licensing
+system into an open-ended one, allowing people to enter into marital
+agreements as they see fit. Such an approach might tailor its economic
+incidents to the particulars of the relationship-refusing, for example, to
+accord economic benefits when there is no sufficient reason for them.
+From the constitutional point of view, the problem with the maximal
+understanding is that it depends on a broad and unanchored
+understanding of "liberty," one that endangers restrictions on marriage
+that are at least time-honored. The task is to produce a conception of
+the scope of the right that lacks the arbitrariness of the minimal
+understanding and also the extreme breadth of the maximal one.</p>
+        <p>I suggest that for courts, the best way to carry out that task is by
+reference not to the Due Process Clause, which is founded on tradition,
+but the Equal Protection Clause, which calls traditions into sharp doubt.
+The question is whether a state has an adequate justification, under the
+appropriate standard of review, to deny certain people access to the
+expressive and material benefits of marriage. The maximal
+understanding is certainly not compelled by equal protection principles,
+but the minimal understanding runs into serious difficulties, above all in
+the context of prohibitions on same-sex marriages. I contend that in
+principle, bans on same-sex marriage do run into real problems under
+the Equal Protection Clause, but that federal courts should be extremely
+reluctant to invalidate such bans for prudential reasons involving their
+limited role in the constitutional order. The issue of same-sex marriage
+is best handled through democratic arenas and at the state level
+(plausibly including decisions of state courts).</p>
+        <p>I conclude with some general remarks about the institution of
+marriage. As many people have argued, there are reasons to question
+whether states should operate and license the marital institution. It is
+not unreasonable to ask whether marriage should be
+deregulatedwhether it should be run by religious and other institutions, subject not
+5 Michael H. v. Gerald D., 478 U.S. 186 (1986) (plurality opinion).
+to state licensing law, but to rules of contract and criminal prohibitions.
+I attempt to spell out the grounds for this view. Because the abolition of
+state-licensed marriage would be such a radical step, one that would
+defeat longstanding expectations and eliminate one means through
+which people affirm their commitments to one another, I do not favor it.
+But an appreciation of the arguments in opposition to official marriage
+helps to cast the right to marry in a fresh light, by demonstrating that we
+are speaking here of a system of aggressive government intervention,
+not of anything that stems from nature. For the future, the shape of that
+system should be seen as chosen rather than dictated. Constitutional
+decisions should be cautious, here as elsewhere, but they should be
+made with an awareness that marriage is a government-operated
+licensing scheme, no less and no more.</p>
+        <p>I.</p>
+        <p>MARRIAGE AND THE SUPREME COURT</p>
+        <p>The constitutional right to marriage has long origins. In 1888, the
+Court described marriage as "the most important relation in life,"' 6 and
+said that it was "the foundation of the family and of society, without
+which there would be neither civilization nor progress."'7 In Meyer v.
+Nebraska,8 one of the cases that created substantive due process in its
+current form, the Court said that the Due Process Clause protected the
+right "to marry, establish a home and bring up children." 9 In Skinner v.
+Oklahoma,10 striking down a compulsory sterilization law, the Court
+described marriage as "fundamental to the very existence and survival
+of the race."' I Griswold v. Connecticut12 held that states could not ban
+married couples from using contraceptives. The Court emphasized that
+it was dealing with "a right of privacy older than the Bill of
+Rightsolder than our political parties, older than our school system. Marriage
+is a coming together for better or for worse, hopefully enduring, and
+intimate to the degree of being sacred."' 3</p>
+        <p>None of these cases, however, involved the right to marry as such.
+In its modern form, the right to marry is principally a product of three
+cases. The initial decision is Loving v. Virginia,14 where the Court
+struck down a ban on interracial marriage. Most of the Court's opinion
+6 Maynard v. Hill, 125 U.S. 190, 205 (1888).
+7 Id. at 211.
+8 262 U.S. 390 (1923).
+9 Id. at 399.
+10 316 U.S. 535 (1942).
+1l Id. at 541.
+12 381 U.S. 479 (1965).
+13 Id. at 486.
+14 388 U.S. 1 (1967).</p>
+      </sec>
+      <sec id="sec-2-5">
+        <title>MARRY</title>
+        <p>spoke in terms of the Equal Protection Clause, seeing that ban as a form
+of racial discrimination. The Court could easily have stopped there.
+But in a separate ruling, set off in a puzzlingly independent section, the
+Court also held that the ban violated the Due Process Clause. In the
+Court's words, "the freedom to marry has long been recognized as one
+of the vital personal rights essential to the orderly pursuit of happiness
+by free men." 15 It added that "[m]arriage is one of the 'basic civil rights
+of man,' fundamental to our very existence and survival." 16 What does
+this mean? Apparently the Court believed that procreation, and possibly
+the successful raising of children, are inextricably linked to the
+institution of marriage.</p>
+        <p>But the Loving Court's due process ruling was not free from
+ambiguity. After emphasizing that freedom to marry is "one of the vital
+personal rights," the Court added that the Due Process Clause is
+violated if the government denies "this fundamental freedom on so
+unsupportable a basis as the racial classifications embodied in these
+statutes"; it stressed that "freedom of choice to marry" may "not be
+restricted by invidious racial discrimination." 17 Subsequent cases
+confirm that the right to marry counts as fundamental for constitutional
+purposes-and is sufficient by itself to take the analysis into the domain
+of heightened scrutiny.</p>
+        <p>The key decision is Zablocki v. Redhail.18 There the Court invoked
+the Equal Protection Clause to strike down a Wisconsin law forbidding
+people under child support obligations to remarry unless they obtained a
+judicial determination that they had met those obligations and that their
+children were not likely to become public charges. The Court
+announced that "the right to marry is of fundamental importance for all
+individuals,"' 9 and added that "the decision to marry has been placed on
+the same level of importance as decisions relating to procreation,
+childbirth, child rearing, and family relationships. '20 The Court did not
+give a careful explanation for this conclusion. It noted that women have
+a right to seek an abortion or to give birth to an illegitimate child; it
+claimed that "a decision to marry and raise the child in a traditional
+family setting must receive equivalent protection. 2 1 The Court added
+that if the "right to procreate means anything at all, it must imply some
+right to enter the only relationship in which" the state "allows sexual
+relations legally to take place." 22 The apparent suggestion here is that
+15 Id.at 12.
+16 Id.(citing Skinner v. Oklahoma ex rel. Williamson, 316 U.S. 535, 541 (1942)).
+17Id. at 12.
+18 434 U.S. 374 (1978).
+19Id.at 384.
+20 Id.at 386.
+21 Id.
+22 Id.
+the right to marry has constitutional status because the status of
+marriage represents a legal precondition for sexual relations. (In a
+period in which the Constitution is seen to protect sexual relations
+outside of marriage, 23 this suggestion loses its foundation.)
+Notwithstanding its clear association of the right to marry with other
+rights protected by the Due Process Clause, the Court's ultimate holding
+turned on the fundamental rights branch of the equal protection
+doctrine, not on substantive due process-a point to which I will return.</p>
+        <p>The Court did not mean to suggest that because of the existence of
+the right to marry, it would apply strict scrutiny to "every state
+regulation which relates in any way to the incidents of or prerequisite
+for marriage. '24 The Court said that it would uphold "reasonable
+regulations that do not significantly interfere with decisions to enter into
+the marital relationship. ' 25 But any "direct and substantial" interference
+with the right to marry would be strictly scrutinized. In a concurring
+opinion, Justice Stevens underlined the point, urging that the
+Constitution would cast serious doubt on any "classification which
+determines who may lawfully enter into the marriage relationship. '26
+This suggestion appears to be extremely broad, applying to incestuous
+and same-sex marriages among others-though it is doubtful that
+Justice Stevens meant to suggest that states must recognize those
+marriages. In Zablocki itself, the restriction could not be justified, for it
+was an unnecessarily intrusive means of ensuring compliance with child
+support obligations.</p>
+        <p>
+          In Turner v. Safi, 27 the Court followed and extended Zablocki,
+striking down a prison regulation that prohibited inmates from marrying
+unless there were "compelling reasons" for them to do so. "Compelling
+reasons" were understood to include pregnancy or the birth of an
+illegitimate child.28 The Court acknowledged that the prison setting is
+distinctive and usually calls for a measure of judicial deference. But it
+concluded that Zablocki applies in that setting, at least in such a way as
+to call for invalidation of the prison regulation. In fact the Court went
+beyond its previous decisions to spell out some of the foundations of the
+right to marry. It said that marriages, by inmates as by others, "are
+expressions of emotional support and public commitment. '29 It
+emphasized that these are "important and significant aspects of the
+marital relationship. ' 30 It added that marriages are often recognized as
+23 See Lawrence v. Texas, 539 U.S. 5
+          <xref ref-type="bibr" rid="ref12">58 (2003</xref>
+          ).
+24 434 U.S. at 386.
+25 Id.at 386-87 (citing Califano v. Jobst, 434 U.S. 47 (1977)).
+26 Id.at 404.
+27 482 U.S. 78 (1987).
+28 Id.at 82.
+29 Id.at 95.
+30 Id.at 96.
+having spiritual significance-and that "marital status often is a
+prerequisite for" a number of material benefits, including property
+rights, government benefits, and less tangible advantages. 3 1 These
+conclusions underlay the Court's conclusion that even in prisons, the
+right to marry must be respected unless the state produces compelling
+reasons to interfere with such a right.
+        </p>
+        <p>Very oddly, the Turner Court did not specify whether the right to
+marry is rooted in substantive due process (as Loving suggested) or in
+the fundamental rights branch of equal protection doctrine (the most
+sensible reading of Zablocki). It would be fair to read the Court as
+treating marriage as akin to other privacy rights, in a way that suggests
+that substantive due process is involved. But for purposes of reaching
+its conclusion, the Court did not have to choose between the two
+possible sources of its decision.</p>
+        <p>II.</p>
+        <p>WHAT IS THE RIGHT TO MARRY? OF POSITIVE RIGHTS AND</p>
+        <p>NEGATIVE RIGHTS</p>
+        <p>Suppose that there is a right to marry. What, exactly, does this
+mean? Imagine that a state abolishes the institution of marriage in the
+following sense: it says that it will not recognize anything called
+"marriage," nor will it provide marriage licenses in any form. It will not
+legitimate particular relationships through declaring them as
+"marriages." Nor will it confer special economic or other benefits on
+people who deem themselves to be "married." But it will not forbid
+such private arrangements as people choose. Above all, it will allow
+private persons to organize their personal relationships as they see fit,
+subject to imaginable limitations stemming from the criminal law (as in
+the ban on sexual relations with children and on incest). Religious
+ceremonies, constituting relationships that the parties may call
+"marriage," or whatever they like, would not be abolished. If the parties
+follow the proper formalities for enforceable contracts, their agreements
+would be enforceable under the ordinary terms of contract law. The
+state would provide default rules here as elsewhere. But as a matter of
+law, and apart from these points, there would be no such thing as
+"marriage" as an official matter of state licensing.</p>
+        <p>Does the "right to marry" mean that the abolition of marriage
+would be unconstitutional? 32 Under the Court's decisions, this would
+not be an implausible conclusion. Perhaps the Court is best understood
+as recognizing the existence, within Anglo-American law, of the
+31 Id.</p>
+        <p>32 See Cain, supra note 2, for general discussion on whether the abolition of marriage would
+be unconstitutional.
+institution of marriage as one that the government recognizes and
+safeguards. But if there is a right to an official institution of marriage,
+what must the state do or provide? The initial question is what marriage
+actually entails. We need to distinguish here between material benefits
+on the one hand and expressive ones on the other.</p>
+        <p>Many material benefits, economic and non-economic, accompany
+the marital relationship. 33 Of course state law varies, but these benefits
+fall into six major categories. 34
+1. Tax benefits (and burdens). While a great deal of attention
+is paid to the "marriage penalty," the tax system rewards
+many couples when they marry-at least if one spouse
+earns a great deal more than the other.3 5 (The marriage
+penalty can be significant if the spouses both earn
+substantial incomes.) 36 Married couples can file joint
+returns. Members of such couples are allowed to transfer
+property between one another within being subject to
+gainloss valuation.
+2. Entitlements. Federal law benefits members of married
+couples through a number of entitlement programs. Under
+the Family and Medical Leave Act, 37 for example,
+employers must allow unpaid leave to workers who seek to
+care for a spouse; they need not do so for "partners."
+Veterans benefits provide a range of economic programs
+(involving medical care, housing, and educational
+assistance) to the spouses, but not the partners, of
+veterans. 38 Those who are married to federal employees
+can also claim benefits unavailable to those who are
+unmarried. Under state law, the entitlement to consortium</p>
+        <p>MARRY</p>
+        <p>protects spouses; the status of members of unmarried
+39
+couples is unclear.
+3. Inheritance and other death benefits. A member of a
+married couple obtains a number of benefits at the time of
+death. Default rules favor wives and husbands for those
+who die without a will, and many states forbid people from
+refusing to leave money to the person to whom they are
+married.40 Under the Uniform Probate Code, those who die
+intestate give much of their estate to their spouse, even if
+they had children. 41 In wrongful death actions, spouses
+automatically qualify for benefits; the status of those in
+unmarried couples is far less clear.42
+Ownership benefits. Under both state and federal law,
+spouses may have automatic ownership rights that
+nonspouses lack. In community property states, people have
+automatic rights to the holdings of their spouses, and they
+cannot contract around the legal rules. Even in states that
+do not follow community property rules, states may
+presume joint ownership of property acquired after
+marriage and before legal separation. The idea of tenancy
+by the entirety may establish legal unity to married couples
+in a way that also grants ownership benefits (and burdens)
+to those involved. 43</p>
+      </sec>
+      <sec id="sec-2-6">
+        <title>Surrogate decisionmaking. Members of married couples</title>
+        <p>are given the right to make surrogate decisions of various
+39 Compare Butcher v. Superior Court of Orange County, 188 Cal. Rptr. 503, 510 (Cal. Ct.
+App. 1983) (permitting a claim of loss of consortium when the couple is unmarried, based on a
+foreseeability of cohabitation standard), and Bulloch v. United States, 487 F. Supp. 1078 (D.N.J.
+1980) (finding that New Jersey law permits an unmarried cohabitant to file a claim for loss of
+consortium), with Walsh v. Armstrong World Indus., Inc., 700 F. Supp. 783 (S.D.N.Y. 1988)
+(finding that New York law does not permit recovery for loss of consortium when the couple is
+not married), and Gurliacci v. Mayer, 590 A.2d 914, 931 (Conn. 1990) (holding that claims for
+loss of consortium are limited to spouses under Connecticut law).</p>
+        <p>40 See Ralph C. Brashier, Disinheritanceand the Modern Family, 45 CASE W. RES. L. REV.
+84, 94-98 (1994) (describing how nine states, under their community property laws, require that
+certain marital property be held as community property, half of which is automatically retained by
+the surviving spouse upon the other's death).</p>
+        <p>41 UNIF. PROBATE CODE § 2-102 (amended 1990); 8 U.L.A. § 2-102 (1997).</p>
+        <p>42 Under New York law, a spouse who married the decedent after the lethal injury was
+inflicted can recover under the state's wrongful death statute. See Walsh, 700 F. Supp. at 785-86;
+see also MD. CODE ANN., CTS. &amp; JUD. PROC. § 3-904(b) (2003) (if the deceased person has no
+spouse, parents, or children, a person "substantially dependent" on the deceased can recover as a
+secondary beneficiary). But see Holguin v. Flores, 18 Cal. Rptr. 3d 749, 759-60 (Cal. Ct. App.
+2004) (under California law, while cohabitating same-sex couples have a statutory right to
+recover for wrongful death, cohabitating heterosexual couples do not).</p>
+        <p>43 See, e.g., In re Estate of Suggs, 405 So. 2d 1360 (Fla. Dist. Ct. App. 198 1) (describing that
+a conveyance to spouses will by default create a tenancy by the entirety, while the same type of
+conveyance to an unmarried couple will create a tenancy in common by default).
+sorts in the event of incapacitation. When an emergency
+arises, a spouse is permitted to make judgments on behalf
+of an incapacitated partner.4 4 More generally, a spouse
+might be appointed formal guardian, entitled to make
+decisions about care, residence, and money, as well as
+about particular medical options. 45
+6. Evidentiary privileges. Federal courts, and a number of
+state courts, recognize marital privileges, including a right
+to keep marital communications confidential and to
+exclude adverse spousal testimony.46</p>
+        <p>This catalogue includes a large set of benefits, and there are sharp
+political constraints on any effort to rethink them; but certainly the state
+is not constitutionally required to provide them. Suppose, for example,
+that the state altered a host of laws to place married people closer to, or
+on the same plane as, or even below unmarried couples or single people.
+It defies belief to suggest that the alteration would be an
+unconstitutional violation of the "right to marry." Recall that Zablocki
+limited its holding to "direct and substantial interference" with the right
+to marry; the Court expressly said that it did not mean to draw into
+question laws that affect people's incentives to marry. The line the
+Court meant to draw is not entirely clear, but at the very least, existing
+doctrine does not require economic benefits to be provided to married
+people as such.</p>
+        <p>But if the right to marry does not require a panoply of economic
+benefits, what, exactly, does it entail? Perhaps it operates as a kind of
+precondition for certain familial rights that continue to be material in a
+sense but that are, broadly speaking, associational in character-the
+right, for example, to visit and make choices for a loved one in case of
+incapacitating illness. Under existing law, marriage is not literally a
+precondition for these rights; but it usually makes their exercise
+significantly easier. Is the state constitutionally obliged to provide the
+institution of marriage so as to recognize these rights? Suppose that a
+state refuses to license or to acknowledge marriages and denies
+members of long-term relationships the right to make decisions on
+behalf of their incapacitated partners in the hospital. There is a
+plausible argument that the Due Process Clause forbids states from
+disallowing such visits. 47 Or suppose that the state refuses to license or
+44 See, e.g., Mark Fowler, Note, Appointing an Agent to Make Medical Treatment Choices,84
+COLUM. L. REv. 985, 992-95 (1984) (describing the rights of spouses and other family members
+to make medical decisions on behalf of an incapacitated patient).</p>
+        <p>45 See Chambers, supra note 34, at 455.</p>
+        <p>46 See Trammel v. United States, 445 U.S. 40 (1980); State v. Christian, 841 A.2d 1158
+(Conn. 2004).</p>
+        <p>47 The argument seems afortioriafter Troxel v. Granville, 530 U.S. 57 (2000), which held
+that there is a constitutional right, on the part of parents, to control visitation.
+to acknowledge marriages and denies people in long-term relationships
+the right to adopt children. Serious constitutional questions would be
+raised by the denial of that right.48 Indeed, serious questions can be
+raised by the denial of that right under existing law.</p>
+        <p>But none of this is an argument about marriage as such. So long as
+official marriage exists, the state might be permitted to say that
+marriage is both a necessary and sufficient condition for the enjoyment
+of certain benefits, privileges, and default rules. 49 Indeed, one argument
+for marriage is that the institution allows the ready creation of default
+rules for otherwise unprovided-for cases. 50 If official marriage was
+abolished, the Due Process Clause might give people a right to some of
+the benefits and arrangements to which married people are ordinarily
+entitled under existing state law. But this point does not suggest a right
+to marriage. I conclude that the government is under no constitutional
+duty to recognize marriage as a way of giving economic, associational,
+or other material benefits to married couples.</p>
+        <p>What else, then, might an affirmative right to marry entail? The
+only possible answer is expressive-a kind of official endorsement or
+recognition of the marital relationship. Recall that in Turner, the Court
+stressed that marriages are "expressions of emotional support and public
+commitment." 51 If a state says that people are "married," then they are
+in fact married, and not only for purposes of financial and other
+benefits. They are married in the sense that the relationship is taken, by
+everyone who knows about it, to have a particular quality as an official
+matter. In short, marriage has an important signaling function, and
+quite apart from material benefits, the official institution of marriage
+entails a certain public legitimation and endorsement.</p>
+        <p>Consider two people who announce their marriage to the world, or
+who seem to act as married couples do, or both, but with one wrinkle:
+under state law, they are not in fact married. (Suppose too that they
+have not been married through any formal ceremony, religious or
+otherwise.) To be sure, people can become "engaged" simply by
+announcing that fact. But to be married as a matter of formal law, they
+must go through certain official procedures. 52 Does the right to marry
+mean that the Constitution requires states to make those procedures
+available? Perhaps it does. If so, the right to marry has some of the
+features of the public forum doctrine, which requires the government to
+48 See Troxel, 530 U.S. at 65-66.</p>
+        <p>
+          49 But it might not be permitted to say that marriage is a necessary condition. See, e.g.,
+Lawrence v. Texas, 539 U.S. 5
+          <xref ref-type="bibr" rid="ref12">58 (2003</xref>
+          ).
+        </p>
+        <p>50 I am grateful to Mary Anne Case for raising this point in several discussions.
+51 Turner v. Safley, 482 U.S. 78, 95 (1987).</p>
+        <p>52 I put to one side the interesting case of common law marriages, where people are
+sometimes permitted to become "marridd," within the view of the state, just by virtue of living
+together for a long period.
+leave the streets and parks open for expressive activity. In the leading
+case from the early part of the twentieth century, the Court said:
+Wherever the title of streets and parks may rest, they have
+immemorially been held in trust for the use of the public and time
+out of mind, have been used for the purposes of assembly,
+communicating thought between citizens, and discussing public
+questions. Such use of the streets and public places has, from
+ancient times, been a part of the privileges, immunities, rights, and
+liberties of citizens. 53</p>
+        <p>It is not entirely clear that the public forum doctrine forbids the
+government from privatizing the streets and parks; but this view is far
+from implausible. If we attend to the purposes of the public forum
+doctrine, perhaps public streets and parks are constitutionally required,
+so as to ensure something like "public spaces" in which free expression
+can occur. Without such spaces, the system of free expression would be
+badly compromised. 54 Perhaps marriage can be understood in similar
+terms. On this view, states are under an obligation to make the marital
+form available-not to give married people economic advantages, but to
+give official recognition and endorsement to the marital relationship.
+And on this view, what is at stake in the right to marry is expressive,
+rather than material.</p>
+        <p>But in the end this argument seems unconvincing-and hence there
+is probably no right to the institution of marriage as such. We are
+speaking here of fundamental rights, and rights protected as such are
+generally rights to be free from government intrusion; they do not
+require affirmative provision by the state. 55 The right to choose
+abortion, for example, forbids the state to impose legal barriers to the
+right to choose, but it does not require the state to fund abortion. 56 For
+the ordinary privacy rights with which marriage is associated, the
+Constitution requires governmental noninterference; it does not require
+the government to provide money, institutional arrangements, or
+anything else.</p>
+        <p>Of course this analogy is not decisive. We could imagine a ruling
+to the effect that the legal institution of marriage is so time-honored, and
+so indispensable to family formation, that states must make it available.
+But this argument would likely fall on deaf ears in any situation in
+which marriage really was abolished. To see why, note the difficulty, at
+the present time, of imagining a state that has actually abolished the
+legal institution of marriage. This is difficult to imagine simply because
+most people cherish that institution. If a state abolished marriage, it
+would be because most people, or most influential people, had come to
+believe that the institution should be abolished. In those circumstances,
+the idea that there is a right to that institution would be difficult to
+accept. I conclude, then, that whatever the content of the right to marry,
+it does not include a right that the state maintain an official scheme for
+recognizing and legitimating marriage.</p>
+      </sec>
+      <sec id="sec-2-7">
+        <title>OutlawingMarriage?</title>
+        <p>The argument so far does not suggest that the state may "outlaw"
+the institution of marriage without offense to the Constitution. Suppose,
+for example, that a state said it would not only fail to recognize
+marriages as such, but also that it would not permit private
+organizations, religious and otherwise, to recognize marriages. (Why
+would a state do this? Any answer would be fanciful under present
+circumstances, but perhaps we could imagine a decision that the
+institution causes more harm than good-an issue to which I will
+return.) The initial question, a hard one, is what exactly this means.
+Suppose that it is essentially expressive and terminological-that by
+banning marriages, the state is not forbidding civil unions or relational
+commitments via contract. If so, the ban on marriages is not so
+different, analytically, from a refusal to recognize marriage as an
+official matter. But suppose a state went further, deciding that it really
+sought to "forbid marriage," among other things by refusing to allow its
+ordinary background law to be used to create the expressive and
+economic equivalents of marriage. As stated, this very idea is obscure,
+but suppose that the state abolishes not only material benefits, but also
+an effort to recreate, through private contract, the expressive equivalent
+of state-sponsored marriage. 57</p>
+        <p>Here it is reasonable to say that a serious constitutional problem
+would be raised under the "right to marry" cases-at least as these are
+informed by cases recognizing a (narrow) right to intimate association. 58
+To be sure, people do not have a right to contract on whatever terms
+they choose, and the state has a great deal of power to intrude into
+contractual relationships. But it is most doubtful that the Court would
+permit states to abolish the formalization of intimate relationships
+through voluntary agreements. Surely any such effort would be
+unconstitutional, under the Free Exercise Clause, as applied to religious
+institutions. And the Due Process Clause would almost certainly be
+taken to invalidate efforts to forbid nonreligious "unions" created solely
+for expressive purposes. Thus the constitutional right to marry does not
+only provide access to an official institution; it also forbids state efforts
+to interfere with certain private arrangements that recognize what the
+parties consider to be the marital form.</p>
+      </sec>
+      <sec id="sec-2-8">
+        <title>What the Right to Marry Is</title>
+        <p>My conclusion is that the "right to marry" entails both some right
+of intimate association in the private sphere and (more relevantly for
+present purposes) an individualright of access to the official institution
+of marriageso long as the state provides that institution. With respect
+to the access right, the best analogy is to the right to vote. As the
+Constitution is now understood, states are not required to provide
+elections for state offices. 59 But when elections are held, the right to
+vote qualifies as fundamental, and state laws that deprive people of that
+right will be strictly scrutinized and generally struck down. The
+analogy between the right to marry and the right to vote is quite close.
+In both cases, the state may not be required to create the practice in the
+first instance. But so long as the practice exists, the state must make it
+available to everyone.</p>
+        <p>The major difference is that the right to vote is unambiguously
+protected under the "fundamental rights" branch of equal protection
+doctrine, 60 whereas the right to marry has not been squarely placed
+there, rather than under the Due Process Clause itself. And insofar as
+the Court has suggested that the right to marry has due process
+foundations, that right does emerge as unusual, even unique. The Due
+Process Clause provides, substantively, no other right to an institution
+that government is permitted to abolish. Substantive due process rights
+in the same general area, such as the right to freedom from
+governmental interference in the domain of consensual sex, are very
+different. As I have said, those rights involve a right to freedom from
+government intrusion, rather than a right of access to a state-created
+practice. And this very point suggests that the Court has erred insofar
+as it has treated the right to marry as part of substantive due process
+rather than as part of the fundamental rights branch of equal protection
+doctrine. The latter course is a far more sensible way of analyzing the
+question. Apparently the Court went off track because of the intuitive
+connection between sexuality and reproduction (protected by
+substantive due process) and marriage (not easily analyzed in the same
+terms). I conclude that the right to marry should be seen as part of the
+fundamental rights branch of equal protection doctrine, rather thar. as
+substantive due process.</p>
+        <p>But this conclusion raises a serious question of its own. Why does
+the right to marry so qualify? In fact it is not at all easy to explain, in
+general, why some rights qualify as fundamental for equal protection
+purposes. The Equal Protection Clause seems to forbid certain kinds of
+discrimination; it does not appear to create fundamental rights of any
+kind. With the right to vote, perhaps we can say that the answer is
+internal to the right itself: the right to vote, to count as such, must be
+provided equally to all. On one view, political equality and the right to
+vote should be taken to entail one another. If some people are not
+permitted to vote, or if effective barriers are created so as to ensure that
+some people's votes count more than others, or if the right of access to
+voting is compromised, then the idea of political equality is
+undermined; and that idea is integral to the voting itself. I do not mean
+to say that this argument is ultimately convincing. I mean only to
+suggest that if the right to vote qualifies as fundamental for equal
+protection purposes, it is because there is something in that right that, by
+its very nature, calls for equality in its distribution.</p>
+        <p>The same cannot be said of the right to marry. There is nothing
+internal to that right that calls for its equal distribution. If the right to
+marry qualifies as fundamental for equal protection purposes, it must be
+simply by virtue of its importance-an idea that does have resonances
+in some of the fundamental rights cases under the Equal Protection
+Clause. 6 1 But this idea itself raises further complexities. On what scale
+of importance does marriage so qualify, when welfare benefits and
+housing do not (as the Court has held)? 62 Perhaps we can answer that
+importance is not all that is involved, and that the central idea is that for
+interests of certain kinds-perhaps those connected with family
+formation-the state is under an obligation of powerful justifications
+whenever it imposes selective restrictions or curtailments.</p>
+        <p>Suppose that the point is accepted. It remains to ask what, in
+particular, makes the right to marry special in a constitutionally relevant
+sense. The first answer, a tempting one, would point to the material
+incidents of marriage. As I have noted, a large number of benefits
+accompany the marital relationship. Some of these can be provided by
+explicit agreements, but others (such as tax benefits and family leave
+61 See Skinner v. Oklahoma, 316 U.S. 535 (1942).</p>
+        <p>62 See, e.g., Lindsey v. Normet, 405 U.S. 56 (1972); Dandridge v. Williams, 397 U.S. 471
+(1970).
+benefits) require official marriage. But on reflection, these material
+benefits cannot be the basis for the view that marriage counts as a
+fundamental right. Material benefits of the most fundamental kind are
+involved in many programs involving welfare and subsistence; and
+under current doctrine, they do not qualify as fundamental for equal
+protection purposes.63 Hence it would be extremely odd to say that the
+marital benefits of marriage by themselves are enough to give the right
+to marry the status of a fundamental right.</p>
+        <p>A second answer, suggested by Zablocki, is that marriage is a legal
+precondition for certain other rights that do have constitutional status,
+including the right to engage in sexual relations and to procreate. And
+if Zablocki is taken at face value, this answer is certainly plausible. But
+it faces two serious problems. The first is Turner, which understands
+the right to marry in terms that have nothing to do with the enjoyment
+of other privacy rights. The second is Lawrence v. Texas,64 which
+recognizes a freestanding right to engage in sexual relations-a right
+that exists outside of the context of marriage. In the end, this second
+answer is impossible to accept, even though it is supported by some of
+the language of Zablocki.</p>
+        <p>This leaves only one possibility: the right to marry counts as
+fundamental, for equal protection purposes, because of the expressive
+benefits that come from official, state-licensed marriage. In a sense,
+this too is an odd conclusion. In no other context is a purely or even
+largely expressive reason a sufficient basis for giving special
+constitutional protection to an interest. And the expressive benefits of
+marriage are contingent on a particular constellation of social norms;
+there is nothing inevitable about them. In a different society, for
+example, the expressive benefits would be much lower. In fact
+American society is moving in that direction. All I am suggesting is
+that the underlying logic of the right to marry has everything to do with
+the fundamental importance of the expressive interests at stake.</p>
+        <p>III.</p>
+        <sec id="sec-2-8-1">
+          <title>OF SYMBOLIC AND MATERIAL INCIDENTS OF MARRIAGE</title>
+          <p>A.</p>
+        </sec>
+      </sec>
+      <sec id="sec-2-9">
+        <title>The Content of the Right</title>
+        <p>
+          As a matter of state law, the institution of marriage contains both
+material and expressive incidents. And the discussion thus far should
+be enough to suggest that when the Supreme Court says that there is a
+right to marriage, it is not claiming that there is merely a right to the
+63 See Lindsey, 405 U.S. at 69-74; Dandridge,397 U.S. at 485-87.
+64 539 U.S. 5
+          <xref ref-type="bibr" rid="ref12">58 (2003</xref>
+          ).
+material incidents of marriage. Suppose that a white person and an
+African-American seek to marry, and that a state says that such
+relationships can be formed as civil unions but not as marriages.
+Suppose too that civil unions have all the legal incidents of marriage. It
+is clear that under Loving, this form of discrimination would violate the
+Due Process Clause as well as the Equal Protection Clause. The state
+cannot deny interracial couples the right to marry merely by insisting
+that it is providing such couples with the right to the material incidents
+of marriage. So too, a state could not say that unless they have met their
+child support obligations, people may enter into civil unions but not
+marriage.
+        </p>
+        <p>Nor-though the question is harder-could a state agree to
+provide, for some rather than all, the expressive benefits of marriage but
+not its material ones. Certainly a state could not say that mixed race
+couples can "marry," but without receiving the material advantages that
+normally flow from marriage. What makes this question more difficult
+is that it is imaginable that a state could legitimately vary the material
+benefits of marriage with the features of that particular marriage. A
+state might say, for example, that people married for a certain period of
+time qualify for community property arrangements-but not until that
+time has passed. More controversially, perhaps a state might say that
+those who owe child support obligations may marry, but that the
+amounts due, for child support, supersede any spousal rights. Nothing
+in Zablocki renders adjustments of this kind unconstitutional. But-and
+this is the central point-such adjustments must be tailored to relevant
+facts about the situation; the material benefits of marriage cannot be
+used as a weapon by which to penalize some and to reward others.
+Hence the Court's opinions seem to mean that for those who enjoy it,
+the right to marry conveys a right of access to the symbolic and the
+material benefits of marriage,so long as the institution of marriage
+exists. In the cases involving the right to marry, and subject to the
+qualifications just given, a denial of either the symbolic or the material
+benefits of marriage would be impermissible.</p>
+        <p>Notwithstanding the Court's rhetoric, however, it seems
+implausible to suggest that the Court meant to raise serious questions
+about all state laws dictating who may enter into a marital relationship.
+To approach the question, and to prepare the way for a discussion of the
+scope of the right to marry, it is necessary to distinguish between two
+possibilities:
+(1) The state does not allow certain people to enter into the marital
+relationship as that relationship is officially understood, but it does not
+ban those people from conducting unofficial marriage ceremonies and
+even from holding themselves out as married, so long as they do not
+seek the material benefits that flow from official recognition of that
+status.</p>
+        <p>(2) The state does not allow certain people to enter into the marital
+relationship as officially understood; and it also outlaws, through
+criminal or civil sanctions, the performance of marriage ceremonies by
+such people, and bans them from holding themselves out as married.</p>
+        <p>The first approach involves a mere refusal to recognize certain
+marriages; the second involves a prohibition on them. It should be
+obvious that the two must be treated differently.</p>
+        <sec id="sec-2-9-1">
+          <title>A Little Law</title>
+          <p>As an official matter, state laws distinguish among marriages that
+are void, voidable, and criminal. When a marriage is void, it is invalid
+from its inception. *In Illinois, for example, same-sex marriages are
+void, 65 as are those which are incestuous 66 or polygamous. 67 New York
+voids polygamous and incestuous marriages from their inception. 68
+Incestuous marriages are defined to include those between an ancestor
+and descendant; brothers and sisters of the whole or half blood; an uncle
+and a niece or an aunt and a nephew. (Marriages between cousins are
+legitimate under New York law.) Notably, one state-Virginia-voids
+not only same-sex marriages but contracts designed to create same-sex
+unions.</p>
+          <p>A civil union, partnership contract or other arrangement between
+persons of the same sex purporting to bestow the privileges or
+obligations of marriage is prohibited. Any such civil union,
+partnership contract or other arrangement entered into by persons of
+the same sex in another state or jurisdiction shall be void in all
+respects in Virginia and any contractual rights created thereby shall
+be void and unenforceable. 69</p>
+          <p>Some marriages, while not void, can be annulled at the behest of
+either spouse. Marriages are voidable if they occurred under duress
+(through coercion, fraud, or the threat of force) or if one member is
+either physically or mentally incapable of entering into the marriage
+relation. 70 For fraud, many courts apply a strict test, "requiring that the
+misrepresentation go to the 'essentials' to render the marriage
+voidable.' '7 1 Others merely require that the fraud be material to the
+marriage. 72 Violation of the minimal age requirement typically makes a
+marriage voidable. In New York, if either spouse is under age eighteen
+at the time of the marriage, then the marriage is voidable for lack of
+consent. 73 And if either spouse has an incurable mental illness, then the
+marriage can be voided at either party's request.74 Frequently, physical
+incapacity, defined as the inability to have sexual relations, renders a
+marriage voidable; the inability must exist at the time of marriage and
+be incurable.</p>
+          <p>There are also criminal sanctions for entering into some marriages.
+In New York, a person commits the crime of "incest when he or she
+marries ...a person whom he or she knows to be related to him or her,
+either legitimately or out of wedlock, as an ancestor, descendant,
+brother or sister of either the whole or the half blood, uncle, aunt,
+nephew or niece. ' 75 Other states similarly criminalize incestuous
+marriages. 76 It follows that to commit incest, sexual relations with a
+relative are not necessary; marrying one suffices for criminal liability.
+New York defines the crime of bigamy more precisely than incest: "A
+person is guilty of bigamy when he contracts or purports to contract a
+marriage with another person at a time when he has a living spouse, or
+the other person has a living spouse." 77
+incapacitation-might be provided by ordinary contracts. It is not clear whether the Virginia
+statute is intended to make those contracts "void" in the case of same-sex relationships.
+70 Id. § 7.</p>
+          <p>71 D. KELLY WEISBERG &amp; SUSAN APPLETON, MODERN FAMILY LAW: CASES AND
+MATERIALS 218 (2d ed. 1998).</p>
+          <p>72 N.Y. DOM. REL. LAW § 7 (Consol. 2004); see also Sabbagh v. Copti, 251 A.D.2d 149
+(N.Y. App. Div. 1998) (holding that misleading a wife into marrying by pretending to want
+children was grounds for an annulment).</p>
+          <p>73 N.Y. DOM. REL. LAW § 7.
+74 Id.
+75 N.Y. PENAL LAW § 255.25 (Consol. 2004).</p>
+          <p>76 See, e.g., CAL. PENAL CODE § 285 (West 2004); MISS. CODE ANN. § 97-29-27 (2004);
+MASS. GEN. LAWS ANN. ch. 272, § 17 (West 2004).</p>
+          <p>77 N.Y. PENAL LAW § 255.15 (Consol. 2004); see also MISS. CODE ANN. § 97-29-13 (2004).</p>
+        </sec>
+        <sec id="sec-2-9-2">
+          <title>Relevant Differences: Bans v. Nonrecognition</title>
+          <p>Is there a difference, for constitutional purposes, among
+criminalizing a marriage, making it void, and making it voidable? In
+principle there should be. One reason that marriages are voidable is that
+there is a problem with consent; and if one of the parties complains that
+consent was absent, there is no constitutional problem with taking the
+complaint seriously. And if a state refuses to recognize certain
+marriages, it might be doing so because of its desire not to confer the
+economic benefits of marriages in circumstances in which such benefits
+are not justified. A state might believe, for example, that two-person
+marriages provide the only plausible justification for many or most of
+those benefits. If a state refuses to confer the economic benefits of
+marriage for this reason, but fails to criminalize purely private
+marriages, the issue is surely different from what it would be if a state
+imposed a criminal ban. I am not suggesting that criminal bans on
+polygamy are unconstitutional;7 8 I am suggesting only that a refusal to
+license marriages is less intrusive than a criminal ban.</p>
+          <p>In many cases, a state might believe, not that those who participate
+in certain marriages should be subject to criminal sanctions, but that it
+does not want to confer expressive legitimacy on those marriages. It
+might believe, for example, that same-sex marriages do not deserve the
+same social approval as opposite-sex marriages; hence many people
+think that same-sex couples should be permitted to enter into civil
+unions but not into marriage. It would be possible to think that states
+have an adequate justification for rendering marriages void, but not for
+banning them, if performed by private organizations, religious or
+otherwise. A prohibition on private religious ceremonies allowing, for
+example, same-sex marriages, would raise serious questions under the
+Free Exercise Clause; and a ban on private ceremonies, even without a
+religious component, would raise questions of substantive due process.</p>
+          <p>To say this is not to say that existing criminal prohibitions are
+generally or even mostly invalid. In general, the ban on incestuous
+marriages could be defended by pointing to the risk of coercion and the
+danger to any children who would result. 79 But it is easy to imagine
+some cases in which any such defense would be weak-as, for example,
+where the would-be spouses are both adults and do not plan to have
+children. Perhaps bans on polygamy could be defended by pointing to
+78 They were upheld in Reynolds v. UnitedStates, 98 U.S. 145 (1878).</p>
+          <p>79 For skeptical remarks on those harms, see Courtney Cahill, "What is Our Bane, That Alone</p>
+        </sec>
+      </sec>
+      <sec id="sec-2-10">
+        <title>We Have in Common ": Incest, Intimacy, and the Crisis of Naming, 21 STUD. L. POL. &amp; SOC'Y 3</title>
+        <p>(2000).
+the risk of exploitation, especially of the women involved. 80 It is easy
+to imagine a claim that if polygamy is permitted, women will be
+subordinated as a result. But this claim might be contested, and in any
+case it is doubtful whether Loving and Zablocki should be read to
+require a careful judicial inquiry into that question. That doubt makes it
+necessary to turn to the question of the scope of the right to marry.</p>
+        <p>THE MINIMAL RIGHT TO MARRY</p>
+        <p>Begin with a minimal understanding of the scope of the relevant
+right. By deeming the right to marry fundamental, the Court did not
+mean to suggest that it would strictly scrutinize any law that departed
+from the traditional idea that a marriage is between (one) woman and
+(one) man. It meant only to say that when a man and a woman seek to
+marry, the state must have exceedingly good reasons for putting
+significant barriers in their path. Thus the minimal understanding of the
+right to marry says that without very good reason, states may not deny
+an adult man and an adult woman access to the institution of marriage.
+This rationale has the advantage of fitting with the results in Loving,
+Zablocki, and Turner. It has the further advantage of not drawing into
+question bans on polygamous marriages or marriages between people
+and cats.</p>
+        <p>A.</p>
+      </sec>
+      <sec id="sec-2-11">
+        <title>Problemsand Conventions</title>
+        <p>But the minimal understanding does run into two problems. First,
+it might turn out to be less minimal than it appears, for one simple
+reason: it raises serious questions about bans on incestuous marriages.
+If this problem is deemed serious, two options are available. The right
+might be described more narrowly still: without very good reason,states
+may not deny an adult man andan adult woman access to the institution
+of marriage, unless the relevant marriage runs afoul of longstanding
+views about who may enter into the marital relationship. This
+extraminimalist understanding of the right to marry also fits with the Court's
+decisions, and it would ensure that the Court would uphold any
+restriction that is not novel (as were those in Zablocki and Turner)-a
+benefit for those who believe in a cautious judicial role in this domain.
+Alternatively, bans on incestuous marriages might be permitted only if
+they can be compellingly justified-and struck down if they cannot be.</p>
+        <p>80 But see Emens, supra note 3, at 332-34 (describing some of the arguments made by legal
+scholars and economists in favor of polygamy).
+Thus, for example, an uncle might not be permitted to marry his niece
+simply because of the risk of coercion and psychological harm. But a
+ban on marriage between cousins might well be struck down.</p>
+        <p>The second problem with the minimal understanding is much more
+formidable. The lines it draws might seem arbitrary in principle. Why,
+exactly, should the right to marry be limited in this way? Why, in any
+case, should the definition be such as to require the state to give a strong
+justification for any law that forbids marriage between one woman and
+one man-but not to give a strong justification for any other law that
+impinges on marital choices?</p>
+        <p>A possible answer would be that marriage is a legal status, one
+whose scope depends on nothing more than conventions. The Court, on
+this view, has not been willing to revisit the question of what marriage
+is; it has worked entirely within the convention on that count. But are
+conventions really determinative? Suppose that a white person and an
+African-American seek to marry, and a state responds (in, say, 1965)
+that they cannot marry, because marriage is defined as, or is
+conventionally understood as, a legal relationship between people of the
+same race. The mere fact that there is a convention to this effect cannot
+be decisive. The convention is constitutionally unacceptable. There are
+countless conventions, and their legal legitimacy depends on whether
+they fit with the Constitution; their status as conventions cannot resolve
+that question.</p>
+        <p>But perhaps this conclusion depends fundamentally on the
+antidiscrimination principles of the Equal Protection Clause. Perhaps
+the convention is authoritative unless it draws distinctions that offend
+that clause. Compare the idea of "parent," insofar as that idea has legal
+relevance. If I am the biological parent of a child, the state must have
+an extremely good reason to sever my relationship with that child. If I
+have adopted a child, the state must do the same. But suppose that
+someone claims that he wants to be "father" of his dog, or his horse, or
+his best friend, or his grandfather. (What does this mean? Suppose it
+means that the claimant seeks the expressive benefits of being a parent,
+the material benefits and burdens of parenthood, or both.) The
+prohibition on parental status, in such cases, need not be compellingly
+justified.8 1 Perhaps it is sufficient to say that to be a parent, it is
+necessary to fit within certain conventional categories. But I do not
+think that this is sufficient. If the convention, with respect to
+parenthood, drew invidious or irrational lines, it would be
+impermissible. If there is a distinction in terms of liberty alone, the real
+point is that for a biological or adoptive parent, state intervention
+imposes a loss that is distinctive in both degree and kind. That loss
+81 Note that frequently there is no such prohibition. Adults can sometimes adopt adults; in
+fact adults can sometimes adopt adults who are older than they are.
+counts as a deprivation of liberty that must be compellingly justified.
+No such loss is involved when someone is prevented from becoming the
+parent of his dog, or his horse, or his best friend, or his grandfather.
+(What, exactly, is lost by that?)</p>
+        <p>Marriage is quite different. If a man is told that he cannot marry
+another man, it is not so frivolous to suggest that the same loss is
+imposed on him as in Loving, Zablocki, and Turner. The same may
+well be true if someone is told that she cannot have two spouses. The
+claim here is not that the relevant restrictions are unconstitutional. It is
+only that they cannot be defended by reference to convention alone.</p>
+      </sec>
+      <sec id="sec-2-12">
+        <title>Due Process Traditionalism</title>
+        <p>Apart from convention, what might be said in favor of the minimal
+understanding of the right to marry? The initial answer is rooted in
+constitutional traditionalism. The central claim would be that in its
+substantive form, the Due Process Clause is backward-looking; it
+requires the state to justify any departure from longstanding views about
+individual rights.82 This view can find its foundation in Justice Holmes'
+famous dissenting opinion in the Lochner case, where he urged not that
+substantive process should be eliminated, but that it should apply only
+in cases involving departures from longstanding traditions. 83 Justice
+Holmes' position was prominently reiterated in Bowers v. Hardwic8k4
+and Washington v. Glucksberg,85 where the Court suggested that the
+reach of the Due Process Clause should be defined with close reference
+to American traditions. And it is not difficult to understand why the
+Court might see the Due Process Clause in this way. A decision to root
+substantive due process in traditions, narrowly understood, might be the
+best way of reducing judicial mistakes and judicial burdens (in
+economic terminology, the costs of errors and the costs of decisions).
+Let us see how this argument might be spelled out.</p>
+        <p>The idea of "substantive due process" is textually awkward, to say
+the least, 86 and doubts about its constitutional legitimacy might well
+lead the Court to attempt to reduce its reach. Quite apart from the
+textual problem, the notion of substantive due process seems hard to
+cabin. Which liberty rights count as special, for due process purposes?
+If this question is not easy to answer, the Court might be drawn to due
+82 1 try to defend this view in Cass R. Sunstein, Sexual Orientationand the Constitution:A
+Note on the Relationship Between Due Process and Equal Protection, 55 U. CHI. L. REV. 1161
+(1988).</p>
+        <p>83 Lochner v. New York, 198 U.S. 45, 75-76 (1905) (Holmes, J., dissenting).
+84 478 U.S. 186 (1986). .
+85 521 U.S. 707 (1997).
+86 See J.H. ELY, DEMOCRACY AND DISTRUST (1983).</p>
+      </sec>
+      <sec id="sec-2-13">
+        <title>CARDOZO LAW REVIEW</title>
+        <p>process traditionalism simply as a way of sharply disciplining itself. Of
+course traditions are not self-defining; they do not come prepackaged
+for easy identification. 87 And hence it is tempting to object that
+constitutional traditionalism is a fraud, in which the key value
+judgment-how should the tradition be defined?-ends up doing all the
+work. 88 But the objection is overstated. If traditions are understood at
+the lowest possible level of abstraction, 89 then their use imposes a real
+limitation on judicial discretion. We should be able to agree, for
+example, that in the United States, there is no tradition of respect for
+incestuous marriages, or homosexual marriages, or marriages that
+involve more than two people. Thus the emphasis on tradition,
+described at a maximum specificity, might be defended on the ground
+that it reduces the burdens of judicial judgment, making substantive due
+process into something much closer to a system of rules. 90</p>
+        <p>On a plausible view, moreover, the discipline imposed by tradition
+is far from arbitrary. Suppose that we believe, with Edmund Burke, 9'
+that traditions are likely to be wise, simply because they represent the
+judgment not of a single person, but of countless people over a long
+period of time. If so, then traditions have some of the advantages of
+markets, reflecting the assessments of many rather than few. To say
+this is not to say that longstanding practices are always justified. They
+might reflect prejudice or unjustified inequalities in power rather than
+wisdom. But perhaps practices are likely to be longstanding only if they
+serve important social interests; if so, there should be a presumption in
+their favor. It is certainly not senseless to say that if American states
+have generally refused to recognize certain marriages, there is reason to
+think that the refusal has some sense behind it.</p>
+        <p>In any case the question is not whether longstanding practices
+always deserve support, measured against the best answer to that
+question on the merits. The question is instead an insistently
+comparative one: for judges interpreting the Due Process Clause is
+constitutional traditionalism preferable to an alternative approach, in
+which, for example, judges pay close attention to their own judgments
+about liberty, or judgments of an evolving public? 92 If we believe that
+87 See CASS R. SUNSTEIN, Against Tradition, in DESIGNING DEMOCRACY: WHAT
+CONSTITUTIONS Do 67 (2002).</p>
+        <p>88 See Jack Balkin, Tradition, Betrayal, and the Politics of Deconstruction, I1 CARDOZO L.
+REV. 1613 (1990); LAWRENCE TRIBE &amp; MICHAEL DORF, ON READING THE CONSTITUTION
+(1991).</p>
+        <p>89 See Michael H. v. Gerald D., 491 U.S. 110 (1989) (plurality opinion of Scalia, J.).
+90 Thus there is a clear link between Justice Scalia's embrace of tradition, read at a level of
+great specificity, and his enthusiasm for binding judges via rules. See ANTONIN SCALIA, A
+MATTER OF INTERPRETATION (1997).</p>
+        <p>91 See EDMUND BURKE, REFLECTIONS ON THE REVOLUTION IN FRANCE (Charles Posner ed.,
+1968).</p>
+        <p>92 See Cass R. Sunstein &amp; Adrian Vermeule, Interpretationand Institutions, 110 MICH. L.
+judges are prone to err, an effort to root substantive due process in
+traditions might well be better than any alternative. Seen in this light,
+due process traditionalism has a kind of rule-utilitarian defense.
+Compared to other approaches, it may be likely to reduce both the costs
+of decision and the costs of error. And even if we believe that judicial
+decisions have some advantages, we might agree that in the face of
+doubt, democratic judgments, especially in a federal system, deserve a
+measure of respect, in part because self-government is one of the rights
+to which people are entitled.</p>
+        <p>For all of these reasons, due process traditionalism is far from
+irrational or arbitrary, even if it produces results that can be
+characterized as such in particular cases. And if we are due process
+traditionalists, we might insist that if there is a right to marry, it includes
+only the time-honored form: one man and one woman. On this reading,
+Loving v. Virginia is best seen as a simple equal protection ruling; if it
+has a substantive due process component as well, this is because the ban
+on racial intermarriage offended the minimal understanding. But even
+if it can be defended in principle, due process traditionalism has a
+serious doctrinal obstacle: Lawrence v. Texas.93 Any judgment about
+the scope of the right to marry must come to terms with what the Court
+said in Lawrence; and this is no simple matter.</p>
+      </sec>
+      <sec id="sec-2-14">
+        <title>OfA utonomy andDesuetude</title>
+        <p>The simplest point is that in Lawrence the Court expressly rejected
+the idea that substantive due process is limited to practices that have
+long received respect. Striking down a state law forbidding same-sex
+relationships, the Court freely conceded that there is no history of
+accepting those relationships. On the contrary, and in a dramatic
+departure from both Bowers v. Hardwick and Washington v.
+Glucksberg, the Court said that longstanding traditions are not decisive.
+Current convictions are important, not old ones. "[W]e think that our
+laws and traditions in the past half century are of most relevance
+here. ' 94 Hence the Court stressed an "emerging recognition that liberty
+gives substantial protection to adult persons in deciding how to conduct
+their private lives in matters pertaining to sex."'95</p>
+        <p>
+          On its face, of course, this conclusion does not bear on the right to
+marry. Perhaps there is a distinction between "matters pertaining to
+sex," properly conceived as private, and the marital institution, which
+REV. 885 (2003); Adrian Vermeule, InterpretiveChoice, 75 N.Y.U. L. REV. 74 (2000).
+93 539 U.S. 5
+          <xref ref-type="bibr" rid="ref12">58 (2003</xref>
+          ).
+94 Id. at 571.
+95 Id.
+requires official decisions by the state. But Lawrence raises some
+problems for a minimal understanding of the right to marry. It suggests
+that due process traditionalism is dead-and hence that the minimal
+understanding of that right cannot be defended by reference to tradition
+alone.
+        </p>
+        <p>On the other hand, a narrow reading of Lawrence-one that also
+confines the reach of substantive due process-is possible. Perhaps a
+right qualifies for substantive protection under the Due Process Clause
+either if it has a claim in longstanding traditions or if it is firmly rooted
+in society's "emerging recognition. '9 6 Of course this view has serious
+problems of its own. Is the Court reliably able to identify emerging
+recognitions? And if some recognition really is emerging, might it not
+be vindicated democratically, rather than judicially? Why should the
+Supreme Court, rather than legislatures, have the task of insisting on
+emerging recognitions? One answer would see Lawrence as a case
+about an American version of desuetude 97-as a prohibition on the use
+of the criminal law in circumstances in which the underlying conduct
+did not offend citizens' moral commitments, as reflected in a pattern of
+nonenforcement. In those circumstances, the statutory ban in Lawrence
+was a recipe for arbitrary and even discriminatory action, in a way that
+does violence to democratic ideals and even the rule of law. It does
+violence to democratic ideals because a law plainly lacking public
+support is nonetheless invoked to regulate private conduct. It violates
+the rule of law because a measure of this kind lacks, in practice, the
+kind of generality and predictability on which the rule of law depends. 98</p>
+        <p>If this is the foundation for Lawrence, then the decision, while fatal
+to due process traditionalism, is not at all fatal to the minimal reading of
+the right to marry. It is not fatal to that reading because no problem of
+desuetude is involved. Indeed, no such problem is involved even if the
+idea of desuetude could be extended beyond the criminal law. Even if
+so, almost all states refuse to recognize marriages that exceed the
+minimal understanding; and because the refusal is widespread, it is
+acceptable. Indeed, Lawrence might be read to reach beyond the realm
+of desuetude to embody a general project of judicial modernization,
+involving not simply substantive due process but equal protection and
+cruel and unusual punishment as well.99 But even if that general project
+is embraced (of course a controversial matter), it does not justify, at the
+96 See David A. Strauss, Modernization and Representation Reinforcement: An Essay in
+Memory of John HartEly, 57 STAN. L. REv. 761 (2004), for a discussion of "modernization" in
+connection with Lawrence.</p>
+        <p>97 See Cass R. Sunstein, What Did Lawrence Hold? OfAutonomy, Desuetude,Sexuality, and
+Marriage,2003 SUP. CT. REV..27.</p>
+        <p>98 See LON FULLER, THE MORALITY OF LAW (1962).
+99 See the illuminating and suggestive treatment in Strauss, supranote 96.
+present time, judicial rulings that go beyond the minimal understanding
+of the right to marry.</p>
+      </sec>
+      <sec id="sec-2-15">
+        <title>Rationality,Arbitrariness,Invidiousness</title>
+        <p>Lawrence has a great deal of ambiguity, and some people might be
+tempted to understand the decision in a way that suggests a broad
+autonomy principle, 10 0 one that might well jeopardize the minimal
+understanding. To clarify the issue, imagine a maximal understanding
+of the scope of the right to marry: two or more people have a right of
+access to the marital relationship, with its expressive and material
+incidents, unless the relevant restriction is supported by compelling
+justifications. It should not be so difficult to imagine a parallel world,
+perhaps not so radically different from our own, in which the maximal
+understanding were accepted. In such a world, people could deem
+themselves married, and receive the appropriate license from the state,
+so long as force and fraud were not involved. Religious marriages and
+official licensing would be entirely severed. Approval and disapproval
+would operate through norms, not through law. Should this
+understanding be accepted? What would be the implications?</p>
+        <p>For many two-person marriages that are currently void, voidable,
+or criminal, compelling justifications for restricting marriage are
+present, and hence the relevant prohibitions would be upheld even under
+the maximal understanding. Thus prohibitions on nonconsensual
+marriages are plainly legitimate; so too with marriages involving people
+who are underage, and most incestuous marriages. Just as under the
+minimal understanding, some incestuous marriages would be in trouble
+under the maximal understanding; but most would not. The real
+difference between the minimal and the maximal understanding
+operates along only two dimensions. First, the latter eliminates the
+numerosity requirement. 10 1 Second, the latter eliminates the ban on
+same-sex marriages. There is no sign that the first step will attract any
+interest from federal or state judges; the second step is of course an
+active area of controversy, at least in the state courts and in democratic
+arenas. 102</p>
+        <p>100 See Laurence Tribe, Lawrence v. Texas: The "FundamentalRight" That Dare Not Speak
+Its Name, 117 HARV. L. REV. 1893 (2004).</p>
+        <p>101 Cf Emens, supra note 3, at 284 (discussing that requirement but without reference to the
+institution of marriage).</p>
+        <p>102 See Goodridge v. Dep't of Pub. Health, 798 N.E.2d 941 (Mass. 2003). Goodridge relied on
+the Massachusetts Constitution to strike down bans on same-sex marriages. My cautionary notes
+here, about the need for judicial deference, are strongest in the context of federal judicial
+decisions, which by hypothesis have national application; there is far more room for
+experimentation within state courts, especially because states can allocate authority to their own</p>
+        <p>If the maximal understanding were adopted, the numerosity
+requirement would come under severe pressure. Put to one side the fact
+that it is fanciful to suppose that such pressure might be imposed in the
+near future. What would happen if it were? The question is whether
+states could produce compelling justifications for refusing to recognize
+marriages of three or more people. An initial justification would
+suggest that many of the material benefits of marriage make sense only
+for couples. To come to terms with this justification, we would have to
+go through those benefits one by one. Very likely, federal and state
+governments would be able to support their refusal to give joint filing
+privileges to four-person "marriages"; such privileges might produce
+substantial tax benefits for no sufficient reason. Perhaps states could
+compellingly justify the decision to withhold some, but not all, of the
+material incidents of marriage from polygamous relationships. But
+even if so, the maximal understanding might nonetheless require states
+to recognize certain relationships as "marital" for expressive reasons. In
+other words, acceptance of the maximal understanding would make it
+necessary to distinguish between the material and expressive incidents
+of marriage-and also to treat the various material incidents as distinct.</p>
+        <p>But these points do not capture the real reason that polygamous
+relationships cannot be deemed "marriages." Note here that most states
+do not merely refuse to recognize them as such; they also impose
+criminal penalties on those who participate in them. All this is because
+the state believes that polygamous relationships cause individual and
+social harm and in any case are immoral. Under the maximal
+understanding, however, states must produce compelling justifications
+for the relevant laws. 0 3 Should they be required to do so?</p>
+        <p>I do not believe so. A central reason is institutional; the maximal
+understanding would place courts in a position for which they are
+extremely ill-suited. It would require them to assume the exceptionally
+difficult task of policing the adequacy of official justifications for
+refusing to recognize marriages that involve more than two people.
+Those justifications are best evaluated democratically, not judicially. If
+this objection is convincing, then we can imagine an intermediate
+understanding of the scope of the right to marry: two adults have a right
+courts as they wish, and because state constitutions are more readily amended than the national
+Constitution is. In my view, it would have been far better if gay marriage had been authorized
+democratically rather than judicially, even in Massachusetts; but there is less reason for
+institutional objections if state courts are involved. In fact aggressive decisions by state courts
+have the advantage of ensuring a degree of experimentation (subject to democratic override). If
+one or more states recognize less traditional marriages, it will be possible to see how they work
+out in practice, and hence to evaluate the objections of those who fear adverse social
+consequences.</p>
+        <p>103 Even if we put marriage to one side, Lawrence raises serious questions about statutory bans
+on polygamous relationships so long as they are voluntary.
+of access to the marital relationship, with its expressive and material
+incidents, unless the relevant restriction is supported by compelling
+justifications. Is this understanding preferable from the constitutional
+point of view? How should that question be answered?</p>
+      </sec>
+      <sec id="sec-2-16">
+        <title>FromDue Process to EqualProtection</title>
+        <p>104 This argument is sketched in Sunstein, supranote 82, at 1174-75.
+involves an evaluation, by federal courts, of the lines that traditions
+have drawn. If so, then the due process inquiry, testing the legitimacy
+of relevant lines, replicates the equal protection inquiry, but in a more
+indirect form. Perhaps it is appropriate for federal courts, under the Due
+Process Clause, to posit some general value (say, sexual autonomy) and
+to assess particular practices in light of that value. But at least there is
+some sense in being direct and explicit about the matter-of
+acknowledging that an equality norm is being brought to bear on the
+question whether the tradition should be understood at a level of great
+specificity or a somewhat higher level of abstraction. I am suggesting,
+then, that judgments about the scope of the right to marry ought to be
+made with close attention to the Equal Protection Clause.</p>
+        <p>Do bans on same-sex marriage violate that clause? 10 5 To answer
+that question, the question of constitutional principle must be
+distinguished from the question of appropriate judicial decisions. In
+principle, I believe that it is not easy to defend this form of
+discrimination against gays and lesbians in constitutionally acceptable
+terms. What sorts of social harms would follow from recognizing
+marriages between people of the same sex? It is conventional to argue
+that the refusal to recognize same-sex marriage is a way of protecting
+the marital institution itself. If same-sex marriages were permitted,
+perhaps marriage itself would be endangered, at least in its traditional
+form. But aside from simple semantic arguments, this is very puzzling;
+how do same-sex marriages threaten the institution of marriage?
+Extending the right to enter into marriage would not seem to endanger
+traditional marriages-unless it were thought that significant numbers
+of heterosexuals would forego traditional marriages if gay and lesbian
+marriages were permitted (a difficult causal argument, to say the least).</p>
+        <p>Or perhaps same-sex marriages would harm children-an
+empirical claim on which there is much dispute. 0 6 Do we really have
+enough evidence of harm to justify a ban? Perhaps a kind of
+precautionary principle 0 7 could be sufficient, suggesting that societies
+should not play dice with children even if the evidence is speculative or
+unclear-an idea that should almost certainly survive rationality review,
+even with the complication that states that disallow same-sex marriages
+sometimes permit gay adoptions. If it is possible to question whether
+children do as well with gay or lesbian couples, perhaps states have
+sufficient grounds to ban gay or lesbian marriages. But under strict
+105 See SUNSTEIN, supranote 87.</p>
+        <p>106 See George W. Dent, Traditional MarriageStill Worth Defending, 18 B.Y.U. J. PUB. L.
+419, 428, 432 (2004) (claiming that "[t]raditional marriage is the best context for raising
+children," a notion that social scientists have set out to prove empirically, because same-sex
+marriage will sever the connection between marriage and child rearing).</p>
+        <p>107 On the role of that principle is environmental law, see CASS R. SUNSTEtN, LAWS OF FEAR:
+BEYOND THE PRECAUTIONARY PRINCIPLE (2005).
+scrutiny, speculation is not enough; and in any case the argument at
+most justifies a ban on gay adoptions, and not on gay marriages.</p>
+        <p>Countless people believe that the state can legitimately reserve the
+idea of marriage to men and women for expressive reasons. Perhaps the
+state can urge that it does not want to give the same expressive support
+to same-sex unions as to opposite-sex unions. Perhaps it does not want
+to "endorse" such unions or to suggest that they are appropriate or
+legitimate, or have a standing similar to that of traditional marriage.
+But why not? Why should states refuse to endorse such unions?
+Compare the case of adultery, where the defense of traditional marriage
+and expressive condemnation are far easier to understand. As compared
+to a ban on same-sex marriages, a prohibition on adultery seems simple
+to justify. Such a prohibition is likely, in numerous cases, to protect one
+or even both spouses, while also protecting children. If, as seems clear,
+Lawrence draws prohibitions on adultery into some doubt, it would
+seem much harder to invoke expressive condemnation in support of
+prohibitions on same-sex marriage, which have a far weaker foundation
+in the goal of protecting traditional marriage.</p>
+        <p>For those who believe that the ban on same-sex marriages raises a
+serious equality problem, a key problem is institutional. It involves
+appropriate judicial modesty in the face of strong public convictions and
+in particular the distinctive judicial virtue of prudence. As Alexander
+Bickel emphasized, the point is highly relevant to constitutional law,
+especially in the area of social reform.108 As it operates in the courts,
+constitutional law is a peculiar mixture of substantive theory and
+institutional constraint. Constitutional rights are systematically
+"underenforced" by the judiciary, and for excellent institutional
+reasons. 109 Those reasons have to do with the courts' limited
+factfinding capacities, their weak democratic pedigree, their limited
+legitimacy, and their likely ineffectiveness as frequent instigators of
+social reform. There are strong prudential reasons for federal courts to
+hesitate in the context of same-sex marriage, not least because the issue
+of same-sex marriage is under intense discussion at the local, state, and
+national levels-and there are many possibilities, ranging from diverse
+forms of civil unions to ordinary marriage. Some platitudes are worth
+repeating: a central advantage of a federal system is that it permits a
+wide range of experiments; a central disadvantage of centralized rules is
+that they foreclose such experiments. In the context of criminal
+punishments for consensual activity, experiments should be avoided.
+But in the context of marriage, a degree of flexibility should not be
+forbidden by federal courts.</p>
+        <p>108 See ALEXANDER BICKEL, THE LEAST DANGEROUS BRANCH (1965).</p>
+        <p>109 Cf Lawrence Gene Sager, Fair Measure: The Legal Status of Underenforced
+ConstitutionalNorms, 91 HARV. L. REV. 1212 (1978).</p>
+        <p>As in the context of abortion, it would be most unfortunate if the
+Supreme Court settled the issue at this early stage. In fact the Court
+gave fresh support to this idea in its standing decision in Elkgrove
+Unified School District v. Newdow, involving a challenge to the use of
+the words "under God" in the pledge of allegiance." 0 The Court
+emphasized that among "the principal areas in which this Court has
+customarily declined to intervene is the realm of domestic relations."'I
+It added that "in general it is appropriate for the federal courts to leave
+delicate issues of domestic relations to the state courts."' 1 2 Much of the
+Court's opinion stresses the need for judicial caution in the domain of
+family law.</p>
+        <p>This claim connects nicely with the suggestion that the Lawrence
+decision was rooted in an American-style version of desuetude. When a
+law has lost support in public convictions, judicial invalidation is least
+damaging to democratic goals and to the Court's own institutional
+position. At least at this stage, the ban on same-sex marriage stands on
+much firmer footing. I emphasize my belief that, in principle, such a
+ban raises serious equal protection concerns and is not simple to defend
+in constitutionally acceptable terms; the objection to an aggressive
+ruling from federal courts has everything to do with their properly
+limited role in the constitutional structure.</p>
+        <sec id="sec-2-16-1">
+          <title>AGAINST MARRIAGE? THE SURPRISINGLY PLAUSIBLE CASE FOR</title>
+          <p>DEREGULATION</p>
+          <p>An issue here still lurks in the background, one that raises even
+larger questions than those I have discussed thus far. Marriage is an
+official licensing scheme. Should it continue? Would deregulation be
+appropriate, here as elsewhere?</p>
+          <p>A.</p>
+        </sec>
+      </sec>
+      <sec id="sec-2-17">
+        <title>Problems</title>
+        <p>Many people argue that thb law ought to move in this direction."13
+For one thing, the institution of marriage has a discriminatory past,
+enmeshed as it has been in sex inequality, and this past cannot easily be
+severed from the current version of the institution. 14 For another, the
+110 Elk Grove Unified Sch. Dist. v. Newdow, 124 S. Ct. 2301 (2004). I am grateful to Mary
+Anne Case for pointing out the relevance of Newdow to the marriage issue.</p>
+        <p>I ld. at 2309.
+112 Id.
+113 See FINEMAN, supranote 2.
+114 See Nancy D. Polikoff, We Will Get What We Ask For: Why Legalizing Gay and Lesbian</p>
+        <p>MARRY
+marital institution was originally a means of licensing both sexual
+activities and child-rearing; and it no longer has that role. For many
+generations, official marriage served to authorize people both to have
+sexual relationships and to have and to raise children. But currently this
+is not so; indeed, people have a constitutional right to have sexual
+relationships outside of marriage, and people become parents, including
+adoptive parents, without the benefit of the marital form. In an era in
+which marriage is not a necessary condition for sex or for children,
+perhaps the state's role is no longer essential.</p>
+        <p>Still others emphasize that marriage has been a means for
+protecting dependents, above all children and women; but they contend
+that marriage is a crude tool for providing that protection, which could
+be ensured in better, more direct ways. 1 5 Note in particular that a
+primary reason for the official institution of marriage has been less to
+limit entry (though that is certainly one of its purposes) than to police
+exit. If divorce is difficult, as a result of legal restrictions or social
+norms, then marriages are more likely to be stable. Marital stability is
+often desirable for children. It can also be desirable for spouses, who
+may benefit from social understandings that work against impulsive or
+destructive decisions that are detrimental to their long-term welfare.
+But if exit is not policed, through law or accompanying social norms, it
+is at least harder to contend that the official institution of marriage is
+valuable as a way of promoting the stability of relationships. And in the
+modem era, exit is much less rigorously policed. As a matter of law, at
+least, people can generally leave the marital form whenever they wish to
+do so. Increasingly, marriage resembles a contract, dissoluble at the
+will of the parties, rather than a permanent status.</p>
+        <p>It is also possible to object to the freedom-limiting functions of the
+state's licensing system. Marriage licenses divide the world into the
+status of those who are "married" and those who are "single," in a way
+that produces serious economic and material disadvantages for the latter
+(and sometimes for the former). Many of these economic and material
+inequalities are not simple to defend. In any case, one or the other
+status has a number of signalingfunctions, some of them incompatible
+with the desires of those involved. Private relationships, intimate and
+otherwise, might be structured in many different ways, and the simple
+dichotomy between "single" and "married" does not do justice to what
+people might choose. Indeed, that simple dichotomy is an imprecise
+description of what people actually do choose, and perhaps increasingly
+so."1 6 Many people are in relationships that are intimate, committed,
+Marriage Will Not "Dismantle the Legal Structure of Gender in Every Marriage," 79 VA. L.
+REv. 1535 (1993).</p>
+        <p>115 See id.
+116 See id.; Emens, supranote 3, at 298 ("[A]dultery occurs often enough to undermine even
+and monogamous, but without the benefit of marriage. Many people are
+in marriages that are neither intimate nor monogamous. Countless
+variations are possible. Why not leave people's relationships to their
+own choices, perhaps subject to the judgments of relevant intermediate
+organizations, religious and otherwise?</p>
+        <p>To the extent that those choices leave gaps or uncertainties, the law
+could choose a menu of default rules, perhaps intended to mimic what
+most people would do, perhaps intended to force the parties to make
+their wishes clear, perhaps intended to protect those most in need of
+protection. An obvious concern is the well-being of children. But
+private arrangements, religious and otherwise, might provide as much
+protection of children as official marriage does; and the protection of
+children might be ensured directly, through requirements of care and
+support, rather than through marriage in its current form. It is also
+possible to insist that couples benefit from public statements of
+commitments-that the official institution of marriage helps to secure
+people's commitments to one another, in a way that is both an
+individual and social good. Probably this is so. But why is government
+licensing necessary? Might not private institutions be able to provide
+the same kinds of commitments?</p>
+        <p>B.</p>
+      </sec>
+      <sec id="sec-2-18">
+        <title>Thought Experiments andParallelWorlds</title>
+        <p>The answer is hardly clear. But beware of a simple negative
+answer, for the very familiarity of the institution of marriage might have
+a distorting influence. To clarify the problem, imagine a parallel world
+in which many people have official "best friends." In this parallel
+world, the status of best friend is officially licensed. Most of the time,
+there is a happy ceremony, and the relationship is accompanied by
+identifiable responsibilities and rights, some of them acknowledged and
+imposed by law. A best friend might, for example, have some of the
+economic rights that spouses enjoy-for example, to help make
+decisions in the event of incapacitation. In addition, it might be
+understood by all that best friends, having achieved that (legal) status,
+have strong informal duties to one another-to give comfort amidst
+distress, to celebrate good developments, and to put personal concerns
+to one side, when necessary, to attend to the relationship. We could
+even imagine a sincere suggestion, in our own world, that formalization
+of the status of "best friend" would help with an array of public and
+private problems. Perhaps it is not the worst imaginable idea.
+the idea of simple, serial monogamy-the idea that people have one sexual partner at a time.").</p>
+        <p>But we could also imagine a state in this parallel world, after
+having lived with the "best friend" status for generations, now deciding
+that it should eliminate the institution, on the ground that the formalized
+idea of "best friend" creates excessive rigidity, and that in general,
+people should be able to make private arrangements as they see fit.
+Radical reformers might make exactly this suggestion. If their
+arguments were heeded, people in this society, after the reforms, would
+certainly be permitted to announce to one another that they are "best
+friends" or even to have private "best friend" ceremonies. Or they
+could dispense with the idea if they chose. In this parallel world, the
+abolition of the status of "best friend" would count as a genuine
+revolution. But would it clearly be a mistake to abolish official best
+friend licenses? Those who object to the official institution of marriage
+think that people would be better off, all things considered, in a system
+in which state licensing did not occur.</p>
+        <p>Of course the analogy is imprecise. Very plausibly, the argument
+for best friend licenses is much weaker than the argument for marriage
+licenses. Consider, then, another parallel world, in which the relevant
+government has never recognized marriages, but in which it is possible
+to find a multiplicity of private arrangements. In this parallel world,
+many people are married within their religious traditions. Many others
+are married through secular institutions of one or another kind. Many
+couples do not marry at all. Monogamy is sometimes chosen;
+sometimes it is rejected. In this parallel world, a reformer proposes that
+states should grant licenses to couples willing to apply and who meet
+the relevant requirements. Perhaps the proposal should and will be
+accepted. But we could easily imagine a vigorous debate. The skeptics
+would contend that the state ought not to decide who can marry
+whom-that this is a decision for individuals and for private
+organizations. In any case, an appreciation of the grounds for their
+skepticism suggests that the case for an official, publicly administered
+institution of marriage is not entirely clear.</p>
+      </sec>
+      <sec id="sec-2-19">
+        <title>Solemnity, Conservatism,and Official Licensing</title>
+        <p>I am not contending that state licensing of marriage should be
+abolished. 1 7 For countless generations, people have relied on the
+existence of a state licensing scheme, and it is hardly clear that the
+scheme does more harm than good. The official ceremony,
+accompanied by state licenses, contributes to a degree of solemnity that
+is widely perceived as beneficial to those involved, and that almost
+117 See Bernstein, supra note 3, at 191-209 for detailed discussion.
+certainly contributes to the stability of relationships, in a way that
+benefits adults and children alike. Even with the official institution in
+place, people can organize their relationships in multiple different ways,
+through (for example) religious marriages that do not involve the state
+and informal understandings of monogamy or continuity that do not
+involve official marriage. Hence it is not at all clear that the institution
+of marriage does much damage.</p>
+        <p>There is an institutional point as well. For social reform, as for
+courts, the presumption should be in favor of incremental change; and
+abolition of state-licensed marriage would be anything but incremental.
+But it is important to understand the argument against official marriage,
+if only to show that the topic here is a form of government intervention,
+and that there is a sharp distinction between religious marriages, and
+marriages of other sorts, and marriages as recognized and legitimated by
+official licensors. What I have been discussing here is the latter, not the
+former.</p>
+        <p>CONCLUSION</p>
+        <p>My goal has been to make progress on two questions. The first is
+the content of the right to marry. The second is the scope of that right.</p>
+        <p>I have suggested that like the right to vote, the right to marry is a
+right of equal access to a publicly-administered institution. If a state
+abolished the official institution of marriage, it would be acting
+constitutionally, so long as it did not also abolish private marriage
+ceremonies. The state is under no obligation to confer either the
+expressive or the material benefits of marriage. Some of the
+associational benefits now connected with marriage could, and probably
+must, be respected even if marriage did not exist. But this is not a claim
+that marriage itself must be recognized by state law. These points help
+to show that the right to marry is parasitic on positive law. It is a right
+of access, by those who enjoy it, to the expressive and material benefits
+that official marriage provides.</p>
+        <p>This point strongly suggests that the right to marry ought not to be
+protected as a matter of substantive due process. It is far more sensibly
+seen as part of the "fundamental rights" branch of equal protection
+doctrine. Unfortunately, there is no simple explanation of why it should
+so qualify. The most plausible account points to the expressive benefits
+of marriage. It suggests that in view of the great importance of those
+benefits, and their relationship to other constitutionally protected
+interests, states must provide extremely strong justifications for
+interfering with the right to marry.</p>
+      </sec>
+      <sec id="sec-2-20">
+        <title>MARRY</title>
+        <p>I have also identified competing understandings of the scope of the
+right to marry. The minimal understanding views the right to require
+access, by any couple consisting of one adult man and one adult
+woman, to the expressive and material benefits of marriage, so long as
+the institution of marriage exists. This minimal understanding has the
+advantage of fitting with the Court's decisions; it also has a degree of
+simplicity, promises a deferential role for courts, and can claim to build
+on, rather than to reject, longstanding traditions. The minimal
+understanding does create problems for some bans on incestuous
+marriages; but where those bans cannot be plausibly defended by
+reference to actual harm, judicial invalidations are hardly deplorable.</p>
+        <p>The chief advantage of the minimal understanding is that it
+promises to minimize judicial discretion and to rely on practices that,
+simply because they are time-honored, have a claim to social respect.
+The chief disadvantage of the minimal understanding is that it has a
+degree of arbitrariness. The best way to handle that arbitrariness, I
+suggest, is not through the Due Process Clause, which grows out of
+traditional practices, but through the antidiscrimination principles of the
+Equal Protection Clause, which is sharply critical of them. There can be
+no doubt that the Due Process Clause, in its substantive guise, has come
+to have an equality component, one that tests the question whether the
+lines drawn by tradition can claim adequate support. 1 8 But for
+constitutional purposes, any judgment about the right to marry involves
+an assessment of the legitimacy of those lines. There are significant
+advantages in acknowledging that the Equal Protection Clause, a
+selfconscious attack on traditional practices, is the relevant text for making
+that assessment. I have suggested that in principle, there are serious
+constitutional problems with the ban on same-sex marriage. But I have
+also suggested that federal courts should greatly hesitate in this domain,
+allowing a great deal of room for democratic judgment and for state
+experimentation.</p>
+        <p>
+          What about the marital institution itself? There are surprisingly
+plausible arguments for privatization-for eliminating the government's
+role and for allowing private institutions, religious and otherwise, to do
+as they wish, subject to default rules and criminal prohibitions. Some of
+the longstanding arguments for official marriage have been weakened,
+now that exit is freely available, and now that private alternatives are
+legally permissible. In addition, the official institution does some harm,
+insofar as it makes certain distinctions that are not so easy to justify (as,
+for example, in the tax code), and insofar as it separates, too rigidly,
+relationships into the simple dichotomy of "married" and "unmarried."
+118 See Lawrence v. Texas, 539 U.S. 5
+          <xref ref-type="bibr" rid="ref12">58 (2003</xref>
+          ). For a defense of this view, see
+Developments in the Law-The Constitution and the Family, 93 HARV. L. REV. 1156, 1177,
+1186-92 (1980).
+        </p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          33 See supra note 4;
+          <string-name>
+            <surname>Thomas</surname>
+            <given-names>F.</given-names>
+          </string-name>
+          <string-name>
+            <surname>Coleman</surname>
+          </string-name>
+          , The High Cost of Being Single in America, at http://www.unmarriedamerica.org/cost-discrimination.
+          <source>htm (last visited Mar</source>
+          .
+          <volume>31</volume>
+          ,
+          <year>2005</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <source>34 I draw here on Bernstein, supra note 3</source>
+          ,
+          <string-name>
+            <given-names>and David L.</given-names>
+            <surname>Chambers</surname>
+          </string-name>
+          ,
+          <source>What If? The Legal Consequences of Marriageandthe Legal Needs of Lesbian andGay Male Couples</source>
+          ,
+          <volume>95</volume>
+          MICH. L. REV.
+          <volume>447</volume>
+          (
+          <year>1996</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          35 See, e.g.,
+          <string-name>
+            <surname>Dorothy</surname>
+            <given-names>A</given-names>
+          </string-name>
+          .
+          <string-name>
+            <surname>Brown</surname>
+          </string-name>
+          , The Marriage Penalty/Bonus Debate:
+          <source>Legislative Issues in Black and White</source>
+          ,
+          <volume>16</volume>
+          N.
+          <string-name>
+            <given-names>Y.L.</given-names>
+            <surname>SCH</surname>
+          </string-name>
+          .
+          <source>J. HUM. RTS</source>
+          .
+          <volume>287</volume>
+          ,
+          <fpage>288</fpage>
+          -
+          <lpage>90</lpage>
+          (
+          <year>1999</year>
+          )
+          <article-title>[hereinafter Brown, Debate] (describing how the marriage bonus is highest in one-income households); Dorothy A</article-title>
+          . Brown, Race, Class, and Gender Essentialism in Tax Literature: The Joint Return,
+          <volume>54</volume>
+          WASH. &amp;
+          <string-name>
+            <surname>LEE L. REV</surname>
+          </string-name>
+          .
+          <volume>1469</volume>
+          ,
+          <issue>1479</issue>
+          (
+          <year>1997</year>
+          )
+          <article-title>(describing the effects of marriage on a couple's federal tax liabilities); Robert S.McIntyre</article-title>
+          &amp;
+          <string-name>
+            <surname>Michael J. McIntyre</surname>
+          </string-name>
+          ,
+          <source>Fixingthe "MarriagePenalty" Problem</source>
+          ,
+          <volume>33</volume>
+          VAL. U. L. REV.
+          <volume>907</volume>
+          (
+          <year>1999</year>
+          )
+          <article-title>(same).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          36
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Brown</surname>
+          </string-name>
+          , Debate, supranote
+          <volume>35</volume>
+          , at 288-90 (
+          <article-title>giving examples of the marriage penalty for spouses with similar incomes).</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          37 29 U.S.C. §§
+          <fpage>2601</fpage>
+          -
+          <lpage>54</lpage>
+          (
+          <year>2000</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          38 See, e.g.,
+          <source>Jonathan Andrew Hein, Caringfor the Evolving American Family: Cohabitating Partnersand Employer Sponsored Health Care</source>
+          , 30
+          <string-name>
+            <given-names>N.M. L.</given-names>
+            <surname>REV</surname>
+          </string-name>
+          .
+          <volume>19</volume>
+          , 21 n.
+          <volume>20</volume>
+          (
+          <year>2000</year>
+          )
+          <article-title>(citing Dennis Hostetler</article-title>
+          &amp;
+          <string-name>
+            <surname>Joan E. Pynes</surname>
+          </string-name>
+          ,
+          <source>Domestic PartnershipBenefits: Dispelling the Myth, 15 REV. PUB. PERSONNEL ADMIN</source>
+          .
+          <volume>44</volume>
+          ,
+          <issue>51</issue>
+          (
+          <year>1995</year>
+          )).
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          53
+          <string-name>
+            <given-names>See</given-names>
+            <surname>Hague</surname>
+          </string-name>
+          <article-title>v</article-title>
+          .
+          <source>Comm. for Indus</source>
+          . Org., 307 U.S.
+          <volume>496</volume>
+          ,
+          <issue>515</issue>
+          (
+          <year>1939</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          54
+          <string-name>
+            <surname>See CASS R. SUNSTEIN</surname>
+          </string-name>
+          ,
+          <string-name>
+            <surname>REPUBLICCOM</surname>
+          </string-name>
+          (
+          <year>2001</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          55 See Maher v.
+          <source>Roe</source>
+          , 432 U.S.
+          <volume>464</volume>
+          (
+          <year>1977</year>
+          );
+          <article-title>Harris v</article-title>
+          .
+          <source>McRae</source>
+          ,
+          <volume>448</volume>
+          U.S.
+          <volume>297</volume>
+          (
+          <year>1980</year>
+          ).
+          <article-title>There are important qualifications. The right to private property and freedom of contract, for example, require affirmative government action. See STEPHEN HOLMES</article-title>
+          &amp;
+          <string-name>
+            <surname>CASS R. SUNSTEIN</surname>
+          </string-name>
+          ,
+          <source>THE COST OF RIGHTS</source>
+          (
+          <year>1999</year>
+          ).
+          <article-title>I am speaking here in the conventional doctrinal terms</article-title>
+          .
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <source>56 See sources cited supra note 55.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <article-title>57 Virginia has apparently tried to do this in the case of same-sex marriages</article-title>
+          .
+          <source>See VA</source>
+          .
+          <source>CODE ANN. § 20-45.3 (Michie</source>
+          <year>2004</year>
+          )
+          <article-title>; sources cited infra note 69. I am grateful to Elizabeth Emens for bringing this peculiar statute to my attention.</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          58 See, e.g., Lawrence v.
+          <source>Texas</source>
+          , 539 U.S.
+          <volume>558</volume>
+          (
+          <year>2003</year>
+          );
+          <article-title>Moore v</article-title>
+          . .
+          <source>City of E. Cleveland</source>
+          , 431 U.S.
+          <volume>494</volume>
+          (
+          <year>1977</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          59 See, e.g.,
+          <article-title>Harper v</article-title>
+          .
+          <source>Va. State Bd. of Elections</source>
+          , 383 U.S.
+          <volume>663</volume>
+          (
+          <year>1966</year>
+          );
+          <article-title>Reynolds v</article-title>
+          .
+          <source>Simms</source>
+          , 377 U.S.
+          <volume>533</volume>
+          (
+          <year>1964</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          60 See, e.g.,
+          <source>Harper</source>
+          ,383 U.S. at 667; Reynolds, 377 U.S. at 561-
+          <fpage>62</fpage>
+          . 1.
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <source>65 See 750 ILL. COMP. STAT. 5/212</source>
+          (
+          <year>2004</year>
+          )
+          <article-title>; see also</article-title>
+          , e.g.,
+          <source>In re Marriage of Flores</source>
+          , 421
+          <string-name>
+            <surname>N.E.</surname>
+          </string-name>
+          <article-title>2d 393 (Ill</article-title>
+          . App. Ct.
+          <year>1981</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          <source>66 See 750 ILL. COMP. STAT. 5/212</source>
+          (
+          <year>2004</year>
+          )
+          <article-title>; see also MISS</article-title>
+          .
+          <source>CODE ANN. § 93-1-1</source>
+          (
+          <year>2004</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <source>67 See 750 ILL. COMP. STAT. 5/212</source>
+          (
+          <year>2004</year>
+          )
+          <article-title>; see also MASS. GEN</article-title>
+          .
+          <source>LAWS ANN. ch. 207, § 4 (West</source>
+          <year>2004</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          68 See N.Y. DoM. REL. LAW §§ 5-
+          <fpage>6</fpage>
+          (
+          <issue>Consol</issue>
+          .
+          <year>2004</year>
+          ).
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          69 VA. CODE ANN. §
+          <volume>20</volume>
+          -
+          <fpage>45</fpage>
+          .3 (
+          <issue>Michie</issue>
+          <year>2004</year>
+          ).
+          <article-title>This provision contains a good deal of ambiguity. What does it mean for a contract to purport "to bestow the privileges or obligations of marriage?" Insofar as those privileges or obligations can be granted by positive law, and not by voluntary agreement, no contract could bestow them. On the other hand, some of those privileges and obligations-for example, the right to make decisions in one's stead in the event of</article-title>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>

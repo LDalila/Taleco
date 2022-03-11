@@ -1,0 +1,2141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns:xlink="http://www.w3.org/1999/xlink">
+  <front>
+    <journal-meta>
+      <journal-title-group>
+        <journal-title>IVol.</journal-title>
+      </journal-title-group>
+    </journal-meta>
+    <article-meta>
+      <title-group>
+        <article-title>Interpreting Statutes in the Regulatory State</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <string-name>Cass R. Sunstein</string-name>
+          <xref ref-type="aff" rid="aff0">0</xref>
+        </contrib>
+        <contrib contrib-type="editor">
+          <string-name>Recommended Citation</string-name>
+        </contrib>
+        <aff id="aff0">
+          <label>0</label>
+          <institution>Faculty Scholarship</institution>
+        </aff>
+      </contrib-group>
+      <pub-date>
+        <year>1989</year>
+      </pub-date>
+      <volume>103</volume>
+      <issue>405</issue>
+      <fpage>1989</fpage>
+      <lpage>1990</lpage>
+    </article-meta>
+  </front>
+  <body>
+    <sec id="sec-1">
+      <title>INTERPRETING STATUTES IN THE</title>
+      <p>REGULATORY STATE</p>
+      <sec id="sec-1-1">
+        <title>Cass R. Sunstein</title>
+        <p>TABLE OF CONTENTS
+I. INTRODUCTION ............................................................</p>
+        <p>A. The Problem ...........................................................</p>
+        <p>B. Interpretive Principles ..................................................
+PAGE
+V. CONCLUSION ..............................................................</p>
+        <p>APPENDIX: INTERPRETIVE PRINCIPLES, OLD AND NEw ............................</p>
+        <sec id="sec-1-1-1">
+          <title>Discussing the judge's role in interpretingstatutes, Justice Holmes wrote</title>
+          <p>that "if my fellow citizens want to go to Hell I will help them. It's my job."'</p>
+        </sec>
+        <sec id="sec-1-1-2">
+          <title>Critics of the view of the courts as passive agents of the legislature claim</title>
+          <p>that it understates the difficulty of interpretation,the indeterminacy of both
+the language and the will of the citizens, and the resulting discretion of the
+judge. Similarly, a vigorous debate continues over the proper role of the
+traditional sources of statutory interpretation- the text, the legislative
+history, the purpose of the enacting Congress, and the structure of the statute.
+Professor Sunstein suggests that both the conventional understandings of
+interpretationand the recent critiques are seriouslyflawed. Because
+interpretationinevitably involves the applicationof "backgroundnorms" - often
+controversial, value-laden, and not found in any text - the traditional
+theories are incomplete. These theories, however, properly stress the
+democratic primacy of Congress. When congressional instructions are clear and
+do not create absurdity, courts should follow them. Often, however, the
+instructions are ambiguous, and judges must choose from a number of
+possible background norms.</p>
+          <p>Suggesting that many disputes over statutory meaning are in fact
+disagreements over appropriatebackground norms, ProfessorSunstein contends
+that the debate should center on whether the proposed norms express a good
+understanding of constitutional values; are properly responsive to
+contemporary institutional arrangements involving the making, monitoring, and
+enforcement of law; and are sensitive to the aspirationsand functions as
+* Karl N. Llewellyn Professor of Jurisprudence, Law School and Department of Political
+Science, University of Chicago. I am grateful to many colleagues and friends for their help
+with this essay. Bruce Ackerman, Akhil Amar, Douglas Baird, Jack Beermann, Frank Buckley,
+Frank Easterbrook, Jon Elster, Richard Epstein, William Eskridge, Richard Fallon, Philip
+Frickey, Stephen Gilles, Don Herzog, Stephen Holmes, Donald Horowitz, Benjamin Kaplan,
+Larry Kramer, John Langbein, Howard Latin, Larry Lessig, Jon Macey, Geoffrey Miller,
+Martha Minow, Richard Posner, Susan Rose-Ackerman, Frederick Schauer, Richard Stewart,
+Geoffrey Stone, David Strauss, Lloyd Weinreb, Robin West, James Boyd White, and John
+Wiley offered valuable comments on all or parts of the manuscript. I am also grateful to
+participants in helpful workshops at the University of California at Los Angeles, Harvard
+University, the University of Michigan, New York University, Princeton University, Tulane
+University, and the University of Virginia. D. Gordon Smith, Gamhk Markarian, and Catherine
+O'Neill provided research assistance and useful comments. Finally, I am grateful to the Law
+and Government Program of the University of Chicago for generous support.</p>
+          <p>Some of the material in this Article is also included, in different form, as parts of chapters
+4 and 5 in C. SUNSTEIN, AFTER THE RIGHTS REVOLUTION: CONSTITUTIONAL GOVERNMENT
+AND THE REGULATORY STATE (forthcoming I9go).</p>
+          <p>1 I HOLMES-LASKI LETTERS 249 (M. Howe ed. 1953).
+['9ol. 103:405
+well as the shortcomings of regulatory statutes. Professor Sunstein concludes
+by outlininga series of norms - some based on current interpretivepractices,
+others reflecting his own normative vision. All the norms are designed to
+focus disputes over statutory meaning more sharply on the underlying issues
+and to deepen understandingof the regulatory state.</p>
+          <p>I. INTRODUCTION</p>
+        </sec>
+        <sec id="sec-1-1-3">
+          <title>A. The Problem</title>
+          <p>TN the early part of the twentieth century, courts often treated
+Iregulatory statutes as foreign substances. 2 Starting from principles
+of laissez-faire, judges saw statutory protections of workers,
+consumers, and others as unprincipled interest-group transfers supported by
+theories that were at best obscure and often disingenuous. 3 By
+contrast, judge-made doctrines of property, contract, and tort seemed to
+create a system with integrity and coherence.</p>
+          <p>The role of the courts in this period was one of damage control.
+The most important organizing principle for interpretation was that
+regulatory statutes should be construed narrowly - so as to harmonize
+as much as possible with principles of private markets and private
+rights. 4 This approach grew out of the idea that courts should
+narrowly construe statutes in derogation of the common law.5</p>
+          <p>The New Deal period marked an enormous change in the size and
+character of the national government. 6 The decade between 193o and
+2 See, e.g., B. CARDOZO, THE PARADOXES OF LEGAL SCIENCE 9 (1928) ("The truth is that
+many of us, bred in common law traditions, view statutes with a distrust which we may deplore,
+but not deny.").</p>
+          <p>3 See, e.g., United States v. Elgin, J. &amp; E. Ry., 298 U.S. 492 (1936); FTC v. Eastman
+Kodak Co., 274 U.S. 619, 623-25 (1927); FTC v. American Tobacco Co., 264 U.S. 298,
+305o6 (1924); FTC v. Gratz, 253 U.S. 422, 427-28 (1920).</p>
+          <p>4 See, e.g., cases cited supra note 3; F. FRANKFURTER &amp; N. GREENE, THE LABOR
+INJUNCTION 165-82 (1930) (exploring the federal courts' nullification of the Clayton Act); see also
+Pound, Common Law and Legislation, 22 HARV. L. REV. 383, 387-88, 4o6-07 (I9o8) (criticizing
+use of interpretive principles that are out of touch with contemporary social and economic
+thought); Pound, Courts and Legislation, 7 AM. POL.-ScI. REV. 361, 374-75 (1913) (same).</p>
+          <p>This principle of narrow construction, like many others of the past and present, was not
+always invoked explicitly. Often it operated invisibly or in the background. When interpretive
+principles are not referred to expressly, their use is often reflected in the court's treatment of
+the statutory language. See infra pp. 437-41; see also infra pp. 464-66 (discussing when
+controversial substantive and institutional norms should be applied).</p>
+          <p>5 See, e.g., Shaw v. Railroad Co., 1oi U.S. 557, 565 (1879); Johnson v. Southern Pac. Co.,
+117 F. 462, 466 (8th Cir. 2902), rev'd, x96 U.S. I (1904); see also Fordham &amp; Leach,
+Interpretation of Statutes in Derogationof the Common Law, 3 VAND. L. REV. 438, 450-5I &amp;
+nn.7374 (i5o) (listing cases in which courts ignored statutes instructing them not to construe statutes
+narrowly).</p>
+          <p>6 On the pre-New Deal developments, see S. SKOWRONEK, BUILDING THE NEw AMERICAN
+STATE: THE EXPANSION OF NATIONAL ADMINISTRATIVE CAPACITIES, 1877-1920 (1982).
+1940 saw the creation of as many agencies - seventeen - as had
+been created in the entire period between the framing of the
+Constitution and the close of the nineteenth century. 7 During the "rights
+revolution" of the 196o's and 1970's, the national government
+substantially increased its regulatory responsibilities by moving to protect
+the interests of consumers, the national environment, and victims of
+discrimination. 8 The emergence of the regulatory state represents a
+shift in both the substance of law and the institutions through which
+law is made and enforced, 9 and the sheer volume of federal statutes
+and regulations has dramatically changed the business of the federal
+courts.' 0 In particular, the work of federal judges has increasingly
+involved the interpretation of federal enactments.</p>
+          <p>The demands of the modern administrative state ultimately made
+it impossible for courts to sustain a theory of interpretation rooted in
+nineteenth-century common law. As a result, interpretive practices
+have changed. Courts have often repudiated private-law baselines for
+interpreting public law and have been less antagonistic to regulatory
+statutes.11</p>
+          <p>In many respects, however, the theory and practice of public law
+have not outgrown the understandings that underlay the initial period
+of judicial antagonism. 12 That period is unmistakably recalled by
+7 See FINAL REPORT OF THE ATTORNEY GENERAL'S COMMITTEE ON ADMINISTRATIVE
+PROCEDURE 7-I1 (1941).</p>
+          <p>s For comparisons between the New Deal and the rights revolution, see R. HARRIS &amp; S
+MILKIS, THE POLITICS OF REGULATORY CHANGE 53-96 (x989); and Vogel, The "New" Social
+Regulation in Historicaland Comparative Perspective, in REGULATION IN PERSPECTIVE 155 (T.
+McCraw ed. I98I).</p>
+          <p>9 See generally Sunstein, ConstitutionalismAfter the New Deal, ioi HARV. L. REV. 421,
+437-46 (1987) (discussing substantive and institutional reform in the New Deal period).</p>
+          <p>10 The proliferation of statutes in modern law has been widely observed both on the bench,
+see, e.g., R. POSNER, THE FEDERAL COURTS 53, 83-84 (1985); Traynor, Statutes Revolving in
+Common Law Orbits, 17 CATH. U.L. REV. 401, 402 (1968) (observing that cases "increasingly
+involve the meaning or applicability of a statute"), and in academia, see, e.g., G. GILMORE,
+THE AGES OF AMERICAN LAW 95 (1977) (describing an "orgy of statute making"). Recent
+statistics confirm these intuitions. In 1985, for example, nearly 20% of all civil filings involved
+four regulatory areas - social security, labor, tax, and civil rights. See ADMINISTRATIVE
+OFFICE OF THE UNITED STATES COURTS, FEDERAL JUDICIAL WORKLOAD STATISTICS at a-16
+to a-17 (1985) (table C-3). Moreover, because most commercial disputes have been absorbed
+into the regulatory arena through the Uniform Commercial Code, and because "contract cases"
+account for nearly 40% of all filings, see id., the federal courts probably hear many more
+statutory than common law claims.</p>
+          <p>11 See, e.g., Switchmen's Union v. National Mediation Bd., 320 U.S. 297 (1943) (denying
+judicial review of agency decision); Gray v. Powell, 314 U.S. 402 (1941) (deferring to agency
+interpretation of law).</p>
+          <p>12 Over 8o years ago, Roscoe Pound voiced similar complaints about the persistence of
+judicial adherence to common law principles. See Pound, Common Law and Legislation, supra
+note 4, at 385-86; accord Landis, Statutes and the Sources of Law, in HARVARD LEGAL ESSAYS
+213, 213 (1934).
+recent suggestions that courts should indulge a presumption in favor
+of private ordering and should interpret regulatory statutes so as to
+intrude minimally on the private market. 13 The nineteenth-century
+view that regulatory statutes should be viewed against a background
+of common law property and contract rights and hence as naked
+wealth transfers also finds a modern home, in the increasingly
+prominent idea that statutes should be seen as unprincipled "deals" among
+self-interested private actors. 14 Similarly, those who emphasize the
+findings of public choice theory would treat statutes as lacking
+coherent normative underpinnings.' 5</p>
+          <p>The initial judicial skepticism about the legitimacy and' coherence
+of statutory law is also recalled by both poles of the contemporary
+debate over the possibility of constrained or objective legal
+interpretation. At one extreme, some courts and observers see the text or
+"plain meaning" of statutory language as the exclusive or principal
+guide to meaning. 16 At the opposite extreme, other commentators
+claim that legal terms are quite generally indeterminate 7 or have the
+meaning that those with authority choose to impose on them.' 8
+Despite their differences, the two camps share a number of assumptions.
+Both treat regulatory statutes as an undifferentiated and unprincipled
+whole, without distinct and accessible purposes. Because members of
+both camps see no way to mediate the sharp ideological disagreements
+that sometimes underlie interpretive disputes, some are driven to the
+13 See, e.g., J. RABKIN, JUDICIAL COMPULSIONS: How PUBLIC LAW DISTORTS PUBLIC
+POLICY (1989); Easterbrook, Statutes' Domains, 5o U. CHI. L. REV. 533, 544-5I (1983). Many
+recent decisions appear to respond to a principle in favor of private ordering. See, e.g.,
+Independent Fed'n of Flight Attendants v. Zipes, 109 S. Ct. 2732 (1989) (discussed below in
+note 305); Wards Cove Packing Co. v. Atonio, 109 S. Ct. 2115 (1989) (discussed below at pp.
+484-85); Heckler v. Chaney, 470 U.S. 821 (1985); Grove City College v. Bell, 465 U.S. 555
+(1984); Pennhurst State School &amp; Hosp. v. Halderman, 451 U.S. I, 24-25 (i98i) (discussed
+below at pp. 500-02).</p>
+          <p>14 See Easterbrook, The Supreme Court, z983 Term - Foreword: The Court and the
+Economic System, 98 HARV. L. REV. 4, 15 (1984).</p>
+          <p>'S For a discussion of public choice theory, see Plott, Axiomatic Social Choice Theory: An
+Overview and Interpretation,in RATIONAL MAN AND IRRATIONAL SOCIETY? 231 (B. Barry &amp;
+R. Hardin eds. 1982). See generally K. ARROW, SOCIAL CHOICE AND INDIVIDUAL VALUES
+(1951); J. BUCHANAN &amp; G. TULLOCx, THE CALCULUS OF CONSENT (x962). The treatment in
+H. HART &amp; A. SACKS, THE LEGAL PROCESS (tent. ed. 1958), runs into severe problems because
+of its failure to appreciate the difficulties raised by work of this sort. My ultimate goal, however,
+is to revive important elements of the treatment in The Legal Process, rather than to celebrate
+its demise or to emphasize its occasional nalvet6 about politics and interpretation.</p>
+          <p>16 This view is currently enjoying a renaissance in the courts. See cases cited infra note 29;
+see also Easterbrook, supra note 13 (advocating a presumption against applying a statute unless
+it expressly addresses the issue in question).</p>
+          <p>17 See, e.g., R. UNGER, KNOWLEDGE AND POLITICS 88-oo (1975).</p>
+          <p>18 See, e.g., S. FISH, DOING WHAT COMES NATURALLY 87-102 (1989); S. FISH, IS THERE
+A TEXT IN THIS CLASS?: THE AUTHORITY OF INTERPRETIVE COMMUNITIES 338-55 (i980)
+[hereinafter S. FISH, Is THERE A TEXT IN THIS CLASS?].
+pretense that words quite generally have "plain meanings," others to
+the uninformative view that meaning is a function of authority, others
+to the demonstrably false claim that statutes are usually indeterminate
+in meaning, and still others to the open-ended suggestion that statutes
+should be interpreted so as to be "reasonable" or "the best that they
+can be." 1 9 In the face of contentions of this sort, debates about
+statutory interpretation, in and out of the judiciary, often dissolve
+into fruitless and unilluminating disputes about the constraints
+supplied by language "itself" (as if such a thing could be imagined).</p>
+        </sec>
+        <sec id="sec-1-1-4">
+          <title>B. Interpretive Principles</title>
+          <p>My project is to develop a theory of statutory construction that
+not only sheds light on current practices but also might claim to be
+worthy of adoption. In carrying out that task, it is first necessary to
+set out the proper relationships among the traditional sources of
+interpretation, including text, structure, purpose, intent, and history. A
+large part of the solution, however, lies in the identification and
+development of interpretive principles with which to approach
+regulatory statutes. 20 The meaning of a statute inevitably depends on the
+precepts with which interpreters approach its text. Statutes do not
+have pre-interpretive meanings, and the process of interpretation
+requires courts to draw on background principles. These principles are
+usually not "in" any authoritative enactment but instead are drawn
+from the particular context and, more generally, from the legal
+culture.2 1 Disagreements about meaning often turn not on statutory
+terms "themselves," but instead on the appropriate interpretive
+prin19 See R. DWORKIN, LAW'S EMPIRE 337-38 (x986) (arguing that judges should interpret
+statutes "in the best light overall"); Llewellyn, Remarks on the Theory of Appellate Decision and
+the Rules or Canons About How Statutes Are To Be Construed, 3 VAND. L. REV. 395, 399
+(1950) (suggesting that courts interpret statutes to "make sense").</p>
+          <p>20 It is important to emphasize that my approach is directed to regulatory statutes. I refer
+to other measures, including criminal law, largely by way of analogy. Much of the discussion,
+however, bears on statutory interpretation in general.</p>
+          <p>21 The illuminating treatment in Eskridge, Public Values in Statutory Interpretation,137 U.
+PA. L. REV. 1007 (i989), presents a number of these background norms, including the idea that
+courts should defer to administrative interpretations of law if Congress has not clearly addressed
+the issue, see Chevron U.S.A., Inc. v. Natural Resources Defense Council, Inc., 467 U.S. 837,
+842 (1984); that criminal statutes should be construed in accordance with the "rule of lenity,"
+see Eskridge, supra, at 1029; and that statutes and treaties should be construed favorably to
+Indian tribes, see id. at 1047.</p>
+          <p>Eskridge's treatment is flawed, however, by the implicit assumption that the role of "public
+values" in interpretive disputes is to add to ordinary interpretation, or to bend the meaning of
+statutes in various directions. See id. at 1045-47. For reasons suggested below, see infra pp.
+416-25, ordinary interpretation is also pervaded by "public values"; the dichotomy between
+interpretation that rests on fidelity to text and interpretation that is based on extratextual values
+greatly oversimplifies the problem and is in important respects a false one.
+ciples. Courts sometimes make the governing norms explicit, but
+frequently leave them unarticulated and latent. The principles are
+often misdirected or at least controversial.</p>
+          <p>In these circumstances, it is important to identify the prevailing
+principles and to subject them to scrutiny. The ultimate task is to
+develop norms of statutory interpretation that grow out of, and do
+not collide with, the basic purposes of the constitutional framework,
+of contemporary institutional arrangements, and of modern social and
+economic regulation. Above all, it is important to develop principles
+that improve the performance of modern government, and that are
+not based on pre-New Deal understandings, which seem to have
+overstayed their welcome.</p>
+          <p>To carry out this task, it will be necessary to develop distinctive
+understandings about both the nature of legal interpretation and the
+character of modern public law. Because interpretation is a function
+of background norms and cannot proceed without them, theories
+about statutory "meaning" cannot be separated from theories about
+how the modern regulatory state does and should operate. When
+interpretive norms are contested, and when neither the Constitution
+nor the Congress has specified the proper norms, there is no alternative
+but to base the inevitably value-laden choice among them on their
+role in improving or impairing governmental performance.</p>
+          <p>In the course of the discussion, I reject a number of generally
+accepted understandings about statutory construction:
+o courts must always adhere to the original meaning of the statute,
+or the original intent of the enacting legislature;
+o courts are or can be mere agents of the Congress;
+o statutory meaning remains constant over time;
+o statutory meaning is equivalent to legislative intent;
+o controversial views about public policy are never and should
+never be part of statutory construction;
+o canons of construction, or background interpretive norms, are
+an outmoded and unhelpful guide to the courts.</p>
+          <p>All of these aspects of the conventional wisdom, I suggest, are
+inconsistent with actual judicial behavior. Moreover, they provide
+incomplete instructions and often produce perverse results.</p>
+          <p>The discussion proceeds in three stages. Part II rejects the usual
+understandings of how courts do and should construe statutes. It also
+suggests the proper uses of the traditional sources of interpretation:
+text, structure, purpose, congressional intent, and legislative history.
+The recent emphasis on the primacy of the text is a step in the right
+direction, but structure, purpose, intent, and history sometimes help
+to clarify ambiguities or to prevent unnecessary or unintended
+irrationality and injustice. I also suggest that the traditional sources offer
+incomplete guidance and that their incompleteness reveals the
+inevitable failure of the agency conception of the judicial role. At the same
+time, I reject the view that statutory disputes produce "indeterminacy"
+in most or all cases and the related idea that such disputes are resolved
+on the basis of conventions that are not subject to evaluation. Finally,
+I criticize, though on quite different grounds, the use of certain
+widelyheld extratextual norms to resolve statutory disputes: private
+autonomy, deference to agency interpretations, and conceptions of statutes
+as "deals."</p>
+          <p>Part Ill attempts to understand statutory construction by means
+of a general defense of the much-maligned "canons" of construction,
+understood as background principles designed to help discern statutory
+meaning. I defend the use of such principles by disaggregating their
+various functions and by suggesting that the use of background norms
+is desirable and in any case inevitable. I also suggest that several
+current substantive norms can be supported through an understanding
+of the ways in which they incorporate constitutional principles,
+promote deliberation in government, and respond to New Deal reforms
+of the legal system.</p>
+          <p>Part IV proposes a series of interpretive principles for judicial
+adoption in the regulatory state. I argue that many such principles,
+whether existing in current law or proposed here, can be defended by
+reference to constitutional norms; that others are based on assessments
+of the performance of various governmental institutions; and that still
+others are an effort to counteract some of the failings in regulatory
+systems. A general purpose of Part IV is to describe and defend
+principles that will serve the purposes of deliberative government and,
+in particular, will alleviate rather than aggravate the defects in modern
+regulatory programs.</p>
+          <p>Although these suggestions are designed principally for reviewing
+courts in hard cases, their implications extend to administrative
+agencies attempting to implement statutes, and to Congress in its efforts
+to design and reform social and economic regulation. Debates over
+statutory meaning are often disputes over interpretive principles; these
+debates reflect broader divisions over the nature and performance of
+the regulatory state and, indeed, about the character of American
+democracy and constitutionalism as a whole. 22</p>
+          <p>22The study of statutory construction is therefore one part of a more general effort to
+understand the performance of modern regulatory institutions - an effort that will ultimately
+make it necessary to focus more on Congress, the President, and the bureaucracy than on the
+courts. For discussion in this vein, see J. MAsHAW &amp; B. HARFST, THE FREEDOM MACHINE
+(forthcoming 19go); C. SUNSTEIN, cited above in note *; and Rubin, Law and Legislation in
+the Administrative State, 89 CoLuM. L. REv. 369 (1989).
+II. STANDARD</p>
+          <p>APPROACHES TO STATUTORY INTERPRETATION</p>
+          <p>In the conventional account, the tools of statutory construction are
+language, structure, and history. The weight of each of these has
+been sharply contested, especially in recent years. 23 Disputes over
+questions of this sort have produced a range of approaches to statutory
+construction, all with support in the case law. Each, however, is
+flawed. My purpose here is to explain how these approaches fail,
+both as positive accounts of how courts in fact approach statutes and
+as normative theories of interpretation.</p>
+          <p>This Part is divided into three sections. The first deals with
+theories that see courts as agents of the legislature and that charge
+courts with the duty to implement legislative decisions. These theories
+fail because they ignore the inevitable use of interpretive principles in
+the process of construction. Arguing that it is possible to choose
+among interpretive principles, the second section rejects both
+conventionalist accounts of meaning and the view that statutory
+interpretation produces "indeterminacy. '24 The third section considers three
+prominent approaches that do invoke supplemental principles; it
+suggests that these approaches also fail, largely because the relevant
+principles are difficult to defend.</p>
+          <p>23Compare Hirschey v. Federal Energy Regulatory Comm'n, 777 F.2d x, 7-8 (D.C. Cir.
+i985) (Scalia, J., concurring) (criticizing use of legislative history) and B. ACKERMAN &amp; W.
+HASSLER, CLEAN CoAL/DIRTY AIR 1o8-o9 (198i) (same) with Farber &amp; Frickey, Legislative
+Intent and Public Choice, 74 VA. L. REV. 423 (x988) (arguing in favor of attention to legislative
+history).</p>
+          <p>24 All interpretation involves the application of norms. Some of these "norms" are not open
+to change or even to discussion. There is a difference, at least in principle, between the sorts
+of understandings that make ordinary words intelligible and the sorts of interpretive principles
+that give meaning to statutory gaps or that resolve cases that are otherwise in equipoise - as,
+for example, in the norms in favor of state autonomy or judicial review. Participation in the
+set of practices that make ordinary words intelligible is probably best conceived of not as
+interpretation but as understanding. See L. WITTGENSTEIN, PHILOSOPHICAL INVESTIGATIONS
+§ 2O, at 81 (G. Anscombe trans. 1972) (discussing a way "of grasping a rule which is not an
+interpretation, but which is exhibited in what we call 'obeying the rule' and 'going against it'
+in actual cases" (emphasis in original)). This point holds even though one's participation in
+those practices is conditional on a wide range of background understandings that are not "part"
+of words "themselves."</p>
+          <p>The distinction is important because it is sufficient, for purposes of background
+understandings of this sort, that there be a social consensus on their behalf. Communication is possible
+only because of that consensus. But with respect to interpretive principles that are part of
+interpretation - for example, the idea that silence on the question of federal preemption means
+that state law continues to exist - a consensus may be inadequate if there are no good arguments
+on behalf of that consensus. In these latter cases, interpretive principles are at least in theory
+subject to evaluation and to replacement by alternatives. A pervasive problem with
+conventionalist accounts of meaning is that they treat all interpretation as akin to the sorts of
+understandings that make ordinary words intelligible. See infra pp. 442-43 (discussing
+conventionalism). I am grateful to Thomas Nagel for help with this point.</p>
+        </sec>
+      </sec>
+      <sec id="sec-1-2">
+        <title>A. Courts As Agents</title>
+        <p>According to the most prominent conception of the role of courts
+in statutory construction, judges are agents or servants of the
+legislature. 25 On the agency view, courts should say what the statute
+means, relying on its language, structure, and history. Background
+norms, policy considerations, indeed all "outside sources," are
+immaterial. The judicial task is to discern and apply a judgment made by
+others, most notably the legislature.</p>
+        <p>The agency view is usually defended by a claim of judicial
+legitimacy.2 6 In a democratic system, with an electorally accountable
+legislature and separated powers, it is said to be the appropriate and
+indeed constitutionally prescribed role of the courts to apply legislative
+commands; it is thus impermissible for them to invoke considerations
+that cannot be traced to an authoritative text. The claim of
+illegitimacy is buttressed by (and perhaps reducible to) a range of prudential
+considerations: the use of outside sources will tend to increase judicial
+discretion, decrease legislative attentiveness, produce uncertainty, and
+risk usurpation by judges of powers reserved for legislative and
+executive actors. 27 Justice Holmes provided a particularly crisp
+expression of the agency view: after describing a regulatory statute as
+"foolish," he added, "if my fellow citizens want to go to Hell I will help
+them. It's my job." 28</p>
+        <p>The agency view appears in several competing forms, and much
+of the history of statutory construction consists of shifts and disputes
+among the various possible sources of the instructions of the courts'
+"principal," the legislature. I discuss several variations here.</p>
+        <p>i. Textualism. - It is sometimes suggested that statutory
+language is the source of judicial power and the only legitimate object
+of judicial concern. Textualism appears to be enjoying a renaissance
+in a number of recent cases, 2 9 and perhaps in the academy as
+well, 30 partly because of dissatisfaction with alternative interpretive
+strategies, taken up below, which counsel courts to rely on "purpose"
+or to produce "reason" in regulatory regimes. 3 1</p>
+        <p>Several considerations argue in favor of textualist strategies. First,
+textualism contains an important and often overlooked truth.
+Statutory terms are the enactment of the democratically elected legislature
+and represent the relevant "law." Statutory terms - not legislative
+history, not legislative purpose, not legislative "intent" - have gone
+through the constitutionally specified procedures for the enactment of
+law. Second, resort to the text promotes goals associated with the
+rule of law: citizens have access to the statutory words and can most
+readily order their affairs in response to those words. Third, the
+words of a statute, considered in light of widely shared conventions
+about how they should be understood, often have only one plausible
+interpretation, or at least sharply constrain the territory of legitimate
+disagreement. Finally, an emphasis on the primacy of the text serves
+as a salutary warning about the potential abuses of judicial use of
+statutory "purpose" and of legislative history. 32</p>
+        <p>Some textualists emphasize the "plain meaning" or dictionary
+definition of statutory terms; others are more sensitive to the particular
+settings. In its purest form, however, the textualist approach is
+inadequate. The central problem is that the meaning of words (whether
+"plain" or not) depends on both culture and context. Statutory terms
+are not self-defining, and words have no meaning before or without
+interpretation. 33 To say this is emphatically not to say that words
+452-53 (1987) (Scalia, J.,concurring in the judgment). In Green v. Bock Laundry Mach. Co.,
+1o9 S. Ct. I98I (i989), however, all nine Justices refused to follow the dictionary meaning of
+the text because it would have produced an absurd result. See id. at 1984-85; id. at 1994
+(Scalia, J., concurring); id. at i995 (Blackmun, J., dissenting); see also Public Citizen, lo9
+S. Ct. at 2565-67 (I989).</p>
+        <p>30 For example, once-Professor and now-Judge Easterbrook has defended textualism with
+insight and vigor. See, e.g., Easterbrook, supra note 13.</p>
+        <p>31 As we will see, strategies of that sort were suggested by commentators who disregarded
+or downplayed the existence of controversy about what "reason" required or about the "purposes"
+of statutory regimes, and who failed to come to terms with the existence of sharp, ideologically
+based disagreements on such questions. See infra pp. 426-28, 435-36. Textualism relies on
+firm linguistic anchors to control ideological divisions. It is here that there is a commonality
+between those who believe that legal interpretation is inevitably indeterminate - because of
+ideological strife - and those who, embracing textualism, do so for essentially the same reason.
+32 See infra pp. 427-28 (purpose), 429-31 (legislative history).</p>
+        <p>33 Consider Learned Hand's view: "Words are not pebbles in alien juxtaposition; they have
+only a communal existence; and not only does the meaning of each interpenetrate the other, but
+all in their aggregate take their purport from the setting in which they are used . .. ." NLRB
+v. Federbush Co., 121 F.2d 954, 957 (2d Cir. 194); see also Shell Oil Co. v. Iowa Dep't of
+Revenue, log S. Ct. 278, 281 &amp; n.6 (I989) (quoting Federbush).</p>
+        <p>The dependence of meaning on culture and context is a conventional point in both
+AngloAmerican and Continental philosophy. See, e.g., L. WITTGENSTEIN, supra note 24
+(AngloAmerican version); H. GADAMER, TRUTH AND METHOD (trans. 2d ed. 1975) (Continental</p>
+        <p>INTERPRETING STATUTES,
+used in statutes or elsewhere can mean anything at all. 34 But it is to
+say that statutory terms are indeterminate standing "by themselves,"
+and, even more important, they never stand by themselves. The
+significance of congressional enactments necessarily depends on the
+context and on background understandings about how words should
+be understood. Moreover, reliance on ordinary or dictionary
+definition, without reference to context, will sometimes lead to interpretive
+3 5
+blunders.</p>
+        <p>Usually the context does not prevent reliance on ordinary meaning,
+and usually the background principles are so widely shared - for
+example, that Congress is speaking in English, that Congress is not
+joking or attempting to mislead, that statutes have purposes, or that
+judges should not decide cases simply according to their predilections
+- that they are invisible. Even in easy cases, however, courts must
+resort to background principles. For example, the question whether
+the enactment of federal environmental statutes preempts all of state
+tort law is an easy one, not because of the statutory text "itself," but
+because of shared understandings about the limited preemptive effect
+of federal enactments. 36
+version). For legal writing on the inadequacy of textuaism, see R. DICKERSON, THE
+INTERPRETATION AND APPLICATION OF STATUTES 217-27 (1975); S. FISH, Is THERE A TEXT IN THIS
+CLASS?, supra note 18, at 356-7r (discussing law as well as literature); H. HART &amp; A. SACKS,
+supra note I5, at 1I5o-58; 9 J. WIGMORE, EVIDENCE § 2470, at 234-38 (J. Chadbourn ed.
+ig8i); Fish, Don'tKnow Much About the Middle Ages: Posneron Law and Literature, 97 YALE
+L. J. 777, 778-80 (1988); Frank, Words and Music: Some Remarks on Statutory Interpretation,
+47 COLUM. L. REV. 1259, 1263-64 (I947); Horack, The Disintegrationof Statutory Construction,
+24 IND. L.J. 335, 338 (I949).</p>
+        <p>34 But see, e.g., Tushnet, Following the Rules Laid Down: A Critique of Interpretivism and
+Neutral Principles, 96 HARv. L. REV. 781, 8r9 (1983) (arguing, unpersuasively, that a good
+lawyer can always find an argument for the result he wants).</p>
+        <p>35 Courts have conspicuously rejected literalism on many occasions. See Missouri v. Jenkins,
+109 S. Ct. 2463, 247r (r989) (holding that "attorney's fee" should be read to include award of
+paralegal fees); and Hensley v. Eckerhart, 461 U.S. 424, 429 n.2, 433 (1983) (observing that
+under § 1988, which provides attorney's fees to the "prevailing party," prevailing plaintiffs may
+recover if they prevail on any significant issue, but defendants may recover only if the plaintiff's
+suit was groundless) (dictum); United States v. Colon-Ortiz, 866 F.2d 6, iI (ist Cir. 1989)
+(refusing to adhere to an obvious drafting error); In re House Bill No. 1,291, 178 Mass. 605,
+6o N.E. 129 (IgoI) (holding that a requirement in the Massachusetts Constitution of a "written
+vote" allows a voting machine involving no writing); Riggs v. Palmer, IIs N.Y. 506, 22 N.E.
+188 (1889) (refusing to allow a testator's murderer to recover under the will); R. DICKERSON,
+supra note 33, at 23o. For other examples, see note 44 below.</p>
+        <p>36 See R. STEWART &amp; J. KRIER, ENVIRONMENTAL LAW AND POLICY 440-41 (1978); see also
+Mansell v. Mansell, 109 S. Ct. 2023, 2027-28 (1989) (observing that Congress must specifically
+preempt state law, especially in the area of domestic relations); Puerto Rico Dep't of Consumer
+Affairs v. Isla Petroleum Corp., 108 S. Ct. 1350, 1353 (1988) (requiring evidence of clear and
+manifest congressional purpose to preempt state law regarding gasoline price regulations);
+Hillsborough County v. Automated Medical Laboratories, 471 U.S. 707, 715 (I985) (discussing the
+assumption that states' powers to regulate health and safety are not preempted by congressional
+acts). Similarly, a law that says nothing about whether administrative action is reviewable is</p>
+        <p>Those who accept textualist approaches might agree that the
+meaning of words is partly a function of the context and of background
+norms about how texts should be approached. Indeed, we may define
+an easy case as one in which the context produces no dispute and
+there is a consensus about the governing norms. 3 7 In many hard
+cases, however, the source of the difficulty is that the particular
+background norm and the nature of its application will be highly
+controversial. Textualism or "plain meaning" approaches can resolve
+these questions only by covertly introducing background principles,
+which are often controversial.</p>
+        <p>Consider the question whether a statute creating a regulatory
+agency to police racial discrimination in employment implicitly
+authorizes victims of discrimination to bring private suits against
+employers who allegedly have engaged in discrimination. If the statute
+and its history do not resolve the question, the introduction of
+background norms is necessary to discern the meaning of the statute. It
+should thus be unsurprising that judges skeptical about implied causes
+of action have relied not on statutory "text" but instead on a highly
+controversial background assumption, traceable to a particular,
+contestable understanding of separation of powers, that only the
+legislature may create such rights, and that statutory silence should be
+assumed not to do So. 38 Without that assumption or a different one,
+statutory silence on the existence of an implied cause of action has no
+meaning.</p>
+        <p>Background norms are ubiquitous in any legal system, and indeed
+in grammar itself; they are necessary to make reliance on "text" an
+intelligible concept. These considerations account for the pervasive
+difficulties with textualist approaches to statutory construction:
+ambiguity or vagueness, overinclusiveness, underinclusiveness, delegation
+or gap-filling, and changed circumstances.</p>
+        <p>(a) Ambiguity or Vagueness. - The most familiar problem with
+textualism is that statutory language is sometimes ambiguous or
+vague. To say that courts should rely on the words or on their
+unambiguous, not because of the text "itself," but because of the strong presumption, created
+by courts but now widely shared, in favor of judicial review of administrative behavior. See
+infra PP. 475-76.</p>
+        <p>37 Cf. Schauer, Easy Cases, 58 S. CAL. L. REV. 399, 413-14 (x985) (suggesting that easy
+cases arise when the relationship between legal norms and human behavior is uncontroversial).</p>
+        <p>
+          38 See Jett v. Dallas Indep. School Dist., 109 S. Ct. 2702, 2720-22 (x989); Karahalios v.
+National Fed'n of Fed. Employees, Local 1263, 109 S. Ct. 1282, 1286 (x989) (describing a
+"canon" of construction against implied causes of action); Thompson v. Thompson, io8 S. Ct.
+513, 520-23 (1988) (Scalia, J., concurring); Cannon v. University of Chicago, 441 U.S. 677,
+730-31 (
+          <xref ref-type="bibr" rid="ref18">1979</xref>
+          ) (Powell, J., dissenting). See generally P. BATOR, D. MELTZER, P. MISHKIN, D.
+SHAPIRO, HART AND WECHSLER'S THE FEDERAL COURTS AND THE FEDERAL SYSTEM 943-50
+(3d ed. 1988) (recounting the changes in the Supreme Court's treatment of implied causes of
+action).
+ordinary meaning - the plain meaning approach - is unhelpful when
+statutory words have more than one dictionary definition, or when
+the context produces interpretive doubt. It is not clear, for example,
+whether the term "feasible" contemplates a cost-benefit analysis, or
+whether a prohibition of "discrimination" bars voluntary
+race-conscious measures designed to counteract the effects of past and present
+discrimination against blacks. 39 In both of these cases, moreover, it
+is uncertain whether the language should be taken to refer to the
+original meaning of those words for the enacting legislature (assuming
+that idea can be made intelligible in light of the problems of
+aggregating the views of numerous actors) or should instead take account
+of contemporary understandings of what the words mean. Indeed, it
+is not even clear what bearing the desires, or interpretive instructions,
+of the enacting legislature should have for judicial interpretation. By
+itself, textualism cannot answer these questions. Nor can the agency
+conception of the judicial role resolve such problems.
+        </p>
+        <p>(b) Overinclusiveness.40 - If textualism is taken, as it often is, to
+call for reliance on the literal4 1 language of statutory words - their
+dictionary definition or meaning in ordinary settings - it will
+sometimes suggest an outcome that makes little or no sense. For example,
+suppose that a state law says that no vehicles are permitted in public
+parks, and a city proposes to build in a park a monument consisting
+of tanks used in World War l.42 The literal language must yield, for
+the statute could not reasonably be taken to forbid a monument, which
+causes none of the harms the statute could be thought to prevent.</p>
+        <p>A passage from Wittgenstein indicates the basic difficulty:
+"Someone says to me: 'Shew the children a game.' I teach them gaming
+with dice, and the other says 'I didn't mean that sort of game.' Must
+the exclusion of the game with dice have come before his mind when
+he gave me the order?"43 The example shows that sometimes the best
+interpretation of a textual command is one that runs counter to its
+apparent literal meaning - even if the author did not have in mind
+the case at issue, or make a judgment about how that case should be
+resolved.</p>
+        <p>39See, e.g., Industrial Union Dep't, AFL-CIO v. American Petroleum Inst., 448 U.S. 607
+(198o) (plurality opinion) (interpreting "feasible"); United Steelworkers of America v. Weber, 443
+U.S. 193, 201-02 (,979) (rejecting an interpretation of "discriminate" that would bar affirmative
+action).</p>
+        <p>40 "Overinclusiveness" and "underinclusiveness," as used in the text, refer to the fact that
+the best interpretation of a word, all things considered, sometimes calls for a restriction on or
+a departure from a word's dictionary meaning.</p>
+        <p>41 The notion of "literal" meaning is a crude one. It usually refers to the meaning of words
+in "most" contexts, but because meaning is a function of context, it is wrong to suggest, as the
+concept of "literal meaning" does, that words have context-independent meanings.
+42 This famous example comes from H.L.A. HART, THE CONCEPT OF LAw 121-32 (1961).
+43 L. WITTGENSTEIN, su ra note 24, at 33.</p>
+        <p>Courts encounter the problem of overinclusiveness frequently. 44
+The Supreme Court recently held that a statute exempting state and
+local public housing obligations "from allt taxation . . . imposed by
+the United States" should not be interpreted to include an exemption
+from federal estate tax. 4 5 The Court held that the exemption did not
+mean what it appeared to say in light of the contemporaneous
+understanding that an excise tax was not ordinarily comprehended within
+the category of "taxation. '46 As another example, suppose that the
+legislature has said that an employer may discharge an employee "for
+any reason." Is the employer thereby authorized to fire workers who
+have refused to commit crimes on his behalf ? If a state law says that
+one spouse will inherit from another "in all circumstances," may a
+husband who has murdered his wife make a claim against the estate? 47
+These are examples of what might be described as the
+overinclusiveness of a prominent version of textualism:48 the possibility that
+statutory language, read without sufficient regard to context or its
+intended field of application, will reach situations that it could not
+reasonably cover.</p>
+        <p>(c) Underinclusiveness. - Although it arises less frequently, there
+is also a possibility that textualism will be underinclusive. Justice
+Holmes warned that "[c]ourts are apt to err by sticking too closely to
+the words of a law where those words import a policy that goes
+beyond them."'49 A particular difficulty here is that a statute may be
+44See, e.g., Public Citizen v. United States Dep't of Justice, 1o 9 S. Ct. 2558, 2573-74 (1989);
+California Fed. Say. &amp; Loan Ass'n v. Guerra, 479 U.S. 272, 284 (1987); Kelly v. Robinson, 479
+U.S. 36, 43-44 (1986); O'Connor v. United States, 479 U.S. 27, 31 (1986); Offshore Logistics,
+Inc. v. Tallentire, 477 U.S. 207, 220-21 (1986); United Steelworkers of America v. Weber, 443
+U.S. 193, 201 (979); United States v. American Trucking Ass'ns, 310 U.S. 534, 543 (194o);
+Armstrong Co. v. Nu-Enamel Corp., 305 U.S. 315, 333 (1933); Church of the Holy Trinity v.
+United States, 143 U.S. 457, 459 (1892); Perry v. Strawbridge, 209 Mo. 621, io8 S.W. 641
+(1go8); see also Arizona v. California, 373 U.S. 546, 568-75 (1963) (finding that despite the
+interstate compact's express inclusion of the "Colorado River System," Arizona could not be
+forced to give up water from a portion of that system entirely within its borders because
+legislative history shows Congress intended to include mainstream water only).
+45 See United States v. Wells Fargo Bank, io8 S. Ct. 1179, i182, 2284 (2988).
+46 See id. at 1182.</p>
+        <p>47See Riggs v. Palmer, 225 N.Y. 5o6, 22 N.E. x88 (1889); see also Hensley v. Eckerhart,
+461 U.S. 424, 429 n.2, 433 (1983) (discussed above in note 35).</p>
+        <p>48 See, e.g., Public Citizen v. United States Dep't of justice, 109 S.Ct. 2558, 2573-74 (2989)
+(Kennedy, J., concurring in the judgment); Riggs, 115 N.Y. at S16, 22 N.E. at 191 (Gray, J.,
+dissenting).</p>
+        <p>49 Olmstead v. United States, 277 U.S. 438, 469 (1928) (Holmes, J., dissenting). See, e.g.,
+Missouri v. Jenkins, 209 S. Ct. 2463, 2471 (2989) (holding that "attorney's fee" should be read
+to include award of paralegal fees); Friedrich v. City of Chicago, 1989 U.S. App. LEXIS 16693
+(No. 88-3043, 7th Cir. Oct. 31, 1989) (Posner, J.) (holding that although § x988 specified recovery
+for an "attorney's fee," a proper interpretation of Congress' instructions allows no distinction
+between paying for an attorney and paying for an expert witness).
+"evaded" by private ingenuity. The literal language of the statute does
+not cover the situation, but because the private conduct causes all of
+the harms that the statute could be thought to prevent, courts
+sometimes hold a statute applicable notwithstanding its literal terms. 50 The
+problem of evasion should not be an excuse for judicial stretching of
+statutes (to be sure, a most ill-defined concept in this setting), but the
+problem has elicited judicial responses in a number of areas, most
+notably taxation. 5 '</p>
+        <p>(d) Delegation, Gaps, and Implementing Rules. - The
+incompleteness of textualism is most conspicuous when Congress has explicitly
+or implicitly delegated lawmaking power to the courts or when
+Congress has simply left a gap. In cases of delegated power or gap-filing,
+the problem is not that words are susceptible to more than one
+construction, but instead that the words necessarily require courts to look
+to sources outside of the text.5 2</p>
+        <p>The Sherman Act, for example, raises a serious gap-filling
+problem. The language of the Act does not answer the question of what
+practices amount to "conspiracies in restraint of trade." The legislative
+history is suggestive but unclear,5 3 and the courts have inevitably
+taken the Act as a delegation of policymaking power pursuant to quite
+open-ended criteria.5 4 Similarly, section I983 s5 is silent on many
+im50 See, e.g., Helvering v. Gregory, 69 F.2d 8o9 (2d Cir. 1934), aff'd, 293 U.S. 465 (x935).</p>
+        <p>S See, e.g., Commissioner v. Court Holding Co., 324 U.S. 331 (i945); Goldstein v.
+Commissioner, 364 F.2d 734 (2d Cir. I966); Helvering v. Gregory, 69 F.2d 809. Outside the area of
+taxation, there are many examples as well. See, e.g., cases cited supra note 49; Stoner v.
+Hudgins, 568 S.W.2d 898, 902-03 (Tex. Civ. App. 1978) (holding that despite a narrow verbal
+construction, a statute providing for credit against damages for advance payments made to tort
+claimants should be read to mean that the credit should be applied after the damage award is
+reduced to account for comparative negligence). See generally Isenbergh, Musings on Form and
+Substance in Taxation (Book Review), 49 U. CHI. L. REv. 859 (1982). Johnson v. Southern
+Pac. Co., 1I7 F. 462 (8th Cir. 1902), rev'd, 296 U.S. i (29o4), which held that the term "cars"
+in a statute requiring cars on common carriers to be equipped with automatic couplers did not
+extend to locomotive engines, is persuasively criticized by Hart and Sacks on the ground that
+the literalist court interpreted the statute too narrowly. See H. HART &amp; A. SACKS, supra note
+15, at 1173-74.</p>
+        <p>52 The problems of delegation or gap-filling must be distinguished from a "gap" that is best
+taken as a legislative decision not to prohibit conduct or not to change the status quo. Here
+silence is a straightforward absence of law, and one that allows private coilduct to go on as
+before. This latter sort of gap - which is essentially an exclusion or exemption from a statute
+- is confused with the sort of gap that requires judicial elaboration of the law in Easterbrook,
+cited above in note i3; and OFFICE OF LEGAL POLICY, U.S. DEP'T OF JUSTICE, USING AND
+MISUSING LEGISLATIVE HISTORY: A RE-EvALUATION OF THE STATUS OF LEGISLATIVE HISTORY
+IN STATUTORY INTERPRETATION 100-04 (1989) [hereinafter USING AND MISUSING LEGISLATIVE
+HISTORY]. The confusion produces a version of the old idea that statutes in derogation of the
+common law must be narrowly construed.</p>
+        <p>53 See i P. AREEDA &amp; D. TURNER, ANTITRUST LAW io6, at 14-16 (1978).
+54 See, e.g., National Soc'y of Professional Eng'rs v. United States, 435 U.S. 679, 688 (1978).
+55 42 U.S.C. § 1983 (i982).
+portant questions, including available defenses, burdens of pleading
+and persuasion, and exhaustion requirements. Because of the textual
+silence, judges must fill the gaps. To this extent, the statute delegates
+power to make common law. 56</p>
+        <p>Judicial implementation of title VII of the Civil Rights Act of
+I96457 can be understood in similar terms, though this example is
+more controversial. The basic prohibition of "discrimination" provides
+no guidance on the role of discriminatory effects, the appropriate
+burdens of proof and production, and the mechanisms for filtering out
+discriminatory treatment. Judicial answers to these questions
+sometimes purport to be relatively mechanical responses to congressional
+commands,5 8 but in fact they amount to judge-made implementing
+devices that reflect the judges' own, inevitably value-laden views. In
+light of the existence of textual gaps on many questions, this approach
+is hardly an embarrassment or a usurpation, but instead an inevitable
+part of interpretation. Much of the law of title VII is an unavoidable,
+and therefore legitimate, norm-ridden exercise in developing gap-filling
+rules.5 9 In this respect, the Sherman Act and title VII are closely
+analogous.</p>
+        <p>When the language of a statute does not specify its implementing
+rules, textualism is incomplete: courts must look elsewhere. When
+Congress has delegated power or left a gap, the line between
+interpreting and creating federal common law60 becomes quite thin.</p>
+        <p>(e) Changed Circumstances. - The discussion thus far has
+assumed that circumstances have not changed significantly since the
+statute was enacted. Textualism becomes even more problematic
+56 The C6urt has sometimes indicated that gaps should be filled by reference to the common
+law of the time. See, e.g., City of Newport v. Fact Concerts, Inc., 453 U.S. 247, 258 (ig8i);
+Wood v. Strickland, 420 U.S. 308, 318 (I975). Frequently, however, it has filled gaps in
+accordance with its own views about how best to implement the statute - an approach that is
+probably consistent with the drafters' own understanding about how courts would act. See</p>
+        <sec id="sec-1-2-1">
+          <title>Beermann, A CriticalApproach to Section 1983 with Special Attention to Sources Qf Law, 42</title>
+        </sec>
+        <sec id="sec-1-2-2">
+          <title>STAN. L. REV. 5i (1989); Kramer &amp; Sykes, Municipal Liability Under Section r983: A Legal</title>
+          <p>and Economic Analysis, 1987 SUP. CT. REV. 249, 263-66.</p>
+          <p>57 42 U.S.C. §§ 2oooe to 2oooe-17 (1982 &amp; Supp. V 1987).</p>
+          <p>58 See, e.g., Texas Dep't of Community Affairs v. Burdine, 450 U.S. 248, 252-53 (x98x);
+McDonnell Douglas Corp. v. Green, 411 U.S. 792, 8oo-o (1973); Griggs v. Duke Power Co.,
+402 U.S. 424, 431 (197I).</p>
+          <p>59 See, e.g., Independent Fed'n of Flight Attendants v. Zipes, 109 S. Ct. 2732, 2737-38
+(1989) (deciding that, under title VII, attorneys' fees may not be awarded against nonfrivolous
+intervenors, largely because of courts' perceptions about the social consequences of such a rule).</p>
+          <p>60 Federal common law is usually thought to involve judicial lawmaking when little or no
+guidance has been supplied by the legislature. See Friendly, In Praise of Erie - And of the
+New Federal Common Law, 39 N.Y.U. L. REV. 383, 410-1I (2964). Statutory interpretation,
+by contrast, is usually thought to involve a decision about the meaning of ambiguous enactments.
+For the reasons stated in the text, this distinction is far too simple.
+when time has affected the assumptions under which the statute was
+originally written. Changed circumstances may produce ambiguity or
+interpretive doubt in the text where neither existed before.</p>
+          <p>Consider the Delaney Clause, which forbids the use as food
+additives of substances that "induce" cancer. 61 The Delaney Clause was
+enacted at a time when carcinogenic substances were difficult to detect
+and all detectable carcinogens were extremely dangerous. These facts,
+however, no longer hold true, and under current conditions the
+Delaney Clause almost undoubtedly increases health risks by keeping
+relatively safe substances off the market and by forcing consumers to
+resort either to noncarcinogenic substances that pose other risks or to
+substances that were approved by earlier administrators using the
+cruder technology of their day. Because the factual premises under
+which the enacting Congress operated are now demonstrably false,
+might the word "induce" allow the government to exempt from
+regulation carcinogens that pose trivial risks? 62 Similarly, would a
+"public policy" exception to the charitable deduction in the Internal
+Revenue Code require the government to deny the deduction to schools
+that engage in racial discrimination, even if those who enacted the
+Code many decades before believed that such discrimination was
+perfectly consistent with public policy?63 In short, it is by no means
+obvious that the statutory text should be understood in accordance
+with its "original meaning," even if that concept were unproblematic. 64</p>
+          <p>The discussion thus far suggests two principal points. First, and
+most fundamentally, there is no such thing as an acontextual "text"
+that can be used as the exclusive guide to interpretation. In easy
+cases, interpretive norms - on which there is wide or universal
+consensus - and context both play a part in the process of
+ascertaining statutory meaning. Because such norms are so widely shared,
+they are invisible and are not an object of controversy. Only in these
+cases can meaning ever be said to be "plain." With these
+qualifications, textualism is generally appropriate. In hard cases, however,
+courts must resort to a highly visible background norm, 65 or a
+con61 See 21 U.S.C. § 348(c)(3)(A) (1982).
+62 See infra pp. 496-97.
+63 See infra note ioo (discussing Bob Jones University v. United-States, 461 U.S. 574 (I983)).
+64 Indeed, I will be offering reasons to suggest that it should not, be. See infra pp. 493-97;
+accord Aleinikoff, UpdatingStatutory Interpretation,87 MICH. L. REV. 20 (1988).</p>
+          <p>65 In hard cases, a claimed reliance on the text often disguises the actual basis for decision,
+which does not turn on text at all. In these cases, discretion is inevitable. For a powerful
+demonstration in the context of environmental law, see R. MELNiCK, REGULATION AND THE
+COURTS: THE CASE OF THE CLEAN AIR ACT 371 (2983), which shows that the constant resort
+to statutory text in cases in which text is at best indeterminate can lead judges to act on the
+basis of unarticulated and uninformed policy considerations.
+in areas of economic regulation, such as banking and agriculture. 3 36
+It also informs the courts' approach to the Robinson-Patman Act 337
+and their effort to understand the Sherman Act as an attempt to
+promote consumer welfare rather than as protection of small business
+as such. 33 8 When a public purpose is palpably absent, this principle
+should be unexceptionable. 3 39</p>
+          <p>(j) Requiring Proportionality. - Another interpretive principle
+would understand statutes to impose benefits roughly commensurate
+with their costs, unless there is a clear legislative statement to the
+contrary. This proportionality norm, implicit in several recent
+cases, 340 draws on an understanding of likely legislative purpose and
+on perceptions about regulatory failure. Statutes often fail because of
+excessive controls or inadequate implementation, 3 41 and courts should
+generally assume that Congress wants to avoid those problems and
+therefore intends agencies to impose regulations after a balancing
+process. 34 2 As we have seen, the absence of a proportionality principle
+336 See, e.g., Securities Indus. Ass'n v. Board of Governors of the Fed. Reserve Sys., 821
+F.2d 81o (D.C. Cir. 1987), cert. denied, 483 U.S. loo5 (1988); Investment Co. Inst. v. FDIC,
+815 F.2d 1540 (D.C. Cir. 1987) (per curiam), cert. denied, 484 U.S. 847 (1988); Securities Indus.
+Ass'n v. Board of Governors of the Fed. Reserve Sys., 807 F.2d 1052 (D.C. Cir. 1986), cert.
+denied, 483 U.S. OO5 (1987); Investment Co. Inst. v. Conover, 790 F.2d 925 (D.C. Cir.), cert.
+denied, 479 U.S. 939 (1986); Langevoort, supra note 8o, at 701, 725-33.</p>
+          <p>
+            337 See R. BORK, THE ANTITRUST PARADox: A POLICY AT WAR WITH ITSELF 409-10 (1978).
+338 See id. at 72-89; Business Elecs. Corp. v. Sharp Elecs. Corp., 1O8 S. Ct. 1515,
+151924 (1988); Broadcast Music, Inc. v. CBS, 441 U.S. i, 19-22 (
+            <xref ref-type="bibr" rid="ref18">1979</xref>
+            ); Continental TV, Inc. v.
+GTE Sylvania, Inc., 433 U.S. 36, 51-59 (1977).
+          </p>
+          <p>339 This principle must not, however, be confused with the unjustifiable idea that statutes
+in derogation of the common law should be narrowly construed; it is not a license for grudging
+interpretation of statutes that promote noncommodity values or that embody public-spirited
+redistribution, as suggested in Easterbrook, cited above in note 13, at 539-43. This is also a
+problem with the otherwise excellent treatment in Macey, cited above in note i59. As the
+experience of the early part of this century reveals, it is not for courts - in the process of
+statutory construction - to take a side in the regulatory debate that runs in the face of a
+legislative judgment. Courts should therefore attempt to discern a public-regarding purpose and
+give the benefit of every doubt to the legislature. But sometimes such purposes are not even
+plausibly at work. Of course, some difficult line-drawing problems will exist.</p>
+          <p>340 See, e.g., Industrial Union Dep't, AFL-CIO v. American Petroleum Inst., 448 U.S. 607,
+652 (198o) (plurality opinion) ("[Tihe mere possibility that some employee somewhere in the
+country may confront some risk of cancer is [not] a sufficient basis for the exercise of the
+Secretary's power to require the expenditure of hundreds of millions of dollars to minimize that
+risk.'); Natural Resources Defense Council, Inc. v. Thomas, 824 F.2d 1146 (D.C. Cir. 1987)
+(en banc) (calling for consideration of feasibility).</p>
+          <p>341 See J. MENDELOFF, Supra note 224, at 1-12.</p>
+          <p>342 Consider, for example, Natural Resources Defense Council, Inc. v. EPA, 824 F.2d 1146
+(D.C. Cir. 1987). In that case, the court concluded that § 112 of the Clean Air Act, 42 U.S.C.
+§ 7412 (1982), which requires emissions standards that provide "an ample margin of safety,"
+permits the Administrator to consider cost and technology despite the statute's failure to refer
+expressly to those factors. The decision is best understood as founded on a background principle
+of proportionality, one that Congress may eliminate only through a clear statement.
+may produce harmful systemic consequences as well as overregulation.
+Ironically, it will also produce severe underregulation. Moreover,
+bureaucratic self-interest or factional pressures sometimes incline
+agencies toward overzealous enforcement, which Congress is unable
+routinely to monitor or remedy. The proportionality norm is reinforced
+as well by interpretive norms calling for legislative deliberation. It
+leads to narrow construction of statutes enacted as a result of
+interestgroup pressure or as myopic or impulsive reactions to short-term
+problems.</p>
+          <p>The difficulty with this principle is that there is no uncontroversial
+metric with which to measure social costs and social benefits. If courts
+understand benefits and costs technically - as in the economic
+formulation - and make the assessment turn on private willingness to
+pay, they will undervalue aspirations and nonmarket values and
+ultimately undermine statutory goals. 34 3 The very decision to create a
+regulatory system often reflects a rejection of private willingness to
+pay as the criterion of social choice. Many statutes are designed to
+transform rather than to implement preferences, to redistribute
+resources, or to reflect the outcome of a deliberative process about
+relevant public values. 3 44 Moreover, a statute that protects (for
+example) endangered species may have symbolic or aspirational benefits.
+The various values that are served by regulatory programs should be
+treated hospitably.</p>
+          <p>For these reasons, the proportionality principle is most useful for
+cases of economic regulation. It becomes most workable when it is
+clear, by reference to a widely held social consensus, that the social
+benefits are small in comparison to the social costs. Even in cases of
+public aspirations or nonmarket values, the proportionality idea
+should be invoked when the disadvantages of regulation seem to dwarf
+the advantages, at least when the statute is ambiguous. 345
+(k) Allowing de Minimis Exceptions. - It follows from the
+proportionality principle that regulatory statutes should ordinarily be
+understood to contain de minimis exceptions. In such cases, the costs
+of regulation outweigh the benefits, which are by hypothesis
+insubstantial. Moreover, the failure to allow de minimis exceptions will
+343 See, e.g., Anderson, Values, Risks, and Market Norms, 17 PHIL. &amp; PUB. AFF. 54 (1988);
+see also Dworkin, Is Wealth a Value?, 9 J. LEGAL STUD. 191, 2o6-2 (198O) (arguing that
+wealth maximization in itself is not a value).</p>
+          <p>344 Thus, title VII is partly an effort to transform preferences; the minimum wage has
+redistributive purposes; the Clean Air Act is partly an outcome of a deliberative process. On
+these and other regulatory functions, see C. SUNSTEIN, cited above note *, chs. 1-2.</p>
+          <p>345 This principle casts in doubt the outcome in Tennessee Valley Authority v. Hill, 437 U.S.
+153 (1978), which held that the Endangered Species Act blocked construction of a dam that
+would destroy the habitat of the snail darter. See also R. DWORKIN, supra note x9, at 347
+(concluding that Tennessee Valley Authority was wrongly decided).
+probably decrease rather than increase health and safety.3 4 6
+Administrators should be allowed to refuse to impose costly regulations for
+highly speculative or minimal gains. 34 7 Many courts have reached
+precisely this conclusion. Indeed, courts should probably require such
+exceptions in the absence of an explicit statutory text or plausible
+substantive justifications 348 to the contrary.</p>
+          <p>4. Examples. - Two important cases involving the meaning of
+the Occupational Safety and Health Act illustrate the basic
+framework. The pertinent language of the statute34 9 directs OSHA to
+promulgate the standard that "most adequately assures, to the extent
+feasible . . . that no employee will suffer material impairment of
+health or functional capacity even if such employee has regular
+exposure to the hazard . . . for the period of his working life."'35 0 The
+statute also contains a general definition of "occupational safety and
+health standard," which says that the term refers to measures that
+require "conditions ... reasonably necessary or appropriate to provide
+safe or healthful employment and places of employment."'35 '</p>
+        </sec>
+      </sec>
+      <sec id="sec-1-3">
+        <title>In Industrial Union Department,AFL-CIO v. American Petroleum</title>
+        <p>Institute,352 the Supreme Court invalidated an OSHA regulation of
+benzene. Although the precise consequences of the regulation were
+sharply contested, there was evidence that the regulation would
+impose enormous costs in exchange for small or speculative gains.
+OSHA itself concluded that its regulation would require capital
+investments of $266 million, first-year operating costs of $187 to $205
+[VOL. 103:405
+million, and recurring annual costs of $34 million.35 3 Contemporary
+scientific knowledge appeared to preclude a clear prediction of
+significant benefits, which in the Court's view "may be relatively small. '35 4</p>
+        <p>A plurality of the Court concluded that the definitional clause
+required OSHA to establish a "significant risk" before regulating a
+toxic substance. The plurality justified its conclusion by referring to
+the Act's definition of occupational safety and health standards as
+those "reasonably necessary or appropriate to provide safe or healthful
+employment. 355 In the Court's view, a standard was not "reasonably
+necessary or appropriate" if OSHA was unable to demonstrate a
+significant risk.</p>
+        <p>There was, however, little direct basis in the text or history of the
+Act for the plurality's conclusion. Congress did not explicitly require
+OSHA to show a "significant risk." The plurality found that such a
+requirement was implicit in the definitional clause, but it is very
+unusual to read a definitional clause, ordinarily carrying no weight,
+as creating a substantive limitation on administrative power. The
+clause is more plausibly treated as having no substantive content, or
+as having substantive content defined by other provisions of the Act.
+It is even more unusual for the Court to look to a definitional clause
+when the definition, so interpreted, contradicts a far more specific
+substantive provision, which in this case says that toxic substance
+standards must ensure "to the extent feasible . . . that no employee
+will suffer material impairment of health or functional capacity. '35 6
+The reference to "no employee" seems to suggest that the statute
+forbids OSHA from permitting risks from toxic substances even if
+only one or a few workers would suffer "material impairment of
+health." The judicially created "significant risk" requirement, by
+contrast, forbids regulation unless enough workers will be affected to
+make the benefits of regulation significant. Nothing in the legislative
+history supports the Court's interpretation of the definitional clause,
+and indeed the history argues against that interpretation. 35 7</p>
+        <p>Unable to point to a solid textual basis for its "significant risk"
+requirement, the plurality invoked a clear-statement principle:
+In the absence of a clear mandate in the Act, it is unreasonable to
+assume that Congress intended to give the Secretary the unprecedented
+power over American industry that would result from the
+Government's view . . . . Expert testimony that a substance is probably a
+human carcinogen ... would justify the conclusion that the substance
+poses some risk of serious harm no matter how minute the exposure
+353 See id. at 628-29.
+354 Id. at 630.
+355 Id. at 638 (discussing 29 U.S.C. § 652(8)).
+356 29 U.S.C. § 655(b)(5) (1982) (emphasis added).
+3S7 See American Petroleum, 448 U.S. at 708-13 (Marshall, J., dissenting).
+and no matter how many experts testified that they regarded the risk
+as insignificant. That conclusion would in turn justify pervasive
+regulation limited only by the constraint of feasibility. ... [T]he
+Government's theory would give OSHA power to impose enormous costs
+that might produce little, if any, discernable benefit.35 8</p>
+        <p>The plurality further suggested that the government's
+interpretation would give the Secretary of Labor "open-ended" policymaking
+authority that might amount to an unconstitutional delegation of
+legislative power.3 59</p>
+        <p>The plurality's conclusion in American Petroleum is difficult to
+defend in either formalist or textualist terms. The "significant risk"
+requirement has no textual basis, at least not in any ordinary sense;
+it was a judicial creation. It would therefore be possible to caricature
+the result in the case as an impermissible judicial rewriting of the
+statute. 360 But the conclusion in the case was nonetheless sound. A
+realistic interpretation of the statutory language would recognize that
+it was not addressed to the problem at hand. It is simply a myth to
+suggest that the Congress that enacted OSHA focused on the question
+of imposing enormous expenditures to redress trivial risks - recall
+Wittgenstein's game of dice. Despite the broad-language of the toxic
+substances provision, Congress simply did not deal with the problem.</p>
+        <p>In these circumstances, the plurality's opinion can be seen as
+invoking several of the substantive norms defended above. The case
+provided an excellent setting for the application of the principle calling
+for de minimis exceptions to social and economic regulation. An
+exclusive focus on the one or two employees who suffer "material
+health impairment" as a result of a lifetime of exposure would in the
+long run produce less, not more, protection of workers. 3 61 If OSHA
+must regulate to the point of feasibility in the face of trivial risk, the
+Department of Labor will be reluctant to embark on any regulation
+at all.</p>
+        <p>Moreover, the proportionality principle and the background norm
+counseling avoidance of irrationality both argue in favor of the
+plurality's reading. The beneficiaries of OSHA regulation are
+well-organized and able to protect themselves in the implementation process.
+358 American Petroleum, 448 U.S. at 645 (plurality opinion).</p>
+        <p>359 See id. at 651-52. In his concurring opinion, Justice Powell, advocating an interpretation
+of the Act that would call for cost-benefit balancing, suggested that "a standard-setting process
+that ignored economic considerations would result in a serious misallocation of resources and a
+lower effective level of safety than could be achieved under standards set with reference to the
+comparative benefits available at a lower cost." Id. at 670 (Powell, J., concurring in part and
+concurring in the judgment).</p>
+        <p>360 Similarly, a background principle in favor of interpreting words in accordance with their
+plain meaning would point toward acceptance of the government's position. See id. at 688
+(Marshall, J., dissenting).</p>
+        <p>361 See supra p. 480.
+There was therefore a ready political corrective both to the plurality's
+conclusion, if it was contrary to public consensus, and to inadequate
+implementation in general. For all these reasons, the plurality
+correctly interpreted OSHA to require a showing of a significant risk as
+a predicate for regulation. 362</p>
+        <p>In American Textile Manufacturers Institute v. Donovan,3 63 the
+Supreme Court decided a question left open in American Petroleum:
+whether the OSHA statute required cost-benefit analysis. In arguing
+that it did, the industry contended that the word "feasible" required
+OSHA not only to show a significant risk, but also to demonstrate
+that the benefits of regulation justified the costs. "Feasibility," in the
+industry's view, contemplated a balancing of costs and benefits. The
+government contended that once OSHA had shown a significant risk,
+it could regulate to the point where the survival of the regulated
+industry would be endangered by additional controls. For the
+government, the term "feasibility" did not connote cost-benefit balancing,
+but instead meant "possible." 3 64</p>
+        <p>In accepting the government's argument, the Court relied on the
+dictionary definition of "feasible" to conclude that the term meant
+"'capable of being done, executed, or effected,"' rather than justified
+by a balancing of costs and benefits. 3 65 This literal approach to the
+statute was not entirely unreasonable. The structure of the toxic
+substances provision - consider the "no employee shall suffer"
+language - is in considerable tension with the industry's construction.
+Moreover, Congress has sometimes used the term "feasible" as a
+selfconscious alternative to "cost-benefit" balancing, 366 and that fact
+argues against the view that the two terms have the same meaning.
+But the same principles that support the decision in American
+Petroleum cast serious doubt on American Textile Manufacturers.</p>
+        <p>Notwithstanding the statute's language, it is probably unrealistic
+to believe that Congress actually focused on, and resolved, the
+ques362 A different result might be appropriate if the scientific evidence were uncertain. If a
+significant risk were impossible to show because the data were unclear, perhaps employers,
+rather than workers, should bear the burden of medical uncertainty. The plurality did not make
+clear how such considerations would bear on the problem of carcinogen regulation if they had
+been squarely confronted by OSHA.</p>
+        <p>363 452 U.S. 490 (i981).
+364 See id. at 494-95.</p>
+        <p>365See id. at 508-09 (quoting WEBSTER'S THIRD NEW INTERNATIONAL DICTIONARY OF
+THE ENGLISH LANGUAGE 831 (1976)).</p>
+        <p>366 In construing feasibility, courts have not weighed the benefits of the practice against its
+costs but inquired instead whether the regulation would prevent the industry from functioning.
+See National Cottonseed Prod. Ass'n v. Brock, 825 F.2d 482, 487 (D.C. Cir. 1987) ("[A] standard
+is economically feasible if the cost of compliance does not threaten the 'competitive structure or
+posture' of the industry." (quoting Industrial Union Dep't, AFL-CIO v. Hodgson, 499 F.2d 467,
+478 (D.C. Cir. 1974))).</p>
+        <sec id="sec-1-3-1">
+          <title>INTERPPETING STATUTES</title>
+          <p>tion whether to favor the government's approach over some kind of
+balancing of costs and benefits. The question never arose during the
+debates. The general and more fundamental problem is the basic
+irrationality of a system in which OSHA is required to find a
+significant risk, but is prohibited from undertaking cost-benefit analysis.
+Whether a risk is "significant" depends in large part on the costs of
+eliminating it. A relatively small risk might justify regulation if the
+costs are also small, but a larger risk might best be left unregulated
+if the costs are enormous. A rational system of regulation looks not
+at the magnitude of the risk alone, but assesses the risk in comparison
+to the costs.</p>
+          <p>These considerations would deserve little weight if the statute
+unambiguously dictated a contrary result, but the word "feasible" is
+flexible enough to accommodate a proportionality requirement. By
+refusing to read the statute in this way, the Supreme Court has
+contributed to the irrationality of the Occupational Safety and Health
+Act - an irrationality that has harmed workers, employers,
+consumers, and the public at large. 3 67</p>
+        </sec>
+        <sec id="sec-1-3-2">
+          <title>C. Changed Circumstances or Obsolescence</title>
+          <p>When circumstances change, statutory interpretation becomes
+especially difficult. Older statutes may depend on factual assumptions
+that no longer hold, or may conflict with more recent statutes, thus
+producing inconsistency and incoherence in regulation. This problem
+is complicated by the fact that the statutory term may have been clear
+when enacted, and at that time it may have been inappropriate to
+invoke controversial substantive norms to interpret, it; but changed
+conditions can render a term ambiguous and thus make it appropriate
+to apply conspicuous or controversial norms. Because it represents a
+recurring hard case for statutory interpretation, the confrontation
+between statutory terms and new or unforeseen contexts deserves
+separate treatment.</p>
+          <p>In cases of changed circumstances, statutory construction appears
+informed by an effort to ensure integrity and coherence in the law by
+"updating" obsolete statutes - or, to put it less contentiously and
+probably more accurately, by interpreting them in a way that takes
+account of changing conditions. 36 Here courts reject the idea that
+the original understanding of its audience or authors exhausts the
+meaning of a statute. There are good reasons to permit courts to go
+beyond the original understanding in the face of dramatically changed
+367 See Rose-Ackerman, supra note 292, at 360-66.
+368 See Eskridge, Dynamic Statutory Interpretation, 135 U. PA. L. REV. 1479 (198 7).
+circumstances, at least when the statutory text is ambiguous. 36 9 Such
+an approach is likely to produce greater coherence in the law; to
+reduce the problem, pervasive in modern government, of regulation
+by measures that are badly out of date; and to lead to a legal system
+that is both more rational and more consistent with democratic
+norms. 370 It is tempting but inadequate to say that the legislature
+should respond to the problem of changed circumstances. The
+question is what the statute means in those circumstances, and that
+question must be answered by those who interpret it, including the courts.
+This claim does not, of course, mean that changed circumstances
+should be understood to authorize courts to amend or rewrite statutes,
+but it does mean that "meaning" is itself a function of those
+circumstances.3 71</p>
+          <p>The problem of changed circumstances presents questions not only
+of statutory meaning in new settings, but also of implicit interpretive
+instructions: how would Congress have wanted courts to approach its
+enactments in the face of obsolescence or changed circumstances?
+There will rarely be a direct answer to this question. As in
+constitutional law, the problem of changed circumstances requires courts to
+decide whether the content of legal rules should change when there
+have been changes in law, policy, and fact. At the very least, courts
+should answer in the affirmative 3 72 when a statute contains an
+openended term like "public policy" or "psychopathic '3 73 that invites
+interpretations that change over time; when statutory language already
+contains an ambiguous term ("feasible") whose meaning depends on
+current conditions; 374 or when the statute contains a phrase ("induce
+cancer") that has been rendered ambiguous because of changed
+circumstances. 3 75</p>
+          <p>Even when no clear interpretive instructions allow a judge to adapt
+statutory terms to new conditions, courts may do so when those
+conditions have rendered a statute ambiguous. This problem typically
+occurs in three ways. First, the factual assumptions underlying the
+369 See Aleinikoff, supra note 64, at 56-61; Eskridge, supra note 368, at 1497-539; see also
+Israel, Gideon v. Wainwright: The "Art" of Overruling, z963 Sup. CT. REV.211, 219-23 (noting
+that changed circumstances have traditionally provided a rationale for departing from stare
+decisis).</p>
+          <p>370 See sources cited supra notes 224-28.</p>
+          <p>371 Dean Calabresi has argued that courts should have the power to invalidate obsolete
+statutes and to return them to the legislature for reconsideration. See G. CALABRESI, supra
+note 82, at 163-66. A judicial role of this sort would be extremely controversial, and properly
+so. The principal problem posed by obsolescence or changed circumstances is that it complicates
+ordinary interpretation.</p>
+          <p>372 See R. DWORKIN, supra note ig; Eskridge, supra note 368, at 1538-44.
+373See Aleinikoff, supra note 64, at 47-54.
+314 See suraPP. 492-93.
+371See infra PP. 496-97.
+original statute may no longer be valid. For example, statutes
+regulating broadcasting were enacted with the understanding that because
+of the limitations of the spectrum, few broadcasting licenses would be
+available. In the face of new technology and the rise of cable
+television, that assumption has become hopelessly unrealistic.</p>
+          <p>Second, a statutory provision may no longer be consistent with
+widely held social norms. In such cases a court must ask whether
+this change so alters the landscape that a reading of the statute that
+does not accord with the original understanding of its authors is
+justified - a question the enacting legislature may well have intended
+courts to answer in the affirmative.</p>
+          <p>Third, the legal background may have changed dramatically as a
+result of legislative and administrative innovations. A statute enacted
+in 1935 may have ignored environmental considerations widely
+recognized in statutes enacted after I96O. The question is whether the
+change in the legal background has consequences for interpreting the
+1935 statute.</p>
+          <p>Judicial responses to all three kinds of obsolescence are not difficult
+to find. The first kind has resulted in aggressive construction,
+particularly in banking and broadcasting. 376 In light of the changed nature
+of the relevant markets, it is implausible to resolve ambiguities by
+examining Congress' intent at the time of enactment. Such an
+approach would be a recipe for absurdity, and absurdity would hardly
+promote legislative purposes.</p>
+          <p>The second form of obsolescence is reflected in judicial construction
+of statutes of the 192o's and 1930's so as to require old-line agencies
+to take account of environmental concerns. In this context, the legal
+backdrop has changed so dramatically that seemingly straightforward
+interpretation of the old statutes would be undesirable. 377 The same
+point helps to explain the courts' narrow construction of provisions of
+the UCC not anticipating the revolution in the law of products
+liability.3 78 The Court's decision in Bob Jones can be understood in
+similar terms. Changing legislative and judicial developments had
+made racial discrimination inconsistent with "public policy" in the
+r98o's, even if no such inconsistency existed when the charitable
+deduction was first enacted.</p>
+          <p>Decisions reading ambiguous statutes to require regulatory agencies
+to consider costs and benefits illustrate the third form of judicial
+response to obsolescence. 379 The Court may also have been reflecting
+376 See Langevoort, supra note 80.</p>
+          <p>377 See, e.g., Scenic Hudson Preservation Conference v. Federal Power Conm'n, 354 F.2d
+6o8 (2d Cir. 1965), cert. denied, 384 U.S. 941 (1966).</p>
+          <p>378 See Peters, Common Law Judging in a Statutory World: An Address, 43 U. PTT. L.
+REV. 995, ioio (1982).</p>
+          <p>379 See supra note 340.
+contemporary values in reading the Sherman Act as an effort to
+promote consumer welfare. 38 0 The underlying argument would be
+that a welfare-based interpretive principle is the only basis for a
+judicially administrable standard, and that such a principle conforms
+best to current understandings about a well-functioning antitrust
+law.38 1</p>
+          <p>Several substantive norms apply to cases of obsolescence. Obsolete
+statutes are by hypothesis inconsistent with other regulation or with
+the current legal framework. They may also have pernicious, if
+unintended, systemic effects. If the text allows, courts should attempt
+to harmonize such statutes with current circumstances.</p>
+          <p>We might explore the problem of obsolescence in more detail by
+examining the Delaney Clause. As noted above, the clause prohibits
+the sale of food additives that "induce cancer when ingested by man
+or animal" or are found "after tests which are appropriate for the
+evaluation of the safety of food additives, to induce cancer in man
+and animal." 382 As we have seen, the drafters of the clause believed
+that few additives caused cancer, and that those that did so were
+extremely dangerous. By the I98o's, however, it was clear that many
+substances were carcinogenic, but that a number of them created
+exceptionally minor risks. 38 3</p>
+          <p>These developments severely undermined the assumptions of the
+Congress that enacted the Delaney Clause. Indeed the clause, read
+literally, appeared quite perverse in many of its applications because
+it banned substances that posed no real risk to health. Having been
+forbidden to use food additives posing a de minimis risk of cancer,
+380 See, e.g., R. BoRm, supra note 337, at 72-89. A similar method was at work in King
+v. Smith, 392 U.S. 309 (1968), in which the Supreme Court invalidated a state rule depriving
+women of welfare benefits whenever they lived with a man - even if cohabitation occurred as
+rarely as once a month. Although there had been a steady trend in the direction of eliminating
+moral requirements for welfare recipients, and although the "man-in-the-house" rule had been
+widely condemned as irrational, punitive, and probably both sexist and racist in operation, the
+Court was unable to point to any statutory provision that unambiguously invalidated the state
+rule. The decision in King v. Smith amounted to an aggressive reading of the statute to conform
+to what the Court understood to be the current (and well-founded) national consensus.</p>
+          <p>381 See R. BORK, supranote 337, at 72-1,5; R. POSNER, ECONOMIc ANALYSIS OF LAW
+26597 (3d ed. 1986).</p>
+          <p>382 21 U.S.C. § 348(c)(3)(A) (1982).
+383 Albert Kolbye argues:
+[A]nalytical chemists can now detect a whole new galaxy of low levels of substances in
+food. Previously the limits of qualitative identification and quantitative measurement
+were in the parts per thousand range: today parts per trillion are not uncommon and in
+some instances routine. This represents a millionfold increase in our ability to detect
+'chemicals' in food.</p>
+          <p>Kolbye, Decision-MakingIssues Relevant to Cancer-InducingSubstances, in REGULATORY
+AsPECTS OF CARCINOGENESIS AND FOOD ADDITIVES: THE DELANEY CLAUSE 93, 94 (F. Coulston
+ed. 1979); see also Merrill, supra note 81, at 15-16 (discussing these technological advances).
+manufacturers instead used additives that caused more serious risks
+of other diseases - thus creating what was quite possibly a significant
+increase in illnesses and deaths from food additives. In response, the
+FDA - invoking background principles against obsolescence and in
+favor of rationality and de minimis exception - interpreted the clause
+to permit the exemption of trivial risks. The claim, in short, was that
+changed circumstances made the word "induce" ambiguous. The FDA
+said that it would approve food additives that posed a de minimis
+risk of cancer.</p>
+          <p>The United States Court of Appeals for the District of Columbia
+held that the FDA's position was unlawful. 384 In that court's view,
+the Delaney Clause was unambiguous on the point. Read in context,
+however, the statute's meaning was far from clear. Because Congress
+did not focus on the question of de minimis risks in its original
+enactment, a de minimis exception would not have defeated Congress'
+will. The factual background against which the Delaney Clause was
+written was so different from the present circumstances that the
+statutory terms "induce cancer" must be treated as ambiguous. The word
+"induce" should be read in its setting: whether a substance "induces"
+cancer within the meaning of the clause might well be a function of
+the degree of risk that it poses. We have seen that where there has
+been no clear legislative statement, agencies should be free to create
+de minimis exceptions to regulation. In these circumstances,
+interpretation of the clause to permit such exceptions seems consistent with
+permissible understandings of statutory construction, and quite
+sensible to boot. The D.C. Circuit's decision to the contrary was
+therefore misguided.</p>
+        </sec>
+      </sec>
+      <sec id="sec-1-4">
+        <title>D. Priorityand Harmonization</title>
+        <p>It will not have escaped notice that the interpretive principles I
+have proposed will sometimes conflict with one another. For example,
+the principle favoring state authority might collide with the principle
+favoring disadvantaged groups, and the presumption against
+amendment through the appropriations process might contradict the principle
+in favor of generous construction of statutes protecting nonmarket
+values. The examples could easily be multiplied. The possibility of
+conflict renders the basic approach vulnerable to a neo-realist
+objection that, in practice, the interpretive norms will provide contradictory
+guidance for the judiciary.</p>
+        <p>Principles of harmonization and priority can in fact be developed
+to resolve cases of conflict. To make this claim is not, however, to
+say that the application of interpretive norms can be purely
+mechan384 See Public Citizen v. Young, 831 F.2d ixo8 (D.C. Cir. 1987), cert. denied, 1o8 S. Ct.
+1470 (i988).
+ical. Inevitably, statutory construction is an exercise of practical
+reason, in which text, history, and purpose interact with background
+understandings in the legal culture. 3 85 In light of the dependence of
+outcomes on particular contexts, a fully systematized approach to
+statutory construction would be unmanageable. But short of a
+complete system, it is possible to develop some guidelines.</p>
+        <p>i. Priority. - The first task is to develop principles by which to
+rank interpretive norms. Although different judges and administrators
+will rank such norms in different ways, it should be possible to achieve
+a more precise understanding of statutory construction - both as a
+descriptive and as a normative matter - by generating a hierarchy
+of interpretive principles.</p>
+        <p>In that hierarchy, the presumptions in favor of decisions by
+politically accountable actors and in favor of political deliberation should
+occupy the very highest place. The principle of political accountability
+has a clear foundation in article I of the Constitution, is an overriding
+structural commitment of the document, has roots in assessments of
+institutional performance, 3 86 and is also designed to counteract
+characteristic failures in the regulatory process. 3 87 In this sense, the norm
+of political accountability draws on all three basic sources of
+interpretive principles.</p>
+        <p>The commitment to political deliberation belongs on the same
+plane. The belief in deliberative democracy is also a basic
+constitutional commitment. 388 Implicit in the systems of checks and balances
+and federalism, it draws on Madison's conception of political
+representation. The absence of deliberation has also contributed to
+regulatory failure. 38 9 In these ways, the belief in political deliberation and
+the belief in political accountability are closely allied.</p>
+        <p>Other interpretive principles traceable to constitutional norms
+deserve great respect. They should occupy the next highest position in
+the hierarchy. This category would include the norms in favor of
+broad interpretation of statutes protecting disadvantaged groups,
+against delegations of legislative authority, in favor of state autonomy,
+and in favor of narrow construction of interest-group transfers. As
+we have seen, all of these principles have constitutional status but are
+underenforced as a result of the institutional position of the
+judiciary.3 90 Moreover, it is possible to create a kind of hierarchy within
+constitutionally based interpretive principles. Thus, for example, the
+385 See Eskridge &amp; Frickey, Statutory InterpretationAs PracticalReasoning, 42 STAN. L.
+REV. 321 (I990).</p>
+        <p>386 See supra p. 475.
+387 For a discussion of these failures, see pp. 467-68 above.
+388 See sura pP. 471-72.
+389 See, e.g., J. MENDELOFF, supra note 224; Rose-Ackerman, supra note 292, at 352-54.
+390 See supra p. 466.
+principle in favor of state autonomy should occupy a lower place than
+the principle in favor of protection of disadvantaged groups, which is
+the product of the fourteenth amendment, a self-conscious attempt to
+limit the scope of state power. The case law in fact reflects this
+hierarchy.391</p>
+        <p>Finally, interpretive principles without constitutional status should
+occupy the lowest rung, precisely because the judgments they
+represent are not so closely connected with the foundational commitments
+of American constitutionalism. This category includes norms in favor
+of coordination and of proportionality, norms requiring consideration
+of systemic effects, norms against implied repeals, and norms against
+obsolescence. All these norms should play a less significant role in
+cases of conflict. Moreover, these principles might themselves be
+placed in lexical order. For example, the principles calling for de
+minimis exceptions and for proportionality, and for taking account of
+systemic effects, should occupy the highest position among
+nonconstitutional principles. To use (for example) the principle calling for broad
+construction of statutes favoring nonmarket values as a reason to
+abandon proportionality would sacrifice those very values - because
+of the likelihood that stringent regulation that bars balancing will
+produce regulatory irrationality and, ultimately, underregulation. The
+background principles calling for proportionality and de minimis
+exceptions, and requiring consideration of systemic effects, should
+ordinarily apply unless a constitutional principle trumps them.</p>
+        <p>2. Harmonization.- Principles of harmonization are designed not
+to rank interpretive norms but to minimize the number of conflicts
+among norms. For example, courts should apply the proportionality
+principle differently when nonmarket values are at stake. In cases of
+economic regulation, translating costs and benefits into dollars,
+measured in terms of private willingness to pay, is entirely sensible. In
+cases implicating nonmonetary values, the fact that monetized costs
+and benefits are disproportionate is not controlling. Reflecting a
+similar understanding, the courts have interpreted statutes quite
+generously, and in a way that conspicuously departs from private
+willingness to pay, when aspirations and noncommodity values are
+involved. 39 2</p>
+        <p>Another principle of harmonization would recognize that cases turn
+not simply on the applicability of interpretive norms, but also on the
+degree of their infringement. Thus, for example, an enormous grant
+of discretionary lawmaking power to a regulatory agency would argue
+more strongly in favor of an aggressive narrowing construction than
+a minor grant of such power. Moreover, if the norm in favor of
+391See, e.g., Fitzpatrick v. Bitzer, 427 U.S. 445, 453-56 (1976).
+392See cases cited supra notes 333-34.
+limited delegations conflicts with the norm in favor of coordination of
+regulatory policy, the degree of the infringement on both norms would
+be highly relevant to the decision.</p>
+      </sec>
+      <sec id="sec-1-5">
+        <title>3. An Illustration - Pennhurst. - Pennhurst State School &amp;</title>
+        <p>
+          Hospital v. Halderman3 93 illustrates the operation of principles of
+priority and harmonization. In Pennhurst, a group of mentally
+retarded people brought suit against a mental health facility that was
+found to contain dangerous conditions. Many of the residents had
+been physically abused, brutally mistreated, or drugged; the facility
+was utterly inadequate for the treatment of the retarded. As the basis
+of their legal claim, the plaintiffs invoked the "bill of rights" in the
+Developmentally Disabled Assistance and Bill of Rights Act. 3 94 The
+bill of rights contained a set of legislative findings, including the
+following:
+(i) Persons with developmental disabilities have a right to appropriate
+treatment, services, and habilitation for such disabilities.
+(
+          <xref ref-type="bibr" rid="ref3">2</xref>
+          ) The treatment, services, and habilitation for a person with
+developmental disabilities should be designed to maximize the
+developmental potential of the person and should be provided in a setting
+that is least restrictive of the person's personal liberty.
+(3) The Federal Government and the States both have an obligation
+to assure that public funds are not provided to any institution]...
+that] does not provide treatment, services, and habilitation which is
+appropriate to the needs of such persons .... 395
+        </p>
+        <p>The question in Pennhurst was whether the bill of rights created
+legally enforceable rights, or whether it instead enacted a set of goals
+or aspirations that could not be vindicated in court. The history of
+the Act supported an argument that Congress intended to create
+legally cognizable rights. 39 6 On the other hand, it was not unreasonable
+to suggest that the bill of rights should be taken, like some other
+prefaces to legislation, as a statement of goals and purposes that
+amounted to an essentially precatory statement of congressional
+aspirations - a statement that would not permit the developmentally
+disabled to bring suit against a facility that failed to respect the bill
+of rights. There was no affirmative indication that the "findings" were
+intended to give rise to legally enforceable rights, costing the state
+enormous sums. Without a background interpretive principle, the
+case was probably impossible to resolve.</p>
+        <p>393 451 U.S. i (1981).
+39442 U.S.C. §§ 6ooo-6o8i (1982 &amp; Supp. 1989).
+395 Id. § 6009.
+396 See, e.g., 451 U.S. at 42-47 (White, J., dissenting).</p>
+        <p>In holding for the governmental defendant, the Supreme Court
+did not deny that the conventional sources of interpretation left the
+case in equipoise. Instead it invoked a background principle: "[I]f
+Congress intends to impose a condition on the grant of federal moneys,
+it must do so unambiguously. By insisting that Congress speak with
+a clear voice, we enable the States to exercise their choice knowingly,
+cognizant of the consequences of their participation. '3 97 The Court
+decided Pennhurston the basis of an interpretive norm derived from
+the constitutional background, not from the statute at issue.</p>
+        <p>For reasons explored above, federalism principles are properly
+invoked, at least in ordinary settings, to require a clear statement
+from Congress for the imposition of significant duties on the states.
+If the Court had held the bill of rights legally enforceable, the states
+would have faced an enormous financial burden - one that they had
+not, in view of the statute's ambiguity, necessarily expected to incur.
+It is for this reason that the outcome in Pennhurst is a plausible one.
+But two considerations suggest that Pennhurst was incorrectly
+decided.</p>
+        <p>First, a constitutional norm calls for aggressive construction of
+statutes involving the developmentally disabled. The Court has been
+extremely cautious in using the Constitution to protect the disabled,
+largely for institutional reasons. 398 In holding that the equal
+protection clause does not entitle the mentally retarded to special judicial
+protection, for example, the Court stressed that federal and state
+legislatures have responded to the pervasive mistreatment of the
+retarded, and that unelected judges should be reluctant to intrude so
+dramatically into democratic processes. 3 99 In these circumstances, the
+best substantive theory of the equal protection clause accords special
+protection to the disabled, and when other branches give such
+protection, they are fulfilling their constitutional responsibilities.</p>
+        <p>Second, federalism principles have much less force in cases in
+which Congress attempts to protect a traditionally disadvantaged
+group from state political processes. The ordinary presumption in
+favor of state autonomy is countered by the fourteenth amendment
+- a self-conscious limitation on state power. Invocation of principles
+of state autonomy in the context of a socially subordinated group
+to justify a narrow reading of a statute enacted on its behalf - is
+positively perverse in light of constitutional structure and history. 40 0
+397451 U.S. at 17 (footnote and citations omitted).
+398 See City of Cleburne v. Cleburne Living Center, Inc., 473 U.S. 432 (1985).
+399See id. at 442-47.</p>
+        <p>400 To be sure, this conclusion depends on the (controversial) view that the developmentally
+disabled should for these purposes be treated the same as blacks, the unquestionable principal
+beneficiaries of the fourteenth amendment. But that view should not be difficult to defend in
+light of the past and present treatment of the developmentally disabled, treatment that led to</p>
+        <p>It follows that when Congress has taken steps to provide
+safeguards for that group, the Court should take into account the
+fourteenth amendment and the underenforced character of the equality
+norm in order to give statutes involving the disabled a hospitable
+rather than a grudging interpretation. 40 1 The PennhurstCourt should
+not have relied on a background norm in favor of federalism in order
+to render meaningless a statutory provision involving a group and a
+right safeguarded by the fourteenth amendment. 40 2</p>
+      </sec>
+      <sec id="sec-1-6">
+        <title>E. A Concluding Note: The Post-CanonicalUniverse</title>
+        <p>What would the universe of statutory interpretation be like if all
+of these proposals were accepted? In one sense, it would not be
+dramatically different from the one we inhabit. All of the principles
+suggested here have some foundations in current law. A system of
+interpretation without interpretive norms, even substantive and
+institutional ones, would be inconceivable. On the other hand, a legal
+system that adopted such principles self-consciously would have a far
+greater degree of uniformity and coherence. It would be especially
+responsive to constitutional norms, to institutional considerations, and
+to an informed understanding of the functions and failures of the
+modern regulatory state. Above all, the system would rely on norms
+that promote the goals and that improve the performance of statutory
+regimes, and it would use the process of statutory construction as a
+corrective against some of the pervasive weaknesses, injustices, and
+irrationalities of modern regulation.</p>
+        <p>In all likelihood, a set of explicitly articulated interpretive norms
+would elicit administrative and legislative responses. In time,
+members of Congress, and others involved in the lawmaking process,
+would become aware of those norms and would enact statutes in the
+shadow of such norms. Some statutes would look quite different, for
+Congress would know that courts would, in the face of statutory
+silence or ambiguity, press legislation in one direction rather than
+another.403 Judicial adoption of interpretive norms of this sort would
+and made necessary the very statute at issue in Pennhurst. See Minow, When Difference Has
+Its Home: Group Homesfor the Mentally Retarded, Equal Protectionand Legal Treatment of
+Difference, 22 HARv. C.R.-C.L. L. REv. III, 144-52 (1987).</p>
+        <p>401 But cf. Santa Clara Pueblo v. Martinez, 436 U.S. 49 (1978) (upholding tribal sovereign
+immunity against equal protection claim under the Indian Civil Rights Act).</p>
+        <p>402 Principles of priority and harmonization were also at work in Bob Jones University v.
+United States, 461 U.S. 574 (1983). See supra note ioo. That decision reflects an implicit
+understanding that the nonsubordination principle trumps the interest in the autonomy of
+religious organizations, at least in the context of tax policy.</p>
+        <p>403 In light of the absence of solid evidence that legislative activity is materially affected by
+interpretive norms in general, this effect would, however, probably not be as great as one might
+expect.
+ultimately shift the burden of legislative inertia - giving rationality
+of various sorts the benefit of the doubt, and raising the costs of
+absurdity or injustice - and at the same time would offer legislators
+and others a clear rather than murky background against which to
+do their work.</p>
+        <p>The interpretive norms suggested here would convert some hard
+cases into easy ones, by providing principles with which to decide
+cases that might otherwise be in equipoise. Examples include cases
+like American Petroleum, which involved the operation of the
+proportionality principle, and cases involving allegations of preemption,
+which implicate the principle in favor of state autonomy. But the
+norms would also make some easy cases into hard ones, by shifting
+the legal backdrop and requiring clear legislative instructions before
+certain results could be reached. For this reason, a legal framework
+pervaded by explicit background norms of the sort outlined here would
+in some settings create rather than diminish legal uncertainty. 40 4 This
+cost, however, is a small price to pay for increased clarity in a variety
+of contexts, and, much more fundamentally, an improvement in the
+performance of regulatory law, an increase in rationality, and a greater
+sensitivity to the constitutional backdrop, statutory function, and
+regulatory failure.</p>
+        <p>V. CONCLUSION</p>
+        <p>The traditional understandings of statutory construction are
+inadequate. They fail to describe existing practice or to set out an
+approach that deserves support. Under the approach suggested here,
+the statutory text is the foundation for interpretation, but structure,
+purpose, intent, history, and "reasonableness" all play legitimate roles.
+It is possible, moreover, to distinguish among those roles, and thus to
+produce a system in which dictionary definitions of statutory terms
+ordinarily suffice, but are subject to various forms of contextual
+qualification.</p>
+        <p>As complete theories of interpretation, however, all of the
+traditional sources depend on fictions or leave large interpretive gaps.
+Efforts to approach statutes as "deals," or to justify a general
+background rule in favor of either administrative interpretation or "private
+ordering, '40 5 cannot be defended, for they produce indeterminacy, lead
+404 The Delaney Clause might be an example. On one understanding of a textualist
+approach, the case is an easy one, and the FDA loses; it is the norm against de minimis exceptions
+that introduces uncertainty into a case that might be otherwise resolved on the basis of the
+"text."</p>
+        <p>40S The quotation marks are necessary because of the dependence of private ordering on
+legal decisions - a prominent New Deal theme. See Sunstein, supra note 9, at 437-38,
+451to an inferior system of law, or depend on values that were repudiated
+by the decision to create the regulatory regime in the first instance.</p>
+        <p>Because language "by itself" lacks meaning, and in light of the
+existence of gaps or ambiguities in hard cases, interpretive principles
+of various sorts are desirable and in any case inevitable.
+Interpretation cannot occur without background principles that fill gaps in the
+face of legislative silence and provide the backdrop against which to
+read linguistic commands. In easy cases, the text, in conjunction with
+generally held interpretive principles, is enough to solve interpretive
+disputes; in other cases, also relatively easy, a resort to purpose,
+context - including legislative history - or reasonableness will be
+proper, necessary, and sufficient. In many cases, however, courts
+must invoke interpretive principles that appear controversial.</p>
+        <p>Some such principles aid courts in discerning the meaning of
+particular statutes, or help to implement Congress' actual or likely
+interpretive instructions. Others are rooted in constitutional concerns;
+others derive from assessments of institutional performance; still others
+attempt to respond to characteristic failings of regulatory legislation.
+Because statutory meaning is a function of interpretive principles and
+cannot exist without them, something like "canons" of construction,
+far from being obsolete, must occupy a prominent place in the theory
+and practice of statutory interpretation.</p>
+        <p>In these circumstances, it is especially important to avoid thiee
+common errors. The first is to treat interpretive principles as the
+illegitimate intrusion of discretionary policy judgments into "ordinary"
+interpretation; as we have seen, there is no such thing. The second
+is to think that the existence of competing, and value-laden, principles
+is a reason to give up on the enterprise of statutory construction
+altogether, and in hard cases to resort to a sometimes fictional "plain
+language," to treat interpretation as inevitably indeterminate, or to
+rest content with the conclusion that statutes turn out to mean what
+people in authority say that they mean. Even in hard cases, it is
+possible to mediate among competing principles and to assess them in
+terms of their sensitivity to constitutional structure, to institutional
+arrangements, and to regulatory function and failure. The third error
+is to use traditional principles of private law - carried over from
+anachronistic conceptions of the relationship between the citizen and
+the state - to resolve disputes about the meaning of modern
+enactments.</p>
+        <p>The interpretive principles suggested here are intended for the
+President, regulatory agencies, and Congress, as well as for the courts.
+Even more fundamentally, they provide a basis for understanding the
+ideas that underlie the fabric of the modern regulatory state. Indeed,
+it is in disputes over background norms of interpretation that one
+finds principles that organize and divide understandings not only of
+the New Deal reformation, but of American constitutionalism and
+democracy as a whole.</p>
+        <p>The ultimate task is to develop a set of interpretive norms
+sensitive to constitutional structure, institutional design, the New Deal
+reformation, and the diverse functions and failings of governmental
+actors and statutory regimes 40 6 - with which to approach social and
+economic regulation in a system that has largely abandoned common
+law categories. It is possible to generate a series of interpretive
+principles, all with support in current law, that can promote the goals of
+deliberative government in the post-New Deal period. In this way,
+statutory construction can serve as an ally of other, more ambitious
+strategies designed to promote some of the original constitutional goals
+in a dramatically changed legal environment. It is far too much to
+expect statutory construction to respond to all of the failings of the
+modern regulatory state. But it is not too much to expect that the
+process of interpretation can make the situation better rather than
+worse.</p>
+        <p>406 See Pound, Common Law and Legislation, supra note 4, at 386 (deploring the courts'
+failure to conceive of statutes "as entering into the legal system as an organic whole" and the
+judicial treatment of statutes "as introducing a sort of temporary innovation which is not at all
+to be thought of as on the same footing with common law doctrines"); see also Stone, The
+Common Law in the United States, 5o HARv. L. REv.4, i5 (1936) ("[A] statute is not an alien
+intruder in the house of the common law, but a guest to be welcomed and made at home there
+as a new and powerful aid in the accomplishment of its appointed task of accommodating the
+law to social needs.").</p>
+        <p>APPENDIX: INTERPRETIVE PRINCIPLES, OLD AND NEW
+I. EXISTING OR DEFUNCT PRINCIPLES: A TYPOLOGY</p>
+      </sec>
+      <sec id="sec-1-7">
+        <title>A. PrinciplesDesigned To Reveal Statutory Meaning in Particular</title>
+        <p>Cases
+i. Plain meaning (questionable).
+2. Understanding words in context of statutory structure.
+3. Understanding specific provisions to overcome general
+provisions.</p>
+      </sec>
+      <sec id="sec-1-8">
+        <title>4. Expressio unius (questionable).</title>
+        <p>5. Construing statutes in context of and harmoniously with
+other statutes.</p>
+      </sec>
+      <sec id="sec-1-9">
+        <title>6. Ejusdem generis.</title>
+      </sec>
+      <sec id="sec-1-10">
+        <title>B. PrinciplesDesigned To Reflect Congress' Actual or Likely Interpretive Instructions</title>
+        <p>I. I U.S.C. §§ 1-6.
+2. Narrow construction of appropriations statutes.
+3. Construing statutes so as to avoid constitutional invalidity.
+4. Presumption in favor of judicial review of administrative
+decisions.</p>
+        <p>5. Accounting for changed circumstances.</p>
+      </sec>
+      <sec id="sec-1-11">
+        <title>C. PrinciplesDesigned To Promote InstitutionalGoals or To Improve Lawmaking</title>
+        <p>I. Plain meaning (questionable).
+2. Narrow construction of appropriations statutes.
+3. Narrow construction of exemptions from taxation.
+4. Deferring to agency interpretations of law, or to agency
+decisions where discretion has been conferred.
+5. Construing statutes so as to limit administrative discretion
+and force decision by politically accountable persons.
+6. Presumption in favor of judicial review of agency decisions.
+7. Interpreting congressional refusal to disrupt longstanding
+judicial or administrative interpretations of statutes as
+acquiescence or ratification.</p>
+      </sec>
+      <sec id="sec-1-12">
+        <title>D. Principles Designed To Promote Substantive Goals</title>
+        <p>I. Presumption against preemption of state law (questionable
+when discrimination is at issue).
+2. Presumption against implied repeals.
+3. Construing statutes so as to harmonize with one another.
+4. Narrow construction of statutes in derogation of common
+law (obsolete).
+5. Narrow construction of statutes abrogating sovereign
+immunity (obsolete).
+6. Construing statutes in favor of Indian tribes.
+7. Presumption against implied causes of action (questionable).
+8. Presumption against judicial review of agency inaction
+(questionable).
+9. Rule of lenity in criminal cases.
+io. Presumption that laws apply only within territory of United</p>
+        <p>States.
+xi. Presumption against standing for "regulatory harms"
+(questionable).
+12. Broad construction of remedial statutes (indefensible except
+as a corrective to 4 above).
+13. Presumption against retroactivity.
+14. Presumption against interference with traditional powers
+of the President and federal courts.</p>
+        <p>II. PROPOSED PRINCIPLES FOR THE REGULATORY STATE
+A. ConstitutionalPrinciples
+i. Avoiding constitutional invalidity and constitutional doubts.
+2. Federalism.
+3. Political accountability; the nondelegation principle.
+4. Political deliberation; checks and balances; the constitutional
+antipathy to naked interest-group transfers.
+5. Disadvantaged groups.
+6. Hearing rights.
+7. Property and contract rights.
+8. Welfare rights.</p>
+        <p>9. Rule of law.</p>
+        <p>B. Institutional Concerns
+x. Narrow construction of appropriations statutes.
+2. Presumption in favor of judicial review.
+3. Presumption against implied exemptions from taxation.
+4. Presumption against implied repeals.
+5. Question of administrative discretion.
+6. Cautious approach to legislative history.
+7. Ratification, acquiescence, stare decisis and post-enactment
+history.</p>
+        <p>C. CounteractingStatutory Failure
+x. Presumption in favor of political accountability.
+2. Presumption against subversion of statute through collective
+action problems.
+3. Presumption in favor of coordination and consistency.
+4. Presumption against obsolescence.
+5. Narrow construction of procedural qualifications of
+substantive rights.
+6. Understanding systemic effects of regulatory controls.
+7. Presumption against irrationality and injustice.
+8. Proportionality (to counteract overzealous implementation).
+9. De minimis exceptions (same).
+io. Narrow construction of statutes embodying interest-group
+transfers (to counteract "deals").
+iI. Broad construction of statutes protecting disadvantaged
+groups.
+12. Broad construction of statutes protecting nonmarket
+values.</p>
+        <p>13. Avoiding private law principles.
+]III. PRIORITY AND HARMONIZATION</p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ref1">
+        <mixed-citation>
+          <string-name>
+            <given-names>(e) Changed Circumstances ........................................... 2.</given-names>
+            <surname>Contextual</surname>
+          </string-name>
+          <string-name>
+            <surname>Approaches ...............................................</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref2">
+        <mixed-citation>
+          <article-title>(ii) Legislative Intent</article-title>
+          and
+          <string-name>
+            <given-names>Legislative History ....................... 3.</given-names>
+            <surname>Legal</surname>
+          </string-name>
+          <string-name>
+            <surname>Process ....................................................... 4.</surname>
+          </string-name>
+          <article-title>The Proper Role of Traditional Sources of Meaning and the Failure of the</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref3">
+        <mixed-citation>
+          2.
+          <string-name>
+            <surname>Conventionalism .....................................................</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref4">
+        <mixed-citation>
+          <string-name>
+            <surname>z. Private Ordering ....................................................</surname>
+          </string-name>
+          2. Deference to
+          <string-name>
+            <given-names>Agency Interpretationsof Law ............................. 3. Public</given-names>
+            <surname>Choice</surname>
+          </string-name>
+          <article-title>Theory and "Deals".</article-title>
+          <string-name>
+            <surname>.................................... 4. Criteria ............................................................</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref5">
+        <mixed-citation>
+          <string-name>
+            <given-names>x. Orientationto Meaning .............................................. 2.</given-names>
+            <surname>Interpretive</surname>
+          </string-name>
+          <string-name>
+            <given-names>Instructions .............................................. 3.</given-names>
+            <surname>Improving</surname>
+          </string-name>
+          <string-name>
+            <given-names>Lawmaking: InstitutionalConsiderations...................... 4.</given-names>
+            <surname>Substantive</surname>
+          </string-name>
+          <string-name>
+            <surname>Purposes .................................................</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref6">
+        <mixed-citation>
+          <article-title>25This conception has strong roots in the American legal tradition, see</article-title>
+          , e.g., Schooner
+        </mixed-citation>
+      </ref>
+      <ref id="ref7">
+        <mixed-citation>
+          <article-title>Paulina's Cargo v</article-title>
+          .
+          <source>United States, I U.S. (7 Cranch)</source>
+          <volume>52</volume>
+          ,
+          <issue>6o</issue>
+          (
+          <year>1812</year>
+          )
+          <article-title>(Marshall</article-title>
+          ,
+          <string-name>
+            <surname>C.J.) (</surname>
+          </string-name>
+          <article-title>"In</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref8">
+        <mixed-citation>
+          <source>note 29 below. 26 See</source>
+          , e.g.,
+          <source>Easterbrook, supra note 13</source>
+          , at 534 n.
+          <article-title>2 ("If statutes' words do not convey</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref9">
+        <mixed-citation>
+          <article-title>meaning and bind judges, why should judges' words bind or even interest the rest of us?"). 27 In this sense, the debate resembles the debate over formalism in constitutional law</article-title>
+          .
+          <source>See</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref10">
+        <mixed-citation>
+          <string-name>
+            <surname>generally Brest</surname>
+          </string-name>
+          ,
+          <article-title>The Misconceived Quest for the Original Understanding</article-title>
+          , 6o
+          <string-name>
+            <surname>B.U.L. REV. 204</surname>
+          </string-name>
+        </mixed-citation>
+      </ref>
+      <ref id="ref11">
+        <mixed-citation>
+          <source>(198o)</source>
+          . 28 1
+          <string-name>
+            <surname>HOLMEs-LAsKI</surname>
+            <given-names>LETTERS</given-names>
+          </string-name>
+          , snpra note i, at
+          <volume>249</volume>
+          . 29 See, e.g.,
+          <article-title>Public Citizen v</article-title>
+          .
+          <source>United States Dep't of Justice</source>
+          , 109
+          <string-name>
+            <given-names>S.</given-names>
+            <surname>Ct</surname>
+          </string-name>
+          .
+          <volume>2558</volume>
+          ,
+          <fpage>2573</fpage>
+          -
+          <lpage>74</lpage>
+          (
+          <year>1989</year>
+          )
+        </mixed-citation>
+      </ref>
+      <ref id="ref12">
+        <mixed-citation>
+          <year>1814</year>
+          ,
+          <fpage>i818</fpage>
+          -
+          <lpage>i9</lpage>
+          (
+          <year>i989</year>
+          );
+          <article-title>Chan v</article-title>
+          .
+          <source>Korean Airlines</source>
+          , io9
+          <string-name>
+            <given-names>S.</given-names>
+            <surname>Ct</surname>
+          </string-name>
+          .
+          <volume>1676</volume>
+          ,
+          <article-title>168o-gi (i989); Pittston Coal</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref13">
+        <mixed-citation>
+          Group v.
+          <source>Sebben</source>
+          , 1o9
+          <string-name>
+            <given-names>S.</given-names>
+            <surname>Ct</surname>
+          </string-name>
+          .
+          <volume>414</volume>
+          ,
+          <fpage>419</fpage>
+          -
+          <lpage>21</lpage>
+          (
+          <year>1988</year>
+          )
+          <article-title>; McLaughlin v</article-title>
+          .
+          <source>Richland Shoe Co., Xo8 S. Ct.</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref14">
+        <mixed-citation>
+          <volume>677</volume>
+          ,
+          <fpage>1681</fpage>
+          -
+          <lpage>82</lpage>
+          (
+          <year>1988</year>
+          )
+          <article-title>; Immigration &amp; Naturalization Serv</article-title>
+          . v. Cardoza-Fonseca, 480 U.S.
+          <volume>421</volume>
+          , 346 See supra p.
+          <volume>423</volume>
+          .
+          <article-title>347 Courts have reached somewhat conflicting conclusions on this point</article-title>
+          .
+          <source>The background</source>
+        </mixed-citation>
+      </ref>
+      <ref id="ref15">
+        <mixed-citation>
+          <source>831 F.2d iio8</source>
+          ,
+          <fpage>1118</fpage>
+          -22
+          <string-name>
+            <surname>(D.C. Cir</surname>
+          </string-name>
+          .
+          <year>1987</year>
+          )
+          <article-title>(rejecting "literalism" and endorsing the de minimis</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref16">
+        <mixed-citation>
+          40 ADMIN. L. REv.
+          <volume>267</volume>
+          (
+          <year>1988</year>
+          )
+          <article-title>(advocating an "absurdity exception" that would be applied to</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref17">
+        <mixed-citation>
+          <source>the Delaney Clause); see also Alabama Power Co. v. Costle</source>
+          ,
+          <volume>636</volume>
+          F.2d
+          <volume>323</volume>
+          ,
+          <fpage>356</fpage>
+          -
+          <lpage>61</lpage>
+          (D.C. Cir.
+        </mixed-citation>
+      </ref>
+      <ref id="ref18">
+        <mixed-citation>
+          <year>1979</year>
+          )
+          <article-title>("[T]he ability ... to exempt de minimis situations from a statutory command is not an</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref19">
+        <mixed-citation>
+          <string-name>
+            <given-names>design."); Monsanto</given-names>
+            <surname>Co</surname>
+          </string-name>
+          . v. Kennedy,
+          <volume>613</volume>
+          F.2d
+          <volume>947</volume>
+          ,
+          <fpage>955</fpage>
+          -56
+          <string-name>
+            <surname>(D.C.</surname>
+          </string-name>
+          <article-title>Cir</article-title>
+          . I979)
+          <article-title>(inferring a de</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref20">
+        <mixed-citation>
+          <string-name>
+            <surname>Yuckert</surname>
+          </string-name>
+          , 482 U.S.
+          <volume>137</volume>
+          (
+          <year>1987</year>
+          )
+          <article-title>(upholding denial of a benefit based on an interpretation of</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref21">
+        <mixed-citation>
+          <source>for Risk Management, 6 RISK ANALYSIS 437</source>
+          (
+          <year>1982</year>
+          )
+          <article-title>(emphasizing the complexity of risk man-</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref22">
+        <mixed-citation>
+          <source>agement)</source>
+          .
+          <source>See generally Fiksel</source>
+          ,
+          <article-title>Toward a de Minimis Policy in Risk Regulation, 5 RISK</article-title>
+        </mixed-citation>
+      </ref>
+      <ref id="ref23">
+        <mixed-citation>
+          <string-name>
+            <surname>ANALYSIS</surname>
+          </string-name>
+          257 (
+          <year>1985</year>
+          ).
+          <article-title>348 These might include the high aggregate costs of making such exceptions</article-title>
+          . See Latin,
+        </mixed-citation>
+      </ref>
+      <ref id="ref24">
+        <mixed-citation>
+          <source>Tuning" Regulation</source>
+          ,
+          <volume>37</volume>
+          STAN. L. REV.
+          <volume>1267</volume>
+          ,
+          <fpage>1314</fpage>
+          -
+          <lpage>32</lpage>
+          (
+          <year>1985</year>
+          ). 349 29 U.S.C. §
+          <volume>655</volume>
+          (
+          <article-title>b)(5) (</article-title>
+          <year>1982</year>
+          ). 350 Id. 351 Id. §
+          <volume>652</volume>
+          (
+          <issue>8</issue>
+          ). 352 448 U.S.
+          <volume>607</volume>
+          (
+          <issue>198o</issue>
+          )
+          <article-title>(plurality opinion).</article-title>
+        </mixed-citation>
+      </ref>
+    </ref-list>
+  </back>
+</article>
+
