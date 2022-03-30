@@ -1,0 +1,418 @@
+==========================================
+1987
+
+(0, '0.011*"power" + 0.008*"administrative" + 0.008*"judicial" + 0.008*"understanding" + 0.008*"contract" + 0.006*"state" + 0.006*"agency" + 0.006*"justice" + 0.006*"lochner" + 0.006*"system"')
+
+(1, '0.017*"state" + 0.014*"court" + 0.012*"statute" + 0.010*"regulatory" + 0.010*"private" + 0.009*"democracy" + 0.009*"protection" + 0.009*"provide" + 0.009*"discrimination" + 0.009*"agency"')
+
+(2, '0.013*"power" + 0.012*"state" + 0.011*"system" + 0.010*"national" + 0.008*"local" + 0.008*"government" + 0.007*"constitutional" + 0.007*"balance" + 0.007*"check" + 0.006*"court"')
+
+(3, '0.015*"action" + 0.014*"right" + 0.012*"state" + 0.011*"public" + 0.009*"government" + 0.009*"lochner" + 0.009*"interest" + 0.008*"private" + 0.008*"protection" + 0.008*"baseline"')
+
+(4, '0.023*"court" + 0.013*"circuit" + 0.009*"supreme" + 0.007*"would" + 0.007*"decision" + 0.007*"lochner" + 0.006*"government" + 0.006*"statute" + 0.006*"administrative" + 0.006*"right"')
+
+(5, '0.016*"agency" + 0.014*"interest" + 0.012*"independent" + 0.011*"political" + 0.011*"court" + 0.009*"supra" + 0.009*"executive" + 0.008*"right" + 0.007*"president" + 0.007*"presidential"')
+
+(6, '0.021*"would" + 0.012*"agency" + 0.012*"power" + 0.011*"administrative" + 0.010*"court" + 0.009*"approach" + 0.008*"constitutional" + 0.006*"executive" + 0.006*"madison" + 0.005*"purpose"')
+
+(7, '0.019*"court" + 0.017*"common" + 0.014*"lochner" + 0.011*"baseline" + 0.010*"entitlement" + 0.009*"system" + 0.007*"understand" + 0.007*"approach" + 0.007*"exist" + 0.007*"neutrality"')
+
+(8, '0.015*"court" + 0.010*"agency" + 0.010*"right" + 0.010*"protect" + 0.008*"legal" + 0.006*"might" + 0.006*"constitutional" + 0.006*"interest" + 0.006*"choice" + 0.006*"statute"')
+
+(9, '0.012*"state" + 0.009*"constitutional" + 0.008*"government" + 0.007*"action" + 0.007*"overton" + 0.006*"power" + 0.006*"would" + 0.006*"approach" + 0.006*"might" + 0.006*"whether"')
+==========================================
+1988
+
+(0, '0.014*"standing" + 0.010*"right" + 0.009*"court" + 0.009*"mackinnon" + 0.008*"legal" + 0.008*"common" + 0.007*"regulation" + 0.007*"approach" + 0.007*"injury" + 0.007*"reason"')
+
+(1, '0.013*"preference" + 0.010*"problem" + 0.008*"republican" + 0.008*"private" + 0.007*"argument" + 0.006*"legal" + 0.006*"practice" + 0.006*"right" + 0.006*"action" + 0.006*"group"')
+
+(2, '0.021*"clause" + 0.019*"protection" + 0.015*"equal" + 0.014*"process" + 0.010*"interest" + 0.009*"court" + 0.009*"group" + 0.008*"common" + 0.008*"however" + 0.007*"protect"')
+
+(3, '0.025*"injury" + 0.016*"court" + 0.011*"case" + 0.011*"plaintiff" + 0.011*"characterize" + 0.010*"decision" + 0.008*"requirement" + 0.008*"example" + 0.006*"divorce" + 0.006*"causation"')
+
+(4, '0.015*"woman" + 0.012*"approach" + 0.012*"legal" + 0.010*"sexual" + 0.007*"equal" + 0.007*"hardwick" + 0.007*"difference" + 0.007*"equality" + 0.007*"formal" + 0.007*"court"')
+
+(5, '0.015*"political" + 0.015*"group" + 0.014*"representation" + 0.012*"court" + 0.010*"constitutional" + 0.009*"question" + 0.009*"government" + 0.008*"deliberation" + 0.007*"understand" + 0.007*"case"')
+
+(6, '0.016*"would" + 0.013*"regulatory" + 0.011*"process" + 0.010*"standing" + 0.009*"article" + 0.009*"regulation" + 0.008*"legal" + 0.008*"approach" + 0.008*"administrative" + 0.008*"republican"')
+
+(7, '0.014*"republican" + 0.014*"political" + 0.011*"state" + 0.011*"equality" + 0.009*"right" + 0.009*"democracy" + 0.005*"problem" + 0.005*"standing" + 0.005*"belief" + 0.005*"frugality"')
+
+(8, '0.011*"republican" + 0.010*"action" + 0.010*"issue" + 0.009*"watkins" + 0.008*"legal" + 0.008*"standing" + 0.007*"political" + 0.007*"regulation" + 0.007*"effect" + 0.007*"thought"')
+
+(9, '0.021*"mackinnon" + 0.014*"discrimination" + 0.013*"clause" + 0.012*"preference" + 0.009*"legal" + 0.008*"practice" + 0.007*"rule" + 0.007*"president" + 0.007*"woman" + 0.006*"exist"')
+==========================================
+1989
+
+(0, '0.020*"position" + 0.011*"original" + 0.011*"approach" + 0.009*"interpretation" + 0.009*"statute" + 0.009*"political" + 0.007*"question" + 0.007*"understanding" + 0.007*"however" + 0.007*"background"')
+
+(1, '0.016*"principle" + 0.016*"case" + 0.015*"statute" + 0.011*"judicial" + 0.011*"interpretive" + 0.009*"legal" + 0.009*"interpretation" + 0.009*"meaning" + 0.008*"dramatically" + 0.008*"effect"')
+
+(2, '0.019*"court" + 0.015*"would" + 0.013*"statutory" + 0.011*"judicial" + 0.008*"case" + 0.007*"administrative" + 0.007*"norm" + 0.007*"regulation" + 0.007*"quite" + 0.007*"statute"')
+
+(3, '0.014*"think" + 0.014*"court" + 0.012*"agency" + 0.010*"regulatory" + 0.008*"state" + 0.008*"political" + 0.008*"judicial" + 0.008*"question" + 0.006*"government" + 0.006*"program"')
+
+(4, '0.010*"statutory" + 0.008*"favor" + 0.008*"principle" + 0.008*"political" + 0.007*"state" + 0.007*"context" + 0.007*"moral" + 0.007*"understand" + 0.007*"legislative" + 0.007*"case"')
+
+(5, '0.013*"speech" + 0.011*"activity" + 0.011*"question" + 0.009*"government" + 0.009*"might" + 0.008*"would" + 0.008*"state" + 0.008*"judges" + 0.008*"think" + 0.008*"right"')
+
+(6, '0.011*"would" + 0.009*"legality" + 0.009*"review" + 0.009*"argument" + 0.009*"right" + 0.007*"benefit" + 0.007*"social" + 0.007*"concur" + 0.007*"regulatory" + 0.007*"judicial"')
+
+(7, '0.017*"statute" + 0.014*"speech" + 0.012*"court" + 0.009*"regulatory" + 0.009*"value" + 0.009*"benefit" + 0.008*"alternative" + 0.007*"discrimination" + 0.007*"others" + 0.007*"regulation"')
+
+(8, '0.014*"point" + 0.009*"court" + 0.009*"congress" + 0.008*"meaning" + 0.008*"public" + 0.008*"political" + 0.006*"right" + 0.006*"question" + 0.006*"would" + 0.006*"critique"')
+
+(9, '0.010*"would" + 0.010*"equality" + 0.010*"woman" + 0.010*"difference" + 0.008*"treat" + 0.008*"plurality" + 0.008*"significant" + 0.008*"differently" + 0.008*"disability" + 0.008*"suggest"')
+==========================================
+1990
+
+(0, '0.014*"public" + 0.013*"school" + 0.012*"private" + 0.009*"collective" + 0.009*"preference" + 0.009*"government" + 0.008*"democratic" + 0.007*"state" + 0.007*"however" + 0.006*"difficulty"')
+
+(1, '0.019*"statute" + 0.013*"agency" + 0.011*"principle" + 0.010*"congress" + 0.009*"process" + 0.008*"court" + 0.008*"preference" + 0.008*"interpretation" + 0.008*"would" + 0.007*"ensure"')
+
+(2, '0.021*"agency" + 0.019*"court" + 0.018*"constitutional" + 0.015*"congress" + 0.015*"statute" + 0.014*"question" + 0.013*"norm" + 0.013*"principle" + 0.009*"construe" + 0.008*"interpretation"')
+
+(3, '0.024*"right" + 0.010*"decision" + 0.008*"court" + 0.008*"group" + 0.008*"protection" + 0.007*"serious" + 0.007*"equal" + 0.005*"political" + 0.005*"interest" + 0.005*"representation"')
+
+(4, '0.011*"court" + 0.011*"regulation" + 0.007*"principle" + 0.007*"liberal" + 0.007*"first" + 0.007*"point" + 0.006*"system" + 0.006*"risk" + 0.005*"produce" + 0.005*"funding"')
+
+(5, '0.012*"government" + 0.010*"abortion" + 0.009*"regulatory" + 0.007*"reason" + 0.007*"might" + 0.007*"right" + 0.006*"paradox" + 0.006*"whether" + 0.006*"require" + 0.006*"interest"')
+
+(6, '0.013*"would" + 0.009*"system" + 0.007*"canon" + 0.006*"norm" + 0.006*"pierce" + 0.006*"reason" + 0.006*"course" + 0.005*"preference" + 0.005*"respect" + 0.005*"moglen"')
+
+(7, '0.018*"government" + 0.012*"doctrine" + 0.011*"supra" + 0.008*"constitutional" + 0.008*"conditions" + 0.008*"first" + 0.008*"would" + 0.008*"example" + 0.007*"right" + 0.007*"decision"')
+
+(8, '0.011*"agency" + 0.011*"american" + 0.007*"example" + 0.007*"libertarianism" + 0.005*"court" + 0.005*"might" + 0.005*"allow" + 0.005*"popular" + 0.005*"sovereignty" + 0.005*"egalitarianism"')
+
+(9, '0.009*"regulation" + 0.009*"without" + 0.006*"among" + 0.006*"principle" + 0.006*"regulatory" + 0.006*"control" + 0.006*"system" + 0.006*"statement" + 0.006*"constitutional" + 0.006*"surrogate"')
+==========================================
+1991
+
+(0, '0.009*"right" + 0.008*"emission" + 0.007*"private" + 0.007*"subunit" + 0.007*"would" + 0.006*"exist" + 0.006*"preference" + 0.006*"market" + 0.006*"effects" + 0.006*"least"')
+
+(1, '0.013*"system" + 0.012*"might" + 0.009*"social" + 0.008*"would" + 0.008*"government" + 0.008*"important" + 0.007*"democracy" + 0.007*"different" + 0.006*"private" + 0.006*"ensure"')
+
+(2, '0.020*"preference" + 0.011*"social" + 0.009*"private" + 0.009*"problem" + 0.008*"collective" + 0.008*"control" + 0.007*"technology" + 0.007*"force" + 0.007*"impose" + 0.006*"might"')
+
+(3, '0.014*"regulation" + 0.009*"question" + 0.009*"democratic" + 0.008*"system" + 0.008*"market" + 0.007*"government" + 0.007*"process" + 0.007*"would" + 0.006*"political" + 0.006*"understanding"')
+
+(4, '0.011*"american" + 0.008*"tribe" + 0.006*"press" + 0.006*"state" + 0.006*"unite" + 0.006*"university" + 0.006*"outcome" + 0.006*"favor" + 0.006*"statute" + 0.006*"construe"')
+
+(5, '0.011*"political" + 0.007*"system" + 0.007*"right" + 0.006*"might" + 0.006*"democratic" + 0.006*"interest" + 0.006*"government" + 0.006*"group" + 0.005*"social" + 0.005*"problem"')
+
+(6, '0.041*"right" + 0.015*"secession" + 0.013*"would" + 0.012*"secede" + 0.010*"subunit" + 0.009*"state" + 0.009*"constitutional" + 0.007*"constitution" + 0.007*"might" + 0.007*"understanding"')
+
+(7, '0.014*"speech" + 0.009*"discrimination" + 0.008*"private" + 0.008*"employment" + 0.008*"include" + 0.008*"woman" + 0.007*"freedom" + 0.006*"violence" + 0.006*"would" + 0.006*"pornography"')
+
+(8, '0.012*"entitlement" + 0.012*"allocation" + 0.012*"preference" + 0.011*"right" + 0.009*"discrimination" + 0.009*"people" + 0.009*"initial" + 0.009*"effects" + 0.008*"would" + 0.008*"court"')
+
+(9, '0.010*"group" + 0.009*"social" + 0.009*"government" + 0.008*"representation" + 0.007*"control" + 0.006*"woman" + 0.006*"general" + 0.006*"system" + 0.006*"education" + 0.006*"market"')
+==========================================
+1992
+
+(0, '0.035*"right" + 0.016*"constitution" + 0.013*"draft" + 0.007*"argument" + 0.007*"state" + 0.007*"court" + 0.006*"surrogacy" + 0.006*"president" + 0.006*"individual" + 0.006*"perhaps"')
+
+(1, '0.014*"u.s.c." + 0.012*"right" + 0.010*"exist" + 0.010*"congress" + 0.009*"justice" + 0.008*"capacity" + 0.007*"government" + 0.007*"equality" + 0.007*"distribution" + 0.007*"power"')
+
+(2, '0.026*"speech" + 0.014*"government" + 0.012*"would" + 0.010*"first" + 0.010*"right" + 0.009*"amendment" + 0.008*"court" + 0.007*"action" + 0.007*"might" + 0.007*"article"')
+
+(3, '0.008*"hearing" + 0.008*"system" + 0.008*"court" + 0.008*"would" + 0.007*"view" + 0.006*"process" + 0.006*"standing" + 0.006*"public" + 0.006*"issue" + 0.006*"state"')
+
+(4, '0.014*"right" + 0.013*"abortion" + 0.009*"state" + 0.008*"government" + 0.007*"dispute" + 0.006*"property" + 0.006*"congress" + 0.005*"supra" + 0.005*"create" + 0.005*"case"')
+
+(5, '0.028*"senate" + 0.023*"court" + 0.019*"nominee" + 0.013*"president" + 0.012*"would" + 0.012*"supreme" + 0.010*"appointment" + 0.009*"important" + 0.008*"senator" + 0.007*"information"')
+
+(6, '0.011*"practice" + 0.010*"political" + 0.009*"court" + 0.008*"social" + 0.008*"conception" + 0.008*"nature" + 0.007*"branch" + 0.007*"president" + 0.007*"natural" + 0.006*"government"')
+
+(7, '0.010*"information" + 0.009*"action" + 0.008*"woman" + 0.008*"public" + 0.007*"private" + 0.007*"question" + 0.007*"market" + 0.006*"abortion" + 0.006*"people" + 0.006*"provide"')
+
+(8, '0.011*"people" + 0.010*"abortion" + 0.009*"natural" + 0.008*"argument" + 0.008*"education" + 0.007*"case" + 0.007*"would" + 0.006*"court" + 0.006*"require" + 0.006*"protect"')
+
+(9, '0.025*"abortion" + 0.010*"increase" + 0.008*"together" + 0.008*"woman" + 0.006*"speech" + 0.006*"theory" + 0.006*"decision" + 0.004*"indeed" + 0.004*"justice" + 0.004*"example"')
+==========================================
+1993
+
+(0, '0.015*"jstor" + 0.010*"information" + 0.010*"technology" + 0.009*"archive" + 0.009*"available" + 0.007*"company" + 0.006*"tool" + 0.006*"increase" + 0.006*"help" + 0.006*"terms"')
+
+(1, '0.010*"right" + 0.009*"pornography" + 0.008*"would" + 0.006*"speech" + 0.006*"benefit" + 0.005*"public" + 0.005*"dworkin" + 0.005*"theory" + 0.005*"problem" + 0.005*"sexual"')
+
+(2, '0.010*"government" + 0.010*"private" + 0.009*"right" + 0.009*"practice" + 0.009*"example" + 0.008*"constitutional" + 0.008*"would" + 0.007*"criminal" + 0.006*"court" + 0.006*"action"')
+
+(3, '0.013*"reasoning" + 0.011*"school" + 0.009*"analogical" + 0.008*"truth" + 0.008*"speech" + 0.008*"government" + 0.007*"system" + 0.007*"legal" + 0.006*"political" + 0.006*"analogy"')
+
+(4, '0.023*"speech" + 0.010*"would" + 0.008*"preference" + 0.007*"government" + 0.006*"political" + 0.006*"might" + 0.006*"case" + 0.006*"particular" + 0.006*"content" + 0.005*"regulation"')
+
+(5, '0.009*"reasoning" + 0.008*"constitutional" + 0.008*"people" + 0.008*"think" + 0.007*"president" + 0.007*"constitution" + 0.007*"right" + 0.007*"practice" + 0.006*"executive" + 0.005*"court"')
+
+(6, '0.019*"reasoning" + 0.014*"analogical" + 0.010*"value" + 0.008*"reason" + 0.008*"valuable" + 0.008*"case" + 0.007*"principle" + 0.006*"court" + 0.006*"right" + 0.006*"good"')
+
+(7, '0.011*"reasoning" + 0.009*"legal" + 0.009*"people" + 0.008*"court" + 0.007*"might" + 0.007*"effects" + 0.006*"wealth" + 0.006*"decision" + 0.006*"consequence" + 0.006*"social"')
+
+(8, '0.009*"court" + 0.007*"injury" + 0.006*"president" + 0.006*"case" + 0.006*"important" + 0.005*"claim" + 0.005*"question" + 0.005*"interest" + 0.005*"environmental" + 0.005*"relevant"')
+
+(9, '0.010*"section" + 0.007*"pornography" + 0.007*"harm" + 0.007*"might" + 0.007*"problem" + 0.007*"restriction" + 0.007*"status" + 0.006*"speech" + 0.005*"adapt" + 0.005*"example"')
+==========================================
+1994
+
+(0, '0.014*"would" + 0.012*"people" + 0.009*"system" + 0.008*"might" + 0.008*"problem" + 0.007*"basis" + 0.007*"social" + 0.007*"valuation" + 0.007*"argument" + 0.006*"discrimination"')
+
+(1, '0.021*"standard" + 0.011*"would" + 0.009*"rule" + 0.008*"system" + 0.007*"provision" + 0.006*"factor" + 0.005*"claim" + 0.005*"institution" + 0.005*"issue" + 0.005*"offer"')
+
+(2, '0.009*"system" + 0.007*"university" + 0.007*"people" + 0.007*"consumer" + 0.006*"private" + 0.006*"choice" + 0.006*"ethanol" + 0.006*"sovereignty" + 0.006*"important" + 0.006*"education"')
+
+(3, '0.023*"rule" + 0.008*"government" + 0.007*"constitutional" + 0.006*"market" + 0.005*"interpretation" + 0.005*"theory" + 0.005*"involve" + 0.005*"costs" + 0.005*"economic" + 0.004*"private"')
+
+(4, '0.009*"court" + 0.008*"people" + 0.006*"relevant" + 0.006*"reason" + 0.005*"might" + 0.005*"good" + 0.005*"design" + 0.005*"level" + 0.005*"sense" + 0.005*"least"')
+
+(5, '0.010*"could" + 0.008*"state" + 0.007*"discrimination" + 0.007*"judicial" + 0.006*"perhaps" + 0.005*"authority" + 0.005*"social" + 0.005*"general" + 0.005*"identify" + 0.005*"woman"')
+
+(6, '0.012*"would" + 0.008*"public" + 0.008*"private" + 0.007*"system" + 0.007*"federal" + 0.006*"woman" + 0.006*"might" + 0.006*"provide" + 0.006*"question" + 0.005*"discrimination"')
+
+(7, '0.009*"rule" + 0.009*"legal" + 0.008*"court" + 0.008*"state" + 0.007*"congress" + 0.007*"executive" + 0.006*"homosexual" + 0.006*"might" + 0.006*"president" + 0.006*"judgment"')
+
+(8, '0.007*"rule" + 0.007*"regulation" + 0.006*"support" + 0.006*"principle" + 0.005*"legal" + 0.005*"government" + 0.005*"whether" + 0.005*"anticaste" + 0.005*"equality" + 0.005*"state"')
+
+(9, '0.009*"would" + 0.007*"problem" + 0.007*"factor" + 0.006*"independent" + 0.006*"example" + 0.006*"power" + 0.006*"good" + 0.005*"least" + 0.005*"relevant" + 0.005*"interest"')
+==========================================
+1995
+
+(0, '0.020*"right" + 0.011*"people" + 0.009*"rule" + 0.008*"category" + 0.008*"constitutional" + 0.007*"political" + 0.007*"particular" + 0.006*"might" + 0.006*"think" + 0.006*"change"')
+
+(1, '0.009*"lawyer" + 0.007*"theory" + 0.007*"social" + 0.006*"people" + 0.006*"constitutional" + 0.006*"political" + 0.006*"general" + 0.005*"right" + 0.005*"rule" + 0.005*"agreement"')
+
+(2, '0.014*"rule" + 0.009*"would" + 0.009*"social" + 0.008*"right" + 0.007*"treat" + 0.006*"review" + 0.005*"people" + 0.004*"costs" + 0.004*"judicial" + 0.004*"legitimacy"')
+
+(3, '0.008*"people" + 0.007*"important" + 0.007*"legal" + 0.006*"perhaps" + 0.006*"government" + 0.005*"point" + 0.005*"power" + 0.005*"sunstein" + 0.005*"political" + 0.004*"difference"')
+
+(4, '0.017*"government" + 0.014*"market" + 0.012*"right" + 0.010*"president" + 0.009*"would" + 0.007*"power" + 0.007*"could" + 0.006*"choice" + 0.006*"state" + 0.006*"public"')
+
+(5, '0.012*"speech" + 0.011*"political" + 0.010*"principle" + 0.010*"theory" + 0.007*"people" + 0.007*"equality" + 0.007*"constitutional" + 0.006*"first" + 0.006*"think" + 0.006*"whether"')
+
+(6, '0.011*"right" + 0.006*"authority" + 0.006*"president" + 0.006*"section" + 0.006*"american" + 0.005*"emergency" + 0.005*"freedom" + 0.005*"civil" + 0.005*"conditions" + 0.005*"harvard"')
+
+(7, '0.011*"would" + 0.010*"right" + 0.010*"president" + 0.008*"large" + 0.008*"constitutional" + 0.007*"important" + 0.005*"system" + 0.005*"social" + 0.005*"particular" + 0.005*"legal"')
+
+(8, '0.008*"reason" + 0.008*"rule" + 0.007*"people" + 0.005*"agreement" + 0.005*"order" + 0.005*"american" + 0.005*"agency" + 0.004*"problem" + 0.004*"legal" + 0.004*"incompletely"')
+
+(9, '0.008*"right" + 0.007*"case" + 0.007*"jstor" + 0.006*"social" + 0.006*"sometimes" + 0.006*"system" + 0.005*"particular" + 0.005*"question" + 0.005*"people" + 0.005*"analogy"')
+==========================================
+1996
+
+(0, '0.009*"interest" + 0.008*"norm" + 0.008*"court" + 0.007*"whether" + 0.007*"issue" + 0.007*"state" + 0.007*"question" + 0.007*"consider" + 0.007*"certain" + 0.006*"social"')
+
+(1, '0.015*"people" + 0.010*"right" + 0.009*"social" + 0.008*"case" + 0.008*"might" + 0.007*"change" + 0.007*"norm" + 0.006*"issue" + 0.006*"autonomy" + 0.006*"large"')
+
+(2, '0.017*"health" + 0.009*"tradition" + 0.008*"social" + 0.006*"regulation" + 0.006*"increase" + 0.006*"decision" + 0.006*"interest" + 0.006*"norm" + 0.006*"reading" + 0.006*"liberty"')
+
+(3, '0.011*"problem" + 0.009*"case" + 0.008*"state" + 0.008*"statute" + 0.007*"democratic" + 0.007*"regulatory" + 0.007*"rule" + 0.007*"important" + 0.006*"interest" + 0.006*"means"')
+
+(4, '0.012*"would" + 0.010*"statute" + 0.009*"people" + 0.009*"right" + 0.007*"understand" + 0.006*"agency" + 0.006*"physician" + 0.006*"regulation" + 0.006*"suicide" + 0.006*"review"')
+
+(5, '0.021*"court" + 0.020*"affirmative" + 0.019*"action" + 0.014*"suicide" + 0.013*"public" + 0.012*"program" + 0.009*"state" + 0.009*"would" + 0.008*"issue" + 0.008*"assist"')
+
+(6, '0.010*"social" + 0.009*"might" + 0.008*"people" + 0.006*"save" + 0.006*"life" + 0.005*"case" + 0.005*"would" + 0.005*"political" + 0.005*"great" + 0.005*"court"')
+
+(7, '0.013*"process" + 0.011*"court" + 0.010*"right" + 0.010*"benefit" + 0.010*"would" + 0.009*"analysis" + 0.008*"regulation" + 0.007*"agency" + 0.006*"constitutional" + 0.006*"could"')
+
+(8, '0.011*"would" + 0.008*"whether" + 0.008*"agency" + 0.007*"court" + 0.007*"environmental" + 0.006*"people" + 0.006*"risk" + 0.006*"public" + 0.005*"government" + 0.005*"decision"')
+
+(9, '0.013*"social" + 0.013*"people" + 0.008*"might" + 0.008*"action" + 0.007*"court" + 0.007*"discrimination" + 0.006*"affirmative" + 0.006*"effects" + 0.005*"right" + 0.005*"program"')
+==========================================
+1997
+
+(0, '0.014*"people" + 0.009*"risk" + 0.008*"question" + 0.007*"alternative" + 0.007*"reason" + 0.006*"judgment" + 0.006*"voluntarily" + 0.006*"answer" + 0.006*"certain" + 0.006*"example"')
+
+(1, '0.012*"judgment" + 0.009*"risk" + 0.007*"people" + 0.007*"right" + 0.006*"produce" + 0.005*"answer" + 0.005*"child" + 0.005*"circumstances" + 0.005*"pollution" + 0.005*"question"')
+
+(2, '0.021*"damages" + 0.019*"punitive" + 0.017*"judgment" + 0.015*"dollar" + 0.012*"scale" + 0.012*"defendant" + 0.010*"would" + 0.009*"case" + 0.008*"system" + 0.007*"award"')
+
+(3, '0.014*"court" + 0.012*"right" + 0.010*"people" + 0.009*"suicide" + 0.009*"assist" + 0.008*"decision" + 0.008*"judgment" + 0.008*"physician" + 0.007*"state" + 0.006*"might"')
+
+(4, '0.013*"court" + 0.008*"legal" + 0.007*"people" + 0.007*"member" + 0.007*"referendum" + 0.005*"factor" + 0.005*"opinion" + 0.005*"special" + 0.005*"tversky" + 0.005*"executive"')
+
+(5, '0.008*"would" + 0.008*"right" + 0.005*"woman" + 0.005*"plaintiff" + 0.005*"political" + 0.005*"mental" + 0.005*"product" + 0.005*"decision" + 0.004*"account" + 0.004*"court"')
+
+(6, '0.018*"people" + 0.017*"damages" + 0.015*"punitive" + 0.012*"risk" + 0.010*"award" + 0.008*"player" + 0.007*"would" + 0.006*"example" + 0.006*"costs" + 0.006*"offer"')
+
+(7, '0.015*"choice" + 0.012*"people" + 0.011*"often" + 0.008*"thaler" + 0.008*"preference" + 0.008*"rational" + 0.006*"social" + 0.006*"problem" + 0.006*"richard" + 0.006*"discussion"')
+
+(8, '0.016*"right" + 0.011*"court" + 0.008*"process" + 0.007*"might" + 0.006*"state" + 0.006*"case" + 0.006*"physician" + 0.005*"interest" + 0.005*"agreement" + 0.005*"incompletely"')
+
+(9, '0.009*"people" + 0.009*"health" + 0.008*"effects" + 0.008*"court" + 0.007*"would" + 0.007*"important" + 0.006*"might" + 0.006*"information" + 0.006*"economic" + 0.006*"punitive"')
+==========================================
+1998
+
+(0, '0.021*"president" + 0.008*"authority" + 0.007*"charge" + 0.006*"public" + 0.006*"might" + 0.005*"clinton" + 0.005*"impeachment" + 0.004*"decision" + 0.004*"evidence" + 0.004*"nixon"')
+
+(1, '0.010*"outcome" + 0.008*"would" + 0.008*"counsel" + 0.007*"economics" + 0.006*"approach" + 0.006*"decision" + 0.006*"problem" + 0.006*"power" + 0.006*"independent" + 0.005*"model"')
+
+(2, '0.013*"justice" + 0.012*"would" + 0.010*"scalia" + 0.009*"award" + 0.008*"dollar" + 0.007*"scenario" + 0.007*"estimate" + 0.007*"punishment" + 0.006*"principle" + 0.006*"official"')
+
+(3, '0.009*"punitive" + 0.008*"award" + 0.008*"intent" + 0.007*"dollar" + 0.006*"expect" + 0.005*"standard" + 0.005*"crime" + 0.005*"behavioral" + 0.004*"scenario" + 0.004*"rating"')
+
+(4, '0.009*"people" + 0.006*"would" + 0.006*"government" + 0.005*"problem" + 0.005*"behavior" + 0.005*"costs" + 0.005*"actual" + 0.005*"tobacco" + 0.004*"criminal" + 0.004*"focus"')
+
+(5, '0.009*"program" + 0.008*"standard" + 0.008*"understanding" + 0.007*"agency" + 0.007*"common" + 0.005*"would" + 0.005*"original" + 0.005*"court" + 0.005*"article" + 0.005*"think"')
+
+(6, '0.008*"might" + 0.008*"justice" + 0.008*"scalia" + 0.007*"scenario" + 0.006*"power" + 0.006*"common" + 0.005*"practice" + 0.005*"important" + 0.005*"stimulus" + 0.005*"assign"')
+
+(7, '0.024*"life" + 0.016*"save" + 0.015*"information" + 0.014*"program" + 0.011*"number" + 0.010*"allocation" + 0.008*"would" + 0.007*"student" + 0.007*"million" + 0.007*"people"')
+
+(8, '0.017*"decision" + 0.010*"order" + 0.010*"second" + 0.010*"might" + 0.009*"people" + 0.007*"would" + 0.007*"first" + 0.006*"problem" + 0.005*"strategy" + 0.005*"general"')
+
+(9, '0.020*"impeachment" + 0.010*"case" + 0.009*"office" + 0.008*"clause" + 0.007*"violation" + 0.007*"might" + 0.007*"practice" + 0.006*"constitution" + 0.006*"criminal" + 0.006*"offense"')
+==========================================
+1999
+
+(0, '0.012*"formalism" + 0.009*"whether" + 0.008*"might" + 0.006*"question" + 0.006*"congress" + 0.005*"information" + 0.005*"would" + 0.005*"approach" + 0.005*"standard" + 0.005*"claim"')
+
+(1, '0.010*"limit" + 0.007*"state" + 0.006*"speed" + 0.006*"standard" + 0.005*"government" + 0.005*"standing" + 0.005*"change" + 0.004*"argument" + 0.004*"people" + 0.004*"supra"')
+
+(2, '0.014*"people" + 0.008*"analysis" + 0.006*"benefit" + 0.006*"involve" + 0.006*"relevant" + 0.005*"perhaps" + 0.004*"lawyer" + 0.004*"point" + 0.004*"study" + 0.004*"costs"')
+
+(3, '0.014*"group" + 0.009*"regulation" + 0.009*"would" + 0.008*"people" + 0.007*"problem" + 0.006*"court" + 0.006*"information" + 0.006*"interest" + 0.005*"animal" + 0.005*"justice"')
+
+(4, '0.008*"standing" + 0.008*"montana" + 0.008*"would" + 0.007*"supra" + 0.006*"injury" + 0.006*"highway" + 0.005*"patrol" + 0.005*"court" + 0.004*"people" + 0.004*"protect"')
+
+(5, '0.014*"would" + 0.009*"information" + 0.006*"professor" + 0.006*"president" + 0.005*"people" + 0.005*"could" + 0.004*"cascades" + 0.004*"impeachment" + 0.004*"accompany" + 0.004*"question"')
+
+(6, '0.014*"people" + 0.010*"question" + 0.008*"costs" + 0.008*"decision" + 0.006*"judgment" + 0.006*"shift" + 0.005*"supra" + 0.005*"others" + 0.005*"involve" + 0.005*"policy"')
+
+(7, '0.010*"would" + 0.008*"agency" + 0.007*"award" + 0.006*"decision" + 0.005*"canon" + 0.005*"jury" + 0.005*"benefit" + 0.005*"case" + 0.005*"nondelegation" + 0.005*"judgment"')
+
+(8, '0.014*"group" + 0.007*"people" + 0.006*"would" + 0.005*"polarization" + 0.005*"question" + 0.005*"deliberation" + 0.004*"example" + 0.004*"political" + 0.004*"court" + 0.004*"independent"')
+
+(9, '0.009*"would" + 0.009*"programming" + 0.008*"might" + 0.008*"market" + 0.008*"public" + 0.007*"provide" + 0.007*"people" + 0.006*"interest" + 0.006*"information" + 0.005*"benefit"')
+==========================================
+2000
+
+(0, '0.014*"people" + 0.010*"enclave" + 0.009*"social" + 0.008*"group" + 0.008*"good" + 0.007*"solidarity" + 0.006*"would" + 0.006*"deliberation" + 0.005*"might" + 0.005*"point"')
+
+(1, '0.019*"award" + 0.015*"jury" + 0.014*"dollar" + 0.012*"would" + 0.012*"judgment" + 0.010*"verdict" + 0.008*"median" + 0.008*"programming" + 0.007*"scale" + 0.007*"study"')
+
+(2, '0.016*"good" + 0.009*"group" + 0.009*"sometimes" + 0.008*"value" + 0.008*"enjoy" + 0.007*"constitution" + 0.007*"state" + 0.006*"people" + 0.006*"solidarity" + 0.006*"example"')
+
+(3, '0.011*"people" + 0.010*"relative" + 0.010*"group" + 0.008*"regulation" + 0.007*"public" + 0.007*"would" + 0.006*"question" + 0.006*"position" + 0.006*"responder" + 0.005*"offer"')
+
+(4, '0.013*"would" + 0.010*"discussion" + 0.010*"group" + 0.009*"state" + 0.007*"interest" + 0.007*"might" + 0.006*"february" + 0.006*"point" + 0.005*"people" + 0.005*"right"')
+
+(5, '0.015*"right" + 0.010*"worker" + 0.007*"discrimination" + 0.007*"government" + 0.007*"people" + 0.006*"normative" + 0.006*"point" + 0.006*"issue" + 0.006*"court" + 0.005*"particular"')
+
+(6, '0.042*"group" + 0.019*"polarization" + 0.017*"member" + 0.013*"increase" + 0.010*"people" + 0.010*"individual" + 0.008*"social" + 0.007*"deliberation" + 0.007*"within" + 0.006*"direction"')
+
+(7, '0.024*"worker" + 0.014*"would" + 0.011*"employer" + 0.010*"employee" + 0.009*"might" + 0.008*"state" + 0.008*"right" + 0.007*"benefit" + 0.007*"argue" + 0.006*"question"')
+
+(8, '0.015*"would" + 0.013*"marriage" + 0.011*"people" + 0.010*"benefit" + 0.008*"might" + 0.008*"think" + 0.007*"union" + 0.006*"position" + 0.006*"concern" + 0.006*"good"')
+
+(9, '0.020*"discount" + 0.013*"agency" + 0.010*"benefit" + 0.010*"choose" + 0.009*"would" + 0.009*"chooser" + 0.009*"analysis" + 0.007*"future" + 0.007*"generation" + 0.006*"policy"')
+==========================================
+2001
+
+(0, '0.012*"problem" + 0.008*"might" + 0.007*"case" + 0.007*"sentence" + 0.007*"university" + 0.006*"supra" + 0.006*"professor" + 0.006*"translation" + 0.006*"punishment" + 0.006*"analysis"')
+
+(1, '0.014*"people" + 0.012*"punishment" + 0.010*"interest" + 0.009*"action" + 0.009*"example" + 0.007*"affect" + 0.007*"point" + 0.007*"probability" + 0.006*"sense" + 0.006*"think"')
+
+(2, '0.017*"court" + 0.016*"right" + 0.012*"would" + 0.008*"interest" + 0.007*"constitutional" + 0.007*"context" + 0.006*"perhaps" + 0.006*"employee" + 0.006*"state" + 0.006*"require"')
+
+(3, '0.023*"intelligence" + 0.023*"artificial" + 0.021*"reasoning" + 0.015*"strong" + 0.014*"april" + 0.014*"analogical" + 0.012*"engage" + 0.011*"version" + 0.010*"computer" + 0.009*"legal"')
+
+(4, '0.014*"legal" + 0.013*"people" + 0.009*"risk" + 0.007*"benefit" + 0.007*"regulation" + 0.006*"occupational" + 0.006*"exposure" + 0.006*"limit" + 0.006*"might" + 0.006*"model"')
+
+(5, '0.018*"would" + 0.018*"arsenic" + 0.017*"people" + 0.011*"benefit" + 0.011*"water" + 0.010*"probability" + 0.009*"cancer" + 0.009*"analysis" + 0.008*"system" + 0.008*"reduce"')
+
+(6, '0.016*"agency" + 0.011*"regulation" + 0.011*"standard" + 0.010*"would" + 0.009*"court" + 0.009*"legal" + 0.009*"benefit" + 0.009*"costs" + 0.007*"problem" + 0.007*"perhaps"')
+
+(7, '0.021*"people" + 0.010*"risk" + 0.007*"slovic" + 0.007*"theory" + 0.007*"legal" + 0.007*"would" + 0.006*"coherence" + 0.006*"academic" + 0.006*"expert" + 0.005*"ordinary"')
+
+(8, '0.018*"would" + 0.017*"court" + 0.009*"regulation" + 0.008*"case" + 0.008*"people" + 0.006*"health" + 0.006*"question" + 0.006*"public" + 0.005*"involve" + 0.005*"standard"')
+
+(9, '0.014*"legal" + 0.010*"default" + 0.009*"employee" + 0.009*"study" + 0.008*"could" + 0.007*"employer" + 0.007*"sunstein" + 0.007*"posner" + 0.006*"analysis" + 0.006*"right"')
+==========================================
+2002
+
+(0, '0.013*"agency" + 0.010*"state" + 0.008*"process" + 0.007*"court" + 0.007*"action" + 0.006*"might" + 0.005*"regulatory" + 0.005*"statute" + 0.005*"whether" + 0.005*"involve"')
+
+(1, '0.015*"group" + 0.014*"indignation" + 0.012*"people" + 0.010*"might" + 0.008*"right" + 0.008*"disadvantage" + 0.007*"member" + 0.006*"order" + 0.006*"animal" + 0.006*"problem"')
+
+(2, '0.011*"sunstein" + 0.009*"right" + 0.008*"posner" + 0.007*"public" + 0.007*"richard" + 0.007*"supra" + 0.006*"regulatory" + 0.005*"action" + 0.005*"court" + 0.005*"march"')
+
+(3, '0.015*"might" + 0.011*"animal" + 0.008*"question" + 0.007*"state" + 0.007*"point" + 0.007*"interpretation" + 0.007*"judicial" + 0.007*"social" + 0.007*"agency" + 0.007*"right"')
+
+(4, '0.011*"award" + 0.007*"history" + 0.007*"group" + 0.007*"legislative" + 0.007*"problem" + 0.006*"would" + 0.006*"interpretation" + 0.006*"court" + 0.006*"agency" + 0.005*"argument"')
+
+(5, '0.012*"court" + 0.009*"military" + 0.007*"regulation" + 0.007*"sunstein" + 0.006*"benefit" + 0.006*"richard" + 0.006*"analysis" + 0.005*"posner" + 0.005*"million" + 0.005*"justice"')
+
+(6, '0.008*"regulation" + 0.007*"would" + 0.007*"bentham" + 0.006*"case" + 0.006*"president" + 0.006*"context" + 0.006*"often" + 0.005*"probability" + 0.005*"benefit" + 0.005*"absurdity"')
+
+(7, '0.033*"people" + 0.014*"risk" + 0.010*"judgment" + 0.010*"group" + 0.007*"slovic" + 0.007*"likely" + 0.007*"point" + 0.006*"case" + 0.006*"heuristic" + 0.006*"large"')
+
+(8, '0.011*"would" + 0.009*"people" + 0.009*"constitutional" + 0.007*"question" + 0.006*"decision" + 0.006*"right" + 0.006*"court" + 0.005*"problem" + 0.005*"might" + 0.004*"suggest"')
+
+(9, '0.008*"people" + 0.007*"heuristic" + 0.007*"reason" + 0.007*"right" + 0.006*"others" + 0.005*"point" + 0.005*"attack" + 0.005*"involve" + 0.005*"discrimination" + 0.005*"group"')
+==========================================
+2003
+
+(0, '0.021*"people" + 0.016*"years" + 0.015*"welfare" + 0.010*"would" + 0.009*"regulation" + 0.009*"employee" + 0.009*"government" + 0.008*"benefit" + 0.008*"question" + 0.006*"analysis"')
+
+(1, '0.030*"people" + 0.015*"life" + 0.014*"years" + 0.010*"regulatory" + 0.010*"would" + 0.010*"choice" + 0.009*"might" + 0.008*"preference" + 0.007*"benefit" + 0.007*"suggest"')
+
+(2, '0.015*"years" + 0.013*"people" + 0.007*"welfare" + 0.006*"court" + 0.005*"young" + 0.005*"treat" + 0.005*"would" + 0.005*"agency" + 0.005*"analysis" + 0.004*"state"')
+
+(3, '0.014*"appointee" + 0.013*"judges" + 0.012*"area" + 0.010*"appoint" + 0.010*"panel" + 0.010*"democratic" + 0.010*"republican" + 0.010*"political" + 0.009*"president" + 0.008*"likely"')
+
+(4, '0.016*"court" + 0.010*"would" + 0.008*"right" + 0.007*"planner" + 0.007*"property" + 0.007*"decision" + 0.007*"period" + 0.007*"common" + 0.006*"state" + 0.006*"people"')
+
+(5, '0.011*"employee" + 0.011*"would" + 0.010*"marriage" + 0.009*"might" + 0.009*"portfolio" + 0.008*"right" + 0.007*"choose" + 0.007*"contract" + 0.006*"prohibition" + 0.006*"subject"')
+
+(6, '0.048*"appointee" + 0.033*"republican" + 0.030*"democratic" + 0.028*"panel" + 0.015*"case" + 0.012*"sitting" + 0.009*"party" + 0.009*"effects" + 0.008*"ideological" + 0.007*"pattern"')
+
+(7, '0.014*"court" + 0.012*"right" + 0.010*"state" + 0.009*"constitution" + 0.008*"appeal" + 0.008*"antenatal" + 0.008*"case" + 0.007*"lawrence" + 0.007*"criminal" + 0.007*"social"')
+
+(8, '0.013*"circuit" + 0.012*"death" + 0.010*"cancer" + 0.008*"moral" + 0.007*"loewenstein" + 0.007*"supra" + 0.006*"people" + 0.006*"case" + 0.006*"intuition" + 0.006*"friend"')
+
+(9, '0.016*"people" + 0.009*"heuristic" + 0.007*"moral" + 0.007*"american" + 0.006*"case" + 0.006*"company" + 0.006*"would" + 0.005*"choice" + 0.005*"rational" + 0.005*"produce"')
+==========================================
+2004
+
+(0, '0.008*"regulation" + 0.007*"university" + 0.006*"damages" + 0.006*"benefit" + 0.005*"costs" + 0.005*"reduce" + 0.005*"death" + 0.005*"case" + 0.005*"precautionary" + 0.005*"principle"')
+
+(1, '0.019*"people" + 0.012*"right" + 0.010*"risk" + 0.009*"would" + 0.007*"value" + 0.006*"question" + 0.006*"higher" + 0.006*"million" + 0.005*"group" + 0.005*"benefit"')
+
+(2, '0.013*"information" + 0.009*"president" + 0.009*"market" + 0.008*"social" + 0.006*"group" + 0.006*"congress" + 0.005*"nation" + 0.005*"often" + 0.004*"judges" + 0.004*"likely"')
+
+(3, '0.012*"court" + 0.008*"state" + 0.008*"marriage" + 0.007*"system" + 0.007*"people" + 0.006*"black" + 0.005*"liberty" + 0.005*"worker" + 0.005*"involve" + 0.005*"process"')
+
+(4, '0.021*"right" + 0.019*"would" + 0.019*"court" + 0.017*"marriage" + 0.011*"state" + 0.010*"people" + 0.009*"marry" + 0.008*"question" + 0.007*"might" + 0.006*"institution"')
+
+(5, '0.009*"people" + 0.007*"question" + 0.007*"court" + 0.006*"state" + 0.006*"marriage" + 0.006*"global" + 0.006*"country" + 0.005*"worth" + 0.005*"unite" + 0.005*"answer"')
+
+(6, '0.012*"information" + 0.011*"market" + 0.010*"group" + 0.008*"stock" + 0.008*"might" + 0.008*"regulation" + 0.006*"risk" + 0.006*"agency" + 0.006*"company" + 0.006*"deliberation"')
+
+(7, '0.018*"stock" + 0.015*"employee" + 0.014*"company" + 0.011*"benefit" + 0.009*"employer" + 0.007*"could" + 0.006*"lawrence" + 0.006*"right" + 0.005*"claim" + 0.005*"costs"')
+
+(8, '0.015*"market" + 0.011*"sunstein" + 0.008*"debiasing" + 0.007*"court" + 0.007*"richard" + 0.006*"september" + 0.006*"legal" + 0.005*"might" + 0.005*"public" + 0.005*"douglas"')
+
+(9, '0.010*"security" + 0.008*"president" + 0.007*"stock" + 0.007*"national" + 0.007*"court" + 0.006*"company" + 0.005*"approach" + 0.005*"analysis" + 0.005*"state" + 0.004*"principle"')
+==========================================
+2005
+
+(0, '0.009*"would" + 0.008*"people" + 0.008*"paper" + 0.007*"activity" + 0.006*"agency" + 0.006*"perhaps" + 0.006*"engage" + 0.006*"relatively" + 0.006*"procedure" + 0.006*"likely"')
+
+(1, '0.014*"precautionary" + 0.013*"principle" + 0.010*"discount" + 0.008*"risk" + 0.007*"regulation" + 0.007*"supra" + 0.006*"benefit" + 0.006*"problem" + 0.006*"warming" + 0.005*"global"')
+
+(2, '0.020*"sunstein" + 0.011*"market" + 0.011*"posner" + 0.011*"march" + 0.011*"richard" + 0.009*"april" + 0.009*"douglas" + 0.008*"sykes" + 0.007*"picker" + 0.007*"randal"')
+
+(3, '0.014*"right" + 0.011*"people" + 0.010*"breyer" + 0.009*"court" + 0.008*"question" + 0.007*"chevron" + 0.007*"agency" + 0.006*"interpretation" + 0.006*"government" + 0.005*"decision"')
+
+(4, '0.011*"principle" + 0.010*"richard" + 0.009*"august" + 0.008*"economic" + 0.008*"posner" + 0.008*"precautionary" + 0.007*"sunstein" + 0.007*"interpretation" + 0.006*"william" + 0.006*"land"')
+
+(5, '0.013*"people" + 0.009*"would" + 0.008*"might" + 0.008*"approach" + 0.007*"point" + 0.007*"breyer" + 0.007*"punishment" + 0.006*"change" + 0.006*"heuristic" + 0.006*"capital"')
+
+(6, '0.032*"discount" + 0.021*"risk" + 0.012*"might" + 0.012*"money" + 0.010*"environmental" + 0.010*"harm" + 0.009*"health" + 0.008*"appropriate" + 0.008*"future" + 0.008*"people"')
+
+(7, '0.015*"court" + 0.013*"agency" + 0.012*"punishment" + 0.011*"capital" + 0.011*"question" + 0.009*"would" + 0.009*"chevron" + 0.008*"death" + 0.007*"murder" + 0.007*"decision"')
+
+(8, '0.008*"borrowing" + 0.008*"people" + 0.008*"availability" + 0.007*"heuristic" + 0.007*"often" + 0.007*"question" + 0.007*"group" + 0.007*"court" + 0.006*"would" + 0.006*"might"')
+
+(9, '0.021*"would" + 0.020*"people" + 0.011*"might" + 0.009*"risk" + 0.006*"government" + 0.006*"student" + 0.005*"generation" + 0.005*"reason" + 0.005*"could" + 0.005*"ranking"')
