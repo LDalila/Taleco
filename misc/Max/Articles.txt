@@ -1,0 +1,13 @@
+> Dynamic Topic Models -> OUI, super pour analyse de certains sujets au cours du temps, mais assez maths/technique
+- Correlated Topic Modeling of Science -> Possibly ? Technical/Bayesian, for document correlation mostly
+- Topic Modeling in Embedding Spaces -> Topic modelling, same usefulness as previous
+> Text as Data (no subtitle) -> Revue de littérature, un peu général mais des choses à récupérer
+- Text as Data - Promises... -> General, broad review, a few insightful ideas at the end
+- Five reasons for... -> Networks/clusters, also useful, paper doesn't go into much detail
+
+- Ambrosino -> LDA applied to all of JSTOR, very large scale, for visualizations, as #6
+- Ash, Chen Naidu -> Simple math, applied to justice, probably not applicable to us
+- Cherrier, Saidi -> Interesting! Applying labels to characterize different people
+- Erikson, Hamilton -> IMO, stats, not NLP. Interesting use of an old corpus
+> What Drives Media Slant? Evidence From U.S. Daily Newspapers -> !! Mapping phrases to ideology. Simple methods though, more statistics than NLP
+> Truc 2020(working) Forty Years of Behavioral Economics -> Larger scale, analysis of topics, co-citations and authors in huge corpus, but shallow analysis (TF-IDF on titles), good for visualizations but not so informative

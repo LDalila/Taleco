@@ -1,0 +1,22 @@
+valider hypothèse
++ générer nouvelles hypothèses ?
+
+fréquences: plutôt supervisées, à partir d'une hypothèse
+tropes: montrer quelque chose de précis ? Diviser en deux (1986-1994 vs 1995-2005), montrer différences
+lda
+
+Parler de Posner-Becker
+
+Intro (insister sur caractère majeur de partie I)
+I) Corpus, acquisition, OCR et nettoyage, dates, nettoyage
+II) Tropes + fréq. -> Les outils du TAL au service d'une hypothèse
+III) Les outils du TAL comme source de nouvelles hypothèses (LDASeq/BERTopic)
+
+OU
+
+Intro (insister sur caractère majeur de partie I)
+I) Corpus, acquisition, OCR et nettoyage, dates, nettoyage
+II) Tropes + fréq. + LDASeq/BERTopic
+
+Mots pour Dalila:
+paternalism, republican[ism etc.], behavioral, heuristics, bias, [endowment effect], preferences, autonomy, ideology, poor, dominated

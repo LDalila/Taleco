@@ -1,0 +1,25 @@
+= 01-IECL: Multilingual topic modelling/optimal transport
+
++ 02-Multispeech-gontier: Romain Serizel, automatic captioning of audio clips
+
+(+) 03-Multispeech-serizel: Romain Serizel, effect of utterance length on effect of degradation of performance of speaker identification, speaker model
+
++ 04-TALECO: detect evolution of political thoughts of authors
+
++ 05-BenMouflek: Improve pictogram language for communication of autistic children
+
++++ 06-Synalp-Cerisara Analyze activity of NetHack bot
+
++(+) 07-synalp-Lamiroy-texte-image: Captioning/commenting on pictures (photographs, then ideally paintings)
+
++ 08-synalp-Lamiroy-bias: Broad study of bias in texts (gender, race, political)
+
+++ 09-orpailleur: Analogies (A -> B = C -> ?) in morphology, semantics... Detecting (binary classif) and solving (regression), inflection, transfer (language -> other)
+
++ 10-synalp-lamirel: extract legal information from unstructured texts
+
+11-Sémagramme-Pogodalla: lexical structures (rain: heavy, not big)
+
+12-Sémagramme-amblard: multi-lingual semantic annotation bank, start adding French to the bank: create/adapt pipeline, start annotating, complex semantic representation
+
+Choose by Friday 1 pm

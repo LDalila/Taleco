@@ -1,0 +1,4 @@
+pdf-extract extract sections FILE   https://gitlab.com/crossref/pdfextract Seems promising, needs fiddling
+CERMINE                             http://cermine.ceon.pl/cermine/index.html Try locally, seems excellent
+pdfminer.six pdf2txt.py FILE -A --outfile B                     https://pdfminersix.readthedocs.io/en/latest/tutorial/commandline.html ok, try using layout information
+LA-PDFText java -cp lapdftext/target/lapdftext-1.8.0-SNAPSHOT-jar-with-dependencies.jar edu.isi.bmkeg.lapdf.bin.Blockify I  https://github.com/SciKnowEngine/lapdftext  https://bmkeg.github.io/lapdftext/02runningCommands.html seems excellent, great chunk splitting

@@ -1,0 +1,18 @@
+Analyse descriptive: nb de fois "paternalisme" au cours du temps, proportions, indicateurs de fréquence
+Graphes: mots attracteurs (mots liés à d'autres en colocation)
+Mots qui sont devenus beaucoup plus/moins présents
+TF-IDF ! (aussi pour P-B)
+Grouper par plusieurs années ou nombre de caractères constant ?
+LDA -> DTM
+Réseaux sémantiques
+Train embeddings on corpus?
+NER (références)
+Envoyer fichier
+
+23 mars
+-------
+Essayer avec + de mots, grouper mots
+Sliding window (1 mois par an)?
+Envoyer tous les fichiers + graphiques (excel)
+Déposer fichiers Omar sur Teams
+7 avril à 16h
